@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "passed 38-0 with Floor Amendments (2) and (3) and  Floor Amendment (4-title)",
+    "date": "2025-03-12T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB136"
+}

@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "3rd reading, passed 63-18 with Committee Substitute (1),  Floor Amendment (7) and  Floor Amendment (8-title)",
+    "date": "2025-03-11T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB18"
+}

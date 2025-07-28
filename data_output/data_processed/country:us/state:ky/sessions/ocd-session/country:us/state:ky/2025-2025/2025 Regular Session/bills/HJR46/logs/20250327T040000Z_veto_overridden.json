@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "veto overridden",
+    "date": "2025-03-27T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "veto-override-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HJR46"
+}

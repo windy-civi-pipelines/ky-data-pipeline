@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "3rd reading, passed 96-1 with Floor Amendment (1)",
+    "date": "2025-02-27T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB306"
+}

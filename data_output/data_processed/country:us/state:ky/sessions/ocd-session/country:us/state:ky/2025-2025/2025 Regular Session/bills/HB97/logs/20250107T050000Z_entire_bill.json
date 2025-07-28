@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB97",
+  "title": "AN ACT relating to sex crimes.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Corrections Impact",
+    "Crimes and Punishments",
+    "Criminal Procedure",
+    "Local Mandate"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create a new section of KRS Chapter 510 to establish the offense of traveling into the Commonwealth to commit a sexual offense; provide that no person shall be convicted of this offense and any offense specified in KRS 506.010, 506.030, 506.040, or 506.080 for a single course of conduct; provide that this section is intended to be a separate offense and shall be punished in addition to violations of sex crimes; provide that traveling into the Commonwealth to commit a sexual offense shall be punished at the same felony classification level as the underlying offense."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-01-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-01-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "to Judiciary (H)",
+      "date": "2025-02-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb97/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/note/25RS/hb97/LM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb97.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "399"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "scraped_at": "2025-07-28T17:56:20+00:00",
+  "_id": "2b16f99e-6bdc-11f0-a1c2-9e82f50858ea"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "passed over and retained in the Orders of the Day",
+    "date": "2025-03-11T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB4"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "House concurred in Senate Floor Amendments (2) and (3) and  Floor Amendment (4-title)",
+    "date": "2025-03-13T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB136"
+}

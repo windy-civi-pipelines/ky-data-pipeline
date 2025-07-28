@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Floor amendment (1-title) filed to bill, Floor amendment (2) filed to Committee Substitute",
+    "date": "2025-02-05T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB57"
+}

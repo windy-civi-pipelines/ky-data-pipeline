@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "floor amendments (2) and (4) filed to Committee Substitute , floor amendment (3-title) filed to bill",
+    "date": "2025-03-04T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB241"
+}

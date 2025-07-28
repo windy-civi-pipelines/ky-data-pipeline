@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "passed 38-0 with Committee Substitute (1) and  Committee Amendment (1-title)",
+    "date": "2025-03-12T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB30"
+}

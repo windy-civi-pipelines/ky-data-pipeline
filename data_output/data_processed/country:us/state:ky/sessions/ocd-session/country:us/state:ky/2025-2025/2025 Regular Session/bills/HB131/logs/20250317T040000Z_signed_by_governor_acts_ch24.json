@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "signed by Governor (Acts Ch.24)",
+    "date": "2025-03-17T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB131"
+}

@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "3rd reading, passed 98-0 with Committee Substitute (1) and  Committee Amendment (1-title)",
+    "date": "2025-03-11T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB15"
+}

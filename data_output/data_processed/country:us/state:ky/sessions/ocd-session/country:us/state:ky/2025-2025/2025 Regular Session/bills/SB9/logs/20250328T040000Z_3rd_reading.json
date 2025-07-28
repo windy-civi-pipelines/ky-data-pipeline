@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "3rd reading",
+    "date": "2025-03-28T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB9"
+}

@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "3rd reading, passed 59-28 with Floor Amendment (3) and  Floor Amendment (2-title)",
+    "date": "2025-03-14T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB61"
+}

@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "3rd reading, passed 31-6 with Floor Amendment (1) and  Floor Amendment (2-title)",
+    "date": "2025-03-14T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB392"
+}

@@ -1,0 +1,46 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB225",
+  "title": "Withdrawn.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "02/20/25: WITHDRAWN",
+      "date": "2025-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb225.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "101"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "scraped_at": "2025-07-28T17:56:31+00:00",
+  "_id": "31939462-6bdc-11f0-a1c2-9e82f50858ea"
+}
