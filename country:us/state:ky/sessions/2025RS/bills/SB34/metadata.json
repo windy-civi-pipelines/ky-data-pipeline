@@ -1,0 +1,97 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "SB34",
+  "title": "AN ACT relating to tax credits for support provided to victims of domestic violence.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Domestic Relations",
+    "Landlord and Tenant",
+    "Taxation",
+    "Taxation, Income--Corporate",
+    "Taxation, Income--Individual"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create a new section of KRS Chapter 141 to establish an income tax credit for qualified contributions made to a domestic violence shelter or rape crisis center in this state; amend KRS 141.019 and 141.039 to disallow the deduction for charitable contributions if the income tax credit is claimed; create new sections of KRS Chapter 141 to establish an income tax credit for a taxpayer that rents a residential unit to a protected tenant and allow an income tax credit for the conversion of condemned property into a domestic violence shelter; amend KRS 141.0205 to order the credits; and amend KRS 131.190 to allow the Department of Revenue to report on the credits."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2025-01-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2025-01-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Appropriations & Revenue (S)",
+      "date": "2025-02-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/sb34/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/sb34.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "963"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:27Z"
+  }
+}

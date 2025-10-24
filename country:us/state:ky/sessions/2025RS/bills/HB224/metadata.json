@@ -1,0 +1,96 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB224",
+  "title": "AN ACT relating to employment.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Labor and Industry",
+    "Local Government",
+    "State Employees",
+    "Workforce"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 336.130 to delete references restricting rights of public employees to organize, associate collectively, or strike; amend KRS 336.180 to redefine \"labor organization\" and delete definitions of \"candidate,\" \"committee,\" \"contributing organization,\" \"contribution,\" \"election,\" \"electioneering communications,\" \"employer,\" \"fundraiser,\" \"independent expenditure,\" \"political activities,\" \"public employee,\" \"slate of candidates,\" and \"testimonial affair\"; amend KRS 336.990 to conform; amend KRS 67A.6904 to allow urban-county governments to make an agreement with a labor organization to require membership in the organization as a condition of employment; amend KRS 67C.406 to allow consolidated local governments to make an agreement with a labor organization to require membership in the organization as a condition of employment; amend KRS 70.262, 78.470, and 78.480 to remove exceptions; amend KRS 345.050 to allow public employers to make an agreement with a labor organization to require membership in the organization as a condition of employment; amend KRS 336.1341 and 336.135 to conform; repeal KRS 65.016, 336.132, and 336.134."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-02-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-02-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to State Government (H)",
+      "date": "2025-02-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb224/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb224.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "97"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:27Z"
+  }
+}

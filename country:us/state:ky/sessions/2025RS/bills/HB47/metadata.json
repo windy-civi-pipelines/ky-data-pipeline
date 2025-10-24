@@ -1,0 +1,112 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB47",
+  "title": "AN ACT relating to sexual extortion.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Corrections Impact",
+    "Crimes and Punishments",
+    "Education, Elementary and Secondary",
+    "Education, Higher",
+    "Education, Vocational",
+    "Local Mandate",
+    "State Agencies",
+    "Universities and Colleges"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create a new section of KRS Chapter 531 to establish the crime of sexual extortion as a felony; provide for enhancements to penalties; create a new section of KRS Chapter 411 to establish a civil cause of action for sexual extortion; amend KRS 17.500 to include sexual extortion in the definition of \"sex crime\"; create new sections of KRS Chapter 158 to require superintendents of local school districts to notify students in grades six and above and parents and guardians of all students of the crime of sexual extortion; require local school boards to display posters with the definition of sexual extortion and contact information for entities offering assistance to victims in secondary schools; amend KRS 164.2518 to require postsecondary institutions to display posters with the definition of sexual extortion and contact information for entities offering assistance to victims in residential facilities and buildings containing instructional spaces, student services, and academic support services."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-01-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-01-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Judiciary (H)",
+      "date": "2025-02-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb47/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/note/25RS/hb47/LM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb47.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "8"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:27Z"
+  }
+}

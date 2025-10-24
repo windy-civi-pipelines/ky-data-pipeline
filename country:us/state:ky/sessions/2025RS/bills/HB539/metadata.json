@@ -1,0 +1,105 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB539",
+  "title": "AN ACT relating to coverage for substance use disorder.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Actuarial Analysis",
+    "Alcoholism",
+    "Education, Higher",
+    "Effective Dates, Delayed",
+    "Health Benefit Plan Mandate",
+    "Health and Medical Services",
+    "Insurance, Health",
+    "Local Mandate",
+    "Opioids",
+    "Short Titles and Popular Names",
+    "State Employee Health Plan Mandate",
+    "State Employees",
+    "Substance Abuse"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create a new section of Subtitle 17A of KRS Chapter 304 to define terms; require certain health plans to provide coverage for comprehensive supervised substance use disorder treatment; amend KRS 304.17C-125, 18A.225, and 164.2871 to require limited health services benefit plans, the state employee health plan, and self-insured employer group plans provided by the governing board of a state postsecondary education institution to comply with the coverage requirement; provide that Section 1 of the Act may be cited as Braxton's Law; provide that various sections apply to health plans issued or renewed on or after January 1, 2026; EFFECTIVE January 1, 2026."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-02-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-02-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Banking & Insurance (H)",
+      "date": "2025-02-21T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb539/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb539.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1358"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:27Z"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "SB32",
+  "title": "AN ACT relating to veterans.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Administrative Regulations and Proceedings",
+    "Advisory Boards, Commissions, and Committees",
+    "Boards and Commissions",
+    "Economic Development",
+    "Education, Higher",
+    "Education, Vocational",
+    "Health and Medical Services",
+    "Hospitals and Nursing Homes",
+    "Housing, Building, and Construction",
+    "Labor and Industry",
+    "Licensing",
+    "Loans and Credit",
+    "Mental Health",
+    "Military Affairs and Civil Defense",
+    "Nurses",
+    "Occupations and Professions",
+    "Public Health",
+    "Reports Mandated",
+    "Substance Abuse",
+    "Universities and Colleges",
+    "Veterans",
+    "Workforce"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 154.12-330 to give preference to veterans in the issuance of small business loans; create a new section of KRS Chapter 151B to require monthly veteran workforce reports; create new sections of Subchapter 12 of KRS Chapter 154 to require annual job training reports by the Kentucky Commission on Military Affairs; require a report on occupational licenses by the Kentucky Commission on Military Affairs; create a new section of KRS Chapter 311 to require the Kentucky Board of Medical Licensure to review licensing practices for nurses and physicians assistants for military reciprocity through promulgation of administrative regulations; create new sections of KRS Chapter 164 to grant college credit to certain veterans; provide additional flexibility in college scheduling and registration to veterans; amend KRS 40.317 to expand the Kentucky Department of Veterans' Affairs' assistance to veterans in navigating healthcare; create new sections of KRS Chapter 40 to direct the Kentucky Department of Veterans' Affairs to increase access to healthcare for veterans; ensure veterans have access to mental health care; direct the Kentucky Department of Veterans' Affairs to end veteran homelessness."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2025-01-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2025-01-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Veterans, Military Affairs, & Public Protection (S)",
+      "date": "2025-01-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/sb32/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/sb32.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "958"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:27Z"
+  }
+}

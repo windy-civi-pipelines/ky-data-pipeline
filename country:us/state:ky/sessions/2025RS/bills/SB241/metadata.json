@@ -1,0 +1,88 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "SB241",
+  "title": "AN ACT relating to autonomous vehicles.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education, Elementary and Secondary",
+    "Insurance, Motor Vehicle",
+    "Local Government",
+    "Motor Carriers",
+    "Motor Vehicles",
+    "Technology",
+    "Traffic Safety",
+    "Transportation"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 186.763 to extend the requirement for a human driver on a fully autonomous commercial vehicle in excess of 62,000 pounds from July 31, 2026 to July 31, 2031; prohibit school districts from using fully autonomous vehicles as school buses or to transport students; amend KRS 186.779 to allow units of local government to impose conditions on autonomous vehicle operation within their jurisdictions; amend KRS 186.766 and 281.655 to increase all insurance minimum requirement amounts from $1 million to $5 million for both personal and commercial vehicles."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2025-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2025-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/sb241/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/sb241.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "930"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:27Z"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "SB160",
+  "title": "AN ACT relating to the Kentucky Emergency Volunteer Corps.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Aeronautics and Aviation",
+    "Cities",
+    "Counties",
+    "Disasters",
+    "Local Government",
+    "Military Affairs and Civil Defense",
+    "Public Safety",
+    "Safety"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 37.170 to create the Kentucky Emergency Volunteer Corps (KEV Corps) within the Kentucky State Defense Force; create a new section of KRS Chapter 37 to detail KEV Corps eligibility, supervision, training requirements, uniform details, and prohibitions and to create the KEV Corps fund; amend KRS 39B.030 to permit the local emergency management director to use the KEV Corps during a local disaster or emergency; amend KRS 39B.050 to include the KEV Corps as a part of the local disaster and emergency services organization; amend KRS 39B.070 to permit each city, urban-county government, or charter county government the use of the KEV Corps."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2025-02-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:25Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2025-02-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:25Z"
+      }
+    },
+    {
+      "description": "to Appropriations & Revenue (S)",
+      "date": "2025-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:25Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/sb160/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/note/25RS/sb160/LM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/sb160.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "170"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:25Z"
+  }
+}

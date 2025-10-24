@@ -1,0 +1,120 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB633",
+  "title": "AN ACT relating to mental health coverage in connection with pregnancy.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Actuarial Analysis",
+    "Children and Minors",
+    "Education, Higher",
+    "Effective Dates, Delayed",
+    "Health Benefit Plan Mandate",
+    "Health and Medical Services",
+    "Insurance, Health",
+    "Local Mandate",
+    "Medicaid",
+    "Mental Health",
+    "Public Medical Assistance",
+    "Reproductive Issues",
+    "State Agencies",
+    "State Employee Health Plan Mandate",
+    "State Employees",
+    "Women"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create a new section of Subtitle 17A of KRS Chapter 304 to define terms; require health benefit plans to provide coverage for counseling interventions for pregnant and postpartum persons at increased risk of perinatal depression, including persons who have suffered a miscarriage or stillbirth; suspend the coverage requirement's application to qualified health plans if the state would be required to make cost defrayal payments; amend KRS 205.522, 205.6485, 18A.225, and 164.2871  to require Medicaid, the Kentucky Children's Health Insurance Program, self-insured employer plans provided by the governing board of a state postsecondary education institution, and the state employee health plan to comply with the coverage requirement for counseling interventions; provide that certain provisions apply to health benefit plans issued or renewed on or after January 1, 2026; require the Cabinet for Health and Family Services to seek federal approval, if necessary, and comply with notice requirements; EFFECTIVE, in part, January 1, 2026."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Banking & Insurance (H)",
+      "date": "2025-02-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb633/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/note/25RS/hb633/LM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb633.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1807"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:27Z"
+  }
+}

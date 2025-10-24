@@ -1,0 +1,97 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB523",
+  "title": "AN ACT relating to unborn children.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Corrections Impact",
+    "Crimes and Punishments",
+    "Health and Medical Services",
+    "Reproductive Issues",
+    "Short Titles and Popular Names"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create new sections of KRS Chapter 507, relating to criminal homicide, to allow a prosecution where the victim is an unborn child; provide exceptions for spontaneous miscarriages and lawful medical procedures; amend KRS 507.010 to define terms; create new sections of KRS Chapter 508, relating to assault, to define terms; allow a prosecution where the victim is an unborn child; provide exceptions for spontaneous miscarriages and lawful medical procedures; amend KRS 501.090 to allow the defense of duress in a prosecution of intentional homicide where the victim is an unborn child and the defendant is the child's mother; create a new section of KRS Chapter 15 to give the Attorney General concurrent jurisdiction with Commonwealth's and county attorneys; repeal KRS 507A.010, 507A.020, 507A.030, 507A.040, 507A.050, and 507A.060, relating to fetal homicide; amend KRS 311.732, 402.205, and 439.265 to conform; provide that the Act may be cited as the Prenatal Equal Protection Act."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-02-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-02-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Judiciary (H)",
+      "date": "2025-02-21T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb523/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb523.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1373"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:27Z"
+  }
+}

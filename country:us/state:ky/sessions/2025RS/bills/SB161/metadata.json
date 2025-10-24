@@ -1,0 +1,114 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "SB161",
+  "title": "AN ACT relating to earned wage access services.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Administrative Regulations and Proceedings",
+    "Banks and Financial Institutions",
+    "Corrections Impact",
+    "Crimes and Punishments",
+    "Licensing",
+    "Loans and Credit",
+    "Local Mandate",
+    "Short Titles and Popular Names",
+    "State Agencies",
+    "Wages and Hours"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Establish Subtitle 13 of KRS Chapter 286, the Kentucky Financial Services Code, and create new sections to regulate earned wage access services; define terms; establish exemptions from the subtitle; establish licensing requirements for certain earned wage access services providers; establish requirements for change of control of a licensee; provide circumstances under which the commissioner of the Department of Financial Institutions is authorized to take adverse action, enter emergency orders, deny a license, or take other regulatory actions; authorize licensees and other persons aggrieved by a final decision of the commissioner to request an administrative hearing; establish trade practice requirements for earned wage access services providers; require licensees to maintain an agent in this state for service of process; require an annual report by licensees; require the commissioner to make and publish an analysis and recapitulation of the annual reports submitted by licensees; establish recordkeeping requirements for licensees; provide that certain information is confidential and not subject to disclosure; authorize the commissioner to promulgate administrative regulations for the proper conduct of business under the subtitle and to conduct examinations and investigations; prohibit a licensee from being subject to liability for an act or omission made in conformity with a notice, opinion, or interpretation issued by the commissioner; establish civil and criminal penalties; provide that a contract made in violation of the subtitle is void; amend KRS 286.4-410, 286.11-007, and 371.150 to conform; authorize certain earned wage access providers to continue to act without a license during initial implementation; provide that Sections 1 to 26 may be cited as the Kentucky Earned Wage Access Services Act."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2025-02-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2025-02-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Banking & Insurance (S)",
+      "date": "2025-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/sb161/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/note/25RS/sb161/LM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/sb161.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1770"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:27Z"
+  }
+}

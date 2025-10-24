@@ -1,0 +1,116 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "SB194",
+  "title": "AN ACT relating to property theft.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Attorney General",
+    "Attorney, Commonwealth's",
+    "Attorney, County",
+    "Corrections Impact",
+    "County Clerks",
+    "Crimes and Punishments",
+    "Criminal Procedure",
+    "Deeds and Conveyances",
+    "Fiscal Note",
+    "Local Mandate",
+    "Property",
+    "Sheriffs"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 514.020 to include alteration, falsification, forgery, or misrepresentation of any instrument involving the conveyance or financing or real property as prima facie evidence of intent to commit theft by unlawful taking; amend KRS 514.030 to establish the penalty for theft of immovable property or real property; amend KRS 15.113 to direct the Attorney General to create notices and publications designed to inform and educate the public regarding the risks posed by deed fraud; amend KRS 15.231 to establish concurrent jurisdiction of the Attorney General with Commonwealth's attorneys and county attorneys for the prosecution of theft of unlawful taking involving real property; amend KRS 134.119 to require the sheriff of each county to include the publication prepared by the Attorney General in every notice to a taxpayer relating to the collection of property taxes; create a new section of KRS Chapter 67 to require each county clerk to establish a property owner notification service to notify owners of real property who register for the service when a document is recorded under the name of the property owner or the address of the property owner; establish that a county clerk shall not be liable for failure to provide notice."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2025-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:25Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2025-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:25Z"
+      }
+    },
+    {
+      "description": "to Judiciary (S)",
+      "date": "2025-02-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:25Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/sb194/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/note/25RS/sb194/LM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/sb194.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1829"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:25Z"
+  }
+}

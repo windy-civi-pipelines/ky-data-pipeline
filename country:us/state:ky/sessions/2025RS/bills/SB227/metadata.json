@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "SB227",
+  "title": "AN ACT relating to highway work zones.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Administrative Regulations and Proceedings",
+    "Highways, Streets, and Bridges",
+    "Motor Vehicles",
+    "Reports Mandated",
+    "Safety",
+    "Sunset Legislation",
+    "Traffic Safety",
+    "Transportation"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create new sections of KRS Chapter 189 to define \"automated speed enforcement device,\" \"owner,\" \"program,\" and \"recorded images\"; direct the Transportation Cabinet to establish a pilot program for automated speed enforcement in highway work zones and issue a civil citation to an operator of a motor vehicle traveling more than 10 miles per hour over the posted speed limit when a bona fide worker is present; establish procedures for citation issuance; direct the Transportation Cabinet to install signage and to promulgate administrative regulations to implement the program; establish civil fines for violations issued under the program; specify that all fines and penalties assessed be deposited into the automated speed enforcement fund; require the Transportation Cabinet to annually report to the Legislative Research Commission the status of the program; establish the automated speed enforcement fund; specify that moneys collected be used to defray the costs of administering the program; specify that any moneys collected in excess of program costs be deposited into the highway work zone safety fund and used for the purposes of that fund; provide that effective July 1, 2029."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2025-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2025-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Transportation (S)",
+      "date": "2025-02-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/sb227/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/sb227.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "954"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:26Z"
+  }
+}

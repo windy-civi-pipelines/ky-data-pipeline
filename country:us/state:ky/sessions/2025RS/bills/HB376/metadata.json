@@ -1,0 +1,104 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB376",
+  "title": "AN ACT relating to state financial practices.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Administrative Regulations and Proceedings",
+    "Banks and Financial Institutions",
+    "Budget and Financial Administration",
+    "Fiduciaries",
+    "Retirement and Pensions",
+    "Securities",
+    "Short Titles and Popular Names",
+    "State Agencies",
+    "Taxation",
+    "Technical Corrections",
+    "Technology",
+    "Treasurer"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 42.500 to authorize the State Investment Commission to make investments in certain digital assets and bullion; define terms; establish requirements for investments; prohibit investments in central bank digital currency; make technical corrections; amend KRS 42.525 to specify administrative regulation authority of commission regarding investment powers and requirements; create a new section of KRS Chapter 42 to authorize state retirement funds and state deferred compensation fund participants to invest in exchange traded products; amend KRS 45.345 to authorize state agencies to accept digital assets and bullion as a method of payment; prohibit acceptance of central bank digital currency as a method of payment; create a new section of KRS Chapter 131 to establish authorized payment methods for any tax bill issued by the Department of Revenue; require the Department of Revenue to accept digital assets and bullion as a method of payment; amend KRS 41.070 to require the State Treasurer to transfer certain digital asset deposits to the budget reserve trust fund; require the State Treasurer to convert receipts of other digital assets to United States currency; prohibit the State Treasurer from accepting central bank digital currency or converting receipts to central bank digital currency; amend KRS 48.705, 16.642, 18A.255, 21.550, 61.650, 78.790, and 161.430 to conform; provide that the Act may be cited as the Inflation Protection Act of 2025."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-02-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:25Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-02-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:25Z"
+      }
+    },
+    {
+      "description": "to Banking & Insurance (H)",
+      "date": "2025-02-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:25Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb376/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb376.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1321"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:25Z"
+  }
+}

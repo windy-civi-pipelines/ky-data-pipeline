@@ -1,0 +1,114 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "SB118",
+  "title": "AN ACT relating to crimes and punishments.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Children and Minors",
+    "Corrections Impact",
+    "Courts",
+    "Crimes and Punishments",
+    "Criminal Procedure",
+    "Local Mandate",
+    "Parental Rights",
+    "Public Safety",
+    "Reports Mandated",
+    "Short Titles and Popular Names"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create new sections of KRS Chapter 533 to define terms; require the court, upon conviction of the defendant, to consider the defendant's status as a primary caretaker of a dependent child unless the defendant is a violent offender, the victim is a child, or a statute prohibits an alternative sentence; require the court, upon a finding that the defendant is a primary caretaker of a dependent child, to consider an alternative sentence; provide that the defendant shall have the right to present an alternative sentencing plan and a family impact statement to the court; provide that in issuing an alternative sentence, the court may require the defendant to participate in programs and services that support the parent-child relationship; provide that the court may modify or revoke the alternative sentence and commit the defendant to an institution if the defendant fails to adhere to or complete the conditions of an alternative sentence; require the Administrative Office of the Court to report annually, beginning in 2026, to the Kentucky State Corrections Commission and to the Legislative Research Commission on the number, percentage, and demographics of parents and children impacted under this Act; provide that the Act may be cited as the Primary Caretaker Consideration Act."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2025-02-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2025-02-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Judiciary (S)",
+      "date": "2025-02-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/sb118/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/note/25RS/sb118/LM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/sb118.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1529"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:26Z"
+  }
+}

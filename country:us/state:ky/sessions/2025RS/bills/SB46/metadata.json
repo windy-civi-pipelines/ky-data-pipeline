@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "SB46",
+  "title": "AN ACT relating to protective orders.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Budget and Financial Administration",
+    "Civil Actions",
+    "Civil Procedure",
+    "Courts",
+    "Crime Victims",
+    "Domestic Relations"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 403.730, relating to petitions for orders of protection, to allow for service in accordance with Rule 4.05 of the Kentucky Rules of Civil Procedure in addition to personal service; amend KRS 403.745, relating to the effective date of protective orders, to allow for service in accordance with Rule 4.05 of the Kentucky Rules of Civil Procedure in addition to personal service; amend KRS 453.060 to direct that attorney's fees for a warning order attorney shall be paid by the Finance and Administration Cabinet; amend KRS 456.040, relating to petitions for interpersonal protective orders, to allow for service in accordance with Rule 4.05 of the Kentucky Rules of Civil Procedure in addition to personal service; amend KRS 456.070, relating to the effective date of interpersonal protective orders, to allow for service in accordance with Rule 4.05 of the Kentucky Rules of Civil Procedure in addition to personal service."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2025-01-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2025-01-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Judiciary (S)",
+      "date": "2025-01-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/sb46/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/sb46.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "210"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:27Z"
+  }
+}

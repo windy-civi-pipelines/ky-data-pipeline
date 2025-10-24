@@ -1,0 +1,95 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB460",
+  "title": "AN ACT relating to preschool and kindergarten education.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Children and Minors",
+    "Education, Elementary and Secondary",
+    "Education, Finance"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 157.3175 to require school districts provide a full-day preschool education program for eligible three and four-year-olds; establish eligibility for the program; require that preschool for three year old children continue to be funded through a grant process and preschool programs for four-year-old children be funded under KRS 157.310 to 157.440; require preschool programs to operate on the school district calendar; require transportation be provided; amend KRS 158.031 to include preschool education programs for four-year-old children in the primary school program; amend KRS 157.320 to remove the definition of \"kindergarten full-time equivalent pupil in average daily attendance\"; amend KRS 157.360 to remove a reference to the kindergarten full-time equivalent; amend KRS 158.030 to include a preschool education program for four-year-old children in the definition of \"common school\"; remove language allowing kindergarten to operate for less than six hours on a school day; amend KRS 158.060 and 160.1596 to conform."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-02-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:25Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-02-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:25Z"
+      }
+    },
+    {
+      "description": "to Primary and Secondary Education (H)",
+      "date": "2025-02-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:25Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb460/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb460.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1450"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:25Z"
+  }
+}

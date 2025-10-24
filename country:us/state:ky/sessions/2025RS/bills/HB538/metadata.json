@@ -1,0 +1,115 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB538",
+  "title": "AN ACT relating to consolidated local governments.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Audits and Auditors",
+    "Cities",
+    "Consolidated Local Governments",
+    "Effective Dates, Delayed",
+    "Ethics",
+    "Local Government",
+    "Local Mandate",
+    "Public Ethics",
+    "Public Officers and Employees",
+    "Redistricting",
+    "Special Districts"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 67C.111 to decrease the size requirement to establish a new city in a county containing a consolidated local government from 6,000 persons to 3,000 persons; amend KRS 65.003, relating to local ethics, to specify the composition of the commission in a consolidated local government; amend KRS 67C.103 to place controls on council district formation and redistricting and to require regulations issued by local health boards and local solid waste management boards operating under KRS Chapter 109 or 212 that apply to individuals residing or businesses operating within the jurisdiction of the consolidated local government to be approved by the consolidated local government council or otherwise expire after 30 days; create a new section of KRS Chapter 67C to require an office of internal audit to be created and be headed by a chief audit executive who is elected; outline the transition of presently serving ethics commission members; outline transition from the current chief audit executive to the elected position; EFFECTIVE, in part, November 1, 2027."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-02-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-02-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Local Government (H)",
+      "date": "2025-02-21T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb538/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/note/25RS/hb538/LM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb538.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1345"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:26Z"
+  }
+}

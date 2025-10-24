@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "03/27/25: WITHDRAWN",
+    "date": "2025-03-27",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "withdrawal"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SR230"
+}

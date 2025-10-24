@@ -1,0 +1,116 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB124",
+  "title": "AN ACT relating to firearms and declaring an emergency.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Administrative Regulations and Proceedings",
+    "Corrections Impact",
+    "Crimes and Punishments",
+    "Criminal Procedure",
+    "Effective Dates, Delayed",
+    "Effective Dates, Emergency",
+    "Firearms and Weapons",
+    "Local Government",
+    "Local Mandate",
+    "Police, State",
+    "Public Safety",
+    "State Agencies"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create new sections of KRS Chapter 237 to define \"assault weapon,\" \"large capacity ammunition feeding device,\" and \"seller of ammunition\"; require background checks for private firearms sales; require reporting to law enforcement of firearm and ammunition thefts and losses; require the safe storage of firearms; require the Department of Kentucky State Police to promulgate administrative regulations relating to the licensing of persons to possess handguns and assault weapons, the registration of handguns and assault weapons, and the logging of firearms and ammunition sales effective January 1, 2026; amend KRS 237.990 to establish penalties; create a new section of KRS Chapter 527 to create the offense of criminal purchase or disposal of a weapon; amend KRS 395.250 to require an estate's inventory to list each firearm; amend KRS 403.735 to require judges, when issuing an order of protection, to consider whether a person against whom the order is entered should be prohibited from possessing an firearm; amend KRS 504.030 to require judges in criminal cases where a person is found not guilty by reason of insanity to demand the surrender of the defendant's firearms; amend KRS 506.080 to add that the offense of facilitation includes assistance in providing firearms; amend KRS 508.020 to include physical injury to a minor by virtue of the intentional discharge of a firearm within the offense of assault in the second degree; amend KRS 527.040 to require that the sentence for a felon in possession of a firearm be served consecutively to any other felony sentence; amend KRS 527.070 to include postsecondary education facilities within the existing ban on firearms in schools; amend KRS 532.030 to require the judge pronouncing a defendant guilty but mentally ill to demand the surrender of the person's firearms; amend KRS 65.1591, 237.104, 237.115, and 532.025 to conform; repeal KRS 65.870, relating to the prohibition of local firearm control ordinances; EFFECTIVE, in part, January 1, 2026; EMERGENCY."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-01-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-01-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Judiciary (H)",
+      "date": "2025-02-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb124/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/note/25RS/hb124/LM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb124.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "467"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:27Z"
+  }
+}

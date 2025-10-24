@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB326",
+  "title": "AN ACT relating to utility disconnection protections.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Charitable Organizations and Institutions",
+    "Energy",
+    "Fuel",
+    "Physicians and Practitioners",
+    "Public Assistance",
+    "Public Health",
+    "Public Utilities",
+    "State Agencies"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create a new section of KRS Chapter 278 to create winter and summer temperature standards for disconnection of service by retail electric and gas utilities; allow resumption of disconnection only after a 72-hour period during which the temperature standard is exceeded; establish a certificate of need for persons who are at risk if utility service is disconnected that can be provided by a physician, physician assistant, community-based service organization, or faith-based service organization; prohibit disconnection of service on holidays and weekends, including Friday, and before 8 a.m. and after 5 p.m. Monday through Thursday; allow for reconnection of service for partial payment with a payment plan; require waiver of termination fees, reconnection fees, and late fees for customers having obtained a certificate of need; require utility to make reasonable effort towards reestablishing service for a customer terminated after having obtained a certificate of need but no more than 24 hours after repayment is commenced; require separate, written notice 14 days prior to a disconnection to residential household; require that notice be distinguishable from the regular billing notices; establish font size and typeset for material to be printed on the notice; require a hardship reconnection order for persons at risk who have had service terminated by the utility after meeting specific repayment requirements; require the Public Service  Commission to promulgate administrative regulations and issue an order setting forth any applicable rules and procedures."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-02-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-02-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Natural Resources & Energy (H)",
+      "date": "2025-02-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb326/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb326.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "234"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:26Z"
+  }
+}

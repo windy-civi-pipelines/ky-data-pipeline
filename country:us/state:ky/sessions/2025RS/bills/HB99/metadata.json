@@ -1,0 +1,112 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB99",
+  "title": "AN ACT relating to sex crimes.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Attorney, Commonwealth's",
+    "Attorney, County",
+    "Attorneys",
+    "Corrections Impact",
+    "Crimes and Punishments",
+    "Local Mandate",
+    "Prosecutors",
+    "Public Advocate"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 510.060, relating to rape in the third degree, to prohibit a person from engaging in sexual intercourse with another person who is incarcerated by the Department of Corrections, Department of Juvenile Justice, or a detention facility; to prohibit a Commonwealth's attorney, assistant Commonwealth's attorney, county attorney, or assistant county attorney from engaging in sexual intercourse with another person who the attorney is prosecuting unless a prior sexual relationship exists; to prohibit an attorney for a criminal defendant from engaging in sexual intercourse with the criminal defendant unless a prior sexual relationship exists; amend KRS 510.090, relating to sodomy in the third degree, to prohibit a person from engaging in deviate sexual intercourse with another person who is incarcerated by the Department of Corrections, Department of Juvenile Justice, or a detention facility; to prohibit a Commonwealth's attorney, assistant Commonwealth's attorney, county attorney, or assistant county attorney from engaging in deviate sexual intercourse with another person who the attorney is prosecuting unless a prior sexual relationship exists; to prohibit an attorney for a criminal defendant from engaging in deviate sexual intercourse with the criminal defendant unless a prior sexual relationship exists; amend KRS 510.120, relating to sexual abuse in the second degree, to prohibit a person from subjecting another person who is incarcerated by the Department of Corrections, Department of Juvenile Justice, or a detention facility to sexual contact; to prohibit a Commonwealth's attorney, assistant Commonwealth's attorney, county attorney, or assistant county attorney from subjecting another person who the attorney is prosecuting to sexual contact, unless a prior sexual relationship exists; to prohibit an attorney for a criminal defendant from subjecting the criminal defendant to sexual contact, unless a prior sexual relationship exists."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-01-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-01-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Judiciary (H)",
+      "date": "2025-02-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb99/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/note/25RS/hb99/LM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb99.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "398"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:27Z"
+  }
+}

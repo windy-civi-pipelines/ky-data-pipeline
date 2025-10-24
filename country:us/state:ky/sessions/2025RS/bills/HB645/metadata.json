@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB645",
+  "title": "AN ACT relating to earned income access transactions.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Administrative Regulations and Proceedings",
+    "Banks and Financial Institutions",
+    "Licensing",
+    "Loans and Credit",
+    "Short Titles and Popular Names",
+    "Wages and Hours"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Establish Subtitle 13 of KRS Chapter 286, the Kentucky Financial Services Code, and create new sections thereof to regulate earned income access transactions; define terms; establish licensing requirements for certain earned income access providers; establish requirements for the change of control of a licensee; establish records requirements for licensees; require annual and other reports by licensees; permit the commissioner of the Department of Financial Institutions to conduct examinations and investigations of licensees and other persons; establish trade practice requirements for licensees; require the commissioner to establish a database for use by the department and licensees and establish requirements relating to the use of the database; require the nonrenewal, revocation, or suspension of licenses if certain conditions are met; authorize the commissioner to promulgate administrative regulations and to levy civil penalties for certain conduct; provide that certain transactions are void; amend KRS 286.4-410 and 371.150 to conform; provide that Sections 1 to 11 of this Act may be cited as the Kentucky Earned Wage Access Act; provide that the Act applies to earned income access transactions offered or provided on or after January 1, 2026."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Banking & Insurance (H)",
+      "date": "2025-02-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb645/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb645.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "406"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:26Z"
+  }
+}

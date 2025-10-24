@@ -1,0 +1,97 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB571",
+  "title": "AN ACT relating to medicinal cannabis.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Cannabis",
+    "Diseases",
+    "Drugs and Medicines",
+    "Health and Medical Services",
+    "Physicians and Practitioners"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 218B.010 to add additional qualifying medical conditions for the use of medicinal cannabis; amend KRS 218B.025 to exempt medicinal cannabis resulting from at-home cultivation activities from possession limits and from the requirement that medicinal cannabis be kept in the original container received from a dispensary; amend KRS 218B.030 to conform; amend KRS 218B.035 to permit the use or consumption of medicinal cannabis by smoking while located on private property owned by the cardholder; amend KRS 218B.080 to conform; amend KRS 218B.140 to remove the requirement that raw plant packaged or sold in the state be marked or labeled as \"not intended for consumption by smoking\"; create a new section of KRS Chapter 218B to permit registered qualified patients who are at least 18 years of age and designated caregivers to possess, cultivate, and harvest up to three mature medicinal cannabis plants and three seedlings on private property owned by the cardholder."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-02-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:25Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-02-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:25Z"
+      }
+    },
+    {
+      "description": "to Health Services (H)",
+      "date": "2025-02-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:25Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb571/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb571.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1303"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:25Z"
+  }
+}

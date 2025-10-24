@@ -1,0 +1,97 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB634",
+  "title": "AN ACT relating to the selection and oversight of Article V convention commissioners.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Constitution, U.S.",
+    "Federal Laws and Regulations",
+    "General Assembly",
+    "Secretary of State",
+    "United States"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create new sections of KRS Chapter 6 providing for the selection and oversight of Article V commissioners if an Article V Convention is called and the Commonwealth is a participant; define terms; require the General Assembly to pass a commissioning resolution naming five commissioners to represent the Commonwealth in the convention; include in the resolution the commission, limitations, and allow the General Assembly to provide additional instructions; direct requirements for the commissioners; require the commissioners to execute an oath and the oath be filed with the Secretary of State; provide that a commissioner may be recalled or removed at any time for any reason by a joint resolution of the General Assembly, or if the General Assembly is not in session, recalled or suspended by the advisory committee; provide that a commissioner vacancy shall be filled by the advisory committee's selection of an interim commissioner until such time as a vote by the General Assembly shall select a permanent replacement; provide for commissioner allowances, compensation, and gift limitations; provide the duties and responsibilities of the delegation; provide quorum requirements and votes required for a decision of the delegation; establish an advisory committee; provide for membership and administration of the advisory committee; permit a commissioner to consult with the advisory committee the impact of prospective actions; require the advisory committee to respond to requests for advice by a commissioner; require the advisory committee to notify the Speaker of the House of Representatives and the President of the Senate if it has reason to believe that a commissioner has exceeded the scope of his or her authority; require the advisory committee to notify the Speaker of the House of Representatives and the President of the Senate if it recalls or suspends a commissioner."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Elections, Const. Amendments & Intergovernmental Affairs (H)",
+      "date": "2025-02-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb634/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb634.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1199"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:26Z"
+  }
+}

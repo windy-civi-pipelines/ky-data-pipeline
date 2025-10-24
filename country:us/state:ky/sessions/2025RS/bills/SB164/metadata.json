@@ -1,0 +1,114 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "SB164",
+  "title": "AN ACT relating to government personnel policies and declaring an emergency.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Attorney General",
+    "Boards and Commissions",
+    "Contracts",
+    "Effective Dates, Emergency",
+    "Local Government",
+    "Local Mandate",
+    "Personnel and Employment",
+    "Public Officers and Employees",
+    "State Agencies",
+    "State Employees"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create new sections of KRS Chapter 61 to prohibit a state or local government or public agency from providing preferential treatment to individuals or entities on the basis of religion, race, sex, color, or national origin when they contract or seek employment with the state or local government; define terms; prohibit a state or local government from requiring or incentivizing a person to attend a diversity, equity, and inclusion training or provide any differential treatment or benefits to an individual based on the individual's participation in diversity, equity, and inclusion training; prohibit a public agency from providing resources or funds to establish or maintain diversity, equity, and inclusion offices, trainings, or related initiatives; allow an exemption to provide preferential consideration for businesses owned by individuals who are residents of Kentucky or the United States; allow the Attorney General to bring civil action to enforce provisions of this Act; allow a qualified individual to bring a civil action for injunctive relief and to recover attorney's fees and litigation costs if a state or local government or public agency is found to have violated this Act; waive immunity under certain conditions; prevent an employee or agent of a public agency or a state or local government from using their authority to influence, discourage, interfere, or retaliate against a person who in good faith participates in a civil action in accordance with this Act; amend KRS 12.020 to rename the \"Office of Diversity, Equality, and Training\" to \"Office of Employee Training\"; amend KRS 18A.025 to deline the responsibilities of the Office of Employee Training; EMERGENCY."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2025-02-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2025-02-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to State & Local Government (S)",
+      "date": "2025-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/sb164/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/note/25RS/sb164/LM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/sb164.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1275"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:26Z"
+  }
+}

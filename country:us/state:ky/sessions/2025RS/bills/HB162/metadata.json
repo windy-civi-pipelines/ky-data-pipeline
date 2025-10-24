@@ -1,0 +1,106 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB162",
+  "title": "AN ACT relating to independent school districts.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Boards and Commissions",
+    "Bonds, Public",
+    "Cities",
+    "County Clerks",
+    "Education, Elementary and Secondary",
+    "Education, Finance",
+    "Education, Vocational",
+    "Elections and Voting",
+    "Local Mandate",
+    "Property",
+    "Public Buildings and Grounds",
+    "Redistricting",
+    "State Agencies",
+    "Taxation"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create new sections of KRS Chapter 160 to establish a process for the creation of new independent school districts; define terms; establish a petition process for voters of a qualifying city to place the question of creating a new independent district and local board of education on the ballot; specify the requirements for the question and the board of education provisional election; establish the initial terms of office for the interim board of education; establish the transition of authorities from the originating district board of education to the boards of both the altered originating district and the new independent district; require the Kentucky Department of Education to calculate assets and liabilities of the originating district for division to the altered originating district and the new independent district; authorize the altered originating district to maintain control and use of assets until the scheduled transfer to the new independent district and authorize the continued payments of debts; establish a negotiation process between the altered originating district and the new independent district to resolve the division of the originating district's assets and liabilities; establish a deadline for the negotiation to conclude; provide a process for resolution of disagreements; establish a deadline for the transfer of all assets and debts; authorize the altered originating district to continue to assess and collect taxes for both districts until the close of the tax year in which the new independent district is fully operational; provide for the distribution of collected taxes during the transition period; require the mayor of the city to call the newly elected interim board of new independent district to meet; allow the interim board to request assistance from the Kentucky Department of Education; establish the transition process for the new independent district to become fully functional; allow the interim board to submit a waiver request for a statute or administrative regulation to the Kentucky Board of Education; authorize the interim board to enter into service contracts with another school district during the transition; establish a process for the interim board to vote to terminate the establishment of the new independent district due to financial nonviability during the transition; establish the transition from an interim board to a fully functional board of the new independent district; require the continued collection of taxes restricted to the payment of debt or interest; waive the requirement for school-based decision making for the first year of operations of the new independent district; require the interim board of the new independent district to develop a transition plan and establish the requirements of the plan; create a new section of KRS Chapter 157, relating to state formula funding calculations, to establish a projection model for the first year of full operations of the new independent district and the altered originating district."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-01-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-01-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Primary and Secondary Education (H)",
+      "date": "2025-02-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb162/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb162.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "464"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:26Z"
+  }
+}

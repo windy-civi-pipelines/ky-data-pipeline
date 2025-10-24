@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB608",
+  "title": "AN ACT relating to property fees.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Administrative Regulations and Proceedings",
+    "Alcoholic Beverages",
+    "Arbitration",
+    "Counties",
+    "Distilled Spirits",
+    "Environment and Conservation",
+    "Fees",
+    "Financial Responsibility",
+    "Fire Prevention",
+    "Firefighters and Fire Departments",
+    "Local Government",
+    "Pollution",
+    "Public Safety",
+    "Special Districts",
+    "Special Purpose Governmental Entities",
+    "State Agencies"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create a new section of KRS Chapter 75 to define \"premises\"; allow a fire protection district or subdistrict, or a volunteer fire department district, to assess a fee against a premises for the costs of maintaining necessary fire protection measures; establish billing and appeals process; set reporting requirements; create a new section of KRS Chapter 75A to define \"premises\"; allow a consolidated emergency services district board to assess a fee against a premises for the costs of maintaining necessary fire protection measures; establish billing and  appeals process; set reporting requirements; create a new section of KRS Chapter 244 to define terms; establish a process for distilled spirits aging facilities to reimburse nearby property owners for cleaning expenses relating to whiskey fungus; require the Department of Alcoholic Beverage Control to promulgate administrative regulations to administer the program; include any affected property within a three mile radius of aging facilities; determine cleaning expenses based on costs incurred by the property owner and verify through an independent entity; direct the department to determine the cleaning expenses in the absence of an agreement; impose fines on distilled spirits licensees who disregard the reimbursement process; pay all cleaning expense reimbursements from moneys in the distilled spirits environmental fund; create a new section of KRS Chapter 138 to define terms; require distilled spirits barrel aging facilities to pay to the Department of Revenue a $0.25 environmental fee on each barrel stored on January 1 of each year; apply all provisions of KRS Chapter 131 to the fee; create a new section of KRS Chapter 244 to establish the distilled spirits environmental fund; authorize the fund to consist of moneys received from the barrel environmental fee and cleaning expense fines; direct the Department of Alcoholic Beverage Control to administer the fund; EFFECTIVE, in part, January 1, 2026."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Local Government (H)",
+      "date": "2025-02-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb608/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb608.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1137"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:27Z"
+  }
+}

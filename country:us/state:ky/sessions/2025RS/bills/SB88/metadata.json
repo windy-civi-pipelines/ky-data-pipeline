@@ -1,0 +1,96 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "SB88",
+  "title": "AN ACT relating to physician assistants.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Advisory Boards, Commissions, and Committees",
+    "Drugs and Medicines",
+    "Hospitals and Nursing Homes",
+    "Physicians and Practitioners"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 311.840 to define terms; amend KRS 311.842, 311.848, 311.850 311.862, 202A.011, 202C.010, 216B.175, and 600.020  to change references to \"supervising physician\" to \"collaborating physician\" to conform; amend KRS 311.858 to list the services a physician assistant may provide, and require a physician assistant to consult and collaborate with or refer a patient to an appropriate licensed physician as indicated by the patient's condition and the standard of care; create a new section of KRS Chapter 311 to establish requirements for a collaboration agreement between a collaborating physician and a physician assistant; amend KRS 218A.202 to conform; repeal KRS 311.854, 311.856, and 311.860, relating to supervising physicians."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2025-02-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2025-02-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Licensing & Occupations (S)",
+      "date": "2025-02-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/sb88/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/sb88.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1314"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:27Z"
+  }
+}

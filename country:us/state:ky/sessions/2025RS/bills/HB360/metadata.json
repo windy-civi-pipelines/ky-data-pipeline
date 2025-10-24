@@ -1,0 +1,111 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB360",
+  "title": "AN ACT relating to peace officers.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Actuarial Analysis",
+    "Civil Actions",
+    "Fairs",
+    "Local Mandate",
+    "Peace Officers and Law Enforcement",
+    "Public Safety",
+    "State Agencies"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 15.391, relating to revocation of peace officer certification, to establish requirements for the revocation of a peace officer's certification when the peace officer has been accused of professional malfeasance or professional nonfeasance; establish that a peace officer has a right to be present during any proceeding relating to revocation; require proceedings to proceed within 90 days; require the Kentucky Law Enforcement Council to find that an employing agency has complied with a peace officers rights under KRS 15.520, 67C.321, 67C.323, 67C.325, and 67C.326, or any applicable collective bargaining agreement; require that any proceeding relating to revocation be complete within 180 days; create a new section of KRS Chapter 411 to establish a cause of action for a peace officer who is the subject of a knowingly false report; amend KRS 413.155 to establish that an action against a person who filed a false report to the Kentucky Law Enforcement Council shall be filed with three years after the cause of action accrued; amend KRS 15.420, relating to the Kentucky Law Enforcement Foundation Program Fund, to include in the definition of \"police officer\" a Kentucky State Fair Board special police officer."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-02-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-02-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Veterans, Military Affairs, & Public Protection (H)",
+      "date": "2025-02-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb360/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/note/25RS/hb360/LM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb360.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1455"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:26Z"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "3rd reading, adopted 85-12 with Committee Substitute (1)",
+    "date": "2025-03-04T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HCR22"
+}

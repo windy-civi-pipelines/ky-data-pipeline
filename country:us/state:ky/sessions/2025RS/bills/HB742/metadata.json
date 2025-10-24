@@ -1,0 +1,103 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB742",
+  "title": "AN ACT relating to fantasy contests.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Administrative Regulations and Proceedings",
+    "Amusements and Recreation",
+    "Corrections Impact",
+    "Effective Dates, Delayed",
+    "Gambling",
+    "Horses and Horse Racing",
+    "Licensing",
+    "Racing",
+    "Short Titles and Popular Names",
+    "State Agencies",
+    "Taxation"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create new sections of KRS Chapter 230 to authorize the corporation to regulate the conduct of fantasy contest operators; require the use of geolocation technology; require fantasy contest operators to implement procedures to prevent fraud, abuse, and money laundering; require notification to the corporation for a confirmed breach of a sport's governing body's internal rules and codes of conduct, conduct that corrupts any outcome, and confirmed illegal activities; establish licensing requirements for a fantasy contest operator; allow the corporation to promulgate administrative regulations to establish additional qualifications and requirements for licensing to preserve the integrity and security of fantasy contests; prohibit a license from being issued to a person that has been convicted of a felony, crime involving illegal gaming or gambling, or any crime involving theft or fraud; require a fantasy contest operator to conduct an independent audit; require a fantasy contest operator to be at least 18 years old; require the corporation to investigate all reasonable allegations of prohibited conduct; require each fantasy contest operator to include a statement regarding obtaining assistance with real-money gaming problems on the operator's website or mobile application; prohibit a fantasy contest operator from paying any price or award to a person who is on the self-exclusion list; create a new section of KRS Chapter 230 to establish the fantasy contest administration fund from fantasy contest taxes and fees; create a new section of KRS Chapter 138 to define \"adjusted gross fantasy contest receipts\" and impose a tax on fantasy contests; amend KRS 243.500, 525.090, 528.010, 528.070  to exempt fantasy contests; amend KRS 68.182, 91.202, 92.282, 230.215, 230.225, 230.232, 230.260 to conform; provide that the Act may be cited as the Fantasy Sports Consumer Protection Act; EFFECTIVE July 1, 2025."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Licensing, Occupations, & Administrative Regulations (H)",
+      "date": "2025-02-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb742/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb742.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1220"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:26Z"
+  }
+}

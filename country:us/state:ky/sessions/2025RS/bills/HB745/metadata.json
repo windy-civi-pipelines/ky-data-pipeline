@@ -1,0 +1,118 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB745",
+  "title": "AN ACT relating to public health and safety.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Actuarial Analysis",
+    "Diseases",
+    "Drugs and Medicines",
+    "Effective Dates, Delayed",
+    "Emergency Medical Services",
+    "Health Benefit Plan Mandate",
+    "Health and Medical Services",
+    "Hospitals and Nursing Homes",
+    "Local Mandate",
+    "Medicaid",
+    "Physicians and Practitioners",
+    "Public Health",
+    "State Agencies",
+    "State Employee Health Plan Mandate"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 214.450 to define \"autologous donation\" and \"directed donation\"; amend KRS 214.452 to require blood establishments to test for spike proteins, antibodies to the nucleocapsid protein on the SARS-CoV-2 virus, and synthetic mRNA;  provide that a person shall not be compelled to donate blood; require blood establishments to inform donors of the potential uses for donations; require blood to be sold to hospitals before any other entity; prohibit blood from sale for pharmaceutical production if there is a hospital blood shortage; amend KRS 214.454 to conform and make technical corrections; amend KRS 214.456 to permit any person to make an autologous or a directed donation of blood; prohibit restrictions on making autologous or directed donations; amend KRS 214.458 to add the mRNA status of blood and treatment or therapy received to the label of blood donated; add requirements for health facilities, health services, and health care providers to provide patient information on donated blood; amend KRS 214.464 to include additional tests that a patient is required to be notified about in an emergency transfusion; create a new section of KRS Chapter 214 to prohibit state agencies from acquiring or maintaining a list of the vaccination status of citizens; create a new section of KRS Chapter 216B to require hospitals to invest in blood transfusion prevention strategies and to establish a task force for bloodless medicine and surgery by January 1, 2026; create a new section of Subchapter 17A of KRS Chapter 304 to require all health benefit plans to cover any autologous or directed transfusion of blood; amend KRS 205.522 to require Medicaid coverage of any autologous or a directed transfusion of blood; amend KRS 18A.225 to require state health benefit plans coverage of any autologous or directed transfusion of blood; apply coverage mandates to health benefit plans issued or renewed on or after January 1, 2026; require the Department for Medicaid Services or the Cabinet for Health and Family Services to request any necessary federal approval for coverage within 90 days of the effective date of this Act; require a copy of any federal approval requested to the Legislative Research Commission;  require appropriate infrastructure to be established by health facilities, services, and providers within 90 days of the effective date of the applicable section of the Act; EFFECTIVE, in part, January 1, 2026."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Health Services (H)",
+      "date": "2025-02-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb745/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/note/25RS/hb745/LM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb745.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1414"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:27Z"
+  }
+}

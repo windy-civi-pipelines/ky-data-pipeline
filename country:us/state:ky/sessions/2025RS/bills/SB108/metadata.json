@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "SB108",
+  "title": "AN ACT relating to solar energy.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Cooperatives",
+    "Eminent Domain and Condemnation",
+    "Energy",
+    "Environment and Conservation",
+    "Land Use",
+    "Local Government",
+    "Property",
+    "Public Utilities"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create a new section of KRS Chapter 96 to define terms; prohibit any utility operating under the chapter from constructing a facility that generates electricity using solar energy if constructing the facility would result in more than one percent of the total land area of any county where the proposed construction is to be located being occupied by solar electric generating facilities; amend KRS 278.020 to prohibit the Public Service Commission from granting an application for a certificate of public convenience and necessity for a facility that uses solar energy to produce electricity if constructing the facility would result in more than one percent of the total land area of any county where the proposed construction is to be located being occupied by solar electric generating facilities; define terms; amend KRS 278.706 to require that as part of its construction certificate application to the siting board, a merchant electric generating facility owner shall certify that no portion of the proposed construction site will be located on land that was acquired through eminent domain and that the proposed site would not result in more than one percent of the total land area of any county where the proposed construction is to be located being occupied by solar electric generating facilities or any transmission facilities constructed to serve a solar electric generating facility; define terms; create a new section of KRS Chapter 416 to prohibit the construction of any facility that generates electricity using solar energy on any land that was acquired by eminent domain; amend KRS 416.570 to require that as part of the verified petition required to be filed prior to an exercise of eminent domain, a condemnor shall certify that the proposed condemnation will not violate the prohibition on constructing solar electric generating facilities and transmission facilities constructed to serve a solar electric generating facility on condemned land."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2025-02-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2025-02-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Natural Resources & Energy (S)",
+      "date": "2025-02-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/sb108/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/sb108.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1216"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:26Z"
+  }
+}

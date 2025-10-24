@@ -1,0 +1,96 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB638",
+  "title": "AN ACT relating to the Teachers' Retirement System.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Actuarial Analysis",
+    "Retirement and Pensions",
+    "State Agencies",
+    "Teachers"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 161.220 to add certain employees of WeLeadCS to the definition of \"member\"; allow the Teachers' Retirement System (TRS) to promulgate administrative regulations to facilitate payment and collection for purchased service credit, and make technical changes; amend KRS 161.230 to allow TRS to establish a title holding company for certain investments; amend KRS 161.250 to specify the deadline for a written appeal of a TRS decision is not subject to the jurisdiction of any court or appeal process; amend KRS 161.430 to allow agreements for commingled investments or real property to be made in or governed by laws outside of the Commonwealth; amend KRS 161.470 to cease interest accrual on the retirement account of members convicted of a felony related to employment after the date of conviction; amend KRS 161.585 to allow a member appealing denial of disability and the member's legal counsel to have access to all written material submitted by the medical review committee to TRS and make technical changes; amend KRS 161.600 to specify the deadline for changes to a member's retirement application is not subject to the jurisdiction of any court or appeal process; amend KRS 161.624 to add filing and other deadlines for information the member or beneficiary is responsible for obtaining; amend KRS 161.630 to specify the deadline for electing a new optional plan of payment or for a change of beneficiary shall not be subject to the jurisdiction of any court or appeal process; amend KRS 161.635 to make a technical change; amend KRS 161.636 to make a technical change; amend KRS 161.661 to clarify the deadline for filing an application for disability benefits is not subject to the jurisdiction of any court or appeal process, that failure to provide income and employment verification documentation or submission of false or fraudulent documentation will result in suspension or disqualification from disability benefits, to allow a member and the member's counsel to be entitled to all written recommendations and reports submitted by the medical review committee, and make technical changes; amend KRS 161.680 to allow determination of errors resulting in over or underpayment to be determined by the TRS board or staff; repeal KRS 161.553, relating to the funding of past statutory benefits; amend KRS 56.8605, 58.868, and 161.550 to conform."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to State Government (H)",
+      "date": "2025-02-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb638/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb638.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "802"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:26Z"
+  }
+}

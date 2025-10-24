@@ -1,0 +1,252 @@
+{
+  "identifier": "",
+  "motion_text": "PASS HB 242",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-11T15:27:03-05:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025RS",
+  "bill": "604e2a3a-b130-11f0-8741-766bd0aba60a",
+  "bill_action": null,
+  "bill_identifier": "HB242",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Berg",
+      "voter_id": "~{\"name\": \"Berg\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Givens",
+      "voter_id": "~{\"name\": \"Givens\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Neal",
+      "voter_id": "~{\"name\": \"Neal\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Thomas",
+      "voter_id": "~{\"name\": \"Thomas\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Boswell",
+      "voter_id": "~{\"name\": \"Boswell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Herron",
+      "voter_id": "~{\"name\": \"Herron\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nemes",
+      "voter_id": "~{\"name\": \"Nemes\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tichenor",
+      "voter_id": "~{\"name\": \"Tichenor\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Carpenter",
+      "voter_id": "~{\"name\": \"Carpenter\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Higdon",
+      "voter_id": "~{\"name\": \"Higdon\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nunn",
+      "voter_id": "~{\"name\": \"Nunn\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Webb",
+      "voter_id": "~{\"name\": \"Webb\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Carroll",
+      "voter_id": "~{\"name\": \"Carroll\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Howell",
+      "voter_id": "~{\"name\": \"Howell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Raque Adams",
+      "voter_id": "~{\"name\": \"Raque Adams\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "West",
+      "voter_id": "~{\"name\": \"West\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "ChambersArmstrong",
+      "voter_id": "~{\"name\": \"ChambersArmstrong\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Madon",
+      "voter_id": "~{\"name\": \"Madon\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rawlings",
+      "voter_id": "~{\"name\": \"Rawlings\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wheeler",
+      "voter_id": "~{\"name\": \"Wheeler\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Deneen",
+      "voter_id": "~{\"name\": \"Deneen\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mays Bledsoe",
+      "voter_id": "~{\"name\": \"Mays Bledsoe\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Reed",
+      "voter_id": "~{\"name\": \"Reed\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Williams",
+      "voter_id": "~{\"name\": \"Williams\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Douglas",
+      "voter_id": "~{\"name\": \"Douglas\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McDaniel",
+      "voter_id": "~{\"name\": \"McDaniel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Richardson",
+      "voter_id": "~{\"name\": \"Richardson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wilson",
+      "voter_id": "~{\"name\": \"Wilson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Elkins",
+      "voter_id": "~{\"name\": \"Elkins\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Meredith",
+      "voter_id": "~{\"name\": \"Meredith\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stivers",
+      "voter_id": "~{\"name\": \"Stivers\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wise",
+      "voter_id": "~{\"name\": \"Wise\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Funke Frommeyer",
+      "voter_id": "~{\"name\": \"Funke Frommeyer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mills",
+      "voter_id": "~{\"name\": \"Mills\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Storm",
+      "voter_id": "~{\"name\": \"Storm\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Yates",
+      "voter_id": "~{\"name\": \"Yates\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Girdler",
+      "voter_id": "~{\"name\": \"Girdler\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Smith",
+      "voter_id": "~{\"name\": \"Smith\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb242/vote_history.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

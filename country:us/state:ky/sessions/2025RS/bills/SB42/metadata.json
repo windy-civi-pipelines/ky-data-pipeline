@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "SB42",
+  "title": "AN ACT relating to music therapy.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Administrative Regulations and Proceedings",
+    "Boards and Commissions",
+    "Fees",
+    "Health and Medical Services",
+    "Licensing",
+    "Mental Health",
+    "Occupations and Professions"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create new sections of KRS Chapter 309 to define terms; establish a licensing board for professional music therapists; require three members of the board to have engaged in the practice or teaching of music therapy for at least three years; prohibit any persons not licensed by the board from holding himself or herself out as a licensed professional music therapist; authorize the board to promulgate administrative regulations; authorize the board to issue a license to practice music therapy; establish the process for license renewal, suspension, and revocation; establish fees for licensure; establish fee limitations; authorize the board to implement disciplinary actions; require a licensed professional music therapist to collaborate with a client's physician or other professional involved in the treatment of the client; require a licensed professional music therapist to collaborate with a client's mental health or substance use disorder professional involved in the treatment of the client; prohibit a licensed professional music therapist from replacing services provided by an audiologist or a speech-language pathologist; create the Kentucky Board of Licensure for Professional Music Therapists fund; establish a fine for violations; provide for initial board appointments."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2025-01-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2025-01-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Licensing & Occupations (S)",
+      "date": "2025-01-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/sb42/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/sb42.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "267"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:26Z"
+  }
+}

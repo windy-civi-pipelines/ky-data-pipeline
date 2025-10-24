@@ -1,0 +1,113 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB686",
+  "title": "AN ACT relating to the restoration of Second Amendment rights.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Attorney General",
+    "Attorney, Commonwealth's",
+    "Attorney, County",
+    "Federal Laws and Regulations",
+    "Firearms and Weapons",
+    "Local Government",
+    "Peace Officers and Law Enforcement",
+    "Police, State",
+    "Short Titles and Popular Names"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create new sections of KRS Chapter 237, relating to firearms, to define terms; provide that firearm suppressors manufactured in Kentucky shall not be subject to federal law or regulation; require firearm suppressors manufactured and sold in Kentucky to have the words \"Made in Kentucky\" clearly stamped on them; prohibit the state and local enforcement of a federal statute, order, rule, or regulation that does not exist under state law and that purports to regulate a firearm suppressor; allow citizens to report evidence of specified state and local entities' noncompliance to the Office of the Attorney General; require the Office of the Attorney General to investigate; prohibit specified entities from receiving state grant funds if found noncompliant; allow the Office of the Attorney General to file a petition for a writ of mandamus or apply for other appropriate equitable relief to compel compliance; provide that the Act applies to firearm suppressors that are manufactured on or after the effective date of the Act; provide that the Act may be cited as the Second Amendment Restoration Act."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Judiciary (H)",
+      "date": "2025-02-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb686/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/note/25RS/hb686/LM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb686.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1782"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:26Z"
+  }
+}

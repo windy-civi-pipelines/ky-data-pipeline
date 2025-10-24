@@ -1,0 +1,97 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB513",
+  "title": "AN ACT relating to children and declaring an emergency.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Children and Minors",
+    "Education, Elementary and Secondary",
+    "Effective Dates, Emergency",
+    "Health and Medical Services",
+    "Parental Rights"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 158.1415 to remove provisions related to parental rights and courses, curriculums, or programs on human sexuality, provide for a process for parents to opt out of their child receiving instruction on the subject of human sexuality; amend KRS 158.191 to remove provisions requiring a school obtain parental consent prior to providing health services or mental health services to students; remove language concerning policies to encourage or facilitate conversations between parents and students; remove language limiting Kentucky Board of Education or Department of Education policies regarding student confidential information and the use of pronouns; require a local school district to use pronouns for students that the student requests; amend KRS 158.189 to remove findings and requirements that a local board of education adopt a policy on privacy and the use of student facilities; require a school to provide an accommodation to a students who asserts to school officials that their gender is different from their biological sex that includes the use of facilities designated for the gender of which the students identify; permit alternate accommodations upon the student's request; repeal KRS 311.372, which prohibits treatments to a minor for purposes of attempting to alter the appearance or perception of the minor's sex; EMERGENCY."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-02-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-02-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Primary and Secondary Education (H)",
+      "date": "2025-02-21T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb513/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb513.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1704"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:26Z"
+  }
+}

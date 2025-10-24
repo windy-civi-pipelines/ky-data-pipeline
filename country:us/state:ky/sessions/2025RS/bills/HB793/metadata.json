@@ -1,0 +1,123 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB793",
+  "title": "AN ACT relating to reproductive health services.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Actuarial Analysis",
+    "Administrative Regulations and Proceedings",
+    "Children and Minors",
+    "Drugs and Medicines",
+    "Education, Higher",
+    "Effective Dates, Delayed",
+    "Health Benefit Plan Mandate",
+    "Health and Medical Services",
+    "Insurance, Health",
+    "Local Mandate",
+    "Medicaid",
+    "Occupations and Professions",
+    "Pharmacists",
+    "Reports Mandated",
+    "Reproductive Issues",
+    "State Agencies",
+    "State Employee Health Plan Mandate",
+    "State Employees",
+    "Women"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create a new section of KRS Chapter 211 to define terms; provide rights related to access to contraception; create private right of action; create a new section of Subtitle 17A of KRS Chapter 304 to require health benefit plans to provide coverage for contraception; amend KRS 304.17A-099 to exclude contraception from cost defrayal requirements; require health benefit plans to provide coverage for long-acting reversible contraception administered during a postpartum hospital stay; amend KRS 164.2871, 205.522, 205.6485, and 18A.225 to require self-insured employer group health plans provided by the governing board of a state postsecondary institution to its employees, Medicaid, the Kentucky Children's Health Insurance Program, and the state employee health plan to comply with the new section on contraceptive coverage; amend KRS 446.350 to provide that nothing in the new section on contraceptive coverage shall be construed to violate section; create a new section of KRS Chapter 205 to require the Cabinet for Health and Family Services to apply for a Medicaid waiver to offer family planning services to certain low-income individuals; require the cabinet to report annually; create a new section of KRS Chapter 315 to allow pharmacists to prescribe and dispense hormonal contraceptives; require the Cabinet for Health and Family Services to seek federal approval if they determine that such approval is necessary; include provisions for cost defrayal requirements; direct that provisions apply to health benefit plans issued or renewed on or after January 1, 2026; EFFECTIVE, in part, January 1, 2026."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Banking & Insurance (H)",
+      "date": "2025-02-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb793/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/note/25RS/hb793/LM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb793.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "55"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:26Z"
+  }
+}

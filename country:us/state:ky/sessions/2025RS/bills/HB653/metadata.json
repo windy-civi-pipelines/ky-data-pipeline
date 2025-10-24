@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB653",
+  "title": "AN ACT relating to education and declaring an emergency.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Boards and Commissions",
+    "Children and Minors",
+    "Education, Elementary and Secondary",
+    "Effective Dates, Emergency",
+    "Obscenity and Pornography",
+    "State Agencies",
+    "Teachers"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 158.192 to change the definition of \"harmful to minors\" and define terms; deem material, performances, events, or programs that are obscene, harmful to minors, or contain obscene imagery representing minors as educationally unsuitable and not age appropriate; require principals to remove student access to materials, programs, or events deemed educationally unsuitable or not age appropriate; modify complaint and appeals timelines; require that principal or local board of education report that a material, program, or event was educationally unsuitable and age appropriate to the educational materials review committee; provide that willful violation be a basis for employee disciplinary action; require local boards of education to adopt policies to prevent educationally unsuitable and not age appropriate material from being introduced into the school library or made accessible on school property; require the Kentucky Department of Education to provide a model policy for excluding matter that is educationally unsuitable and not age appropriate from school libraries; require the Kentucky Board of Education to establish an educational materials review committee to evaluate decisions made locally and provide recommendations to the Kentucky Board of Education on the usage of reported materials, programs, and events; EMERGENCY."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Primary and Secondary Education (H)",
+      "date": "2025-02-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb653/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb653.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1207"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:26Z"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "SB167",
+  "title": "AN ACT relating to the acquisition of agricultural land.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Agriculture",
+    "Attorney General",
+    "Escheats",
+    "Homeland Security",
+    "International Trade and Relations",
+    "Land Use",
+    "Property",
+    "Real Estate",
+    "State Agencies"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create a new section of KRS Chapter 247 to define terms; prohibit a nonresident alien, foreign business, foreign agent, trustee, or fiduciary associated with the government of any proscribed country referenced in 22 C.F.R. sec. 126.1 from the purchase, lease, or acquisition of agricultural land in Kentucky or participation in programs administered by the Department of Agriculture, Agricultural Development Board, and Kentucky Agricultural Finance Corporation; allow an existing foreign-owned business to purchase adjacent agricultural land to expand the operations of the business; exempt foreign ownership or leasing of up to 350 acres for research purposes; allow a nonresident alien, foreign business, foreign agent, trustee, or fiduciary to own, purchase, hold, or develop agricultural land for nonagricultural use provided that the development is completed within five years of acquiring the land; require that a copy of the report required under the provisions of the Agricultural Foreign Investment Disclosure Act be filed with the Department of Agriculture; require the Department of Agriculture to report evidence of noncompliance to the Office of the Attorney General; require the Office of the Attorney General to investigate the evidence; allow the Office of the Attorney General to enforce provisions; require that agricultural land found in violation be escheated to the state and be subject to judicial foreclosure; set requirements for disbursement of proceeds of the sale."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2025-02-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2025-02-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Judiciary (S)",
+      "date": "2025-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/sb167/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/sb167.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1768"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:26Z"
+  }
+}

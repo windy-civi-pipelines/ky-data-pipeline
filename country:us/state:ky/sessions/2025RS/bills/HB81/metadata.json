@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB81",
+  "title": "AN ACT relating to governmental accountability and declaring an emergency.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Administrative Regulations and Proceedings",
+    "Attorney General",
+    "Courts, Circuit",
+    "Effective Dates, Emergency",
+    "General Assembly",
+    "Governor",
+    "Licensing",
+    "Retroactive Legislation",
+    "State Agencies"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create a new section of KRS Chapter 13B to reinstate a person's credential or benefit if it was lost or denied due to noncompliance with an executive order or administrative regulation relating to pandemic restrictions; amend KRS 13A.190, 13A.310, 13A.315, 13A.330, 13A.335, and 13A.336 to grant the Attorney General authority over some aspects of the administrative regulation process; amend KRS 13B.120 to enable the Attorney General to accept, reject, or modify an agency head's changes that create a more adverse final order; amend KRS 13B.150 to direct a Circuit Court reviewing a final order to determine if the agency committed misconduct by violating appropriation restrictions placed upon the agency by the General Assembly; remove a noncompliant agency head or administrative official from office for willfully violating an appropriation restriction; prohibit a removed official from holding office for 10 years after the finding; RETROACTIVE; EMERGENCY."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-01-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-01-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Licensing, Occupations, & Administrative Regulations (H)",
+      "date": "2025-02-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb81/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb81.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1091"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:26Z"
+  }
+}

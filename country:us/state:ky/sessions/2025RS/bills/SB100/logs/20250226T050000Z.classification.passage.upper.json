@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "passed 33-3 with Committee Substitute (1),  Floor Amendment (5) and  Floor Amendment (3-title)",
+    "date": "2025-02-26T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB100"
+}

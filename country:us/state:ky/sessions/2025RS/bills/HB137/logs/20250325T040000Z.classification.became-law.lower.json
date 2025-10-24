@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "became law without Governor's Signature (Acts Ch. 79)",
+    "date": "2025-03-25T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "became-law"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB137"
+}

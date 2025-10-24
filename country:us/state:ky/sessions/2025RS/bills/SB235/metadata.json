@@ -1,0 +1,115 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "SB235",
+  "title": "AN ACT relating to crisis aversion and rights retention orders.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Attorneys",
+    "Civil Procedure",
+    "Corrections Impact",
+    "Courts, District",
+    "Crimes and Punishments",
+    "Firearms and Weapons",
+    "Local Mandate",
+    "Peace Officers and Law Enforcement",
+    "Police, State",
+    "Property",
+    "Public Safety"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Establish KRS Chapter 202D and create new sections thereof relating to crisis aversion and rights retention orders; provide limitations on interpretation of the Act; define terms; allow law enforcement officers to petition a court to issue orders when a respondent presents an immediate and present danger of causing serious physical injury to themselves or others through purchasing, possessing, or receiving a firearm; establish procedures for the filing, review, hearing, service of process, termination, or renewal of the petition and orders; provide court processes and evidentiary standards; allow entry of the orders into law enforcement systems; prescribe issuance and service procedures for additional proceedings; establish procedures for the surrender, storage, transfer, and return of firearms; establish penalties for violations; allow for recognition and enforcement of foreign orders; amend KRS 431.076 to conform."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2025-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2025-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Judiciary (S)",
+      "date": "2025-02-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/sb235/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/note/25RS/sb235/LM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/sb235.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "953"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:27Z"
+  }
+}

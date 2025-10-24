@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Floor Amendment (2) and  Floor Amendment (1-title) withdrawn",
+    "date": "2025-02-26T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB57"
+}

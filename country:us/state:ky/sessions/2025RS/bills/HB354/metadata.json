@@ -1,0 +1,96 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB354",
+  "title": "AN ACT relating to certificate of need.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Courts, Circuit",
+    "Health and Medical Services",
+    "Hospitals and Nursing Homes",
+    "State Agencies"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 216B.040 to require that the Cabinet for Health and Family Services conduct public hearings on certificate of need applications as requested by applicants for, or holders of, certificates of need and licenses; amend KRS 216B.062 to require that notice be given on the right of only applicants to request a hearing; amend KRS 216B.085 to require that only the applicant may request a public hearing within 15 days of a cabinet decision regarding an application; require that notice of the public hearing be given only to the applicant; require that only the applicant have the right to be represented by counsel at the public hearing; require that the cabinet notify only the applicant of the decision and that the decision is final unless a request for reconsideration is filed by only the applicant; amend KRS 216B.090 to permit only the applicant to request a hearing for purposes of reconsideration of the cabinet; amend KRS 216B.095 to delete notice of a cabinet decision regarding a request for a nonsubstantive review to any affected party; amend KRS 216B.115 to permit an appeal to the Franklin Circuit Court by the applicant of any final decision of the cabinet regarding an application to be made."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-02-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-02-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Health Services (H)",
+      "date": "2025-02-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb354/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb354.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "62"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:27Z"
+  }
+}

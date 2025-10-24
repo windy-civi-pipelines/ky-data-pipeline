@@ -1,0 +1,109 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "SB165",
+  "title": "AN ACT relating to education and declaring an emergency.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Attorney General",
+    "Children and Minors",
+    "Civil Actions",
+    "Civil Rights",
+    "Claims",
+    "Cooperatives",
+    "Education, Elementary and Secondary",
+    "Education, Finance",
+    "Effective Dates, Delayed",
+    "Effective Dates, Emergency",
+    "Peace Officers and Law Enforcement",
+    "Public Salaries",
+    "Race Relations",
+    "Reports Mandated",
+    "State Agencies",
+    "Teachers",
+    "Treasurer"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create new sections of KRS Chapter 158 to define terms; prohibit a school district, public school, or cooperative board from providing differential treatment or benefits on the basis of an individual's religion, race, sex, color, or national origin; prohibit the Kentucky Department of Education, a school district, a public school, or a cooperative board from expending any resources on diversity, equity, and inclusion; prohibit the department, a school district, a public school, or a cooperative board from soliciting statements on an applicant's experience with or views on religion, race, sex, color, or national origin, from providing differential treatment or benefits to an individual based on the individual's participation in diversity, equity, and inclusion training, and from disseminating or profiting from any research, work product, or material that promotes or justifies discriminatory concepts of diversity, equity, and inclusion; establish exclusions; authorize the Attorney General to bring an action for a writ of mandamus to compel the department, a school district, a public school or a cooperative board to comply; create a cause of action to permit a qualified individual to file a civil action against a the department, a school district, a cooperative board, or a public school for injunctive relief arising from a violation of this Act; permit recovery of monetary damages for a willful and intentional violation; waive sovereign, governmental, and qualified immunity; prohibit retaliation; require each public school district and cooperative board to provide the State Treasurer the name, job title, duty station, and compensation information of each employee of the school district or cooperative board each month for publication; amend KRS 161.030 to require certain certification applicants to complete an approved professional development program on Kentucky education law; amend KRS 158.4416 and 158.4414 to conform; require school districts and cooperative boards to follow designated procedures when implementing this Act including termination or transfer of certain employees; require the Kentucky Department of Education to eliminate the Division of Diversity, Equity, Inclusion and Belonging and follow designated procedures when implementing this Act including termination or transfer of certain employees; EFFECTIVE, in part, February 1, 2026; EMERGENCY."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2025-02-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2025-02-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Education (S)",
+      "date": "2025-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/sb165/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/sb165.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "356"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:26Z"
+  }
+}

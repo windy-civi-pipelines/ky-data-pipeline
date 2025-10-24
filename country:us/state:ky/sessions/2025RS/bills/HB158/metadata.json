@@ -1,0 +1,119 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB158",
+  "title": "AN ACT proposing to create a new section of the Constitution of Kentucky relating to property exempt from taxation.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Constitution, Ky.",
+    "County Clerks",
+    "Disabilities and the Disabled",
+    "Elections and Voting",
+    "Emergency Medical Services",
+    "Firefighters and Fire Departments",
+    "Local Mandate",
+    "Police, City and County",
+    "Police, State",
+    "Property",
+    "Property Valuation Administrators",
+    "Secretary of State",
+    "Taxation",
+    "Taxation, Property",
+    "Veterans"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Propose to create a new section of the Constitution of Kentucky to exempt from taxation a portion of the assessed value of real property maintained as the permanent residence of an owner who is a veteran or first responder; require an owner's disability status to meet the same disability requirements under Section 170 of the Constitution of Kentucky; allow real property maintained as the permanent residence of the surviving spouse of a veteran or first responder to receive an exemption based on the qualifiers of the veteran or first responder prior to his or her death; allow the General Assembly to set qualification requirements by law; prohibit a property from receiving more than one exemption under this new section of the Constitution of Kentucky; allow the exemption to be in addition to the exemption provided in Section 170 of the Constitution of Kentucky; provide that the exemptions supersede contrary provisions of Sections 171, 172, and 174 of the Constitution of Kentucky; apply the exemptions to property assessed on or after January 1, 2027; provide ballot language; submit to voters for ratification or rejection."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-01-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:25Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-01-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:25Z"
+      }
+    },
+    {
+      "description": "to Elections, Const. Amendments & Intergovernmental Affairs (H)",
+      "date": "2025-02-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:25Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb158/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/note/25RS/hb158/LM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb158.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "114"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:25Z"
+  }
+}

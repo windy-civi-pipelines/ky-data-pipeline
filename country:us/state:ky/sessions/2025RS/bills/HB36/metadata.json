@@ -1,0 +1,97 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB36",
+  "title": "AN ACT relating to misconduct in schools and school-sponsored activities.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Background Checks",
+    "Boards and Commissions",
+    "Education, Elementary and Secondary",
+    "State Agencies",
+    "Teachers"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create a new section of KRS Chapter 160 to prohibit a public school district or public charter school from entering into a nondisclosure agreement relating to misconduct involving a minor or student; amend KRS 160.380 to define \"abusive conduct\"; require school district applicants to disclose being the subject of any investigations or disciplinary actions in the previous 12 months relating to abusive conduct and consent to a reference check; require school districts to conduct reference checks; require nonpublic schools and public school districts to disclose any investigations or disciplinary actions related to abusive conduct of applicants; provide immunity for disclosures made about school employee conduct; require school districts to request all related information from public and nonpublic schools and the Education Professional Standards Board (ESPB); require schools and EPSB to provide the records; require requests for information to be satisfied in 10 working days; require EPSB to create and implement procedures for information requests; require all school district applicants to list all schools of previous and current employment on the application; require a school district to internally report and investigate to completion all allegations of abusive conduct; require all records relating to an allegation of abusive conduct to be retained in an employee's personnel file unless the allegation is proven false; provide that that certain requirements apply to public charter schools; amend KRS 156.160 to direct the Kentucky Board of Education to include employment standards in the voluntary certification standards for private schools; make technical corrections; amend KRS 160.151 to define \"certified nonpublic school\"; require employees of certified nonpublic schools to submit to a national and state criminal background check and a CA/N check; require certified nonpublic school personnel to have a state criminal background check every five years; prohibit a certified nonpublic school from hiring a violent or felony sex crime offender; require a certified nonpublic school to conduct reference checks on all applicants; prohibit a certified nonpublic school from entering into a nondisclosure agreement related to misconduct involving a minor or student; make technical corrections; amend KRS 156.095 to require the Kentucky Department of Education to develop a training related to sexual misconduct and inappropriate relationships for employees to undergo every five years; make technical corrections; amend KRS 161.151 to conform; require that an allegation of abusive conduct be reported pursuant to KRS 620.030; amend KRS 158.4431 and 156.492 to make conforming changes."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-01-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:25Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-01-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:25Z"
+      }
+    },
+    {
+      "description": "to Primary and Secondary Education (H)",
+      "date": "2025-02-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:25Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb36/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb36.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "20"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:25Z"
+  }
+}

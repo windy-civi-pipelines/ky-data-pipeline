@@ -1,0 +1,111 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB599",
+  "title": "AN ACT relating to wages.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Disabilities and the Disabled",
+    "Economic Development",
+    "Labor and Industry",
+    "Local Mandate",
+    "Short Titles and Popular Names",
+    "Wages and Hours",
+    "Workforce"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 337.010 to remove specified individuals from the definition of \"employee\" and to define \"worker with a disability\"; amend KRS 337.275 to require all employers to pay all employees, including workers with a disability, a  minimum wage and increase the state minimum wage over the next three years to no less than 100 percent of the municipality, county, or state minimum wage or the prevailing wage as defined in 29 C.F.R. sec. 1.2; amend KRS 337.295 to remove learners, apprentices, workers with a disability, sheltered workshop employees, and students from regulations issued by the commissioner for the Department of Workplace Standards; amend KRS 205.5605 to exclude referrals to sheltered workshop employment from the definition of \"covered services and supports\" as of July 1, 2028; amend KRS 154.22-040 to conform; provide that the Act may be cited as the Employees with Disabilities Equal Pay Act."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Economic Development & Workforce Investment (H)",
+      "date": "2025-02-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb599/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/note/25RS/hb599/LM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb599.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1754"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:26Z"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB76",
+  "title": "AN ACT relating to retirement benefits for state and county employees in hazardous positions.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Actuarial Analysis",
+    "Firefighters and Fire Departments",
+    "Peace Officers and Law Enforcement",
+    "Police, City and County",
+    "Police, State",
+    "Retirement and Pensions",
+    "State Agencies",
+    "State Employees"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create a new section of KRS 16.505 to 16.652 to change the retirement benefits for members participating in the State Police Retirement System (SPRS) or in a hazardous position in either the Kentucky Employees Retirement System (KERS) or County Employees Retirement System (CERS) who are hired after January 1, 2014, but before January 1, 2026, so that, in lieu of continued participation in the hybrid cash balance plan (Tier 3 benefits), these members receive the benefits provided to members in a hazardous position who began participating immediately prior to January 1, 2014 (Tier 2 benefits); for those eligible hazardous employees, create a presumption that service credit in a hazardous position earned after January 1, 2014, is service credit earned immediately prior to January 1, 2014; for eligible hazardous members transitioning to Tier 2, require that accumulated contributions in the hybrid cash balance plan remain in the member\u00e2\u0080\u0099s account, but any employer credit be transferred to the retirement allowance account; allow a member in a hazardous position subject to a change from Tier 3 to Tier 2 benefits to make a one-time election to opt out of the change of benefits within 30 days; establish exclusions; amend KRS 16.576, 16.577, 16.578, 16.582, 61.546, 61.552, 61.597, 61.615, 78.5512, 78.5514, 78.5524, 78.5528, and 78.616 to grant to members in a hazardous position who begin participating after January 1, 2026, or whose participation is presumed under Section1of this Act to begin immediately prior to January 1, 2014, the same benefits provided to members whose participation began immediately prior to January 1, 2014 (Tier 2 benefits), including death and disability benefits, benefit factors and service credit that includes service credit for unused sick leave, and eligibility for early retirement and service purchases; make technical corrections; amend KRS 16.583 and 78.5516 to limit the hybrid cash balance plan (Tier 3 benefits) only to members participating in SPRS or in hazardous positions in KERS or CERS who make an election to opt out of Tier 2 benefits under Section 1 of this Act or who make an election, prior to the effective date of the Act, under KRS 61.5955; amend KRS 61.5955 to provide that only a member in a nonhazardous position who began participating in KERS or CERS as a Tier 2 member may elect to receive Tier 3 benefits in the hybrid cash balance plan in lieu of Tier 2 benefits; amend KRS 16.505, 61.510, and 78.510 to amend definitions of various terms to conform and make technical changes; amend KRS 16.560, 61.575, and 78.640 to allow interest credited on the accounts of members participating in SPRS or in a hazardous position in KERS or CERS to be adjusted to conform; amend KRS 61.592 and 78.5520 to exempt only hazardous members who opt out of receiving Tier 2 benefits from eligibility for an employer payment to convert nonhazardous service to hazardous service; amend KRS 61.680 to require that a member who is eligible under Section 1 of this Act and who has nonhazardous service credit as a Tier 3 member of either KERS or CERS to have his or her nonhazardous and hazardous service consolidated to determine eligibility and benefits; amend KRS 78.545 to add Section 1 of this Act as one of the provisions that shall be administered for the CERS in the same manner as for the KERS."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-01-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-01-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to State Government (H)",
+      "date": "2025-02-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb76/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb76.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1007"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:26Z"
+  }
+}

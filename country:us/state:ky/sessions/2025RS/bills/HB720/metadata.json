@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB720",
+  "title": "AN ACT relating to disposition of property.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Banks and Financial Institutions",
+    "Fiduciaries",
+    "Short Titles and Popular Names",
+    "Taxation, Inheritance and Estate",
+    "Uniform Laws",
+    "Wills and Estates"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create new sections of KRS Chapter 394 to enact the Uniform Electronic Wills Act; define terms; establish the applicability of electronic wills; address the effect of a will electronically executed in another jurisdiction; establish requirements for executing and revoking an electronic will; address records that are not executed in compliance with the requirements for an electronic will; provide requirements for an electronic will to be self-proving; allow for certified paper copies of an electronic will; create new sections of KRS Chapter 394 to enact the Uniform Electronic Estate Planning Documents Act; define terms; establish that a non-testamentary estate planning document or a signature on a non-testamentary estate planning document may not be denied legal effect or enforceability solely because it is in electronic form; provide that an electronic record of a document satisfies a requirement for a non-testamentary estate planning document to be in writing; establish notarization, acknowledgment, and verification requirements; create new sections of KRS Chapter 386 to enact the Kentucky Qualified Dispositions in Trust Act; define terms; establish requirements for qualified affidavit; prohibit claims by creditors against property subject to a qualified disposition to a qualified trust except under limited circumstances; provide that limitations on actions by creditors do not apply to past due child support, past due maintenance to a spouse or former spouse, or a written agreement, judgment, or order of a court for division of marital property of a spouse or former spouse; limit powers and rights of transferor to those conferred by the qualified trust; establish rules for avoiding a qualified disposition to a qualified trust; address rights of trustee and beneficiary when a qualified disposition has been avoided; provide that a spendthrift provision acts as a restriction on the transferor's beneficial interest in the trust under law other than bankruptcy law; enumerate persons who may not act as a qualified trustee; allow a transferor to appoint trust advisors; provide for the appointment of a successor trustee in certain circumstances; provide that the inclusion of certain provisions in the qualified trust instrument does not deem the trust to be revocable; application to trusts and dispositions of property on or after effective date of Act; establish a new subchapter of KRS Chapter 386B and create new sections to enact the Uniform Directed Trust Act; define terms; establish that Act does not apply to powers of appointment; subject trust directors to same rules, liabilities, and fiduciary duties as trustees; enumerate powers of trust director and responsibilities of trustee in a trust under direction; provide for liability of trust director for breach of trust; time limitation for breach of trust action; require communication of information between trustees and trust directors; establish a new subchapter of KRS Chapter 386B and create new sections to enact the Uniform Trust Decanting Act; define terms; applicability of provisions; require fiduciaries to act in accordance with fiduciary duties in exercising trust decanting power; specify notice requirements prior to exercise of the decanting power; address authority to represent and bind or another person under a first-trust instrument; allow court intervention in disputes regarding the exercise of the decanting power; require an exercise of the decanting power to be made in a record signed by an authorized fiduciary; allow an authorized fiduciary with expanded distributive discretion over the principal of a first trust to exercise decanting power over the principal of the first trust; specify trust provisions and actions permissible when property is decanted to a second trust by such a fiduciary; allow an authorized fiduciary with limited distributive discretion over the principal of a first trust to exercising decanting power over the principal of the first rust; specify trust provisions and actions permissible when property is decanted to a second trust by such a fiduciary; establish rules for decanting to a special needs trust; establish rules to protect charitable trust interests; provide for limitations on decanting power through restrictions in a first-trust instrument; prohibit decanting to a second trust to increase fiduciary compensation unless beneficiaries of the second trust agree to the increase or it is approved by a court; address fiduciary compensation and liability in a second-trust instrument; provide for limitations on authority of authorized fiduciary to exercise decanting power to modify provisions relating to removal or replacement of the fiduciary; set limitations for exercise of the decanting power with respect to transfers of property affecting tax liability; specify requirements for duration of a second trust; allow authorized fiduciary to exercise decanting power regardless of whether the fiduciary could have made or would have been compelled to make a discretionary distribution under discretionary distribution standard of the first trust; provide for circumstances where decanting power is effective even if second trust does not comply in part with the provisions of the Act; provide for decanting powers to an animal trust; provide that a settlor of a first trust is deemed to be settlor of first trust; establish rules for disposition of later-discovered property; provide that obligations enforceable against first trust are enforceable to same extent against second trust; require provisions to be applied and construed so as to promote uniformity among states; conform to federal requirements related to electronic signatures and records; amend and repeal various sections of the Kentucky Revised Statutes to conform; establish short titles."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Judiciary (H)",
+      "date": "2025-02-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb720/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb720.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "987"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:26Z"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB639",
+  "title": "AN ACT relating to a property tax homestead exemption for disabled veterans.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Cities",
+    "Counties",
+    "Disabilities and the Disabled",
+    "Education, Finance",
+    "Local Government",
+    "Local Mandate",
+    "Property Valuation Administrators",
+    "Special Districts",
+    "Taxation",
+    "Taxation, Property",
+    "Veterans"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create a new section of KRS Chapter 132, relating to state and local property taxes, to establish a new homestead exemption for veterans with a service-connected disability; establish requirements for the exemption; allow the permanent residence of a veteran's surviving spouse to continue to receive the exemption; require the Department of Revenue to prescribe forms and an application process for the exemption; apply the exemption to state, county, city, and special district taxes; allow mobile homes, manufactured houses, recreational homes, and modular homes to qualify for the exemption; require title transfers on property receiving the exemption to be reported to the property valuation administrator; allow the exemption to apply to the value of the property that is assessable to the owner or proportioned to his or her interest when the property is jointly owned or owned through a stock or membership corporation; allow partial or full refunds if an overpayment occurs upon application of the exemption; apply to property assessed on or after January 1, 2026."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Appropriations & Revenue (H)",
+      "date": "2025-02-21T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb639/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/note/25RS/hb639/LM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb639.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "891"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:27Z"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HJR51",
+  "title": "A JOINT RESOLUTION directing the Department of Fish and Wildlife Resources to evaluate and report on the repair or replacement of the Great Crossing Dam and declaring an emergency.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "joint resolution"
+  ],
+  "subject": [
+    "Effective Dates, Emergency",
+    "Fish and Wildlife",
+    "Hunting and Fishing",
+    "Parks and Shrines",
+    "Reports Mandated",
+    "State Agencies",
+    "Waterways and Dams"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Direct the Department of Fish and Wildlife Resources to delay the demolition of the Great Crossing Dam in Georgetown, Kentucky, until after December 31, 2027; direct the Department of Fish and Wildlife Resources to hold periodic meetings regarding the demolition, repair, or reconstruction of the Great Crossing Dam; direct the Department of Fish and Wildlife Resources to conduct a study on the repair or reconstruction of the Great Crossing Dam; require a report to be submitted to the Scott County Fiscal Court, the Georgetown City Council, the Interim Joint Committee on Appropriations and Revenue, the Budget Review Subcommittee on Economic Development, Tourism, and Environmental Protection, and the Interim Joint Committee on Local Government by December 31, 2025; EMERGENCY."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Tourism & Outdoor Recreation (H)",
+      "date": "2025-02-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hjr51/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hjr51.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1781"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:26Z"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB748",
+  "title": "AN ACT relating to mental health parity and declaring an emergency.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Administrative Regulations and Proceedings",
+    "Attorney General",
+    "Civil Actions",
+    "Effective Dates, Emergency",
+    "Federal Laws and Regulations",
+    "General Assembly",
+    "Hospitals and Nursing Homes",
+    "Insurance, Health",
+    "Medicaid",
+    "Mental Health",
+    "Physicians and Practitioners",
+    "Reports Mandated",
+    "State Agencies"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 304.17A-661 to require that annual mental health parity reports be submitted to the Legislative Research Commission on or before June 1 of each year for referral to certain committees and be published by the insurance commissioner on the Department of Insurance's website; authorize the Attorney General to enforce the mental health parity law; establish duties, remedies, and penalties for enforcement by the Attorney General; authorize a private cause of action by any person directly injured by a violation or likely violation of the mental health parity law; establish duties, remedies, and penalties for a private right of action under the mental health parity law; establish construction clauses; authorize the Attorney General to promulgate administrative regulations for proper enforcement of mental health parity law; amend KRS 205.522 to require the Department for Medicaid Services, Medicaid managed care organizations, and the state' medical assistance program to comply with mental health parity law; require the Department for Medicaid Services or the Cabinet for Health and Family Services to obtain federal approval, if necessary, and comply with notice requirements; EMERGENCY."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Banking & Insurance (H)",
+      "date": "2025-02-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb748/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb748.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1792"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:27Z"
+  }
+}

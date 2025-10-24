@@ -1,0 +1,110 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB215",
+  "title": "AN ACT relating to local regulatory actions.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Charter County Government",
+    "Cities",
+    "Cities, First Class",
+    "Cities, Home Rule Class",
+    "Consolidated Local Governments",
+    "Contracts",
+    "Counties",
+    "Counties, Urban",
+    "County Clerks",
+    "Courts",
+    "Labor and Industry",
+    "Landlord and Tenant",
+    "Local Government",
+    "Property",
+    "Public Works",
+    "Sheriffs",
+    "Unified Local Governments",
+    "Wages and Hours"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create a new section of KRS Chapter 82 to define \"city,\" \"project labor agreement,\" and \"public construction project\"; permit a city to establish a mandatory preference for awarding public construction project contracts to unions through a negotiated project labor agreement; permit cities to negotiate wages that are higher than the state or federal minimum wage as a condition of the project labor agreement; create a new section of KRS Chapter 337 to define \"city,\" \"prevailing wage,\" \"prevailing wage rate,\" and \"public works project\"; permit  a city to enact prevailing wage ordinances; amend KRS 65.016 to grant local governments the authority to adopt and enforce ordinances that require employers in their jurisdiction to provide leave to employees and set a higher minimum wage than state and federal rates; amend KRS 383.210 and 383.215, relating to forcible entry and detainer, to allow a local government to set an alternative time period from the date of the service of the warrant and the date of the hearing to more than the minimum of three days; require the local government to notify the sheriff, the court of jurisdiction, and the administrative office of the courts of that action; and amend KRS 65.1591 to conform."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-02-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-02-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Local Government (H)",
+      "date": "2025-02-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb215/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb215.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "801"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:26Z"
+  }
+}

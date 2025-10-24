@@ -1,0 +1,96 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB584",
+  "title": "AN ACT relating to educational cooperatives.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Audits and Auditors",
+    "Crimes and Punishments",
+    "Education, Elementary and Secondary",
+    "Education, Finance"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 160.290 to provide that an interlocal cooperative board is an extension school district and all statutes and administrative regulations that apply to school districts extend to interlocal cooperative boards; amend KRS 156.070 to provide that the Kentucky Board of Education has the management and control of interlocal cooperative boards and that the board shall manage interlocal cooperative boards in the same manner and method as the board manages school districts; amend KRS 156.010 to provide that the commissioner of education is responsible for monitoring the management of interlocal cooperative boards; amend KRS 156.200 to provide that the commissioner of education shall receive and examine all KBE reports of interlocal cooperative boards and see that all financial and educational accounts are accurately and neatly kept; amend KRS 158.785 to include inefficiencies in the governance and administration of interlocal cooperative boards in the commissioner\u00e2\u0080\u0099s report on recommendations on the designation of school districts as \u00e2\u0080\u009cstate assisted\u00e2\u0080\u009d or \u00e2\u0080\u009cstate managed\u00e2\u0080\u009d; amend KRS 156.255 to define \"interlocal cooperative board\"; amend KRS 156.265 to extend school district audit requirements to include interlocal cooperative boards; amend KRS 156.275 to conform; amend KRS 156.285 to authorize the accountant to access the financial records of interlocal cooperative boards; amend KRS 156.295 to apply the misdemeanor penalty to preventing or obstructing an audit of an interlocal cooperative board to any interlocal cooperative school board officer or employee."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-02-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-02-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Primary and Secondary Education (H)",
+      "date": "2025-02-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb584/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb584.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1276"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:26Z"
+  }
+}

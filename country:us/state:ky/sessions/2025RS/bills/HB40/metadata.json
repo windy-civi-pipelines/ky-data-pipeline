@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB40",
+  "title": "AN ACT relating to the regulation of medical imaging and radiation therapy.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Administrative Regulations and Proceedings",
+    "Boards and Commissions",
+    "Health and Medical Services",
+    "Licensing",
+    "Occupations and Professions",
+    "Physicians and Practitioners",
+    "Public Health"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 311B.020 to add and amend definitions; amend KRS 311B.030 to add magnetic resonance imaging technologists, diagnostic medical sonographers, and student medical imaging technologists to the Kentucky Board of Medical Imaging and Radiation Therapy; amend KRS 311B.050 to add authority to recognize and enforce nationally recognized professional organizations and certifying bodies and issue advisory opinions; amend KRS 311B.090 to add non-ionizing and exempt ultrasounds for therapeutic, non-medical or keepsake ultrasounds from requirements;  amend KRS 311B.100 to add individuals utilizing ionizing or non-ionizing radiation; add magnetic resonance imaging technologists, diagnostic medical sonographers, and student medical imaging technologists to licensure requirements; require the board to promulgate administrative regulations to permit licensure of magnetic resonance imaging technologists and diagnostic medical sonographers who are not credentialed by a national organization recognized by the board prior to January 1, 2027; amend KRS 311B.110 to add magnetic resonance imaging technologists, diagnostic medical sonographers, and student medical imagining technologists to application for licensure requirements; amend KRS 311B.120 to add magnetic resonance imaging technologists and diagnostic medical sonographers to fees and penalty requirements; delete reference to duplicate licenses and home study courses; amend KRS 311B.150 to add non-ionizing radiation; add magnetic resonance imaging technologists, diagnostic medical sonographers, and student medical imaging technologists to legal conditions; amend KRS 311B.160 to add violations and penalties for practicing without a license and other violations; amend KRS 311.727 to make technical corrections; repeal KRS 311B.080, 311B.180, and 311B.190 as the provisions of these statutes were incorporated in other statutes."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-01-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-01-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Licensing, Occupations, & Administrative Regulations (H)",
+      "date": "2025-02-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb40/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb40.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "481"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:27Z"
+  }
+}

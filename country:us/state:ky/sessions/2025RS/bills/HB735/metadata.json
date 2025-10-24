@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB735",
+  "title": "AN ACT relating to alcoholic beverages.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Alcoholic Beverages",
+    "Auctioneers",
+    "Boards and Commissions",
+    "Distilled Spirits",
+    "Licensing",
+    "Malt Beverages",
+    "Sales",
+    "State Agencies",
+    "Wines and Wineries"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 243.036 to allow a licensed auctioneer to hold a special temporary alcoholic beverage auction license; establish duties, privileges, and limitations for auctioneers who hold the license; suspend the auctioneer's special temporary alcoholic beverage auction license if the person ceases to be a licensed auctioneer; make a special temporary alcoholic beverage auction license valid for one year; create a new section of KRS Chapter 330, relating to auctioneer licensing, to allow a licensed auctioneer to obtain a special temporary alcoholic beverage auction license; make an auctioneer whose alcohol license is suspended or revoked subject to potential discipline by the auctioneer board; prohibit the Department of Alcoholic Beverage Control from taking any action against an auctioneer's regular license; allow the auction of alcoholic beverages either separately or as a part of another auction; amend KRS 243.033 to conform."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:25Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:25Z"
+      }
+    },
+    {
+      "description": "to Licensing, Occupations, & Administrative Regulations (H)",
+      "date": "2025-02-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:25Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb735/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb735.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "937"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:25Z"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB377",
+  "title": "AN ACT relating to digital assets.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Banks and Financial Institutions",
+    "Effective Dates, Delayed",
+    "Fees",
+    "Local Government",
+    "Property",
+    "Secretary of State",
+    "Securities",
+    "Short Titles and Popular Names",
+    "State Agencies",
+    "Technology",
+    "Treasurer",
+    "Uniform Laws"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 41.070 and 45.345 and create a new section of KRS Chapter 65 to prohibit state and local governments from requiring use or payment of central bank digital currency; establish KRS Chapter 355A and create new sections thereof to define terms, establish property classifications for digital assets, and prohibit KRS Chapter 355A from applying to central bank digital currency; supplement and modify provisions of the Uniform Commercial Code, KRS Chapter 355, relating to the classification, perfection, and priority of digital assets; allow debtors located in Kentucky to file a financial statement with the Secretary of State to perfect a security interest in a digital asset; establish when a transferee takes a digital asset free of any security interest perfected by filing; for purposes of Article 9 of KRS Chapter 355, establish when digital assets are located in Kentucky; classify open blockchain tokens with certain characteristics as intangible personal property; require developers and sellers of certain open blockchain tokens to file a notice of intent with the Secretary of State, and pay a filing fee, prior to sale in this state; require the Secretary of State to promulgate forms and make the forms accessible to filers; require facilitators of certain open blockchain tokens in the resale market to comply with certain requirements; establish penalties for violation of the section; provide that the Secretary of State may make referrals to law enforcement agencies; provide that the section may be cited as the Kentucky Utility Token Act; create a new section of Subtitle 2 of KRS Chapter 286 to permit certain Kentucky financial institutions to elect to provide custodial services of customer currency and digital assets in accordance with the provisions of the section; establish internal control and customer contracting requirements for providing custodial services under the section; provide that digital assets held in custody under the section are not depository liabilities or assets of the financial institution; require the commissioner of the Department of Financial Institutions to establish a supervision fee; create a new section of Article 1 of KRS Chapter 355 to conform; amend KRS 369.103 to include transactions involving digital assets; amend KRS 355.1-102 to prohibit the Uniform Commercial Code from applying to central bank digital currency; provide that the Secretary of State and the commissioner of the Department of the Financial Institutions shall promulgate administrative regulations to implement the Kentucky Utility Token Act and optional custodial services requirements on or before October 1, 2025; EFFECTIVE, in part, October 1, 2025."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-02-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:25Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-02-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:25Z"
+      }
+    },
+    {
+      "description": "to Banking & Insurance (H)",
+      "date": "2025-02-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:25Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb377/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb377.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1400"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:25Z"
+  }
+}

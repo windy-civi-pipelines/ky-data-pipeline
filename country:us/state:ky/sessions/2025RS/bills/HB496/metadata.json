@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB496",
+  "title": "AN ACT relating to operating a motor vehicle.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Driver Licensing",
+    "Motor Vehicles",
+    "Peace Officers and Law Enforcement",
+    "Police, City and County",
+    "Police, State",
+    "Short Titles and Popular Names",
+    "Telecommunications",
+    "Traffic Safety",
+    "Transportation"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 189.292 to define \"operating a motor vehicle,\" \"stand-alone electronic device,\" and \"use\"; prohibit the use of a personal communication device or stand-alone electronic device while operating a motor vehicle; exempt school bus operators who are instead subject to KRS 281A.205; set forth exceptions; amend KRS 189.294 to provide that persons under 18 years of age shall not use a personal communication device or stand-alone electronic device in any manner while driving; amend KRS 189.990 to set forth penalties; create a new section of KRS Chapter 281A to apply these provisions to commercial motor vehicle drivers; amend KRS 189.2327 to conform; provide that the Act may be cited as the Phone-Down Kentucky Act."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-02-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:25Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-02-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:25Z"
+      }
+    },
+    {
+      "description": "to Transportation (H)",
+      "date": "2025-02-21T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:25Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb496/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb496.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "188"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:25Z"
+  }
+}

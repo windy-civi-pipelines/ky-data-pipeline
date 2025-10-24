@@ -1,0 +1,116 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "SB124",
+  "title": "AN ACT relating to animal care.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Advisory Boards, Commissions, and Committees",
+    "Animals, Livestock, and Poultry",
+    "Boards and Commissions",
+    "Civil Actions",
+    "Civil Procedure",
+    "Crimes and Punishments",
+    "Criminal Procedure",
+    "Dogs",
+    "Horses and Horse Racing",
+    "Local Mandate",
+    "Peace Officers and Law Enforcement",
+    "Veterinarians"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create new sections of KRS Chapter 525 to define terms; require peace officers and animal control officers to serve notice of seizure of an animal subjected to cruelty; create procedure for seizing agencies to petition a court to order owner to pay cost of care for a seized animal; establish penalties; amend KRS 258.215 to require owners to be responsible for cost of care of an impounded animal; repeal, reenact, and amend KRS 258.117 to reduce the number of board appointees from each nominating organization from two to one; add one member to be selected from a list submitted by Kentucky Animal Action; add a member from a list submitted by the Kentucky Veterinary Medical Association representing registered nonprofit organizations whose missions prioritize spay and neuter advocacy for companion animals to the Animal Control Advisory Board; provide that on the effective date of the Act, the Animal Control Advisory Board shall be dissolved and reconstituted and all new members be appointed; provide for the staggering of initial appointments."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2025-02-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2025-02-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to State & Local Government (S)",
+      "date": "2025-02-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/sb124/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/note/25RS/sb124/LM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/sb124.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "83"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:26Z"
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "SB171",
+  "title": "AN ACT relating to eminent domain.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Agriculture",
+    "Civil Actions",
+    "Civil Procedure",
+    "Eminent Domain and Condemnation",
+    "Environment and Conservation",
+    "Notices",
+    "Property",
+    "Public Utilities",
+    "Real Estate"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create a new section of KRS 262.900 to 262.920 to prohibit the taking of property subject to an agricultural conservation easement by eminent domain; allow public hearing on a proposed taking of property subject to an agricultural conservation easement before the local soil and water conservation district board of supervisors; create a new section of KRS Chapter 411 to allow an owner of property adjoining a property condemned by eminent domain to bring a civil action against the condemnor for damages to property; create a new section of KRS Chapter 413 to establish a five-year statute of limitations for actions by adjoining property owners against condemnors; create a new section of KRS Chapter 416 to prohibit land condemned by eminent domain from being used for the construction of solar energy facilities; amend KRS 262.850 to prohibit the taking of property within the boundaries of an agricultural district by eminent domain; require condemnors to provide a written report at public hearing justifying condemnation due to lack of feasible alternative locations; amend KRS 382.850 to prohibit the taking of property subject to a conservation easement by eminent domain; allow an owner of property subject to a conservation easement who has been served with a summons of condemnation proceedings to request a public hearing before the local soil and water conservation district board of supervisors; require condemnors to provide a written report at public hearing justifying condemnation due to lack of feasible alternative locations; amend KRS 416.560 to specify requirements for contents of notice of entry to owners of property; establish penalty for failure to give notice; amend KRS 416.570 to require a petition for condemnation proceedings to contain statements that the property is not subject to an easement that prohibits taking by eminent domain and that there are no reasonable alternate locations or routes for the proposed project; amend KRS 416.580 to require the appointment of a certified independent real estate appraiser to the group of commissioners who establish the value of condemned property; amend KRS 416.610 to require the condemnor to pay expenses and reasonable attorney's fees in a condemnation proceeding; amend KRS 416.620 to require the condemnor to pay expenses and reasonable attorney's fees in a condemnation proceeding; amend KRS 416.660 to establish a highest and best use valuation for condemned property; establish the payment of a premium of 125% for any condemned property used for conservation, farm, or agricultural purposes; amend KRS 416.675 to define \"private owner.\""
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2025-02-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2025-02-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Agriculture (S)",
+      "date": "2025-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "taken from Agriculture (S)",
+      "date": "2025-02-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "1st reading",
+      "date": "2025-02-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "returned to Agriculture (S)",
+      "date": "2025-02-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "taken from Agriculture (S)",
+      "date": "2025-02-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "2nd reading",
+      "date": "2025-02-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "returned to Agriculture (S)",
+      "date": "2025-02-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/sb171/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/sb171.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1154"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:26Z"
+  }
+}

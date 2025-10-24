@@ -1,0 +1,116 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "SB155",
+  "title": "AN ACT relating to state employee health insurance.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Actuarial Analysis",
+    "Advisory Boards, Commissions, and Committees",
+    "Boards and Commissions",
+    "Fiscal Note",
+    "Insurance, Health",
+    "Local Mandate",
+    "Personnel and Employment",
+    "Public Officers and Employees",
+    "Retirement and Pensions",
+    "State Agencies",
+    "State Employee Health Plan Mandate",
+    "State Employees"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 18A.225 to exclude from the definition of \"employee\" any employer pursuant to KRS 61.522  that ceases participation in the Kentucky Employees Retirement System by June 30, 2021, once they cease participation in the state employee health insurance plan they may not participate in the future; require minimal participation duration for all benefits administered by the Personnel Cabinet pursuant to KRS 18A.225 to 18A.2287; require health insurance coverage for state employees to provide minimum value that pays over 60 percent of the total cost of in-network medical services, provide minimal essential coverage as defined in 26 U.S.C. sec. 5000A(f), and not discriminate in favor of highly compensated individuals as prohibited by 26 U.S.C. sec. 105(h); require any carrier bidding to offer health care coverage to employees to rate all employees as a single entity; require any premium due for vision coverage, if in excess of a premium amount contributed by an employer to be paid by the employee; delete references to regional contracts for state employee health insurance; specify that no provision of KRS Chapter 304, the insurance code, shall apply to the public employee health insurance program for public employees unless otherwise authorized; amend KRS 18A.2254 to add health savings accounts as a waiver funding option and provide that the type of account available for waiver funding each year shall be at the discretion of the Personnel Cabinet; define quarterly report time frames required of the Personnel Cabinet on the status of the health insurance trust fund transmitted to the Governor, the Interim Joint Committee on Appropriations and Revenue, and the Kentucky Group Health Insurance Board; amend KRS 18A.226 to update the membership of the Kentucky Group Health Insurance Board; amend date requirement to January 31 each year for  the board to submit an annual report  to the Governor, the General Assembly, and the Chief Justice of the Supreme Court; repeal 18A.2255, relating to the Advisory Committee of State Health Insurance Subscribers."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2025-02-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2025-02-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Appropriations & Revenue (S)",
+      "date": "2025-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/sb155/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/note/25RS/sb155/LM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/sb155.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1132"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:26Z"
+  }
+}

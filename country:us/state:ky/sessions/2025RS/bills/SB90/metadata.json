@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "SB90",
+  "title": "AN ACT relating to children.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Children and Minors",
+    "Education, Elementary and Secondary",
+    "Health and Medical Services",
+    "Hospitals and Nursing Homes",
+    "Mental Health",
+    "Parental Rights",
+    "Pharmacists",
+    "Physicians and Practitioners",
+    "Public Health"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 158.1415 to remove provisions related to parental rights and courses, curriculums, or programs on human sexuality; provide for a process for parents to opt out of their child receiving instruction on the subject of human sexuality; amend KRS 158.191 to remove language limiting Kentucky Board of Education or Department of Education policies regarding student confidential information and the use of pronouns; require a local school district to use pronouns for students upon a request from a parent along with a note from a medical provider diagnosing the child with gender dysphoria; remove language concerning parental consent for well-being questionnaires or assessments or a health screening; amend KRS 158.189 to make findings about children and young adults desiring individual privacy; require a school to provide an accommodation to any student who requests an area of individual privacy in restrooms, locker rooms, and shower rooms, regardless of biological sex or gender identity; require school officials to provide an accommodation for individual privacy for children whose gender is different from his or her biological sex and who have a note from a medical provider diagnosing the child with gender dysphoria; permit alternate accommodations upon the parent's request; amend KRS 311.372 to prohibit surgical or medical treatment of a child under the age of 18 years for gender dysphoria, and any nonsurgical medical treatment without the consent of the child's parent or legal guardian; require that the provision of nonsurgical medical treatment to a child under the age of 18 years apply only to a child with a medical diagnosis from a mental health care provider and by a trained and experienced health care provider in collaboration with a clinical psychologist or psychiatrist using only appropriate nonsurgical medical treatments approved by the United States Food and Drug Administration for adolescents and that meet evidence-based medical standards."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2025-02-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2025-02-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Education (S)",
+      "date": "2025-02-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/sb90/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/sb90.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "335"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:27Z"
+  }
+}

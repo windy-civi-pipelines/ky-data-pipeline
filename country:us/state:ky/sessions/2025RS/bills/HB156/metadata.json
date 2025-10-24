@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB156",
+  "title": "AN ACT relating to public school curriculum.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Boards and Commissions",
+    "Education, Elementary and Secondary",
+    "Education, Vocational",
+    "State Agencies",
+    "Technology",
+    "Textbooks"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create a new section of KRS Chapter 156 to require the Kentucky Department of Education to develop a guide for instructional materials collections adopted by the State Instructional Materials Commission that details the academic standards addressed by the materials, how the instructional materials are connected to specific learning targets aligned to the standards, sample questions, skills, and products students should be able to answer or demonstrate to meet the academic standards, and a curriculum guide for using the educational materials; amend KRS 156.395 to define \"instructional material collection\"; amend KRS 156.405 to reestablish the State Textbook Commission as the State Instructional Materials Commission and establish the scope of the commission's duties and membership; amend KRS 156.415 to reestablish fees for filing instructional materials collections for consideration and to conform; amend KRS 156.433 to delete reference to the state textbook fund and to conform; amend KRS 156.474 to apply to all educational funds and to conform; amend KRS 156.407, 156.410, 156.420, 156.425, 156.435, 156.437, 156.438, 156.440, 156.445, 156.460, 156.465, 156.470, 156.474, and 156.476 to conform."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-01-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-01-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Primary and Secondary Education (H)",
+      "date": "2025-02-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb156/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb156.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "348"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:27Z"
+  }
+}

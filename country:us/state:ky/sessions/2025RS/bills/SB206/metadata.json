@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "SB206",
+  "title": "AN ACT relating to campaign finance.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Campaign Finance",
+    "Civil Actions",
+    "Civil Procedure",
+    "Corrections Impact",
+    "Courts, Circuit",
+    "Crimes and Punishments",
+    "Elections and Voting",
+    "Local Mandate",
+    "State Agencies"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 121.015, relating to campaign finance, to define terms; create new sections of KRS Chapter 121 to establish reporting and record retention requirements for political issues committees and persons making independent expenditures; prohibit political issues committees from knowingly and willfully soliciting or accepting contributions from prohibited sources; establish certification requirements for treasurers of political issues committees and donors making contributions and independent expenditures; define activity that creates a presumption of a violation; prohibit foreign nationals from making a donation, contribution, or expenditure, soliciting another person to make a donation, contribution, or expenditure, or participating in another person's decision to influence a ballot measure; establish a cause of action for accepting or soliciting contributions from prohibited sources and failing to certify, report, or retain records; establish a right of privacy in donations to tax-exempt organizations; establish a penalty for a state or local governmental entity, court, or officer of the court that violates the right of privacy; amend KRS 121.190 to require a \"paid for by\" disclosure for advertisements advocating or opposing a ballot measure."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2025-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2025-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to State & Local Government (S)",
+      "date": "2025-02-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/sb206/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/sb206.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1862"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:27Z"
+  }
+}

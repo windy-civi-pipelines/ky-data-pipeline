@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB408",
+  "title": "AN ACT relating to patient-directed care at the end of life.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Administrative Regulations and Proceedings",
+    "Crimes and Punishments",
+    "Deaths",
+    "Drugs and Medicines",
+    "Health and Medical Services",
+    "Hospitals and Nursing Homes",
+    "Insurance",
+    "Insurance, Health",
+    "Mental Health",
+    "Nurses",
+    "Pharmacists",
+    "Physicians and Practitioners",
+    "Public Health",
+    "Reports Mandated",
+    "Short Titles and Popular Names",
+    "Wills and Estates"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create new sections of KRS Chapter 311 to define terms; establish a qualified terminally ill patient's right to voluntarily request medication to self-administer to cause death; establish conditions required to make request; permit patient to rescind request at any time; permit an attending physician to provide medication; establish requirements for attending physician to inform patients and document request; require disposal of unused medications; establish residency requirements for qualified patients; require report by the Cabinet for Health and Family Services; establish provisions for contracts, insurance policies, and beneficiaries; prohibit applicability of provisions to ending a patient's life by lethal injection, mercy killing, or active euthanasia; establish that a health care provider is not required to provide medication to a qualified patient; permit health care providers to prohibit persons or entities from participating in a qualified patient's request during or on the premises of employment; prohibit reporting a health care provider to a licensing board for participating in a qualified patient's request; state that actions under this Act do not authorize lethal injection, mercy killing or active euthanasia; establish that actions under this Act do not constitute suicide or homicide; create a form for a qualified patient to make a request; create a form for an interpreter for a qualified patient making a request; create a new section of Subtitle 12 of KRS Chapter 304 to establish provisions for insurance policies and beneficiaries of qualified patients; amend KRS 507.020 and 507.030 to create an affirmative defense to a charge of murder and manslaughter in the first degree; provide that the Act may be cited as the Kentucky Death with Dignity Act."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-02-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-02-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Health Services (H)",
+      "date": "2025-02-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb408/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb408.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1539"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:27Z"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB419",
+  "title": "AN ACT relating to reproductive privacy.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Children and Minors",
+    "Cities",
+    "Courts",
+    "Crimes and Punishments",
+    "Drugs and Medicines",
+    "Effective Dates, Delayed",
+    "Health and Medical Services",
+    "Physicians and Practitioners",
+    "Reproductive Issues",
+    "State Employees",
+    "Women"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create new sections of KRS Chapter 311 to establish reproductive rights and define terms; amend KRS 18A.225 to remove the prohibition of insurance coverage for abortion; amend KRS 39A.180 to allow the Governor to suspend statutes related to abortion during a declared emergency; amend KRS 156.496 to allow a school district to operate a family resource center that provides abortion counseling; amend KRS 205.010 to permit financial aid for an abortion; amend KRS 205.510 to include abortions or induced miscarriages as medical care; amend KRS 205.560 to allow medical aid payments for abortion; amend KRS 211.603 to allow money in the rape crisis trust fund to be used for abortion services or education; amend KRS 212.275 to allow health departments to dispense medication for an abortion; amend KRS 213.101 to remove various reporting requirements; amend various sections to remove penalties associated with performing abortions; amend various sections to conform; repeal, reenact, and amend or repeal and reenact KRS 311.783, 311.7710, 311.820, 311.990, 311.780, 311.810, 311.572, 311.591, 311.686, and 311.852 to conform; repeal KRS 15.241, 213.098, 213.172, 213.174, 213.176, 216B.0435, 216B.200, 216B.202, 216B.204, 216B.206, 216B.208, 216B.210, 304.5-160, 311.710, 311.715, 311.720, 311.723, 311.724, 311.725, 311.727, 311.728, 311.731, 311.732, 311.733, 311.735, 311.750, 311.760, 311.765, 311.770, 311.7701, 311.7702, 311.7703, 311.7704, 311.7705, 311.7706, 311.7707, 311.7708, 311.7709, 311.7711, 311.772, 311.7731, 311.7733, 311.7734, 311.7735, 311.7736, 311.7737, 311.7739, 311.774, 311.7741, 311.7743, 311.781, 311.7811, 311.782, 311.784, 311.7841, 311.785, 311.786, 311.787, 311.790, 311.800, 311.821, 311.822, 311.823, 311.824, 311.825, 311.826, 311.827, 311.830, 311.992, and 315.315; EFFECTIVE, in part, January 1, 2026."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-02-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-02-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Judiciary (H)",
+      "date": "2025-02-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb419/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/note/25RS/hb419/LM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb419.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1018"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:27Z"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "SB265",
+  "title": "AN ACT relating to mobile services.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Administrative Regulations and Proceedings",
+    "Barbers and Cosmetologists",
+    "Boards and Commissions",
+    "Licensing",
+    "Occupations and Professions",
+    "Public Health"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 317.410 to define \"mobile barber shop\"; amend KRS 317.420 to restrict a person from operating a mobile barber shop without being licensed by the Kentucky Board of Barbering; amend KRS 317.430 to authorize the board to govern mobile barber shops; amend KRS 317.440 to direct the board to promulgate administrative regulations governing the location and housing of mobile barber shops, requirements regarding its operation, and inspection criteria for mobile barber shops; direct the board to establish on its website a system that allows licensees to report the location or change in location of a mobile barber shop; amend KRS 317.450 to require the board to issue a license to operate a mobile barber shop to any barber who is licensed under KRS Chapter 317 and meets the requirements of administrative regulations promulgated by the board; amend KRS 317.580 to require a mobile barber shop to have a sink with hot and cold running water; amend KRS 317A.010 to define \"mobile beauty salon,\" \"mobile esthetic salon,\" \"mobile nail salon,\" and \"mobile limited beauty salon\"; amend KRS 317A.020 to prohibit a person from operating a mobile salon without a license issued by the board; direct the board to establish on its website a system that allows licensees to report the location or change in location of a mobile mobile salon; amend KRS 317A.030 to authorize the Board of Cosmetology to regulate mobile salons; amend KRS 317A.050 to authorize the board to issue licenses to operate mobile salons; amend KRS 317A.060 to require the board to promulgate administrative regulations to establish standards for the location and housing of mobile salons; establish sanitation and inspection criteria for mobile salons."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2025-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2025-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Licensing & Occupations (S)",
+      "date": "2025-02-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/sb265/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/sb265.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "41"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:27Z"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "SB253",
+  "title": "AN ACT relating to scholarships.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Budget and Financial Administration",
+    "Education, Elementary and Secondary",
+    "Education, Finance",
+    "Education, Higher",
+    "Education, Vocational",
+    "Effective Dates, Delayed",
+    "Fiscal Note",
+    "State Agencies",
+    "Teachers",
+    "Universities and Colleges"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Amend KRS 164.769 to remove repayment obligations from the teacher scholarship program; amend scholorship terms; provide that the scholarship amount shall not exceed the highest in-state tuition rate for a teacher preparation program at a Kentucky public university; amend KRS 164.786 to add eligibility for high school freshmen and sophomores to the dual credit scholarship program; require an approved dual credit course to be in the statewide general education core; permit up to 20 dual credit courses in a teacher and learning career pathway; provide that scholarships shall be awarded in order of application date; revise scholarship to allow two career and technical dual credit courses in each academic year of high school and two general education dual credit courses in the grades 11 and 12; amend KRS 164.787 to conform; repeal KRS 164.771, relating to the Teacher Recruitment Student Loan Forgiveness Pilot Program, effective June 30, 2026; provide that funds appropriated to the Teacher Recruitment Student Loan Forgiveness Pilot Program shall be disbursed through the teacher scholarship program on and after June 30, 2026; EFFECTIVE, in part, June 30, 2026."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in Senate",
+      "date": "2025-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (S)",
+      "date": "2025-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Appropriations & Revenue (S)",
+      "date": "2025-02-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/sb253/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/sb253.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "174"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:27Z"
+  }
+}

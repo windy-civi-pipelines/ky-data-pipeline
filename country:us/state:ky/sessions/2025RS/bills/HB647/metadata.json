@@ -1,0 +1,103 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB647",
+  "title": "AN ACT relating to immunization policy.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Civil Rights",
+    "Diseases",
+    "Education, Elementary and Secondary",
+    "Education, Higher",
+    "Labor and Industry",
+    "Occupational Safety and Health",
+    "Public Health",
+    "Small Business",
+    "State Employees",
+    "Universities and Colleges",
+    "Workforce"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create a new of section KRS Chapter 164 to allow a student, staff, or faculty member to opt out of a postsecondary school's immunization policy for specified reasons; create a new section of KRS Chapter 214 to prohibit a public entity from creating standardized documentation with the purpose of certifying vaccination status; create a new section of KRS Chapter 336 to require written notice of vaccination exemptions for a sincerely held religious belief or medical contraindication; establish which health care providers can support a medical exemption; require notice of federal mandates and exemptions; establish civil cause of action for violations; amend KRS 214.015 to prohibit the Department for Public Health from releasing personally identifiable information from immunization reports to another public agency or third party; amend KRS 214.034 to prohibit public and private primary and secondary schools and preschool programs from promulgating a new immunization policy and mandating compliance during a school year that has already commenced; and amend KRS 214.036 to allow objection to immunization on the basis of conscientiously held beliefs."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Health Services (H)",
+      "date": "2025-02-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb647/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb647.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1833"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:26Z"
+  }
+}

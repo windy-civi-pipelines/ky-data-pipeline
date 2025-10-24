@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB810",
+  "title": "AN ACT relating to minimum staffing requirements for long-term care facilities.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Aged Persons and Aging",
+    "Disabilities and the Disabled",
+    "Health and Medical Services",
+    "Hospitals and Nursing Homes",
+    "Nurses",
+    "Physicians and Practitioners",
+    "State Agencies"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create new sections of KRS Chapter 216 to define terms; require staff-to-resident ratios in long-term care facilities as a condition of licensure or relicensure; establish minimum staffing requirements; prohibit long-term care facilities from admitting new residents if the facility fails to comply with the minimum staffing requirements, beginning on the second day of noncompliance and continuing until six days after the required staffing is achieved, with exceptions allowed for weather emergencies and other similar events; require additional staffing based on the needs of the residents; exempt intermediate-care facilities for persons with intellectual disabilities, institutions for the treatment of mental illnesses, personal care homes, and family care homes from the minimum staffing requirements; create the Long-Term-Care Minimum Staffing Committee to review staffing requirements on an annual basis; establish duties and membership; establish a civil fine of no more than $1,000 for each day that the staffing requirements are not maintained."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Health Services (H)",
+      "date": "2025-02-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb810/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb810.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1624"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:26Z"
+  }
+}

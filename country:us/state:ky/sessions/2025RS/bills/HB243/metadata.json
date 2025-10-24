@@ -1,0 +1,105 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB243",
+  "title": "AN ACT relating to review of financial incentives.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Auditor of Public Accounts",
+    "Budget and Financial Administration",
+    "Economic Development",
+    "General Assembly",
+    "Legislative Research Commission",
+    "State Agencies",
+    "Taxation",
+    "Taxation, Income--Corporate",
+    "Taxation, Income--Individual",
+    "Taxation, Inheritance and Estate",
+    "Taxation, Property",
+    "Taxation, Sales and Use",
+    "Taxation, Severance"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create new sections of KRS Chapter 7A to establish the Financial Incentive Review Committee; define terms; specify committee membership, authority, powers and duties; establish requirements for meetings; establish requirements for how the General Assembly shall enact new financial incentives; require agencies to assign a unique identification number for purposes of reporting financial incentives; amend KRS 11.068 to require the annual production of a detailed estimate of the revenue loss resulting from each tax expenditure from the general fund and road fund; amend KRS 131.020 to require the Department of Revenue to collect, report, and provide data to the committee; amend KRS 131.190 to allow the Department of Revenue to provide confidential data to the committee; amend KRS 148.522 to require the Tourism, Arts and Heritage Cabinet to collect, report, and provide data to the committee; amend KRS 154.12-210 to require the Cabinet for Economic Development to collect, report, coordinate, and provide data to the committee; amend KRS 246.030 to require the Department of Agriculture to collect, report, coordinate, and provide data to the committee."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-02-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-02-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Appropriations & Revenue (H)",
+      "date": "2025-02-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb243/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb243.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1268"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:26Z"
+  }
+}

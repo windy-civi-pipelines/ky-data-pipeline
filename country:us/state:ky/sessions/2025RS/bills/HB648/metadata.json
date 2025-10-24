@@ -1,0 +1,106 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB648",
+  "title": "AN ACT relating to liability shield products and declaring an emergency.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Attorney General",
+    "Civil Actions",
+    "Civil Rights",
+    "Drugs and Medicines",
+    "Effective Dates, Emergency",
+    "Health and Medical Services",
+    "Labor and Industry",
+    "Pharmacists",
+    "Physicians and Practitioners",
+    "Public Health",
+    "Public Safety",
+    "Reports Mandated",
+    "Research and Methods",
+    "State Agencies"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create a new section of KRS Chapter 217 to define terms; require a manufacturer of a liability shield product to subject the product to a placebo-controlled study before it is manufactured, marketed, distributed, or administered in Kentucky; establish requirements for the placebo-controlled study; require the Cabinet for Health and Family Services to monitor and track adverse outcomes of liability shield products; require manufacturers of liability shield products to submit documentation to the cabinet of the placebo-controlled study and results of the study; provide that an individual has right to refuse a liability shield product; permit the Attorney General to bring actions for violations; permit individuals to bring actions for injuries; EMERGENCY."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:25Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:25Z"
+      }
+    },
+    {
+      "description": "to Health Services (H)",
+      "date": "2025-02-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:25Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb648/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb648.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1831"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:25Z"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "reported favorably, 1st reading, to Calendar with Committee Substitute (1)",
+    "date": "2025-02-19T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB19"
+}

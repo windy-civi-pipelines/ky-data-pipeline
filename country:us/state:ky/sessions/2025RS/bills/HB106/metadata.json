@@ -1,0 +1,115 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB106",
+  "title": "AN ACT relating to cannabis.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Civil Procedure",
+    "Corrections Impact",
+    "Courts",
+    "Crimes and Punishments",
+    "Drugs and Medicines",
+    "Local Mandate",
+    "Peace Officers and Law Enforcement",
+    "Reports Mandated",
+    "Retroactive Legislation",
+    "State Agencies",
+    "Taxation"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create a new section of KRS Chapter 218A to make possession of a personal use quantity of cannabis exempt from civil or criminal penalty; amend KRS 218A.010 to define \"cannabis,\" \"personal use quantity of cannabis,\" and \"cannabis accessory\"; amend KRS 218A.1422, regarding cannabis possession, to conform; amend KRS 218A.1423, regarding cannabis cultivation, to conform; amend KRS 218A.500, regarding drug paraphernalia, to exempt personal use cannabis accessories; amend KRS 218A.1421, regarding cannabis trafficking, to exempt personal use quantities; amend KRS 138.872 to exclude personal use quantities from the cannabis stamp tax; amend KRS 218A.410 and 533.030 to conform; create a new section of KRS Chapter 431 to allow expungement of certain convictions relating to cannabis and to apply expungement retroactively; RETROACTIVE, in part."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-01-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-01-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    },
+    {
+      "description": "to Judiciary (H)",
+      "date": "2025-02-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:26Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb106/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/note/25RS/hb106/LM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb106.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "920"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:26Z"
+  }
+}

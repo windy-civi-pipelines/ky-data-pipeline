@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2025RS",
+  "identifier": "HB353",
+  "title": "AN ACT relating to eminent domain.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Cities",
+    "Civil Actions",
+    "Civil Procedure",
+    "Counties",
+    "Courts",
+    "Eminent Domain and Condemnation",
+    "Local Government",
+    "Nuisances",
+    "Property"
+  ],
+  "abstracts": [
+    {
+      "note": "Summary of Original Version",
+      "abstract": "Create new sections of KRS 99.700 to 99.730 to allow a commission or alternative government entity to obtain an administrative warrant to inspect blighted or abandoned properties; require commissions and alternative government entities to exercise the power of eminent domain in accordance with KRS 99.700 to 99.730; amend KRS 99.705 to define \"abandoned property\"; redefine \"blighted property\"; amend KRS 99.720 to require two notices of local code violations prior to certification of a property as blighted or abandoned; amend KRS 99.725 to require local governments to hold public hearings regarding proposed takings of blighted or abandoned property prior to initiating eminent domain proceedings; require proceedings of the public hearings to be recorded and available to the public for review and comment; amend KRS 416.610 to require the petitioner in an eminent domain proceeding to prove necessity of the taking; amend KRS 416.675 to redefine \"public use\"; remove allowance of sale or lease of property to private entities occupying an incidental area within a public project or building; remove exemption for property financed by state road funds or federal highway funds from the requirements of KRS 416.675; amend KRS 65.355, 91.285, 92.305, 99.700, 99.710, 99.715, 99.727, 99.730, and 416.580 to conform."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "introduced in House",
+      "date": "2025-02-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Committee on Committees (H)",
+      "date": "2025-02-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    },
+    {
+      "description": "to Judiciary (H)",
+      "date": "2025-02-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:24:27Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb353/orig_bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/25RS/hb353.html",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "1034"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ky"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:24:27Z"
+  }
+}
