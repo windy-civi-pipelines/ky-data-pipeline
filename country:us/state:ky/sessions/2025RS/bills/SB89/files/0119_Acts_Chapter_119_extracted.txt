@@ -1,0 +1,1339 @@
+Title: AN ACT relating to environmental protection and declaring an emergency.
+Official Title: AN ACT relating to environmental protection and declaring an emergency.
+Number of Sections: 17
+Source: versions - Acts Chapter 119
+Media Type: application/pdf
+Strikethrough Detection: 13 sections found
+
+================================================================================
+
+Section 1:
+CHAPTER 119 1
+CHAPTER 119
+( SB 89 )
+Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+Section 1. KRS 224.1-010 is amended to read as follows:
+As used in this chapter unless the context clearly indicates otherwise:
+(1) "Air contaminant" includes smoke, dust, soot, grime, carbon, or any other particulate matter, radioactive
+matter, noxious acids, fumes, gases, odor, vapor, or any combination thereof;
+(2) "Air contaminant source" means any and all sources of emission of air contaminants, whether privately or
+publicly owned or operated. Without limiting the generality of the foregoing, this term includes all types of
+business, commercial and industrial plants, works, shops, and stores, and heating and power plants and
+stations, buildings and other structures of all types, including single and multiple family residences,
+apartments, houses, office buildings, public buildings, hotels, restaurants, schools, hospitals, churches, and
+other institutional buildings, automobiles, trucks, tractors, buses and other motor vehicles, garages and vending
+and service locations and stations, railroad locomotives, ships, boats and other waterborne craft, portable fuel-
+burning equipment, incinerators of all types (indoor and outdoor), refuse dumps and piles, and all stack and
+other chimney outlets from any of the foregoing;
+(3) "Air pollution" means the presence in the outdoor atmosphere of one (1) or more air contaminants in sufficient
+quantities and of such characteristics and duration as is or threatens to be injurious to human, plant, or animal
+life, or to property, or which unreasonably interferes with the comfortable enjoyment of life or property;
+(4) "Closure" means the time at which a waste treatment, storage, or disposal facility permanently ceases to accept
+wastes, and includes those actions taken by the owner or operator of the facility to prepare the site for post-
+closure monitoring and maintenance or to make it suitable for other uses;
+(5) "Compost" means solid waste which has undergone biological decomposition of organic matter, been
+disinfected using composting or similar technologies, been stabilized to a degree which is potentially
+beneficial to plant growth and which is approved for use or sale as a soil amendment, artificial topsoil,
+growing medium amendment, or other similar uses;
+(6) "Composting" means the process by which biological decomposition of organic solid waste is carried out
+under controlled aerobic conditions, and which stabilizes the organic fraction into a material which can easily
+and safely be stored, handled, and used in an environmentally acceptable manner:
+(a) "Composting" may include a process which creates an anaerobic zone within the composting material;
+(b) "Composting" does not include simple exposure of solid waste under uncontrolled conditions resulting
+in natural decay;
+(7) "Demonstration" means the initial exhibition of a new technology, process or practice or a significantly new
+combination or use of technologies, processes or practices, subsequent to the development stage, for the
+purpose of proving technological feasibility and cost effectiveness;
+(8) "Cabinet" means the Energy and Environment Cabinet;
+(9) "Disposal" means the discharge, deposit, injection, dumping, spilling, leaking, or placing of any waste into or
+on any land or water so that such waste or any constituent thereof may enter the environment or be emitted
+into the air or discharged into any waters, including ground waters;
+(10) "District" means an air pollution control district as provided for in KRS Chapter 77;
+(11) "Effluent limitations" means any restrictions or prohibitions established under state law which include, but are
+not limited to, effluent limitations, standards of performance for new sources, and toxic effluent standards on
+quantities, rates, and concentrations of chemical, physical, biological, and other constituents which are
+discharged into waters;
+(12) "Generator" means any person, by site, whose act or process produces waste;
+Legislative Research Commission PDF Version
+2 ACTS OF THE GENERAL ASSEMBLY
+(13) "Materials recovery facility" means a solid waste management facility that provides for the extraction from
+solid waste of recyclable materials, materials suitable for use as a fuel or soil amendment, or any combination
+of those materials;
+(14) "Municipal solid waste disposal facility" means any type of waste site or facility where the final deposition of
+any amount of municipal solid waste occurs, whether or not mixed with or including other waste allowed
+under Subtitle D of the Federal Resource Conservation and Recovery Act of 1976, as amended, and includes
+but is not limited to incinerators and waste-to-energy facilities that burn municipal solid waste and contained
+and residential landfills, but does not include an advanced recycling facility or a waste site or facility which is
+operated exclusively by a solid waste generator on property owned by the solid waste generator which accepts
+only industrial solid waste from the solid waste generator or industrial solid waste generated at another facility
+owned and operated by the generator or wholly-owned subsidiary, or a medical waste incinerator which is
+owned, operated, and located on the property of a hospital or university which is regulated by the cabinet and
+used for the purpose of treatment, prior to landfill, of medical waste received from the generator exclusively or
+in combination with medical waste generated by professionals or facilities licensed or regulated or operated by
+the Commonwealth;
+(15) "Municipal solid waste reduction" means source reduction, waste minimization, reuse, recycling, composting,
+and materials recovery;
+(16) "Person" means an individual, trust, firm, joint stock company, corporation (including a government
+corporation), partnership, association, federal agency, state agency, city, commission, political subdivision of
+the Commonwealth, or any interstate body;
+(17) "Post-closure monitoring and maintenance" means the routine care, maintenance, and monitoring of a solid
+waste or hazardous waste treatment, storage, or disposal facility following closure of the facility;
+(18) "Publicly owned treatment works" means any device or system used in the treatment (including recycling and
+recovery) of municipal sewage or industrial wastes of a liquid nature which is owned by the Commonwealth or
+a political subdivision of the Commonwealth;
+(19) "Recovered material" means those materials, including but not limited to compost, which have known current
+use, reuse, or recycling potential, which can be feasibly used, reused, or recycled, and which have been
+diverted or removed from the solid waste stream for sale, use, reuse, or recycling, whether or not requiring
+subsequent separation and processing, but does not include materials diverted or removed for purposes of
+energy recovery or combustion except refuse-derived fuel (RDF), which shall be credited as a recovered
+material in an amount equal to that percentage of the municipal solid waste received on a daily basis at the
+processing facility and processed into RDF; but not to exceed fifteen percent (15%) of the total amount of the
+municipal solid waste received at the processing facility on a daily basis. Notwithstanding any provision of
+law to the contrary, tire-derived fuel, as defined in subsection (53) of this section, shall be considered a
+recovered material;
+(20) "Recovered material processing facility" means a facility engaged solely in the storage, processing, and resale
+or reuse of recovered material, but does not mean a solid waste management facility if solid waste generated
+by a recovered material processing facility is managed pursuant to this chapter and administrative regulations
+adopted by the cabinet;
+(21) "Recycling" means any process by which materials which would otherwise become solid waste are collected,
+separated, or processed and reused or returned to use in the form of raw materials or products, including
+refuse-derived fuel when processed in accordance with administrative regulations established by the cabinet,
+but does not include the incineration or combustion of materials for the recovery of energy;
+(22) "Refuse-derived fuel" means a sized, processed fuel product derived from the extensive separation of
+municipal solid waste, which includes the extraction of recoverable materials for recycling and the removal of
+nonprocessables such as dirt and gravel prior to processing the balance of the municipal solid waste into the
+refuse-derived fuel product;
+(23) "Secretary" means the secretary of the Energy and Environment Cabinet;
+(24) "Sewage system" means individually or collectively those constructions or devices used for collecting,
+pumping, treating, and disposing of liquid or waterborne sewage, industrial wastes, or other wastes;
+(25) "Termination" means the final actions taken by the cabinet as to a solid waste or hazardous waste treatment,
+storage, or disposal facility when formal responsibilities for post-closure monitoring and maintenance cease;
+CHAPTER 119 3
+(26) "Waste site or facility" means any place where waste is managed, processed, or disposed of by incineration,
+landfilling, or any other method, but does not include a container located on property where solid waste is
+generated and which is used solely for the purpose of collection and temporary storage of that solid waste prior
+to off-site disposal, or a recovered material processing facility, or an advanced recycling facility, or the
+combustion of processed waste in a utility boiler;
+(27) "Storage" means the containment of wastes, either on a temporary basis or for a period of years, in such a
+manner as not to constitute disposal of such wastes;
+(28) "Transportation" means any off-site movement of waste by any mode, and any loading, unloading, or storage
+incidental thereto;
+(29) "Treatment" means any method, technique, or process, including neutralization, designed to change the
+physical, chemical, or biological character or composition of any waste so as to neutralize such waste or so as
+to render such waste nonhazardous, safer for transport, amenable for recovery, amenable for storage, or
+reduced in volume. Such term includes any activity or processing designed to change the physical form or
+chemical composition of hazardous waste so as to render it nonhazardous;
+(30) "Waste" means:
+(a) "Solid waste" means any garbage, refuse, sludge, and other discarded material, including solid, liquid,
+semi-solid, or contained gaseous material resulting from industrial, commercial, mining (excluding coal
+mining wastes, coal mining by-products, refuse, and overburden), agricultural operations, and from
+community activities, but does not include those materials including, but not limited to, sand, soil, rock,
+gravel, or bridge debris extracted as part of a public road construction project funded wholly or in part
+with state funds, recovered material, post-use polymers or recovered feedstocks, tire-derived fuel,
+special wastes as designated by KRS 224.50-760, solid or dissolved material in domestic sewage,
+manure, crops, crop residue, or a combination thereof which are placed on the soil for return to the soil
+as fertilizers or soil conditioners, or solid or dissolved material in irrigation return flows or industrial
+discharges which are point sources subject to permits under Section 402 of the Federal Water Pollution
+Control Act, as amended (86 Stat. 880), or source, special nuclear, or by-product material as defined by
+the Atomic Energy Act of 1954, as amended (68 Stat. 923):
+
+Section 2:
+1. "Household solid waste" means solid waste, including garbage and trash generated by single and
+multiple family residences, hotels, motels, bunkhouses, ranger stations, crew quarters, and
+recreational areas such as picnic areas, parks, and campgrounds, but it does not include tire-
+derived fuel;
+
+Section 3:
+2. "Commercial solid waste" means all types of solid waste generated by stores, offices, restaurants,
+warehouses, and other service and nonmanufacturing activities, excluding tire-derived fuel and
+household and industrial solid waste;
+
+Section 4:
+3. "Industrial solid waste" means solid waste generated by manufacturing or industrial processes
+that is not a hazardous waste or a special waste as designated by KRS 224.50-760, including but
+not limited to waste resulting from the following manufacturing processes: electric power
+generation; fertilizer or agricultural chemicals; food and related products or by-products;
+inorganic chemicals; iron and steel manufacturing; leather and leather products; nonferrous
+metals manufacturing/foundries; organic chemicals; plastics and resins manufacturing; pulp and
+paper industry; rubber and miscellaneous plastic products, except tire-derived fuel; stone, glass,
+clay, and concrete products; textile manufacturing; transportation equipment; and water
+treatment; and
+
+Section 5:
+4. "Municipal solid waste" means household solid waste and commercial solid waste; and
+(b) "Hazardous waste" means any discarded material or material intended to be discarded or substance or
+combination of such substances intended to be discarded, in any form which because of its quantity,
+concentration or physical, chemical or infectious characteristics may cause, or significantly contribute
+to an increase in mortality or an increase in serious irreversible, or incapacitating reversible, illness or
+pose a substantial present or potential hazard to human health or the environment when improperly
+treated, stored, transported, or disposed of, or otherwise managed;
+Legislative Research Commission PDF Version
+4 ACTS OF THE GENERAL ASSEMBLY
+(31) "Waste management district" means any county or group of counties electing to form under the provisions of
+KRS Chapter 109 and operate in conformance with the provisions of KRS Chapter 109 and with Section 4006,
+Resource Conservation and Recovery Act of 1976, as amended (Public Law 94-580);
+(32) "Water" or "waters of the Commonwealth" means and includes:
+(a) Navigable waters, as defined in 33 U.S.C. sec. 1362;
+(b) Sinkholes with open throat drains;
+(c) Naturally occurring artesian or phreatic springs, as well as any other spring used as a source of
+domestic water supply; and
+(d) Wellhead protection areas;[any and all rivers, streams, creeks, lakes, ponds, impounding reservoirs,
+springs, wells, marshes, and all other bodies of surface or underground water, natural or artificial,]
+that are situated wholly or partly within or bordering upon the Commonwealth or within its jurisdiction;
+(33) "Water pollution" means the alteration of the physical, thermal, chemical, biological, or radioactive properties
+of the waters of the Commonwealth in such a manner, condition, or quantity that will be detrimental to the
+public health or welfare, to animal or aquatic life or marine life, to the use of such waters as present or future
+sources of public water supply or to the use of such waters for recreational, commercial, industrial,
+agricultural, or other legitimate purposes;
+(34) "Pollutant" means and includes dredged spoil, solid waste, incinerator residue, sewage, sewage sludge,
+garbage, chemical, biological or radioactive materials, heat, wrecked or discarded equipment, rock, sand, soil,
+industrial, municipal or agricultural waste, and any substance resulting from the development, processing, or
+recovery of any natural resource which may be discharged into water;
+(35) "NPDES" means National Pollutant Discharge Elimination System;
+(36) "Manifest" means the form used for identifying the quantity, composition, and the origin, routing, and
+destination of waste during its transportation from the point of generation to the point of disposal, treatment, or
+storage;
+(37) "Open dump" means any facility or site for the disposal of solid waste which does not have a valid permit
+issued by the cabinet or does not meet the environmental performance standards established under regulations
+promulgated by the cabinet;
+(38) "Solid waste management" means the administration of solid waste activities: collection, storage,
+transportation, transfer, processing, treatment, and disposal, which shall be in accordance with a cabinet-
+approved county or multicounty solid waste management plan;
+(39) "Solid waste management area" or "area" means any geographical area established or designated by the
+cabinet in accordance with the provisions of this chapter;
+(40) "Solid waste management facility" means any facility for collection, storage, transportation, transfer,
+processing, treatment, or disposal of solid waste, whether such facility is associated with facilities generating
+such wastes or otherwise, but does not include a container located on property where solid waste is generated
+and which is used solely for the purpose of collection and temporary storage of that solid waste prior to off-site
+disposal, or a recovered material processing facility or advanced recycling facility, both of which are otherwise
+subject to regulation pursuant to this chapter for control of environmental impacts and to prevent any public
+nuisance;
+(41) "Hazardous constituent" shall conform to the requirements of the Resource Conservation and Recovery Act
+(RCRA), as amended;
+(42) "Land disposal" includes but is not limited to any placement of hazardous waste in a landfill, surface
+impoundment, waste pile, injection well, land treatment facility, salt dome formation, salt bed formation, or
+underground mine or cave;
+(43) "Key personnel" means an officer, partner, director, manager, or shareholder of five percent (5%) or more of
+stock or financial interest in a corporation, partnership, or association or parent, subsidiary, or affiliate
+corporation and its officers, directors, or shareholders of five percent (5%) or more of stock or financial
+interest;
+(44) "Universal collection" means a municipal solid waste collection system which is established by ordinance and
+approved by the cabinet and requires access for each household or solid waste generator in a county. A
+CHAPTER 119 5
+commercial or industrial entity which transports or contracts for the transport of the municipal solid waste it
+generates or which operates a solid waste management facility for its exclusive use may be excluded from
+participation;
+(45) "Governing body" means a county, a waste management district, an entity created pursuant to the Interlocal
+Cooperation Act, a taxing district created pursuant to the provisions of KRS 65.180 to 65.192, a special district
+created pursuant to the provisions of KRS 65.160 to 65.176, or counties acting under contract pursuant to KRS
+
+Section 6:
+109.082;
+(46) "Convenience center" means a facility that is manned during operating hours for the collection and subsequent
+transportation of municipal solid wastes;
+(47) "Transfer facility" means any transportation related facility including loading docks, parking areas, and other
+similar areas where shipments of solid waste are held or transferred during the normal course of transportation;
+(48) "Collection box" means an unmanned receptacle utilized to collect municipal solid waste;
+(49) "Newsprint" means that class or kind of paper chiefly used for printing newspapers and weighing more than
+twenty-four and one-half (24 1/2) pounds, but less than thirty-five (35) pounds for five hundred (500) sheets of
+paper two (2) feet by three (3) feet in size, on rolls that are not less than thirteen (13) inches wide and twenty-
+eight (28) inches in diameter and having a brightness of less than sixty (60);
+(50) "Postconsumer waste paper" means discarded paper after it has served its intended use by a publisher;
+(51) "Publisher" means a person engaged in the business of publishing newspapers, advertisement flyers, telephone
+books, and other printed material;
+(52) "Recycled content" means the proportion of fiber in newsprint that is derived from postconsumer waste paper;
+(53) "Tire-derived fuel" or "TDF" means a product made from waste tires to the exact specifications of a system
+designed to accept tire-derived fuel as a primary or supplemental fuel source, that have been reduced to
+particle sizes not greater than two (2) inches by two (2) inches and that is destined for transportation from the
+waste tire processor for use as a fuel. "Tire-derived fuel" shall not mean refuse-derived fuel;
+(54) "Industrial energy facility" means a facility that produces transportation fuels, synthetic natural gas, chemicals,
+or electricity through a gasification process using coal, coal waste, or biomass resources, and costing in excess
+of seven hundred fifty million dollars ($750,000,000) at the time of construction;
+(55) "Advanced recycling" means a manufacturing process for the conversion of post-use polymers and recovered
+feedstocks into basic hydrocarbon raw materials, feedstocks, chemicals, and other products through processes
+that include pyrolysis, gasification, depolymerization, catalytic cracking, reforming, hydrogenation, solvolysis,
+and other similar technologies. "Advanced recycling" does not include energy recovery or the conversion of
+post-use polymers into fuel substitutes for use in energy production;
+(56) "Advanced recycling facility" means a manufacturing facility that receives, stores, and converts post-use
+polymers and recovered feedstocks it receives using advanced recycling;
+(57) "Depolymerization" means a manufacturing process where post-use polymers are broken into smaller
+molecules such as monomers and oligomers or raw, intermediate, or final products, plastics and chemical
+feedstocks, basic and unfinished chemicals, waxes, lubricants, coatings, and other basic hydrocarbons;
+(58) "Gasification" means a process through which post-use polymers and recovered feedstocks are heated and
+converted into a fuel and gas mixture in an oxygen-deficient atmosphere, and then converted into raw,
+intermediate, and final products;
+(59) "Post-use polymer" means a plastic polymer that:
+(a) Is derived from any industrial, commercial, agricultural, or domestic activities;
+(b) Is not mixed with solid waste or hazardous waste on-site or during processing at the advanced recycling
+facility;
+(c) Has a use or intended use as a feedstock for the manufacturing of other feedstocks, raw materials,
+intermediate products, or final products using advanced recycling;
+(d) Has been sorted from solid waste and other regulated waste, but may contain residual amounts of solid
+waste and incidental contaminants or impurities; and
+Legislative Research Commission PDF Version
+6 ACTS OF THE GENERAL ASSEMBLY
+(e) Is processed at an advanced recycling facility or held at such facility prior to processing;
+(60) "Pyrolysis" means a manufacturing process through which post-use polymers are heated in the absence of
+oxygen until melted and thermally decomposed, and are then cooled, condensed, and converted into raw
+materials, intermediate products, or final products;
+(61) (a) "Recovered feedstock" means one (1) or more of the following materials that has been processed so that
+it may be used as feedstock in an advanced recycling facility:
+
+Section 7:
+1. Post-use polymers; and
+
+Section 8:
+2. Materials for which the United States Environmental Protection Agency has made a nonwaste
+determination pursuant to applicable federal requirements or has otherwise determined are
+feedstocks and not solid waste.
+(b) "Recovered feedstock" does not include:
+
+Section 9:
+1. Unprocessed municipal solid waste; or
+
+Section 10:
+2. Material that is mixed with solid waste or hazardous waste on-site or during processing at an
+advanced recycling facility;[ and]
+(62) "Solvolysis" means a manufacturing process through which post-use polymers are purified with the aid of
+solvents while heated at low temperatures or pressurized to make raw materials, intermediate products, or final
+products, while allowing additives and contaminants to be removed. "Solvolysis" includes but is not limited to
+hydrolysis, aminolysis, ammonolysis, methanolysis, and glycolysis; and
+(63) "Wellhead protection area" means and includes all wellhead protection areas as defined in 42 U.S.C. sec.
+300h-7(e) and as determined by the cabinet pursuant to its obligations under 42 U.S.C. sec. 300h-7(a).
+Section 2. KRS 224.1-300 is amended to read as follows:
+[(1) ]For purposes of KRS 224.1-300 and 224.1-310 only:[,]
+(1) "Pollution control facility" means and includes[shall mean and include]:
+(a) Any property designed, constructed, or installed as a component part of any commercial or industrial
+premises for the primary purpose of eliminating or reducing the emission of, or ground level
+concentration of, particulate matter, dust, fumes, gas, mist, smoke, vapor, or odorous substances, or any
+combination thereof which renders air harmful or inimical to the health of persons or to property within
+this Commonwealth;
+(b) Any disposal system or any treatment works, pretreatment works, appliance, equipment, machinery, or
+installation constructed, used, or placed in operation primarily for the purpose of reducing, controlling,
+or eliminating thermal pollution or water pollution caused by industrial waste, or what would be
+industrial waste, if discharged into the waters of the Commonwealth;
+(c) Any disposal system or any appliance, equipment, machinery or installation constructed, used or placed
+in operation primarily for disposing of waste, converting waste into an item of real economic value or
+converting hazardous waste to nonhazardous waste;
+(d) Any property designed, constructed, or installed as a component part of any commercial or industrial
+premises for the primary purpose of eliminating or reducing the emission of sound which is harmful or
+inimical to the health of persons or to property, or materially reduces the quality of the environment in
+this Commonwealth; or
+(e) Any property designed, constructed, or installed for the primary purpose of removing substances from
+raw materials, which substances, if permitted to become a component part of the finished product,
+would have a deleterious effect on the environment when the finished product was utilized;[.]
+(2) "Industrial waste" means any liquid, gaseous, or solid waste substance resulting from any process of industry,
+manufacture, trade, or business, or from the development, processing, or recovery of any natural resource,
+together with such sewage as is present, which pollutes the waters of the Commonwealth;[.]
+(3) "Solid waste" means any garbage, refuse, sludge from a waste treatment plant, water supply treatment plant, or
+air pollution control facility and other discarded material, including solid, liquid, semi-solid, or contained
+gaseous material resulting from industrial, commercial, mining (excluding coal mining waste), and agricultural
+operations, and from community activities, but does not include solid or dissolved material in domestic
+CHAPTER 119 7
+sewage, or solid or dissolved materials in irrigation return flows or industrial discharges which are point
+sources subject to permits under Section 402 of the Federal Water Pollution Control Act, as amended (86 Stat.
+880), or source, special nuclear, or by-product material as defined by the Atomic Energy Act of 1954, as
+amended (68 Stat. 923);[.]
+(4) "Treatment works" means any plant, disposal field, lagoon, dam, pumping station, incinerator, or other works
+used for the purpose of treating, stabilizing, or holding sewage, industrial waste, or other wastes;[.]
+(5) "Water pollution" means[shall mean] the placing of any noxious or deleterious substances in any waters of the
+Commonwealth which render such waters harmful or inimical to aquatic life, or to the use of such waters for
+domestic water supply, or industrial or agricultural purposes or for recreation;[.]
+(6) "Waters of the Commonwealth" means all streams, lakes, ponds, marshes, watercourses, waterways, wells,
+springs, irrigation systems, drainage systems, and all other bodies or accumulations of water, surface and
+underground, natural or artificial, which are situated wholly or partly within, or border upon, this
+Commonwealth, or are within its jurisdiction, except those private waters which do not combine or effect a
+junction with natural surface or underground waters;[.]
+(7) "Cabinet" means[shall mean] the[ Kentucky] Energy and Environment Cabinet; and[.]
+(8) "Pollution control tax exemption certificate" means[shall mean] that certificate issued by the cabinet pursuant
+to KRS 224.1-310.
+Section 3. KRS 350.010 is amended to read as follows:
+As used in this chapter, unless the context requires otherwise:
+(1) "Surface coal mining operations" means activities conducted on the surface of lands in connection with a
+surface coal mine and surface impacts incident to an underground coal mine. The activities shall include
+excavation for the purpose of obtaining coal, including such common methods as contour, strip, auger,
+extended depth secondary recovery systems, mountaintop removal, box cut, open pit, and area mining, the use
+of explosives and blasting, and in situ distillation or retorting, leaching, or other chemical or physical
+processing, and cleaning, concentrating, or other processing or preparation, and the loading of coal at or near
+the mine site. Excavation for the purpose of obtaining coal includes extraction of coal from refuse piles. The
+activities shall not include the extraction of coal by a landowner of fifty (50) tons or less within twelve (12)
+successive calendar months for his own noncommercial use from land owned or leased by him; the extraction
+of twenty-five (25) to two hundred fifty (250) tons of coal as an incidental part of privately financed
+construction where the coal is donated to a charitable or educational organization for noncommercial use or
+noncommercial distribution; the extraction of coal as an incidental part of federal, state, or local government
+financed highway or other construction under administrative regulations established by the cabinet; the
+extraction of, or intent to extract, twenty-five (25) tons or less of coal by any person by surface coal mining
+operations within twelve (12) successive calendar months; the extraction of coal incidental to the extraction of
+other minerals where coal does not exceed sixteen and two-thirds percent (16-2/3%) of the tonnage of minerals
+removed for purposes of commercial use or sale; or coal exploration subject to KRS 350.057. Surface coal
+mining operations shall also include the areas upon which the activities occur or where the activities disturb
+the natural land surface. The areas shall also include any adjacent land, the use of which is incidental to the
+activities, all lands affected by the construction of new roads or the improvement or use of existing roads to
+gain access to the site of the activities and for haulage, and excavations, workings, impoundments, dams,
+ventilation shafts, entryways, refuse banks, dumps, stockpiles, overburden piles, spoil banks, culm banks,
+tailings, holes or depressions, repair areas, storage areas, processing areas, shipping areas, and other areas
+upon which are sited structures, facilities, or other property or materials on the surface resulting from or
+incident to the activities. This definition shall include the terms "strip mining" of coal and the "surface effects
+of underground mining" of coal as used in this chapter;
+(2) "Strip mining" means the breaking of the surface soil in order to facilitate or accomplish the extraction or
+removal of minerals, ores, or other solid matter; any activity or process constituting all or part of a process for
+the extraction or removal of minerals, ores, and other solid matter from its original location; and the
+preparation, washing, cleaning, or other treatment of minerals, ores, or other solid matter so as to make them
+suitable for commercial, industrial, or construction use; but shall not include the extraction of coal by a
+landowner for his own noncommercial use of fifty (50) tons or less within twelve (12) successive calendar
+months from land owned or leased by him; the extraction of coal as an incidental part of federal, state, or local
+government financed highway or other construction under administrative regulations established by the
+Legislative Research Commission PDF Version
+8 ACTS OF THE GENERAL ASSEMBLY
+cabinet; the extraction of, or intent to extract, twenty-five (25) tons or less of coal by any person by surface
+coal mining operations within twelve (12) successive calendar months; the extraction of coal incidental to the
+extraction of other minerals where coal does not exceed sixteen and two-thirds percent (16-2/3%) of the
+tonnage of minerals removed for purposes of commercial use or sale; coal exploration subject to KRS
+
+Section 11:
+350.057; nor shall it include the surface effects or surface impacts of underground coal mining;
+(3) "Surface coal mining and reclamation operations" means surface coal mining operations and all activities
+necessary and incident to the reclamation of the operations as required by this chapter;
+(4) "Overburden" means material of any nature, consolidated or unconsolidated, excluding topsoil, which lies
+above a natural deposit of coal and also means the material after removal from its natural state in the process
+of surface coal mining;
+(5) "Area of land affected" means any area of land or water upon which surface coal mining and reclamation
+operations are conducted or located or are to be conducted or located;
+(6) "Operations" means surface coal mining operations, all of the premises, facilities, roads, and equipment used
+in the process of producing coal from a designated area or removing overburden for the purpose of
+determining the location, quality, or quantity of a natural coal deposit or the activity to facilitate or accomplish
+the extraction or the removal of coal;
+(7) "Method of operation" means the method or manner by which the cut or open pit is made, the overburden is
+placed or handled, water is controlled, and other acts are performed by the operator in the process of
+uncovering and removing the coal;
+(8) "Operator" means any person, partnership, or corporation engaged in surface coal mining operations who
+removes or intends to remove more than twenty-five (25) tons of coal from the earth by coal mining within
+twelve (12) consecutive calendar months in any one (1) location;
+(9) "Person" means any individual, partnership, corporation, association, society, joint stock company, firm,
+company, or other business organization and shall also include any agency, unit, or instrumentality of federal,
+state, or local government including any publicly-owned utility or publicly-owned corporation of federal, state,
+or local government;
+(10) "Cabinet" means the Energy and Environment Cabinet;
+(11) "Secretary" means the secretary of the Energy and Environment Cabinet;
+(12) "Reclamation" means the reconditioning of the area affected by surface coal mining operations under a plan
+approved by the cabinet;
+(13) "Degree" when used in this chapter shall mean from the horizontal, and in each case shall be subject to a
+tolerance of five percent (5%) of error;
+(14) "Bench" means the ledge, shelf, or terrace formed in the contour method of strip mining;
+(15) "Approximate original contour" means that surface configuration achieved by backfilling and grading of the
+mined area so that the reclaimed area, including any terracing or access roads, closely resembles the general
+surface configuration of the land prior to mining and blends into and complements the drainage pattern of the
+surrounding terrain, with all highwalls and spoil piles eliminated; water impoundments may be permitted
+where the cabinet determines that they are in compliance with KRS 350.455;
+(16) "Certification" by a qualified registered professional engineer, as required by this chapter and administrative
+regulations promulgated hereunder, means a good faith representation to the best of his or her knowledge and
+belief, based on adequate knowledge of the requirements of this chapter and administrative regulations
+promulgated hereunder, related experience, best professional judgment, accepted engineering practices and
+recognized professional standards, and standard practice as it relates to direct participation by the registered
+professional engineer or supervision of the registered professional engineer's employees or subordinates.
+Certification shall not be construed to constitute a warranty or guarantee;
+(17) "Reclamation development fund" means only that reconditioning of land affected by surface mining, which
+will directly promote and benefit the fund administered by the Kentucky Economic Development Finance
+Authority to foster economic development on surface mining land;
+(18) "Reclamation development project" means only that reconditioning of land affected by surface mining, which
+will directly promote and benefit an economic undertaking which constitutes a project under KRS 154.1-
+010(20);
+CHAPTER 119 9
+(19) "Reclamation development plan" means a plan submitted to the cabinet to show compliance with reclamation
+standards, and submitted to the Kentucky Economic Development Finance Authority to seek moneys from the
+reclamation development fund for a reclamation development project;
+(20) "Permit applicant" or "applicant" means a person applying for a permit;
+(21) "Permittee" means a person holding a permit to conduct surface coal mining and reclamation operations;
+(22) "Unanticipated event or condition" as used in KRS 350.085(7) means an event or condition encountered in a
+remining operation that was not contemplated by the applicable surface coal mining and reclamation permit;
+(23) "Lands eligible for remining" means those lands that would otherwise be eligible for expenditures under KRS
+
+Section 12:
+350.560(1) or (2);
+(24) "Coal combustion by-products" means fly ash, bottom ash, scrubber sludge, and waste from fluidized bed
+combustion, produced by the combustion of coal. Coal combustion by-products do not include boiler slag, or
+residues of refuse derived fuels, such as municipal solid waste, tires, and solvents;
+(25) "NAD 83" means the North American Datum, 1983 version, in feet units;[ and]
+(26) "Single Zone Projection" means the Kentucky Single Zone State Plane Coordinate System of 1983, based on
+the Lambert Conformal map projection with double standard parallels on the North American Datum, as
+established in 10 KAR 5:010; and
+(27) "Long-term treatment" means the use of any active or passive water treatment necessary to meet water
+quality effluent standards at the time the cabinet determines, in accordance with the administrative
+regulations promulgated by the cabinet relating to performance bond release, that a permittee has
+completed backfilling, regrading, topsoil replacement, and drainage control, including soil preparation,
+initial seeding, and mulching, pursuant to the approved reclamation plan, and that a report for the area has
+been duly submitted to the cabinet.
+Section 4. KRS 350.060 is amended to read as follows:
+(1) (a) No person shall engage in surface coal mining and reclamation operations without having first obtained
+from the cabinet a permit designating the area of land affected by the operation. Permits shall authorize
+the permittee to engage in surface coal mining and reclamation operations upon the area of land
+described in his application for a period not to exceed five (5) years. However, if an applicant
+demonstrates that a specified longer term is reasonably needed to obtain necessary financing for
+equipment and the opening of the operation and if the application is full and complete for the specified
+longer term, the cabinet may grant a permit for the longer term. No mining shall be permitted beyond
+the time period obligations of the initial or extended bond coverage.
+(b) Subject to the provisions of KRS 350.010(1) and (2), no person shall knowingly and willfully receive,
+transport, sell, convey, transfer, trade, exchange, donate, purchase, deliver, or in any way derive benefit
+from coal removed from any surface mining operation which does not have a permit as required under
+this section.
+(2) No permit or revision application shall be approved unless the application affirmatively demonstrates, and the
+cabinet finds in writing on the basis of the information set forth in the application or from information
+otherwise available, that the permit application is accurate and complete and that all the requirements of this
+chapter have been complied with.
+(3) A person desiring a permit to engage in surface coal mining operations shall file an application which shall
+state:
+(a) The location and area of land to be affected by the operation, with a description of access to the area
+from the nearest public highways;
+(b) The owner or owners of the surface of the area of land to be affected by the permit and the owner or
+owners of all surface area adjacent to any part of the affected area;
+(c) The owner or owners of the coal to be mined;
+(d) The source of the applicant's legal right to mine the coal on the land affected by the permit;
+(e) The permanent and temporary post office addresses of the applicant, which shall be updated
+immediately if changed at any point prior to final bond release;
+Legislative Research Commission PDF Version
+10 ACTS OF THE GENERAL ASSEMBLY
+(f) Whether the applicant or any person, partnership, or corporation associated with the applicant holds or
+has held any other permits under this chapter, and an identification of the permits;
+(g) The names and addresses of every officer, partner, director, or person performing a function similar to a
+director of the applicant, together with the names and addresses of any individual owning of record ten
+percent (10%) or more of any class of voting stock of the applicant, and whether the applicant or any
+person is subject to any of the provisions of subsection (3) of KRS 350.130 and he shall so certify. The
+permittee shall submit updates of this information as changes occur or as otherwise provided by
+administrative regulation; however, failure to submit updated information shall constitute a violation of
+this chapter only upon the permittee's refusal or failure to timely submit the information to the cabinet
+upon request. Upon receipt of updated information satisfactory to the cabinet, the cabinet shall promptly
+update its computer system containing the information;
+(h) A listing of any violations of this chapter, Public Law 95-87, and any law, rule, or regulation in effect
+for the protection of air or water resources incurred by the applicant in connection with any surface coal
+mining and reclamation operation during the three (3) year period prior to the date of an application.
+The list shall indicate the final resolution of the violations; and
+(i) Whether the area of land to be affected by the operation has been previously mined and is in
+compliance with current reclamation standards, and, if not, identify the needed reclamation work.
+(4) The application for a permit shall be accompanied by an official document, and an affidavit attesting to the
+document's authenticity, which will evidence what particular business entity the applicant is, whether a foreign
+or domestic corporation, a partnership, an entity doing business as another, or, if sole proprietorship, an
+affidavit so stating.
+(5) The application for a permit shall be accompanied by copies, in numbers satisfactory to the cabinet, of a
+United States Geological Survey topographic map or other map acceptable to the cabinet on which the
+applicant has indicated the location of the operation, the course which would be taken by drainage from the
+operation to the stream or streams to which the drainage would normally flow, the name of the applicant and
+date, and the name of the person who located the operation on the map.
+(6) The application for a permit shall be accompanied by copies, in numbers satisfactory to the cabinet, of an
+enlarged United States Geological Survey topographic map or other map acceptable to the cabinet meeting the
+requirements of paragraphs (a) to (i) of this subsection. The map shall:
+(a) Be prepared and certified by a professional engineer registered under the provisions of KRS Chapter
+
+Section 13:
+322. The certification shall be in the form as provided in subsection (8) of this section, except that the
+engineer shall not be required to certify the true ownership of property under paragraph (d) of this
+subsection;
+(b) Identify the area to correspond with the application;
+(c) Show adjacent deep mining;
+(d) Show the boundaries of surface properties and names of owners of the affected area and adjacent to any
+part of the affected area;
+(e) Be of a scale of 1:24,000 or larger;
+(f) Show the names and locations of all streams, creeks, or other bodies of public water, roads, buildings,
+cemeteries, oil and gas wells, and utility lines on the area of land affected within three hundred (300)
+feet of an as-drilled oil or gas well, but as-drilled locations of oil and gas wells shall be certified only by
+a licensed surveyor and the well locations shall be entered in coordinates in feet units, using NAD 83,
+with Single Zone Projection, as those terms are defined in KRS 350.010;
+(g) Show by appropriate markings the boundaries of the area of land affected, the cropline of the seam or
+deposit of coal to be mined, and the total number of acres involved in the area of land affected;
+(h) Show the date on which the map was prepared, the north point, and the quadrangle name; and
+(i) Show the drainage plan on and away from the area of land affected. The plan shall indicate the
+directional flow of water, constructed drainways, natural waterways used for drainage, and the streams
+or tributaries receiving the discharge.
+(7) Each application shall include a determination of the probable hydrologic consequences of the mining and
+reclamation operations, both on and off the mine site, with respect to the hydrologic regime, quantity and
+CHAPTER 119 11
+quality of water in surface and groundwater systems, including the dissolved and suspended solids under
+seasonal flow conditions, and the collection of sufficient data for the mine site and surrounding areas so that an
+assessment can be made by the cabinet of the probable cumulative impacts of all anticipated mining in the area
+upon the hydrology of the area and particularly upon water availability. This determination shall not be
+required until the time hydrologic information on the general area prior to mining is made available from an
+appropriate federal or state agency. The permit shall not be approved until the information is available and is
+incorporated into the application.
+(8) All certifications required by this chapter to be made by professional engineers shall be done in the form
+prescribed by the cabinet and shall be reasonably specific as to the work being certified. The cabinet may
+reject any document or map as incomplete if it is not properly certified.
+(9) In addition to the information and maps required above, each application for a permit shall be accompanied by
+detailed plans or proposals showing the method of operation; the manner, time, and distance for backfilling;
+grading work; and a reclamation plan for the affected area, which proposals shall meet the requirements of this
+chapter and administrative regulations adopted pursuant thereto.
+(10) The application for a permit shall be accompanied by proof that the applicant has public liability insurance
+coverage satisfactory to the cabinet for the surface mining and reclamation operations for which the permit is
+sought, or proof that the applicant has satisfied self-insurance requirements as provided by administrative
+regulations of the cabinet. The coverage shall be maintained in full force and effect during the terms of the
+permit and any permit renewal, and until reclamation operations are completed.
+(11) (a) A basic fee set by administrative regulation, and bearing a reasonable relationship to the cost of
+processing the permit application but not to exceed two thousand five hundred dollars ($2,500), plus a
+fee set by administrative regulation but not to exceed seventy-five dollars ($75), for each acre or
+fraction thereof of the area of land to be affected by the operation, shall be paid before the permit
+required in this section shall be issued; provided that if the cabinet approves an incremental bonding
+plan submitted by the applicant, the acreage fees may be paid in increments and at times corresponding
+to the approved plan.
+(b) The applicant shall file with the cabinet a bond payable to the Commonwealth of Kentucky with surety
+satisfactory to the cabinet in the sum to be determined by the cabinet for each acre or fraction thereof of
+the area of land affected, with a minimum bond of ten thousand dollars ($10,000), conditioned upon the
+faithful performance of the requirements set forth in this chapter and of the administrative regulations of
+the cabinet. The cabinet shall forfeit the entire amount of the bond for the permit area or increment in
+the event of forfeiture.
+(c) In determining the amount of the bond, the cabinet shall take into consideration the:
+
+Section 14:
+1. Character and nature of the overburden;
+
+Section 15:
+2. [the ]Future suitable use of the land involved;
+
+Section 16:
+3. [the ]Cost of backfilling, grading, and reclamation to be required; and
+
+Section 17:
+4. [the ]Probable difficulty of reclamation, giving consideration to such factors as topography,
+geology, hydrology, and revegetation potential.
+(d) The bond amount shall initially be computed to be sufficient to ensure completion of reclamation if the
+work had to be performed by the cabinet in the event of forfeiture.
+(e) For any permit or permit increment identified by the cabinet as requiring long-term treatment, the
+cabinet shall calculate an additional bond or other financial assurance instrument amount based on
+the estimated annual treatment cost, provided by the permittee and verified by the cabinet, multiplied
+by a factor of twenty-five (25), plus any capital cost of the treatment system. The cabinet shall use its
+own estimate for annual treatment costs if the cabinet cannot verify the permittee's estimate.
+(f) Within thirty (30) days of a cabinet determination of a need to change a bond protocol currently in use,
+the cabinet shall immediately promulgate administrative regulations setting forth bonding requirements,
+including but not limited to requirements for the amount, duration, release, and forfeiture of bonds.
+Bond protocols shall not be exempt from KRS 13A.100 and shall be established by promulgating
+administrative regulations under KRS Chapter 13A. Failure to include the formula for establishing the
+amount of the bond in any administrative regulation on bonding requirements shall be deemed a failure
+Legislative Research Commission PDF Version
+12 ACTS OF THE GENERAL ASSEMBLY
+to comply with the prescriptions of this section and the administrative regulation shall automatically be
+declared deficient in accordance with KRS Chapter 13A.
+(12) The cabinet shall promulgate administrative regulations for the permitting of operations with surface effects of
+underground mining and other surface coal mining and reclamation operations consistent with this section.
+The cabinet shall recognize the distinct differences between the surface effects of underground mining and
+strip mining, as also provided in KRS 350.151, in promulgating permitting requirements for these operations.
+(13) Any valid permit issued pursuant to this chapter shall carry with it the right of successive renewal upon
+expiration with respect to areas within the boundaries of the existing permit. An applicant for renewal of a
+permit shall pay a basic fee set by regulation, not to exceed seven hundred fifty dollars ($750). The holders of
+the permit may apply for renewal and the renewal shall be issued, provided that on application for renewal the
+burden shall be on the opponents of renewal, subsequent to the fulfillment of the public notice requirements of
+this chapter, unless it is established and written findings by the cabinet are made that:
+(a) The terms and conditions of the existing permit are not being satisfactorily met;
+(b) The present surface coal mining and reclamation operation is not in compliance with the environmental
+protection standards of this chapter;
+(c) The renewal requested substantially jeopardizes the applicant's continuing responsibility on existing
+permit areas;
+(d) The applicant has not provided evidence that the performance bond in effect for the operation will
+continue in full force and effect for any renewal requested in the application as well as any additional
+bond the cabinet might require; or
+(e) Any additional revised or updated information required by the cabinet has not been provided.
+Prior to the approval of any renewal of permit, the cabinet shall provide notice to the appropriate public
+authorities.
+(14) If an application for renewal of a valid permit includes a proposal to extend the mining operation beyond the
+boundaries authorized in the existing permit, the portion of the application for renewal of a valid permit which
+addresses any new areas of surface disturbance shall be subject to the full standards applicable to new
+applications under this chapter.
+(15) Any permit renewal shall be for a term not to exceed the period of the original permit. Application for permit
+renewal shall be made at least one hundred twenty (120) days prior to the expiration of the valid permit.
+(16) Notwithstanding any of the provisions of this section, a permit shall terminate if the permittee has not
+commenced the surface coal mining operations covered by the permit within three (3) years of the issuance of
+the permit. However, the cabinet may grant reasonable extensions of time upon a showing that the extensions
+are necessary by reason of litigation precluding commencement of operations, or threatening substantial
+economic loss to the permittee, or by reason of conditions beyond the control and without the fault or
+negligence of the permittee. With respect to coal to be mined for use in a synthetic fuel facility or specific
+major electric generating facility, the permittee shall be deemed to have commenced surface mining operations
+at the time the construction of the synthetic fuel or generating facility is initiated.
+(17) Each application for a permit or revision for auger mining on a previously mined area shall contain
+information to describe the area to be affected, to show that the proposed method of operation will result in
+stable post-mining conditions, and reduce or eliminate adverse environmental conditions created by previous
+mining activities. If the cabinet determines that the affected area cannot be stabilized and reclaimed subsequent
+to augering or that the operation will result in an adverse impact to the proposed or adjacent area, the permit or
+revision shall not be issued. The cabinet shall, consistent with all applicable requirements of this chapter, issue
+a permit or revision if the applicant demonstrates that the proposed coal mining operations will provide for
+reduction or elimination of the highwall, or reduction or abatement of adverse impacts resulting from past
+mining activities, or stabilization or enhancement of a previously mined area. The cabinet shall insure that all
+reasonably available spoil material will be used to backfill the highwall to the extent practical and feasible;
+provided, however, that in all cases the holes be properly sealed and backfilled to a minimum of four (4) feet
+above the coal seam being mined.
+(18) All operations involving the loading of coal which do not separate the coal from its impurities, and which are
+not located at or near the mine site, shall be exempt from the requirements of this chapter.
+CHAPTER 119 13
+Section 5. Whereas it is critical to the orderly administration of the Commonwealth’s environmental
+protection laws that waters be properly defined, and critical to the health and safety of the citizens of the
+Commonwealth that appropriate financial assurance be obtained to address long-term post-mining water discharges
+in the event of operator default, an emergency is declared to exist, and this Act takes effect upon its passage and
+approval by the Governor or upon its otherwise becoming a law.
+Veto Overridden March 27, 2025.
+Legislative Research Commission PDF Version
+[DELETED:  " c i s d s g c o a o p m r " c a i p w s a s a h a p p a b a o s o a t i s a m f r " " " m s w w h u b d o o m b u c o s t b s t a d w i p t p g a w i a f o s a a s a a t " " " " o u o t p o p s t t d s f t " " " " r a c o c p b a o c w a "]
+[DELETED:  " " " " m a i t f j s c c ( a g " " " r o r w c b r o r a w d " " " f m a s p f p d f t e s o " " s m i o c t c o d u f c "]
+[DELETED:  " o d o a r m p f o a a r f o t " " " m a m t o p i n d t c t r s w n s f t a f r a f s o " " s f r m p p o r f t f w a d b K 2 s o d m i d s " f r h m b r s c q a " " l t w r f t f m p e p f o a c f a r p o b c i a s m l a l p n a c p t m t e a w " "]
+[DELETED:  " " N S N Wt " o p w s o t t u o s w f r c i " m a i d s s w i r s s s " " m t f u f i t q c a t o r a " " w m m t a o s w a c s t p t a d w s b i a w a c " w m a o " m a g a e o d b t " w m f m a f f c s t t " " d i b i n l t a p o h w i a l s " o f i i a c p o a o p s o a "]
+[DELETED:  " " " " " " " " " " " " r f m a m f t r s a c p " m a m p w p p a b i s p " i a f a g m i a o a a t c i r " I I H H]
+[DELETED:  I " ( " P M p t a f r o h o d a " U M " " ] " A f t p p o e o r t e o o g l A e t p o w p c b i w o w w b A A A f " " a f c a b d n i s o d m i d]
+[DELETED:  " " " n o a w a s w o p w o b u t " " " f t p o o c i s c m a c s a e a b a i s d o r l o o c o p t ( t t h f ( t o c a a i p o p f h o o c u a r e b t c t " e o r o m o a o s m f i o l a t f c i o c u b s n i t e o c b f h o o c u a r e b t]
+[DELETED:  o m r f p o c u o s c e s t K " " " " t p o p c f a d a o r o f t p o " o h w i c a o a a p b t o i t p o " " m a i p c a s j s c f " " " " " " " b o a k o t r o t c a a r e o s o t r p e e o s " "]
+[DELETED:  " " " " " " " " " e s a t t t c d i a w t a p b t c r t p b r t a p h ( N p t e i s c m a r o u t a o l i h a f a p n t e f ( y H i a a t a s l t i r n t o n f f S N f i w o t b o t i s f i t a o f i A T T T T T p a t p o a o t a w s b u]
+[DELETED:  W T s s u o t i a c o o a o p b A W t a o l t b a b t o h b p m a i i T d c a p a e d b a a o i s p a T S G S t m o o m a t t c o w t T B I S S B S S S S t d p o a a f t a o l a T p s i t E]
+[DELETED:  t h o t a a p u w a T d s n b A I T ( A b f s b a r a b a r r t t c o s b a r b n t e s d ( f e a o T I C [ [ [ ] d o r g c t s f a t T F W p s n f K 1 s b e b]
+[DELETED:  T A T T T T AP I a n a o s d s b s t t f s a t n A N a o t p o t s a p s t i t p h n n b r o l p c o o o t s l t t p o b r o c b t c a w t f o E a f a p o r f a m o a p m a s c A]
+[DELETED:  l t w b p d a c t t h a s o t c o t]
+
+
+================================================================================
+
+Raw Text:
+CHAPTER 119 1
+CHAPTER 119
+( SB 89 )
+AN ACT relating to environmental protection and declaring an emergency.
+Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+Section 1. KRS 224.1-010 is amended to read as follows:
+As used in this chapter unless the context clearly indicates otherwise:
+(1) "Air contaminant" includes smoke, dust, soot, grime, carbon, or any other particulate matter, radioactive
+matter, noxious acids, fumes, gases, odor, vapor, or any combination thereof;
+(2) "Air contaminant source" means any and all sources of emission of air contaminants, whether privately or
+publicly owned or operated. Without limiting the generality of the foregoing, this term includes all types of
+business, commercial and industrial plants, works, shops, and stores, and heating and power plants and
+stations, buildings and other structures of all types, including single and multiple family residences,
+apartments, houses, office buildings, public buildings, hotels, restaurants, schools, hospitals, churches, and
+other institutional buildings, automobiles, trucks, tractors, buses and other motor vehicles, garages and vending
+and service locations and stations, railroad locomotives, ships, boats and other waterborne craft, portable fuel-
+burning equipment, incinerators of all types (indoor and outdoor), refuse dumps and piles, and all stack and
+other chimney outlets from any of the foregoing;
+(3) "Air pollution" means the presence in the outdoor atmosphere of one (1) or more air contaminants in sufficient
+quantities and of such characteristics and duration as is or threatens to be injurious to human, plant, or animal
+life, or to property, or which unreasonably interferes with the comfortable enjoyment of life or property;
+(4) "Closure" means the time at which a waste treatment, storage, or disposal facility permanently ceases to accept
+wastes, and includes those actions taken by the owner or operator of the facility to prepare the site for post-
+closure monitoring and maintenance or to make it suitable for other uses;
+(5) "Compost" means solid waste which has undergone biological decomposition of organic matter, been
+disinfected using composting or similar technologies, been stabilized to a degree which is potentially
+beneficial to plant growth and which is approved for use or sale as a soil amendment, artificial topsoil,
+growing medium amendment, or other similar uses;
+(6) "Composting" means the process by which biological decomposition of organic solid waste is carried out
+under controlled aerobic conditions, and which stabilizes the organic fraction into a material which can easily
+and safely be stored, handled, and used in an environmentally acceptable manner:
+(a) "Composting" may include a process which creates an anaerobic zone within the composting material;
+(b) "Composting" does not include simple exposure of solid waste under uncontrolled conditions resulting
+in natural decay;
+(7) "Demonstration" means the initial exhibition of a new technology, process or practice or a significantly new
+combination or use of technologies, processes or practices, subsequent to the development stage, for the
+purpose of proving technological feasibility and cost effectiveness;
+(8) "Cabinet" means the Energy and Environment Cabinet;
+(9) "Disposal" means the discharge, deposit, injection, dumping, spilling, leaking, or placing of any waste into or
+on any land or water so that such waste or any constituent thereof may enter the environment or be emitted
+into the air or discharged into any waters, including ground waters;
+(10) "District" means an air pollution control district as provided for in KRS Chapter 77;
+(11) "Effluent limitations" means any restrictions or prohibitions established under state law which include, but are
+not limited to, effluent limitations, standards of performance for new sources, and toxic effluent standards on
+quantities, rates, and concentrations of chemical, physical, biological, and other constituents which are
+discharged into waters;
+(12) "Generator" means any person, by site, whose act or process produces waste;
+Legislative Research Commission PDF Version
+
+2 ACTS OF THE GENERAL ASSEMBLY
+(13) "Materials recovery facility" means a solid waste management facility that provides for the extraction from
+solid waste of recyclable materials, materials suitable for use as a fuel or soil amendment, or any combination
+of those materials;
+(14) "Municipal solid waste disposal facility" means any type of waste site or facility where the final deposition of
+any amount of municipal solid waste occurs, whether or not mixed with or including other waste allowed
+under Subtitle D of the Federal Resource Conservation and Recovery Act of 1976, as amended, and includes
+but is not limited to incinerators and waste-to-energy facilities that burn municipal solid waste and contained
+and residential landfills, but does not include an advanced recycling facility or a waste site or facility which is
+operated exclusively by a solid waste generator on property owned by the solid waste generator which accepts
+only industrial solid waste from the solid waste generator or industrial solid waste generated at another facility
+owned and operated by the generator or wholly-owned subsidiary, or a medical waste incinerator which is
+owned, operated, and located on the property of a hospital or university which is regulated by the cabinet and
+used for the purpose of treatment, prior to landfill, of medical waste received from the generator exclusively or
+in combination with medical waste generated by professionals or facilities licensed or regulated or operated by
+the Commonwealth;
+(15) "Municipal solid waste reduction" means source reduction, waste minimization, reuse, recycling, composting,
+and materials recovery;
+(16) "Person" means an individual, trust, firm, joint stock company, corporation (including a government
+corporation), partnership, association, federal agency, state agency, city, commission, political subdivision of
+the Commonwealth, or any interstate body;
+(17) "Post-closure monitoring and maintenance" means the routine care, maintenance, and monitoring of a solid
+waste or hazardous waste treatment, storage, or disposal facility following closure of the facility;
+(18) "Publicly owned treatment works" means any device or system used in the treatment (including recycling and
+recovery) of municipal sewage or industrial wastes of a liquid nature which is owned by the Commonwealth or
+a political subdivision of the Commonwealth;
+(19) "Recovered material" means those materials, including but not limited to compost, which have known current
+use, reuse, or recycling potential, which can be feasibly used, reused, or recycled, and which have been
+diverted or removed from the solid waste stream for sale, use, reuse, or recycling, whether or not requiring
+subsequent separation and processing, but does not include materials diverted or removed for purposes of
+energy recovery or combustion except refuse-derived fuel (RDF), which shall be credited as a recovered
+material in an amount equal to that percentage of the municipal solid waste received on a daily basis at the
+processing facility and processed into RDF; but not to exceed fifteen percent (15%) of the total amount of the
+municipal solid waste received at the processing facility on a daily basis. Notwithstanding any provision of
+law to the contrary, tire-derived fuel, as defined in subsection (53) of this section, shall be considered a
+recovered material;
+(20) "Recovered material processing facility" means a facility engaged solely in the storage, processing, and resale
+or reuse of recovered material, but does not mean a solid waste management facility if solid waste generated
+by a recovered material processing facility is managed pursuant to this chapter and administrative regulations
+adopted by the cabinet;
+(21) "Recycling" means any process by which materials which would otherwise become solid waste are collected,
+separated, or processed and reused or returned to use in the form of raw materials or products, including
+refuse-derived fuel when processed in accordance with administrative regulations established by the cabinet,
+but does not include the incineration or combustion of materials for the recovery of energy;
+(22) "Refuse-derived fuel" means a sized, processed fuel product derived from the extensive separation of
+municipal solid waste, which includes the extraction of recoverable materials for recycling and the removal of
+nonprocessables such as dirt and gravel prior to processing the balance of the municipal solid waste into the
+refuse-derived fuel product;
+(23) "Secretary" means the secretary of the Energy and Environment Cabinet;
+(24) "Sewage system" means individually or collectively those constructions or devices used for collecting,
+pumping, treating, and disposing of liquid or waterborne sewage, industrial wastes, or other wastes;
+(25) "Termination" means the final actions taken by the cabinet as to a solid waste or hazardous waste treatment,
+storage, or disposal facility when formal responsibilities for post-closure monitoring and maintenance cease;
+
+CHAPTER 119 3
+(26) "Waste site or facility" means any place where waste is managed, processed, or disposed of by incineration,
+landfilling, or any other method, but does not include a container located on property where solid waste is
+generated and which is used solely for the purpose of collection and temporary storage of that solid waste prior
+to off-site disposal, or a recovered material processing facility, or an advanced recycling facility, or the
+combustion of processed waste in a utility boiler;
+(27) "Storage" means the containment of wastes, either on a temporary basis or for a period of years, in such a
+manner as not to constitute disposal of such wastes;
+(28) "Transportation" means any off-site movement of waste by any mode, and any loading, unloading, or storage
+incidental thereto;
+(29) "Treatment" means any method, technique, or process, including neutralization, designed to change the
+physical, chemical, or biological character or composition of any waste so as to neutralize such waste or so as
+to render such waste nonhazardous, safer for transport, amenable for recovery, amenable for storage, or
+reduced in volume. Such term includes any activity or processing designed to change the physical form or
+chemical composition of hazardous waste so as to render it nonhazardous;
+(30) "Waste" means:
+(a) "Solid waste" means any garbage, refuse, sludge, and other discarded material, including solid, liquid,
+semi-solid, or contained gaseous material resulting from industrial, commercial, mining (excluding coal
+mining wastes, coal mining by-products, refuse, and overburden), agricultural operations, and from
+community activities, but does not include those materials including, but not limited to, sand, soil, rock,
+gravel, or bridge debris extracted as part of a public road construction project funded wholly or in part
+with state funds, recovered material, post-use polymers or recovered feedstocks, tire-derived fuel,
+special wastes as designated by KRS 224.50-760, solid or dissolved material in domestic sewage,
+manure, crops, crop residue, or a combination thereof which are placed on the soil for return to the soil
+as fertilizers or soil conditioners, or solid or dissolved material in irrigation return flows or industrial
+discharges which are point sources subject to permits under Section 402 of the Federal Water Pollution
+Control Act, as amended (86 Stat. 880), or source, special nuclear, or by-product material as defined by
+the Atomic Energy Act of 1954, as amended (68 Stat. 923):
+1. "Household solid waste" means solid waste, including garbage and trash generated by single and
+multiple family residences, hotels, motels, bunkhouses, ranger stations, crew quarters, and
+recreational areas such as picnic areas, parks, and campgrounds, but it does not include tire-
+derived fuel;
+2. "Commercial solid waste" means all types of solid waste generated by stores, offices, restaurants,
+warehouses, and other service and nonmanufacturing activities, excluding tire-derived fuel and
+household and industrial solid waste;
+3. "Industrial solid waste" means solid waste generated by manufacturing or industrial processes
+that is not a hazardous waste or a special waste as designated by KRS 224.50-760, including but
+not limited to waste resulting from the following manufacturing processes: electric power
+generation; fertilizer or agricultural chemicals; food and related products or by-products;
+inorganic chemicals; iron and steel manufacturing; leather and leather products; nonferrous
+metals manufacturing/foundries; organic chemicals; plastics and resins manufacturing; pulp and
+paper industry; rubber and miscellaneous plastic products, except tire-derived fuel; stone, glass,
+clay, and concrete products; textile manufacturing; transportation equipment; and water
+treatment; and
+4. "Municipal solid waste" means household solid waste and commercial solid waste; and
+(b) "Hazardous waste" means any discarded material or material intended to be discarded or substance or
+combination of such substances intended to be discarded, in any form which because of its quantity,
+concentration or physical, chemical or infectious characteristics may cause, or significantly contribute
+to an increase in mortality or an increase in serious irreversible, or incapacitating reversible, illness or
+pose a substantial present or potential hazard to human health or the environment when improperly
+treated, stored, transported, or disposed of, or otherwise managed;
+Legislative Research Commission PDF Version
+
+4 ACTS OF THE GENERAL ASSEMBLY
+(31) "Waste management district" means any county or group of counties electing to form under the provisions of
+KRS Chapter 109 and operate in conformance with the provisions of KRS Chapter 109 and with Section 4006,
+Resource Conservation and Recovery Act of 1976, as amended (Public Law 94-580);
+(32) "Water" or "waters of the Commonwealth" means and includes:
+(a) Navigable waters, as defined in 33 U.S.C. sec. 1362;
+(b) Sinkholes with open throat drains;
+(c) Naturally occurring artesian or phreatic springs, as well as any other spring used as a source of
+domestic water supply; and
+(d) Wellhead protection areas;[any and all rivers, streams, creeks, lakes, ponds, impounding reservoirs,
+springs, wells, marshes, and all other bodies of surface or underground water, natural or artificial,]
+that are situated wholly or partly within or bordering upon the Commonwealth or within its jurisdiction;
+(33) "Water pollution" means the alteration of the physical, thermal, chemical, biological, or radioactive properties
+of the waters of the Commonwealth in such a manner, condition, or quantity that will be detrimental to the
+public health or welfare, to animal or aquatic life or marine life, to the use of such waters as present or future
+sources of public water supply or to the use of such waters for recreational, commercial, industrial,
+agricultural, or other legitimate purposes;
+(34) "Pollutant" means and includes dredged spoil, solid waste, incinerator residue, sewage, sewage sludge,
+garbage, chemical, biological or radioactive materials, heat, wrecked or discarded equipment, rock, sand, soil,
+industrial, municipal or agricultural waste, and any substance resulting from the development, processing, or
+recovery of any natural resource which may be discharged into water;
+(35) "NPDES" means National Pollutant Discharge Elimination System;
+(36) "Manifest" means the form used for identifying the quantity, composition, and the origin, routing, and
+destination of waste during its transportation from the point of generation to the point of disposal, treatment, or
+storage;
+(37) "Open dump" means any facility or site for the disposal of solid waste which does not have a valid permit
+issued by the cabinet or does not meet the environmental performance standards established under regulations
+promulgated by the cabinet;
+(38) "Solid waste management" means the administration of solid waste activities: collection, storage,
+transportation, transfer, processing, treatment, and disposal, which shall be in accordance with a cabinet-
+approved county or multicounty solid waste management plan;
+(39) "Solid waste management area" or "area" means any geographical area established or designated by the
+cabinet in accordance with the provisions of this chapter;
+(40) "Solid waste management facility" means any facility for collection, storage, transportation, transfer,
+processing, treatment, or disposal of solid waste, whether such facility is associated with facilities generating
+such wastes or otherwise, but does not include a container located on property where solid waste is generated
+and which is used solely for the purpose of collection and temporary storage of that solid waste prior to off-site
+disposal, or a recovered material processing facility or advanced recycling facility, both of which are otherwise
+subject to regulation pursuant to this chapter for control of environmental impacts and to prevent any public
+nuisance;
+(41) "Hazardous constituent" shall conform to the requirements of the Resource Conservation and Recovery Act
+(RCRA), as amended;
+(42) "Land disposal" includes but is not limited to any placement of hazardous waste in a landfill, surface
+impoundment, waste pile, injection well, land treatment facility, salt dome formation, salt bed formation, or
+underground mine or cave;
+(43) "Key personnel" means an officer, partner, director, manager, or shareholder of five percent (5%) or more of
+stock or financial interest in a corporation, partnership, or association or parent, subsidiary, or affiliate
+corporation and its officers, directors, or shareholders of five percent (5%) or more of stock or financial
+interest;
+(44) "Universal collection" means a municipal solid waste collection system which is established by ordinance and
+approved by the cabinet and requires access for each household or solid waste generator in a county. A
+
+CHAPTER 119 5
+commercial or industrial entity which transports or contracts for the transport of the municipal solid waste it
+generates or which operates a solid waste management facility for its exclusive use may be excluded from
+participation;
+(45) "Governing body" means a county, a waste management district, an entity created pursuant to the Interlocal
+Cooperation Act, a taxing district created pursuant to the provisions of KRS 65.180 to 65.192, a special district
+created pursuant to the provisions of KRS 65.160 to 65.176, or counties acting under contract pursuant to KRS
+109.082;
+(46) "Convenience center" means a facility that is manned during operating hours for the collection and subsequent
+transportation of municipal solid wastes;
+(47) "Transfer facility" means any transportation related facility including loading docks, parking areas, and other
+similar areas where shipments of solid waste are held or transferred during the normal course of transportation;
+(48) "Collection box" means an unmanned receptacle utilized to collect municipal solid waste;
+(49) "Newsprint" means that class or kind of paper chiefly used for printing newspapers and weighing more than
+twenty-four and one-half (24 1/2) pounds, but less than thirty-five (35) pounds for five hundred (500) sheets of
+paper two (2) feet by three (3) feet in size, on rolls that are not less than thirteen (13) inches wide and twenty-
+eight (28) inches in diameter and having a brightness of less than sixty (60);
+(50) "Postconsumer waste paper" means discarded paper after it has served its intended use by a publisher;
+(51) "Publisher" means a person engaged in the business of publishing newspapers, advertisement flyers, telephone
+books, and other printed material;
+(52) "Recycled content" means the proportion of fiber in newsprint that is derived from postconsumer waste paper;
+(53) "Tire-derived fuel" or "TDF" means a product made from waste tires to the exact specifications of a system
+designed to accept tire-derived fuel as a primary or supplemental fuel source, that have been reduced to
+particle sizes not greater than two (2) inches by two (2) inches and that is destined for transportation from the
+waste tire processor for use as a fuel. "Tire-derived fuel" shall not mean refuse-derived fuel;
+(54) "Industrial energy facility" means a facility that produces transportation fuels, synthetic natural gas, chemicals,
+or electricity through a gasification process using coal, coal waste, or biomass resources, and costing in excess
+of seven hundred fifty million dollars ($750,000,000) at the time of construction;
+(55) "Advanced recycling" means a manufacturing process for the conversion of post-use polymers and recovered
+feedstocks into basic hydrocarbon raw materials, feedstocks, chemicals, and other products through processes
+that include pyrolysis, gasification, depolymerization, catalytic cracking, reforming, hydrogenation, solvolysis,
+and other similar technologies. "Advanced recycling" does not include energy recovery or the conversion of
+post-use polymers into fuel substitutes for use in energy production;
+(56) "Advanced recycling facility" means a manufacturing facility that receives, stores, and converts post-use
+polymers and recovered feedstocks it receives using advanced recycling;
+(57) "Depolymerization" means a manufacturing process where post-use polymers are broken into smaller
+molecules such as monomers and oligomers or raw, intermediate, or final products, plastics and chemical
+feedstocks, basic and unfinished chemicals, waxes, lubricants, coatings, and other basic hydrocarbons;
+(58) "Gasification" means a process through which post-use polymers and recovered feedstocks are heated and
+converted into a fuel and gas mixture in an oxygen-deficient atmosphere, and then converted into raw,
+intermediate, and final products;
+(59) "Post-use polymer" means a plastic polymer that:
+(a) Is derived from any industrial, commercial, agricultural, or domestic activities;
+(b) Is not mixed with solid waste or hazardous waste on-site or during processing at the advanced recycling
+facility;
+(c) Has a use or intended use as a feedstock for the manufacturing of other feedstocks, raw materials,
+intermediate products, or final products using advanced recycling;
+(d) Has been sorted from solid waste and other regulated waste, but may contain residual amounts of solid
+waste and incidental contaminants or impurities; and
+Legislative Research Commission PDF Version
+
+6 ACTS OF THE GENERAL ASSEMBLY
+(e) Is processed at an advanced recycling facility or held at such facility prior to processing;
+(60) "Pyrolysis" means a manufacturing process through which post-use polymers are heated in the absence of
+oxygen until melted and thermally decomposed, and are then cooled, condensed, and converted into raw
+materials, intermediate products, or final products;
+(61) (a) "Recovered feedstock" means one (1) or more of the following materials that has been processed so that
+it may be used as feedstock in an advanced recycling facility:
+1. Post-use polymers; and
+2. Materials for which the United States Environmental Protection Agency has made a nonwaste
+determination pursuant to applicable federal requirements or has otherwise determined are
+feedstocks and not solid waste.
+(b) "Recovered feedstock" does not include:
+1. Unprocessed municipal solid waste; or
+2. Material that is mixed with solid waste or hazardous waste on-site or during processing at an
+advanced recycling facility;[ and]
+(62) "Solvolysis" means a manufacturing process through which post-use polymers are purified with the aid of
+solvents while heated at low temperatures or pressurized to make raw materials, intermediate products, or final
+products, while allowing additives and contaminants to be removed. "Solvolysis" includes but is not limited to
+hydrolysis, aminolysis, ammonolysis, methanolysis, and glycolysis; and
+(63) "Wellhead protection area" means and includes all wellhead protection areas as defined in 42 U.S.C. sec.
+300h-7(e) and as determined by the cabinet pursuant to its obligations under 42 U.S.C. sec. 300h-7(a).
+Section 2. KRS 224.1-300 is amended to read as follows:
+[(1) ]For purposes of KRS 224.1-300 and 224.1-310 only:[,]
+(1) "Pollution control facility" means and includes[shall mean and include]:
+(a) Any property designed, constructed, or installed as a component part of any commercial or industrial
+premises for the primary purpose of eliminating or reducing the emission of, or ground level
+concentration of, particulate matter, dust, fumes, gas, mist, smoke, vapor, or odorous substances, or any
+combination thereof which renders air harmful or inimical to the health of persons or to property within
+this Commonwealth;
+(b) Any disposal system or any treatment works, pretreatment works, appliance, equipment, machinery, or
+installation constructed, used, or placed in operation primarily for the purpose of reducing, controlling,
+or eliminating thermal pollution or water pollution caused by industrial waste, or what would be
+industrial waste, if discharged into the waters of the Commonwealth;
+(c) Any disposal system or any appliance, equipment, machinery or installation constructed, used or placed
+in operation primarily for disposing of waste, converting waste into an item of real economic value or
+converting hazardous waste to nonhazardous waste;
+(d) Any property designed, constructed, or installed as a component part of any commercial or industrial
+premises for the primary purpose of eliminating or reducing the emission of sound which is harmful or
+inimical to the health of persons or to property, or materially reduces the quality of the environment in
+this Commonwealth; or
+(e) Any property designed, constructed, or installed for the primary purpose of removing substances from
+raw materials, which substances, if permitted to become a component part of the finished product,
+would have a deleterious effect on the environment when the finished product was utilized;[.]
+(2) "Industrial waste" means any liquid, gaseous, or solid waste substance resulting from any process of industry,
+manufacture, trade, or business, or from the development, processing, or recovery of any natural resource,
+together with such sewage as is present, which pollutes the waters of the Commonwealth;[.]
+(3) "Solid waste" means any garbage, refuse, sludge from a waste treatment plant, water supply treatment plant, or
+air pollution control facility and other discarded material, including solid, liquid, semi-solid, or contained
+gaseous material resulting from industrial, commercial, mining (excluding coal mining waste), and agricultural
+operations, and from community activities, but does not include solid or dissolved material in domestic
+
+CHAPTER 119 7
+sewage, or solid or dissolved materials in irrigation return flows or industrial discharges which are point
+sources subject to permits under Section 402 of the Federal Water Pollution Control Act, as amended (86 Stat.
+880), or source, special nuclear, or by-product material as defined by the Atomic Energy Act of 1954, as
+amended (68 Stat. 923);[.]
+(4) "Treatment works" means any plant, disposal field, lagoon, dam, pumping station, incinerator, or other works
+used for the purpose of treating, stabilizing, or holding sewage, industrial waste, or other wastes;[.]
+(5) "Water pollution" means[shall mean] the placing of any noxious or deleterious substances in any waters of the
+Commonwealth which render such waters harmful or inimical to aquatic life, or to the use of such waters for
+domestic water supply, or industrial or agricultural purposes or for recreation;[.]
+(6) "Waters of the Commonwealth" means all streams, lakes, ponds, marshes, watercourses, waterways, wells,
+springs, irrigation systems, drainage systems, and all other bodies or accumulations of water, surface and
+underground, natural or artificial, which are situated wholly or partly within, or border upon, this
+Commonwealth, or are within its jurisdiction, except those private waters which do not combine or effect a
+junction with natural surface or underground waters;[.]
+(7) "Cabinet" means[shall mean] the[ Kentucky] Energy and Environment Cabinet; and[.]
+(8) "Pollution control tax exemption certificate" means[shall mean] that certificate issued by the cabinet pursuant
+to KRS 224.1-310.
+Section 3. KRS 350.010 is amended to read as follows:
+As used in this chapter, unless the context requires otherwise:
+(1) "Surface coal mining operations" means activities conducted on the surface of lands in connection with a
+surface coal mine and surface impacts incident to an underground coal mine. The activities shall include
+excavation for the purpose of obtaining coal, including such common methods as contour, strip, auger,
+extended depth secondary recovery systems, mountaintop removal, box cut, open pit, and area mining, the use
+of explosives and blasting, and in situ distillation or retorting, leaching, or other chemical or physical
+processing, and cleaning, concentrating, or other processing or preparation, and the loading of coal at or near
+the mine site. Excavation for the purpose of obtaining coal includes extraction of coal from refuse piles. The
+activities shall not include the extraction of coal by a landowner of fifty (50) tons or less within twelve (12)
+successive calendar months for his own noncommercial use from land owned or leased by him; the extraction
+of twenty-five (25) to two hundred fifty (250) tons of coal as an incidental part of privately financed
+construction where the coal is donated to a charitable or educational organization for noncommercial use or
+noncommercial distribution; the extraction of coal as an incidental part of federal, state, or local government
+financed highway or other construction under administrative regulations established by the cabinet; the
+extraction of, or intent to extract, twenty-five (25) tons or less of coal by any person by surface coal mining
+operations within twelve (12) successive calendar months; the extraction of coal incidental to the extraction of
+other minerals where coal does not exceed sixteen and two-thirds percent (16-2/3%) of the tonnage of minerals
+removed for purposes of commercial use or sale; or coal exploration subject to KRS 350.057. Surface coal
+mining operations shall also include the areas upon which the activities occur or where the activities disturb
+the natural land surface. The areas shall also include any adjacent land, the use of which is incidental to the
+activities, all lands affected by the construction of new roads or the improvement or use of existing roads to
+gain access to the site of the activities and for haulage, and excavations, workings, impoundments, dams,
+ventilation shafts, entryways, refuse banks, dumps, stockpiles, overburden piles, spoil banks, culm banks,
+tailings, holes or depressions, repair areas, storage areas, processing areas, shipping areas, and other areas
+upon which are sited structures, facilities, or other property or materials on the surface resulting from or
+incident to the activities. This definition shall include the terms "strip mining" of coal and the "surface effects
+of underground mining" of coal as used in this chapter;
+(2) "Strip mining" means the breaking of the surface soil in order to facilitate or accomplish the extraction or
+removal of minerals, ores, or other solid matter; any activity or process constituting all or part of a process for
+the extraction or removal of minerals, ores, and other solid matter from its original location; and the
+preparation, washing, cleaning, or other treatment of minerals, ores, or other solid matter so as to make them
+suitable for commercial, industrial, or construction use; but shall not include the extraction of coal by a
+landowner for his own noncommercial use of fifty (50) tons or less within twelve (12) successive calendar
+months from land owned or leased by him; the extraction of coal as an incidental part of federal, state, or local
+government financed highway or other construction under administrative regulations established by the
+Legislative Research Commission PDF Version
+
+8 ACTS OF THE GENERAL ASSEMBLY
+cabinet; the extraction of, or intent to extract, twenty-five (25) tons or less of coal by any person by surface
+coal mining operations within twelve (12) successive calendar months; the extraction of coal incidental to the
+extraction of other minerals where coal does not exceed sixteen and two-thirds percent (16-2/3%) of the
+tonnage of minerals removed for purposes of commercial use or sale; coal exploration subject to KRS
+350.057; nor shall it include the surface effects or surface impacts of underground coal mining;
+(3) "Surface coal mining and reclamation operations" means surface coal mining operations and all activities
+necessary and incident to the reclamation of the operations as required by this chapter;
+(4) "Overburden" means material of any nature, consolidated or unconsolidated, excluding topsoil, which lies
+above a natural deposit of coal and also means the material after removal from its natural state in the process
+of surface coal mining;
+(5) "Area of land affected" means any area of land or water upon which surface coal mining and reclamation
+operations are conducted or located or are to be conducted or located;
+(6) "Operations" means surface coal mining operations, all of the premises, facilities, roads, and equipment used
+in the process of producing coal from a designated area or removing overburden for the purpose of
+determining the location, quality, or quantity of a natural coal deposit or the activity to facilitate or accomplish
+the extraction or the removal of coal;
+(7) "Method of operation" means the method or manner by which the cut or open pit is made, the overburden is
+placed or handled, water is controlled, and other acts are performed by the operator in the process of
+uncovering and removing the coal;
+(8) "Operator" means any person, partnership, or corporation engaged in surface coal mining operations who
+removes or intends to remove more than twenty-five (25) tons of coal from the earth by coal mining within
+twelve (12) consecutive calendar months in any one (1) location;
+(9) "Person" means any individual, partnership, corporation, association, society, joint stock company, firm,
+company, or other business organization and shall also include any agency, unit, or instrumentality of federal,
+state, or local government including any publicly-owned utility or publicly-owned corporation of federal, state,
+or local government;
+(10) "Cabinet" means the Energy and Environment Cabinet;
+(11) "Secretary" means the secretary of the Energy and Environment Cabinet;
+(12) "Reclamation" means the reconditioning of the area affected by surface coal mining operations under a plan
+approved by the cabinet;
+(13) "Degree" when used in this chapter shall mean from the horizontal, and in each case shall be subject to a
+tolerance of five percent (5%) of error;
+(14) "Bench" means the ledge, shelf, or terrace formed in the contour method of strip mining;
+(15) "Approximate original contour" means that surface configuration achieved by backfilling and grading of the
+mined area so that the reclaimed area, including any terracing or access roads, closely resembles the general
+surface configuration of the land prior to mining and blends into and complements the drainage pattern of the
+surrounding terrain, with all highwalls and spoil piles eliminated; water impoundments may be permitted
+where the cabinet determines that they are in compliance with KRS 350.455;
+(16) "Certification" by a qualified registered professional engineer, as required by this chapter and administrative
+regulations promulgated hereunder, means a good faith representation to the best of his or her knowledge and
+belief, based on adequate knowledge of the requirements of this chapter and administrative regulations
+promulgated hereunder, related experience, best professional judgment, accepted engineering practices and
+recognized professional standards, and standard practice as it relates to direct participation by the registered
+professional engineer or supervision of the registered professional engineer's employees or subordinates.
+Certification shall not be construed to constitute a warranty or guarantee;
+(17) "Reclamation development fund" means only that reconditioning of land affected by surface mining, which
+will directly promote and benefit the fund administered by the Kentucky Economic Development Finance
+Authority to foster economic development on surface mining land;
+(18) "Reclamation development project" means only that reconditioning of land affected by surface mining, which
+will directly promote and benefit an economic undertaking which constitutes a project under KRS 154.1-
+010(20);
+
+CHAPTER 119 9
+(19) "Reclamation development plan" means a plan submitted to the cabinet to show compliance with reclamation
+standards, and submitted to the Kentucky Economic Development Finance Authority to seek moneys from the
+reclamation development fund for a reclamation development project;
+(20) "Permit applicant" or "applicant" means a person applying for a permit;
+(21) "Permittee" means a person holding a permit to conduct surface coal mining and reclamation operations;
+(22) "Unanticipated event or condition" as used in KRS 350.085(7) means an event or condition encountered in a
+remining operation that was not contemplated by the applicable surface coal mining and reclamation permit;
+(23) "Lands eligible for remining" means those lands that would otherwise be eligible for expenditures under KRS
+350.560(1) or (2);
+(24) "Coal combustion by-products" means fly ash, bottom ash, scrubber sludge, and waste from fluidized bed
+combustion, produced by the combustion of coal. Coal combustion by-products do not include boiler slag, or
+residues of refuse derived fuels, such as municipal solid waste, tires, and solvents;
+(25) "NAD 83" means the North American Datum, 1983 version, in feet units;[ and]
+(26) "Single Zone Projection" means the Kentucky Single Zone State Plane Coordinate System of 1983, based on
+the Lambert Conformal map projection with double standard parallels on the North American Datum, as
+established in 10 KAR 5:010; and
+(27) "Long-term treatment" means the use of any active or passive water treatment necessary to meet water
+quality effluent standards at the time the cabinet determines, in accordance with the administrative
+regulations promulgated by the cabinet relating to performance bond release, that a permittee has
+completed backfilling, regrading, topsoil replacement, and drainage control, including soil preparation,
+initial seeding, and mulching, pursuant to the approved reclamation plan, and that a report for the area has
+been duly submitted to the cabinet.
+Section 4. KRS 350.060 is amended to read as follows:
+(1) (a) No person shall engage in surface coal mining and reclamation operations without having first obtained
+from the cabinet a permit designating the area of land affected by the operation. Permits shall authorize
+the permittee to engage in surface coal mining and reclamation operations upon the area of land
+described in his application for a period not to exceed five (5) years. However, if an applicant
+demonstrates that a specified longer term is reasonably needed to obtain necessary financing for
+equipment and the opening of the operation and if the application is full and complete for the specified
+longer term, the cabinet may grant a permit for the longer term. No mining shall be permitted beyond
+the time period obligations of the initial or extended bond coverage.
+(b) Subject to the provisions of KRS 350.010(1) and (2), no person shall knowingly and willfully receive,
+transport, sell, convey, transfer, trade, exchange, donate, purchase, deliver, or in any way derive benefit
+from coal removed from any surface mining operation which does not have a permit as required under
+this section.
+(2) No permit or revision application shall be approved unless the application affirmatively demonstrates, and the
+cabinet finds in writing on the basis of the information set forth in the application or from information
+otherwise available, that the permit application is accurate and complete and that all the requirements of this
+chapter have been complied with.
+(3) A person desiring a permit to engage in surface coal mining operations shall file an application which shall
+state:
+(a) The location and area of land to be affected by the operation, with a description of access to the area
+from the nearest public highways;
+(b) The owner or owners of the surface of the area of land to be affected by the permit and the owner or
+owners of all surface area adjacent to any part of the affected area;
+(c) The owner or owners of the coal to be mined;
+(d) The source of the applicant's legal right to mine the coal on the land affected by the permit;
+(e) The permanent and temporary post office addresses of the applicant, which shall be updated
+immediately if changed at any point prior to final bond release;
+Legislative Research Commission PDF Version
+
+10 ACTS OF THE GENERAL ASSEMBLY
+(f) Whether the applicant or any person, partnership, or corporation associated with the applicant holds or
+has held any other permits under this chapter, and an identification of the permits;
+(g) The names and addresses of every officer, partner, director, or person performing a function similar to a
+director of the applicant, together with the names and addresses of any individual owning of record ten
+percent (10%) or more of any class of voting stock of the applicant, and whether the applicant or any
+person is subject to any of the provisions of subsection (3) of KRS 350.130 and he shall so certify. The
+permittee shall submit updates of this information as changes occur or as otherwise provided by
+administrative regulation; however, failure to submit updated information shall constitute a violation of
+this chapter only upon the permittee's refusal or failure to timely submit the information to the cabinet
+upon request. Upon receipt of updated information satisfactory to the cabinet, the cabinet shall promptly
+update its computer system containing the information;
+(h) A listing of any violations of this chapter, Public Law 95-87, and any law, rule, or regulation in effect
+for the protection of air or water resources incurred by the applicant in connection with any surface coal
+mining and reclamation operation during the three (3) year period prior to the date of an application.
+The list shall indicate the final resolution of the violations; and
+(i) Whether the area of land to be affected by the operation has been previously mined and is in
+compliance with current reclamation standards, and, if not, identify the needed reclamation work.
+(4) The application for a permit shall be accompanied by an official document, and an affidavit attesting to the
+document's authenticity, which will evidence what particular business entity the applicant is, whether a foreign
+or domestic corporation, a partnership, an entity doing business as another, or, if sole proprietorship, an
+affidavit so stating.
+(5) The application for a permit shall be accompanied by copies, in numbers satisfactory to the cabinet, of a
+United States Geological Survey topographic map or other map acceptable to the cabinet on which the
+applicant has indicated the location of the operation, the course which would be taken by drainage from the
+operation to the stream or streams to which the drainage would normally flow, the name of the applicant and
+date, and the name of the person who located the operation on the map.
+(6) The application for a permit shall be accompanied by copies, in numbers satisfactory to the cabinet, of an
+enlarged United States Geological Survey topographic map or other map acceptable to the cabinet meeting the
+requirements of paragraphs (a) to (i) of this subsection. The map shall:
+(a) Be prepared and certified by a professional engineer registered under the provisions of KRS Chapter
+322. The certification shall be in the form as provided in subsection (8) of this section, except that the
+engineer shall not be required to certify the true ownership of property under paragraph (d) of this
+subsection;
+(b) Identify the area to correspond with the application;
+(c) Show adjacent deep mining;
+(d) Show the boundaries of surface properties and names of owners of the affected area and adjacent to any
+part of the affected area;
+(e) Be of a scale of 1:24,000 or larger;
+(f) Show the names and locations of all streams, creeks, or other bodies of public water, roads, buildings,
+cemeteries, oil and gas wells, and utility lines on the area of land affected within three hundred (300)
+feet of an as-drilled oil or gas well, but as-drilled locations of oil and gas wells shall be certified only by
+a licensed surveyor and the well locations shall be entered in coordinates in feet units, using NAD 83,
+with Single Zone Projection, as those terms are defined in KRS 350.010;
+(g) Show by appropriate markings the boundaries of the area of land affected, the cropline of the seam or
+deposit of coal to be mined, and the total number of acres involved in the area of land affected;
+(h) Show the date on which the map was prepared, the north point, and the quadrangle name; and
+(i) Show the drainage plan on and away from the area of land affected. The plan shall indicate the
+directional flow of water, constructed drainways, natural waterways used for drainage, and the streams
+or tributaries receiving the discharge.
+(7) Each application shall include a determination of the probable hydrologic consequences of the mining and
+reclamation operations, both on and off the mine site, with respect to the hydrologic regime, quantity and
+
+CHAPTER 119 11
+quality of water in surface and groundwater systems, including the dissolved and suspended solids under
+seasonal flow conditions, and the collection of sufficient data for the mine site and surrounding areas so that an
+assessment can be made by the cabinet of the probable cumulative impacts of all anticipated mining in the area
+upon the hydrology of the area and particularly upon water availability. This determination shall not be
+required until the time hydrologic information on the general area prior to mining is made available from an
+appropriate federal or state agency. The permit shall not be approved until the information is available and is
+incorporated into the application.
+(8) All certifications required by this chapter to be made by professional engineers shall be done in the form
+prescribed by the cabinet and shall be reasonably specific as to the work being certified. The cabinet may
+reject any document or map as incomplete if it is not properly certified.
+(9) In addition to the information and maps required above, each application for a permit shall be accompanied by
+detailed plans or proposals showing the method of operation; the manner, time, and distance for backfilling;
+grading work; and a reclamation plan for the affected area, which proposals shall meet the requirements of this
+chapter and administrative regulations adopted pursuant thereto.
+(10) The application for a permit shall be accompanied by proof that the applicant has public liability insurance
+coverage satisfactory to the cabinet for the surface mining and reclamation operations for which the permit is
+sought, or proof that the applicant has satisfied self-insurance requirements as provided by administrative
+regulations of the cabinet. The coverage shall be maintained in full force and effect during the terms of the
+permit and any permit renewal, and until reclamation operations are completed.
+(11) (a) A basic fee set by administrative regulation, and bearing a reasonable relationship to the cost of
+processing the permit application but not to exceed two thousand five hundred dollars ($2,500), plus a
+fee set by administrative regulation but not to exceed seventy-five dollars ($75), for each acre or
+fraction thereof of the area of land to be affected by the operation, shall be paid before the permit
+required in this section shall be issued; provided that if the cabinet approves an incremental bonding
+plan submitted by the applicant, the acreage fees may be paid in increments and at times corresponding
+to the approved plan.
+(b) The applicant shall file with the cabinet a bond payable to the Commonwealth of Kentucky with surety
+satisfactory to the cabinet in the sum to be determined by the cabinet for each acre or fraction thereof of
+the area of land affected, with a minimum bond of ten thousand dollars ($10,000), conditioned upon the
+faithful performance of the requirements set forth in this chapter and of the administrative regulations of
+the cabinet. The cabinet shall forfeit the entire amount of the bond for the permit area or increment in
+the event of forfeiture.
+(c) In determining the amount of the bond, the cabinet shall take into consideration the:
+1. Character and nature of the overburden;
+2. [the ]Future suitable use of the land involved;
+3. [the ]Cost of backfilling, grading, and reclamation to be required; and
+4. [the ]Probable difficulty of reclamation, giving consideration to such factors as topography,
+geology, hydrology, and revegetation potential.
+(d) The bond amount shall initially be computed to be sufficient to ensure completion of reclamation if the
+work had to be performed by the cabinet in the event of forfeiture.
+(e) For any permit or permit increment identified by the cabinet as requiring long-term treatment, the
+cabinet shall calculate an additional bond or other financial assurance instrument amount based on
+the estimated annual treatment cost, provided by the permittee and verified by the cabinet, multiplied
+by a factor of twenty-five (25), plus any capital cost of the treatment system. The cabinet shall use its
+own estimate for annual treatment costs if the cabinet cannot verify the permittee's estimate.
+(f) Within thirty (30) days of a cabinet determination of a need to change a bond protocol currently in use,
+the cabinet shall immediately promulgate administrative regulations setting forth bonding requirements,
+including but not limited to requirements for the amount, duration, release, and forfeiture of bonds.
+Bond protocols shall not be exempt from KRS 13A.100 and shall be established by promulgating
+administrative regulations under KRS Chapter 13A. Failure to include the formula for establishing the
+amount of the bond in any administrative regulation on bonding requirements shall be deemed a failure
+Legislative Research Commission PDF Version
+
+12 ACTS OF THE GENERAL ASSEMBLY
+to comply with the prescriptions of this section and the administrative regulation shall automatically be
+declared deficient in accordance with KRS Chapter 13A.
+(12) The cabinet shall promulgate administrative regulations for the permitting of operations with surface effects of
+underground mining and other surface coal mining and reclamation operations consistent with this section.
+The cabinet shall recognize the distinct differences between the surface effects of underground mining and
+strip mining, as also provided in KRS 350.151, in promulgating permitting requirements for these operations.
+(13) Any valid permit issued pursuant to this chapter shall carry with it the right of successive renewal upon
+expiration with respect to areas within the boundaries of the existing permit. An applicant for renewal of a
+permit shall pay a basic fee set by regulation, not to exceed seven hundred fifty dollars ($750). The holders of
+the permit may apply for renewal and the renewal shall be issued, provided that on application for renewal the
+burden shall be on the opponents of renewal, subsequent to the fulfillment of the public notice requirements of
+this chapter, unless it is established and written findings by the cabinet are made that:
+(a) The terms and conditions of the existing permit are not being satisfactorily met;
+(b) The present surface coal mining and reclamation operation is not in compliance with the environmental
+protection standards of this chapter;
+(c) The renewal requested substantially jeopardizes the applicant's continuing responsibility on existing
+permit areas;
+(d) The applicant has not provided evidence that the performance bond in effect for the operation will
+continue in full force and effect for any renewal requested in the application as well as any additional
+bond the cabinet might require; or
+(e) Any additional revised or updated information required by the cabinet has not been provided.
+Prior to the approval of any renewal of permit, the cabinet shall provide notice to the appropriate public
+authorities.
+(14) If an application for renewal of a valid permit includes a proposal to extend the mining operation beyond the
+boundaries authorized in the existing permit, the portion of the application for renewal of a valid permit which
+addresses any new areas of surface disturbance shall be subject to the full standards applicable to new
+applications under this chapter.
+(15) Any permit renewal shall be for a term not to exceed the period of the original permit. Application for permit
+renewal shall be made at least one hundred twenty (120) days prior to the expiration of the valid permit.
+(16) Notwithstanding any of the provisions of this section, a permit shall terminate if the permittee has not
+commenced the surface coal mining operations covered by the permit within three (3) years of the issuance of
+the permit. However, the cabinet may grant reasonable extensions of time upon a showing that the extensions
+are necessary by reason of litigation precluding commencement of operations, or threatening substantial
+economic loss to the permittee, or by reason of conditions beyond the control and without the fault or
+negligence of the permittee. With respect to coal to be mined for use in a synthetic fuel facility or specific
+major electric generating facility, the permittee shall be deemed to have commenced surface mining operations
+at the time the construction of the synthetic fuel or generating facility is initiated.
+(17) Each application for a permit or revision for auger mining on a previously mined area shall contain
+information to describe the area to be affected, to show that the proposed method of operation will result in
+stable post-mining conditions, and reduce or eliminate adverse environmental conditions created by previous
+mining activities. If the cabinet determines that the affected area cannot be stabilized and reclaimed subsequent
+to augering or that the operation will result in an adverse impact to the proposed or adjacent area, the permit or
+revision shall not be issued. The cabinet shall, consistent with all applicable requirements of this chapter, issue
+a permit or revision if the applicant demonstrates that the proposed coal mining operations will provide for
+reduction or elimination of the highwall, or reduction or abatement of adverse impacts resulting from past
+mining activities, or stabilization or enhancement of a previously mined area. The cabinet shall insure that all
+reasonably available spoil material will be used to backfill the highwall to the extent practical and feasible;
+provided, however, that in all cases the holes be properly sealed and backfilled to a minimum of four (4) feet
+above the coal seam being mined.
+(18) All operations involving the loading of coal which do not separate the coal from its impurities, and which are
+not located at or near the mine site, shall be exempt from the requirements of this chapter.
+
+CHAPTER 119 13
+Section 5. Whereas it is critical to the orderly administration of the Commonwealth’s environmental
+protection laws that waters be properly defined, and critical to the health and safety of the citizens of the
+Commonwealth that appropriate financial assurance be obtained to address long-term post-mining water discharges
+in the event of operator default, an emergency is declared to exist, and this Act takes effect upon its passage and
+approval by the Governor or upon its otherwise becoming a law.
+Veto Overridden March 27, 2025.
+Legislative Research Commission PDF Version
+
+[DELETED:  " c i s d s g c o a o p m r " c a i p w s a s a h a p p a b a o s o a t i s a m f r " " " m s w w h u b d o o m b u c o s t b s t a d w i p t p g a w i a f o s a a s a a t " " " " o u o t p o p s t t d s f t " " " " r a c o c p b a o c w a "]
+[DELETED:  " " " " m a i t f j s c c ( a g " " " r o r w c b r o r a w d " " " f m a s p f p d f t e s o " " s m i o c t c o d u f c "]
+[DELETED:  " o d o a r m p f o a a r f o t " " " m a m t o p i n d t c t r s w n s f t a f r a f s o " " s f r m p p o r f t f w a d b K 2 s o d m i d s " f r h m b r s c q a " " l t w r f t f m p e p f o a c f a r p o b c i a s m l a l p n a c p t m t e a w " "]
+[DELETED:  " " N S N Wt " o p w s o t t u o s w f r c i " m a i d s s w i r s s s " " m t f u f i t q c a t o r a " " w m m t a o s w a c s t p t a d w s b i a w a c " w m a o " m a g a e o d b t " w m f m a f f c s t t " " d i b i n l t a p o h w i a l s " o f i i a c p o a o p s o a "]
+[DELETED:  " " " " " " " " " " " " r f m a m f t r s a c p " m a m p w p p a b i s p " i a f a g m i a o a a t c i r " I I H H]
+[DELETED:  I " ( " P M p t a f r o h o d a " U M " " ] " A f t p p o e o r t e o o g l A e t p o w p c b i w o w w b A A A f " " a f c a b d n i s o d m i d]
+[DELETED:  " " " n o a w a s w o p w o b u t " " " f t p o o c i s c m a c s a e a b a i s d o r l o o c o p t ( t t h f ( t o c a a i p o p f h o o c u a r e b t c t " e o r o m o a o s m f i o l a t f c i o c u b s n i t e o c b f h o o c u a r e b t]
+[DELETED:  o m r f p o c u o s c e s t K " " " " t p o p c f a d a o r o f t p o " o h w i c a o a a p b t o i t p o " " m a i p c a s j s c f " " " " " " " b o a k o t r o t c a a r e o s o t r p e e o s " "]
+[DELETED:  " " " " " " " " " e s a t t t c d i a w t a p b t c r t p b r t a p h ( N p t e i s c m a r o u t a o l i h a f a p n t e f ( y H i a a t a s l t i r n t o n f f S N f i w o t b o t i s f i t a o f i A T T T T T p a t p o a o t a w s b u]
+[DELETED:  W T s s u o t i a c o o a o p b A W t a o l t b a b t o h b p m a i i T d c a p a e d b a a o i s p a T S G S t m o o m a t t c o w t T B I S S B S S S S t d p o a a f t a o l a T p s i t E]
+[DELETED:  t h o t a a p u w a T d s n b A I T ( A b f s b a r a b a r r t t c o s b a r b n t e s d ( f e a o T I C [ [ [ ] d o r g c t s f a t T F W p s n f K 1 s b e b]
+[DELETED:  T A T T T T AP I a n a o s d s b s t t f s a t n A N a o t p o t s a p s t i t p h n n b r o l p c o o o t s l t t p o b r o c b t c a w t f o E a f a p o r f a m o a p m a s c A]
+[DELETED:  l t w b p d a c t t h a s o t c o t]

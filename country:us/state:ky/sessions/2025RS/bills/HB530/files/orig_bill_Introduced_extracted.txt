@@ -1,0 +1,811 @@
+Title: 1 AN ACT relating to full-day kindergarten.
+Official Title: 1 AN ACT relating to full-day kindergarten.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 13 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS BR 1638
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 157.320 is amended to read as follows:
+4 As used in KRS 157.310 to 157.440, unless the context otherwise requires:
+5 (1) "Average daily attendance" means the aggregate days attended by pupils in a public
+6 school, adjusted for weather-related low attendance days if applicable, divided by
+7 the actual number of days the school is in session, after the five (5) days with the
+8 lowest attendance have been deducted.
+9 (a) Aggregate days shall include, in addition to the aggregate number of days
+10 attended by a pupil who was suspended during a school year, the number of
+11 days the pupil was suspended, not to exceed ten (10) days in total for the
+12 school year; and
+13 (b) Aggregate days shall include, in addition to the aggregate number of days
+14 attended by a pupil who was expelled for behavioral problems, the number of
+15 days the pupil was expelled up to a total of one hundred seventy-five (175)
+16 days. This total may extend into the next school year and shall be counted in
+17 the average daily attendance for the next year;
+18 (2) "Base funding level" means a guaranteed amount of revenue per pupil to be
+19 provided for each school district, to be used for regular operating and capital
+20 expenditures;
+21 (3) "Board" means the board of education of any county or independent school district;
+22 (4) "District" means any school district as defined by law;
+23 (5) "Elementary school" means a school consisting of the primary school program as
+24 defined in KRS 158.031 through grade eight (8)[ as defined in KRS 158.030], or
+25 any appropriate combination of grades within this range, as determined by the plan
+26 of organization for schools authorized by the district board;
+27 (6) "Support Education Excellence in Kentucky" means the level of educational
+Page 1 of 13
+XXXX 2/11/2025 8:30 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1638
+1 services and facilities which is to be provided in each district from the public school
+2 fund;
+3 (7) ["Kindergarten full-time equivalent pupil in average daily attendance" means each
+4 kindergarten pupil counted no more than one-half (1/2) day in the aggregate days
+5 attended by kindergarten pupils in a public school divided by the actual number of
+6 days school is in session after the five (5) days with the lowest attendance have
+7 been deducted. Kindergarten is the entry level of the primary program and shall be
+8 provided no less than the equivalent of one-half (1/2) day, five (5) days a week for a
+9 full school year for each kindergarten pupil;
+10 (8) ]"Public school fund" means the fund created by KRS 157.330 for use in financing
+11 education in public elementary and secondary schools;
+12 (8)[(9)] "Administrative regulations of the Kentucky Board of Education" means
+13 those regulations which the Kentucky Board of Education may adopt upon the
+14 recommendation and with the advice of the commissioner of education. The
+15 commissioner of education shall recommend administrative regulations necessary
+16 for carrying out the purposes of KRS 157.310 to 157.440;
+17 (9)[(10)] "Experience" means employment as a teacher, other than as a substitute or
+18 nursery school teacher, for a minimum of one hundred forty (140) days during a
+19 school year in a public or nonpublic elementary or secondary school or college or
+20 university that is approved by the public accrediting authority in the state in which
+21 the teaching duties were performed. A teacher who is employed by a board for at
+22 least one hundred forty (140) days of a school year and who performs teaching
+23 duties for the equivalent of at least seventy (70) full school days during that school
+24 year, regardless of the schedule on which those duties were performed, shall be
+25 credited with one (1) year of experience. A teacher who is employed by a board for
+26 at least one hundred forty (140) days during each of two (2) school years and who
+27 performs teaching duties for the equivalent of at least seventy (70) full school days
+Page 2 of 13
+XXXX 2/11/2025 8:30 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1638
+1 during those years shall be credited with one (1) year of experience. No more than
+2 one (1) year of experience shall be credited for the performance of teaching duties
+3 during a single school year;
+4 (10)[(11)] "Secondary school" means a school consisting of grades seven (7) through
+5 twelve (12), or any appropriate combination of grades within this range as
+6 determined by the plan of organization for schools authorized by the district board.
+7 When grades seven (7) through nine (9) or ten (10) are organized separately as a
+8 junior high school, or grades ten (10) through twelve (12) are organized separately
+9 as a senior high school and are conducted in separate school plant facilities, each
+10 shall be considered a separate secondary school for the purposes of KRS 157.310 to
+11 157.440;
+12 (11)[(12)] "Single salary schedule" means a schedule adopted by a local board from
+13 which all teachers are paid for one hundred eighty-five (185) days and is based on
+14 training, experience, and such other factors as the Kentucky Board of Education
+15 may approve and which does not discriminate between salaries paid elementary and
+16 secondary teachers. If the budget bill contains a minimum statewide salary
+17 schedule, no teacher shall be paid less than the amount specified in the biennial
+18 budget salary schedule for the individual teacher's educational qualifications and
+19 experience;
+20 (12)[(13)] "Teacher" means any regular or special teacher, principal, supervisor,
+21 superintendent, assistant superintendent, librarian, director of pupil personnel, or
+22 other member of the teaching or professional staff engaged in the service of the
+23 public elementary and secondary school for whom certification is required as a
+24 condition of employment;
+25 (13)[(14)] "Percentage of attendance" means the aggregate days attended by pupils in a
+26 public school for the school year divided by the aggregate days' membership of
+27 pupils in a public school for the school year;
+Page 3 of 13
+XXXX 2/11/2025 8:30 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1638
+1 (14)[(15)] "Middle school" means a school consisting of grades five (5) through eight (8)
+2 or any appropriate combination of grades as determined by the plan of organization
+3 for schools authorized by the district board;
+4 (15)[(16)] "National board certification salary supplement" means an annual supplement
+5 added for the life of the certificate to the base salary of a teacher who attains
+6 national board certification; and
+7 (16)[(17)] "Weather-related low attendance day" means a school day on which the
+8 district's attendance falls below the average daily attendance for the prior year due
+9 to inclement weather. The district shall submit a request to substitute the prior
+10 year's average daily attendance for its attendance on up to ten (10) designated days,
+11 along with documentation that the low attendance was due to inclement weather,
+12 for approval by the commissioner of education in accordance with Kentucky Board
+13 of Education administrative regulations.
+14 Section 2. KRS 157.360 is amended to read as follows:
+15 (1) (a) In determining the cost of the program to support education excellence in
+16 Kentucky, the statewide guaranteed base funding level, as defined in KRS
+17 157.320, shall be computed by dividing the amount appropriated for this
+18 purpose by the prior year's statewide average daily attendance.
+19 (b) When determining the biennial appropriations for the program, the average
+20 daily attendance for each fiscal year shall include an estimate of the number
+21 of students graduating early under the provisions of KRS 158.142.
+22 (2) Each district shall receive an amount equal to the base funding level for each pupil
+23 in average daily attendance in the district in the previous year, except a district shall
+24 receive an amount equal to one-half (1/2) of the state portion of the average
+25 statewide per pupil guaranteed base funding level for each student who graduated
+26 early under the provisions of KRS 158.142. Each district's base funding level shall
+27 be adjusted by the following factors:
+Page 4 of 13
+XXXX 2/11/2025 8:30 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1638
+1 (a) The number of at-risk students in the district. At-risk students shall be
+2 identified as those approved for the free lunch program under state and federal
+3 guidelines. The number of at-risk students shall be multiplied by a factor to be
+4 established by the General Assembly. Funds generated under this paragraph
+5 may be used to pay for:
+6 1. Alternative programs for students who are at risk of dropping out of
+7 school before achieving a diploma; and
+8 2. A hazardous duty pay supplement as determined by the local board of
+9 education to the teachers who work in alternative programs with
+10 students who are violent or assaultive;
+11 (b) The number and types of exceptional children in the district as defined by
+12 KRS 157.200. Specific weights for each category of exceptionality shall be
+13 used in the calculation of the add-on factor for exceptional children; and
+14 (c) Transportation costs. The per-pupil cost of transportation shall be calculated
+15 as provided by KRS 157.370. Districts which contract to furnish
+16 transportation to students attending nonpublic schools may adopt any payment
+17 formula which ensures that no public school funds are used for the
+18 transportation of nonpublic students.
+19 (3) [Beginning with the 2015-2016 school year and each year thereafter, ]The General
+20 Assembly shall annually allocate funds equal to one-half (1/2) of the state portion
+21 of the average statewide per pupil guaranteed base funding level for each student
+22 who graduated early under the provisions of KRS 158.142 the previous school year
+23 to the Kentucky Higher Education Assistance Authority for deposit in the early
+24 graduation scholarship trust fund.
+25 (4) The program to support education excellence in Kentucky shall be fully
+26 implemented by the 1994-95 school year.
+27 (5) (a) Except for those schools which have implemented school-based decision
+Page 5 of 13
+XXXX 2/11/2025 8:30 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1638
+1 making, the commissioner of education shall enforce maximum class sizes for
+2 every academic course requirement in all grades except in vocal and
+3 instrumental music, and physical education classes. Except as provided in
+4 subsection (6) of this section, the maximum number of pupils enrolled in a
+5 class shall be as follows:
+6 1. Twenty-four (24) in primary grades (kindergarten through third grade);
+7 2. Twenty-eight (28) in grade four (4);
+8 3. Twenty-nine (29) in grades five (5) and six (6);
+9 4. Thirty-one (31) in grades seven (7) to twelve (12).
+10 (b) Except for those schools which have implemented school-based decision
+11 making, class size loads for middle and secondary school classroom teachers
+12 shall not exceed the equivalent of one hundred fifty (150) pupil hours per day.
+13 (c) The commissioner of education, upon approval of the Kentucky Board of
+14 Education, shall adopt administrative regulations for enforcing this provision.
+15 These administrative regulations shall include procedures for a superintendent
+16 to request an exemption from the Kentucky Board of Education when unusual
+17 circumstances warrant an increased class size for an individual class. A
+18 request for an exemption shall include specific reasons for the increased class
+19 size with a plan for reducing the class size prior to the beginning of the next
+20 school year. A district shall not receive in any one (1) year exemptions for
+21 more classes than enroll twenty percent (20%) of the pupils in the primary
+22 grades and grades four (4) through eight (8).
+23 (d) In all schools the commissioner of education shall enforce the special
+24 education maximum class sizes set by administrative regulations adopted by
+25 the Kentucky Board of Education. A superintendent may request an
+26 exemption pursuant to paragraph (c) of this subsection. A local school council
+27 may request a waiver pursuant to KRS 156.160(2). An exemption or waiver
+Page 6 of 13
+XXXX 2/11/2025 8:30 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1638
+1 shall not be granted if the increased class size will impede any exceptional
+2 child from achieving his or her individual education program in the least
+3 restrictive environment.
+4 (6) In grades four (4) through six (6) with combined grades, the maximum class size
+5 shall be the average daily attendance upon which funding is appropriated for the
+6 lowest assigned grade in the class. There shall be no exceptions to the maximum
+7 class size for combined classes. In combined classes other than the primary grades,
+8 no ungraded students shall be placed in a combined class with graded students. In
+9 addition, there shall be no more than two (2) consecutive grade levels combined in
+10 any one (1) class in grades four (4) through six (6). However, this shall not apply to
+11 schools which have implemented school-based decision making.
+12 (7) If a local school district, through its admission and release committee, determines
+13 that an appropriate program in the least restrictive environment for a particular child
+14 with a disability includes either part-time or full-time enrollment with a private
+15 school or agency within the state or a public or private agency in another state, the
+16 school district shall count as average daily attendance in a public school the time
+17 that the child is in attendance at the school or agency, contingent upon approval by
+18 the commissioner of education.
+19 (8) Pupils attending a center for child learning and study established under an
+20 agreement pursuant to KRS 65.210 to 65.300 shall, for the purpose of calculating
+21 average daily attendance, be considered as in attendance in the school district in
+22 which the child legally resides and which is party to the agreement. For purposes of
+23 subsection (1) of this section, teachers who are actually employees of the joint or
+24 cooperative action shall be considered as employees of each school district which is
+25 a party to the agreement.
+26 (9) Program funding shall be increased when the average daily attendance in any
+27 district for the first two (2) months of the current school year is greater than the
+Page 7 of 13
+XXXX 2/11/2025 8:30 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1638
+1 average daily attendance of the district for the first two (2) months of the previous
+2 school year. The program funds allotted the district shall be increased by the
+3 percent of increase.[ The average daily attendance in kindergarten is the
+4 kindergarten full-time equivalent pupils in average daily attendance.]
+5 (10) If the average daily attendance for the current school year in any district decreases
+6 by ten percent (10%) or more than the average daily attendance for the previous
+7 school year, the average daily attendance for purposes of calculating program
+8 funding for the next school year shall be increased by an amount equal to two-thirds
+9 (2/3) of the decrease in average daily attendance. If the average daily attendance
+10 remains the same or decreases in the succeeding school year, the average daily
+11 attendance for purposes of calculating program funding for the following school
+12 year shall be increased by an amount equal to one-third (1/3) of the decrease for the
+13 first year of the decline.
+14 (11) If the percentage of attendance of any school district shall have been reduced more
+15 than two percent (2%) during the previous school year, the program funding
+16 allotted the district for the current school year shall be increased by the difference in
+17 the percentage of attendance for the two (2) years immediately prior to the current
+18 school year less two percent (2%).
+19 (12) (a) Instructional salaries for vocational agriculture classes shall be for twelve (12)
+20 months per year. Vocational agriculture teachers shall be responsible for the
+21 following program of instruction during the time period beyond the regular
+22 school term established by the local board of education: supervision and
+23 instruction of students in agriculture experience programs; group and
+24 individual instruction of farmers and agribusinessmen; supervision of student
+25 members of agricultural organizations who are involved in leadership training
+26 or other activity required by state or federal law; or any program of vocational
+27 agriculture established by the Department of Education. During extended
+Page 8 of 13
+XXXX 2/11/2025 8:30 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1638
+1 employment, no vocational agriculture teacher shall receive salary on a day
+2 that the teacher is scheduled to attend an institution of higher education class
+3 which could be credited toward meeting any certification requirement.
+4 (b) Each teacher of agriculture employed shall submit an annual plan for summer
+5 program to the local school superintendent for approval. The summer plan
+6 shall include a list of tasks to be performed, purposes for each task, and time
+7 to be spent on each task. Approval by the local school superintendent shall be
+8 in compliance with the guidelines developed by the Department of Education.
+9 The supervision and accountability of teachers of vocational agriculture's
+10 summer programs shall be the responsibility of the local school
+11 superintendent. The local school superintendent shall submit to the
+12 commissioner of education a completed report of summer tasks for each
+13 vocational agriculture teacher. Twenty percent (20%) of the approved
+14 vocational agriculture programs shall be audited annually by the State
+15 Department of Education to determine that the summer plan has been properly
+16 executed.
+17 (13) (a) In allotting program funds for home and hospital instruction, statewide
+18 guaranteed base funding, excluding the capital outlay, shall be allotted for
+19 each child in average daily attendance in the prior school year who has been
+20 properly identified according to Kentucky Board of Education administrative
+21 regulations. Attendance shall be calculated pursuant to KRS 158.033[KRS
+22 157.270] and shall be reported monthly on forms provided by the Department
+23 of Education.[; and]
+24 (b) Pursuant to administrative regulations of the Kentucky Board of Education,
+25 local school districts shall be reimbursed for home and hospital instruction for
+26 pupils unable to attend regular school sessions because of short-term health
+27 impairments. A reimbursement formula shall be established by administrative
+Page 9 of 13
+XXXX 2/11/2025 8:30 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1638
+1 regulations to include such factors as a reasonable per hour, per child
+2 allotment for teacher instructional time, with a maximum number of funded
+3 hours per week, a reasonable allotment for teaching supplies and equipment,
+4 and a reasonable allotment for travel expenses to and from instructional
+5 assignments, but the formula shall not include an allotment for capital outlay.
+6 Attendance shall be calculated pursuant to KRS 158.033[KRS 157.270] and
+7 shall be reported annually on forms provided by the Department of Education.
+8 (14) Except for those schools which have implemented school-based decision making
+9 and the school council has voted to waive this subsection, kindergarten aides shall
+10 be provided for each twenty-four (24) full-time equivalent kindergarten students
+11 enrolled.
+12 (15) [Effective July 1, 2001, ]There shall be no deduction applied against the base
+13 funding level for any pupil in average daily attendance who spends a portion of his
+14 or her school day in a program at a state-operated career and technical education or
+15 vocational facility.
+16 (16) During a fiscal year, a school district may request that the Department of Education
+17 recalculate its funds allocated under this section if the current year average daily
+18 attendance for the twenty (20) day school month as defined in KRS 158.060(1) that
+19 contains the most days within the calendar month of January exceeds the prior year
+20 adjusted average daily attendance plus growth by at least one percent (1%). Any
+21 adjustments in the allotments approved under this subsection shall be proportional
+22 to the remaining days in the school year and subject to available funds under the
+23 program to support education excellence in Kentucky.
+24 (17) To calculate the state portion of the program to support education excellence in
+25 Kentucky for a school district, the Department of Education shall subtract the local
+26 effort required under KRS 157.390(5) from the calculated base funding under the
+27 program to support education excellence in Kentucky, as required by this section.
+Page 10 of 13
+XXXX 2/11/2025 8:30 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1638
+1 The value of the real estate used in this calculation shall be the lesser of the current
+2 year assessment or the prior year assessment increased by four percent (4%) plus
+3 the value of current year new property. The calculation under this subsection shall
+4 be subject to available funds.
+5 (18) Notwithstanding any other statute or budget of the Commonwealth language to the
+6 contrary, time missed due to shortening days for emergencies may be made up by
+7 lengthening school days in the school calendar without any loss of funds under the
+8 program to support education excellence in Kentucky.
+9 Section 3. KRS 158.030 is amended to read as follows:
+10 (1) "Common school" means an elementary or secondary school of the state supported
+11 in whole or in part by public taxation. No school shall be deemed a "common
+12 school" or receive support from public taxation unless the school is taught by a
+13 certified teacher for a minimum school term as defined by KRS 158.070 and every
+14 child residing in the district who satisfies the age requirements of this section has
+15 had the privilege of attending it. Provided, however, that [any child who is six (6)
+16 years of age, or who may become six (6) years of age by October 1, shall attend
+17 public school or qualify for an exemption as provided by KRS 159.030. Any child
+18 who is five (5) years of age, or who may become five (5) years of age by October 1,
+19 may enter a primary school program, as defined in KRS 158.031, and may advance
+20 through the primary program without regard to age in accordance with KRS
+21 158.031(6).
+22 (2) Beginning with the 2017-2018 school year, ]any child who is six (6) years of age,
+23 or who may become six (6) years of age by August 1, shall attend public school or
+24 qualify for an exemption as provided by KRS 159.030. Any child who is five (5)
+25 years of age, or who may become five (5) years of age by August 1, may enter a
+26 primary school program, as defined in KRS 158.031, and may advance through the
+27 primary program without regard to age in accordance with KRS 158.031(6).
+Page 11 of 13
+XXXX 2/11/2025 8:30 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1638
+1 (2)[(3)] Each local school board shall adopt a policy to permit a parent or guardian to
+2 petition the board to allow a student to attend public school who does not meet the
+3 age requirements of subsection (1)[ or (2)] of this section. The policy shall include
+4 an evaluation process that will help determine a student's readiness for school and
+5 shall ensure that any tuition amount charged under this policy is the same amount
+6 charged to a student who meets the age requirements of subsection (1)[ or (2)] of
+7 this section. Students enrolled under this policy shall be included in a school's
+8 average daily attendance for purposes of funding as provided in KRS 157.310 to
+9 157.440.
+10 Section 4. KRS 158.060 is amended to read as follows:
+11 (1) Twenty (20) school days, or days in which teachers are actually employed in the
+12 schoolroom, shall constitute a school month in the common schools.
+13 (2) Each full-time teacher shall be provided with a duty-free lunch period each day
+14 during the regularly scheduled student lunch period. The duty-free lunch period
+15 shall be not less than the length of the lunch period specified in the school calendar
+16 approved by the chief state school officer. A full-time teacher may be assigned to
+17 lunch room duty during the regularly scheduled student lunch period only for an
+18 amount of time equal to the noninstructional time in excess of fifty-five (55)
+19 minutes included in the teacher's daily schedule. The calculation of noninstructional
+20 time shall not include the teacher's duty-free lunch period, the time teachers are
+21 required to be at school prior to the start of the student's instructional day, or the
+22 time teachers are required to remain at school after the students are dismissed.
+23 (3) Except for children with disabilities [and children attending the primary school
+24 program ]who may attend a program of less than six (6) hours per day under policy
+25 adopted by the local school district board of education and approved by the
+26 commissioner of education and children attending a school district where the local
+27 board has approved a schedule that provides at least the equivalent of six (6) hours
+Page 12 of 13
+XXXX 2/11/2025 8:30 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1638
+1 of daily instruction during the school year, a minimum of six (6) hours of actual
+2 school work shall constitute a school day. [Kindergarten programs may be operated
+3 for less than six (6) hours without state board approval. ]The Kentucky Board of
+4 Education, upon recommendation of the chief state school officer, shall develop and
+5 approve regulations governing make up by school districts of whole days missed
+6 due to emergencies, or partial days missed as a result of shortening regularly
+7 scheduled school days due to emergencies.
+8 (4) Teachers shall be provided additional time for nonteaching activities. The
+9 nonteaching time shall be used to provide teachers opportunities for professional
+10 development activities as provided in KRS 156.095, instructional planning, school-
+11 based decision making as provided in KRS 160.345, curriculum development, and
+12 outreach activities involving their students' families and the community.
+13 (5) Character education programs and activities shall be considered valuable and
+14 legitimate components of the actual school work constituting a school day under
+15 subsection (3) of this section.
+16 Section 5. This Act takes effect July 1, 2026.
+Page 13 of 13
+XXXX 2/11/2025 8:30 AM Jacketed
+[DELETED:   2  J A B S A ( " s t l ( A d s i i a t t a n o d a d t p w s n t e t ( d i t f t s ( A d s i i a t t a n o d a d d t ( " f l m a g a o r p p t b p f e s d t b u f r o a c e ( " ( " ( " d a o ( " E E i K m t l o e]
+[DELETED:   2  J s f ( [ k a d b p f ( ] e ( " r o t K B o E m t r w t K B o E m a u t r a w t a o t c o e T c f ( " n s u t l o h f ( d o s y w p t d y o s o w t d w p s b c a p]
+[DELETED:   2  J d o d ( " c t ( o a a c o g w t r a d W j a s 1 ( " s s m a s a b a l b f w t m s t I t b b c a m s s s b e ( " m a r o s t p s s a s l d o p p o o p e a s s f w c i r a a c ( " p s f t s y b t a d m o p]
+[DELETED:   2  J ( " o f ( " a f t l o t c t t b s o a t w a n ( " l a d m a s d o w t d t i w T d s s a r t s t p y a f o S ( ( I d t c o t p t s e e i K t s g b f l a d i K 1 s b c b d t a a f t p ( W d o ( E i r a a e t o ( o t s p o t a s e b]
+[DELETED:   2  J ( T n o a s i t d A s s b i g e m 1 A p f s w a a r o d o o s 2 A e t t t w w i a p w s ( T a o K u ( T a p b K 1 D w c t f t f w e t n p s f a u f t t ( [ A o w t t K H E A A f d i t e g ( T p t s e e i K s b f i ( ( E f t s w h i s d]
+[DELETED:   2  J m e a c r i a g e i v a i m a p e c E a p i s c 1 T 2 T 3 T 4 T ( E f t s w h i s d m s ( T c o e u a o t K B o E T t c w a i c s f a i c A r s s m g ( I a s t c o e s e t s e t K B o E A s m r a e m]
+[DELETED:   2  J s c f a h o h i e p i t l r ( I s l c n a a s ( I t w a d i e p o f e w a p s s t t ( P a a c f c l a s e u a a a w s c a ( P f s b i w t a d a i a d]
+[DELETED:   2  J a s y T p f a t d s b i b t p o i T a d a i k i t k ( I b s y t a d a f p o c p f ( r t s o d i t s s y t a d a o f y f ( I t t p ( d t p s y t p f a t s ( ( I m f s t e b t l b o e s a i o s i a e p g a i m o a e b t D o E D e]
+[DELETED:   2  J e t w ( E p t t l s s f a T s p s t i T s a a o t o v a s p s b t r o t l s s T l s s s s t t c o e a c r o s t f e v a t T p ( o t a v a p s b a a b t S D e ( ( I a p f f h a h i s g b f e t c o s b a f e p r A s b c p t K 1 1 o ( P l p i]
+[DELETED:   2  J r t i s f a a r p h p c a h a a r a f t e t a f i a A s ( E a b p f e t ( f e k s e ( [ J 1 2 ] s b n d a a t b f o v ( D r a c a a t p ( T c t s p o p t s e e i K e p]
+[DELETED:   2  J T y t b ( N c l p S ( " i w o i p b p t N s s b d a " s c c h y p w m t t p p w r t a i a w K 1 ( B o q y p p]
+[DELETED:   2  J ( E p a a s c t s S e u t p s b i i a s a 1 S ( T s ( E f t b p w a d l p e d d t r s s l p T d l p s a l a o t e t t n t i e o f ( m t a r t ( E f c w d [ c a t p s p a b t l s d b o e a a b t c b]
+[DELETED:   2  J o s f E a d t e o p d m a a r o s r s ( T s b p a t f n a T n d b o ( C e p a a s b c v a l s S]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS BR 1638
+1 AN ACT relating to full-day kindergarten.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 157.320 is amended to read as follows:
+4 As used in KRS 157.310 to 157.440, unless the context otherwise requires:
+5 (1) "Average daily attendance" means the aggregate days attended by pupils in a public
+6 school, adjusted for weather-related low attendance days if applicable, divided by
+7 the actual number of days the school is in session, after the five (5) days with the
+8 lowest attendance have been deducted.
+9 (a) Aggregate days shall include, in addition to the aggregate number of days
+10 attended by a pupil who was suspended during a school year, the number of
+11 days the pupil was suspended, not to exceed ten (10) days in total for the
+12 school year; and
+13 (b) Aggregate days shall include, in addition to the aggregate number of days
+14 attended by a pupil who was expelled for behavioral problems, the number of
+15 days the pupil was expelled up to a total of one hundred seventy-five (175)
+16 days. This total may extend into the next school year and shall be counted in
+17 the average daily attendance for the next year;
+18 (2) "Base funding level" means a guaranteed amount of revenue per pupil to be
+19 provided for each school district, to be used for regular operating and capital
+20 expenditures;
+21 (3) "Board" means the board of education of any county or independent school district;
+22 (4) "District" means any school district as defined by law;
+23 (5) "Elementary school" means a school consisting of the primary school program as
+24 defined in KRS 158.031 through grade eight (8)[ as defined in KRS 158.030], or
+25 any appropriate combination of grades within this range, as determined by the plan
+26 of organization for schools authorized by the district board;
+27 (6) "Support Education Excellence in Kentucky" means the level of educational
+Page 1 of 13
+XXXX 2/11/2025 8:30 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1638
+1 services and facilities which is to be provided in each district from the public school
+2 fund;
+3 (7) ["Kindergarten full-time equivalent pupil in average daily attendance" means each
+4 kindergarten pupil counted no more than one-half (1/2) day in the aggregate days
+5 attended by kindergarten pupils in a public school divided by the actual number of
+6 days school is in session after the five (5) days with the lowest attendance have
+7 been deducted. Kindergarten is the entry level of the primary program and shall be
+8 provided no less than the equivalent of one-half (1/2) day, five (5) days a week for a
+9 full school year for each kindergarten pupil;
+10 (8) ]"Public school fund" means the fund created by KRS 157.330 for use in financing
+11 education in public elementary and secondary schools;
+12 (8)[(9)] "Administrative regulations of the Kentucky Board of Education" means
+13 those regulations which the Kentucky Board of Education may adopt upon the
+14 recommendation and with the advice of the commissioner of education. The
+15 commissioner of education shall recommend administrative regulations necessary
+16 for carrying out the purposes of KRS 157.310 to 157.440;
+17 (9)[(10)] "Experience" means employment as a teacher, other than as a substitute or
+18 nursery school teacher, for a minimum of one hundred forty (140) days during a
+19 school year in a public or nonpublic elementary or secondary school or college or
+20 university that is approved by the public accrediting authority in the state in which
+21 the teaching duties were performed. A teacher who is employed by a board for at
+22 least one hundred forty (140) days of a school year and who performs teaching
+23 duties for the equivalent of at least seventy (70) full school days during that school
+24 year, regardless of the schedule on which those duties were performed, shall be
+25 credited with one (1) year of experience. A teacher who is employed by a board for
+26 at least one hundred forty (140) days during each of two (2) school years and who
+27 performs teaching duties for the equivalent of at least seventy (70) full school days
+Page 2 of 13
+XXXX 2/11/2025 8:30 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1638
+1 during those years shall be credited with one (1) year of experience. No more than
+2 one (1) year of experience shall be credited for the performance of teaching duties
+3 during a single school year;
+4 (10)[(11)] "Secondary school" means a school consisting of grades seven (7) through
+5 twelve (12), or any appropriate combination of grades within this range as
+6 determined by the plan of organization for schools authorized by the district board.
+7 When grades seven (7) through nine (9) or ten (10) are organized separately as a
+8 junior high school, or grades ten (10) through twelve (12) are organized separately
+9 as a senior high school and are conducted in separate school plant facilities, each
+10 shall be considered a separate secondary school for the purposes of KRS 157.310 to
+11 157.440;
+12 (11)[(12)] "Single salary schedule" means a schedule adopted by a local board from
+13 which all teachers are paid for one hundred eighty-five (185) days and is based on
+14 training, experience, and such other factors as the Kentucky Board of Education
+15 may approve and which does not discriminate between salaries paid elementary and
+16 secondary teachers. If the budget bill contains a minimum statewide salary
+17 schedule, no teacher shall be paid less than the amount specified in the biennial
+18 budget salary schedule for the individual teacher's educational qualifications and
+19 experience;
+20 (12)[(13)] "Teacher" means any regular or special teacher, principal, supervisor,
+21 superintendent, assistant superintendent, librarian, director of pupil personnel, or
+22 other member of the teaching or professional staff engaged in the service of the
+23 public elementary and secondary school for whom certification is required as a
+24 condition of employment;
+25 (13)[(14)] "Percentage of attendance" means the aggregate days attended by pupils in a
+26 public school for the school year divided by the aggregate days' membership of
+27 pupils in a public school for the school year;
+Page 3 of 13
+XXXX 2/11/2025 8:30 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1638
+1 (14)[(15)] "Middle school" means a school consisting of grades five (5) through eight (8)
+2 or any appropriate combination of grades as determined by the plan of organization
+3 for schools authorized by the district board;
+4 (15)[(16)] "National board certification salary supplement" means an annual supplement
+5 added for the life of the certificate to the base salary of a teacher who attains
+6 national board certification; and
+7 (16)[(17)] "Weather-related low attendance day" means a school day on which the
+8 district's attendance falls below the average daily attendance for the prior year due
+9 to inclement weather. The district shall submit a request to substitute the prior
+10 year's average daily attendance for its attendance on up to ten (10) designated days,
+11 along with documentation that the low attendance was due to inclement weather,
+12 for approval by the commissioner of education in accordance with Kentucky Board
+13 of Education administrative regulations.
+14 Section 2. KRS 157.360 is amended to read as follows:
+15 (1) (a) In determining the cost of the program to support education excellence in
+16 Kentucky, the statewide guaranteed base funding level, as defined in KRS
+17 157.320, shall be computed by dividing the amount appropriated for this
+18 purpose by the prior year's statewide average daily attendance.
+19 (b) When determining the biennial appropriations for the program, the average
+20 daily attendance for each fiscal year shall include an estimate of the number
+21 of students graduating early under the provisions of KRS 158.142.
+22 (2) Each district shall receive an amount equal to the base funding level for each pupil
+23 in average daily attendance in the district in the previous year, except a district shall
+24 receive an amount equal to one-half (1/2) of the state portion of the average
+25 statewide per pupil guaranteed base funding level for each student who graduated
+26 early under the provisions of KRS 158.142. Each district's base funding level shall
+27 be adjusted by the following factors:
+Page 4 of 13
+XXXX 2/11/2025 8:30 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1638
+1 (a) The number of at-risk students in the district. At-risk students shall be
+2 identified as those approved for the free lunch program under state and federal
+3 guidelines. The number of at-risk students shall be multiplied by a factor to be
+4 established by the General Assembly. Funds generated under this paragraph
+5 may be used to pay for:
+6 1. Alternative programs for students who are at risk of dropping out of
+7 school before achieving a diploma; and
+8 2. A hazardous duty pay supplement as determined by the local board of
+9 education to the teachers who work in alternative programs with
+10 students who are violent or assaultive;
+11 (b) The number and types of exceptional children in the district as defined by
+12 KRS 157.200. Specific weights for each category of exceptionality shall be
+13 used in the calculation of the add-on factor for exceptional children; and
+14 (c) Transportation costs. The per-pupil cost of transportation shall be calculated
+15 as provided by KRS 157.370. Districts which contract to furnish
+16 transportation to students attending nonpublic schools may adopt any payment
+17 formula which ensures that no public school funds are used for the
+18 transportation of nonpublic students.
+19 (3) [Beginning with the 2015-2016 school year and each year thereafter, ]The General
+20 Assembly shall annually allocate funds equal to one-half (1/2) of the state portion
+21 of the average statewide per pupil guaranteed base funding level for each student
+22 who graduated early under the provisions of KRS 158.142 the previous school year
+23 to the Kentucky Higher Education Assistance Authority for deposit in the early
+24 graduation scholarship trust fund.
+25 (4) The program to support education excellence in Kentucky shall be fully
+26 implemented by the 1994-95 school year.
+27 (5) (a) Except for those schools which have implemented school-based decision
+Page 5 of 13
+XXXX 2/11/2025 8:30 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1638
+1 making, the commissioner of education shall enforce maximum class sizes for
+2 every academic course requirement in all grades except in vocal and
+3 instrumental music, and physical education classes. Except as provided in
+4 subsection (6) of this section, the maximum number of pupils enrolled in a
+5 class shall be as follows:
+6 1. Twenty-four (24) in primary grades (kindergarten through third grade);
+7 2. Twenty-eight (28) in grade four (4);
+8 3. Twenty-nine (29) in grades five (5) and six (6);
+9 4. Thirty-one (31) in grades seven (7) to twelve (12).
+10 (b) Except for those schools which have implemented school-based decision
+11 making, class size loads for middle and secondary school classroom teachers
+12 shall not exceed the equivalent of one hundred fifty (150) pupil hours per day.
+13 (c) The commissioner of education, upon approval of the Kentucky Board of
+14 Education, shall adopt administrative regulations for enforcing this provision.
+15 These administrative regulations shall include procedures for a superintendent
+16 to request an exemption from the Kentucky Board of Education when unusual
+17 circumstances warrant an increased class size for an individual class. A
+18 request for an exemption shall include specific reasons for the increased class
+19 size with a plan for reducing the class size prior to the beginning of the next
+20 school year. A district shall not receive in any one (1) year exemptions for
+21 more classes than enroll twenty percent (20%) of the pupils in the primary
+22 grades and grades four (4) through eight (8).
+23 (d) In all schools the commissioner of education shall enforce the special
+24 education maximum class sizes set by administrative regulations adopted by
+25 the Kentucky Board of Education. A superintendent may request an
+26 exemption pursuant to paragraph (c) of this subsection. A local school council
+27 may request a waiver pursuant to KRS 156.160(2). An exemption or waiver
+Page 6 of 13
+XXXX 2/11/2025 8:30 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1638
+1 shall not be granted if the increased class size will impede any exceptional
+2 child from achieving his or her individual education program in the least
+3 restrictive environment.
+4 (6) In grades four (4) through six (6) with combined grades, the maximum class size
+5 shall be the average daily attendance upon which funding is appropriated for the
+6 lowest assigned grade in the class. There shall be no exceptions to the maximum
+7 class size for combined classes. In combined classes other than the primary grades,
+8 no ungraded students shall be placed in a combined class with graded students. In
+9 addition, there shall be no more than two (2) consecutive grade levels combined in
+10 any one (1) class in grades four (4) through six (6). However, this shall not apply to
+11 schools which have implemented school-based decision making.
+12 (7) If a local school district, through its admission and release committee, determines
+13 that an appropriate program in the least restrictive environment for a particular child
+14 with a disability includes either part-time or full-time enrollment with a private
+15 school or agency within the state or a public or private agency in another state, the
+16 school district shall count as average daily attendance in a public school the time
+17 that the child is in attendance at the school or agency, contingent upon approval by
+18 the commissioner of education.
+19 (8) Pupils attending a center for child learning and study established under an
+20 agreement pursuant to KRS 65.210 to 65.300 shall, for the purpose of calculating
+21 average daily attendance, be considered as in attendance in the school district in
+22 which the child legally resides and which is party to the agreement. For purposes of
+23 subsection (1) of this section, teachers who are actually employees of the joint or
+24 cooperative action shall be considered as employees of each school district which is
+25 a party to the agreement.
+26 (9) Program funding shall be increased when the average daily attendance in any
+27 district for the first two (2) months of the current school year is greater than the
+Page 7 of 13
+XXXX 2/11/2025 8:30 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1638
+1 average daily attendance of the district for the first two (2) months of the previous
+2 school year. The program funds allotted the district shall be increased by the
+3 percent of increase.[ The average daily attendance in kindergarten is the
+4 kindergarten full-time equivalent pupils in average daily attendance.]
+5 (10) If the average daily attendance for the current school year in any district decreases
+6 by ten percent (10%) or more than the average daily attendance for the previous
+7 school year, the average daily attendance for purposes of calculating program
+8 funding for the next school year shall be increased by an amount equal to two-thirds
+9 (2/3) of the decrease in average daily attendance. If the average daily attendance
+10 remains the same or decreases in the succeeding school year, the average daily
+11 attendance for purposes of calculating program funding for the following school
+12 year shall be increased by an amount equal to one-third (1/3) of the decrease for the
+13 first year of the decline.
+14 (11) If the percentage of attendance of any school district shall have been reduced more
+15 than two percent (2%) during the previous school year, the program funding
+16 allotted the district for the current school year shall be increased by the difference in
+17 the percentage of attendance for the two (2) years immediately prior to the current
+18 school year less two percent (2%).
+19 (12) (a) Instructional salaries for vocational agriculture classes shall be for twelve (12)
+20 months per year. Vocational agriculture teachers shall be responsible for the
+21 following program of instruction during the time period beyond the regular
+22 school term established by the local board of education: supervision and
+23 instruction of students in agriculture experience programs; group and
+24 individual instruction of farmers and agribusinessmen; supervision of student
+25 members of agricultural organizations who are involved in leadership training
+26 or other activity required by state or federal law; or any program of vocational
+27 agriculture established by the Department of Education. During extended
+Page 8 of 13
+XXXX 2/11/2025 8:30 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1638
+1 employment, no vocational agriculture teacher shall receive salary on a day
+2 that the teacher is scheduled to attend an institution of higher education class
+3 which could be credited toward meeting any certification requirement.
+4 (b) Each teacher of agriculture employed shall submit an annual plan for summer
+5 program to the local school superintendent for approval. The summer plan
+6 shall include a list of tasks to be performed, purposes for each task, and time
+7 to be spent on each task. Approval by the local school superintendent shall be
+8 in compliance with the guidelines developed by the Department of Education.
+9 The supervision and accountability of teachers of vocational agriculture's
+10 summer programs shall be the responsibility of the local school
+11 superintendent. The local school superintendent shall submit to the
+12 commissioner of education a completed report of summer tasks for each
+13 vocational agriculture teacher. Twenty percent (20%) of the approved
+14 vocational agriculture programs shall be audited annually by the State
+15 Department of Education to determine that the summer plan has been properly
+16 executed.
+17 (13) (a) In allotting program funds for home and hospital instruction, statewide
+18 guaranteed base funding, excluding the capital outlay, shall be allotted for
+19 each child in average daily attendance in the prior school year who has been
+20 properly identified according to Kentucky Board of Education administrative
+21 regulations. Attendance shall be calculated pursuant to KRS 158.033[KRS
+22 157.270] and shall be reported monthly on forms provided by the Department
+23 of Education.[; and]
+24 (b) Pursuant to administrative regulations of the Kentucky Board of Education,
+25 local school districts shall be reimbursed for home and hospital instruction for
+26 pupils unable to attend regular school sessions because of short-term health
+27 impairments. A reimbursement formula shall be established by administrative
+Page 9 of 13
+XXXX 2/11/2025 8:30 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1638
+1 regulations to include such factors as a reasonable per hour, per child
+2 allotment for teacher instructional time, with a maximum number of funded
+3 hours per week, a reasonable allotment for teaching supplies and equipment,
+4 and a reasonable allotment for travel expenses to and from instructional
+5 assignments, but the formula shall not include an allotment for capital outlay.
+6 Attendance shall be calculated pursuant to KRS 158.033[KRS 157.270] and
+7 shall be reported annually on forms provided by the Department of Education.
+8 (14) Except for those schools which have implemented school-based decision making
+9 and the school council has voted to waive this subsection, kindergarten aides shall
+10 be provided for each twenty-four (24) full-time equivalent kindergarten students
+11 enrolled.
+12 (15) [Effective July 1, 2001, ]There shall be no deduction applied against the base
+13 funding level for any pupil in average daily attendance who spends a portion of his
+14 or her school day in a program at a state-operated career and technical education or
+15 vocational facility.
+16 (16) During a fiscal year, a school district may request that the Department of Education
+17 recalculate its funds allocated under this section if the current year average daily
+18 attendance for the twenty (20) day school month as defined in KRS 158.060(1) that
+19 contains the most days within the calendar month of January exceeds the prior year
+20 adjusted average daily attendance plus growth by at least one percent (1%). Any
+21 adjustments in the allotments approved under this subsection shall be proportional
+22 to the remaining days in the school year and subject to available funds under the
+23 program to support education excellence in Kentucky.
+24 (17) To calculate the state portion of the program to support education excellence in
+25 Kentucky for a school district, the Department of Education shall subtract the local
+26 effort required under KRS 157.390(5) from the calculated base funding under the
+27 program to support education excellence in Kentucky, as required by this section.
+Page 10 of 13
+XXXX 2/11/2025 8:30 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1638
+1 The value of the real estate used in this calculation shall be the lesser of the current
+2 year assessment or the prior year assessment increased by four percent (4%) plus
+3 the value of current year new property. The calculation under this subsection shall
+4 be subject to available funds.
+5 (18) Notwithstanding any other statute or budget of the Commonwealth language to the
+6 contrary, time missed due to shortening days for emergencies may be made up by
+7 lengthening school days in the school calendar without any loss of funds under the
+8 program to support education excellence in Kentucky.
+9 Section 3. KRS 158.030 is amended to read as follows:
+10 (1) "Common school" means an elementary or secondary school of the state supported
+11 in whole or in part by public taxation. No school shall be deemed a "common
+12 school" or receive support from public taxation unless the school is taught by a
+13 certified teacher for a minimum school term as defined by KRS 158.070 and every
+14 child residing in the district who satisfies the age requirements of this section has
+15 had the privilege of attending it. Provided, however, that [any child who is six (6)
+16 years of age, or who may become six (6) years of age by October 1, shall attend
+17 public school or qualify for an exemption as provided by KRS 159.030. Any child
+18 who is five (5) years of age, or who may become five (5) years of age by October 1,
+19 may enter a primary school program, as defined in KRS 158.031, and may advance
+20 through the primary program without regard to age in accordance with KRS
+21 158.031(6).
+22 (2) Beginning with the 2017-2018 school year, ]any child who is six (6) years of age,
+23 or who may become six (6) years of age by August 1, shall attend public school or
+24 qualify for an exemption as provided by KRS 159.030. Any child who is five (5)
+25 years of age, or who may become five (5) years of age by August 1, may enter a
+26 primary school program, as defined in KRS 158.031, and may advance through the
+27 primary program without regard to age in accordance with KRS 158.031(6).
+Page 11 of 13
+XXXX 2/11/2025 8:30 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1638
+1 (2)[(3)] Each local school board shall adopt a policy to permit a parent or guardian to
+2 petition the board to allow a student to attend public school who does not meet the
+3 age requirements of subsection (1)[ or (2)] of this section. The policy shall include
+4 an evaluation process that will help determine a student's readiness for school and
+5 shall ensure that any tuition amount charged under this policy is the same amount
+6 charged to a student who meets the age requirements of subsection (1)[ or (2)] of
+7 this section. Students enrolled under this policy shall be included in a school's
+8 average daily attendance for purposes of funding as provided in KRS 157.310 to
+9 157.440.
+10 Section 4. KRS 158.060 is amended to read as follows:
+11 (1) Twenty (20) school days, or days in which teachers are actually employed in the
+12 schoolroom, shall constitute a school month in the common schools.
+13 (2) Each full-time teacher shall be provided with a duty-free lunch period each day
+14 during the regularly scheduled student lunch period. The duty-free lunch period
+15 shall be not less than the length of the lunch period specified in the school calendar
+16 approved by the chief state school officer. A full-time teacher may be assigned to
+17 lunch room duty during the regularly scheduled student lunch period only for an
+18 amount of time equal to the noninstructional time in excess of fifty-five (55)
+19 minutes included in the teacher's daily schedule. The calculation of noninstructional
+20 time shall not include the teacher's duty-free lunch period, the time teachers are
+21 required to be at school prior to the start of the student's instructional day, or the
+22 time teachers are required to remain at school after the students are dismissed.
+23 (3) Except for children with disabilities [and children attending the primary school
+24 program ]who may attend a program of less than six (6) hours per day under policy
+25 adopted by the local school district board of education and approved by the
+26 commissioner of education and children attending a school district where the local
+27 board has approved a schedule that provides at least the equivalent of six (6) hours
+Page 12 of 13
+XXXX 2/11/2025 8:30 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1638
+1 of daily instruction during the school year, a minimum of six (6) hours of actual
+2 school work shall constitute a school day. [Kindergarten programs may be operated
+3 for less than six (6) hours without state board approval. ]The Kentucky Board of
+4 Education, upon recommendation of the chief state school officer, shall develop and
+5 approve regulations governing make up by school districts of whole days missed
+6 due to emergencies, or partial days missed as a result of shortening regularly
+7 scheduled school days due to emergencies.
+8 (4) Teachers shall be provided additional time for nonteaching activities. The
+9 nonteaching time shall be used to provide teachers opportunities for professional
+10 development activities as provided in KRS 156.095, instructional planning, school-
+11 based decision making as provided in KRS 160.345, curriculum development, and
+12 outreach activities involving their students' families and the community.
+13 (5) Character education programs and activities shall be considered valuable and
+14 legitimate components of the actual school work constituting a school day under
+15 subsection (3) of this section.
+16 Section 5. This Act takes effect July 1, 2026.
+Page 13 of 13
+XXXX 2/11/2025 8:30 AM Jacketed
+
+[DELETED:   2  J A B S A ( " s t l ( A d s i i a t t a n o d a d t p w s n t e t ( d i t f t s ( A d s i i a t t a n o d a d d t ( " f l m a g a o r p p t b p f e s d t b u f r o a c e ( " ( " ( " d a o ( " E E i K m t l o e]
+[DELETED:   2  J s f ( [ k a d b p f ( ] e ( " r o t K B o E m t r w t K B o E m a u t r a w t a o t c o e T c f ( " n s u t l o h f ( d o s y w p t d y o s o w t d w p s b c a p]
+[DELETED:   2  J d o d ( " c t ( o a a c o g w t r a d W j a s 1 ( " s s m a s a b a l b f w t m s t I t b b c a m s s s b e ( " m a r o s t p s s a s l d o p p o o p e a s s f w c i r a a c ( " p s f t s y b t a d m o p]
+[DELETED:   2  J ( " o f ( " a f t l o t c t t b s o a t w a n ( " l a d m a s d o w t d t i w T d s s a r t s t p y a f o S ( ( I d t c o t p t s e e i K t s g b f l a d i K 1 s b c b d t a a f t p ( W d o ( E i r a a e t o ( o t s p o t a s e b]
+[DELETED:   2  J ( T n o a s i t d A s s b i g e m 1 A p f s w a a r o d o o s 2 A e t t t w w i a p w s ( T a o K u ( T a p b K 1 D w c t f t f w e t n p s f a u f t t ( [ A o w t t K H E A A f d i t e g ( T p t s e e i K s b f i ( ( E f t s w h i s d]
+[DELETED:   2  J m e a c r i a g e i v a i m a p e c E a p i s c 1 T 2 T 3 T 4 T ( E f t s w h i s d m s ( T c o e u a o t K B o E T t c w a i c s f a i c A r s s m g ( I a s t c o e s e t s e t K B o E A s m r a e m]
+[DELETED:   2  J s c f a h o h i e p i t l r ( I s l c n a a s ( I t w a d i e p o f e w a p s s t t ( P a a c f c l a s e u a a a w s c a ( P f s b i w t a d a i a d]
+[DELETED:   2  J a s y T p f a t d s b i b t p o i T a d a i k i t k ( I b s y t a d a f p o c p f ( r t s o d i t s s y t a d a o f y f ( I t t p ( d t p s y t p f a t s ( ( I m f s t e b t l b o e s a i o s i a e p g a i m o a e b t D o E D e]
+[DELETED:   2  J e t w ( E p t t l s s f a T s p s t i T s a a o t o v a s p s b t r o t l s s T l s s s s t t c o e a c r o s t f e v a t T p ( o t a v a p s b a a b t S D e ( ( I a p f f h a h i s g b f e t c o s b a f e p r A s b c p t K 1 1 o ( P l p i]
+[DELETED:   2  J r t i s f a a r p h p c a h a a r a f t e t a f i a A s ( E a b p f e t ( f e k s e ( [ J 1 2 ] s b n d a a t b f o v ( D r a c a a t p ( T c t s p o p t s e e i K e p]
+[DELETED:   2  J T y t b ( N c l p S ( " i w o i p b p t N s s b d a " s c c h y p w m t t p p w r t a i a w K 1 ( B o q y p p]
+[DELETED:   2  J ( E p a a s c t s S e u t p s b i i a s a 1 S ( T s ( E f t b p w a d l p e d d t r s s l p T d l p s a l a o t e t t n t i e o f ( m t a r t ( E f c w d [ c a t p s p a b t l s d b o e a a b t c b]
+[DELETED:   2  J o s f E a d t e o p d m a a r o s r s ( T s b p a t f n a T n d b o ( C e p a a s b c v a l s S]

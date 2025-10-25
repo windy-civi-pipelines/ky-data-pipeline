@@ -1,0 +1,2280 @@
+Title: 1 AN ACT relating to products containing nicotine.
+Official Title: 1 AN ACT relating to products containing nicotine.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 36 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS BR 261
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 438.305 is amended to read as follows:
+4 As used in KRS 438.305 to 438.350[438.340], unless the context requires otherwise:
+5 (1) (a) "Alternative nicotine product" means a noncombustible product containing
+6 nicotine that is intended for human consumption, whether chewed, absorbed,
+7 dissolved, or ingested by any other means.
+8 (b) "Alternative nicotine product" does not include any product regulated as a
+9 drug or device by the United States Food and Drug Administration under
+10 Chapter V of the Food, Drug, and Cosmetic Act;
+11 (2) "Authorized vapor product" means a vapor product containing nicotine for which
+12 the manufacturer has obtained:
+13 (a) Authorization from the FDA; or
+14 (b) A safe harbor certification;
+15 (3) "Commissioner" means the commissioner of the Department of Alcoholic
+16 Beverage Control;
+17 (4) "Contraband property" means any article, item, or property, except real property,
+18 that is used or intended to be used in violation of KRS 438.305 to 438.350;
+19 (5)[(3)] "Department" means the Department of Alcoholic Beverage Control;
+20 (6) "Distributor" means any person who distributes alternative nicotine products,
+21 tobacco products, or authorized vapor products for the purpose of being sold at
+22 retail;
+23 (7)[(4)] "FDA" means the United States Food and Drug Administration;
+24 (8) "Investigator" means any employee or agent of the department who is regularly
+25 employed and whose primary function is to visit and inspect the premises of a
+26 retail establishment and any employee or agent of the department who is
+27 assigned, temporarily or permanently, by the commissioner in connection with
+Page 1 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 261
+1 the administration of KRS 438.305 to 438.350;
+2 (9)[(5)] "Manufacturer" means any person who manufactures or produces tobacco
+3 products within or without this Commonwealth;
+4 (10)[(6)] "Nonresident wholesaler" means any person who purchases cigarettes or other
+5 tobacco products directly from the manufacturer and maintains a permanent
+6 location or locations outside this state at which Kentucky cigarette tax evidence is
+7 attached or from which Kentucky cigarette tax is reported and paid;
+8 (11) "Premises" means the land and building upon which any business operating
+9 under KRS 438.305 to 438.350 is operated;
+10 (12)[(7)] "Proof of age" means a driver's license or other documentary or written
+11 evidence of an individual's age;
+12 (13)[(8)] "Resident wholesaler" means any person who purchases at least seventy-five
+13 percent (75%) of all cigarettes or other tobacco products purchased by that person
+14 directly from the cigarette manufacturer on which the cigarette tax provided for in
+15 KRS 138.130 to 138.205 is unpaid, and who maintains an established place of
+16 business in this state at which the person attaches cigarette tax evidence or receives
+17 untaxed cigarettes;
+18 (14)[(9)] "Retailer" means any person, online or in person, who sells tobacco products,
+19 alternative nicotine products, or vapor products to a consumer for any purpose other
+20 than resale;
+21 (15)[(10)] "Safe harbor certification":
+22 (a) Means a certification provided by a manufacturer establishing that a vapor
+23 product:
+24 1. Falls within a safe harbor established by the FDA by the manufacturer's
+25 timely pursuing the path to market described in subparagraph 2. of this
+26 paragraph; and
+27 2. Is a nicotine product containing tobacco-derived nicotine that was
+Page 2 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 261
+1 commercially marketed in the United States as of August 8, 2016, for
+2 which the manufacturer submitted a premarket tobacco product
+3 application on or before September 9, 2020, to the FDA that:
+4 a. Remains under review, but has not received either a marketing
+5 denial order or a marketing granted order;
+6 b. Has received a marketing denial order, but remains under a stay by
+7 the FDA or continues to be subject to an appeal to or review by a
+8 court of competent jurisdiction; or
+9 c. Has had a marketing denial order that has been rescinded by the
+10 FDA or vacated by a court of competent jurisdiction;
+11 (b) Shall contain a copy of the first page of the communication from the FDA
+12 reflecting an acceptance for review or the submission tracking number or, if
+13 on appeal, a copy of the first page of the document filed with the applicable
+14 agency or court; and
+15 (c) May be provided and maintained in hard copy or in electronic form;
+16 (16)[(11)] "Sample" means a tobacco product, alternative nicotine product, or vapor
+17 product distributed to members of the general public at no cost;
+18 (17)[(12)] "Subjobber" means any person who purchases tobacco products, on which the
+19 Kentucky cigarette tax has been paid, from a wholesaler licensed pursuant to KRS
+20 138.195, and makes them available to a retail establishment for resale;
+21 (18)[(13)] "Tobacco noncompliance database and reporting system" means the database
+22 of retailers that have violated KRS 438.312 or 438.316 developed and maintained
+23 by the department under Section 16 of this Act[KRS 438.307];
+24 (19)[(14)] (a) "Tobacco product" means any cigarette, cigar, snuff, smokeless tobacco
+25 product, smoking tobacco, chewing tobacco, and any kind or form of tobacco
+26 prepared in a manner suitable for chewing or smoking, or both, or any kind or
+27 form of tobacco that is suitable to be placed in a person's mouth. "Tobacco
+Page 3 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 261
+1 product" also means any product made or derived from tobacco that is
+2 intended for human consumption, including any component, part, or accessory
+3 of a tobacco product, except for raw materials other than tobacco used in
+4 manufacturing any component, part, or accessory of a tobacco product, in
+5 accordance with the federal Tobacco Control Act, Pub. L. No. 111-31.
+6 (b) "Tobacco product" does not include any alternative nicotine product, vapor
+7 product, or product regulated as a drug or device by the United States Food
+8 and Drug Administration under Chapter V of the Food, Drug, and Cosmetic
+9 Act;
+10 (20) "Trade show" means an event where businesses gather to exhibit their products
+11 and services and may include marketing and sales of those products and services;
+12 (21)[(15)] "Unauthorized vapor product":
+13 (a) Means any vapor product that has not been authorized by the FDA; and
+14 (b) Does not include a vapor product for which the manufacturer has received:
+15 1. A marketing granted order or other authorization to market from the
+16 FDA; or
+17 2. A safe harbor certification; and
+18 (22)[(16)] (a) "Vapor product" means any noncombustible product that employs a
+19 heating element, battery, power source, electronic circuit, or other electronic,
+20 chemical, or mechanical means, regardless of shape or size and including the
+21 component parts and accessories thereto, that can be used to deliver vaporized
+22 nicotine or other substances to users inhaling from the device. "Vapor
+23 product" includes but is not limited to any device deemed to be an electronic
+24 nicotine delivery system by the United States Food and Drug Administration,
+25 any electronic cigarette, electronic cigar, electronic cigarillo, electronic pipe,
+26 or similar product or device and every variation thereof, regardless of whether
+27 marketed as such, and any vapor cartridge or other container of a liquid
+Page 4 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 261
+1 solution or other material that is intended to be used with or in an electronic
+2 cigarette, electronic cigar, electronic cigarillo, electronic pipe, or other similar
+3 product or device.
+4 (b) "Vapor product" does not include any product regulated as a drug or device
+5 by the United States Food and Drug Administration under Chapter V of the
+6 Food, Drug, and Cosmetic Act.
+7 SECTION 2. A NEW SECTION OF KRS 438.305 TO 438.350 IS CREATED
+8 TO READ AS FOLLOWS:
+9 (1) (a) The Division of Tobacco, Nicotine, and Vapor Product Licensing is hereby
+10 created and established within the Department of Alcoholic Beverage
+11 Control.
+12 (b) The Division of Tobacco, Nicotine, and Vapor Product Licensing shall be
+13 managed by a division director, whose appointment shall be subject to KRS
+14 12.050.
+15 (2) The Division of Tobacco, Nicotine, and Vapor Licensing shall carry out
+16 enforcement provisions of KRS 438.305 to 438.350 as they relate to the regulation
+17 of alternative nicotine products, tobacco products, or vapor products, including
+18 promulgating administrative regulations that govern the sale and distribution of
+19 alternative nicotine products, tobacco products, and vapor products.
+20 SECTION 3. A NEW SECTION OF KRS 438.305 TO 438.350 IS CREATED
+21 TO READ AS FOLLOWS:
+22 Department investigators shall have the full police powers of peace officers, and their
+23 jurisdiction shall be coextensive with the state. They may inspect any premises where
+24 alternative nicotine products, tobacco products, or vapor products are manufactured,
+25 sold, stored, or otherwise trafficked in, without first obtaining a search warrant. They
+26 may confiscate any contraband property.
+27 SECTION 4. A NEW SECTION OF KRS 438.305 TO 438.350 IS CREATED
+Page 5 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 261
+1 TO READ AS FOLLOWS:
+2 (1) (a) Beginning December 1, 2025, a person, firm, or corporation shall not:
+3 1. Operate as a retailer selling alternative nicotine products, tobacco
+4 products, or authorized vapor products in or on any premises in the
+5 Commonwealth without first obtaining a tobacco, nicotine, or vapor
+6 product license issued by the department; or
+7 2. Sell an alternative nicotine product, tobacco product, or authorized
+8 vapor product at retail to a customer except through a face-to-face
+9 sales transaction at a licensed tobacco or vapor product business.
+10 (b) Any person who, by himself or herself or through another, directly or
+11 indirectly, violates paragraph (a)1. of this section shall, for the first offense,
+12 be guilty of a Class B misdemeanor; for the second offense, he or she shall
+13 be guilty of a Class A misdemeanor; and for the third and each subsequent
+14 offense, he or she shall be guilty of a Class D felony.
+15 (2) Persons engaged in the display, exhibition, or sale of alternative nicotine
+16 products, tobacco products, or authorized vapor products at trade shows or
+17 exhibitions shall not be required to obtain a license, provided that:
+18 (a) Access to the portion of the trade show's venue where alternative nicotine
+19 products, tobacco products, or authorized vapor products are displayed,
+20 offered for sale, or sold is restricted to persons who are over the age of
+21 twenty-one (21); and
+22 (b) A manufacturer, distributor, or retailer whose alternative nicotine products,
+23 tobacco products, or authorized vapor products are displayed, offered for
+24 sale, or sold at the venue shall verify the purchaser is over the age of
+25 twenty-one (21) prior to commencing the retail sale transaction for any
+26 alternative nicotine product, tobacco product, or vapor product.
+27 SECTION 5. A NEW SECTION OF KRS 438.305 TO 438.350 IS CREATED
+Page 6 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 261
+1 TO READ AS FOLLOWS:
+2 (1) The department shall:
+3 (a) Investigate the information provided in each application for a tobacco,
+4 nicotine, or vapor product license; and
+5 (b) If the tobacco, nicotine, or vapor product license is approved,
+6 notwithstanding Sections 15 and 16 of this Act, random inspections or
+7 compliance checks of the licensee shall be conducted not less than once
+8 annually during normal business hours or as deemed appropriate by the
+9 commissioner.
+10 (2) Any violation found during a compliance check shall result in revocation of the
+11 tobacco, nicotine, or vapor product license and be rechecked by the department's
+12 enforcement division after a notice of violation is issued to the licensee.
+13 SECTION 6. A NEW SECTION OF KRS 438.305 TO 438.350 IS CREATED
+14 TO READ AS FOLLOWS:
+15 (1) Each application for a tobacco, nicotine, or vapor product license shall be made
+16 in a form prescribed by the department, accompanied with a nonrefundable
+17 application fee of fifty dollars ($50) and any supporting documentation required
+18 by the department. The application fee shall be applied to the licensing fee if the
+19 license is issued. If no license is issued, it shall be retained by the department.
+20 (2) A tobacco, nicotine, or vapor product license shall:
+21 (a) Be renewed annually;
+22 (b) Remain in full force and effect for one (1) year from the date of issuance
+23 unless it is surrendered by the licensee, suspended, or revoked; and
+24 (c) Posted in a conspicuous place in the premises of the business where
+25 alternative nicotine products, tobacco products, or authorized vapor
+26 products are sold.
+27 (3) (a) The fee for each license shall be two hundred fifty dollars ($250) per year
+Page 7 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 261
+1 for each licensed premises and the fee shall be made payable to State
+2 Treasury.
+3 (b) All of the fees paid into the State Treasury for state licenses shall be
+4 credited to a revolving trust and agency account, as provided in KRS 45.253
+5 for the department.
+6 (4) The license shall not be transferred from one (1) person to another or from one
+7 (1) premises to another premises.
+8 (5) A new license shall be required when a retailer has a change in ownership.
+9 SECTION 7. A NEW SECTION OF KRS 438.305 TO 438.350 IS CREATED
+10 TO READ AS FOLLOWS:
+11 (1) The commissioner shall approve or deny every application for a tobacco, nicotine,
+12 or vapor products license.
+13 (2) If the application is denied, the:
+14 (a) License shall not be issued;
+15 (b) Applicant shall be notified of the commissioner's denial which shall include
+16 the reason for the denial; and
+17 (c) Applicant may appeal the denial and request an administrative hearing on
+18 the matter in accordance with KRS Chapter 13B.
+19 (3) (a) If the commissioner revokes a license pursuant to Section 5 or 8 of this Act,
+20 the commissioner shall:
+21 1. Notify the applicant within ten (10) days of the decision to revoke the
+22 license;
+23 2. Upon the request of a denied applicant, commence a hearing on the
+24 license revocation in accordance with KRS Chapter 13B; and
+25 3. Issue a final order explaining the decision and facts supporting the
+26 license revocation.
+27 (b) Revocation of a license subject to KRS 438.305 to 438.350 for any reason
+Page 8 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 261
+1 shall result in the inability of a retailer to reapply for a license for two (2)
+2 years.
+3 (c) A final order of the commissioner shall be appealable to the Franklin
+4 Circuit Court.
+5 SECTION 8. A NEW SECTION OF KRS 438.305 TO 438.350 IS CREATED
+6 TO READ AS FOLLOWS:
+7 A license may be revoked or suspended by the commissioner for a violation of any of
+8 the following:
+9 (1) Any of the provisions of KRS 438.305 to 438.350;
+10 (2) Any administrative regulation of the department relating to the regulation of the
+11 manufacture, sale, and transportation of alternative nicotine products, tobacco
+12 products, or vapor products;
+13 (3) Any administrative regulation of the Department of Revenue relating to the
+14 taxation of alternative nicotine products, tobacco products, or vapor products;
+15 (4) Any act of Congress or any rule or regulation of any federal board, agency, or
+16 commission;
+17 (5) Any of the laws, regulations, or ordinances referred to in this section when an
+18 agent, servant, or employee of the licensee committed the violation, irrespective of
+19 whether the licensee knew of or permitted the violation or whether the violation
+20 was committed and disobedience of the licensees instructions;
+21 (6) Any cause which the department in the exercise of it sound discretion deems
+22 sufficient; or
+23 (7) Any of the reasons for which the commissioner would have been required to deny
+24 a license if existing material facts have been known.
+25 Section 9. KRS 438.308 is amended to read as follows:
+26 (1) A manufacturer of vapor products shall only sell authorized vapor products.
+27 (2) A manufacturer shall provide an applicable safe harbor certification to a wholesaler
+Page 9 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 261
+1 or retailer when selling a vapor product that has not been authorized by the FDA.
+2 (3) If the FDA or a court of competent jurisdiction takes final action that removes a
+3 vapor product from safe harbor certification or authorized to market status, the
+4 manufacturer shall provide notice of the final action to any wholesaler or retailer
+5 that has purchased the vapor product from the manufacturer within thirty (30) days
+6 of the final action being taken.
+7 (4) A manufacturer that provides false or misleading information in a safe harbor
+8 certification or other notice to retailers or wholesalers violates this section and shall
+9 be subject to a fine of:
+10 (a) Twenty-five thousand dollars ($25,000) for a first citation issued for a
+11 violation of this section;
+12 (b) Fifty thousand dollars ($50,000) for a second citation issued for a violation of
+13 this section; and
+14 (c) Seventy-five thousand dollars ($75,000) for a third or subsequent citation
+15 issued for a violation of this section.
+16 (5) This section shall not apply to manufacturers of vapor products that are not
+17 intended for resale in this state.
+18 Section 10. KRS 438.309 is amended to read as follows:
+19 (1) A wholesaler shall not sell:
+20 (a) Authorized vapor products to a retailer until the wholesaler verifies that the
+21 retailer is not in the tobacco noncompliance database and reporting system; or
+22 (b) Unauthorized vapor products.
+23 (2) Any wholesaler that violates this section shall be subject to a fine of:
+24 (a) Five thousand dollars ($5,000) for a first citation issued for a violation of this
+25 section; and
+26 (b) Fifteen thousand dollars ($15,000) for a second or subsequent citation issued
+27 for a violation of this section.
+Page 10 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 261
+1 (3) This section shall not apply to wholesalers of vapor products that are not intended
+2 for resale in this state.
+3 Section 11. KRS 438.310 is amended to read as follows:
+4 (1) No person shall sell or cause to be sold any tobacco product,[ or] alternative
+5 nicotine product, or authorized vapor product at retail to any person under the age
+6 of twenty-one (21), or solicit any person under the age of twenty-one (21) to
+7 purchase any tobacco product,[ or] alternative nicotine product, or authorized
+8 vapor product at retail.
+9 (2) Any person who sells tobacco products,[ or] alternative nicotine products, or
+10 authorized vapor products at retail shall cause to be posted in a conspicuous place
+11 in his or her establishment a notice stating that it is illegal to sell tobacco products,
+12 alternative nicotine products, or vapor products to persons under age twenty-one
+13 (21).
+14 (3) Any person selling tobacco products, alternative nicotine products, or vapor
+15 products shall require proof of age from a prospective buyer or recipient if the
+16 person has reason to believe that the prospective buyer or recipient is under the age
+17 of twenty-one (21).
+18 (4) A person who violates[ subsection (1) or (2) of] this section shall be subject to a:
+19 (a) One hundred dollar ($100) fine to the retail sales clerk for a first violation
+20 and a notice to the owner of retail establishment which details the violation;
+21 (b) One hundred dollar ($100) fine to the retail sales clerk and an additional
+22 five hundred dollar ($500) fine to the owner of a retail establishment for a
+23 second violation;
+24 (c) One hundred dollar ($100) fine to the retail sales clerk and an additional
+25 one thousand dollar ($1,000) fine to the owner of a retail establishment for
+26 a third violation; and
+27 (d) Revocation of the tobacco, nicotine, or vapor products license upon a fourth
+Page 11 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 261
+1 violation, which shall result in the inability to reapply for a license for two
+2 (2) years[ fine of not less than one hundred dollars ($100) nor more than five
+3 hundred dollars ($500) for a first violation and a fine of not less than five
+4 hundred dollars ($500) nor more than one thousand dollars ($1,000) for any
+5 subsequent violation. The fine shall be administered by the Department of
+6 Alcoholic Beverage Control using a civil enforcement procedure].
+7 (5) The fine shall be imposed and collected by the department using a civil
+8 enforcement procedure.
+9 (6) A retailer shall be prohibited from renewing its license until all fines incurred
+10 under KRS 438.305 to 438.350 are paid.
+11 Section 12. KRS 438.311 is amended to read as follows:
+12 (1) Except for the provisions of KRS 438.330, it shall be unlawful for a person who has
+13 not attained the age of twenty-one (21) years to purchase or accept receipt of or to
+14 attempt to purchase or accept receipt of a tobacco product, alternative nicotine
+15 product, or vapor product, or to present or offer to any person any purported proof
+16 of age which is false, fraudulent, or not actually his or her own, for the purpose of
+17 purchasing or receiving any tobacco product, alternative nicotine product, or vapor
+18 product. It shall not be unlawful for such a person to accept receipt of a tobacco
+19 product, alternative nicotine product, or vapor product from an employer when
+20 required in the performance of the person's duties.
+21 (2) All peace officers with general law enforcement authority and
+22 investigators[employees] of the department[ of Alcoholic Beverage Control] may
+23 confiscate the tobacco product, alternative nicotine product, or vapor product of a
+24 person under the age of twenty-one (21) who has violated this section.
+25 Notwithstanding any provision of law to the contrary, no other penalty shall apply
+26 to a person under the age of twenty-one (21) for a violation of this section.
+27 Section 13. KRS 438.313 is amended to read as follows:
+Page 12 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 261
+1 (1) A[No] wholesaler, retailer, or manufacturer of cigarettes, tobacco products, or
+2 alternative nicotine products, shall not[may] distribute cigarettes, tobacco products,
+3 or alternative nicotine products, including samples thereof, free of charge or
+4 otherwise, to any person under the age of twenty-one (21).
+5 (2) A distributor shall not distribute alternative nicotine products, tobacco products,
+6 or vapor products to any retailer:
+7 (a) Whose license has been revoked; or
+8 (b) That is in the tobacco noncompliance database and reporting system.
+9 (3) Any person who distributes cigarettes, tobacco products, or alternative nicotine
+10 products, including samples thereof, free of charge or otherwise shall require proof
+11 of age from a prospective buyer or recipient if the person has reason to believe that
+12 the prospective purchaser or recipient is under the age of twenty-one (21).
+13 (4)[(3)] Any person who violates the provisions of this section shall be fined not less
+14 than one thousand dollars ($1,000) nor more than two thousand five hundred dollars
+15 ($2,500) for each offense. The fine shall be administered by the department[ of
+16 Alcoholic Beverage Control] using a civil enforcement procedure for persons
+17 eighteen (18) years of age or older.
+18 (5)[(4)] All peace officers with general law enforcement authority and
+19 investigators[employees] of the department[ of Alcoholic Beverage Control] may
+20 issue a uniform citation, but may not make an arrest[,] or take a child into custody,
+21 for a violation of this section.
+22 Section 14. KRS 438.316 is amended to read as follows:
+23 (1) A retailer shall not sell an unauthorized vapor product to any person.
+24 (2) Except as provided in subsection (3) of this section, any retailer selling vapor
+25 products shall obtain from the manufacturer an applicable safe harbor certification
+26 and shall maintain a copy of the certification at the physical location where the
+27 vapor product is being sold.
+Page 13 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 261
+1 (3) A retailer is not required to obtain a safe harbor certification for vapor products if
+2 those products were purchased from a Kentucky-licensed resident wholesaler.
+3 (4) Any retailer that violates this section shall be:
+4 (a) Subject to a fine of:
+5 1. One thousand dollars ($1,000) for the first citation issued for a violation
+6 of this section; and
+7 2. Five thousand dollars ($5,000) for a second or subsequent citation
+8 issued for a violation of this section; and
+9 (b) Placed in the tobacco noncompliance database and reporting system and lose
+10 the ability to lawfully sell vapor products for one (1) year for any third or
+11 subsequent citation issued for a violation within a two (2) year period.
+12 (5) A retailer in the tobacco noncompliance database and reporting system that sells
+13 vapor products that are unauthorized vapor products shall be subject to a fine of ten
+14 thousand dollars ($10,000) per unlawful transaction.
+15 (6) Any retailer with unpaid fines under this section that are more than sixty (60) days
+16 overdue shall lose the ability to lawfully sell vapor products until the fines are paid.
+17 (7) A retailer shall have an affirmative defense to a violation of selling an unauthorized
+18 vapor product if the retailer can establish:
+19 (a) Proof of an official material change in the status of a vapor product under
+20 review by the FDA within forty-five (45) days of the issuance of the citation;
+21 or
+22 (b) A safe harbor certification for the vapor product exists onsite at the retail
+23 location at the time the citation was issued.
+24 (8) This section shall not apply to retailers of vapor products that are not intended
+25 for resale in this state.
+26 Section 15. KRS 438.330 is amended to read as follows:
+27 (1) Except as provided in Section 5 of this Act, the Department of Alcoholic Beverage
+Page 14 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 261
+1 Control and the Department of Agriculture shall carry out annually conducted
+2 random, unannounced inspections of retail establishments where tobacco products,
+3 alternative nicotine products, or vapor products are sold or distributed for the
+4 purpose of enforcing the provisions of KRS 438.305 to 438.350[438.340]. The
+5 inspections shall be conducted to the extent necessary to assure that the
+6 Commonwealth remains in compliance with Pub. L. No.[Public Law] 102-321 and
+7 applicable federal regulations. The department[ of Alcoholic Beverage Control] and
+8 the Department of Agriculture shall also ensure that targeted inspections are
+9 conducted at those retail establishments where, and at those times when, persons
+10 under the age of twenty-one (21) years are most likely to purchase tobacco
+11 products, alternative nicotine products, or vapor products. Persons under the age of
+12 twenty-one (21) years may be used to test compliance with the provisions of KRS
+13 438.305 to 438.350[438.340] only if the testing is conducted under the direct
+14 supervision of the department[ of Alcoholic Beverage Control], sheriff, or chief of
+15 police, or their employees, and written parental consent has been obtained. The
+16 department[ of Alcoholic Beverage Control] shall prepare annually, for submission
+17 by the Governor to the Secretary of the United States Department of Health and
+18 Human Services, the report required by Section 1926 of Subpart 1 of Part B of Title
+19 XIX of the Federal Public Health Service Act.
+20 (2) The department[ of Alcoholic Beverage Control] shall develop and implement the
+21 survey sampling methodologies to carry out the inspections as described in this
+22 section.
+23 Section 16. KRS 438.337 is amended to read as follows:
+24 (1) The department[ of Alcoholic Beverage Control] shall carry out the enforcement
+25 provisions of KRS 438.305 to 438.350[438.340].
+26 (2) (a) 1. The department[ of Alcoholic Beverage Control] shall be entitled to the
+27 revenue produced by one-twentieth of one cent ($0.0005) of the three-
+Page 15 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 261
+1 cent ($0.03) per pack revenue collected by the Finance and
+2 Administration Cabinet from the state excise tax on the sale of cigarettes
+3 as imposed by KRS 138.140.
+4 2. One hundred percent (100%) of the license and application fees
+5 imposed by Section 6 of this Act unless the license is denied shall[ to]
+6 be deposited in a trust and agency account created in the State
+7 Treasury.[, and ]
+8 (b) One hundred percent (100%) of the fines collected under KRS 438.305 to
+9 438.350 shall be retained by the department.
+10 (c) The department shall[to] keep fifty percent (50%) of any fines collected
+11 under KRS 438.305 to 438.350[438.340] to offset the costs of enforcement.
+12 The remaining fifty percent (50%) of funds shall go to a youth program
+13 directed at targeting and educating youth on the dangers of tobacco
+14 products, alternative nicotine products, and vapor products[ of KRS 438.305
+15 to 438.340].
+16 (3) The department[ of Alcoholic Beverage Control] shall be responsible for
+17 maintaining statistics for compilation of required reports to be submitted to the
+18 United States Department of Health and Human Services.
+19 (4) The department[ of Alcoholic Beverage Control] shall devise a plan and
+20 timeframe[time frame] for enforcement to determine by random inspection if the
+21 percentage of retailers or distributors making illegal sales to persons under the age
+22 of twenty-one (21) does or does not exceed federal guidelines preventing tobacco
+23 sales to persons under the age of twenty-one (21).
+24 (5) On the first day of each month, the department shall update and publish on its
+25 website the list of retailers of authorized vapor products provided by the Secretary
+26 of State under KRS 438.306.
+27 (6) The department shall develop, maintain, and utilize a coordinated tobacco
+Page 16 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 261
+1 noncompliance database and reporting system to:
+2 (a) Identify the retailers that have violated KRS 438.312 or Section 14 of this
+3 Act; and
+4 (b) Publish that information on its website on the first day of each month.
+5 Section 17. KRS 438.340 is amended to read as follows:
+6 The department[ of Alcoholic Beverage Control] and the Department of Agriculture are
+7 authorized to promulgate administrative regulations pursuant to KRS Chapter 13A as
+8 necessary to implement and carry out the provisions of KRS 438.305 to
+9 438.350[438.340], including establishing a procedure for administering citations,
+10 issuing orders, and filing appeals under this section and Section 8 of this Act for any
+11 violation of the provisions of KRS 438.305 to 438.350, order of the commissioner, or
+12 administrative regulations promulgated by the department.
+13 Section 18. KRS 438.350 is amended to read as follows:
+14 (1) No person under the age of twenty-one (21) shall possess or use tobacco products,
+15 alternative nicotine products, or vapor products.
+16 (2) Any tobacco product, alternative nicotine product, or vapor product found in the
+17 possession of a person under the age of twenty-one (21) and in plain view of the
+18 law enforcement officer shall be confiscated by the law enforcement officer making
+19 the charge.
+20 (3) Any person under the age of twenty-one (21) years found possessing or
+21 consuming an alternative nicotine product, tobacco product, or vapor product
+22 may be required to participate in a perform community service program or attend
+23 a tobacco cessation program.
+24 (4)[(3)] This section shall not apply to persons exempted as provided by KRS 438.311
+25 and 438.330.
+26 [(4) The terms "alternative nicotine product," "tobacco product," and "vapor product,"
+27 shall have the same meanings as in KRS 438.305.]
+Page 17 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 261
+1 Section 19. KRS 241.020 is amended to read as follows:
+2 (1) The department shall administer statutes relating to, and regulate traffic in,
+3 alcoholic beverages, except that the collection of taxes shall be administered by the
+4 Department of Revenue. The department may issue advisory opinions and
+5 declaratory rulings related to KRS Chapters 241 to 244 and the administrative
+6 regulations promulgated under those chapters.
+7 (2) A Division of Distilled Spirits, under the supervision of the board, shall administer
+8 the laws in relation to traffic in distilled spirits and wine.
+9 (3) A Division of Malt Beverages, under the supervision of the board, shall administer
+10 the laws in relation to traffic in malt beverages.
+11 (4) A Division of Tobacco and Vapor Licensing, under the supervision of the division
+12 director, shall administer the laws in relation to traffic in alternative nicotine
+13 products, tobacco products, or authorized vapor products under KRS 438.305 to
+14 438.350.
+15 Section 20. KRS 438.300 is amended to read as follows:
+16 It is the intent of the Legislature that KRS 438.305 to 438.350[438.340] shall be enforced
+17 in an equitable and uniform manner throughout the Commonwealth. For the purpose of
+18 equitable and uniform enforcement, the provisions of KRS 438.305 to 438.350[438.340]
+19 shall supersede any subsequently enacted local law, ordinance, or regulation which
+20 relates to the use, display, sale, or distribution of tobacco products. It is the intent of the
+21 Legislature that KRS 438.305 to 438.350[438.340] be enforced so as to ensure the
+22 eligibility for and receipt of any federal funds or grants that the Commonwealth of
+23 Kentucky now receives or may receive relating to the provisions of KRS 438.305 to
+24 438.350[438.340].
+25 Section 21. KRS 438.325 is amended to read as follows:
+26 (1) Each owner of a retail establishment selling or distributing tobacco products,
+27 alternative nicotine products, or vapor products shall notify each individual
+Page 18 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 261
+1 employed in the retail establishment as a retail sales clerk that the sale of tobacco
+2 products, alternative nicotine products, or vapor products to any person under the
+3 age of twenty-one (21) years and the purchase of tobacco products, alternative
+4 nicotine products, or vapor products by any person under the age of twenty-one (21)
+5 years are prohibited.
+6 (2) Each owner of a retail establishment selling or distributing tobacco products,
+7 alternative nicotine products, or vapor products shall notify each individual
+8 employed in the retail establishment as a retail sales clerk that proof of age is
+9 required from a prospective buyer or recipient if the person has reason to believe
+10 that the prospective purchaser or recipient is under the age of twenty-one (21).
+11 (3) The notice to employees that is required in subsection (1) of this section shall be
+12 provided before the person commences work as a retail sales clerk, or, in the case of
+13 a person employed as a retail sales clerk on March 26, 2020, within thirty (30) days
+14 of that date. The employee shall signify receipt of the notice required by this section
+15 by signing a form that states as follows:
+16 "I understand that under the law of the Commonwealth of Kentucky it is illegal to
+17 sell or distribute tobacco products, alternative nicotine products, or vapor products
+18 to persons under the age of twenty-one (21) years and that it is illegal for persons
+19 under the age of twenty-one (21) years to purchase tobacco products, alternative
+20 nicotine products, or vapor products."
+21 (4) The owner of the retail establishment shall maintain the signed notice that is
+22 required pursuant to subsection (3) of this section in a place and in a manner so as
+23 to be easily accessible to any employee of the Department of Alcoholic Beverage
+24 Control or the Department of Agriculture conducting an inspection of the retail
+25 establishment for the purpose of monitoring compliance in limiting the sale or
+26 distribution of tobacco products, alternative nicotine products, or vapor products to
+27 persons under the age of twenty-one (21) as provided in KRS 438.305 to
+Page 19 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 261
+1 438.350[438.340].
+2 (5) Any owner of the retail establishment violating subsections (1) to (4) of this section
+3 shall be subject to a fine of not less than one hundred dollars ($100) nor more than
+4 five hundred dollars ($500) for each violation. The fine shall be administered by the
+5 Department of Alcoholic Beverage Control in a civil enforcement procedure.
+6 Section 22. KRS 438.335 is amended to read as follows:
+7 The Department of Agriculture shall carry out the provisions of KRS 438.305 to
+8 438.350[438.340] as they relate to educating the public and sellers of tobacco products,
+9 alternative nicotine products, or vapor products about provisions and penalties of KRS
+10 438.305 to 438.350[438.340]. The Department of Agriculture shall be entitled to the
+11 revenue produced by one-twentieth of one cent ($0.0005) of the three-cent ($0.03) per
+12 pack revenue collected by the Department of Revenue from the state excise tax on the
+13 sale of cigarettes as imposed by KRS 138.140 and to keep fifty percent (50%) of any
+14 fines collected under KRS 438.305 to 438.350[438.340] to offset the costs of these
+15 education efforts.
+16 Section 23. KRS 630.120 is amended to read as follows:
+17 (1) All dispositional hearings conducted under this chapter shall be conducted in
+18 accordance with the provisions of KRS 610.060 and 610.070. In addition, the court
+19 shall, at the time the dispositional order is issued:
+20 (a) Give the child adequate and fair written warning of the consequences of the
+21 violation of the order; and
+22 (b) Provide the child and the child's attorney, and parent, or legal guardian a
+23 written statement setting forth the conditions of the order and the
+24 consequences for violating the order.
+25 An order issued pursuant to this section is a valid court order and any child
+26 violating that order may be subject to the provisions of KRS 630.080(4).
+27 (2) The court shall consider all appropriate local remedies to aid the child and the
+Page 20 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 261
+1 child's family subject to the following conditions:
+2 (a) Residential and nonresidential treatment programs for status offenders shall
+3 be community-based and nonsecure; and
+4 (b) With the approval of the education agency, the court may place the child in a
+5 nonsecure public or private education agency accredited by the Department of
+6 Education.
+7 (3) At the disposition of a child adjudicated on a petition brought pursuant to this
+8 chapter, all information helpful in making a proper disposition, including oral and
+9 written reports, shall be received by the court provided that the child, the child's
+10 parents, their counsel, the prosecuting attorney, the child's counsel, or other
+11 interested parties as determined by the judge shall be afforded an opportunity to
+12 examine and controvert the reports. For good cause, the court may allow the
+13 admission of hearsay evidence.
+14 (4) The court shall affirmatively determine that all appropriate remedies have been
+15 considered and exhausted to assure that the least restrictive alternative method of
+16 treatment is utilized.
+17 (5) The court may order the child and the child's family to participate in any programs
+18 which are necessary to effectuate a change in the child and the family.
+19 (6) When all appropriate resources have been reviewed and considered insufficient to
+20 adequately address the needs of the child and the child's family, the court may,
+21 except as provided in subsection (7) of this section, commit the child to the cabinet
+22 for such services as may be necessary. The cabinet shall consider all appropriate
+23 local remedies to aid the child and the child's family subject to the following
+24 conditions:
+25 (a) Treatment programs for status offenders shall be, unless excepted by federal
+26 law, community-based and nonsecure;
+27 (b) The cabinet may place the child in a nonsecure public or private education
+Page 21 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 261
+1 agency accredited by the department of education;
+2 (c) The cabinet may initiate proceedings pursuant to KRS 610.160 when the
+3 parents fail to participate in the cabinet's treatment programs; and
+4 (d) The cabinet may discharge the child from commitment after providing ten
+5 (10) days' prior written notice to the committing court which may object to
+6 such discharge by holding court review of the commitment under KRS
+7 610.120.
+8 (7) No child adjudicated guilty of an alcohol offense under KRS 244.085 or a tobacco
+9 offense under KRS 438.305 to 438.350[438.340] shall be committed as a result of
+10 that adjudication.
+11 Section 24. KRS 12.020 (Effective July 1, 2025) is amended to read as follows:
+12 Departments, program cabinets and their departments, and the respective major
+13 administrative bodies that they include are enumerated in this section. It is not intended
+14 that this enumeration of administrative bodies be all-inclusive. Every authority, board,
+15 bureau, interstate compact, commission, committee, conference, council, office, or any
+16 other form of organization shall be included in or attached to the department or program
+17 cabinet in which they are included or to which they are attached by statute or statutorily
+18 authorized executive order; except in the case of the Personnel Board and where the
+19 attached department or administrative body is headed by a constitutionally elected
+20 officer, the attachment shall be solely for the purpose of dissemination of information and
+21 coordination of activities and shall not include any authority over the functions,
+22 personnel, funds, equipment, facilities, or records of the department or administrative
+23 body.
+24 I. Cabinet for General Government - Departments headed by elected officers:
+25 (1) The Governor.
+26 (2) Lieutenant Governor.
+27 (3) Department of State.
+Page 22 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 261
+1 (a) Secretary of State.
+2 (b) Board of Elections.
+3 (c) Registry of Election Finance.
+4 (4) Department of Law.
+5 (a) Attorney General.
+6 (5) Department of the Treasury.
+7 (a) Treasurer.
+8 (6) Department of Agriculture.
+9 (a) Commissioner of Agriculture.
+10 (b) Agricultural Development Board.
+11 (c) Kentucky Agricultural Finance Corporation.
+12 (7) Auditor of Public Accounts.
+13 (a) Commonwealth Office of the Ombudsman.
+14 II. Program cabinets headed by appointed officers:
+15 (1) Justice and Public Safety Cabinet:
+16 (a) Department of Kentucky State Police.
+17 1. Office of Administrative Services.
+18 a. Division of Operational Support.
+19 b. Division of Management Services.
+20 2. Office of Operations.
+21 a. Division of West Troops.
+22 b. Division of East Troops.
+23 c. Division of Special Enforcement.
+24 d. Division of Commercial Vehicle Enforcement.
+25 3. Office of Technical Services.
+26 a. Division of Forensic Sciences.
+27 b. Division of Electronic Services.
+Page 23 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 261
+1 c. Division of Records Management.
+2 (b) Department of Criminal Justice Training.
+3 (c) Department of Corrections.
+4 (d) Department of Juvenile Justice.
+5 (e) Office of the Secretary.
+6 (f) Office of Drug Control Policy.
+7 (g) Office of Legal Services.
+8 (h) Office of the Kentucky State Medical Examiner.
+9 (i) Parole Board.
+10 (j) Kentucky State Corrections Commission.
+11 (k) Office of Legislative and Intergovernmental Services.
+12 (l) Office of Human Resource Management.
+13 1. Division of Human Resource Administration.
+14 2. Division of Employee Management.
+15 (m) Department of Public Advocacy.
+16 (n) Office of Communications.
+17 1. Information Technology Services Division.
+18 (o) Office of Financial Management Services.
+19 1. Division of Financial Management.
+20 (p) Grants Management Division.
+21 (2) Energy and Environment Cabinet:
+22 (a) Office of the Secretary.
+23 1. Office of Legislative and Intergovernmental Affairs.
+24 2. Office of Legal Services.
+25 a. Legal Division I.
+26 b. Legal Division II.
+27 3. Office of Administrative Hearings.
+Page 24 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 261
+1 4. Office of Communication.
+2 5. Mine Safety Review Commission.
+3 6. Office of Kentucky Nature Preserves.
+4 7. Kentucky Public Service Commission.
+5 (b) Department for Environmental Protection.
+6 1. Office of the Commissioner.
+7 2. Division for Air Quality.
+8 3. Division of Water.
+9 4. Division of Environmental Program Support.
+10 5. Division of Waste Management.
+11 6. Division of Enforcement.
+12 7. Division of Compliance Assistance.
+13 (c) Department for Natural Resources.
+14 1. Office of the Commissioner.
+15 2. Division of Mine Permits.
+16 3. Division of Mine Reclamation and Enforcement.
+17 4. Division of Abandoned Mine Lands.
+18 5. Division of Oil and Gas.
+19 6. Division of Mine Safety.
+20 7. Division of Forestry.
+21 8. Division of Conservation.
+22 9. Office of the Reclamation Guaranty Fund.
+23 (d) Office of Energy Policy.
+24 1. Division of Energy Assistance.
+25 (e) Office of Administrative Services.
+26 1. Division of Human Resources Management.
+27 2. Division of Financial Management.
+Page 25 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 261
+1 3. Division of Information Services.
+2 (3) Public Protection Cabinet.
+3 (a) Office of the Secretary.
+4 1. Office of Communications and Public Outreach.
+5 2. Office of Legal Services.
+6 a. Insurance Legal Division.
+7 b. Alcoholic Beverage Control Legal Division.
+8 c. Housing, Buildings and Construction Legal Division.
+9 d. Financial Institutions Legal Division.
+10 e. Professional Licensing Legal Division.
+11 3. Office of Administrative Hearings.
+12 4. Office of Administrative Services.
+13 a. Division of Human Resources.
+14 b. Division of Fiscal Responsibility.
+15 (b) Office of Claims and Appeals.
+16 1. Board of Tax Appeals.
+17 2. Board of Claims.
+18 3. Crime Victims Compensation Board.
+19 (c) Kentucky Boxing and Wrestling Commission.
+20 (d) Department of Alcoholic Beverage Control.
+21 1. Division of Distilled Spirits.
+22 2. Division of Malt Beverages.
+23 3. Division of Enforcement.
+24 4. Division of Tobacco, Nicotine, and Vapor Product Licensing.
+25 (e) Department of Financial Institutions.
+26 1. Division of Depository Institutions.
+27 2. Division of Non-Depository Institutions.
+Page 26 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 261
+1 3. Division of Securities.
+2 (f) Department of Housing, Buildings and Construction.
+3 1. Division of Fire Prevention.
+4 2. Division of Plumbing.
+5 3. Division of Heating, Ventilation, and Air Conditioning.
+6 4. Division of Building Code Enforcement.
+7 (g) Department of Insurance.
+8 1. Division of Health and Life Insurance and Managed Care.
+9 2. Division of Property and Casualty Insurance.
+10 3. Division of Administrative Services.
+11 4. Division of Financial Standards and Examination.
+12 5. Division of Licensing.
+13 6. Division of Insurance Fraud Investigation.
+14 7. Division of Consumer Protection.
+15 (h) Department of Professional Licensing.
+16 1. Real Estate Authority.
+17 2. Division of Real Property Boards.
+18 (4) Transportation Cabinet:
+19 (a) Department of Highways.
+20 1. Office of Project Development.
+21 2. Office of Project Delivery and Preservation.
+22 3. Office of Highway Safety.
+23 4. Highway District Offices One through Twelve.
+24 (b) Department of Vehicle Regulation.
+25 (c) Department of Aviation.
+26 (d) Department of Rural and Municipal Aid.
+27 1. Office of Local Programs.
+Page 27 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 261
+1 2. Office of Rural and Secondary Roads.
+2 (e) Office of the Secretary.
+3 1. Office of Public Affairs.
+4 2. Office for Civil Rights and Small Business Development.
+5 3. Office of Budget and Fiscal Management.
+6 4. Office of Inspector General.
+7 5. Secretary's Office of Safety.
+8 (f) Office of Support Services.
+9 (g) Office of Transportation Delivery.
+10 (h) Office of Audits.
+11 (i) Office of Human Resource Management.
+12 (j) Office of Information Technology.
+13 (k) Office of Legal Services.
+14 (5) Cabinet for Economic Development:
+15 (a) Office of the Secretary.
+16 1. Office of Legal Services.
+17 2. Department for Business and Community Development.
+18 a. Development and Retention Division – West Kentucky.
+19 b. Development, Retention, and Administrative Division –
+20 Central and East Kentucky.
+21 c. Community and Workforce Development Division.
+22 3. Department for Financial Services.
+23 a. Kentucky Economic Development Finance Authority.
+24 b. Finance and Personnel Division.
+25 c. IT and Resource Management Division.
+26 d. Compliance Division.
+27 e. Program Administration Division.
+Page 28 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 261
+1 f. Bluegrass State Skills Corporation.
+2 g. The GRANT Commission.
+3 4. Office of Strategy and Public Affairs.
+4 a. Marketing and Communications Division.
+5 b. Research and Strategy Division.
+6 5. Office of Entrepreneurship and Innovation.
+7 a. Commission on Small Business Innovation and Advocacy.
+8 (6) Cabinet for Health and Family Services:
+9 (a) Office of the Secretary.
+10 1. Office of Public Affairs.
+11 2. Office of Legal Services.
+12 3. Office of Inspector General.
+13 4. Office of Human Resource Management.
+14 5. Office of Finance and Budget.
+15 6. Office of Legislative and Regulatory Affairs.
+16 7. Office of Administrative Services.
+17 8. Office of Application Technology Services.
+18 9. Office of Data Analytics.
+19 10. Office of Medical Cannabis.
+20 a. Division of Enforcement and Compliance.
+21 b. Division of Licensure and Access.
+22 (b) Department for Public Health.
+23 (c) Department for Medicaid Services.
+24 (d) Department for Behavioral Health, Developmental and Intellectual
+25 Disabilities.
+26 (e) Department for Aging and Independent Living.
+27 (f) Department for Community Based Services.
+Page 29 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 261
+1 (g) Department for Family Resource Centers and Volunteer Services.
+2 (7) Finance and Administration Cabinet:
+3 (a) Office of the Secretary.
+4 (b) Office of the Inspector General.
+5 (c) Office of Legislative and Intergovernmental Affairs.
+6 (d) Office of General Counsel.
+7 (e) Office of the Controller.
+8 (f) Office of Administrative Services.
+9 (g) Office of Policy and Audit.
+10 (h) Department for Facilities and Support Services.
+11 (i) Department of Revenue.
+12 (j) Commonwealth Office of Technology.
+13 (k) State Property and Buildings Commission.
+14 (l) Office of Equal Employment Opportunity and Contract Compliance.
+15 (m) Kentucky Employees Retirement Systems.
+16 (n) Commonwealth Credit Union.
+17 (o) State Investment Commission.
+18 (p) Kentucky Housing Corporation.
+19 (q) Kentucky Local Correctional Facilities Construction Authority.
+20 (r) Kentucky Turnpike Authority.
+21 (s) Historic Properties Advisory Commission.
+22 (t) Kentucky Higher Education Assistance Authority.
+23 (u) Kentucky River Authority.
+24 (v) Kentucky Teachers' Retirement System Board of Trustees.
+25 (w) Executive Branch Ethics Commission.
+26 (x) Office of Fleet Management.
+27 (8) Tourism, Arts and Heritage Cabinet:
+Page 30 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 261
+1 (a) Kentucky Department of Tourism.
+2 1. Division of Tourism Services.
+3 2. Division of Marketing and Administration.
+4 3. Division of Communications and Promotions.
+5 (b) Kentucky Department of Parks.
+6 1. Division of Information Technology.
+7 2. Division of Human Resources.
+8 3. Division of Financial Operations.
+9 4. Division of Purchasing.
+10 5. Division of Facilities.
+11 6. Division of Park Operations.
+12 7. Division of Sales, Marketing, and Customer Service.
+13 8. Division of Engagement.
+14 9. Division of Food Services.
+15 10. Division of Rangers.
+16 (c) Department of Fish and Wildlife Resources.
+17 1. Division of Law Enforcement.
+18 2. Division of Administrative Services.
+19 3. Division of Engineering, Infrastructure, and Technology.
+20 4. Division of Fisheries.
+21 5. Division of Information and Education.
+22 6. Division of Wildlife.
+23 7. Division of Marketing.
+24 (d) Kentucky Horse Park.
+25 1. Division of Support Services.
+26 2. Division of Buildings and Grounds.
+27 3. Division of Operational Services.
+Page 31 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 261
+1 (e) Kentucky State Fair Board.
+2 1. Office of Administrative and Information Technology Services.
+3 2. Office of Human Resources and Access Control.
+4 3. Division of Expositions.
+5 4. Division of Kentucky Exposition Center Operations.
+6 5. Division of Kentucky International Convention Center.
+7 6. Division of Public Relations and Media.
+8 7. Division of Venue Services.
+9 8. Division of Personnel Management and Staff Development.
+10 9. Division of Sales.
+11 10. Division of Security and Traffic Control.
+12 11. Division of Information Technology.
+13 12. Division of the Louisville Arena.
+14 13. Division of Fiscal and Contract Management.
+15 14. Division of Access Control.
+16 (f) Office of the Secretary.
+17 1. Office of Finance.
+18 2. Office of Government Relations and Administration.
+19 (g) Office of Legal Affairs.
+20 (h) Office of Human Resources.
+21 (i) Office of Public Affairs and Constituent Services.
+22 (j) Office of Arts and Cultural Heritage.
+23 (k) Kentucky African-American Heritage Commission.
+24 (l) Kentucky Foundation for the Arts.
+25 (m) Kentucky Humanities Council.
+26 (n) Kentucky Heritage Council.
+27 (o) Kentucky Arts Council.
+Page 32 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 261
+1 (p) Kentucky Historical Society.
+2 1. Division of Museums.
+3 2. Division of Oral History and Educational Outreach.
+4 3. Division of Research and Publications.
+5 4. Division of Administration.
+6 (q) Kentucky Center for the Arts.
+7 1. Division of Governor's School for the Arts.
+8 (r) Kentucky Artisans Center at Berea.
+9 (s) Northern Kentucky Convention Center.
+10 (t) Eastern Kentucky Exposition Center.
+11 (9) Personnel Cabinet:
+12 (a) Office of the Secretary.
+13 (b) Department of Human Resources Administration.
+14 (c) Office of Employee Relations.
+15 (d) Kentucky Public Employees Deferred Compensation Authority.
+16 (e) Office of Administrative Services.
+17 (f) Office of Legal Services.
+18 (g) Governmental Services Center.
+19 (h) Department of Employee Insurance.
+20 (i) Office of Diversity, Equality, and Training.
+21 (j) Office of Public Affairs.
+22 (10) Education and Labor Cabinet:
+23 (a) Office of the Secretary.
+24 1. Office of Legal Services.
+25 a. Workplace Standards Legal Division.
+26 b. Workers' Claims Legal Division.
+27 c. Workforce Development Legal Division.
+Page 33 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 261
+1 2. Office of Administrative Services.
+2 a. Division of Human Resources Management.
+3 b. Division of Fiscal Management.
+4 c. Division of Operations and Support Services.
+5 3. Office of Technology Services.
+6 a. Division of Information Technology Services.
+7 4. Office of Policy and Audit.
+8 5. Office of Legislative Services.
+9 6. Office of Communications.
+10 7. Office of the Kentucky Center for Statistics.
+11 8. Board of the Kentucky Center for Statistics.
+12 9. Early Childhood Advisory Council.
+13 10. Governors' Scholars Program.
+14 11. Governor's School for Entrepreneurs Program.
+15 12. Foundation for Adult Education.
+16 (b) Department of Education.
+17 1. Kentucky Board of Education.
+18 2. Kentucky Technical Education Personnel Board.
+19 3. Education Professional Standards Board.
+20 (c) Board of Directors for the Center for School Safety.
+21 (d) Department for Libraries and Archives.
+22 (e) Kentucky Environmental Education Council.
+23 (f) Kentucky Educational Television.
+24 (g) Kentucky Commission on the Deaf and Hard of Hearing.
+25 (h) Department of Workforce Development.
+26 1. Career Development Office.
+27 2. Office of Vocational Rehabilitation.
+Page 34 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 261
+1 a. Division of Kentucky Business Enterprise.
+2 b. Division of the Carl D. Perkins Vocational Training Center.
+3 c. Division of Blind Services.
+4 d. Division of Field Services.
+5 e. Statewide Council for Vocational Rehabilitation.
+6 f. Employment First Council.
+7 3. Office of Employer and Apprenticeship Services.
+8 a. Division of Apprenticeship.
+9 4. Kentucky Apprenticeship Council.
+10 5. Division of Technical Assistance.
+11 6. Office of Adult Education.
+12 7. Office of the Kentucky Workforce Innovation Board.
+13 (i) Department of Workplace Standards.
+14 1. Division of Occupational Safety and Health Compliance.
+15 2. Division of Occupational Safety and Health Education and
+16 Training.
+17 3. Division of Wages and Hours.
+18 (j) Office of Unemployment Insurance.
+19 (k) Kentucky Unemployment Insurance Commission.
+20 (l) Department of Workers' Claims.
+21 1. Division of Workers' Compensation Funds.
+22 2. Office of Administrative Law Judges.
+23 3. Division of Claims Processing.
+24 4. Division of Security and Compliance.
+25 5. Division of Specialist and Medical Services.
+26 6. Workers' Compensation Board.
+27 (m) Workers' Compensation Funding Commission.
+Page 35 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 261
+1 (n) Kentucky Occupational Safety and Health Standards Board.
+2 (o) State Labor Relations Board.
+3 (p) Employers' Mutual Insurance Authority.
+4 (q) Kentucky Occupational Safety and Health Review Commission.
+5 (r) Workers' Compensation Nominating Committee.
+6 (s) Office of Educational Programs.
+7 (t) Kentucky Workforce Innovation Board.
+8 (u) Kentucky Commission on Proprietary Education.
+9 (v) Kentucky Work Ready Skills Advisory Committee.
+10 (w) Kentucky Geographic Education Board.
+11 (x) Disability Determination Services Program.
+12 III. Other departments headed by appointed officers:
+13 (1) Council on Postsecondary Education.
+14 (2) Department of Military Affairs.
+15 (3) Department for Local Government.
+16 (4) Kentucky Commission on Human Rights.
+17 (5) Kentucky Commission on Women.
+18 (6) Department of Veterans' Affairs.
+19 (7) Kentucky Commission on Military Affairs.
+20 (8) Office of Minority Empowerment.
+21 (9) Governor's Council on Wellness and Physical Activity.
+22 (10) Kentucky Communications Network Authority.
+23 Section 25. The following KRS section is repealed:
+24 438.307 Enforcement by Department of Alcoholic Beverage Control -- Online
+25 publication of list of retailers of authorized vapor products.
+26 Section 26. This Act takes effect January 1, 2026.
+Page 36 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+[DELETED:   2  J A B S A ( ( " n p m a n p c n t i i f h c w c a d ( " n p d n i a p r a a d o d b t U S F a D A u C ( " t ( A ( A ( " m t c o t D o A B ( " t ( " ( " m a p w d a n p t r ( " ( " e r e a a e o a o t d w i a]
+[DELETED:   2  J t ( " m a p w m o p t p ( " t p d f t m a m a p l a ( " m t l a b u w a b o u ( " o a m a d l o o d o w e ( " p d K 1 t 1 i u a w m a e p o b u ( " a t ( " ( M a c p b a m e t a v p 1 F t p 2 I a n p c t n t w]
+[DELETED:   2  J c w t m s a p t p a a R u r b h n r e a m d b H t c c H F ( S r o a ( M ( " m a t p a n p o v p ( " K 1 ( " o b ( ( " p p f]
+[DELETED:   2  J p a m a p m o d f t t i i o a t p e f r m o t t u i m a c p o a o a t p i a ( " p a A ( " a ( " ( M ( D 1 A m g o o o a t m f t F 2 A ( ( " p m a n p t e a h c c n o o s t u i f t d " p n a o m a s a a v c o o c o a l]
+[DELETED:   2  J s c p ( " b F S T ( ( T c a e w t D o A B C ( T m 1 ( T D o T N a V L s c o e o p a S T D j a s m S]
+[DELETED:   2  J T ( ( B 1 O a a r s a n p t p C p 2 S a a n p t p o a v p a r t a c e t a f s ( A p w b h o h o t a d o i b b o ( P e i t d e o s o a n p t p o a v p a t s o e ( A p t p o a v p a d o f s o s i r t p w a o t a o t ( A t f s o s a t v s v t p i o t a o t ( p t c t r s t f a a S]
+[DELETED:   2  J T ( T ( I t i p i e a f a t n ( I t t n o v p l i a n S 1 a 1 o t A r i o c c o t l s b c n l t o a d n b h o a d a b t c ( A t e S T ( E i a f p b t d a w a n a b l ( A ( B ( R u ( P i a c p i t p o t b w a n p t p o a v p ( ( T]
+[DELETED:   2  J f e l p a t f s b m p t S T ( A o t f p i t S T f s l s b c f ( T ( ( A S T ( T o ( I ( L ( A t ( A t ( ( I t 1 N l 2 U l 3 I l ( R]
+[DELETED:   2  J s y ( A f o o t c s b a t t F C S T A t ( A ( A m p ( A a r o t D o R r t t t ( A c ( A a w w ( A c w t d i t e o i s d d s ( A a S ( A ( A]
+[DELETED:   2  J o ( I v p f s h c o a t m s t m t o ( A m t p f o m i i a s h c b ( T t d ( f a f c i f a v ( F t ( S t d ( f a t o s c i ( T s s n a t m o v p t a n i S ( A ( A r ( U ( A ( F s ( F f]
+[DELETED:   2  J ( T f S ( N p s s o c t b s a t p o a n o t ( o s a p u t a o t ( t p a t p o a n p o a v ( A p w s t p o a n p o a i a ( ( A p s t p a n p o v p s r p o a f a p b o r i t p o ( A ( O a ( O f s ( O o a ( R]
+[DELETED:   2  J v ( h h s v T f s b a b t D o A ( T f s b i a c b t d u a c e ( A u S ( E n a t p o a r o a t p a n p o p p p a n p o v p f a e w r ( A p o w g l e a a i c p u t a o t ( w h v t s N t S]
+[DELETED:   2  J ( A w r o m o c t p o a o a n p i s t f o c o o ( A o ( W ( T ( A p w d c t p o a n p o t ( A t ( f e o T f s b a b t d o A B C u a c e p f p e ( A p o w g l e a a i i f S ( A ( E a p i s ( o t s a r s v p a s m a c o c a t p l w t v]
+[DELETED:   2  J ( A t ( A ( S 1 O o 2 F t d ( f a s o s c i ( P t s ( A v t ( A o ( A v ( P r o ( A s h c f t v p e o a t r l ( T f S ( E]
+[DELETED:   2  J C a t D o A s c o a c r a n p o v p a s o d f t p o e t p o K 4 t 4 T i s b c t t e n t a t t C a t D o A s a e t t i a c u t a o t ( y a m l t p t p t 4 t 4 o i t t i c u t d s p o t e a w p c h b o T d b H X ( T s s m t c o t i a d i t s S ( T p ( ( 1 T r]
+[DELETED:   2  J c ( p p r c b t F a A a 2 O h p ( o t l a a f i b d i a t a a a c i t S T ( O 4 ( T d s k f p ( o a f c u T r f p ( s g t a y p d a t a e y o t d o t p t ( T d o A B C s b r f m s f c o r r t b s t t U ( T d o A B C s d a p a t p o s ( O w o ( T d s d m a u a c t]
+[DELETED:   2  J n ( I A ( P S T a t p a r p t K C 1 a n t i a c o t p o K 4 t 4 i e a p f a c i v a S ( N a ( A p l t ( A p u t a o t ( y f p o c a a n p t p o v p m a ( T a [ T s]
+[DELETED:   2  J S ( T d s a s r t a r t i a D o R T d m i a o a d r r t K C 2 t 2 a t a r ( A t ( A t ( A d s a t l i r t t i a n p 4 S I i e s s a s e l l o o r w r L t K 4 t 4 b e s a t e t e f a r o a f f o g t t C o K n r o m r r t t p o K 4 t 4 S ( E o o a r e s o d t p a n p o v p s n e i]
+[DELETED:   2  J e p a o t ( y a t p o t p a n y ( E o o a r e s o d t p a n p o v p s n e i e i t r e a a r s c t p o a i r t ( T p a o b  " s t u n ( T o o t r e s m t s n t i r t C o t D o A c a i o t r e f t p o m c i l t s o d p u t a o t ( a p i K 4 t]
+[DELETED:   2  J 4 ( A s f D S T D o A s c o t p o K 4 t 4 a 4 t 4 T D o A s b e t t r p s f c u K 4 t 4 t o t c o t e S ( A d h c u t c s b c i a s ( G v ( P t c a t c a a p o l g a w s s f t c o t o a t c  A o i p t t s i a v c o a a c v ( T c s c a a l r t a t c a t]
+[DELETED:   2  J c ( R b ( W n E ( A t d o a c a o a p b p t t c w p t c t p a t c c o o i e a c t r F g c t c m a t a ( T c s a d t a a r h b c t ( T w ( W a a t n o t c a t c f t c m e f l r t a t c a t c f s t t f c ( T l ( T]
+[DELETED:   2  J a ( T c m i p p t K 6 w t p ( T c m d t c f c a p t ( s d b h c r o t c u K 6 ( N o t S D p c a t d a t r m a t b o c a e o e i t c o t P B a w t a d o a b i h b a c e o c o a a s n i a a o t f p f e f o r o t d o a b I C ( T ( L ( D]
+[DELETED:   2  J ( S ( B ( R ( D ( A ( D ( T ( D ( C ( A ( K ( A ( C I P ( J ( D 1 O a D b D 2 O a D b D c D d D 3 O a D b D]
+[DELETED:   2  J c D ( D ( D ( D ( O ( O ( O ( O ( P ( K ( O ( O 1 D 2 D ( D ( O 1 I ( O 1 D ( G ( E ( O 1 O 2 O a L b L 3 O]
+[DELETED:   2  J 4 O 5 M 6 O 7 K ( D 1 O 2 D 3 D 4 D 5 D 6 D 7 D ( D 1 O 2 D 3 D 4 D 5 D 6 D 7 D 8 D 9 O ( O 1 D ( O 1 D 2 D]
+[DELETED:   2  J 3 D ( P ( O 1 O 2 O a I b A c H d F e P 3 O 4 O a D b D ( O 1 B 2 B 3 C ( K ( D 1 D 2 D 3 D 4 D ( D 1 D 2 D]
+[DELETED:   2  J 3 D ( D 1 D 2 D 3 D 4 D ( D 1 D 2 D 3 D 4 D 5 D 6 D 7 D ( D 1 R 2 D ( T ( D 1 O 2 O 3 O 4 H ( D ( D ( D 1 O]
+[DELETED:   2  J 2 O ( O 1 O 2 O 3 O 4 O 5 S ( O ( O ( O ( O ( O ( O ( C ( O 1 O 2 D a D b D R a A D – C c C 3 D a K b F c I d C e P]
+[DELETED:   2  J f B g T 4 O a M b R 5 O a C ( C ( O 1 O 2 O 3 O 4 O 5 O 6 O 7 O 8 O 9 O 1 O a D b D ( D ( D ( D f B H D a I D ( D ( D]
+[DELETED:   2  J ( D ( F ( O ( O ( O ( O ( O ( O ( O ( D ( D ( C ( S ( O ( K ( C ( S ( K ( K ( K ( H ( K ( K ( K ( E ( O ( T]
+[DELETED:   2  J ( K 1 D 2 D 3 D ( K 1 D 2 D 3 D 4 D 5 D 6 D 7 D 8 D 9 D 1 D ( D 1 D 2 D 3 D 4 D 5 D 6 D 7 D ( K 1 D 2 D 3 D]
+[DELETED:   2  J ( K 1 O 2 O 3 D 4 D 5 D 6 D 7 D 8 D 9 D 1 D 1 D 1 D 1 D 1 D ( O 1 O 2 O ( O ( O ( O ( O ( K ( K ( K ( K ( K]
+[DELETED:   2  J ( K 1 D 2 D 3 D 4 D ( K 1 D ( K ( N ( E ( P ( O ( D ( O ( K ( O ( O ( G ( D ( O ( O ( E ( O 1 O a W b W c W]
+[DELETED:   2  J 2 O a D b D c D 3 O a D 4 O 5 O 6 O 7 O 8 B 9 E 1 G 1 G 1 F ( D 1 K 2 K 3 E ( B ( D ( K ( K ( K ( D 1 C 2 O]
+[DELETED:   2  J a D b D c D d D e S f E 3 O a D 4 K 5 D 6 O 7 O ( D 1 D 2 D T 3 D ( O ( K ( D 1 D 2 O 3 D 4 D 5 D 6 W ( W]
+[DELETED:   2  J ( K ( S ( E ( K ( W ( O ( K ( K ( K ( K ( D I O ( C ( D ( D ( K ( K ( D ( K ( O ( G ( K S 4 b D o A B C - O p S]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS BR 261
+1 AN ACT relating to products containing nicotine.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 438.305 is amended to read as follows:
+4 As used in KRS 438.305 to 438.350[438.340], unless the context requires otherwise:
+5 (1) (a) "Alternative nicotine product" means a noncombustible product containing
+6 nicotine that is intended for human consumption, whether chewed, absorbed,
+7 dissolved, or ingested by any other means.
+8 (b) "Alternative nicotine product" does not include any product regulated as a
+9 drug or device by the United States Food and Drug Administration under
+10 Chapter V of the Food, Drug, and Cosmetic Act;
+11 (2) "Authorized vapor product" means a vapor product containing nicotine for which
+12 the manufacturer has obtained:
+13 (a) Authorization from the FDA; or
+14 (b) A safe harbor certification;
+15 (3) "Commissioner" means the commissioner of the Department of Alcoholic
+16 Beverage Control;
+17 (4) "Contraband property" means any article, item, or property, except real property,
+18 that is used or intended to be used in violation of KRS 438.305 to 438.350;
+19 (5)[(3)] "Department" means the Department of Alcoholic Beverage Control;
+20 (6) "Distributor" means any person who distributes alternative nicotine products,
+21 tobacco products, or authorized vapor products for the purpose of being sold at
+22 retail;
+23 (7)[(4)] "FDA" means the United States Food and Drug Administration;
+24 (8) "Investigator" means any employee or agent of the department who is regularly
+25 employed and whose primary function is to visit and inspect the premises of a
+26 retail establishment and any employee or agent of the department who is
+27 assigned, temporarily or permanently, by the commissioner in connection with
+Page 1 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 261
+1 the administration of KRS 438.305 to 438.350;
+2 (9)[(5)] "Manufacturer" means any person who manufactures or produces tobacco
+3 products within or without this Commonwealth;
+4 (10)[(6)] "Nonresident wholesaler" means any person who purchases cigarettes or other
+5 tobacco products directly from the manufacturer and maintains a permanent
+6 location or locations outside this state at which Kentucky cigarette tax evidence is
+7 attached or from which Kentucky cigarette tax is reported and paid;
+8 (11) "Premises" means the land and building upon which any business operating
+9 under KRS 438.305 to 438.350 is operated;
+10 (12)[(7)] "Proof of age" means a driver's license or other documentary or written
+11 evidence of an individual's age;
+12 (13)[(8)] "Resident wholesaler" means any person who purchases at least seventy-five
+13 percent (75%) of all cigarettes or other tobacco products purchased by that person
+14 directly from the cigarette manufacturer on which the cigarette tax provided for in
+15 KRS 138.130 to 138.205 is unpaid, and who maintains an established place of
+16 business in this state at which the person attaches cigarette tax evidence or receives
+17 untaxed cigarettes;
+18 (14)[(9)] "Retailer" means any person, online or in person, who sells tobacco products,
+19 alternative nicotine products, or vapor products to a consumer for any purpose other
+20 than resale;
+21 (15)[(10)] "Safe harbor certification":
+22 (a) Means a certification provided by a manufacturer establishing that a vapor
+23 product:
+24 1. Falls within a safe harbor established by the FDA by the manufacturer's
+25 timely pursuing the path to market described in subparagraph 2. of this
+26 paragraph; and
+27 2. Is a nicotine product containing tobacco-derived nicotine that was
+Page 2 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 261
+1 commercially marketed in the United States as of August 8, 2016, for
+2 which the manufacturer submitted a premarket tobacco product
+3 application on or before September 9, 2020, to the FDA that:
+4 a. Remains under review, but has not received either a marketing
+5 denial order or a marketing granted order;
+6 b. Has received a marketing denial order, but remains under a stay by
+7 the FDA or continues to be subject to an appeal to or review by a
+8 court of competent jurisdiction; or
+9 c. Has had a marketing denial order that has been rescinded by the
+10 FDA or vacated by a court of competent jurisdiction;
+11 (b) Shall contain a copy of the first page of the communication from the FDA
+12 reflecting an acceptance for review or the submission tracking number or, if
+13 on appeal, a copy of the first page of the document filed with the applicable
+14 agency or court; and
+15 (c) May be provided and maintained in hard copy or in electronic form;
+16 (16)[(11)] "Sample" means a tobacco product, alternative nicotine product, or vapor
+17 product distributed to members of the general public at no cost;
+18 (17)[(12)] "Subjobber" means any person who purchases tobacco products, on which the
+19 Kentucky cigarette tax has been paid, from a wholesaler licensed pursuant to KRS
+20 138.195, and makes them available to a retail establishment for resale;
+21 (18)[(13)] "Tobacco noncompliance database and reporting system" means the database
+22 of retailers that have violated KRS 438.312 or 438.316 developed and maintained
+23 by the department under Section 16 of this Act[KRS 438.307];
+24 (19)[(14)] (a) "Tobacco product" means any cigarette, cigar, snuff, smokeless tobacco
+25 product, smoking tobacco, chewing tobacco, and any kind or form of tobacco
+26 prepared in a manner suitable for chewing or smoking, or both, or any kind or
+27 form of tobacco that is suitable to be placed in a person's mouth. "Tobacco
+Page 3 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 261
+1 product" also means any product made or derived from tobacco that is
+2 intended for human consumption, including any component, part, or accessory
+3 of a tobacco product, except for raw materials other than tobacco used in
+4 manufacturing any component, part, or accessory of a tobacco product, in
+5 accordance with the federal Tobacco Control Act, Pub. L. No. 111-31.
+6 (b) "Tobacco product" does not include any alternative nicotine product, vapor
+7 product, or product regulated as a drug or device by the United States Food
+8 and Drug Administration under Chapter V of the Food, Drug, and Cosmetic
+9 Act;
+10 (20) "Trade show" means an event where businesses gather to exhibit their products
+11 and services and may include marketing and sales of those products and services;
+12 (21)[(15)] "Unauthorized vapor product":
+13 (a) Means any vapor product that has not been authorized by the FDA; and
+14 (b) Does not include a vapor product for which the manufacturer has received:
+15 1. A marketing granted order or other authorization to market from the
+16 FDA; or
+17 2. A safe harbor certification; and
+18 (22)[(16)] (a) "Vapor product" means any noncombustible product that employs a
+19 heating element, battery, power source, electronic circuit, or other electronic,
+20 chemical, or mechanical means, regardless of shape or size and including the
+21 component parts and accessories thereto, that can be used to deliver vaporized
+22 nicotine or other substances to users inhaling from the device. "Vapor
+23 product" includes but is not limited to any device deemed to be an electronic
+24 nicotine delivery system by the United States Food and Drug Administration,
+25 any electronic cigarette, electronic cigar, electronic cigarillo, electronic pipe,
+26 or similar product or device and every variation thereof, regardless of whether
+27 marketed as such, and any vapor cartridge or other container of a liquid
+Page 4 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 261
+1 solution or other material that is intended to be used with or in an electronic
+2 cigarette, electronic cigar, electronic cigarillo, electronic pipe, or other similar
+3 product or device.
+4 (b) "Vapor product" does not include any product regulated as a drug or device
+5 by the United States Food and Drug Administration under Chapter V of the
+6 Food, Drug, and Cosmetic Act.
+7 SECTION 2. A NEW SECTION OF KRS 438.305 TO 438.350 IS CREATED
+8 TO READ AS FOLLOWS:
+9 (1) (a) The Division of Tobacco, Nicotine, and Vapor Product Licensing is hereby
+10 created and established within the Department of Alcoholic Beverage
+11 Control.
+12 (b) The Division of Tobacco, Nicotine, and Vapor Product Licensing shall be
+13 managed by a division director, whose appointment shall be subject to KRS
+14 12.050.
+15 (2) The Division of Tobacco, Nicotine, and Vapor Licensing shall carry out
+16 enforcement provisions of KRS 438.305 to 438.350 as they relate to the regulation
+17 of alternative nicotine products, tobacco products, or vapor products, including
+18 promulgating administrative regulations that govern the sale and distribution of
+19 alternative nicotine products, tobacco products, and vapor products.
+20 SECTION 3. A NEW SECTION OF KRS 438.305 TO 438.350 IS CREATED
+21 TO READ AS FOLLOWS:
+22 Department investigators shall have the full police powers of peace officers, and their
+23 jurisdiction shall be coextensive with the state. They may inspect any premises where
+24 alternative nicotine products, tobacco products, or vapor products are manufactured,
+25 sold, stored, or otherwise trafficked in, without first obtaining a search warrant. They
+26 may confiscate any contraband property.
+27 SECTION 4. A NEW SECTION OF KRS 438.305 TO 438.350 IS CREATED
+Page 5 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 261
+1 TO READ AS FOLLOWS:
+2 (1) (a) Beginning December 1, 2025, a person, firm, or corporation shall not:
+3 1. Operate as a retailer selling alternative nicotine products, tobacco
+4 products, or authorized vapor products in or on any premises in the
+5 Commonwealth without first obtaining a tobacco, nicotine, or vapor
+6 product license issued by the department; or
+7 2. Sell an alternative nicotine product, tobacco product, or authorized
+8 vapor product at retail to a customer except through a face-to-face
+9 sales transaction at a licensed tobacco or vapor product business.
+10 (b) Any person who, by himself or herself or through another, directly or
+11 indirectly, violates paragraph (a)1. of this section shall, for the first offense,
+12 be guilty of a Class B misdemeanor; for the second offense, he or she shall
+13 be guilty of a Class A misdemeanor; and for the third and each subsequent
+14 offense, he or she shall be guilty of a Class D felony.
+15 (2) Persons engaged in the display, exhibition, or sale of alternative nicotine
+16 products, tobacco products, or authorized vapor products at trade shows or
+17 exhibitions shall not be required to obtain a license, provided that:
+18 (a) Access to the portion of the trade show's venue where alternative nicotine
+19 products, tobacco products, or authorized vapor products are displayed,
+20 offered for sale, or sold is restricted to persons who are over the age of
+21 twenty-one (21); and
+22 (b) A manufacturer, distributor, or retailer whose alternative nicotine products,
+23 tobacco products, or authorized vapor products are displayed, offered for
+24 sale, or sold at the venue shall verify the purchaser is over the age of
+25 twenty-one (21) prior to commencing the retail sale transaction for any
+26 alternative nicotine product, tobacco product, or vapor product.
+27 SECTION 5. A NEW SECTION OF KRS 438.305 TO 438.350 IS CREATED
+Page 6 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 261
+1 TO READ AS FOLLOWS:
+2 (1) The department shall:
+3 (a) Investigate the information provided in each application for a tobacco,
+4 nicotine, or vapor product license; and
+5 (b) If the tobacco, nicotine, or vapor product license is approved,
+6 notwithstanding Sections 15 and 16 of this Act, random inspections or
+7 compliance checks of the licensee shall be conducted not less than once
+8 annually during normal business hours or as deemed appropriate by the
+9 commissioner.
+10 (2) Any violation found during a compliance check shall result in revocation of the
+11 tobacco, nicotine, or vapor product license and be rechecked by the department's
+12 enforcement division after a notice of violation is issued to the licensee.
+13 SECTION 6. A NEW SECTION OF KRS 438.305 TO 438.350 IS CREATED
+14 TO READ AS FOLLOWS:
+15 (1) Each application for a tobacco, nicotine, or vapor product license shall be made
+16 in a form prescribed by the department, accompanied with a nonrefundable
+17 application fee of fifty dollars ($50) and any supporting documentation required
+18 by the department. The application fee shall be applied to the licensing fee if the
+19 license is issued. If no license is issued, it shall be retained by the department.
+20 (2) A tobacco, nicotine, or vapor product license shall:
+21 (a) Be renewed annually;
+22 (b) Remain in full force and effect for one (1) year from the date of issuance
+23 unless it is surrendered by the licensee, suspended, or revoked; and
+24 (c) Posted in a conspicuous place in the premises of the business where
+25 alternative nicotine products, tobacco products, or authorized vapor
+26 products are sold.
+27 (3) (a) The fee for each license shall be two hundred fifty dollars ($250) per year
+Page 7 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 261
+1 for each licensed premises and the fee shall be made payable to State
+2 Treasury.
+3 (b) All of the fees paid into the State Treasury for state licenses shall be
+4 credited to a revolving trust and agency account, as provided in KRS 45.253
+5 for the department.
+6 (4) The license shall not be transferred from one (1) person to another or from one
+7 (1) premises to another premises.
+8 (5) A new license shall be required when a retailer has a change in ownership.
+9 SECTION 7. A NEW SECTION OF KRS 438.305 TO 438.350 IS CREATED
+10 TO READ AS FOLLOWS:
+11 (1) The commissioner shall approve or deny every application for a tobacco, nicotine,
+12 or vapor products license.
+13 (2) If the application is denied, the:
+14 (a) License shall not be issued;
+15 (b) Applicant shall be notified of the commissioner's denial which shall include
+16 the reason for the denial; and
+17 (c) Applicant may appeal the denial and request an administrative hearing on
+18 the matter in accordance with KRS Chapter 13B.
+19 (3) (a) If the commissioner revokes a license pursuant to Section 5 or 8 of this Act,
+20 the commissioner shall:
+21 1. Notify the applicant within ten (10) days of the decision to revoke the
+22 license;
+23 2. Upon the request of a denied applicant, commence a hearing on the
+24 license revocation in accordance with KRS Chapter 13B; and
+25 3. Issue a final order explaining the decision and facts supporting the
+26 license revocation.
+27 (b) Revocation of a license subject to KRS 438.305 to 438.350 for any reason
+Page 8 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 261
+1 shall result in the inability of a retailer to reapply for a license for two (2)
+2 years.
+3 (c) A final order of the commissioner shall be appealable to the Franklin
+4 Circuit Court.
+5 SECTION 8. A NEW SECTION OF KRS 438.305 TO 438.350 IS CREATED
+6 TO READ AS FOLLOWS:
+7 A license may be revoked or suspended by the commissioner for a violation of any of
+8 the following:
+9 (1) Any of the provisions of KRS 438.305 to 438.350;
+10 (2) Any administrative regulation of the department relating to the regulation of the
+11 manufacture, sale, and transportation of alternative nicotine products, tobacco
+12 products, or vapor products;
+13 (3) Any administrative regulation of the Department of Revenue relating to the
+14 taxation of alternative nicotine products, tobacco products, or vapor products;
+15 (4) Any act of Congress or any rule or regulation of any federal board, agency, or
+16 commission;
+17 (5) Any of the laws, regulations, or ordinances referred to in this section when an
+18 agent, servant, or employee of the licensee committed the violation, irrespective of
+19 whether the licensee knew of or permitted the violation or whether the violation
+20 was committed and disobedience of the licensees instructions;
+21 (6) Any cause which the department in the exercise of it sound discretion deems
+22 sufficient; or
+23 (7) Any of the reasons for which the commissioner would have been required to deny
+24 a license if existing material facts have been known.
+25 Section 9. KRS 438.308 is amended to read as follows:
+26 (1) A manufacturer of vapor products shall only sell authorized vapor products.
+27 (2) A manufacturer shall provide an applicable safe harbor certification to a wholesaler
+Page 9 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 261
+1 or retailer when selling a vapor product that has not been authorized by the FDA.
+2 (3) If the FDA or a court of competent jurisdiction takes final action that removes a
+3 vapor product from safe harbor certification or authorized to market status, the
+4 manufacturer shall provide notice of the final action to any wholesaler or retailer
+5 that has purchased the vapor product from the manufacturer within thirty (30) days
+6 of the final action being taken.
+7 (4) A manufacturer that provides false or misleading information in a safe harbor
+8 certification or other notice to retailers or wholesalers violates this section and shall
+9 be subject to a fine of:
+10 (a) Twenty-five thousand dollars ($25,000) for a first citation issued for a
+11 violation of this section;
+12 (b) Fifty thousand dollars ($50,000) for a second citation issued for a violation of
+13 this section; and
+14 (c) Seventy-five thousand dollars ($75,000) for a third or subsequent citation
+15 issued for a violation of this section.
+16 (5) This section shall not apply to manufacturers of vapor products that are not
+17 intended for resale in this state.
+18 Section 10. KRS 438.309 is amended to read as follows:
+19 (1) A wholesaler shall not sell:
+20 (a) Authorized vapor products to a retailer until the wholesaler verifies that the
+21 retailer is not in the tobacco noncompliance database and reporting system; or
+22 (b) Unauthorized vapor products.
+23 (2) Any wholesaler that violates this section shall be subject to a fine of:
+24 (a) Five thousand dollars ($5,000) for a first citation issued for a violation of this
+25 section; and
+26 (b) Fifteen thousand dollars ($15,000) for a second or subsequent citation issued
+27 for a violation of this section.
+Page 10 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 261
+1 (3) This section shall not apply to wholesalers of vapor products that are not intended
+2 for resale in this state.
+3 Section 11. KRS 438.310 is amended to read as follows:
+4 (1) No person shall sell or cause to be sold any tobacco product,[ or] alternative
+5 nicotine product, or authorized vapor product at retail to any person under the age
+6 of twenty-one (21), or solicit any person under the age of twenty-one (21) to
+7 purchase any tobacco product,[ or] alternative nicotine product, or authorized
+8 vapor product at retail.
+9 (2) Any person who sells tobacco products,[ or] alternative nicotine products, or
+10 authorized vapor products at retail shall cause to be posted in a conspicuous place
+11 in his or her establishment a notice stating that it is illegal to sell tobacco products,
+12 alternative nicotine products, or vapor products to persons under age twenty-one
+13 (21).
+14 (3) Any person selling tobacco products, alternative nicotine products, or vapor
+15 products shall require proof of age from a prospective buyer or recipient if the
+16 person has reason to believe that the prospective buyer or recipient is under the age
+17 of twenty-one (21).
+18 (4) A person who violates[ subsection (1) or (2) of] this section shall be subject to a:
+19 (a) One hundred dollar ($100) fine to the retail sales clerk for a first violation
+20 and a notice to the owner of retail establishment which details the violation;
+21 (b) One hundred dollar ($100) fine to the retail sales clerk and an additional
+22 five hundred dollar ($500) fine to the owner of a retail establishment for a
+23 second violation;
+24 (c) One hundred dollar ($100) fine to the retail sales clerk and an additional
+25 one thousand dollar ($1,000) fine to the owner of a retail establishment for
+26 a third violation; and
+27 (d) Revocation of the tobacco, nicotine, or vapor products license upon a fourth
+Page 11 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 261
+1 violation, which shall result in the inability to reapply for a license for two
+2 (2) years[ fine of not less than one hundred dollars ($100) nor more than five
+3 hundred dollars ($500) for a first violation and a fine of not less than five
+4 hundred dollars ($500) nor more than one thousand dollars ($1,000) for any
+5 subsequent violation. The fine shall be administered by the Department of
+6 Alcoholic Beverage Control using a civil enforcement procedure].
+7 (5) The fine shall be imposed and collected by the department using a civil
+8 enforcement procedure.
+9 (6) A retailer shall be prohibited from renewing its license until all fines incurred
+10 under KRS 438.305 to 438.350 are paid.
+11 Section 12. KRS 438.311 is amended to read as follows:
+12 (1) Except for the provisions of KRS 438.330, it shall be unlawful for a person who has
+13 not attained the age of twenty-one (21) years to purchase or accept receipt of or to
+14 attempt to purchase or accept receipt of a tobacco product, alternative nicotine
+15 product, or vapor product, or to present or offer to any person any purported proof
+16 of age which is false, fraudulent, or not actually his or her own, for the purpose of
+17 purchasing or receiving any tobacco product, alternative nicotine product, or vapor
+18 product. It shall not be unlawful for such a person to accept receipt of a tobacco
+19 product, alternative nicotine product, or vapor product from an employer when
+20 required in the performance of the person's duties.
+21 (2) All peace officers with general law enforcement authority and
+22 investigators[employees] of the department[ of Alcoholic Beverage Control] may
+23 confiscate the tobacco product, alternative nicotine product, or vapor product of a
+24 person under the age of twenty-one (21) who has violated this section.
+25 Notwithstanding any provision of law to the contrary, no other penalty shall apply
+26 to a person under the age of twenty-one (21) for a violation of this section.
+27 Section 13. KRS 438.313 is amended to read as follows:
+Page 12 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 261
+1 (1) A[No] wholesaler, retailer, or manufacturer of cigarettes, tobacco products, or
+2 alternative nicotine products, shall not[may] distribute cigarettes, tobacco products,
+3 or alternative nicotine products, including samples thereof, free of charge or
+4 otherwise, to any person under the age of twenty-one (21).
+5 (2) A distributor shall not distribute alternative nicotine products, tobacco products,
+6 or vapor products to any retailer:
+7 (a) Whose license has been revoked; or
+8 (b) That is in the tobacco noncompliance database and reporting system.
+9 (3) Any person who distributes cigarettes, tobacco products, or alternative nicotine
+10 products, including samples thereof, free of charge or otherwise shall require proof
+11 of age from a prospective buyer or recipient if the person has reason to believe that
+12 the prospective purchaser or recipient is under the age of twenty-one (21).
+13 (4)[(3)] Any person who violates the provisions of this section shall be fined not less
+14 than one thousand dollars ($1,000) nor more than two thousand five hundred dollars
+15 ($2,500) for each offense. The fine shall be administered by the department[ of
+16 Alcoholic Beverage Control] using a civil enforcement procedure for persons
+17 eighteen (18) years of age or older.
+18 (5)[(4)] All peace officers with general law enforcement authority and
+19 investigators[employees] of the department[ of Alcoholic Beverage Control] may
+20 issue a uniform citation, but may not make an arrest[,] or take a child into custody,
+21 for a violation of this section.
+22 Section 14. KRS 438.316 is amended to read as follows:
+23 (1) A retailer shall not sell an unauthorized vapor product to any person.
+24 (2) Except as provided in subsection (3) of this section, any retailer selling vapor
+25 products shall obtain from the manufacturer an applicable safe harbor certification
+26 and shall maintain a copy of the certification at the physical location where the
+27 vapor product is being sold.
+Page 13 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 261
+1 (3) A retailer is not required to obtain a safe harbor certification for vapor products if
+2 those products were purchased from a Kentucky-licensed resident wholesaler.
+3 (4) Any retailer that violates this section shall be:
+4 (a) Subject to a fine of:
+5 1. One thousand dollars ($1,000) for the first citation issued for a violation
+6 of this section; and
+7 2. Five thousand dollars ($5,000) for a second or subsequent citation
+8 issued for a violation of this section; and
+9 (b) Placed in the tobacco noncompliance database and reporting system and lose
+10 the ability to lawfully sell vapor products for one (1) year for any third or
+11 subsequent citation issued for a violation within a two (2) year period.
+12 (5) A retailer in the tobacco noncompliance database and reporting system that sells
+13 vapor products that are unauthorized vapor products shall be subject to a fine of ten
+14 thousand dollars ($10,000) per unlawful transaction.
+15 (6) Any retailer with unpaid fines under this section that are more than sixty (60) days
+16 overdue shall lose the ability to lawfully sell vapor products until the fines are paid.
+17 (7) A retailer shall have an affirmative defense to a violation of selling an unauthorized
+18 vapor product if the retailer can establish:
+19 (a) Proof of an official material change in the status of a vapor product under
+20 review by the FDA within forty-five (45) days of the issuance of the citation;
+21 or
+22 (b) A safe harbor certification for the vapor product exists onsite at the retail
+23 location at the time the citation was issued.
+24 (8) This section shall not apply to retailers of vapor products that are not intended
+25 for resale in this state.
+26 Section 15. KRS 438.330 is amended to read as follows:
+27 (1) Except as provided in Section 5 of this Act, the Department of Alcoholic Beverage
+Page 14 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 261
+1 Control and the Department of Agriculture shall carry out annually conducted
+2 random, unannounced inspections of retail establishments where tobacco products,
+3 alternative nicotine products, or vapor products are sold or distributed for the
+4 purpose of enforcing the provisions of KRS 438.305 to 438.350[438.340]. The
+5 inspections shall be conducted to the extent necessary to assure that the
+6 Commonwealth remains in compliance with Pub. L. No.[Public Law] 102-321 and
+7 applicable federal regulations. The department[ of Alcoholic Beverage Control] and
+8 the Department of Agriculture shall also ensure that targeted inspections are
+9 conducted at those retail establishments where, and at those times when, persons
+10 under the age of twenty-one (21) years are most likely to purchase tobacco
+11 products, alternative nicotine products, or vapor products. Persons under the age of
+12 twenty-one (21) years may be used to test compliance with the provisions of KRS
+13 438.305 to 438.350[438.340] only if the testing is conducted under the direct
+14 supervision of the department[ of Alcoholic Beverage Control], sheriff, or chief of
+15 police, or their employees, and written parental consent has been obtained. The
+16 department[ of Alcoholic Beverage Control] shall prepare annually, for submission
+17 by the Governor to the Secretary of the United States Department of Health and
+18 Human Services, the report required by Section 1926 of Subpart 1 of Part B of Title
+19 XIX of the Federal Public Health Service Act.
+20 (2) The department[ of Alcoholic Beverage Control] shall develop and implement the
+21 survey sampling methodologies to carry out the inspections as described in this
+22 section.
+23 Section 16. KRS 438.337 is amended to read as follows:
+24 (1) The department[ of Alcoholic Beverage Control] shall carry out the enforcement
+25 provisions of KRS 438.305 to 438.350[438.340].
+26 (2) (a) 1. The department[ of Alcoholic Beverage Control] shall be entitled to the
+27 revenue produced by one-twentieth of one cent ($0.0005) of the three-
+Page 15 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 261
+1 cent ($0.03) per pack revenue collected by the Finance and
+2 Administration Cabinet from the state excise tax on the sale of cigarettes
+3 as imposed by KRS 138.140.
+4 2. One hundred percent (100%) of the license and application fees
+5 imposed by Section 6 of this Act unless the license is denied shall[ to]
+6 be deposited in a trust and agency account created in the State
+7 Treasury.[, and ]
+8 (b) One hundred percent (100%) of the fines collected under KRS 438.305 to
+9 438.350 shall be retained by the department.
+10 (c) The department shall[to] keep fifty percent (50%) of any fines collected
+11 under KRS 438.305 to 438.350[438.340] to offset the costs of enforcement.
+12 The remaining fifty percent (50%) of funds shall go to a youth program
+13 directed at targeting and educating youth on the dangers of tobacco
+14 products, alternative nicotine products, and vapor products[ of KRS 438.305
+15 to 438.340].
+16 (3) The department[ of Alcoholic Beverage Control] shall be responsible for
+17 maintaining statistics for compilation of required reports to be submitted to the
+18 United States Department of Health and Human Services.
+19 (4) The department[ of Alcoholic Beverage Control] shall devise a plan and
+20 timeframe[time frame] for enforcement to determine by random inspection if the
+21 percentage of retailers or distributors making illegal sales to persons under the age
+22 of twenty-one (21) does or does not exceed federal guidelines preventing tobacco
+23 sales to persons under the age of twenty-one (21).
+24 (5) On the first day of each month, the department shall update and publish on its
+25 website the list of retailers of authorized vapor products provided by the Secretary
+26 of State under KRS 438.306.
+27 (6) The department shall develop, maintain, and utilize a coordinated tobacco
+Page 16 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 261
+1 noncompliance database and reporting system to:
+2 (a) Identify the retailers that have violated KRS 438.312 or Section 14 of this
+3 Act; and
+4 (b) Publish that information on its website on the first day of each month.
+5 Section 17. KRS 438.340 is amended to read as follows:
+6 The department[ of Alcoholic Beverage Control] and the Department of Agriculture are
+7 authorized to promulgate administrative regulations pursuant to KRS Chapter 13A as
+8 necessary to implement and carry out the provisions of KRS 438.305 to
+9 438.350[438.340], including establishing a procedure for administering citations,
+10 issuing orders, and filing appeals under this section and Section 8 of this Act for any
+11 violation of the provisions of KRS 438.305 to 438.350, order of the commissioner, or
+12 administrative regulations promulgated by the department.
+13 Section 18. KRS 438.350 is amended to read as follows:
+14 (1) No person under the age of twenty-one (21) shall possess or use tobacco products,
+15 alternative nicotine products, or vapor products.
+16 (2) Any tobacco product, alternative nicotine product, or vapor product found in the
+17 possession of a person under the age of twenty-one (21) and in plain view of the
+18 law enforcement officer shall be confiscated by the law enforcement officer making
+19 the charge.
+20 (3) Any person under the age of twenty-one (21) years found possessing or
+21 consuming an alternative nicotine product, tobacco product, or vapor product
+22 may be required to participate in a perform community service program or attend
+23 a tobacco cessation program.
+24 (4)[(3)] This section shall not apply to persons exempted as provided by KRS 438.311
+25 and 438.330.
+26 [(4) The terms "alternative nicotine product," "tobacco product," and "vapor product,"
+27 shall have the same meanings as in KRS 438.305.]
+Page 17 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 261
+1 Section 19. KRS 241.020 is amended to read as follows:
+2 (1) The department shall administer statutes relating to, and regulate traffic in,
+3 alcoholic beverages, except that the collection of taxes shall be administered by the
+4 Department of Revenue. The department may issue advisory opinions and
+5 declaratory rulings related to KRS Chapters 241 to 244 and the administrative
+6 regulations promulgated under those chapters.
+7 (2) A Division of Distilled Spirits, under the supervision of the board, shall administer
+8 the laws in relation to traffic in distilled spirits and wine.
+9 (3) A Division of Malt Beverages, under the supervision of the board, shall administer
+10 the laws in relation to traffic in malt beverages.
+11 (4) A Division of Tobacco and Vapor Licensing, under the supervision of the division
+12 director, shall administer the laws in relation to traffic in alternative nicotine
+13 products, tobacco products, or authorized vapor products under KRS 438.305 to
+14 438.350.
+15 Section 20. KRS 438.300 is amended to read as follows:
+16 It is the intent of the Legislature that KRS 438.305 to 438.350[438.340] shall be enforced
+17 in an equitable and uniform manner throughout the Commonwealth. For the purpose of
+18 equitable and uniform enforcement, the provisions of KRS 438.305 to 438.350[438.340]
+19 shall supersede any subsequently enacted local law, ordinance, or regulation which
+20 relates to the use, display, sale, or distribution of tobacco products. It is the intent of the
+21 Legislature that KRS 438.305 to 438.350[438.340] be enforced so as to ensure the
+22 eligibility for and receipt of any federal funds or grants that the Commonwealth of
+23 Kentucky now receives or may receive relating to the provisions of KRS 438.305 to
+24 438.350[438.340].
+25 Section 21. KRS 438.325 is amended to read as follows:
+26 (1) Each owner of a retail establishment selling or distributing tobacco products,
+27 alternative nicotine products, or vapor products shall notify each individual
+Page 18 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 261
+1 employed in the retail establishment as a retail sales clerk that the sale of tobacco
+2 products, alternative nicotine products, or vapor products to any person under the
+3 age of twenty-one (21) years and the purchase of tobacco products, alternative
+4 nicotine products, or vapor products by any person under the age of twenty-one (21)
+5 years are prohibited.
+6 (2) Each owner of a retail establishment selling or distributing tobacco products,
+7 alternative nicotine products, or vapor products shall notify each individual
+8 employed in the retail establishment as a retail sales clerk that proof of age is
+9 required from a prospective buyer or recipient if the person has reason to believe
+10 that the prospective purchaser or recipient is under the age of twenty-one (21).
+11 (3) The notice to employees that is required in subsection (1) of this section shall be
+12 provided before the person commences work as a retail sales clerk, or, in the case of
+13 a person employed as a retail sales clerk on March 26, 2020, within thirty (30) days
+14 of that date. The employee shall signify receipt of the notice required by this section
+15 by signing a form that states as follows:
+16 "I understand that under the law of the Commonwealth of Kentucky it is illegal to
+17 sell or distribute tobacco products, alternative nicotine products, or vapor products
+18 to persons under the age of twenty-one (21) years and that it is illegal for persons
+19 under the age of twenty-one (21) years to purchase tobacco products, alternative
+20 nicotine products, or vapor products."
+21 (4) The owner of the retail establishment shall maintain the signed notice that is
+22 required pursuant to subsection (3) of this section in a place and in a manner so as
+23 to be easily accessible to any employee of the Department of Alcoholic Beverage
+24 Control or the Department of Agriculture conducting an inspection of the retail
+25 establishment for the purpose of monitoring compliance in limiting the sale or
+26 distribution of tobacco products, alternative nicotine products, or vapor products to
+27 persons under the age of twenty-one (21) as provided in KRS 438.305 to
+Page 19 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 261
+1 438.350[438.340].
+2 (5) Any owner of the retail establishment violating subsections (1) to (4) of this section
+3 shall be subject to a fine of not less than one hundred dollars ($100) nor more than
+4 five hundred dollars ($500) for each violation. The fine shall be administered by the
+5 Department of Alcoholic Beverage Control in a civil enforcement procedure.
+6 Section 22. KRS 438.335 is amended to read as follows:
+7 The Department of Agriculture shall carry out the provisions of KRS 438.305 to
+8 438.350[438.340] as they relate to educating the public and sellers of tobacco products,
+9 alternative nicotine products, or vapor products about provisions and penalties of KRS
+10 438.305 to 438.350[438.340]. The Department of Agriculture shall be entitled to the
+11 revenue produced by one-twentieth of one cent ($0.0005) of the three-cent ($0.03) per
+12 pack revenue collected by the Department of Revenue from the state excise tax on the
+13 sale of cigarettes as imposed by KRS 138.140 and to keep fifty percent (50%) of any
+14 fines collected under KRS 438.305 to 438.350[438.340] to offset the costs of these
+15 education efforts.
+16 Section 23. KRS 630.120 is amended to read as follows:
+17 (1) All dispositional hearings conducted under this chapter shall be conducted in
+18 accordance with the provisions of KRS 610.060 and 610.070. In addition, the court
+19 shall, at the time the dispositional order is issued:
+20 (a) Give the child adequate and fair written warning of the consequences of the
+21 violation of the order; and
+22 (b) Provide the child and the child's attorney, and parent, or legal guardian a
+23 written statement setting forth the conditions of the order and the
+24 consequences for violating the order.
+25 An order issued pursuant to this section is a valid court order and any child
+26 violating that order may be subject to the provisions of KRS 630.080(4).
+27 (2) The court shall consider all appropriate local remedies to aid the child and the
+Page 20 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 261
+1 child's family subject to the following conditions:
+2 (a) Residential and nonresidential treatment programs for status offenders shall
+3 be community-based and nonsecure; and
+4 (b) With the approval of the education agency, the court may place the child in a
+5 nonsecure public or private education agency accredited by the Department of
+6 Education.
+7 (3) At the disposition of a child adjudicated on a petition brought pursuant to this
+8 chapter, all information helpful in making a proper disposition, including oral and
+9 written reports, shall be received by the court provided that the child, the child's
+10 parents, their counsel, the prosecuting attorney, the child's counsel, or other
+11 interested parties as determined by the judge shall be afforded an opportunity to
+12 examine and controvert the reports. For good cause, the court may allow the
+13 admission of hearsay evidence.
+14 (4) The court shall affirmatively determine that all appropriate remedies have been
+15 considered and exhausted to assure that the least restrictive alternative method of
+16 treatment is utilized.
+17 (5) The court may order the child and the child's family to participate in any programs
+18 which are necessary to effectuate a change in the child and the family.
+19 (6) When all appropriate resources have been reviewed and considered insufficient to
+20 adequately address the needs of the child and the child's family, the court may,
+21 except as provided in subsection (7) of this section, commit the child to the cabinet
+22 for such services as may be necessary. The cabinet shall consider all appropriate
+23 local remedies to aid the child and the child's family subject to the following
+24 conditions:
+25 (a) Treatment programs for status offenders shall be, unless excepted by federal
+26 law, community-based and nonsecure;
+27 (b) The cabinet may place the child in a nonsecure public or private education
+Page 21 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 261
+1 agency accredited by the department of education;
+2 (c) The cabinet may initiate proceedings pursuant to KRS 610.160 when the
+3 parents fail to participate in the cabinet's treatment programs; and
+4 (d) The cabinet may discharge the child from commitment after providing ten
+5 (10) days' prior written notice to the committing court which may object to
+6 such discharge by holding court review of the commitment under KRS
+7 610.120.
+8 (7) No child adjudicated guilty of an alcohol offense under KRS 244.085 or a tobacco
+9 offense under KRS 438.305 to 438.350[438.340] shall be committed as a result of
+10 that adjudication.
+11 Section 24. KRS 12.020 (Effective July 1, 2025) is amended to read as follows:
+12 Departments, program cabinets and their departments, and the respective major
+13 administrative bodies that they include are enumerated in this section. It is not intended
+14 that this enumeration of administrative bodies be all-inclusive. Every authority, board,
+15 bureau, interstate compact, commission, committee, conference, council, office, or any
+16 other form of organization shall be included in or attached to the department or program
+17 cabinet in which they are included or to which they are attached by statute or statutorily
+18 authorized executive order; except in the case of the Personnel Board and where the
+19 attached department or administrative body is headed by a constitutionally elected
+20 officer, the attachment shall be solely for the purpose of dissemination of information and
+21 coordination of activities and shall not include any authority over the functions,
+22 personnel, funds, equipment, facilities, or records of the department or administrative
+23 body.
+24 I. Cabinet for General Government - Departments headed by elected officers:
+25 (1) The Governor.
+26 (2) Lieutenant Governor.
+27 (3) Department of State.
+Page 22 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 261
+1 (a) Secretary of State.
+2 (b) Board of Elections.
+3 (c) Registry of Election Finance.
+4 (4) Department of Law.
+5 (a) Attorney General.
+6 (5) Department of the Treasury.
+7 (a) Treasurer.
+8 (6) Department of Agriculture.
+9 (a) Commissioner of Agriculture.
+10 (b) Agricultural Development Board.
+11 (c) Kentucky Agricultural Finance Corporation.
+12 (7) Auditor of Public Accounts.
+13 (a) Commonwealth Office of the Ombudsman.
+14 II. Program cabinets headed by appointed officers:
+15 (1) Justice and Public Safety Cabinet:
+16 (a) Department of Kentucky State Police.
+17 1. Office of Administrative Services.
+18 a. Division of Operational Support.
+19 b. Division of Management Services.
+20 2. Office of Operations.
+21 a. Division of West Troops.
+22 b. Division of East Troops.
+23 c. Division of Special Enforcement.
+24 d. Division of Commercial Vehicle Enforcement.
+25 3. Office of Technical Services.
+26 a. Division of Forensic Sciences.
+27 b. Division of Electronic Services.
+Page 23 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 261
+1 c. Division of Records Management.
+2 (b) Department of Criminal Justice Training.
+3 (c) Department of Corrections.
+4 (d) Department of Juvenile Justice.
+5 (e) Office of the Secretary.
+6 (f) Office of Drug Control Policy.
+7 (g) Office of Legal Services.
+8 (h) Office of the Kentucky State Medical Examiner.
+9 (i) Parole Board.
+10 (j) Kentucky State Corrections Commission.
+11 (k) Office of Legislative and Intergovernmental Services.
+12 (l) Office of Human Resource Management.
+13 1. Division of Human Resource Administration.
+14 2. Division of Employee Management.
+15 (m) Department of Public Advocacy.
+16 (n) Office of Communications.
+17 1. Information Technology Services Division.
+18 (o) Office of Financial Management Services.
+19 1. Division of Financial Management.
+20 (p) Grants Management Division.
+21 (2) Energy and Environment Cabinet:
+22 (a) Office of the Secretary.
+23 1. Office of Legislative and Intergovernmental Affairs.
+24 2. Office of Legal Services.
+25 a. Legal Division I.
+26 b. Legal Division II.
+27 3. Office of Administrative Hearings.
+Page 24 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 261
+1 4. Office of Communication.
+2 5. Mine Safety Review Commission.
+3 6. Office of Kentucky Nature Preserves.
+4 7. Kentucky Public Service Commission.
+5 (b) Department for Environmental Protection.
+6 1. Office of the Commissioner.
+7 2. Division for Air Quality.
+8 3. Division of Water.
+9 4. Division of Environmental Program Support.
+10 5. Division of Waste Management.
+11 6. Division of Enforcement.
+12 7. Division of Compliance Assistance.
+13 (c) Department for Natural Resources.
+14 1. Office of the Commissioner.
+15 2. Division of Mine Permits.
+16 3. Division of Mine Reclamation and Enforcement.
+17 4. Division of Abandoned Mine Lands.
+18 5. Division of Oil and Gas.
+19 6. Division of Mine Safety.
+20 7. Division of Forestry.
+21 8. Division of Conservation.
+22 9. Office of the Reclamation Guaranty Fund.
+23 (d) Office of Energy Policy.
+24 1. Division of Energy Assistance.
+25 (e) Office of Administrative Services.
+26 1. Division of Human Resources Management.
+27 2. Division of Financial Management.
+Page 25 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 261
+1 3. Division of Information Services.
+2 (3) Public Protection Cabinet.
+3 (a) Office of the Secretary.
+4 1. Office of Communications and Public Outreach.
+5 2. Office of Legal Services.
+6 a. Insurance Legal Division.
+7 b. Alcoholic Beverage Control Legal Division.
+8 c. Housing, Buildings and Construction Legal Division.
+9 d. Financial Institutions Legal Division.
+10 e. Professional Licensing Legal Division.
+11 3. Office of Administrative Hearings.
+12 4. Office of Administrative Services.
+13 a. Division of Human Resources.
+14 b. Division of Fiscal Responsibility.
+15 (b) Office of Claims and Appeals.
+16 1. Board of Tax Appeals.
+17 2. Board of Claims.
+18 3. Crime Victims Compensation Board.
+19 (c) Kentucky Boxing and Wrestling Commission.
+20 (d) Department of Alcoholic Beverage Control.
+21 1. Division of Distilled Spirits.
+22 2. Division of Malt Beverages.
+23 3. Division of Enforcement.
+24 4. Division of Tobacco, Nicotine, and Vapor Product Licensing.
+25 (e) Department of Financial Institutions.
+26 1. Division of Depository Institutions.
+27 2. Division of Non-Depository Institutions.
+Page 26 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 261
+1 3. Division of Securities.
+2 (f) Department of Housing, Buildings and Construction.
+3 1. Division of Fire Prevention.
+4 2. Division of Plumbing.
+5 3. Division of Heating, Ventilation, and Air Conditioning.
+6 4. Division of Building Code Enforcement.
+7 (g) Department of Insurance.
+8 1. Division of Health and Life Insurance and Managed Care.
+9 2. Division of Property and Casualty Insurance.
+10 3. Division of Administrative Services.
+11 4. Division of Financial Standards and Examination.
+12 5. Division of Licensing.
+13 6. Division of Insurance Fraud Investigation.
+14 7. Division of Consumer Protection.
+15 (h) Department of Professional Licensing.
+16 1. Real Estate Authority.
+17 2. Division of Real Property Boards.
+18 (4) Transportation Cabinet:
+19 (a) Department of Highways.
+20 1. Office of Project Development.
+21 2. Office of Project Delivery and Preservation.
+22 3. Office of Highway Safety.
+23 4. Highway District Offices One through Twelve.
+24 (b) Department of Vehicle Regulation.
+25 (c) Department of Aviation.
+26 (d) Department of Rural and Municipal Aid.
+27 1. Office of Local Programs.
+Page 27 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 261
+1 2. Office of Rural and Secondary Roads.
+2 (e) Office of the Secretary.
+3 1. Office of Public Affairs.
+4 2. Office for Civil Rights and Small Business Development.
+5 3. Office of Budget and Fiscal Management.
+6 4. Office of Inspector General.
+7 5. Secretary's Office of Safety.
+8 (f) Office of Support Services.
+9 (g) Office of Transportation Delivery.
+10 (h) Office of Audits.
+11 (i) Office of Human Resource Management.
+12 (j) Office of Information Technology.
+13 (k) Office of Legal Services.
+14 (5) Cabinet for Economic Development:
+15 (a) Office of the Secretary.
+16 1. Office of Legal Services.
+17 2. Department for Business and Community Development.
+18 a. Development and Retention Division – West Kentucky.
+19 b. Development, Retention, and Administrative Division –
+20 Central and East Kentucky.
+21 c. Community and Workforce Development Division.
+22 3. Department for Financial Services.
+23 a. Kentucky Economic Development Finance Authority.
+24 b. Finance and Personnel Division.
+25 c. IT and Resource Management Division.
+26 d. Compliance Division.
+27 e. Program Administration Division.
+Page 28 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 261
+1 f. Bluegrass State Skills Corporation.
+2 g. The GRANT Commission.
+3 4. Office of Strategy and Public Affairs.
+4 a. Marketing and Communications Division.
+5 b. Research and Strategy Division.
+6 5. Office of Entrepreneurship and Innovation.
+7 a. Commission on Small Business Innovation and Advocacy.
+8 (6) Cabinet for Health and Family Services:
+9 (a) Office of the Secretary.
+10 1. Office of Public Affairs.
+11 2. Office of Legal Services.
+12 3. Office of Inspector General.
+13 4. Office of Human Resource Management.
+14 5. Office of Finance and Budget.
+15 6. Office of Legislative and Regulatory Affairs.
+16 7. Office of Administrative Services.
+17 8. Office of Application Technology Services.
+18 9. Office of Data Analytics.
+19 10. Office of Medical Cannabis.
+20 a. Division of Enforcement and Compliance.
+21 b. Division of Licensure and Access.
+22 (b) Department for Public Health.
+23 (c) Department for Medicaid Services.
+24 (d) Department for Behavioral Health, Developmental and Intellectual
+25 Disabilities.
+26 (e) Department for Aging and Independent Living.
+27 (f) Department for Community Based Services.
+Page 29 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 261
+1 (g) Department for Family Resource Centers and Volunteer Services.
+2 (7) Finance and Administration Cabinet:
+3 (a) Office of the Secretary.
+4 (b) Office of the Inspector General.
+5 (c) Office of Legislative and Intergovernmental Affairs.
+6 (d) Office of General Counsel.
+7 (e) Office of the Controller.
+8 (f) Office of Administrative Services.
+9 (g) Office of Policy and Audit.
+10 (h) Department for Facilities and Support Services.
+11 (i) Department of Revenue.
+12 (j) Commonwealth Office of Technology.
+13 (k) State Property and Buildings Commission.
+14 (l) Office of Equal Employment Opportunity and Contract Compliance.
+15 (m) Kentucky Employees Retirement Systems.
+16 (n) Commonwealth Credit Union.
+17 (o) State Investment Commission.
+18 (p) Kentucky Housing Corporation.
+19 (q) Kentucky Local Correctional Facilities Construction Authority.
+20 (r) Kentucky Turnpike Authority.
+21 (s) Historic Properties Advisory Commission.
+22 (t) Kentucky Higher Education Assistance Authority.
+23 (u) Kentucky River Authority.
+24 (v) Kentucky Teachers' Retirement System Board of Trustees.
+25 (w) Executive Branch Ethics Commission.
+26 (x) Office of Fleet Management.
+27 (8) Tourism, Arts and Heritage Cabinet:
+Page 30 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 261
+1 (a) Kentucky Department of Tourism.
+2 1. Division of Tourism Services.
+3 2. Division of Marketing and Administration.
+4 3. Division of Communications and Promotions.
+5 (b) Kentucky Department of Parks.
+6 1. Division of Information Technology.
+7 2. Division of Human Resources.
+8 3. Division of Financial Operations.
+9 4. Division of Purchasing.
+10 5. Division of Facilities.
+11 6. Division of Park Operations.
+12 7. Division of Sales, Marketing, and Customer Service.
+13 8. Division of Engagement.
+14 9. Division of Food Services.
+15 10. Division of Rangers.
+16 (c) Department of Fish and Wildlife Resources.
+17 1. Division of Law Enforcement.
+18 2. Division of Administrative Services.
+19 3. Division of Engineering, Infrastructure, and Technology.
+20 4. Division of Fisheries.
+21 5. Division of Information and Education.
+22 6. Division of Wildlife.
+23 7. Division of Marketing.
+24 (d) Kentucky Horse Park.
+25 1. Division of Support Services.
+26 2. Division of Buildings and Grounds.
+27 3. Division of Operational Services.
+Page 31 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 261
+1 (e) Kentucky State Fair Board.
+2 1. Office of Administrative and Information Technology Services.
+3 2. Office of Human Resources and Access Control.
+4 3. Division of Expositions.
+5 4. Division of Kentucky Exposition Center Operations.
+6 5. Division of Kentucky International Convention Center.
+7 6. Division of Public Relations and Media.
+8 7. Division of Venue Services.
+9 8. Division of Personnel Management and Staff Development.
+10 9. Division of Sales.
+11 10. Division of Security and Traffic Control.
+12 11. Division of Information Technology.
+13 12. Division of the Louisville Arena.
+14 13. Division of Fiscal and Contract Management.
+15 14. Division of Access Control.
+16 (f) Office of the Secretary.
+17 1. Office of Finance.
+18 2. Office of Government Relations and Administration.
+19 (g) Office of Legal Affairs.
+20 (h) Office of Human Resources.
+21 (i) Office of Public Affairs and Constituent Services.
+22 (j) Office of Arts and Cultural Heritage.
+23 (k) Kentucky African-American Heritage Commission.
+24 (l) Kentucky Foundation for the Arts.
+25 (m) Kentucky Humanities Council.
+26 (n) Kentucky Heritage Council.
+27 (o) Kentucky Arts Council.
+Page 32 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 261
+1 (p) Kentucky Historical Society.
+2 1. Division of Museums.
+3 2. Division of Oral History and Educational Outreach.
+4 3. Division of Research and Publications.
+5 4. Division of Administration.
+6 (q) Kentucky Center for the Arts.
+7 1. Division of Governor's School for the Arts.
+8 (r) Kentucky Artisans Center at Berea.
+9 (s) Northern Kentucky Convention Center.
+10 (t) Eastern Kentucky Exposition Center.
+11 (9) Personnel Cabinet:
+12 (a) Office of the Secretary.
+13 (b) Department of Human Resources Administration.
+14 (c) Office of Employee Relations.
+15 (d) Kentucky Public Employees Deferred Compensation Authority.
+16 (e) Office of Administrative Services.
+17 (f) Office of Legal Services.
+18 (g) Governmental Services Center.
+19 (h) Department of Employee Insurance.
+20 (i) Office of Diversity, Equality, and Training.
+21 (j) Office of Public Affairs.
+22 (10) Education and Labor Cabinet:
+23 (a) Office of the Secretary.
+24 1. Office of Legal Services.
+25 a. Workplace Standards Legal Division.
+26 b. Workers' Claims Legal Division.
+27 c. Workforce Development Legal Division.
+Page 33 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 261
+1 2. Office of Administrative Services.
+2 a. Division of Human Resources Management.
+3 b. Division of Fiscal Management.
+4 c. Division of Operations and Support Services.
+5 3. Office of Technology Services.
+6 a. Division of Information Technology Services.
+7 4. Office of Policy and Audit.
+8 5. Office of Legislative Services.
+9 6. Office of Communications.
+10 7. Office of the Kentucky Center for Statistics.
+11 8. Board of the Kentucky Center for Statistics.
+12 9. Early Childhood Advisory Council.
+13 10. Governors' Scholars Program.
+14 11. Governor's School for Entrepreneurs Program.
+15 12. Foundation for Adult Education.
+16 (b) Department of Education.
+17 1. Kentucky Board of Education.
+18 2. Kentucky Technical Education Personnel Board.
+19 3. Education Professional Standards Board.
+20 (c) Board of Directors for the Center for School Safety.
+21 (d) Department for Libraries and Archives.
+22 (e) Kentucky Environmental Education Council.
+23 (f) Kentucky Educational Television.
+24 (g) Kentucky Commission on the Deaf and Hard of Hearing.
+25 (h) Department of Workforce Development.
+26 1. Career Development Office.
+27 2. Office of Vocational Rehabilitation.
+Page 34 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 261
+1 a. Division of Kentucky Business Enterprise.
+2 b. Division of the Carl D. Perkins Vocational Training Center.
+3 c. Division of Blind Services.
+4 d. Division of Field Services.
+5 e. Statewide Council for Vocational Rehabilitation.
+6 f. Employment First Council.
+7 3. Office of Employer and Apprenticeship Services.
+8 a. Division of Apprenticeship.
+9 4. Kentucky Apprenticeship Council.
+10 5. Division of Technical Assistance.
+11 6. Office of Adult Education.
+12 7. Office of the Kentucky Workforce Innovation Board.
+13 (i) Department of Workplace Standards.
+14 1. Division of Occupational Safety and Health Compliance.
+15 2. Division of Occupational Safety and Health Education and
+16 Training.
+17 3. Division of Wages and Hours.
+18 (j) Office of Unemployment Insurance.
+19 (k) Kentucky Unemployment Insurance Commission.
+20 (l) Department of Workers' Claims.
+21 1. Division of Workers' Compensation Funds.
+22 2. Office of Administrative Law Judges.
+23 3. Division of Claims Processing.
+24 4. Division of Security and Compliance.
+25 5. Division of Specialist and Medical Services.
+26 6. Workers' Compensation Board.
+27 (m) Workers' Compensation Funding Commission.
+Page 35 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 261
+1 (n) Kentucky Occupational Safety and Health Standards Board.
+2 (o) State Labor Relations Board.
+3 (p) Employers' Mutual Insurance Authority.
+4 (q) Kentucky Occupational Safety and Health Review Commission.
+5 (r) Workers' Compensation Nominating Committee.
+6 (s) Office of Educational Programs.
+7 (t) Kentucky Workforce Innovation Board.
+8 (u) Kentucky Commission on Proprietary Education.
+9 (v) Kentucky Work Ready Skills Advisory Committee.
+10 (w) Kentucky Geographic Education Board.
+11 (x) Disability Determination Services Program.
+12 III. Other departments headed by appointed officers:
+13 (1) Council on Postsecondary Education.
+14 (2) Department of Military Affairs.
+15 (3) Department for Local Government.
+16 (4) Kentucky Commission on Human Rights.
+17 (5) Kentucky Commission on Women.
+18 (6) Department of Veterans' Affairs.
+19 (7) Kentucky Commission on Military Affairs.
+20 (8) Office of Minority Empowerment.
+21 (9) Governor's Council on Wellness and Physical Activity.
+22 (10) Kentucky Communications Network Authority.
+23 Section 25. The following KRS section is repealed:
+24 438.307 Enforcement by Department of Alcoholic Beverage Control -- Online
+25 publication of list of retailers of authorized vapor products.
+26 Section 26. This Act takes effect January 1, 2026.
+Page 36 of 36
+XXXX 2/6/2025 3:26 PM Jacketed
+
+[DELETED:   2  J A B S A ( ( " n p m a n p c n t i i f h c w c a d ( " n p d n i a p r a a d o d b t U S F a D A u C ( " t ( A ( A ( " m t c o t D o A B ( " t ( " ( " m a p w d a n p t r ( " ( " e r e a a e o a o t d w i a]
+[DELETED:   2  J t ( " m a p w m o p t p ( " t p d f t m a m a p l a ( " m t l a b u w a b o u ( " o a m a d l o o d o w e ( " p d K 1 t 1 i u a w m a e p o b u ( " a t ( " ( M a c p b a m e t a v p 1 F t p 2 I a n p c t n t w]
+[DELETED:   2  J c w t m s a p t p a a R u r b h n r e a m d b H t c c H F ( S r o a ( M ( " m a t p a n p o v p ( " K 1 ( " o b ( ( " p p f]
+[DELETED:   2  J p a m a p m o d f t t i i o a t p e f r m o t t u i m a c p o a o a t p i a ( " p a A ( " a ( " ( M ( D 1 A m g o o o a t m f t F 2 A ( ( " p m a n p t e a h c c n o o s t u i f t d " p n a o m a s a a v c o o c o a l]
+[DELETED:   2  J s c p ( " b F S T ( ( T c a e w t D o A B C ( T m 1 ( T D o T N a V L s c o e o p a S T D j a s m S]
+[DELETED:   2  J T ( ( B 1 O a a r s a n p t p C p 2 S a a n p t p o a v p a r t a c e t a f s ( A p w b h o h o t a d o i b b o ( P e i t d e o s o a n p t p o a v p a t s o e ( A p t p o a v p a d o f s o s i r t p w a o t a o t ( A t f s o s a t v s v t p i o t a o t ( p t c t r s t f a a S]
+[DELETED:   2  J T ( T ( I t i p i e a f a t n ( I t t n o v p l i a n S 1 a 1 o t A r i o c c o t l s b c n l t o a d n b h o a d a b t c ( A t e S T ( E i a f p b t d a w a n a b l ( A ( B ( R u ( P i a c p i t p o t b w a n p t p o a v p ( ( T]
+[DELETED:   2  J f e l p a t f s b m p t S T ( A o t f p i t S T f s l s b c f ( T ( ( A S T ( T o ( I ( L ( A t ( A t ( ( I t 1 N l 2 U l 3 I l ( R]
+[DELETED:   2  J s y ( A f o o t c s b a t t F C S T A t ( A ( A m p ( A a r o t D o R r t t t ( A c ( A a w w ( A c w t d i t e o i s d d s ( A a S ( A ( A]
+[DELETED:   2  J o ( I v p f s h c o a t m s t m t o ( A m t p f o m i i a s h c b ( T t d ( f a f c i f a v ( F t ( S t d ( f a t o s c i ( T s s n a t m o v p t a n i S ( A ( A r ( U ( A ( F s ( F f]
+[DELETED:   2  J ( T f S ( N p s s o c t b s a t p o a n o t ( o s a p u t a o t ( t p a t p o a n p o a v ( A p w s t p o a n p o a i a ( ( A p s t p a n p o v p s r p o a f a p b o r i t p o ( A ( O a ( O f s ( O o a ( R]
+[DELETED:   2  J v ( h h s v T f s b a b t D o A ( T f s b i a c b t d u a c e ( A u S ( E n a t p o a r o a t p a n p o p p p a n p o v p f a e w r ( A p o w g l e a a i c p u t a o t ( w h v t s N t S]
+[DELETED:   2  J ( A w r o m o c t p o a o a n p i s t f o c o o ( A o ( W ( T ( A p w d c t p o a n p o t ( A t ( f e o T f s b a b t d o A B C u a c e p f p e ( A p o w g l e a a i i f S ( A ( E a p i s ( o t s a r s v p a s m a c o c a t p l w t v]
+[DELETED:   2  J ( A t ( A ( S 1 O o 2 F t d ( f a s o s c i ( P t s ( A v t ( A o ( A v ( P r o ( A s h c f t v p e o a t r l ( T f S ( E]
+[DELETED:   2  J C a t D o A s c o a c r a n p o v p a s o d f t p o e t p o K 4 t 4 T i s b c t t e n t a t t C a t D o A s a e t t i a c u t a o t ( y a m l t p t p t 4 t 4 o i t t i c u t d s p o t e a w p c h b o T d b H X ( T s s m t c o t i a d i t s S ( T p ( ( 1 T r]
+[DELETED:   2  J c ( p p r c b t F a A a 2 O h p ( o t l a a f i b d i a t a a a c i t S T ( O 4 ( T d s k f p ( o a f c u T r f p ( s g t a y p d a t a e y o t d o t p t ( T d o A B C s b r f m s f c o r r t b s t t U ( T d o A B C s d a p a t p o s ( O w o ( T d s d m a u a c t]
+[DELETED:   2  J n ( I A ( P S T a t p a r p t K C 1 a n t i a c o t p o K 4 t 4 i e a p f a c i v a S ( N a ( A p l t ( A p u t a o t ( y f p o c a a n p t p o v p m a ( T a [ T s]
+[DELETED:   2  J S ( T d s a s r t a r t i a D o R T d m i a o a d r r t K C 2 t 2 a t a r ( A t ( A t ( A d s a t l i r t t i a n p 4 S I i e s s a s e l l o o r w r L t K 4 t 4 b e s a t e t e f a r o a f f o g t t C o K n r o m r r t t p o K 4 t 4 S ( E o o a r e s o d t p a n p o v p s n e i]
+[DELETED:   2  J e p a o t ( y a t p o t p a n y ( E o o a r e s o d t p a n p o v p s n e i e i t r e a a r s c t p o a i r t ( T p a o b  " s t u n ( T o o t r e s m t s n t i r t C o t D o A c a i o t r e f t p o m c i l t s o d p u t a o t ( a p i K 4 t]
+[DELETED:   2  J 4 ( A s f D S T D o A s c o t p o K 4 t 4 a 4 t 4 T D o A s b e t t r p s f c u K 4 t 4 t o t c o t e S ( A d h c u t c s b c i a s ( G v ( P t c a t c a a p o l g a w s s f t c o t o a t c  A o i p t t s i a v c o a a c v ( T c s c a a l r t a t c a t]
+[DELETED:   2  J c ( R b ( W n E ( A t d o a c a o a p b p t t c w p t c t p a t c c o o i e a c t r F g c t c m a t a ( T c s a d t a a r h b c t ( T w ( W a a t n o t c a t c f t c m e f l r t a t c a t c f s t t f c ( T l ( T]
+[DELETED:   2  J a ( T c m i p p t K 6 w t p ( T c m d t c f c a p t ( s d b h c r o t c u K 6 ( N o t S D p c a t d a t r m a t b o c a e o e i t c o t P B a w t a d o a b i h b a c e o c o a a s n i a a o t f p f e f o r o t d o a b I C ( T ( L ( D]
+[DELETED:   2  J ( S ( B ( R ( D ( A ( D ( T ( D ( C ( A ( K ( A ( C I P ( J ( D 1 O a D b D 2 O a D b D c D d D 3 O a D b D]
+[DELETED:   2  J c D ( D ( D ( D ( O ( O ( O ( O ( P ( K ( O ( O 1 D 2 D ( D ( O 1 I ( O 1 D ( G ( E ( O 1 O 2 O a L b L 3 O]
+[DELETED:   2  J 4 O 5 M 6 O 7 K ( D 1 O 2 D 3 D 4 D 5 D 6 D 7 D ( D 1 O 2 D 3 D 4 D 5 D 6 D 7 D 8 D 9 O ( O 1 D ( O 1 D 2 D]
+[DELETED:   2  J 3 D ( P ( O 1 O 2 O a I b A c H d F e P 3 O 4 O a D b D ( O 1 B 2 B 3 C ( K ( D 1 D 2 D 3 D 4 D ( D 1 D 2 D]
+[DELETED:   2  J 3 D ( D 1 D 2 D 3 D 4 D ( D 1 D 2 D 3 D 4 D 5 D 6 D 7 D ( D 1 R 2 D ( T ( D 1 O 2 O 3 O 4 H ( D ( D ( D 1 O]
+[DELETED:   2  J 2 O ( O 1 O 2 O 3 O 4 O 5 S ( O ( O ( O ( O ( O ( O ( C ( O 1 O 2 D a D b D R a A D – C c C 3 D a K b F c I d C e P]
+[DELETED:   2  J f B g T 4 O a M b R 5 O a C ( C ( O 1 O 2 O 3 O 4 O 5 O 6 O 7 O 8 O 9 O 1 O a D b D ( D ( D ( D f B H D a I D ( D ( D]
+[DELETED:   2  J ( D ( F ( O ( O ( O ( O ( O ( O ( O ( D ( D ( C ( S ( O ( K ( C ( S ( K ( K ( K ( H ( K ( K ( K ( E ( O ( T]
+[DELETED:   2  J ( K 1 D 2 D 3 D ( K 1 D 2 D 3 D 4 D 5 D 6 D 7 D 8 D 9 D 1 D ( D 1 D 2 D 3 D 4 D 5 D 6 D 7 D ( K 1 D 2 D 3 D]
+[DELETED:   2  J ( K 1 O 2 O 3 D 4 D 5 D 6 D 7 D 8 D 9 D 1 D 1 D 1 D 1 D 1 D ( O 1 O 2 O ( O ( O ( O ( O ( K ( K ( K ( K ( K]
+[DELETED:   2  J ( K 1 D 2 D 3 D 4 D ( K 1 D ( K ( N ( E ( P ( O ( D ( O ( K ( O ( O ( G ( D ( O ( O ( E ( O 1 O a W b W c W]
+[DELETED:   2  J 2 O a D b D c D 3 O a D 4 O 5 O 6 O 7 O 8 B 9 E 1 G 1 G 1 F ( D 1 K 2 K 3 E ( B ( D ( K ( K ( K ( D 1 C 2 O]
+[DELETED:   2  J a D b D c D d D e S f E 3 O a D 4 K 5 D 6 O 7 O ( D 1 D 2 D T 3 D ( O ( K ( D 1 D 2 O 3 D 4 D 5 D 6 W ( W]
+[DELETED:   2  J ( K ( S ( E ( K ( W ( O ( K ( K ( K ( K ( D I O ( C ( D ( D ( K ( K ( D ( K ( O ( G ( K S 4 b D o A B C - O p S]

@@ -1,0 +1,1335 @@
+Title: 1 AN ACT relating to state employee health insurance.
+Official Title: 1 AN ACT relating to state employee health insurance.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 21 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS BR 1132
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 18A.225 is amended to read as follows:
+4 (1) (a) The term "employee" for purposes of this section means:
+5 1. Any person, including an elected public official, who is regularly
+6 employed by any department, office, board, agency, or branch of state
+7 government; or by a public postsecondary educational institution; or by
+8 any city, urban-county, charter county, county, or consolidated local
+9 government, whose legislative body has opted to participate in the state-
+10 sponsored health insurance program pursuant to KRS 79.080; and who
+11 is either a contributing member to any one (1) of the retirement systems
+12 administered by the state, including but not limited to the Kentucky
+13 Retirement Systems, County Employees Retirement System, Kentucky
+14 Teachers' Retirement System, the Legislators' Retirement Plan, or the
+15 Judicial Retirement Plan; or is receiving a contractual contribution from
+16 the state toward a retirement plan; or, in the case of a public
+17 postsecondary education institution, is an individual participating in an
+18 optional retirement plan authorized by KRS 161.567; or is eligible to
+19 participate in a retirement plan established by an employer who ceases
+20 participating in the Kentucky Employees Retirement System pursuant to
+21 KRS 61.522 whose employees participated in the health insurance plans
+22 administered by the Personnel Cabinet prior to the employer's effective
+23 cessation date in the Kentucky Employees Retirement System, except
+24 that no employer who ceases participation in the state health
+25 insurance plan shall be eligible to participate in the state health
+26 insurance plan in the future;
+27 2. Any certified or classified employee of a local board of education or a
+Page 1 of 21
+XXXX 2/13/2025 9:27 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1132
+1 public charter school as defined in KRS 160.1590;
+2 3. Any elected member of a local board of education;
+3 4. Any person who is a present or future recipient of a retirement
+4 allowance from the Kentucky Retirement Systems, County Employees
+5 Retirement System, Kentucky Teachers' Retirement System, the
+6 Legislators' Retirement Plan, the Judicial Retirement Plan, or the
+7 Kentucky Community and Technical College System's optional
+8 retirement plan authorized by KRS 161.567, except that a person who is
+9 receiving a retirement allowance and who is age sixty-five (65) or older
+10 shall not be included, with the exception of persons covered under KRS
+11 61.702(2)(b)3. and 78.5536(2)(b)3., unless he or she is actively
+12 employed pursuant to subparagraph 1. of this paragraph; and
+13 5. Any eligible dependents and beneficiaries of participating employees
+14 and retirees who are entitled to participate in the state-sponsored health
+15 insurance program;
+16 (b) The term "health benefit plan" for the purposes of this section means a health
+17 benefit plan as defined in KRS 304.17A-005;
+18 (c) The term "insurer" for the purposes of this section means an insurer as defined
+19 in KRS 304.17A-005; and
+20 (d) The term "managed care plan" for the purposes of this section means a
+21 managed care plan as defined in KRS 304.17A-500.
+22 (2) (a) The secretary of the Finance and Administration Cabinet, upon the
+23 recommendation of the secretary of the Personnel Cabinet, shall procure, in
+24 compliance with the provisions of KRS 45A.080, 45A.085, and 45A.090,
+25 from one (1) or more insurers authorized to do business in this state, a group
+26 health benefit plan that may include but not be limited to health maintenance
+27 organization (HMO), preferred provider organization (PPO), point of service
+Page 2 of 21
+XXXX 2/13/2025 9:27 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1132
+1 (POS), and exclusive provider organization (EPO) benefit plans
+2 encompassing all or any class or classes of employees. With the exception of
+3 employers governed by the provisions of KRS Chapters 16, 18A, and 151B,
+4 all employers of any class of employees or former employees shall enter into
+5 a contract with the Personnel Cabinet prior to including that group in the state
+6 health insurance group. The contracts shall include but not be limited to
+7 designating the entity responsible for filing any federal forms, adoption of
+8 policies required for proper plan administration, acceptance of the contractual
+9 provisions with health insurance carriers or third-party administrators,
+10 requiring minimal participation duration, requiring participation in all
+11 employee benefits administered by the Personnel Cabinet pursuant to KRS
+12 18A.225 to 18A.2287, and adoption of the payment and reimbursement
+13 methods necessary for efficient administration of the health insurance
+14 program.
+15 (b) Health insurance coverage provided to state employees under this section
+16 shall, at a minimum:
+17 1. Provide minimum value in that the plan shall pay at least sixty percent
+18 (60%) of the total cost of in-network medical services for employees;
+19 2. Provide minimum essential coverage as defined in 26 U.S.C. sec.
+20 5000A(f);
+21 3. Not discriminate in favor of highly compensated individuals as
+22 prohibited by 26 U.S.C. sec 105(h); and
+23 4. [, contain the same benefits as provided under Kentucky Kare Standard
+24 as of January 1, 1994, and shall ]Include a mail-order drug option as
+25 provided in subsection (12)[(13)] of this section.
+26 (c) All employees and other persons for whom the health care coverage is
+27 provided or made available shall annually be given an option to elect health
+Page 3 of 21
+XXXX 2/13/2025 9:27 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1132
+1 care coverage through a self-funded plan offered by the Commonwealth or, if
+2 a self-funded plan is not available, from a list of coverage options determined
+3 by the competitive bid process under the provisions of KRS 45A.080,
+4 45A.085, and 45A.090 and made available during annual open enrollment.
+5 (d)[(b)] The policy or policies shall be approved by the commissioner of
+6 insurance and may contain the provisions the commissioner of insurance
+7 approves, whether or not otherwise permitted by the insurance laws.
+8 (e)[(c)] Any carrier bidding to offer health care coverage to employees shall
+9 agree to provide coverage to all members of the state group, including active
+10 employees and retirees and their eligible covered dependents and
+11 beneficiaries, within the county or counties specified in its bid. Except as
+12 provided in subsection (20) of this section, any carrier bidding to offer health
+13 care coverage to employees shall also agree to rate all employees as a single
+14 entity, except for those retirees whose former employers insure their active
+15 employees outside the state-sponsored health insurance program and as
+16 otherwise provided in KRS 61.702(2)(b)3.b. and 78.5536(2)(b)3.b.
+17 (f)[(d)] Any carrier bidding to offer health care coverage to employees shall
+18 agree to provide enrollment, claims, and utilization data to the
+19 Commonwealth in a format specified by the Personnel Cabinet with the
+20 understanding that the data shall be owned by the Commonwealth; to provide
+21 data in an electronic form and within a time frame specified by the Personnel
+22 Cabinet; and to be subject to penalties for noncompliance with data reporting
+23 requirements as specified by the Personnel Cabinet. The Personnel Cabinet
+24 shall take strict precautions to protect the confidentiality of each individual
+25 employee; however, confidentiality assertions shall not relieve a carrier from
+26 the requirement of providing stipulated data to the Commonwealth.
+27 (g)[(e)] The Personnel Cabinet shall develop the necessary techniques and
+Page 4 of 21
+XXXX 2/13/2025 9:27 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1132
+1 capabilities for timely analysis of data received from carriers and, to the
+2 extent possible, provide in the request-for-proposal specifics relating to data
+3 requirements, electronic reporting, and penalties for noncompliance. The
+4 Commonwealth shall own the enrollment, claims, and utilization data
+5 provided by each carrier and shall develop methods to protect the
+6 confidentiality of the individual. The Personnel Cabinet shall include in the
+7 October annual report submitted pursuant to the provisions of KRS 18A.226
+8 to the Governor, the General Assembly, and the Chief Justice of the Supreme
+9 Court, an analysis of the financial stability of the program, which shall include
+10 but not be limited to loss ratios, methods of risk adjustment, measurements of
+11 carrier quality of service, prescription coverage and cost management, and
+12 statutorily required mandates. If state self-insurance was available as a carrier
+13 option, the report also shall provide a detailed financial analysis of the self-
+14 insurance fund including but not limited to loss ratios, reserves, and
+15 reinsurance agreements.
+16 (h)[(f)] If any agency participating in the state-sponsored employee health
+17 insurance program for its active employees terminates participation and there
+18 is a state appropriation for the employer's contribution for active employees'
+19 health insurance coverage, then neither the agency nor the employees shall
+20 receive the state-funded contribution after termination from the state-
+21 sponsored employee health insurance program.
+22 (i)[(g)] Any funds in flexible spending accounts that remain after all
+23 reimbursements have been processed shall be transferred to the credit of the
+24 state-sponsored health insurance plan's appropriation account.
+25 (j)[(h)] Each entity participating in the state-sponsored health insurance
+26 program shall provide an amount at least equal to the state contribution rate
+27 for the employer portion of the health insurance premium. For any
+Page 5 of 21
+XXXX 2/13/2025 9:27 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1132
+1 participating entity that used the state payroll system, the employer
+2 contribution amount shall be equal to but not greater than the state
+3 contribution rate.
+4 (3) The premiums may be paid by the policyholder:
+5 (a) Wholly from funds contributed by the employee, by payroll deduction or
+6 otherwise;
+7 (b) Wholly from funds contributed by any department, board, agency, public
+8 postsecondary education institution, or branch of state, city, urban-county,
+9 charter county, county, or consolidated local government; or
+10 (c) Partly from each, except that any premium due for health care coverage,
+11 vision coverage, or dental coverage, if any, in excess of the premium amount
+12 contributed by any department, board, agency, postsecondary education
+13 institution, or branch of state, city, urban-county, charter county, county, or
+14 consolidated local government for any other health care coverage shall be
+15 paid by the employee.
+16 (4) If an employee moves his or her place of residence or employment out of the
+17 service area of an insurer offering a managed health care plan, under which he or
+18 she has elected coverage, into either the service area of another managed health care
+19 plan or into an area of the Commonwealth not within a managed health care plan
+20 service area, the employee shall be given an option, at the time of the move or
+21 transfer, to change his or her coverage to another health benefit plan.
+22 (5) No payment of premium by any department, board, agency, public postsecondary
+23 educational institution, or branch of state, city, urban-county, charter county,
+24 county, or consolidated local government shall constitute compensation to an
+25 insured employee for the purposes of any statute fixing or limiting the
+26 compensation of such an employee. Any premium or other expense incurred by any
+27 department, board, agency, public postsecondary educational institution, or branch
+Page 6 of 21
+XXXX 2/13/2025 9:27 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1132
+1 of state, city, urban-county, charter county, county, or consolidated local
+2 government shall be considered a proper cost of administration.
+3 (6) The policy or policies may contain the provisions with respect to the class or classes
+4 of employees covered, amounts of insurance or coverage for designated classes or
+5 groups of employees, policy options, terms of eligibility, and continuation of
+6 insurance or coverage after retirement.
+7 (7) Group rates under this section shall be made available to the disabled child of an
+8 employee regardless of the child's age if the entire premium for the disabled child's
+9 coverage is paid by the state employee. A child shall be considered disabled if he or
+10 she has been determined to be eligible for federal Social Security disability benefits.
+11 (8) The health care contract or contracts for employees shall be entered into for a
+12 period of not less than one (1) year.
+13 (9) [The secretary shall appoint thirty-two (32) persons to an Advisory Committee of
+14 State Health Insurance Subscribers to advise the secretary or the secretary's
+15 designee regarding the state-sponsored health insurance program for employees.
+16 The secretary shall appoint, from a list of names submitted by appointing
+17 authorities, members representing school districts from each of the seven (7)
+18 Supreme Court districts, members representing state government from each of the
+19 seven (7) Supreme Court districts, two (2) members representing retirees under age
+20 sixty-five (65), one (1) member representing local health departments, two (2)
+21 members representing the Kentucky Teachers' Retirement System, and three (3)
+22 members at large. The secretary shall also appoint two (2) members from a list of
+23 five (5) names submitted by the Kentucky Education Association, two (2) members
+24 from a list of five (5) names submitted by the largest state employee organization of
+25 nonschool state employees, two (2) members from a list of five (5) names submitted
+26 by the Kentucky Association of Counties, two (2) members from a list of five (5)
+27 names submitted by the Kentucky League of Cities, and two (2) members from a
+Page 7 of 21
+XXXX 2/13/2025 9:27 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1132
+1 list of names consisting of five (5) names submitted by each state employee
+2 organization that has two thousand (2,000) or more members on state payroll
+3 deduction. The advisory committee shall be appointed in January of each year and
+4 shall meet quarterly.
+5 (10) ]Notwithstanding any other provision of law to the contrary, the policy or policies
+6 provided to employees pursuant to this section shall not provide coverage for
+7 obtaining or performing an abortion, nor shall any state funds be used for the
+8 purpose of obtaining or performing an abortion on behalf of employees or their
+9 dependents.
+10 (10)[(11)] Interruption of an established treatment regime with maintenance drugs shall
+11 be grounds for an insured to appeal a formulary change through the established
+12 appeal procedures approved by the Department of Insurance, if the physician
+13 supervising the treatment certifies that the change is not in the best interests of the
+14 patient.
+15 (11)[(12)] Any employee who is eligible for and elects to participate in the state health
+16 insurance program as a retiree, or the spouse or beneficiary of a retiree, under any
+17 one (1) of the state-sponsored retirement systems shall not be eligible to receive the
+18 state health insurance contribution toward health care coverage as a result of any
+19 other employment for which there is a public employer contribution. This does not
+20 preclude a retiree and an active employee spouse from using both contributions to
+21 the extent needed for purchase of one (1) state sponsored health insurance policy
+22 for that plan year.
+23 (12)[(13)] (a) The policies of health insurance coverage procured under subsection (2)
+24 of this section shall include a mail-order drug option for maintenance drugs
+25 for state employees. Maintenance drugs may be dispensed by mail order in
+26 accordance with Kentucky law.
+27 (b) A health insurer shall not discriminate against any retail pharmacy located
+Page 8 of 21
+XXXX 2/13/2025 9:27 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1132
+1 within the geographic coverage area of the health benefit plan and that meets
+2 the terms and conditions for participation established by the insurer, including
+3 price, dispensing fee, and copay requirements of a mail-order option. The
+4 retail pharmacy shall not be required to dispense by mail.
+5 (c) The mail-order option shall not permit the dispensing of a controlled
+6 substance classified in Schedule II.
+7 (13)[(14)] The policy or policies provided to state employees or their dependents
+8 pursuant to this section shall provide coverage for obtaining a hearing aid and
+9 acquiring hearing aid-related services for insured individuals[ under eighteen (18)
+10 years of age,] subject to a limit[cap] of one (1) hearing aid per each hearing-
+11 impaired ear[thousand four hundred dollars ($1,400)] every thirty-six (36) months
+12 [pursuant to KRS 304.17A-132].
+13 (14)[(15)] Any policy provided to state employees or their dependents pursuant to this
+14 section shall provide coverage for the diagnosis and treatment of autism spectrum
+15 disorders consistent with KRS 304.17A-142.
+16 (15)[(16)] Any policy provided to state employees or their dependents pursuant to this
+17 section shall provide coverage for obtaining amino acid-based elemental formula
+18 pursuant to KRS 304.17A-258.
+19 (16)[(17) If a state employee's residence and place of employment are in the same
+20 county, and if the hospital located within that county does not offer surgical
+21 services, intensive care services, obstetrical services, level II neonatal services,
+22 diagnostic cardiac catheterization services, and magnetic resonance imaging
+23 services, the employee may select a plan available in a contiguous county that does
+24 provide those services, and the state contribution for the plan shall be the amount
+25 available in the county where the plan selected is located.
+26 (18) If a state employee's residence and place of employment are each located in
+27 counties in which the hospitals do not offer surgical services, intensive care
+Page 9 of 21
+XXXX 2/13/2025 9:27 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1132
+1 services, obstetrical services, level II neonatal services, diagnostic cardiac
+2 catheterization services, and magnetic resonance imaging services, the employee
+3 may select a plan available in a county contiguous to the county of residence that
+4 does provide those services, and the state contribution for the plan shall be the
+5 amount available in the county where the plan selected is located.
+6 (19) The Personnel Cabinet is encouraged to study whether it is fair and reasonable and
+7 in the best interests of the state group to allow any carrier bidding to offer health
+8 care coverage under this section to submit bids that may vary county by county or
+9 by larger geographic areas.
+10 (20) Notwithstanding any other provision of this section, the bid for proposals for health
+11 insurance coverage for calendar year 2004 shall include a bid scenario that reflects
+12 the statewide rating structure provided in calendar year 2003 and a bid scenario that
+13 allows for a regional rating structure that allows carriers to submit bids that may
+14 vary by region for a given product offering as described in this subsection:
+15 (a) The regional rating bid scenario shall not include a request for bid on a
+16 statewide option;
+17 (b) The Personnel Cabinet shall divide the state into geographical regions which
+18 shall be the same as the partnership regions designated by the Department for
+19 Medicaid Services for purposes of the Kentucky Health Care Partnership
+20 Program established pursuant to 907 KAR 1:705;
+21 (c) The request for proposal shall require a carrier's bid to include every county
+22 within the region or regions for which the bid is submitted and include but not
+23 be restricted to a preferred provider organization (PPO) option;
+24 (d) If the Personnel Cabinet accepts a carrier's bid, the cabinet shall award the
+25 carrier all of the counties included in its bid within the region. If the Personnel
+26 Cabinet deems the bids submitted in accordance with this subsection to be in
+27 the best interests of state employees in a region, the cabinet may award the
+Page 10 of 21
+XXXX 2/13/2025 9:27 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1132
+1 contract for that region to no more than two (2) carriers; and
+2 (e) Nothing in this subsection shall prohibit the Personnel Cabinet from including
+3 other requirements or criteria in the request for proposal.
+4 (21)] Any fully insured health benefit plan or self-insured plan issued or renewed on or
+5 after July 12, 2006, to public employees pursuant to this section which provides
+6 coverage for services rendered by a physician or osteopath duly licensed under KRS
+7 Chapter 311 that are within the scope of practice of an optometrist duly licensed
+8 under the provisions of KRS Chapter 320 shall provide the same payment of
+9 coverage to optometrists as allowed for those services rendered by physicians or
+10 osteopaths.
+11 (17) Except as authorized under this section and Section 2 of this Act, no provision of
+12 KRS Chapter 304 shall apply to the public employee health insurance program
+13 for public employees established under subsection (1) of Section 2 of this Act.
+14 (18)[(22)] Any fully insured health benefit plan or self-insured plan issued or renewed to
+15 public employees pursuant to this section shall comply with:
+16 (a) KRS 304.12-237;
+17 (b) KRS 304.17A-270 and 304.17A-525;
+18 (c) KRS 304.17A-600 to 304.17A-633;
+19 (d) KRS 205.593;
+20 (e) KRS 304.17A-700 to 304.17A-730;
+21 (f) KRS 304.14-135;
+22 (g) KRS 304.17A-580 and 304.17A-641;
+23 (h) KRS 304.99-123;
+24 (i) KRS 304.17A-138;
+25 (j) KRS 304.17A-148;
+26 (k) KRS 304.17A-163 and 304.17A-1631;
+27 (l) KRS 304.17A-265;
+Page 11 of 21
+XXXX 2/13/2025 9:27 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1132
+1 (m) KRS 304.17A-261;
+2 (n) KRS 304.17A-262;
+3 (o) KRS 304.17A-145;
+4 (p) KRS 304.17A-129;
+5 (q) KRS 304.17A-133;
+6 (r) KRS 304.17A-264; and
+7 (s) Administrative regulations promulgated pursuant to statutes listed in this
+8 subsection.
+9 (23) (a) Any fully insured health benefit plan or self-insured plan issued or renewed to
+10 public employees pursuant to this section shall provide a special enrollment
+11 period to pregnant women who are eligible for coverage in accordance with
+12 the requirements set forth in KRS 304.17-182.
+13 (b) The Department of Employee Insurance shall, at or before the time a public
+14 employee is initially offered the opportunity to enroll in the plan or coverage,
+15 provide the employee a notice of the special enrollment rights under this
+16 subsection.
+17 Section 2. KRS 18A.2254 is amended to read as follows:
+18 (1) Based on the recommendation of the secretary of the Personnel Cabinet, the
+19 secretary of the Finance and Administration Cabinet, in lieu of contracting with one
+20 (1) or more insurers licensed to do business in this state, shall procure, in
+21 compliance with KRS 45A.080, 45A.085, and 45A.090, and reviewed by the
+22 Government Contract Review Committee pursuant to KRS 45A.705, a contract
+23 with one (1) or more third-party administrators licensed to do business in the
+24 Commonwealth pursuant to KRS 304.9-052 to administer a self-insured plan
+25 offered to the Public Employee Health Insurance Program for public employees.
+26 The requirements for the self-insured plan shall be as follows:
+27 (a) 1. The secretary of the Personnel Cabinet shall incorporate by reference in
+Page 12 of 21
+XXXX 2/13/2025 9:27 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1132
+1 an administrative regulation, pursuant to KRS 13A.2251, the plan year
+2 handbook distributed by the Department of Employee Insurance in the
+3 Personnel Cabinet to public employees covered under the self-insured
+4 plan. The plan year handbook shall contain, at a minimum, the
+5 premiums, employee contributions, employer contributions, and a
+6 summary of benefits, copays, coinsurance, and deductibles for each plan
+7 provided to public employees covered under the self-insured plan;
+8 2. Notwithstanding any other provision of KRS Chapter 18A to the
+9 contrary, the administrative regulation shall not be subject to review by
+10 the Personnel Board prior to filing the administrative regulation with the
+11 Legislative Research Commission; and
+12 3. The secretary of the Personnel Cabinet shall file the administrative
+13 regulation for the self-insured plan with the Legislative Research
+14 Commission on or before September 15 of the year before each new
+15 plan year begins;
+16 (b) The self-insured plan offered by the program shall cover hospice care at least
+17 equal to the Medicare benefit;
+18 (c) The Personnel Cabinet shall provide written notice of any formulary change
+19 to employees covered under the self-insured plan who are directly impacted
+20 by the formulary change and to the Kentucky Group Health Insurance Board
+21 fifteen (15) days before implementation of any formulary change. If, after
+22 consulting with his or her physician, the employee still disagrees with the
+23 formulary change, the employee shall have the right to appeal the change. The
+24 employee shall have sixty (60) days from the date of the notice of the
+25 formulary change to file an appeal with the Personnel Cabinet. The cabinet
+26 shall render a decision within thirty (30) days from the receipt of the request
+27 for an appeal. After a final decision is rendered by the Personnel Cabinet, the
+Page 13 of 21
+XXXX 2/13/2025 9:27 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1132
+1 employee shall have a right to file an appeal pursuant to the utilization review
+2 statutes in KRS 304.17A-600 to 304.17A-633. During the appeal process, the
+3 employee shall have the right to continue to take any drug prescribed by his or
+4 her physician that is the subject of the formulary changes;
+5 (d) The Personnel Cabinet shall develop the necessary capabilities to ensure that
+6 an independent review of each formulary change is conducted and includes
+7 but is not limited to an evaluation of the fiscal impact and therapeutic benefit
+8 of the formulary change. The independent review shall be conducted by
+9 knowledgeable medical professionals and the results of the independent
+10 review shall be posted on the website[Web sites] of the Personnel Cabinet[
+11 and the Cabinet for Health and Family Services] and made available to the
+12 public upon request within thirty (30) days of the notice from the Personnel
+13 Cabinet required in paragraph (c) of this subsection;
+14 (e) If the self-insured plan restricts pharmacy benefits to a drug formulary, the
+15 plan shall comply with and have an exceptions policy in accordance with KRS
+16 304.17A-535;
+17 (f) Premiums for all plans offered by the Public Employee Health Insurance
+18 Program to employees shall be based on the experience of the entire group;
+19 (g) The plan year for the Public Employee Health Insurance Program, whether for
+20 fully insured or self-insured benefits, shall be on a calendar year basis; and
+21 (h) The self-insured plan shall comply with subsection (4) of this section.
+22 (2) (a) 1. In addition to any fully insured health benefit plans or self-insured
+23 plans, beginning January 1, 2015, the Personnel Cabinet shall offer a
+24 health reimbursement account or health flexible spending account for
+25 public employees insured under the Public Employee Health Insurance
+26 Program.
+27 2. The Personnel Cabinet may offer a health savings account in
+Page 14 of 21
+XXXX 2/13/2025 9:27 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1132
+1 conjunction with a high deductible health plan option as defined by 26
+2 U.S.C. sec. 223(c)(2) or as an optional account to which the Personnel
+3 Cabinet may deposit funds of an employee who waives coverage in
+4 accordance with paragraph (b) of this subsection, provided the employee
+5 who waives coverage is eligible to contribute to a health savings
+6 account.
+7 (b) If a public employee waives coverage provided by his or her employer under
+8 the Public Employee Health Insurance Program, the employer shall forward a
+9 monthly amount to be determined by the secretary of the Personnel Cabinet
+10 for that employee as an employer contribution to an employee's[the] health
+11 reimbursement account, health savings account, or health flexible spending
+12 account, but not less than one hundred seventy-five dollars ($175) per month,
+13 subject to any conditions or limitations imposed by the secretary to comply
+14 with applicable federal law. The type of account for waiver of funding
+15 during a plan year shall be at the discretion of the Personnel Cabinet.
+16 (c) The administrative fees associated with the employee's health savings
+17 account, health reimbursement account, or health flexible spending account
+18 shall be an authorized expense to be charged to the public employee health
+19 insurance trust fund.
+20 (3) (a) The public employee health insurance trust fund is established in the
+21 Personnel Cabinet. The purpose of the public employee health insurance trust
+22 fund is to provide funds to pay medical claims and other costs associated with
+23 the administration of the Public Employee Health Insurance Program self-
+24 insured plan under a competitively bid contract as provided by KRS Chapter
+25 45A and reviewed by the Government Contract Review Committee pursuant
+26 to KRS 45A.705. Unless authorized by the General Assembly, the trust fund
+27 shall not utilize funds for any other purpose and the trust fund receipts from
+Page 15 of 21
+XXXX 2/13/2025 9:27 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1132
+1 prior plan years shall not be used to pay claims and expenses for current or
+2 subsequent plan years, except as provided by paragraph (b) of this subsection.
+3 (b) In the event of a projected deficit in the trust fund balance of a prior plan year,
+4 the secretary of the Finance and Administration Cabinet may declare an
+5 emergency and transfer up to twenty-five percent (25%) of another prior plan
+6 year's balance to that plan year, provided the Governor, all members of the
+7 General Assembly, and Legislative Research Commission are notified at least
+8 thirty (30) days prior to the transfer. The Legislative Research Commission
+9 shall refer the notice to appropriate committees of jurisdiction for their
+10 review.
+11 (c) The following moneys shall be directly deposited into the trust fund:
+12 1. Employer and employee premiums collected under the self-insured plan;
+13 2. Interest and investment returns earned by the self-insured plan;
+14 3. Rebates and refunds attributed to the self-insured plan; and
+15 4. All other receipts attributed to the self-insured plan.
+16 (d) Any balance remaining in the public employee health insurance trust fund at
+17 the end of a fiscal year shall not lapse. Any balance remaining at the end of a
+18 fiscal year shall be carried forward to the next fiscal year and be used solely
+19 for the purpose established in paragraphs (a) and (b) of this subsection. The
+20 balance of funds in the public employee health insurance trust fund shall be
+21 invested by the Office of Financial Management consistent with the
+22 provisions of KRS Chapter 42, and interest income shall be credited to the
+23 trust fund. Any balance for a specific plan year and any subsequent interest
+24 income for that specific plan year shall be accounted for separately.
+25 (e) The Auditor of Public Accounts shall be responsible for a financial audit of
+26 the books and records of the trust fund. The audit shall be conducted in
+27 accordance with generally accepted accounting principles and shall be
+Page 16 of 21
+XXXX 2/13/2025 9:27 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1132
+1 completed within ninety (90) days of the close of the fiscal year. All audit
+2 reports shall be filed with the Governor, the President of the Senate, the
+3 Speaker of the House of Representatives, and the secretary of the Personnel
+4 Cabinet.
+5 (f) The secretary of the Personnel Cabinet shall send[file] a quarterly report on
+6 the status of the trust fund to[with] the Governor, the Interim Joint Committee
+7 on Appropriations and Revenue, and the Kentucky Group Health Insurance
+8 Board[, and the Advisory Committee of State Health Insurance Subscribers].
+9 The quarterly[first status report shall be submitted no later than July 30, 2006,
+10 and subsequent] reports shall be submitted no later than sixty (60) days
+11 following the end of each calendar quarter. The report shall include the
+12 following:
+13 1. The current balance of the trust fund and the amount of the balance
+14 associated with each plan year;
+15 2. A detailed description of all income to the trust fund since the last
+16 report;
+17 3. A detailed description of any receipts due to the trust fund;
+18 4. A total amount of payments made for medical and pharmacy claims
+19 from the trust fund by plan year;
+20 5. A detailed description of all payments made to the third-party
+21 administrator of the self-insured plan by the trust fund;
+22 6. Current enrollment data, including monthly enrollment since the last
+23 report, of the Public Employee Health Insurance Program self-insured
+24 plan;
+25 7. Any other information the secretary may include;
+26 8. Any other information requested by the Interim Joint Committee on
+27 Appropriations and Revenue concerning the operation of the Public
+Page 17 of 21
+XXXX 2/13/2025 9:27 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1132
+1 Employee Health Insurance Program self-funded plan or the trust fund;
+2 and
+3 9. In addition to the information required under subparagraphs 1. to 8. of
+4 this paragraph, the quarterly report for quarters ending June 30 and
+5 December 31[filed in July and January] shall also include the following:
+6 a. A projection of the medical claims incurred but not yet reported
+7 that are considered liabilities to the trust fund;
+8 b. A statement of any other trust fund liabilities;
+9 c. A detailed calculation outlining proposed premium rates for the
+10 next plan year, including base claims, trend assumptions,
+11 administrative fees, and any proposed plan or benefit changes;
+12 d. A detailed description of the current in-state and out-of-state
+13 networks provided under the plan, any changes to the networks
+14 since the last report, and any proposed changes to the in-state or
+15 out-of-state networks during the next six (6) months; and
+16 e. Specific data regarding the third-party administrator's performance
+17 under the contract. The data shall include the following:
+18 i. Any results or outcomes of disease management and
+19 wellness programs;
+20 ii. Results of case management audits and educational and
+21 communication efforts; and
+22 iii. Comparison of actual measurable results to contract
+23 performance guarantees.
+24 (4) (a) Any fully insured health benefit plan, self-insured plan, or other health plan,
+25 as defined in KRS 304.17A-591, offered, issued, or renewed to public
+26 employees under this section or KRS 18A.225 shall comply with KRS
+27 304.17A-591 to 304.17A-599, including any state cabinet, agency, or official
+Page 18 of 21
+XXXX 2/13/2025 9:27 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1132
+1 that contracts with a third-party administrator to administer any self-insured
+2 plan offered, issued, or renewed to public employees under this section or
+3 KRS 18A.225.
+4 (b) The plan or plans referred to in paragraph (a) of this subsection shall be filed
+5 with the commissioner of the Department of Insurance, and the commissioner
+6 shall review the plan or plans in accordance with KRS 304.14-120(6).
+7 Section 3. KRS 18A.226 is amended to read as follows:
+8 (1) To provide quality, affordable health insurance coverage so that the Commonwealth
+9 can attract and retain able and dedicated public employees, and to facilitate the need
+10 for comprehensive and efficient planning, implementation, and administration of a
+11 state employee health insurance program in order to meet this goal, the Kentucky
+12 Group Health Insurance Board is created. The board shall be attached to the
+13 Personnel Cabinet for administrative purposes only. The board shall consist of
+14 thirteen (13) members as follows:
+15 (a) The secretary of the Finance and Administration Cabinet;
+16 (b) The secretary of the Personnel Cabinet;
+17 (c) The state budget director;
+18 (d) The commissioner of education;
+19 (e) [The chair of the Advisory Committee of State Health Insurance Subscribers;
+20 (f) ]The commissioner of insurance, ex officio;
+21 (f)[(g)] The Auditor of Public Accounts, ex officio;
+22 (g)[(h)] The Director of the Administrative Office of the Courts, or his or her
+23 designee;
+24 (h) One (1) employee of the Kentucky Public Pensions Authority appointed by
+25 the Kentucky Public Pensions Authority, who shall serve a term of two (2)
+26 years;
+27 (i) One (1) retired state employee appointed by the Kentucky Retirement
+Page 19 of 21
+XXXX 2/13/2025 9:27 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1132
+1 Systems, who shall serve an initial term of one (1) year;
+2 (j) One (1) retired teacher appointed by the Teachers' Retirement System, who
+3 shall serve an initial term of two (2) years;
+4 (k) One (1) active teacher appointed by the organization with the largest number
+5 of teacher members on payroll deduction, who shall serve an initial term of
+6 one (1) year;
+7 (l) One (1) active state employee appointed by the organization with the largest
+8 number of state employee members on payroll deduction, who shall serve an
+9 initial term of two (2) years; and
+10 (m) One (1) active classified education support employee appointed by the
+11 organization with the largest number of classified education support employee
+12 members on payroll deduction, who shall serve an initial term of one (1) year.
+13 As each appointed member's term expires, the vacancy created shall be filled by the
+14 appointing authority for that position for a term of two (2) years. An appointment to
+15 fill an unexpired term of an appointed member shall be made by the designated
+16 appointing authority for the remainder of the term. Appointed terms shall begin
+17 effective October 1.
+18 (2) The members of the board shall elect from among its members a chair and a vice
+19 chair.
+20 (3) Regular meetings of the board shall be held at least once every month at a place,
+21 day, and time determined by the board. Special meetings of the board shall be held
+22 when needed as determined by the chair. If seven (7) or more members of the board
+23 request in writing that the chair call a special meeting, the chair shall call a special
+24 meeting. The meetings shall operate in accordance with the provisions of[ the Open
+25 Meetings Law under] KRS 61.805 to 61.850.
+26 (4) Members of the board shall receive reimbursement for necessary expenses for
+27 attendance at official board meetings or public hearings.
+Page 20 of 21
+XXXX 2/13/2025 9:27 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1132
+1 (5) The Kentucky Group Health Insurance Board shall:
+2 (a) Engage in analyses and research to identify the factors and parameters that
+3 affect the state group health insurance program;
+4 (b) Develop and transmit[, by October 1 of each year beginning October 1, 2001,]
+5 to the Governor, the General Assembly, and the Chief Justice of the Supreme
+6 Court[,] the annual report by January 31 of each year and shall contain, at
+7 a minimum, the following information:
+8 1. Policy recommendations regarding benefit options and management of the
+9 state group health insurance program;[ and
+10 (c) Provide in the first report, due by October 1, 2001, the following:]
+11 2.[1.] Analysis and discussion of methods used by all other states to provide
+12 health insurance benefits to their state group;[ and]
+13 3.[2.] Analysis and discussion of the cost, enrollment, claims, and utilization
+14 data for calendar year 2000 on the Kentucky state group; and
+15 4.[3.] Recommendations including but not limited to appropriate structures for
+16 the state contribution rate which shall include recommendations on
+17 increasing the state contribution to provide support for dependent
+18 coverage, possible methods to mitigate adverse selection, competitive
+19 plan designs by type and benefit options, the feasibility of a state self-
+20 insurance plan, and strategies for evaluating third-party administrators
+21 and vendors.
+22 Section 4. The following KRS section is repealed:
+23 18A.2255 Health benefit plans and other information to be submitted to Advisory
+24 Committee of State Health Insurers -- Approval or recommendations for changes --
+25 Committee to advise on options, bids, administration, and drug formulary -- Written
+26 report or testimony.
+Page 21 of 21
+XXXX 2/13/2025 9:27 AM Jacketed
+[DELETED:   2  J A B S ( ( T 1 A p i a e p o w i r e g a c u c c c o c l g s i a b t s i b n l t t K R T R S t L R P o J t s t a r p o i t c o a p p o p p K a c t n e w c p i t s h i p s b e t p i t s h i 2 A]
+[DELETED:   2  J p 3 A 4 A p w i a p o f r o a r a R S K T R S t L R P t J R P o t K C a T C S o r r s 6 a 7 u h o s i a e 5 A e d a b o p e a i ( T b ( T i ( T t " c p f t p o t s m a m ( ( T s o t F a A C u t r c w t p o K 4 4 a 4 f h o]
+[DELETED:   2  J ( a e p o ( b p e e a a h i g T c s i b n b l t d t e r f f a f f a o p p w h i c o t a r m p d r p i a e 1 t 1 a a o t p a r m n f e a o t h i p ( H i c p t s e u t s s 1 P ( 2 P m e c a d i 2 U s 5 3 N d i f o h c i a p 4 [ a p ( A e a o p f w t h c c i p]
+[DELETED:   2  J c a b t c b p u t p o K 4 4 ( T p o p s b a b t c o i a m c t p t c o i a ( A c b t o h c c t e s a e a r a t e c d a b w t c o c s i i b E a p c e e o t s h i p a a o ( A c b t o h c c t e s a t p e c a u d t t C i a f s b t P C w t u d C r s e t ( T P C s d t n t a]
+[DELETED:   2  J c f t a o d r f c a t t e r e r a p f n T C s o t e c a u d p b e c a s d m t p t c O t C b c q o s p c a c m a s o i f i b n l t l r r a r ( I a a p i t s e h i i h t r t s c a t f t s s ( A f i f s a t r a a r s ( E e p i t s h i p f t e p o t h i p F a]
+[DELETED:   2  J p e t u t s p s t e c a s b e t b n g t t s c ( T ( W f f c b t e b p d o o ( W f f c b a d b a p p e i o b o s c u c ( P f e e t a p d f h c c v c b a d b a p e i c l g f a o h c c s b p ( I a e m h o h p o r o e o o t s s p s a t e s b g a o a t o o t ( N e i o b o s c u c c c o c l g s c c t a i e f t p o a s f o l t c d]
+[DELETED:   2  J o s c u c c c o c l g ( T o g o e p o t o e a c o i ( G e c s ( T h c c o c f e s b e i f a p ( [ S H I S t a t s o t s d r t s h i p f e T s s a f a l o n s b a a m r s d f e o t s ( S s s ( o ( m r l h d t ( m r t K T R S a t ( m f f n b n]
+[DELETED:   2  J l o n c o f ( n s b e s e o t h t t ( o m m o s p d s ( ] p t e p t t s s n p c f o o p a a n s a s f b u f t p o o p a a o b o o d ( I b g f i t a a f c t t e a p a b t D o I i t p s p ( A i o s o p t f ( ( T o f a ( A h i n d a a r p l]
+[DELETED:   2  J w t p d f a c r o a m o T r ( T m o s n p t d o a c s ( T p o p p t s e o t d p t t s s p c f o a h a a a y o a s t a l o o ( h a p e h i [ ( A s d ( A s p ( I a s e r a p o e a i t s c a i t h l w t c d n o s s i c s o s l I n s d c c s a m r i s p a ( I a s e r a p o e a e l i c i w t h d n o s s i c]
+[DELETED:   2  J s o s l I n s d c c s a m r i s t e m d p t s a t s c f t p s b t a ( T i c b ( N i t a v ( T r r b s s n i a r f b o a s ( T s M S f p o t K H C P P ( T w b ( I c C t]
+[DELETED:   2  J c ( N o ( a c C u t p o K C 3 s p t s p o c r o ( E K f ( A p ( K ( K ( K ( K ( K ( K ( K ( K ( K ( K ( K ( K]
+[DELETED:   2  J ( K ( K ( K ( K ( K ( K ( A r p p t s l i t s ( ( A p p t ( T e p t e a n o t s e r u t s S ( B o t r o t s o t P C t s ( o m i l t d b i t s s p i c w K 4 4 a 4 a r b t G C R C p t K 4 a c w o ( o m t a l t d b i t C p t K 3 t a a s p o T ( 1 T]
+[DELETED:   2  J a h P p T p y h s c a a m t p e c e c a a s p 2 N a o p o K C 1 t t c t L 3 T s o t P C s f t a r f t s p w t L R C o o S o y e n p ( T e ( T t b f ( d b i o a f c I a c w h o h p t e s d w t f e s h s ( d f t d o t n o t f s f]
+[DELETED:   2  J e s e h ( T a b o t f c T i r s b c b k m p a t r o t i r a p C ( I p 3 ( P f a p o b t P E H I P ( T f ( T ( ( 1 I a t a f i h b p o s p h r a o f s a f p P 2 T P C m o a h s a i]
+[DELETED:   2  J c U C m d f o a e w w c i a w w c i e t c t a h s a ( I t m f r a s w a f l T t o a f w o f d ( T a f a w t e h s a s i ( ( T p e h i t f i e i t P f t a o t P E H I P s i 4 t s]
+[DELETED:   2  J p s ( I t s o t F a A C m d a e y G t s r t n t a c o j f t r ( T 1 E 2 I 3 R 4 A ( A t f f b i b t O o F M c w t p t i ( T t b a r o t t f T a s b c i a w g a a p a s b]
+[DELETED:   2  J c r s b f w t G t P o t S t S C ( T t o B T a s r s b s n l t s ( d f t e o e c q T r s i t f 1 T c b o t t f a t a o t b a 2 A d d o a i t t t f s t l r 3 A 4 A t a o p m f m a p c f 5 A d d o a p m t t t a 6 C e d i m e s t l r p 7 A 8 A o i r b t I J C o A a R c t o o t P]
+[DELETED:   2  J E a 9 I t f D a A t b A c A d c o p p r f t n p y i b c t a a d A d d o t c i a o n p u t p a c t t n s o e S u i A r o o o d m a w i R o c m a a e a c i C o a m r t c p ( ( A a d i K 3 o i o r t p e u t s o K 1 s c w K 3]
+[DELETED:   2  J t p o i o r t p e u s o K ( T w s S ( T c f s G H I B i c T b s b a t t P C f a p o T b s c o t ( T ( T ( T ( T ( [ ( ] ( T ( T d ( O t y ( O ( r s e a b t K R]
+[DELETED:   2  J S ( O s ( O o o ( O n i ( O ( a c e s e a b t o m  A a f a a f t r o t t A t s b e ( T c ( R d w r m M ( M o t b s r r f n e f a]
+[DELETED:   2  J ( T ( E a ( D t C a 1 P r r b o a m o t s ( P 2 h 3 d 4 t s c r w s i r o i t s c t p s f d c p m t m a s c p i a S 1 b p a o i t b s t A C C r]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS BR 1132
+1 AN ACT relating to state employee health insurance.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 18A.225 is amended to read as follows:
+4 (1) (a) The term "employee" for purposes of this section means:
+5 1. Any person, including an elected public official, who is regularly
+6 employed by any department, office, board, agency, or branch of state
+7 government; or by a public postsecondary educational institution; or by
+8 any city, urban-county, charter county, county, or consolidated local
+9 government, whose legislative body has opted to participate in the state-
+10 sponsored health insurance program pursuant to KRS 79.080; and who
+11 is either a contributing member to any one (1) of the retirement systems
+12 administered by the state, including but not limited to the Kentucky
+13 Retirement Systems, County Employees Retirement System, Kentucky
+14 Teachers' Retirement System, the Legislators' Retirement Plan, or the
+15 Judicial Retirement Plan; or is receiving a contractual contribution from
+16 the state toward a retirement plan; or, in the case of a public
+17 postsecondary education institution, is an individual participating in an
+18 optional retirement plan authorized by KRS 161.567; or is eligible to
+19 participate in a retirement plan established by an employer who ceases
+20 participating in the Kentucky Employees Retirement System pursuant to
+21 KRS 61.522 whose employees participated in the health insurance plans
+22 administered by the Personnel Cabinet prior to the employer's effective
+23 cessation date in the Kentucky Employees Retirement System, except
+24 that no employer who ceases participation in the state health
+25 insurance plan shall be eligible to participate in the state health
+26 insurance plan in the future;
+27 2. Any certified or classified employee of a local board of education or a
+Page 1 of 21
+XXXX 2/13/2025 9:27 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1132
+1 public charter school as defined in KRS 160.1590;
+2 3. Any elected member of a local board of education;
+3 4. Any person who is a present or future recipient of a retirement
+4 allowance from the Kentucky Retirement Systems, County Employees
+5 Retirement System, Kentucky Teachers' Retirement System, the
+6 Legislators' Retirement Plan, the Judicial Retirement Plan, or the
+7 Kentucky Community and Technical College System's optional
+8 retirement plan authorized by KRS 161.567, except that a person who is
+9 receiving a retirement allowance and who is age sixty-five (65) or older
+10 shall not be included, with the exception of persons covered under KRS
+11 61.702(2)(b)3. and 78.5536(2)(b)3., unless he or she is actively
+12 employed pursuant to subparagraph 1. of this paragraph; and
+13 5. Any eligible dependents and beneficiaries of participating employees
+14 and retirees who are entitled to participate in the state-sponsored health
+15 insurance program;
+16 (b) The term "health benefit plan" for the purposes of this section means a health
+17 benefit plan as defined in KRS 304.17A-005;
+18 (c) The term "insurer" for the purposes of this section means an insurer as defined
+19 in KRS 304.17A-005; and
+20 (d) The term "managed care plan" for the purposes of this section means a
+21 managed care plan as defined in KRS 304.17A-500.
+22 (2) (a) The secretary of the Finance and Administration Cabinet, upon the
+23 recommendation of the secretary of the Personnel Cabinet, shall procure, in
+24 compliance with the provisions of KRS 45A.080, 45A.085, and 45A.090,
+25 from one (1) or more insurers authorized to do business in this state, a group
+26 health benefit plan that may include but not be limited to health maintenance
+27 organization (HMO), preferred provider organization (PPO), point of service
+Page 2 of 21
+XXXX 2/13/2025 9:27 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1132
+1 (POS), and exclusive provider organization (EPO) benefit plans
+2 encompassing all or any class or classes of employees. With the exception of
+3 employers governed by the provisions of KRS Chapters 16, 18A, and 151B,
+4 all employers of any class of employees or former employees shall enter into
+5 a contract with the Personnel Cabinet prior to including that group in the state
+6 health insurance group. The contracts shall include but not be limited to
+7 designating the entity responsible for filing any federal forms, adoption of
+8 policies required for proper plan administration, acceptance of the contractual
+9 provisions with health insurance carriers or third-party administrators,
+10 requiring minimal participation duration, requiring participation in all
+11 employee benefits administered by the Personnel Cabinet pursuant to KRS
+12 18A.225 to 18A.2287, and adoption of the payment and reimbursement
+13 methods necessary for efficient administration of the health insurance
+14 program.
+15 (b) Health insurance coverage provided to state employees under this section
+16 shall, at a minimum:
+17 1. Provide minimum value in that the plan shall pay at least sixty percent
+18 (60%) of the total cost of in-network medical services for employees;
+19 2. Provide minimum essential coverage as defined in 26 U.S.C. sec.
+20 5000A(f);
+21 3. Not discriminate in favor of highly compensated individuals as
+22 prohibited by 26 U.S.C. sec 105(h); and
+23 4. [, contain the same benefits as provided under Kentucky Kare Standard
+24 as of January 1, 1994, and shall ]Include a mail-order drug option as
+25 provided in subsection (12)[(13)] of this section.
+26 (c) All employees and other persons for whom the health care coverage is
+27 provided or made available shall annually be given an option to elect health
+Page 3 of 21
+XXXX 2/13/2025 9:27 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1132
+1 care coverage through a self-funded plan offered by the Commonwealth or, if
+2 a self-funded plan is not available, from a list of coverage options determined
+3 by the competitive bid process under the provisions of KRS 45A.080,
+4 45A.085, and 45A.090 and made available during annual open enrollment.
+5 (d)[(b)] The policy or policies shall be approved by the commissioner of
+6 insurance and may contain the provisions the commissioner of insurance
+7 approves, whether or not otherwise permitted by the insurance laws.
+8 (e)[(c)] Any carrier bidding to offer health care coverage to employees shall
+9 agree to provide coverage to all members of the state group, including active
+10 employees and retirees and their eligible covered dependents and
+11 beneficiaries, within the county or counties specified in its bid. Except as
+12 provided in subsection (20) of this section, any carrier bidding to offer health
+13 care coverage to employees shall also agree to rate all employees as a single
+14 entity, except for those retirees whose former employers insure their active
+15 employees outside the state-sponsored health insurance program and as
+16 otherwise provided in KRS 61.702(2)(b)3.b. and 78.5536(2)(b)3.b.
+17 (f)[(d)] Any carrier bidding to offer health care coverage to employees shall
+18 agree to provide enrollment, claims, and utilization data to the
+19 Commonwealth in a format specified by the Personnel Cabinet with the
+20 understanding that the data shall be owned by the Commonwealth; to provide
+21 data in an electronic form and within a time frame specified by the Personnel
+22 Cabinet; and to be subject to penalties for noncompliance with data reporting
+23 requirements as specified by the Personnel Cabinet. The Personnel Cabinet
+24 shall take strict precautions to protect the confidentiality of each individual
+25 employee; however, confidentiality assertions shall not relieve a carrier from
+26 the requirement of providing stipulated data to the Commonwealth.
+27 (g)[(e)] The Personnel Cabinet shall develop the necessary techniques and
+Page 4 of 21
+XXXX 2/13/2025 9:27 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1132
+1 capabilities for timely analysis of data received from carriers and, to the
+2 extent possible, provide in the request-for-proposal specifics relating to data
+3 requirements, electronic reporting, and penalties for noncompliance. The
+4 Commonwealth shall own the enrollment, claims, and utilization data
+5 provided by each carrier and shall develop methods to protect the
+6 confidentiality of the individual. The Personnel Cabinet shall include in the
+7 October annual report submitted pursuant to the provisions of KRS 18A.226
+8 to the Governor, the General Assembly, and the Chief Justice of the Supreme
+9 Court, an analysis of the financial stability of the program, which shall include
+10 but not be limited to loss ratios, methods of risk adjustment, measurements of
+11 carrier quality of service, prescription coverage and cost management, and
+12 statutorily required mandates. If state self-insurance was available as a carrier
+13 option, the report also shall provide a detailed financial analysis of the self-
+14 insurance fund including but not limited to loss ratios, reserves, and
+15 reinsurance agreements.
+16 (h)[(f)] If any agency participating in the state-sponsored employee health
+17 insurance program for its active employees terminates participation and there
+18 is a state appropriation for the employer's contribution for active employees'
+19 health insurance coverage, then neither the agency nor the employees shall
+20 receive the state-funded contribution after termination from the state-
+21 sponsored employee health insurance program.
+22 (i)[(g)] Any funds in flexible spending accounts that remain after all
+23 reimbursements have been processed shall be transferred to the credit of the
+24 state-sponsored health insurance plan's appropriation account.
+25 (j)[(h)] Each entity participating in the state-sponsored health insurance
+26 program shall provide an amount at least equal to the state contribution rate
+27 for the employer portion of the health insurance premium. For any
+Page 5 of 21
+XXXX 2/13/2025 9:27 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1132
+1 participating entity that used the state payroll system, the employer
+2 contribution amount shall be equal to but not greater than the state
+3 contribution rate.
+4 (3) The premiums may be paid by the policyholder:
+5 (a) Wholly from funds contributed by the employee, by payroll deduction or
+6 otherwise;
+7 (b) Wholly from funds contributed by any department, board, agency, public
+8 postsecondary education institution, or branch of state, city, urban-county,
+9 charter county, county, or consolidated local government; or
+10 (c) Partly from each, except that any premium due for health care coverage,
+11 vision coverage, or dental coverage, if any, in excess of the premium amount
+12 contributed by any department, board, agency, postsecondary education
+13 institution, or branch of state, city, urban-county, charter county, county, or
+14 consolidated local government for any other health care coverage shall be
+15 paid by the employee.
+16 (4) If an employee moves his or her place of residence or employment out of the
+17 service area of an insurer offering a managed health care plan, under which he or
+18 she has elected coverage, into either the service area of another managed health care
+19 plan or into an area of the Commonwealth not within a managed health care plan
+20 service area, the employee shall be given an option, at the time of the move or
+21 transfer, to change his or her coverage to another health benefit plan.
+22 (5) No payment of premium by any department, board, agency, public postsecondary
+23 educational institution, or branch of state, city, urban-county, charter county,
+24 county, or consolidated local government shall constitute compensation to an
+25 insured employee for the purposes of any statute fixing or limiting the
+26 compensation of such an employee. Any premium or other expense incurred by any
+27 department, board, agency, public postsecondary educational institution, or branch
+Page 6 of 21
+XXXX 2/13/2025 9:27 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1132
+1 of state, city, urban-county, charter county, county, or consolidated local
+2 government shall be considered a proper cost of administration.
+3 (6) The policy or policies may contain the provisions with respect to the class or classes
+4 of employees covered, amounts of insurance or coverage for designated classes or
+5 groups of employees, policy options, terms of eligibility, and continuation of
+6 insurance or coverage after retirement.
+7 (7) Group rates under this section shall be made available to the disabled child of an
+8 employee regardless of the child's age if the entire premium for the disabled child's
+9 coverage is paid by the state employee. A child shall be considered disabled if he or
+10 she has been determined to be eligible for federal Social Security disability benefits.
+11 (8) The health care contract or contracts for employees shall be entered into for a
+12 period of not less than one (1) year.
+13 (9) [The secretary shall appoint thirty-two (32) persons to an Advisory Committee of
+14 State Health Insurance Subscribers to advise the secretary or the secretary's
+15 designee regarding the state-sponsored health insurance program for employees.
+16 The secretary shall appoint, from a list of names submitted by appointing
+17 authorities, members representing school districts from each of the seven (7)
+18 Supreme Court districts, members representing state government from each of the
+19 seven (7) Supreme Court districts, two (2) members representing retirees under age
+20 sixty-five (65), one (1) member representing local health departments, two (2)
+21 members representing the Kentucky Teachers' Retirement System, and three (3)
+22 members at large. The secretary shall also appoint two (2) members from a list of
+23 five (5) names submitted by the Kentucky Education Association, two (2) members
+24 from a list of five (5) names submitted by the largest state employee organization of
+25 nonschool state employees, two (2) members from a list of five (5) names submitted
+26 by the Kentucky Association of Counties, two (2) members from a list of five (5)
+27 names submitted by the Kentucky League of Cities, and two (2) members from a
+Page 7 of 21
+XXXX 2/13/2025 9:27 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1132
+1 list of names consisting of five (5) names submitted by each state employee
+2 organization that has two thousand (2,000) or more members on state payroll
+3 deduction. The advisory committee shall be appointed in January of each year and
+4 shall meet quarterly.
+5 (10) ]Notwithstanding any other provision of law to the contrary, the policy or policies
+6 provided to employees pursuant to this section shall not provide coverage for
+7 obtaining or performing an abortion, nor shall any state funds be used for the
+8 purpose of obtaining or performing an abortion on behalf of employees or their
+9 dependents.
+10 (10)[(11)] Interruption of an established treatment regime with maintenance drugs shall
+11 be grounds for an insured to appeal a formulary change through the established
+12 appeal procedures approved by the Department of Insurance, if the physician
+13 supervising the treatment certifies that the change is not in the best interests of the
+14 patient.
+15 (11)[(12)] Any employee who is eligible for and elects to participate in the state health
+16 insurance program as a retiree, or the spouse or beneficiary of a retiree, under any
+17 one (1) of the state-sponsored retirement systems shall not be eligible to receive the
+18 state health insurance contribution toward health care coverage as a result of any
+19 other employment for which there is a public employer contribution. This does not
+20 preclude a retiree and an active employee spouse from using both contributions to
+21 the extent needed for purchase of one (1) state sponsored health insurance policy
+22 for that plan year.
+23 (12)[(13)] (a) The policies of health insurance coverage procured under subsection (2)
+24 of this section shall include a mail-order drug option for maintenance drugs
+25 for state employees. Maintenance drugs may be dispensed by mail order in
+26 accordance with Kentucky law.
+27 (b) A health insurer shall not discriminate against any retail pharmacy located
+Page 8 of 21
+XXXX 2/13/2025 9:27 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1132
+1 within the geographic coverage area of the health benefit plan and that meets
+2 the terms and conditions for participation established by the insurer, including
+3 price, dispensing fee, and copay requirements of a mail-order option. The
+4 retail pharmacy shall not be required to dispense by mail.
+5 (c) The mail-order option shall not permit the dispensing of a controlled
+6 substance classified in Schedule II.
+7 (13)[(14)] The policy or policies provided to state employees or their dependents
+8 pursuant to this section shall provide coverage for obtaining a hearing aid and
+9 acquiring hearing aid-related services for insured individuals[ under eighteen (18)
+10 years of age,] subject to a limit[cap] of one (1) hearing aid per each hearing-
+11 impaired ear[thousand four hundred dollars ($1,400)] every thirty-six (36) months
+12 [pursuant to KRS 304.17A-132].
+13 (14)[(15)] Any policy provided to state employees or their dependents pursuant to this
+14 section shall provide coverage for the diagnosis and treatment of autism spectrum
+15 disorders consistent with KRS 304.17A-142.
+16 (15)[(16)] Any policy provided to state employees or their dependents pursuant to this
+17 section shall provide coverage for obtaining amino acid-based elemental formula
+18 pursuant to KRS 304.17A-258.
+19 (16)[(17) If a state employee's residence and place of employment are in the same
+20 county, and if the hospital located within that county does not offer surgical
+21 services, intensive care services, obstetrical services, level II neonatal services,
+22 diagnostic cardiac catheterization services, and magnetic resonance imaging
+23 services, the employee may select a plan available in a contiguous county that does
+24 provide those services, and the state contribution for the plan shall be the amount
+25 available in the county where the plan selected is located.
+26 (18) If a state employee's residence and place of employment are each located in
+27 counties in which the hospitals do not offer surgical services, intensive care
+Page 9 of 21
+XXXX 2/13/2025 9:27 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1132
+1 services, obstetrical services, level II neonatal services, diagnostic cardiac
+2 catheterization services, and magnetic resonance imaging services, the employee
+3 may select a plan available in a county contiguous to the county of residence that
+4 does provide those services, and the state contribution for the plan shall be the
+5 amount available in the county where the plan selected is located.
+6 (19) The Personnel Cabinet is encouraged to study whether it is fair and reasonable and
+7 in the best interests of the state group to allow any carrier bidding to offer health
+8 care coverage under this section to submit bids that may vary county by county or
+9 by larger geographic areas.
+10 (20) Notwithstanding any other provision of this section, the bid for proposals for health
+11 insurance coverage for calendar year 2004 shall include a bid scenario that reflects
+12 the statewide rating structure provided in calendar year 2003 and a bid scenario that
+13 allows for a regional rating structure that allows carriers to submit bids that may
+14 vary by region for a given product offering as described in this subsection:
+15 (a) The regional rating bid scenario shall not include a request for bid on a
+16 statewide option;
+17 (b) The Personnel Cabinet shall divide the state into geographical regions which
+18 shall be the same as the partnership regions designated by the Department for
+19 Medicaid Services for purposes of the Kentucky Health Care Partnership
+20 Program established pursuant to 907 KAR 1:705;
+21 (c) The request for proposal shall require a carrier's bid to include every county
+22 within the region or regions for which the bid is submitted and include but not
+23 be restricted to a preferred provider organization (PPO) option;
+24 (d) If the Personnel Cabinet accepts a carrier's bid, the cabinet shall award the
+25 carrier all of the counties included in its bid within the region. If the Personnel
+26 Cabinet deems the bids submitted in accordance with this subsection to be in
+27 the best interests of state employees in a region, the cabinet may award the
+Page 10 of 21
+XXXX 2/13/2025 9:27 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1132
+1 contract for that region to no more than two (2) carriers; and
+2 (e) Nothing in this subsection shall prohibit the Personnel Cabinet from including
+3 other requirements or criteria in the request for proposal.
+4 (21)] Any fully insured health benefit plan or self-insured plan issued or renewed on or
+5 after July 12, 2006, to public employees pursuant to this section which provides
+6 coverage for services rendered by a physician or osteopath duly licensed under KRS
+7 Chapter 311 that are within the scope of practice of an optometrist duly licensed
+8 under the provisions of KRS Chapter 320 shall provide the same payment of
+9 coverage to optometrists as allowed for those services rendered by physicians or
+10 osteopaths.
+11 (17) Except as authorized under this section and Section 2 of this Act, no provision of
+12 KRS Chapter 304 shall apply to the public employee health insurance program
+13 for public employees established under subsection (1) of Section 2 of this Act.
+14 (18)[(22)] Any fully insured health benefit plan or self-insured plan issued or renewed to
+15 public employees pursuant to this section shall comply with:
+16 (a) KRS 304.12-237;
+17 (b) KRS 304.17A-270 and 304.17A-525;
+18 (c) KRS 304.17A-600 to 304.17A-633;
+19 (d) KRS 205.593;
+20 (e) KRS 304.17A-700 to 304.17A-730;
+21 (f) KRS 304.14-135;
+22 (g) KRS 304.17A-580 and 304.17A-641;
+23 (h) KRS 304.99-123;
+24 (i) KRS 304.17A-138;
+25 (j) KRS 304.17A-148;
+26 (k) KRS 304.17A-163 and 304.17A-1631;
+27 (l) KRS 304.17A-265;
+Page 11 of 21
+XXXX 2/13/2025 9:27 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1132
+1 (m) KRS 304.17A-261;
+2 (n) KRS 304.17A-262;
+3 (o) KRS 304.17A-145;
+4 (p) KRS 304.17A-129;
+5 (q) KRS 304.17A-133;
+6 (r) KRS 304.17A-264; and
+7 (s) Administrative regulations promulgated pursuant to statutes listed in this
+8 subsection.
+9 (23) (a) Any fully insured health benefit plan or self-insured plan issued or renewed to
+10 public employees pursuant to this section shall provide a special enrollment
+11 period to pregnant women who are eligible for coverage in accordance with
+12 the requirements set forth in KRS 304.17-182.
+13 (b) The Department of Employee Insurance shall, at or before the time a public
+14 employee is initially offered the opportunity to enroll in the plan or coverage,
+15 provide the employee a notice of the special enrollment rights under this
+16 subsection.
+17 Section 2. KRS 18A.2254 is amended to read as follows:
+18 (1) Based on the recommendation of the secretary of the Personnel Cabinet, the
+19 secretary of the Finance and Administration Cabinet, in lieu of contracting with one
+20 (1) or more insurers licensed to do business in this state, shall procure, in
+21 compliance with KRS 45A.080, 45A.085, and 45A.090, and reviewed by the
+22 Government Contract Review Committee pursuant to KRS 45A.705, a contract
+23 with one (1) or more third-party administrators licensed to do business in the
+24 Commonwealth pursuant to KRS 304.9-052 to administer a self-insured plan
+25 offered to the Public Employee Health Insurance Program for public employees.
+26 The requirements for the self-insured plan shall be as follows:
+27 (a) 1. The secretary of the Personnel Cabinet shall incorporate by reference in
+Page 12 of 21
+XXXX 2/13/2025 9:27 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1132
+1 an administrative regulation, pursuant to KRS 13A.2251, the plan year
+2 handbook distributed by the Department of Employee Insurance in the
+3 Personnel Cabinet to public employees covered under the self-insured
+4 plan. The plan year handbook shall contain, at a minimum, the
+5 premiums, employee contributions, employer contributions, and a
+6 summary of benefits, copays, coinsurance, and deductibles for each plan
+7 provided to public employees covered under the self-insured plan;
+8 2. Notwithstanding any other provision of KRS Chapter 18A to the
+9 contrary, the administrative regulation shall not be subject to review by
+10 the Personnel Board prior to filing the administrative regulation with the
+11 Legislative Research Commission; and
+12 3. The secretary of the Personnel Cabinet shall file the administrative
+13 regulation for the self-insured plan with the Legislative Research
+14 Commission on or before September 15 of the year before each new
+15 plan year begins;
+16 (b) The self-insured plan offered by the program shall cover hospice care at least
+17 equal to the Medicare benefit;
+18 (c) The Personnel Cabinet shall provide written notice of any formulary change
+19 to employees covered under the self-insured plan who are directly impacted
+20 by the formulary change and to the Kentucky Group Health Insurance Board
+21 fifteen (15) days before implementation of any formulary change. If, after
+22 consulting with his or her physician, the employee still disagrees with the
+23 formulary change, the employee shall have the right to appeal the change. The
+24 employee shall have sixty (60) days from the date of the notice of the
+25 formulary change to file an appeal with the Personnel Cabinet. The cabinet
+26 shall render a decision within thirty (30) days from the receipt of the request
+27 for an appeal. After a final decision is rendered by the Personnel Cabinet, the
+Page 13 of 21
+XXXX 2/13/2025 9:27 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1132
+1 employee shall have a right to file an appeal pursuant to the utilization review
+2 statutes in KRS 304.17A-600 to 304.17A-633. During the appeal process, the
+3 employee shall have the right to continue to take any drug prescribed by his or
+4 her physician that is the subject of the formulary changes;
+5 (d) The Personnel Cabinet shall develop the necessary capabilities to ensure that
+6 an independent review of each formulary change is conducted and includes
+7 but is not limited to an evaluation of the fiscal impact and therapeutic benefit
+8 of the formulary change. The independent review shall be conducted by
+9 knowledgeable medical professionals and the results of the independent
+10 review shall be posted on the website[Web sites] of the Personnel Cabinet[
+11 and the Cabinet for Health and Family Services] and made available to the
+12 public upon request within thirty (30) days of the notice from the Personnel
+13 Cabinet required in paragraph (c) of this subsection;
+14 (e) If the self-insured plan restricts pharmacy benefits to a drug formulary, the
+15 plan shall comply with and have an exceptions policy in accordance with KRS
+16 304.17A-535;
+17 (f) Premiums for all plans offered by the Public Employee Health Insurance
+18 Program to employees shall be based on the experience of the entire group;
+19 (g) The plan year for the Public Employee Health Insurance Program, whether for
+20 fully insured or self-insured benefits, shall be on a calendar year basis; and
+21 (h) The self-insured plan shall comply with subsection (4) of this section.
+22 (2) (a) 1. In addition to any fully insured health benefit plans or self-insured
+23 plans, beginning January 1, 2015, the Personnel Cabinet shall offer a
+24 health reimbursement account or health flexible spending account for
+25 public employees insured under the Public Employee Health Insurance
+26 Program.
+27 2. The Personnel Cabinet may offer a health savings account in
+Page 14 of 21
+XXXX 2/13/2025 9:27 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1132
+1 conjunction with a high deductible health plan option as defined by 26
+2 U.S.C. sec. 223(c)(2) or as an optional account to which the Personnel
+3 Cabinet may deposit funds of an employee who waives coverage in
+4 accordance with paragraph (b) of this subsection, provided the employee
+5 who waives coverage is eligible to contribute to a health savings
+6 account.
+7 (b) If a public employee waives coverage provided by his or her employer under
+8 the Public Employee Health Insurance Program, the employer shall forward a
+9 monthly amount to be determined by the secretary of the Personnel Cabinet
+10 for that employee as an employer contribution to an employee's[the] health
+11 reimbursement account, health savings account, or health flexible spending
+12 account, but not less than one hundred seventy-five dollars ($175) per month,
+13 subject to any conditions or limitations imposed by the secretary to comply
+14 with applicable federal law. The type of account for waiver of funding
+15 during a plan year shall be at the discretion of the Personnel Cabinet.
+16 (c) The administrative fees associated with the employee's health savings
+17 account, health reimbursement account, or health flexible spending account
+18 shall be an authorized expense to be charged to the public employee health
+19 insurance trust fund.
+20 (3) (a) The public employee health insurance trust fund is established in the
+21 Personnel Cabinet. The purpose of the public employee health insurance trust
+22 fund is to provide funds to pay medical claims and other costs associated with
+23 the administration of the Public Employee Health Insurance Program self-
+24 insured plan under a competitively bid contract as provided by KRS Chapter
+25 45A and reviewed by the Government Contract Review Committee pursuant
+26 to KRS 45A.705. Unless authorized by the General Assembly, the trust fund
+27 shall not utilize funds for any other purpose and the trust fund receipts from
+Page 15 of 21
+XXXX 2/13/2025 9:27 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1132
+1 prior plan years shall not be used to pay claims and expenses for current or
+2 subsequent plan years, except as provided by paragraph (b) of this subsection.
+3 (b) In the event of a projected deficit in the trust fund balance of a prior plan year,
+4 the secretary of the Finance and Administration Cabinet may declare an
+5 emergency and transfer up to twenty-five percent (25%) of another prior plan
+6 year's balance to that plan year, provided the Governor, all members of the
+7 General Assembly, and Legislative Research Commission are notified at least
+8 thirty (30) days prior to the transfer. The Legislative Research Commission
+9 shall refer the notice to appropriate committees of jurisdiction for their
+10 review.
+11 (c) The following moneys shall be directly deposited into the trust fund:
+12 1. Employer and employee premiums collected under the self-insured plan;
+13 2. Interest and investment returns earned by the self-insured plan;
+14 3. Rebates and refunds attributed to the self-insured plan; and
+15 4. All other receipts attributed to the self-insured plan.
+16 (d) Any balance remaining in the public employee health insurance trust fund at
+17 the end of a fiscal year shall not lapse. Any balance remaining at the end of a
+18 fiscal year shall be carried forward to the next fiscal year and be used solely
+19 for the purpose established in paragraphs (a) and (b) of this subsection. The
+20 balance of funds in the public employee health insurance trust fund shall be
+21 invested by the Office of Financial Management consistent with the
+22 provisions of KRS Chapter 42, and interest income shall be credited to the
+23 trust fund. Any balance for a specific plan year and any subsequent interest
+24 income for that specific plan year shall be accounted for separately.
+25 (e) The Auditor of Public Accounts shall be responsible for a financial audit of
+26 the books and records of the trust fund. The audit shall be conducted in
+27 accordance with generally accepted accounting principles and shall be
+Page 16 of 21
+XXXX 2/13/2025 9:27 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1132
+1 completed within ninety (90) days of the close of the fiscal year. All audit
+2 reports shall be filed with the Governor, the President of the Senate, the
+3 Speaker of the House of Representatives, and the secretary of the Personnel
+4 Cabinet.
+5 (f) The secretary of the Personnel Cabinet shall send[file] a quarterly report on
+6 the status of the trust fund to[with] the Governor, the Interim Joint Committee
+7 on Appropriations and Revenue, and the Kentucky Group Health Insurance
+8 Board[, and the Advisory Committee of State Health Insurance Subscribers].
+9 The quarterly[first status report shall be submitted no later than July 30, 2006,
+10 and subsequent] reports shall be submitted no later than sixty (60) days
+11 following the end of each calendar quarter. The report shall include the
+12 following:
+13 1. The current balance of the trust fund and the amount of the balance
+14 associated with each plan year;
+15 2. A detailed description of all income to the trust fund since the last
+16 report;
+17 3. A detailed description of any receipts due to the trust fund;
+18 4. A total amount of payments made for medical and pharmacy claims
+19 from the trust fund by plan year;
+20 5. A detailed description of all payments made to the third-party
+21 administrator of the self-insured plan by the trust fund;
+22 6. Current enrollment data, including monthly enrollment since the last
+23 report, of the Public Employee Health Insurance Program self-insured
+24 plan;
+25 7. Any other information the secretary may include;
+26 8. Any other information requested by the Interim Joint Committee on
+27 Appropriations and Revenue concerning the operation of the Public
+Page 17 of 21
+XXXX 2/13/2025 9:27 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1132
+1 Employee Health Insurance Program self-funded plan or the trust fund;
+2 and
+3 9. In addition to the information required under subparagraphs 1. to 8. of
+4 this paragraph, the quarterly report for quarters ending June 30 and
+5 December 31[filed in July and January] shall also include the following:
+6 a. A projection of the medical claims incurred but not yet reported
+7 that are considered liabilities to the trust fund;
+8 b. A statement of any other trust fund liabilities;
+9 c. A detailed calculation outlining proposed premium rates for the
+10 next plan year, including base claims, trend assumptions,
+11 administrative fees, and any proposed plan or benefit changes;
+12 d. A detailed description of the current in-state and out-of-state
+13 networks provided under the plan, any changes to the networks
+14 since the last report, and any proposed changes to the in-state or
+15 out-of-state networks during the next six (6) months; and
+16 e. Specific data regarding the third-party administrator's performance
+17 under the contract. The data shall include the following:
+18 i. Any results or outcomes of disease management and
+19 wellness programs;
+20 ii. Results of case management audits and educational and
+21 communication efforts; and
+22 iii. Comparison of actual measurable results to contract
+23 performance guarantees.
+24 (4) (a) Any fully insured health benefit plan, self-insured plan, or other health plan,
+25 as defined in KRS 304.17A-591, offered, issued, or renewed to public
+26 employees under this section or KRS 18A.225 shall comply with KRS
+27 304.17A-591 to 304.17A-599, including any state cabinet, agency, or official
+Page 18 of 21
+XXXX 2/13/2025 9:27 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1132
+1 that contracts with a third-party administrator to administer any self-insured
+2 plan offered, issued, or renewed to public employees under this section or
+3 KRS 18A.225.
+4 (b) The plan or plans referred to in paragraph (a) of this subsection shall be filed
+5 with the commissioner of the Department of Insurance, and the commissioner
+6 shall review the plan or plans in accordance with KRS 304.14-120(6).
+7 Section 3. KRS 18A.226 is amended to read as follows:
+8 (1) To provide quality, affordable health insurance coverage so that the Commonwealth
+9 can attract and retain able and dedicated public employees, and to facilitate the need
+10 for comprehensive and efficient planning, implementation, and administration of a
+11 state employee health insurance program in order to meet this goal, the Kentucky
+12 Group Health Insurance Board is created. The board shall be attached to the
+13 Personnel Cabinet for administrative purposes only. The board shall consist of
+14 thirteen (13) members as follows:
+15 (a) The secretary of the Finance and Administration Cabinet;
+16 (b) The secretary of the Personnel Cabinet;
+17 (c) The state budget director;
+18 (d) The commissioner of education;
+19 (e) [The chair of the Advisory Committee of State Health Insurance Subscribers;
+20 (f) ]The commissioner of insurance, ex officio;
+21 (f)[(g)] The Auditor of Public Accounts, ex officio;
+22 (g)[(h)] The Director of the Administrative Office of the Courts, or his or her
+23 designee;
+24 (h) One (1) employee of the Kentucky Public Pensions Authority appointed by
+25 the Kentucky Public Pensions Authority, who shall serve a term of two (2)
+26 years;
+27 (i) One (1) retired state employee appointed by the Kentucky Retirement
+Page 19 of 21
+XXXX 2/13/2025 9:27 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1132
+1 Systems, who shall serve an initial term of one (1) year;
+2 (j) One (1) retired teacher appointed by the Teachers' Retirement System, who
+3 shall serve an initial term of two (2) years;
+4 (k) One (1) active teacher appointed by the organization with the largest number
+5 of teacher members on payroll deduction, who shall serve an initial term of
+6 one (1) year;
+7 (l) One (1) active state employee appointed by the organization with the largest
+8 number of state employee members on payroll deduction, who shall serve an
+9 initial term of two (2) years; and
+10 (m) One (1) active classified education support employee appointed by the
+11 organization with the largest number of classified education support employee
+12 members on payroll deduction, who shall serve an initial term of one (1) year.
+13 As each appointed member's term expires, the vacancy created shall be filled by the
+14 appointing authority for that position for a term of two (2) years. An appointment to
+15 fill an unexpired term of an appointed member shall be made by the designated
+16 appointing authority for the remainder of the term. Appointed terms shall begin
+17 effective October 1.
+18 (2) The members of the board shall elect from among its members a chair and a vice
+19 chair.
+20 (3) Regular meetings of the board shall be held at least once every month at a place,
+21 day, and time determined by the board. Special meetings of the board shall be held
+22 when needed as determined by the chair. If seven (7) or more members of the board
+23 request in writing that the chair call a special meeting, the chair shall call a special
+24 meeting. The meetings shall operate in accordance with the provisions of[ the Open
+25 Meetings Law under] KRS 61.805 to 61.850.
+26 (4) Members of the board shall receive reimbursement for necessary expenses for
+27 attendance at official board meetings or public hearings.
+Page 20 of 21
+XXXX 2/13/2025 9:27 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1132
+1 (5) The Kentucky Group Health Insurance Board shall:
+2 (a) Engage in analyses and research to identify the factors and parameters that
+3 affect the state group health insurance program;
+4 (b) Develop and transmit[, by October 1 of each year beginning October 1, 2001,]
+5 to the Governor, the General Assembly, and the Chief Justice of the Supreme
+6 Court[,] the annual report by January 31 of each year and shall contain, at
+7 a minimum, the following information:
+8 1. Policy recommendations regarding benefit options and management of the
+9 state group health insurance program;[ and
+10 (c) Provide in the first report, due by October 1, 2001, the following:]
+11 2.[1.] Analysis and discussion of methods used by all other states to provide
+12 health insurance benefits to their state group;[ and]
+13 3.[2.] Analysis and discussion of the cost, enrollment, claims, and utilization
+14 data for calendar year 2000 on the Kentucky state group; and
+15 4.[3.] Recommendations including but not limited to appropriate structures for
+16 the state contribution rate which shall include recommendations on
+17 increasing the state contribution to provide support for dependent
+18 coverage, possible methods to mitigate adverse selection, competitive
+19 plan designs by type and benefit options, the feasibility of a state self-
+20 insurance plan, and strategies for evaluating third-party administrators
+21 and vendors.
+22 Section 4. The following KRS section is repealed:
+23 18A.2255 Health benefit plans and other information to be submitted to Advisory
+24 Committee of State Health Insurers -- Approval or recommendations for changes --
+25 Committee to advise on options, bids, administration, and drug formulary -- Written
+26 report or testimony.
+Page 21 of 21
+XXXX 2/13/2025 9:27 AM Jacketed
+
+[DELETED:   2  J A B S ( ( T 1 A p i a e p o w i r e g a c u c c c o c l g s i a b t s i b n l t t K R T R S t L R P o J t s t a r p o i t c o a p p o p p K a c t n e w c p i t s h i p s b e t p i t s h i 2 A]
+[DELETED:   2  J p 3 A 4 A p w i a p o f r o a r a R S K T R S t L R P t J R P o t K C a T C S o r r s 6 a 7 u h o s i a e 5 A e d a b o p e a i ( T b ( T i ( T t " c p f t p o t s m a m ( ( T s o t F a A C u t r c w t p o K 4 4 a 4 f h o]
+[DELETED:   2  J ( a e p o ( b p e e a a h i g T c s i b n b l t d t e r f f a f f a o p p w h i c o t a r m p d r p i a e 1 t 1 a a o t p a r m n f e a o t h i p ( H i c p t s e u t s s 1 P ( 2 P m e c a d i 2 U s 5 3 N d i f o h c i a p 4 [ a p ( A e a o p f w t h c c i p]
+[DELETED:   2  J c a b t c b p u t p o K 4 4 ( T p o p s b a b t c o i a m c t p t c o i a ( A c b t o h c c t e s a e a r a t e c d a b w t c o c s i i b E a p c e e o t s h i p a a o ( A c b t o h c c t e s a t p e c a u d t t C i a f s b t P C w t u d C r s e t ( T P C s d t n t a]
+[DELETED:   2  J c f t a o d r f c a t t e r e r a p f n T C s o t e c a u d p b e c a s d m t p t c O t C b c q o s p c a c m a s o i f i b n l t l r r a r ( I a a p i t s e h i i h t r t s c a t f t s s ( A f i f s a t r a a r s ( E e p i t s h i p f t e p o t h i p F a]
+[DELETED:   2  J p e t u t s p s t e c a s b e t b n g t t s c ( T ( W f f c b t e b p d o o ( W f f c b a d b a p p e i o b o s c u c ( P f e e t a p d f h c c v c b a d b a p e i c l g f a o h c c s b p ( I a e m h o h p o r o e o o t s s p s a t e s b g a o a t o o t ( N e i o b o s c u c c c o c l g s c c t a i e f t p o a s f o l t c d]
+[DELETED:   2  J o s c u c c c o c l g ( T o g o e p o t o e a c o i ( G e c s ( T h c c o c f e s b e i f a p ( [ S H I S t a t s o t s d r t s h i p f e T s s a f a l o n s b a a m r s d f e o t s ( S s s ( o ( m r l h d t ( m r t K T R S a t ( m f f n b n]
+[DELETED:   2  J l o n c o f ( n s b e s e o t h t t ( o m m o s p d s ( ] p t e p t t s s n p c f o o p a a n s a s f b u f t p o o p a a o b o o d ( I b g f i t a a f c t t e a p a b t D o I i t p s p ( A i o s o p t f ( ( T o f a ( A h i n d a a r p l]
+[DELETED:   2  J w t p d f a c r o a m o T r ( T m o s n p t d o a c s ( T p o p p t s e o t d p t t s s p c f o a h a a a y o a s t a l o o ( h a p e h i [ ( A s d ( A s p ( I a s e r a p o e a i t s c a i t h l w t c d n o s s i c s o s l I n s d c c s a m r i s p a ( I a s e r a p o e a e l i c i w t h d n o s s i c]
+[DELETED:   2  J s o s l I n s d c c s a m r i s t e m d p t s a t s c f t p s b t a ( T i c b ( N i t a v ( T r r b s s n i a r f b o a s ( T s M S f p o t K H C P P ( T w b ( I c C t]
+[DELETED:   2  J c ( N o ( a c C u t p o K C 3 s p t s p o c r o ( E K f ( A p ( K ( K ( K ( K ( K ( K ( K ( K ( K ( K ( K ( K]
+[DELETED:   2  J ( K ( K ( K ( K ( K ( K ( A r p p t s l i t s ( ( A p p t ( T e p t e a n o t s e r u t s S ( B o t r o t s o t P C t s ( o m i l t d b i t s s p i c w K 4 4 a 4 a r b t G C R C p t K 4 a c w o ( o m t a l t d b i t C p t K 3 t a a s p o T ( 1 T]
+[DELETED:   2  J a h P p T p y h s c a a m t p e c e c a a s p 2 N a o p o K C 1 t t c t L 3 T s o t P C s f t a r f t s p w t L R C o o S o y e n p ( T e ( T t b f ( d b i o a f c I a c w h o h p t e s d w t f e s h s ( d f t d o t n o t f s f]
+[DELETED:   2  J e s e h ( T a b o t f c T i r s b c b k m p a t r o t i r a p C ( I p 3 ( P f a p o b t P E H I P ( T f ( T ( ( 1 I a t a f i h b p o s p h r a o f s a f p P 2 T P C m o a h s a i]
+[DELETED:   2  J c U C m d f o a e w w c i a w w c i e t c t a h s a ( I t m f r a s w a f l T t o a f w o f d ( T a f a w t e h s a s i ( ( T p e h i t f i e i t P f t a o t P E H I P s i 4 t s]
+[DELETED:   2  J p s ( I t s o t F a A C m d a e y G t s r t n t a c o j f t r ( T 1 E 2 I 3 R 4 A ( A t f f b i b t O o F M c w t p t i ( T t b a r o t t f T a s b c i a w g a a p a s b]
+[DELETED:   2  J c r s b f w t G t P o t S t S C ( T t o B T a s r s b s n l t s ( d f t e o e c q T r s i t f 1 T c b o t t f a t a o t b a 2 A d d o a i t t t f s t l r 3 A 4 A t a o p m f m a p c f 5 A d d o a p m t t t a 6 C e d i m e s t l r p 7 A 8 A o i r b t I J C o A a R c t o o t P]
+[DELETED:   2  J E a 9 I t f D a A t b A c A d c o p p r f t n p y i b c t a a d A d d o t c i a o n p u t p a c t t n s o e S u i A r o o o d m a w i R o c m a a e a c i C o a m r t c p ( ( A a d i K 3 o i o r t p e u t s o K 1 s c w K 3]
+[DELETED:   2  J t p o i o r t p e u s o K ( T w s S ( T c f s G H I B i c T b s b a t t P C f a p o T b s c o t ( T ( T ( T ( T ( [ ( ] ( T ( T d ( O t y ( O ( r s e a b t K R]
+[DELETED:   2  J S ( O s ( O o o ( O n i ( O ( a c e s e a b t o m  A a f a a f t r o t t A t s b e ( T c ( R d w r m M ( M o t b s r r f n e f a]
+[DELETED:   2  J ( T ( E a ( D t C a 1 P r r b o a m o t s ( P 2 h 3 d 4 t s c r w s i r o i t s c t p s f d c p m t m a s c p i a S 1 b p a o i t b s t A C C r]

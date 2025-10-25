@@ -1,0 +1,2061 @@
+Title: 1 AN ACT relating to motor vehicle insurance.
+Official Title: 1 AN ACT relating to motor vehicle insurance.
+Number of Sections: 1
+Source: versions - Current/Final
+Media Type: application/pdf
+Strikethrough Detection: 33 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS HB 390/EN
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 186A.040 is amended to read as follows:
+4 (1) As used in this section, unless the context requires otherwise:
+5 (a) "Accessible online insurance verification system" or "system" means the
+6 accessible online insurance verification system established by the
+7 department under this section;
+8 (b) "Commercial motor vehicle" means a motor vehicle that is covered by
+9 commercial motor vehicle insurance;
+10 (c) "Commercial motor vehicle insurance" means coverage:
+11 1. Provided to an insured, regardless of the number of vehicles or entities
+12 covered, under a commercial coverage form; and
+13 2. Rated from a commercial manual approved by the Department of
+14 Insurance;
+15 (d) "Department" means the Department of Vehicle Regulation;
+16 (e) "IICMVA" means the Insurance Industry Committee on Motor Vehicle
+17 Administration or a successor organization;
+18 (f) "Insurer" means an insurer that provides coverage for the security required
+19 under KRS 304.39-080;
+20 (g) "Personal motor vehicle" means a motor vehicle that is not covered by
+21 commercial motor vehicle insurance; and
+22 (h) "Requestor" means the authorized personnel of any of the following:
+23 1. The department;
+24 2. Any District or Circuit Court of this state;
+25 3. Any county attorney or Commonwealth's attorney of this state;
+26 4. Any county clerk of this state;
+27 5. Any law enforcement agency of this state; or
+Page 1 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 6. Any other entities authorized by the department, to the extent
+2 permitted by state and federal privacy laws.
+3 (2) (a) The department[ of Vehicle Regulation] shall:
+4 1. Provide and receive information on the insurance status of motor
+5 vehicles registered in[ the Commonwealth of] Kentucky in accordance
+6 with this section and[pursuant to] KRS 304.39-087 and 304.39-085;[.
+7 The department shall provide appropriate insurance information to the
+8 Commonwealth Office of Technology for inclusion in the AVIS
+9 database to assist in identifying uninsured motor vehicles]
+10 2. Establish an accessible online insurance verification system that:
+11 a. Is used for verification of whether motor vehicles are covered by
+12 the security required under KRS 304.39-080;
+13 b. Is interfaced with AVIS;
+14 c. Beginning not later than October 1, 2026, is:
+15 i. Operational; and
+16 ii. Available to insurers;
+17 d. Beginning not later than January 1, 2027, is accessible by
+18 requestors to assist the requestors in the identification of motor
+19 vehicles that are not in compliance with KRS 304.39-080; and
+20 e. Includes information that enables the department to make
+21 inquiries to insurers by using multiple data elements for greater
+22 matching accuracy;
+23 3. On or before January 1, 2026, promulgate an emergency and ordinary
+24 administrative regulation in accordance with KRS Chapter 13A to
+25 establish, implement, and effectuate the accessible online insurance
+26 verification system, which:
+27 a. Shall:
+Page 2 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 i. Except as otherwise provided in this section, establish
+2 guidelines and requirements for the system that are
+3 consistent with IICMVA guidelines;
+4 ii. Include appropriate provisions to secure the system's data
+5 against unauthorized access;
+6 iii. Specify, in accordance with subsection (3) of this section,
+7 the information that insurers shall electronically submit,
+8 and the format, manner, and frequency of the electronic
+9 submissions, to the system for personal motor vehicles and
+10 commercial motor vehicles; and
+11 iv. Establish a period of not less than six (6) months but not
+12 more than twelve (12) months from the date of all requests
+13 and responses that system data shall be retained; and
+14 b. May establish an alternative method of reporting, in lieu of
+15 reporting to the system, for insurers who write one thousand
+16 (1,000) or fewer policies or contracts that provide coverage for
+17 the security required under KRS 304.39-080; and
+18 4. Make any amendments to the administrative regulation promulgated
+19 under this section or any other administrative regulation related to the
+20 system that are necessary to establish, implement, operate, or maintain
+21 the accessible online insurance verification system, which shall
+22 include any necessary improvements to or replacement of the system.
+23 (b) The department may contract with a private service provider who has
+24 successfully implemented similar systems in other states to assist in
+25 establishing, implementing, operating, and maintaining the accessible
+26 online insurance verification system.
+27 (c) 1. Notwithstanding KRS 13A.100, the department shall:
+Page 3 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 a. By January 1, 2026, publish on its website and distribute to
+2 motor vehicle insurers authorized to do business in Kentucky a
+3 final detailed guide of the accessible online insurance
+4 verification system;
+5 b. Periodically review, make any necessary updates to, and publish
+6 on its website any updates to the guide referenced in this
+7 subparagraph; and
+8 c. Distribute any updates made to the guide referenced in this
+9 subparagraph to motor vehicle insurers authorized to do
+10 business in Kentucky.
+11 2. The guide referenced in subparagraph 1. of this paragraph shall not
+12 conflict with, or impose requirements that are not set out or
+13 incorporated by reference in, an administrative regulation
+14 promulgated by the department under this section.
+15 3. The Department of Insurance shall assist the department in making
+16 the distributions required under this paragraph.
+17 (d) The department and any contracted private service provider shall each
+18 maintain a contact person for insurers during the implementation and
+19 operation of the accessible online insurance verification system.
+20 (3)[(2)] (a) Except as otherwise provided in this section, insurers that provide
+21 coverage for the security required under KRS 304.39-080 for personal
+22 motor vehicles shall:
+23 1. Cooperate with the department in the implementation, operation,
+24 maintenance, and any necessary improvements to or replacement of
+25 the accessible online insurance verification system; and
+26 2. On and after January 1, 2027:
+27 a. Send to the department:
+Page 4 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 i. A list of the vehicle identification numbers (VINs) of the
+2 personal motor vehicles that are covered by the insurer;
+3 and
+4 ii. The name of each policyholder for each personal motor
+5 vehicle covered by the insurer as specified by the
+6 department;
+7 b. Provide access to any other insurance status information for
+8 personal motor vehicles that are covered by the insurer as
+9 specified by the department; and
+10 c. Submit the information required under this subparagraph
+11 electronically to the department through the accessible online
+12 insurance verification system.
+13 (b) 1. In lieu of compliance with Section 9 of this Act, an insurer may opt to
+14 submit insurance status information for commercial motor vehicles
+15 electronically to the department through the accessible online
+16 insurance verification system.
+17 2. An insurer that opts to submit insurance status information under this
+18 paragraph shall comply with any specifications and requirements
+19 established by the department under subsection (2)(a)3.a.iii. of this
+20 section for the information.
+21 (c) Insurers may contract for the services of a third-party vendor to facilitate or
+22 otherwise comply with the requirements of this section.
+23 (d) Insurers shall not be subject to civil or administrative liability for libel,
+24 slander, or any other relevant tort, and no civil cause of action of any
+25 nature shall arise against an insurer or an authorized employee of an
+26 insurer for any good-faith efforts to comply with this section, including but
+27 not limited to submitting, or providing access to, any information or data
+Page 5 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 required or permitted under this section, even if the information or data is
+2 inaccurate or incomplete.
+3 (4) (a) As used in this subsection, "domestic" insurer and "foreign" insurer have
+4 the same meanings as in KRS 304.1-070.
+5 (b) There is created a technical advisory committee whose duties shall be to:
+6 1. Review the establishment, implementation, operation, and
+7 maintenance of the accessible online insurance verification system;
+8 and
+9 2. Make recommendations to the department to ensure that the
+10 accessible online insurance verification system is:
+11 a. Efficient and operational upon implementation; and
+12 b. Consistent with the objectives and requirements of this section.
+13 (c) The technical advisory committee shall be composed of the following seven
+14 (7) members:
+15 1. Four (4) voting members appointed by the commissioner of the
+16 Department of Insurance in accordance with paragraph (d) of this
+17 subsection;
+18 2. The president of the Kentucky County Clerk's Association or the
+19 president's designee, who shall serve as a voting ex officio member;
+20 3. The commissioner of the Department of Insurance or the
+21 commissioner's designee, who shall serve as a voting ex officio
+22 member; and
+23 4. The commissioner of the department or the commissioner's designee,
+24 who shall serve as a nonvoting ex officio member and as chair of the
+25 committee.
+26 (d) 1. The commissioner of the Department of Insurance shall, in
+27 accordance with this paragraph, appoint to the technical advisory
+Page 6 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 committee one (1) representative for each of the four (4) insurers:
+2 a. Identified by the Department of Insurance under this paragraph;
+3 and
+4 b. That designate, upon request and within a reasonable amount of
+5 time, an individual to serve as a representative on the committee.
+6 2. The Department of Insurance shall identify the following four (4)
+7 insurers:
+8 a. The domestic property and casualty insurer that has the largest
+9 dollar amount of direct written premiums for motor vehicle
+10 insurance in Kentucky as of the date of the notification made
+11 under subparagraph 4. of this paragraph;
+12 b. The two (2) foreign property and casualty insurers that have the
+13 largest dollar amounts of direct written premiums for motor
+14 vehicle insurance in Kentucky as of the date of the notification
+15 made under subparagraph 4. of this paragraph; and
+16 c. A domestic or foreign property and casualty insurer with direct
+17 written premiums for motor vehicle insurance in Kentucky
+18 designated by the commissioner of the Department of Insurance
+19 to represent small and medium-sized insurers in Kentucky's
+20 motor vehicle insurance market.
+21 3. If an insurer identified by the Department of Insurance under
+22 subparagraph 2. of this paragraph declines or fails, within a
+23 reasonable amount of time, to designate an individual to serve as a
+24 representative of the insurer on the technical advisory committee, the
+25 Department of Insurance shall identify:
+26 a. For an insurer identified under subparagraph 2.a. of this
+27 paragraph, the domestic property and casualty insurer with the
+Page 7 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 next largest dollar amount of direct written premiums for motor
+2 vehicle insurance in Kentucky as of the date that the previously
+3 identified domestic property and casualty insurer declined or
+4 failed to designate a representative;
+5 b. For an insurer identified under subparagraph 2.b. of this
+6 paragraph, the foreign property and casualty insurer with the
+7 next largest dollar amount of direct written premiums for motor
+8 vehicle insurance in Kentucky as of the date that the previously
+9 identified foreign property and casualty insurer declined or
+10 failed to designate a representative; and
+11 c. For an insurer identified under subparagraph 2.c. of this
+12 paragraph, an insurer that meets the requirements of that
+13 subdivision.
+14 4. The Department of Insurance shall:
+15 a. Request each insurer identified by the Department of Insurance
+16 under subparagraph 2. of this paragraph, and if applicable,
+17 subparagraph 3. of this paragraph, to designate an individual to
+18 serve as a representative of the insurer on the technical advisory
+19 committee; and
+20 b. Appoint the individual designated by the insurer notified under
+21 this subparagraph to the technical advisory committee.
+22 5. Each member appointed under this paragraph shall serve a four (4)
+23 year term and may be reappointed.
+24 6. Vacancies of members appointed under this paragraph shall be filled:
+25 a. Within thirty (30) days of the vacancy; and
+26 b. In the same manner as the original appointment.
+27 (e) Prior to making a filing under KRS Chapter 13A or publishing and
+Page 8 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 distributing, as applicable, the department shall submit drafts of the
+2 following to the technical advisory committee for review and
+3 recommendations:
+4 1. Any new, amended, or repealer emergency or ordinary administrative
+5 regulation, along with any forms required under KRS 13A.230,
+6 required or permitted under this section or otherwise related to the
+7 system; and
+8 2. The final detailed guide, including any updates to the final detailed
+9 guide, required under subsection (2)(c) of this section.
+10 (f) In addition to the requirements of paragraph (e) of this subsection, the
+11 department shall keep the technical advisory committee informed about,
+12 and consult with the committee regarding, the establishment,
+13 implementation, operation, and maintenance of the accessible online
+14 insurance verification system.
+15 (g) All meetings of, and communications to and from, the technical advisory
+16 committee shall be exempt from the requirements of the Open Meetings Act,
+17 KRS 61.805 to 61.850.
+18 (5) (a) The department shall immediately make a notification to a motor vehicle
+19 owner upon any of the following:
+20 1. Notification to the department[ of Vehicle Regulation] from an
+21 insurer[insurance company] of cancellation or nonrenewal of the
+22 owner's commercial motor vehicle insurance[a policy] pursuant to
+23 KRS 304.39-085;[, or]
+24 2. Prior to January 1, 2027[on and after January 1, 2006], if the vehicle
+25 identification number (VIN) of the owner's[a] personal motor vehicle,
+26 as defined in subsection (1)(a) of Section 10 of this Act, does not
+27 appear in the database created by KRS 304.39-087 for two (2)
+Page 9 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 consecutive reporting months; or
+2 3. On and after January 1, 2027, if the vehicle identification number
+3 (VIN) of the owner's personal motor vehicle, or commercial motor
+4 vehicle if the commercial motor vehicle is covered by an insurer that
+5 has opted to report to the system, does not appear in the accessible
+6 online insurance verification system for seven (7) consecutive days[,
+7 the department shall immediately make a determination as to the
+8 notification of the insured].
+9 (b) The notification required under paragraph (a) of this subsection shall:
+10 1. Be in either a paper or an electronic format;
+11 2. Specify each motor vehicle to which the notification pertains; and
+12 3. [to the insured shall ]State that:
+13 a. The owner's insurance[insured's policy] is no longer valid; and[
+14 that ]
+15 b. The department shall revoke the registration of each motor
+16 vehicle to which the notification pertains unless one (1) of the
+17 following occurs within fourteen (14)[insured shall have thirty
+18 (30)] days after the date the insurance became invalid:[ to]
+19 i. The owner provides[Show] proof of insurance to the county
+20 clerk or the department; or
+21 ii. The accessible online insurance verification system
+22 indicates that the motor vehicle or motor vehicles are
+23 covered by the security required under KRS 304.39-080.[
+24 The department shall further inform the insured that if
+25 evidence of insurance is not received within thirty (30) days
+26 the department shall revoke the registration of the motor
+27 vehicle until:
+Page 10 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 1. The person presents proof of insurance to the county clerk and pays the
+2 reinstatement fee required by KRS 186.180;
+3 2. The person presents proof in the form of an affidavit stating, under
+4 penalty of perjury as set forth in KRS 523.030, that the failure to
+5 maintain motor vehicle insurance on the vehicle specified in the
+6 department's notification is the result of the inoperable condition of the
+7 motor vehicle;
+8 3. The person presents proof in the form of an affidavit stating, under
+9 penalty of perjury as set forth in KRS 523.030, that the failure to
+10 maintain motor vehicle insurance on the vehicle specified in the
+11 department's notification is the result of the seasonal nature of the
+12 vehicle. The affidavit shall explain that when the vehicle is out of
+13 dormancy and when the seasonal use of the vehicle is resumed, the
+14 proper security will be obtained; or
+15 4. The person presents proof in the form of an affidavit stating, under
+16 penalty of perjury as set forth in KRS 523.030, that he or she requires a
+17 registered motor vehicle in order to carry out his or her employment and
+18 that the motor vehicle that he or she drives during the course of his or
+19 her employment meets the security requirement of Subtitle 39 of KRS
+20 Chapter 304. The person shall also declare in the affidavit that he or she
+21 will operate a motor vehicle only in the course of his or her
+22 employment. If a person has his or her motor vehicle registration
+23 revoked in accordance with this subsection three (3) times within any
+24 twelve (12) month period, the revocations shall constitute a violation of
+25 KRS 304.39-080. The department shall notify the county attorney to
+26 begin prosecution for violation of subtitle 39 of KRS Chapter 304.
+27 (b) The Department of Vehicle Regulation shall be responsible for notification to
+Page 11 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 the appropriate county attorney that a motor vehicle is not properly insured, if
+2 the insured does not respond to notification set out by paragraph (a) of this
+3 subsection. The notice that the department gives to the county attorney in
+4 accordance with paragraph (a) of this subsection shall include a certified copy
+5 of the person's driving record which shall include:
+6 1. The notice that the department received from an insurance company that
+7 a person's motor vehicle insurance policy has been canceled or has not
+8 been renewed; and
+9 2. A dated notice that the department sent to the person requiring the
+10 person to present proof of insurance to the county clerk.
+11 Upon notification by the department, a county attorney shall
+12 immediately begin prosecution of the person who had his or her motor
+13 vehicle registration revoked three (3) times within any twelve (12)
+14 month period in accordance with paragraph (a) of this subsection.]
+15 (c) An owner may present the proof of insurance required under this
+16 subsection in either a paper or an electronic format[The certified copies sent
+17 by the department described in paragraph (b) of this subsection, shall be prima
+18 facie evidence of a violation of KRS 304.39-080].
+19 (d) When proof of insurance is provided in electronic format, the department or
+20 county clerk may require the owner to email or otherwise electronically
+21 submit the proof of insurance for the department's or clerk's records[If the
+22 insured provides proof of insurance to the clerk within the thirty (30) day
+23 notification period, the department shall ensure action is taken to denote a
+24 valid insurance policy is in force].
+25 (6)[(3)] (a) In developing the mechanism to electronically transfer information
+26 pursuant to this section and KRS 304.39-087 and 304.39-085, the
+27 commissioner of the department[ of Vehicle Regulation] shall:
+Page 12 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 1. Consult with the commissioner of the Department of Insurance and
+2 insurers of[ personal] motor vehicles to adopt a standardized system of
+3 organizing, recording, and transferring the information so as to
+4 minimize insurer administrative expenses; and[. The commissioner of
+5 vehicle regulation shall ]
+6 2. To the maximum extent possible, utilize nationally recognized
+7 electronic data information systems consistent with the requirements of
+8 this section[such as those developed by the American National
+9 Standards Institute or the American Association of Motor Vehicle
+10 Administrators].
+11 (b) Notwithstanding any other provision of law:[, ]
+12 1. Information obtained by the department pursuant to this section and
+13 KRS 304.39-087 shall not be:
+14 a. Subject to the Kentucky Open Records Act, KRS 61.870[61.872]
+15 to 61.884; or[, and shall not be ]
+16 b. Disclosed, used, sold, accessed, or utilized in any manner, or
+17 released by the department to any individual, entity[person,
+18 corporation], or state or[and] local agency, except:
+19 i. In accordance with state law for the purposes specified by
+20 this section; or
+21 ii. In response to a specific individual request for the
+22 information authorized pursuant to the federal Driver's
+23 Privacy Protection Act, 18 U.S.C. sec.[secs.] 2721 et seq.;
+24 2. The department shall institute measures to ensure that only authorized
+25 persons are permitted to access the information referenced in this
+26 paragraph for the purposes specified by this section; and[. ]
+27 3. Persons who knowingly release or disclose information[ from the
+Page 13 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 database created by KRS 304.39-087] for a purpose other than those[
+2 described as] authorized by this paragraph[section] or to a person not
+3 entitled to receive it shall be guilty of a Class A misdemeanor for each
+4 release or disclosure.
+5 (7) The Commonwealth Office of Technology and the Department of Insurance shall
+6 provide support and assistance to the department in carrying out the provisions of
+7 this section.
+8 Section 2. KRS 186A.042 is amended to read as follows:
+9 (1) As used in this section, the following have the same meaning as in Section 1 of
+10 this Act:
+11 (a) "Accessible online insurance verification system"; and
+12 (b) "Personal motor vehicle."
+13 (2) [On and after January 1, 2006, ]A county clerk shall not process an application for,
+14 nor issue, a:
+15 (a) Kentucky title and registration or renewal of registration;
+16 (b) Replacement plate, decal, or registration certificate;
+17 (c) Duplicate registration;
+18 (d) Transfer of registration; or
+19 (e) Temporary tag;
+20 for any personal motor vehicle[ as defined in KRS 304.39-087(1)] if the accessible
+21 online insurance verification system[AVIS] does not list the vehicle identification
+22 number of the personal motor vehicle as an insured vehicle, except as provided in
+23 subsection (3)[(2)] of this section.
+24 (3)[(2)] If the accessible online insurance verification system[AVIS] does not list the
+25 vehicle identification number of the personal motor vehicle as an insured vehicle,
+26 the county clerk may process the application if :
+27 (a) The applicant has an insurance card in either a paper or an electronic format
+Page 14 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 that indicates the required security is currently in full force and effect on the
+2 personal motor vehicle if the paper or electronic proof of insurance card was
+3 effective no more than seven (7)[forty-five (45)] days before the application is
+4 submitted to the county clerk; or
+5 (b) The owner of the motor vehicle:
+6 1. Is serving in the Armed Forces outside of Kentucky;[,] and[ the owner]
+7 2. Provides an affidavit by the provost marshal of the base where the
+8 owner is stationed stating that the motor vehicle is covered by security
+9 as required by Subtitle 39 of KRS Chapter 304.
+10 (4)[(3)] This section shall not apply to any transactions involving Kentucky motor
+11 vehicle dealers who are licensed as required by KRS 190.030.
+12 (5)[(4)] For purposes of this section:
+13 (a) An insurance card in an electronic format means the display of an image
+14 subject to immediate download or transmission from the applicant's insurer or
+15 insurance agent to the applicant on an[any portable] electronic device,
+16 including a cellular phone or any other type of portable electronic device, but
+17 shall not include a photographic copy of a paper insurance card on a portable
+18 electronic device; and
+19 (b) The county clerk may require the applicant to email[e-mail] the electronic
+20 insurance card to the clerk, and the clerk may print a copy of the card for the
+21 clerk's records.
+22 Section 3. KRS 186A.100 is amended to read as follows:
+23 (1) (a) A motor vehicle dealer licensed under KRS 186.070 who sells a vehicle for
+24 use upon the highways of this state shall equip the vehicle with a temporary
+25 tag executed in the manner prescribed below, which shall be valid for sixty
+26 (60) days from the date the vehicle is delivered to the purchaser.
+27 (b) The cost of the tag shall be two dollars ($2), of which the county clerk shall
+Page 15 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 retain one dollar ($1).
+2 (c) A motor vehicle dealer licensed under KRS 186.070 shall apply to the county
+3 clerk of the county in which the dealer maintains his or her principal place of
+4 business for issuance of temporary tags. Application shall be made for such
+5 tags on forms supplied to the county clerk by the Transportation Cabinet.
+6 (2) The county clerk of any county who receives a proper application for issuance of
+7 temporary tags shall record the number of each tag issued upon the application of
+8 the dealer for such tags, or if a group of consecutively numbered temporary tags are
+9 issued to a dealer in connection with a single application, record the beginning and
+10 ending numbers of the group on the application.
+11 (3) The clerk shall retain, for a period of two (2) years, one (1) copy of the dealer's
+12 temporary tag application, and ensure that it reflects the numbers appearing on the
+13 tags issued with respect to such application.
+14 (4) (a) If the owner of a motor vehicle submits to the county clerk a properly
+15 completed application for Kentucky certificate of title and registration
+16 pursuant to KRS 186A.120, any motor vehicle required to be registered and
+17 titled in Kentucky, that is not currently registered and titled in Kentucky, may
+18 be equipped with a temporary tag, which shall be valid for sixty (60) days
+19 from the date of issuance, issued by the county clerk for the purpose of
+20 operating the vehicle in Kentucky while assembling the necessary documents
+21 in order to title and register the vehicle in Kentucky.
+22 (b) The Transportation Cabinet may promulgate[establish] administrative
+23 regulations in accordance with KRS Chapter 13A governing this
+24 subsection[section].
+25 (5) (a) The county clerk may issue a temporary tag to the owner of a motor vehicle
+26 that is currently registered and titled in Kentucky.
+27 (b) A temporary tag authorized by this subsection shall be used for emergency or
+Page 16 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 unusual purposes as determined by the county clerk for the purpose of
+2 maintaining the owner's current registration.
+3 (c) A temporary tag authorized by this subsection may only be issued by the
+4 county clerk and shall be valid for a period of between twenty-four (24) hours
+5 and seven (7) days, as determined is necessary by the clerk.
+6 (d) A county clerk shall not issue a temporary tag authorized by this subsection
+7 unless the owner of the motor vehicle applying for the tag presents proof of
+8 motor vehicle insurance pursuant to KRS 304.39-080. [On and after January
+9 1, 2006, If the motor vehicle is a personal motor vehicle as defined in KRS
+10 304.39-087, ]Proof of insurance for a personal motor vehicle shall be
+11 determined by the county clerk as provided in KRS 186A.042.
+12 (e) A temporary tag issued pursuant to this subsection shall not be reissued by the
+13 county clerk for the same owner and same motor vehicle within one (1) year
+14 of issuance of a temporary tag.
+15 Section 4. KRS 186.021 is amended to read as follows:
+16 (1) Except as provided in subsection (2) of this section, a county clerk shall not issue a
+17 replacement plate, decal, or registration certificate as provided in KRS 186.180, or a
+18 registration for renewal to any person who on January 1 of any year owned a motor
+19 vehicle on which state, county, city, urban-county government, school, or special
+20 taxing district ad valorem taxes are delinquent.
+21 (2) (a) Pursuant to KRS 134.810(4), the owner as defined in KRS 186.010(7)(a) and
+22 (c) on January 1 of any year shall be liable for taxes due on a motor vehicle.
+23 (b) A person other than the owner of record who applies to a county clerk to
+24 transfer the registration of a motor vehicle may pay any delinquent ad valorem
+25 taxes due on the motor vehicle to facilitate the county clerk's transferring
+26 registration of the motor vehicle.
+27 (c) The person applying shall not be required to pay delinquent ad valorem taxes
+Page 17 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 due on any other motor vehicle owned by the owner of record from which he
+2 is purchasing his motor vehicle as a condition of registration.
+3 (3) (a) A county clerk shall not issue a replacement plate, decal, or registration
+4 certificate as provided in KRS 186.180, or a registration renewal for any
+5 motor vehicle that is not insured in compliance with KRS 304.39-080.
+6 (b) Each applicant for registration renewal shall present proof of compliance to
+7 the county clerk in a manner prescribed in administrative regulations issued
+8 by the Department of Insurance.
+9 (c) [On and after January 1, 2006, if the motor vehicle is a personal motor vehicle
+10 as defined in KRS 304.39-087, ]Proof of insurance for a personal motor
+11 vehicle shall be determined by the county clerk as provided in KRS
+12 186A.042.
+13 Section 5. KRS 186.040 is amended to read as follows:
+14 (1) (a) Upon receiving the application and fee, the county clerk shall issue to the
+15 owner a certificate of registration containing the information required by
+16 subsection (2) of this section and a registration plate.
+17 (b) If the cabinet finds that there is a shortage of materials suitable for making
+18 plates, or that a substantial saving will result, it may require by an
+19 administrative regulation promulgated in accordance with KRS Chapter 13A
+20 and with the approval of the Governor that the previously issued plates
+21 continue to be used for a designated period.
+22 (c) Except as provided in subsection (3) of this section and in KRS 186.162, for
+23 services performed, the owner shall pay the county clerk the sum of six
+24 dollars ($6) for each registration, or if the registration exceeds a twelve (12)
+25 month period, the clerk shall receive a fee of nine dollars ($9).
+26 (2) The certificate of registration shall contain the registration number, the name and
+27 post office address of the owner, and such other information as the cabinet may
+Page 18 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 require.
+2 (3) Thirty dollars ($30) of the registration fee under KRS 186.050 for a motor vehicle
+3 that has a declared gross vehicle weight with any towed unit of forty-four thousand
+4 and one (44,001) pounds or greater shall be distributed to the county clerk of the
+5 county where the vehicle is registered.
+6 (4) (a) Any person requesting a certificate of registration or renewal of registration of
+7 any type of motor vehicle shall have the opportunity to donate one dollar ($1)
+8 to the child care assistance account.
+9 (b) The one dollar ($1) donation shall be added to the regular fee for vehicle
+10 registration.
+11 (c) One (1) donation may be made per issuance or renewal of vehicle registration.
+12 (d) Donation to the child care assistance account shall be voluntary and may be
+13 refused by the applicant at the time of the issuance or renewal of any vehicle
+14 registration.
+15 (5) (a) The county clerk may retain five percent (5%) of fees collected for the child
+16 care assistance account under subsection (4) of this section.
+17 (b) The remaining funds shall be deposited into a trust and agency account in the
+18 State Treasury to the credit of the Cabinet for Health and Family Services for
+19 the exclusive use as follows:
+20 1.[(a)] Funds shall be made available to the agencies that administer child
+21 care subsidy funds; and
+22 2.[(b)] Funds shall be used as determined by the cabinet for working
+23 families whose income exceeds the state income eligibility limits for
+24 child day care assistance.
+25 (6) (a) Except as provided in KRS 186.162, in addition to the registration fee
+26 provided for county clerks in subsections (1) and (3) of this section, an
+27 additional three dollars ($3) per registration shall be collected at the time of
+Page 19 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 registration.
+2 (b) This additional fee shall be distributed as follows:
+3 1.[(a)] One dollar ($1) shall be placed in an agency fund to provide
+4 additional funds exclusively for technological improvements or
+5 replacement of the AVIS system. The operation and maintenance of
+6 AVIS shall remain as currently provided for from the operational budget
+7 of the Transportation Cabinet and shall not be reduced below the 2005-
+8 2006 funding level;
+9 2.[(b)] One dollar ($1) shall be placed in an agency trust fund to provide
+10 funds exclusively for technological improvements to the hardware and
+11 software in county clerk offices related to the collection and
+12 administration of road fund taxes. The[ Transportation] cabinet, in
+13 consultation with county clerks, shall allocate funds as necessary from
+14 this fund to be used for this exclusive purpose; and
+15 3.[(c)] One dollar ($1) shall be placed in a trust fund to be maintained by
+16 the[ Transportation] cabinet to provide an unrestricted revenue
+17 supplement, for operations of the office related to the collection and
+18 administration of road fund taxes, to county clerk offices in counties
+19 containing a population of less than twenty thousand (20,000), as
+20 determined by the decennial census, and for no other purpose. Annually,
+21 by March 1, the[ Transportation] cabinet shall calculate the amount
+22 collected in the previous calendar year and distribute the entire fund
+23 proportionate to each county that qualifies under this paragraph based on
+24 population. This revenue shall be considered current year revenue when
+25 paid to the clerk and shall not be identified as excess fees from the
+26 previous year.
+27 (7) Any motor vehicle registration cancelled for nonrenewal shall be subject to the
+Page 20 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 provisions of KRS 186.181.
+2 (8) (a) The owner of a motor vehicle for which the registration has been cancelled
+3 under this section, or revoked under subsection (5)(b) of Section 1 of this
+4 Act, shall be subject to a reinstatement fee of forty dollars ($40), payable to
+5 the county clerk.
+6 (b) The county clerk shall retain twenty dollars ($20) of the reinstatement fee and
+7 forward the remaining twenty dollars ($20) to the cabinet.
+8 (c) The portion of the reinstatement fee received by the cabinet under this
+9 subsection as a result of a revocation under subsection (5)(b) of Section 1 of
+10 this Act shall be placed in an agency fund to provide additional funds
+11 exclusively for the establishment, implementation, operation, maintenance,
+12 and any necessary improvements or replacement of the accessible online
+13 insurance verification system established under Section 1 of this Act.
+14 Section 6. KRS 186.180 is amended to read as follows:
+15 (1) (a) If an[the] owner loses his or her copy of a registration or transfer receipt, the
+16 owner[he or she] may obtain a duplicate from the county clerk who issued the
+17 present owner's copy of the receipt if:[by]
+18 1. [Presenting the clerk ]Proof of insurance on the motor vehicle in
+19 compliance with KRS 304.39-080 is provided to the county clerk,
+20 except that proof of insurance shall not be required for duplicates
+21 applied for by motor vehicle dealers as defined in KRS 190.010;[, and
+22 by ]
+23 2. The owner files[Filing] an affidavit, upon a form furnished by the
+24 cabinet; and[. ]
+25 3. The owner pays[shall pay] to the county clerk a fee of three dollars
+26 ($3)[, except proof of insurance shall not be required for duplicates
+27 applied for by motor vehicle dealers as defined in KRS 190.010].
+Page 21 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 (b) When an[the] owner's copy of any registration or transfer receipt shows that
+2 the spaces provided thereon for noting and discharging security interests have
+3 been exhausted, the owner may obtain a duplicate from[apply to] the county
+4 clerk who issued the receipt if:[in order to obtain a duplicate thereof.]
+5 1. The owner surrenders[shall surrender] his or her copy of the current
+6 receipt to the county clerk;[ and provide ]
+7 2. Proof of insurance on the motor vehicle in compliance with KRS
+8 304.39-080 is provided to the county clerk, except that proof of
+9 insurance shall not be required for duplicates applied for by motor
+10 vehicle dealers as defined in KRS 190.010; and[, before a duplicate
+11 may be issued.]
+12 3. The owner pays to[shall pay] the county clerk a fee of three dollars
+13 ($3)[, except proof of insurance shall not be required for duplicates
+14 applied for by motor vehicle dealers as defined in KRS 190.010].
+15 (c) Any security interest which has been discharged as shown by the records of
+16 the clerk or upon the owner's copy of the current receipt shall be omitted from
+17 the duplicate receipt to be issued by the county clerk.
+18 (2) (a) If an[the] owner loses a registration plate, the owner[he or she] shall:
+19 1. Surrender his or her registration receipt to the county clerk from whom
+20 it was obtained; and
+21 2. File a written statement as to the loss of the plate.
+22 (b) [Upon presenting the clerk proof of insurance on the motor vehicle in
+23 compliance with KRS 304.39-080, and upon the payment of the sum of three
+24 dollars ($3) for each plate and a fee of three dollars ($3) to the clerk for his or
+25 her services, ]The owner shall be issued another registration receipt and a
+26 plate or plates, which shall bear a different number from that of the lost plate,
+27 if:
+Page 22 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 1. Proof of insurance on the motor vehicle in compliance with KRS
+2 304.39-080 is provided to the county clerk; and
+3 2. The owner pays to the county clerk the sum of:
+4 a. Three dollars ($3) for each plate; and
+5 b. Three dollars ($3) to the county clerk for his or her services.
+6 (c) The county clerk shall:
+7 1. Retain the owner's statement;[ and ]
+8 2. Retain a copy of the owner's proof of insurance;[, and shall ]
+9 3. Make a notation on the triplicate copy of the surrendered registration
+10 receipt stating the number of the registration receipt replacing it; and[. ]
+11 4. Forward the original copy of the surrendered receipt[ shall be
+12 forwarded] to the cabinet.
+13 (d) The cabinet shall:
+14 1. Immediately[forthwith] cancel the registration corresponding to the
+15 number of the lost plate; and
+16 2. Report[.] the cancellation[ shall be reported by the cabinet] to the
+17 commissioner of the Department of Kentucky State Police.
+18 (e) Any person finding a lost registration plate shall deliver it to the[
+19 Transportation] cabinet or to any county clerk for forwarding it to the cabinet.
+20 (3) (a) If an[the] owner moves from one (1) county into another county of the
+21 Commonwealth, the owner[he or she] may obtain from the county clerk of
+22 his or her county of residence a new registration receipt and new
+23 registration plate bearing the name of the county of residence if:[. In order to
+24 obtain a new registration plate, the owner shall surrender ]
+25 1. The owner surrenders his or her current registration receipt and current
+26 registration plate to the county clerk;[. Upon being provided with ]
+27 2. Proof of insurance on the motor vehicle in compliance with KRS
+Page 23 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 304.39-080 is provided to[,] the county clerk; and[ shall provide the
+2 owner with a new registration receipt and plate bearing the county
+3 name]
+4 3. The owner pays a fee of five dollars ($5) to the county clerk, of which
+5 the county clerk shall be entitled to retain three dollars ($3) and the
+6 cabinet shall be entitled to two dollars ($2).
+7 (b) The surrendered receipt and plate shall be forwarded to the[ Transportation]
+8 cabinet.[ The fee for this registration shall be five dollars ($5) of which the
+9 clerk shall be entitled to three dollars ($3) and the cabinet shall be entitled to
+10 two dollars ($2).]
+11 (4) If an[the] owner's registration is revoked under subsection (5)(b) of Section 1 of
+12 this Act[as a result of the provisions set forth in KRS 186A.040], the owner may
+13 have his or her registration reinstated by the county clerk who issued the present
+14 owner's copy of the receipt if[by presenting the clerk proof of]:
+15 (a) The owner pays to the county clerk the reinstatement fee required under
+16 subsection (8) of Section 5 of this Act; and
+17 (b) The owner provides proof of insurance on the motor vehicle in compliance
+18 with KRS 304.39-080 to the county clerk[and by filing an affidavit upon a
+19 form furnished by the cabinet; or
+20 (b) A valid compliance or exemption certificate in compliance with KRS 224.20-
+21 720 or issued under the authority of an air pollution control district under
+22 KRS 224.20-760].
+23 (5) The owner of a motor vehicle that has the vehicle's registration revoked under KRS
+24 186.290 shall pay to the clerk a fee of twenty dollars ($20), which shall be equally
+25 divided between the county clerk and the cabinet.
+26 (6) [On and after January 1, 2006, if the motor vehicle is a personal motor vehicle as
+27 defined in KRS 304.39-087, ]Proof of insurance for a personal motor
+Page 24 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 vehicle[required under this section] shall be determined by the county clerk as
+2 provided in KRS 186A.042.
+3 Section 7. KRS 186.190 is amended to read as follows:
+4 (1) (a) Except as provided for in paragraph (e) of this subsection, when a motor
+5 vehicle that has been previously registered changes ownership, the registration
+6 plate shall not remain upon the motor vehicle, but shall be retained by the
+7 seller and may be transferred to another vehicle owned or leased by the seller
+8 in accordance with paragraph (b) or (c) of this subsection.
+9 (b) An individual who sells a motor vehicle which has a valid registration plate
+10 may transfer that plate to another vehicle of the same classification at the time
+11 the individual transfers the vehicle. If the individual does not have a vehicle to
+12 transfer the plate to at the time the individual sells a vehicle, the individual
+13 may hold the registration plate for the period of registration. At any time
+14 during the period of registration, the individual shall notify the county clerk
+15 and transfer the plate to a vehicle of the same classification that he or she has
+16 obtained prior to operating that vehicle on a public highway. If the plate
+17 transfer occurs in the final month in which the existing registration is still
+18 valid, the individual shall be required to renew the registration on the newly
+19 acquired vehicle.
+20 (c) An individual who trades in a motor vehicle with a valid registration plate
+21 during the purchase of a motor vehicle from a licensed motor vehicle dealer
+22 shall remove the plate from the vehicle offered in trade. A photocopy of the
+23 valid certificate of registration shall be included with the application for title
+24 and registration for the purchased vehicle, and the plate shall be retained by
+25 the purchaser. The dealer shall equip the purchased vehicle with a temporary
+26 tag in accordance with KRS 186A.100 before the buyer may operate it on the
+27 highway. When the buyer receives a valid certificate of registration from the
+Page 25 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 county clerk, the buyer shall remove the temporary tag and affix the
+2 registration plate to the vehicle.
+3 (d) All vehicle transfers and registration plate transfers shall be initiated within
+4 the fifteen (15) day period established under KRS 186.020 and 186A.070.
+5 (e) This subsection shall not apply to transfers between motor vehicle dealers
+6 licensed under KRS Chapter 190. A secured party who repossesses a vehicle
+7 shall comply with KRS 186.045(6).
+8 (2) (a) A person shall not purchase, sell, or trade any motor vehicle without
+9 delivering to the county clerk of the county in which the sale or trade is made
+10 the title, and a notarized affidavit if required and available under KRS
+11 138.450 attesting to the total and actual consideration paid or to be paid for
+12 the motor vehicle.
+13 (b) Except for transactions handled by a motor vehicle dealer licensed pursuant to
+14 KRS Chapter 190, the person who is purchasing the vehicle shall present
+15 proof of insurance in compliance with KRS 304.39-080 to the county clerk
+16 before the clerk transfers the registration on the vehicle.
+17 (c) Proof of insurance shall be in the manner prescribed in administrative
+18 regulations promulgated by the Department of Insurance pursuant to KRS
+19 Chapter 13A.
+20 (d) [On and after January 1, 2006, if the motor vehicle is a personal motor vehicle
+21 as defined in KRS 304.39-087, ]Proof of insurance for a personal motor
+22 vehicle shall be determined by the county clerk as provided in KRS
+23 186A.042.
+24 (3) (a) Upon delivery of the title, and a notarized affidavit if required and available
+25 under KRS 138.450 attesting to the total and actual consideration paid or to be
+26 paid for the motor vehicle to the county clerk of the county in which the sale
+27 or trade was made, the seller shall pay to the county clerk a transfer fee of two
+Page 26 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 dollars ($2), which shall be remitted to the Transportation Cabinet.
+2 (b) If an affidavit is required, and available, the signatures on the affidavit shall
+3 be individually notarized before the county clerk shall issue to the purchaser a
+4 transfer of registration bearing the same data and information as contained on
+5 the original registration receipt, except the change in name and address.
+6 (c) The seller shall pay to the county clerk a fee of six dollars ($6) for the
+7 clerk's[his] services.
+8 (4) (a) If the owner junks or otherwise renders a motor vehicle unfit for future use,
+9 the owner[he] shall deliver the registration plate and registration receipt to the
+10 county clerk of the county in which the motor vehicle is junked.
+11 (b) The county clerk shall return the plate and motor vehicle registration receipt
+12 to the Transportation Cabinet.
+13 (c) The owner shall pay to the county clerk one dollar ($1) for the clerk's[his]
+14 services.
+15 (5) A licensed motor vehicle dealer shall not be required to pay the transfer fee
+16 provided by this section, but shall be required to pay the county clerk's fee provided
+17 by this section.
+18 (6) The motor vehicle registration receipt issued by the clerk under this section shall
+19 contain information required by the Department of Vehicle Regulation.
+20 Section 8. KRS 186.990 is amended to read as follows:
+21 (1) Any person who violates any of the provisions of KRS 186.020, 186.030, 186.040,
+22 186.045(4), 186.050, 186.056, 186.060, 186.073, 186.110, 186.130, 186.140,
+23 186.160, 186.170, 186.180(1) to (4)[(a)], 186.210(1), 186.230, or KRS 186.655 to
+24 186.680 shall be guilty of a violation.
+25 (2) Any person who violates any of the provisions of KRS 138.465, 186.072, 186.190,
+26 186.200, or 186.210(2) shall be guilty of a Class A misdemeanor.
+27 (3) A person who violates the provisions of KRS 186.450(4), (5), or (6) or 186.452(3),
+Page 27 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 (4), or (5) shall be guilty of a violation. A person who violates any of the other
+2 provisions of KRS 186.400 to 186.640 shall be guilty of a Class B misdemeanor.
+3 (4) Any clerk or judge failing to comply with KRS 186.550(1) shall be guilty of a
+4 violation.
+5 (5) If it appears to the satisfaction of the trial court that any offender under KRS
+6 186.400 to 186.640 has a driver's license but in good faith failed to have it on his or
+7 her person or misplaced or lost it, the court may, in its discretion, dismiss the
+8 charges against the defendant without fine, imprisonment, or cost.
+9 (6) Any person who steals a motor vehicle registration plate or renewal decal shall be
+10 guilty of a Class D felony. Displaying a canceled registration plate on a motor
+11 vehicle shall be prima facie evidence of guilt under this section.
+12 (7) Any person who violates the provisions of KRS 186.1911 shall be guilty of a Class
+13 A misdemeanor.
+14 (8) Any person who makes a false affidavit to secure a license plate under KRS
+15 186.172 shall be guilty of a Class A misdemeanor.
+16 (9) Any person who violates any provision of KRS 186.070 or 186.150 shall be guilty
+17 of a Class A misdemeanor.
+18 (10) Any person who operates a vehicle bearing a dealer's plate upon the highways of
+19 this Commonwealth with intent to evade the motor vehicle usage tax or registration
+20 fee shall be guilty of a Class A misdemeanor for the first offense and a Class D
+21 felony for each subsequent offense.
+22 (11) Any person, other than a licensed dealer or manufacturer, who procures a dealer's
+23 plate with intent to evade the motor vehicle usage tax or registration fee shall be
+24 guilty of a Class D felony.
+25 (12) Any resident who unlawfully registers, titles, or licenses a motor vehicle in any
+26 state other than Kentucky with intent to evade the motor vehicle usage tax or the
+27 registration fee shall be guilty of a Class A misdemeanor if the amount of tax due is
+Page 28 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 less than one hundred dollars ($100), or of a Class D felony if the amount of tax due
+2 is more than one hundred dollars ($100), and in addition shall be liable for all taxes
+3 so evaded with applicable interest and penalties.
+4 Section 9. KRS 304.39-085 is amended to read as follows:
+5 (1) As used in this section, the following have the same meaning as in Section 1 of
+6 this Act:
+7 (a) "Commercial motor vehicle";
+8 (b) "Commercial motor vehicle insurance"; and
+9 (c) "Insurer."
+10 (2) Every insurer that does not provide access to insurance status information for
+11 commercial motor vehicles as specified by the Department of Vehicle Regulation
+12 under Section 1 of this Act[authorized insurance company] shall, within one (1)
+13 calendar week following the end of its accounting month, send to the Department of
+14 Vehicle Regulation a list of all persons insured by it whose commercial motor
+15 vehicle insurance[policy] was terminated by either cancellation or nonrenewal
+16 during such accounting month, except those persons whose nonrenewal was at the
+17 end of a policy with a term of six (6) months or longer and who failed to make a
+18 payment for the renewal of the policy. Such list shall include a description of each
+19 vehicle insured under such terminating policy.
+20 (3)[(2)] An insurer may[It shall be lawful for an authorized insurance company to]
+21 present the information required by subsection (2)[(1)] of this section by compatible
+22 computer tape approved by the Department of Vehicle Regulation.
+23 [(3) On and after January 1, 2006, this section shall not apply to policies covering
+24 personal motor vehicles as defined in KRS 304.39-087.]
+25 Section 10. KRS 304.39-087 is amended to read as follows:
+26 (1) (a) As used in this subsection[section], [unless the context requires otherwise,]
+27 "personal motor vehicle" means:
+Page 29 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 1.[(a)] A private passenger motor vehicle that is not used as a public or
+2 livery conveyance for passengers, nor rented to others; and
+3 2.[(b)] Any other four-wheel motor vehicle that weighs six thousand
+4 (6,000) pounds or less which is not used in the occupation, profession,
+5 or business of the insured.
+6 (b)[(2)] Prior to January 1, 2027[Beginning January 1, 2006], every insurance
+7 company that writes liability insurance on personal motor vehicles in
+8 Kentucky shall, between the first and fifteenth day of each month, send to the
+9 Department of Vehicle Regulation a list of the vehicle identification numbers
+10 (VINs) of each personal motor vehicle covered by liability insurance issued
+11 by the insurer as of the last day of the preceding month and the name of each
+12 personal motor vehicle insurance policyholder. The information shall be
+13 submitted either electronically or by paper copy at the option of the
+14 Department of Vehicle Regulation.
+15 (c)[(3)] In the absence of malice, fraud, or gross negligence, an[any] insurer and
+16 any authorized employee of the[an] insurer shall not be subject to civil
+17 liability for libel, slander, or any other relevant tort, and no civil cause of
+18 action of any nature shall arise against the insurer or authorized employee, for
+19 submission of the information required by[ subsection (2) of] this
+20 subsection[section], including submission of inaccurate or incomplete
+21 information.
+22 (2) Every insurer that provides coverage for the security required under KRS 304.39-
+23 080 for personal motor vehicles, as defined in Section 1 of this Act, shall comply
+24 with Section 1 of this Act.
+25 Section 11. KRS 304.39-117 is amended to read as follows:
+26 (1) As used in this section, the following have the same meaning as in Section 1 of
+27 this Act:
+Page 30 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 (a) "Accessible online insurance verification system" or "system";
+2 (b) "Commercial motor vehicle";
+3 (c) "Insurer"; and
+4 (d) "Personal motor vehicle."
+5 (2) (a) Each insurer[ issuing an insurance contract which provides security covering a
+6 motor vehicle] shall provide to the insured, in compliance with administrative
+7 regulations promulgated by the commissioner[department], written proof in
+8 the form of an insurance card that the insured has in full force and effect
+9 the[an insurance contract providing] security required under[in conformity
+10 with] this subtitle.
+11 (b) An insurer may provide an insurance card in either a paper or an electronic
+12 format.
+13 (c) For commercial motor vehicles, the insurance card shall clearly indicate
+14 that the coverage is commercial or fleet coverage.
+15 (3)[(2)] If an owner enters into an insurance contract on a newly acquired motor
+16 vehicle, or changes insurance carriers on an existing motor vehicle, the owner shall
+17 keep the paper insurance card or an[a portable] electronic device to download the
+18 insurance card in his or her motor vehicle for the following number of[forty-five
+19 (45)] days after[from] the date the coverage took effect as prima facie evidence that
+20 the required security is currently in full force and effect, and shall show the card to
+21 a peace officer upon request:
+22 (a) Except as provided in paragraph (b) of this subsection, forty-five (45) days
+23 for a commercial motor vehicle; or
+24 (b) Seven (7) days for a:
+25 1. Personal motor vehicle; or
+26 2. Commercial motor vehicle if the commercial motor vehicle is covered
+27 by an insurer that has opted to report to the accessible online
+Page 31 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 insurance verification system.
+2 (4)[(3)] For a[As to] personal motor vehicle or a commercial motor vehicle if the
+3 commercial motor vehicle is covered by an insurer that has opted to report to the
+4 accessible online insurance verification system:[vehicles as defined in KRS
+5 304.39-087, ]
+6 (a) The paper or electronic insurance card or the system[database created by KRS
+7 304.39-087] shall be evidence to a peace officer who requests the card if the
+8 peace officer has access to the system[database through AVIS]; and[. ]
+9 (b) If the system[AVIS] does not list the vehicle identification number of the[
+10 personal] motor vehicle as an insured vehicle, the peace officer may accept a
+11 paper or electronic insurance card as evidence that the required security is
+12 currently in full force and effect on the[ personal] motor vehicle if the card
+13 was effective no more than seven (7)[forty-five (45)] days before the date on
+14 which the peace officer requests the card.
+15 (5)[(4)] For purposes of this section:
+16 (a) An insurance card in an electronic format means the display of an image on
+17 any[ portable] electronic device, including a cellular phone or any other type
+18 of portable electronic device, depicting a current valid representation of the
+19 card;
+20 (b) Whenever a person presents an[a mobile] electronic device pursuant to this
+21 section, that person assumes all liability for any damage to the[ mobile]
+22 electronic device; and
+23 (c) When a person provides evidence of financial responsibility using an[a
+24 mobile] electronic device to a peace officer, the peace officer shall only view
+25 the electronic image of the insurance card and is prohibited from viewing any
+26 other content on the[ mobile] electronic device.
+27 Section 12. By July 1, 2025:
+Page 32 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 (1) The Department of Insurance shall identify and appoint the initial four insurer
+2 representatives to the technical advisory committee created under subsection (4) of
+3 Section 1 of this Act in accordance with paragraph (d) of that subsection; and
+4 (2) The Department of Vehicle Regulation shall notify the members of the
+5 technical advisory committee created under subsection (4) of Section 1 of this Act of the
+6 date, time, and location of the first meeting, which meeting may include remote
+7 attendance and shall:
+8 (a) Take place within 30 days of the date of the notification; and
+9 (b) Include an informational status update from the department relating to the
+10 establishment and implementation of the accessible online insurance verification system.
+11 Section 13. Sections 2 and 11 of this Act take effect on January 1, 2027.
+Page 33 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+[DELETED:   2  E A B S ( A ( " a o i v s e b t d ( " m v m a m v t i c b c ( " 1 P c 2 R f a c m a b t D o I ( " ( " m t I I C o M V A ( " u ( " m v m a m v t i n c b c ( " 1 T 2 A 3 A 4 A 5 A]
+[DELETED:   2  E 6 A o e a b t d t t e p ( ( T 1 P a r i o t i s o m v w T C O o T f i i t A d 2 E a I t b I c B i O i A d B n l t J 1 2 i a b r v e I i t e t d t m i m 3 O a r i a w K C 1 t e i a e t a o i v a S]
+[DELETED:   2  E i E a o p i t s e g a r f t s t a c i I a i S t i t i s e s a t f m a f o t e s c i E m a b M e a a m o r i l o r t t s f i w w o t ( t 4 M u s t a o i v s w s i ( T d m c w a p s p w h s i s s i o s t a i e i o a m t a o ( 1 N]
+[DELETED:   2  E a B J 1 2 p o i w a d t m f d g o t a o i v b P o i w a u t t g r i t s c D a u m t t g r i t s t m v i a t d b 2 T c w o i r t a n s o o i b r i a a r p 3 T t ( T d a a c p s p s e m a c p f i d t i a o ( ( E a o p i t s i t p c f t s r u K 3 f p m 1 C w t d i t i o m t 2 O a S]
+[DELETED:   2  E i A p m v t a c b t i a i T n o e p f e p m v c b t i a s b t d b P a t a o i s i f p m v t a c b t i a s c S t i r u t s e t t d t t a o i ( 1 I s i s i f c m v e t t d t t a o i 2 A p s c w a s a r e b t d u s ( o t s ( I o ( I s n b s t c o a l f l s o a o r t a n c c o a o a n s a a a i o a a e o a i n]
+[DELETED:   2  E r i ( ( A t ( T 1 R t e i o a m o t a o i v s a 2 M r t t d t e t t a a E b C ( T ( 1 F ( v m a b t c o t D o I i a w p ( o t s 2 T p o t K C C A o t p 3 T c o t D o I o t c d w s s a a v e o m 4 T w c ( 1 T c o t D o I s i a w t p a t t t a]
+[DELETED:   2  E c a I a b T t 2 T D o I s i t f f ( i a T d a o d w p f m v i i K a o d o n m u b T l d a o d w p f m v m c A w p f m v i i K d t r s a m i i K m 3 I a i i b t D o I u s 2 o t p d o f w a r r D a F a i i u s 2 o t p]
+[DELETED:   2  E n v i d p a c i d o f b F a i i u s 2 o t p t f p a c i w t n v i f p a c i d o f c F a i i u s 2 o t p a i t m t r o t s 4 T a R u s 2 o t p a i a s s c b A t 5 E y 6 V a W b I ( P t m a f u K C 1 o p a]
+[DELETED:   2  E d a a t d s s d o t f t t t a c f r a r 1 A r a w a f r u K 1 r o p u t s o o r t t s 2 T g ( I a t t r o p ( o t s t d s k t t a c i a a c w t c r t e i o a m o t a o i ( A c K ( ( T o 1 N t t d o V R f a i c o c o n o t o c m v i p p t K 2 P i a d i s ( o S 1 o t A d n a i t d c b K 3 f t (]
+[DELETED:   2  E c 3 O a a J 1 2 i t v i n ( o t o p m v o c m v h o t d s i m a d a t t n ( T 1 B 2 S 3 [ a T t b T d s r t r o e m v f o w f ( s h t ( i T c i T a o i v s i t t m v o m v a c b t s r u K 3 T d s f i t i t i e t d s r t r o t m v]
+[DELETED:   2  E 1 T r 2 T p p p i t f o a a s u p o p a s f i K 5 t t f t m m v i o t v s i t d m 3 T p p p i t f o a a s u p o p a s f i K 5 t t f t m m v i o t v s i t d n i t r o t s n o t v T a s e t w t v i o o d a w t s u o t v i r t p 4 T p p p i t f o a a s u p r t h C w o a m v o i t c o h o h e I a p h h o h m v r r t K 3 T d s n t c a t b ( T]
+[DELETED:   2  E t t s T n t t d g t t c a i a o 1 T a b 2 A d n t t d s t t p r t p  U n b t d a c a s i v r r t ( t w a t ( m ( A o m p t p o i r u t s b f ( W c c m r t o t e o o e s i p p o i t t c w t t ( d n p t d s e a i t t d a v ( ( I d t m t e t i p t t s a K 3 a 3 t c]
+[DELETED:   2  E 1 C w t c o t D o I a i o r a t t i s a t m v 2 T t m e p u n r e t s a t d b t A N S I o t A A o M V A ( N 1 I o b t d p t t s a K a S t b D u s a o u i a m o r b t d t a i e c i I t i I r t a s i r f t i a p t t f D P 2 T p a p t a t i r i t p 3 P w k r o d i f t]
+[DELETED:   2  E d d e r ( T p t S ( A t ( " ( " ( [ n ( K ( R ( D ( T ( T  f o n s ( I v t ( T]
+[DELETED:   2  E t p e s ( T 1 I 2 P a a b t p m o t b w t o a ( T s s n a t a t i K m v ( F ( A i c i a e f m t d o a i s i a t t a o a p e d i s e ( T c c m r t a t e t e i c S ( ( A u t ( ( T]
+[DELETED:   2  E r ( A c b t ( T t t i e ( T t t ( ( I t o o a m v s t t c c a p c a f K c o t a r p t b f t d o i i b t c c f t p o o i ( T T C m p a r i a w K C 1 g t s ( ( T t ( A]
+[DELETED:   2  E u p a d b t c c f t p o m ( A t t a b t s m o b i b t c a ( A u m 1 3 ] o i f a p m v s b d ( A c o S ( E r r v t ( ( P ( ( A p o t o r a t a c c t t t d o t m v t f t c c t r ( T]
+[DELETED:   2  E d i ( ( A c c s n i a r p d o r c a p i K 1 o a r r f a m ( E t b ( [ a d i K 3 ] o i f a p m v s b d b t c c a p i K 1 S ( ( U r t a a f t c c s i t t o a c o r c t i r b s ( I p o t a s s w r i m r b a a a w t a o t G t t p i p c ( E s p t o s p t c c t s o s d m ( T p]
+[DELETED:   2  E r ( T t a c ( ( A a t ( T o d ( d s b a t t r f f v r ( O ( D r r ( ( T c ( T S t 1 F c 2 F s b u a d b t c f w f w i e t s i e l f c ( ( E a p i K 1 i a t t r f p f c c i s ( a ( o t s a a]
+[DELETED:   2  E r ( T 1 O d ( s b p i a a f t p a f e f t i o r o t A s T o a m o A o 2 2 O f s i c c o r t t c a a o r f t T T c i c t 3 O t T c t p a u r s f o o t o r t t c a a o r f t t c c o i c c a p o l t t t ( a d b M 1 t T c s c t a c i t p c y a d t e f p p p t t c a s n b i a e f f t p ( A m v r c f n s b s t t]
+[DELETED:   2  E p ( ( T u A t ( T f ( T p o t r f r b t c u t s t A s b p i a a f t p a f e a a n i o r o t a o i S ( ( I o p 1 [ t c ] o i o t m v i c w K 3 i p t t c c e t p o i s n b r f d a b 2 T o f a a u a f f b t c 3 T o p p t t c c a f o t d ( e p o i s n b r f d a]
+[DELETED:   2  E ( W t b c 1 T o s s h o o c r 2 P o i o t m v i c w K 3 i p t t c c e t p o i s n b r f d a f b m v d a d i K 1 a b a d m 3 T o p t p t c c a f o t d ( e p o i s n b r f d a ( A t t ( ( I 1 S i 2 F ( [ p t c p o i o t m v i c d h s ] o s b i a r r a a p i]
+[DELETED:   2  E 1 P o i o t m v i c w K 3 2 T a T b T ( T 1 R 2 R 3 M r r 4 F t o c o t s r s b f ( T 1 I c t r c t t n 2 R t c s b r b t c t t c ( A p f a l r p s d i t t T ( ( I a o m f o ( c i a c o t C h o h c o r a n r r a n r o 1 T r 2 P o i o t m v i c w K]
+[DELETED:   2  E 3 i p t t c c a s p t o w a n r r a p b t c n 3 T t c ( T c c t ( I t h o ( T s ( T w f ( A 7 o i u t a o a a p c d u K ( T 1 d ( [ d i K 3 ] o i f a p m]
+[DELETED:   2  E v u t s s b d b t c c a p S ( ( E a p f i p ( o t s w a m v p s i ( A m t t m h t r p f t p o r A a t d a o p t o t v o a p h I t p t o i t f m i w t e r i s v a ( A d s v a t t h]
+[DELETED:   2  E c c t b s r t t t a a t r ( A t ( T s s n a t t b m v d l s ( ( A p s n p s o t a m v w d t t a a n a i r a a u K 1 t ( E K C 1 t p w i p t v s p p b ( P o i s b i t m p i a r p b t D o I p t K C ( [ a d i K 3 ] o i f a p m v s b d b t c c a p i K 1 ( ( U u p o]
+[DELETED:   2  E d ( I b t t ( T s s p t t c c a f o s d ( f t c ( ( I t c ( T t ( T s ( A l m v d s n b r t p t t f p b ( T c S ( A 1 1 1 1 1 1 1 1 1 1 ( A 1 ( A]
+[DELETED:   2  E ( p ( A c o j f t c w K 1 s b g o a v ( I i a t t s o t t c t a o u K 1 h p o m o l i t c m i i d d t c ( A g o a C D f D a c r p o a m v ( A A ( A p w m a f a t s a l p u K 1 ( A o ( A t f f ( A p g ( A r w u r t o a m i a s r]
+[DELETED:   2  E l i s S ( A t ( " ( " ( " ( E c u c V R a l o a p i b i w c m v i w t b e c o n d e p v ( A p c [ O a a J 1 2 t s s n a t p c p S ( ( A "]
+[DELETED:   2  E 1 A l 2 A o f m v t w s t ( o ( P c t w l i o p m v i K D ( b p m v i p T i s b s e e o b p c a t o o t D ( I a a e o t i s n b s t c l f l s o a o r t a n c c o a s o t i r b s ( o t s i s o i o i i ( E 0 w S ( A t]
+[DELETED:   2  E ( " ( " ( " ( " ( ( E m r t h f t i c p s r u c w ( A f ( F c m v t i c s c i t ( I a o e i a i c o a n a m v k i ( t a ( E f ( S 1 P 2 C b a i t h o t r t t a o]
+[DELETED:   2  E i ( F c a o i v s a d i K 3 ( T 3 p ( I t p p e i c e t t r s i c w w ( F ( A a o c ( W s t p a a l f a d t t m e ( W a p p e o f r u a m t o S]
+[DELETED:   2  E ( T r t t t a c c u s ( o S ( T D o V R s n t m o t t d t a l o t f m w m m i r a ( T ( I a i s u f t d r t t e S]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 AN ACT relating to motor vehicle insurance.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 186A.040 is amended to read as follows:
+4 (1) As used in this section, unless the context requires otherwise:
+5 (a) "Accessible online insurance verification system" or "system" means the
+6 accessible online insurance verification system established by the
+7 department under this section;
+8 (b) "Commercial motor vehicle" means a motor vehicle that is covered by
+9 commercial motor vehicle insurance;
+10 (c) "Commercial motor vehicle insurance" means coverage:
+11 1. Provided to an insured, regardless of the number of vehicles or entities
+12 covered, under a commercial coverage form; and
+13 2. Rated from a commercial manual approved by the Department of
+14 Insurance;
+15 (d) "Department" means the Department of Vehicle Regulation;
+16 (e) "IICMVA" means the Insurance Industry Committee on Motor Vehicle
+17 Administration or a successor organization;
+18 (f) "Insurer" means an insurer that provides coverage for the security required
+19 under KRS 304.39-080;
+20 (g) "Personal motor vehicle" means a motor vehicle that is not covered by
+21 commercial motor vehicle insurance; and
+22 (h) "Requestor" means the authorized personnel of any of the following:
+23 1. The department;
+24 2. Any District or Circuit Court of this state;
+25 3. Any county attorney or Commonwealth's attorney of this state;
+26 4. Any county clerk of this state;
+27 5. Any law enforcement agency of this state; or
+Page 1 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 6. Any other entities authorized by the department, to the extent
+2 permitted by state and federal privacy laws.
+3 (2) (a) The department[ of Vehicle Regulation] shall:
+4 1. Provide and receive information on the insurance status of motor
+5 vehicles registered in[ the Commonwealth of] Kentucky in accordance
+6 with this section and[pursuant to] KRS 304.39-087 and 304.39-085;[.
+7 The department shall provide appropriate insurance information to the
+8 Commonwealth Office of Technology for inclusion in the AVIS
+9 database to assist in identifying uninsured motor vehicles]
+10 2. Establish an accessible online insurance verification system that:
+11 a. Is used for verification of whether motor vehicles are covered by
+12 the security required under KRS 304.39-080;
+13 b. Is interfaced with AVIS;
+14 c. Beginning not later than October 1, 2026, is:
+15 i. Operational; and
+16 ii. Available to insurers;
+17 d. Beginning not later than January 1, 2027, is accessible by
+18 requestors to assist the requestors in the identification of motor
+19 vehicles that are not in compliance with KRS 304.39-080; and
+20 e. Includes information that enables the department to make
+21 inquiries to insurers by using multiple data elements for greater
+22 matching accuracy;
+23 3. On or before January 1, 2026, promulgate an emergency and ordinary
+24 administrative regulation in accordance with KRS Chapter 13A to
+25 establish, implement, and effectuate the accessible online insurance
+26 verification system, which:
+27 a. Shall:
+Page 2 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 i. Except as otherwise provided in this section, establish
+2 guidelines and requirements for the system that are
+3 consistent with IICMVA guidelines;
+4 ii. Include appropriate provisions to secure the system's data
+5 against unauthorized access;
+6 iii. Specify, in accordance with subsection (3) of this section,
+7 the information that insurers shall electronically submit,
+8 and the format, manner, and frequency of the electronic
+9 submissions, to the system for personal motor vehicles and
+10 commercial motor vehicles; and
+11 iv. Establish a period of not less than six (6) months but not
+12 more than twelve (12) months from the date of all requests
+13 and responses that system data shall be retained; and
+14 b. May establish an alternative method of reporting, in lieu of
+15 reporting to the system, for insurers who write one thousand
+16 (1,000) or fewer policies or contracts that provide coverage for
+17 the security required under KRS 304.39-080; and
+18 4. Make any amendments to the administrative regulation promulgated
+19 under this section or any other administrative regulation related to the
+20 system that are necessary to establish, implement, operate, or maintain
+21 the accessible online insurance verification system, which shall
+22 include any necessary improvements to or replacement of the system.
+23 (b) The department may contract with a private service provider who has
+24 successfully implemented similar systems in other states to assist in
+25 establishing, implementing, operating, and maintaining the accessible
+26 online insurance verification system.
+27 (c) 1. Notwithstanding KRS 13A.100, the department shall:
+Page 3 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 a. By January 1, 2026, publish on its website and distribute to
+2 motor vehicle insurers authorized to do business in Kentucky a
+3 final detailed guide of the accessible online insurance
+4 verification system;
+5 b. Periodically review, make any necessary updates to, and publish
+6 on its website any updates to the guide referenced in this
+7 subparagraph; and
+8 c. Distribute any updates made to the guide referenced in this
+9 subparagraph to motor vehicle insurers authorized to do
+10 business in Kentucky.
+11 2. The guide referenced in subparagraph 1. of this paragraph shall not
+12 conflict with, or impose requirements that are not set out or
+13 incorporated by reference in, an administrative regulation
+14 promulgated by the department under this section.
+15 3. The Department of Insurance shall assist the department in making
+16 the distributions required under this paragraph.
+17 (d) The department and any contracted private service provider shall each
+18 maintain a contact person for insurers during the implementation and
+19 operation of the accessible online insurance verification system.
+20 (3)[(2)] (a) Except as otherwise provided in this section, insurers that provide
+21 coverage for the security required under KRS 304.39-080 for personal
+22 motor vehicles shall:
+23 1. Cooperate with the department in the implementation, operation,
+24 maintenance, and any necessary improvements to or replacement of
+25 the accessible online insurance verification system; and
+26 2. On and after January 1, 2027:
+27 a. Send to the department:
+Page 4 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 i. A list of the vehicle identification numbers (VINs) of the
+2 personal motor vehicles that are covered by the insurer;
+3 and
+4 ii. The name of each policyholder for each personal motor
+5 vehicle covered by the insurer as specified by the
+6 department;
+7 b. Provide access to any other insurance status information for
+8 personal motor vehicles that are covered by the insurer as
+9 specified by the department; and
+10 c. Submit the information required under this subparagraph
+11 electronically to the department through the accessible online
+12 insurance verification system.
+13 (b) 1. In lieu of compliance with Section 9 of this Act, an insurer may opt to
+14 submit insurance status information for commercial motor vehicles
+15 electronically to the department through the accessible online
+16 insurance verification system.
+17 2. An insurer that opts to submit insurance status information under this
+18 paragraph shall comply with any specifications and requirements
+19 established by the department under subsection (2)(a)3.a.iii. of this
+20 section for the information.
+21 (c) Insurers may contract for the services of a third-party vendor to facilitate or
+22 otherwise comply with the requirements of this section.
+23 (d) Insurers shall not be subject to civil or administrative liability for libel,
+24 slander, or any other relevant tort, and no civil cause of action of any
+25 nature shall arise against an insurer or an authorized employee of an
+26 insurer for any good-faith efforts to comply with this section, including but
+27 not limited to submitting, or providing access to, any information or data
+Page 5 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 required or permitted under this section, even if the information or data is
+2 inaccurate or incomplete.
+3 (4) (a) As used in this subsection, "domestic" insurer and "foreign" insurer have
+4 the same meanings as in KRS 304.1-070.
+5 (b) There is created a technical advisory committee whose duties shall be to:
+6 1. Review the establishment, implementation, operation, and
+7 maintenance of the accessible online insurance verification system;
+8 and
+9 2. Make recommendations to the department to ensure that the
+10 accessible online insurance verification system is:
+11 a. Efficient and operational upon implementation; and
+12 b. Consistent with the objectives and requirements of this section.
+13 (c) The technical advisory committee shall be composed of the following seven
+14 (7) members:
+15 1. Four (4) voting members appointed by the commissioner of the
+16 Department of Insurance in accordance with paragraph (d) of this
+17 subsection;
+18 2. The president of the Kentucky County Clerk's Association or the
+19 president's designee, who shall serve as a voting ex officio member;
+20 3. The commissioner of the Department of Insurance or the
+21 commissioner's designee, who shall serve as a voting ex officio
+22 member; and
+23 4. The commissioner of the department or the commissioner's designee,
+24 who shall serve as a nonvoting ex officio member and as chair of the
+25 committee.
+26 (d) 1. The commissioner of the Department of Insurance shall, in
+27 accordance with this paragraph, appoint to the technical advisory
+Page 6 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 committee one (1) representative for each of the four (4) insurers:
+2 a. Identified by the Department of Insurance under this paragraph;
+3 and
+4 b. That designate, upon request and within a reasonable amount of
+5 time, an individual to serve as a representative on the committee.
+6 2. The Department of Insurance shall identify the following four (4)
+7 insurers:
+8 a. The domestic property and casualty insurer that has the largest
+9 dollar amount of direct written premiums for motor vehicle
+10 insurance in Kentucky as of the date of the notification made
+11 under subparagraph 4. of this paragraph;
+12 b. The two (2) foreign property and casualty insurers that have the
+13 largest dollar amounts of direct written premiums for motor
+14 vehicle insurance in Kentucky as of the date of the notification
+15 made under subparagraph 4. of this paragraph; and
+16 c. A domestic or foreign property and casualty insurer with direct
+17 written premiums for motor vehicle insurance in Kentucky
+18 designated by the commissioner of the Department of Insurance
+19 to represent small and medium-sized insurers in Kentucky's
+20 motor vehicle insurance market.
+21 3. If an insurer identified by the Department of Insurance under
+22 subparagraph 2. of this paragraph declines or fails, within a
+23 reasonable amount of time, to designate an individual to serve as a
+24 representative of the insurer on the technical advisory committee, the
+25 Department of Insurance shall identify:
+26 a. For an insurer identified under subparagraph 2.a. of this
+27 paragraph, the domestic property and casualty insurer with the
+Page 7 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 next largest dollar amount of direct written premiums for motor
+2 vehicle insurance in Kentucky as of the date that the previously
+3 identified domestic property and casualty insurer declined or
+4 failed to designate a representative;
+5 b. For an insurer identified under subparagraph 2.b. of this
+6 paragraph, the foreign property and casualty insurer with the
+7 next largest dollar amount of direct written premiums for motor
+8 vehicle insurance in Kentucky as of the date that the previously
+9 identified foreign property and casualty insurer declined or
+10 failed to designate a representative; and
+11 c. For an insurer identified under subparagraph 2.c. of this
+12 paragraph, an insurer that meets the requirements of that
+13 subdivision.
+14 4. The Department of Insurance shall:
+15 a. Request each insurer identified by the Department of Insurance
+16 under subparagraph 2. of this paragraph, and if applicable,
+17 subparagraph 3. of this paragraph, to designate an individual to
+18 serve as a representative of the insurer on the technical advisory
+19 committee; and
+20 b. Appoint the individual designated by the insurer notified under
+21 this subparagraph to the technical advisory committee.
+22 5. Each member appointed under this paragraph shall serve a four (4)
+23 year term and may be reappointed.
+24 6. Vacancies of members appointed under this paragraph shall be filled:
+25 a. Within thirty (30) days of the vacancy; and
+26 b. In the same manner as the original appointment.
+27 (e) Prior to making a filing under KRS Chapter 13A or publishing and
+Page 8 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 distributing, as applicable, the department shall submit drafts of the
+2 following to the technical advisory committee for review and
+3 recommendations:
+4 1. Any new, amended, or repealer emergency or ordinary administrative
+5 regulation, along with any forms required under KRS 13A.230,
+6 required or permitted under this section or otherwise related to the
+7 system; and
+8 2. The final detailed guide, including any updates to the final detailed
+9 guide, required under subsection (2)(c) of this section.
+10 (f) In addition to the requirements of paragraph (e) of this subsection, the
+11 department shall keep the technical advisory committee informed about,
+12 and consult with the committee regarding, the establishment,
+13 implementation, operation, and maintenance of the accessible online
+14 insurance verification system.
+15 (g) All meetings of, and communications to and from, the technical advisory
+16 committee shall be exempt from the requirements of the Open Meetings Act,
+17 KRS 61.805 to 61.850.
+18 (5) (a) The department shall immediately make a notification to a motor vehicle
+19 owner upon any of the following:
+20 1. Notification to the department[ of Vehicle Regulation] from an
+21 insurer[insurance company] of cancellation or nonrenewal of the
+22 owner's commercial motor vehicle insurance[a policy] pursuant to
+23 KRS 304.39-085;[, or]
+24 2. Prior to January 1, 2027[on and after January 1, 2006], if the vehicle
+25 identification number (VIN) of the owner's[a] personal motor vehicle,
+26 as defined in subsection (1)(a) of Section 10 of this Act, does not
+27 appear in the database created by KRS 304.39-087 for two (2)
+Page 9 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 consecutive reporting months; or
+2 3. On and after January 1, 2027, if the vehicle identification number
+3 (VIN) of the owner's personal motor vehicle, or commercial motor
+4 vehicle if the commercial motor vehicle is covered by an insurer that
+5 has opted to report to the system, does not appear in the accessible
+6 online insurance verification system for seven (7) consecutive days[,
+7 the department shall immediately make a determination as to the
+8 notification of the insured].
+9 (b) The notification required under paragraph (a) of this subsection shall:
+10 1. Be in either a paper or an electronic format;
+11 2. Specify each motor vehicle to which the notification pertains; and
+12 3. [to the insured shall ]State that:
+13 a. The owner's insurance[insured's policy] is no longer valid; and[
+14 that ]
+15 b. The department shall revoke the registration of each motor
+16 vehicle to which the notification pertains unless one (1) of the
+17 following occurs within fourteen (14)[insured shall have thirty
+18 (30)] days after the date the insurance became invalid:[ to]
+19 i. The owner provides[Show] proof of insurance to the county
+20 clerk or the department; or
+21 ii. The accessible online insurance verification system
+22 indicates that the motor vehicle or motor vehicles are
+23 covered by the security required under KRS 304.39-080.[
+24 The department shall further inform the insured that if
+25 evidence of insurance is not received within thirty (30) days
+26 the department shall revoke the registration of the motor
+27 vehicle until:
+Page 10 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 1. The person presents proof of insurance to the county clerk and pays the
+2 reinstatement fee required by KRS 186.180;
+3 2. The person presents proof in the form of an affidavit stating, under
+4 penalty of perjury as set forth in KRS 523.030, that the failure to
+5 maintain motor vehicle insurance on the vehicle specified in the
+6 department's notification is the result of the inoperable condition of the
+7 motor vehicle;
+8 3. The person presents proof in the form of an affidavit stating, under
+9 penalty of perjury as set forth in KRS 523.030, that the failure to
+10 maintain motor vehicle insurance on the vehicle specified in the
+11 department's notification is the result of the seasonal nature of the
+12 vehicle. The affidavit shall explain that when the vehicle is out of
+13 dormancy and when the seasonal use of the vehicle is resumed, the
+14 proper security will be obtained; or
+15 4. The person presents proof in the form of an affidavit stating, under
+16 penalty of perjury as set forth in KRS 523.030, that he or she requires a
+17 registered motor vehicle in order to carry out his or her employment and
+18 that the motor vehicle that he or she drives during the course of his or
+19 her employment meets the security requirement of Subtitle 39 of KRS
+20 Chapter 304. The person shall also declare in the affidavit that he or she
+21 will operate a motor vehicle only in the course of his or her
+22 employment. If a person has his or her motor vehicle registration
+23 revoked in accordance with this subsection three (3) times within any
+24 twelve (12) month period, the revocations shall constitute a violation of
+25 KRS 304.39-080. The department shall notify the county attorney to
+26 begin prosecution for violation of subtitle 39 of KRS Chapter 304.
+27 (b) The Department of Vehicle Regulation shall be responsible for notification to
+Page 11 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 the appropriate county attorney that a motor vehicle is not properly insured, if
+2 the insured does not respond to notification set out by paragraph (a) of this
+3 subsection. The notice that the department gives to the county attorney in
+4 accordance with paragraph (a) of this subsection shall include a certified copy
+5 of the person's driving record which shall include:
+6 1. The notice that the department received from an insurance company that
+7 a person's motor vehicle insurance policy has been canceled or has not
+8 been renewed; and
+9 2. A dated notice that the department sent to the person requiring the
+10 person to present proof of insurance to the county clerk.
+11 Upon notification by the department, a county attorney shall
+12 immediately begin prosecution of the person who had his or her motor
+13 vehicle registration revoked three (3) times within any twelve (12)
+14 month period in accordance with paragraph (a) of this subsection.]
+15 (c) An owner may present the proof of insurance required under this
+16 subsection in either a paper or an electronic format[The certified copies sent
+17 by the department described in paragraph (b) of this subsection, shall be prima
+18 facie evidence of a violation of KRS 304.39-080].
+19 (d) When proof of insurance is provided in electronic format, the department or
+20 county clerk may require the owner to email or otherwise electronically
+21 submit the proof of insurance for the department's or clerk's records[If the
+22 insured provides proof of insurance to the clerk within the thirty (30) day
+23 notification period, the department shall ensure action is taken to denote a
+24 valid insurance policy is in force].
+25 (6)[(3)] (a) In developing the mechanism to electronically transfer information
+26 pursuant to this section and KRS 304.39-087 and 304.39-085, the
+27 commissioner of the department[ of Vehicle Regulation] shall:
+Page 12 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 1. Consult with the commissioner of the Department of Insurance and
+2 insurers of[ personal] motor vehicles to adopt a standardized system of
+3 organizing, recording, and transferring the information so as to
+4 minimize insurer administrative expenses; and[. The commissioner of
+5 vehicle regulation shall ]
+6 2. To the maximum extent possible, utilize nationally recognized
+7 electronic data information systems consistent with the requirements of
+8 this section[such as those developed by the American National
+9 Standards Institute or the American Association of Motor Vehicle
+10 Administrators].
+11 (b) Notwithstanding any other provision of law:[, ]
+12 1. Information obtained by the department pursuant to this section and
+13 KRS 304.39-087 shall not be:
+14 a. Subject to the Kentucky Open Records Act, KRS 61.870[61.872]
+15 to 61.884; or[, and shall not be ]
+16 b. Disclosed, used, sold, accessed, or utilized in any manner, or
+17 released by the department to any individual, entity[person,
+18 corporation], or state or[and] local agency, except:
+19 i. In accordance with state law for the purposes specified by
+20 this section; or
+21 ii. In response to a specific individual request for the
+22 information authorized pursuant to the federal Driver's
+23 Privacy Protection Act, 18 U.S.C. sec.[secs.] 2721 et seq.;
+24 2. The department shall institute measures to ensure that only authorized
+25 persons are permitted to access the information referenced in this
+26 paragraph for the purposes specified by this section; and[. ]
+27 3. Persons who knowingly release or disclose information[ from the
+Page 13 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 database created by KRS 304.39-087] for a purpose other than those[
+2 described as] authorized by this paragraph[section] or to a person not
+3 entitled to receive it shall be guilty of a Class A misdemeanor for each
+4 release or disclosure.
+5 (7) The Commonwealth Office of Technology and the Department of Insurance shall
+6 provide support and assistance to the department in carrying out the provisions of
+7 this section.
+8 Section 2. KRS 186A.042 is amended to read as follows:
+9 (1) As used in this section, the following have the same meaning as in Section 1 of
+10 this Act:
+11 (a) "Accessible online insurance verification system"; and
+12 (b) "Personal motor vehicle."
+13 (2) [On and after January 1, 2006, ]A county clerk shall not process an application for,
+14 nor issue, a:
+15 (a) Kentucky title and registration or renewal of registration;
+16 (b) Replacement plate, decal, or registration certificate;
+17 (c) Duplicate registration;
+18 (d) Transfer of registration; or
+19 (e) Temporary tag;
+20 for any personal motor vehicle[ as defined in KRS 304.39-087(1)] if the accessible
+21 online insurance verification system[AVIS] does not list the vehicle identification
+22 number of the personal motor vehicle as an insured vehicle, except as provided in
+23 subsection (3)[(2)] of this section.
+24 (3)[(2)] If the accessible online insurance verification system[AVIS] does not list the
+25 vehicle identification number of the personal motor vehicle as an insured vehicle,
+26 the county clerk may process the application if :
+27 (a) The applicant has an insurance card in either a paper or an electronic format
+Page 14 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 that indicates the required security is currently in full force and effect on the
+2 personal motor vehicle if the paper or electronic proof of insurance card was
+3 effective no more than seven (7)[forty-five (45)] days before the application is
+4 submitted to the county clerk; or
+5 (b) The owner of the motor vehicle:
+6 1. Is serving in the Armed Forces outside of Kentucky;[,] and[ the owner]
+7 2. Provides an affidavit by the provost marshal of the base where the
+8 owner is stationed stating that the motor vehicle is covered by security
+9 as required by Subtitle 39 of KRS Chapter 304.
+10 (4)[(3)] This section shall not apply to any transactions involving Kentucky motor
+11 vehicle dealers who are licensed as required by KRS 190.030.
+12 (5)[(4)] For purposes of this section:
+13 (a) An insurance card in an electronic format means the display of an image
+14 subject to immediate download or transmission from the applicant's insurer or
+15 insurance agent to the applicant on an[any portable] electronic device,
+16 including a cellular phone or any other type of portable electronic device, but
+17 shall not include a photographic copy of a paper insurance card on a portable
+18 electronic device; and
+19 (b) The county clerk may require the applicant to email[e-mail] the electronic
+20 insurance card to the clerk, and the clerk may print a copy of the card for the
+21 clerk's records.
+22 Section 3. KRS 186A.100 is amended to read as follows:
+23 (1) (a) A motor vehicle dealer licensed under KRS 186.070 who sells a vehicle for
+24 use upon the highways of this state shall equip the vehicle with a temporary
+25 tag executed in the manner prescribed below, which shall be valid for sixty
+26 (60) days from the date the vehicle is delivered to the purchaser.
+27 (b) The cost of the tag shall be two dollars ($2), of which the county clerk shall
+Page 15 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 retain one dollar ($1).
+2 (c) A motor vehicle dealer licensed under KRS 186.070 shall apply to the county
+3 clerk of the county in which the dealer maintains his or her principal place of
+4 business for issuance of temporary tags. Application shall be made for such
+5 tags on forms supplied to the county clerk by the Transportation Cabinet.
+6 (2) The county clerk of any county who receives a proper application for issuance of
+7 temporary tags shall record the number of each tag issued upon the application of
+8 the dealer for such tags, or if a group of consecutively numbered temporary tags are
+9 issued to a dealer in connection with a single application, record the beginning and
+10 ending numbers of the group on the application.
+11 (3) The clerk shall retain, for a period of two (2) years, one (1) copy of the dealer's
+12 temporary tag application, and ensure that it reflects the numbers appearing on the
+13 tags issued with respect to such application.
+14 (4) (a) If the owner of a motor vehicle submits to the county clerk a properly
+15 completed application for Kentucky certificate of title and registration
+16 pursuant to KRS 186A.120, any motor vehicle required to be registered and
+17 titled in Kentucky, that is not currently registered and titled in Kentucky, may
+18 be equipped with a temporary tag, which shall be valid for sixty (60) days
+19 from the date of issuance, issued by the county clerk for the purpose of
+20 operating the vehicle in Kentucky while assembling the necessary documents
+21 in order to title and register the vehicle in Kentucky.
+22 (b) The Transportation Cabinet may promulgate[establish] administrative
+23 regulations in accordance with KRS Chapter 13A governing this
+24 subsection[section].
+25 (5) (a) The county clerk may issue a temporary tag to the owner of a motor vehicle
+26 that is currently registered and titled in Kentucky.
+27 (b) A temporary tag authorized by this subsection shall be used for emergency or
+Page 16 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 unusual purposes as determined by the county clerk for the purpose of
+2 maintaining the owner's current registration.
+3 (c) A temporary tag authorized by this subsection may only be issued by the
+4 county clerk and shall be valid for a period of between twenty-four (24) hours
+5 and seven (7) days, as determined is necessary by the clerk.
+6 (d) A county clerk shall not issue a temporary tag authorized by this subsection
+7 unless the owner of the motor vehicle applying for the tag presents proof of
+8 motor vehicle insurance pursuant to KRS 304.39-080. [On and after January
+9 1, 2006, If the motor vehicle is a personal motor vehicle as defined in KRS
+10 304.39-087, ]Proof of insurance for a personal motor vehicle shall be
+11 determined by the county clerk as provided in KRS 186A.042.
+12 (e) A temporary tag issued pursuant to this subsection shall not be reissued by the
+13 county clerk for the same owner and same motor vehicle within one (1) year
+14 of issuance of a temporary tag.
+15 Section 4. KRS 186.021 is amended to read as follows:
+16 (1) Except as provided in subsection (2) of this section, a county clerk shall not issue a
+17 replacement plate, decal, or registration certificate as provided in KRS 186.180, or a
+18 registration for renewal to any person who on January 1 of any year owned a motor
+19 vehicle on which state, county, city, urban-county government, school, or special
+20 taxing district ad valorem taxes are delinquent.
+21 (2) (a) Pursuant to KRS 134.810(4), the owner as defined in KRS 186.010(7)(a) and
+22 (c) on January 1 of any year shall be liable for taxes due on a motor vehicle.
+23 (b) A person other than the owner of record who applies to a county clerk to
+24 transfer the registration of a motor vehicle may pay any delinquent ad valorem
+25 taxes due on the motor vehicle to facilitate the county clerk's transferring
+26 registration of the motor vehicle.
+27 (c) The person applying shall not be required to pay delinquent ad valorem taxes
+Page 17 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 due on any other motor vehicle owned by the owner of record from which he
+2 is purchasing his motor vehicle as a condition of registration.
+3 (3) (a) A county clerk shall not issue a replacement plate, decal, or registration
+4 certificate as provided in KRS 186.180, or a registration renewal for any
+5 motor vehicle that is not insured in compliance with KRS 304.39-080.
+6 (b) Each applicant for registration renewal shall present proof of compliance to
+7 the county clerk in a manner prescribed in administrative regulations issued
+8 by the Department of Insurance.
+9 (c) [On and after January 1, 2006, if the motor vehicle is a personal motor vehicle
+10 as defined in KRS 304.39-087, ]Proof of insurance for a personal motor
+11 vehicle shall be determined by the county clerk as provided in KRS
+12 186A.042.
+13 Section 5. KRS 186.040 is amended to read as follows:
+14 (1) (a) Upon receiving the application and fee, the county clerk shall issue to the
+15 owner a certificate of registration containing the information required by
+16 subsection (2) of this section and a registration plate.
+17 (b) If the cabinet finds that there is a shortage of materials suitable for making
+18 plates, or that a substantial saving will result, it may require by an
+19 administrative regulation promulgated in accordance with KRS Chapter 13A
+20 and with the approval of the Governor that the previously issued plates
+21 continue to be used for a designated period.
+22 (c) Except as provided in subsection (3) of this section and in KRS 186.162, for
+23 services performed, the owner shall pay the county clerk the sum of six
+24 dollars ($6) for each registration, or if the registration exceeds a twelve (12)
+25 month period, the clerk shall receive a fee of nine dollars ($9).
+26 (2) The certificate of registration shall contain the registration number, the name and
+27 post office address of the owner, and such other information as the cabinet may
+Page 18 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 require.
+2 (3) Thirty dollars ($30) of the registration fee under KRS 186.050 for a motor vehicle
+3 that has a declared gross vehicle weight with any towed unit of forty-four thousand
+4 and one (44,001) pounds or greater shall be distributed to the county clerk of the
+5 county where the vehicle is registered.
+6 (4) (a) Any person requesting a certificate of registration or renewal of registration of
+7 any type of motor vehicle shall have the opportunity to donate one dollar ($1)
+8 to the child care assistance account.
+9 (b) The one dollar ($1) donation shall be added to the regular fee for vehicle
+10 registration.
+11 (c) One (1) donation may be made per issuance or renewal of vehicle registration.
+12 (d) Donation to the child care assistance account shall be voluntary and may be
+13 refused by the applicant at the time of the issuance or renewal of any vehicle
+14 registration.
+15 (5) (a) The county clerk may retain five percent (5%) of fees collected for the child
+16 care assistance account under subsection (4) of this section.
+17 (b) The remaining funds shall be deposited into a trust and agency account in the
+18 State Treasury to the credit of the Cabinet for Health and Family Services for
+19 the exclusive use as follows:
+20 1.[(a)] Funds shall be made available to the agencies that administer child
+21 care subsidy funds; and
+22 2.[(b)] Funds shall be used as determined by the cabinet for working
+23 families whose income exceeds the state income eligibility limits for
+24 child day care assistance.
+25 (6) (a) Except as provided in KRS 186.162, in addition to the registration fee
+26 provided for county clerks in subsections (1) and (3) of this section, an
+27 additional three dollars ($3) per registration shall be collected at the time of
+Page 19 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 registration.
+2 (b) This additional fee shall be distributed as follows:
+3 1.[(a)] One dollar ($1) shall be placed in an agency fund to provide
+4 additional funds exclusively for technological improvements or
+5 replacement of the AVIS system. The operation and maintenance of
+6 AVIS shall remain as currently provided for from the operational budget
+7 of the Transportation Cabinet and shall not be reduced below the 2005-
+8 2006 funding level;
+9 2.[(b)] One dollar ($1) shall be placed in an agency trust fund to provide
+10 funds exclusively for technological improvements to the hardware and
+11 software in county clerk offices related to the collection and
+12 administration of road fund taxes. The[ Transportation] cabinet, in
+13 consultation with county clerks, shall allocate funds as necessary from
+14 this fund to be used for this exclusive purpose; and
+15 3.[(c)] One dollar ($1) shall be placed in a trust fund to be maintained by
+16 the[ Transportation] cabinet to provide an unrestricted revenue
+17 supplement, for operations of the office related to the collection and
+18 administration of road fund taxes, to county clerk offices in counties
+19 containing a population of less than twenty thousand (20,000), as
+20 determined by the decennial census, and for no other purpose. Annually,
+21 by March 1, the[ Transportation] cabinet shall calculate the amount
+22 collected in the previous calendar year and distribute the entire fund
+23 proportionate to each county that qualifies under this paragraph based on
+24 population. This revenue shall be considered current year revenue when
+25 paid to the clerk and shall not be identified as excess fees from the
+26 previous year.
+27 (7) Any motor vehicle registration cancelled for nonrenewal shall be subject to the
+Page 20 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 provisions of KRS 186.181.
+2 (8) (a) The owner of a motor vehicle for which the registration has been cancelled
+3 under this section, or revoked under subsection (5)(b) of Section 1 of this
+4 Act, shall be subject to a reinstatement fee of forty dollars ($40), payable to
+5 the county clerk.
+6 (b) The county clerk shall retain twenty dollars ($20) of the reinstatement fee and
+7 forward the remaining twenty dollars ($20) to the cabinet.
+8 (c) The portion of the reinstatement fee received by the cabinet under this
+9 subsection as a result of a revocation under subsection (5)(b) of Section 1 of
+10 this Act shall be placed in an agency fund to provide additional funds
+11 exclusively for the establishment, implementation, operation, maintenance,
+12 and any necessary improvements or replacement of the accessible online
+13 insurance verification system established under Section 1 of this Act.
+14 Section 6. KRS 186.180 is amended to read as follows:
+15 (1) (a) If an[the] owner loses his or her copy of a registration or transfer receipt, the
+16 owner[he or she] may obtain a duplicate from the county clerk who issued the
+17 present owner's copy of the receipt if:[by]
+18 1. [Presenting the clerk ]Proof of insurance on the motor vehicle in
+19 compliance with KRS 304.39-080 is provided to the county clerk,
+20 except that proof of insurance shall not be required for duplicates
+21 applied for by motor vehicle dealers as defined in KRS 190.010;[, and
+22 by ]
+23 2. The owner files[Filing] an affidavit, upon a form furnished by the
+24 cabinet; and[. ]
+25 3. The owner pays[shall pay] to the county clerk a fee of three dollars
+26 ($3)[, except proof of insurance shall not be required for duplicates
+27 applied for by motor vehicle dealers as defined in KRS 190.010].
+Page 21 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 (b) When an[the] owner's copy of any registration or transfer receipt shows that
+2 the spaces provided thereon for noting and discharging security interests have
+3 been exhausted, the owner may obtain a duplicate from[apply to] the county
+4 clerk who issued the receipt if:[in order to obtain a duplicate thereof.]
+5 1. The owner surrenders[shall surrender] his or her copy of the current
+6 receipt to the county clerk;[ and provide ]
+7 2. Proof of insurance on the motor vehicle in compliance with KRS
+8 304.39-080 is provided to the county clerk, except that proof of
+9 insurance shall not be required for duplicates applied for by motor
+10 vehicle dealers as defined in KRS 190.010; and[, before a duplicate
+11 may be issued.]
+12 3. The owner pays to[shall pay] the county clerk a fee of three dollars
+13 ($3)[, except proof of insurance shall not be required for duplicates
+14 applied for by motor vehicle dealers as defined in KRS 190.010].
+15 (c) Any security interest which has been discharged as shown by the records of
+16 the clerk or upon the owner's copy of the current receipt shall be omitted from
+17 the duplicate receipt to be issued by the county clerk.
+18 (2) (a) If an[the] owner loses a registration plate, the owner[he or she] shall:
+19 1. Surrender his or her registration receipt to the county clerk from whom
+20 it was obtained; and
+21 2. File a written statement as to the loss of the plate.
+22 (b) [Upon presenting the clerk proof of insurance on the motor vehicle in
+23 compliance with KRS 304.39-080, and upon the payment of the sum of three
+24 dollars ($3) for each plate and a fee of three dollars ($3) to the clerk for his or
+25 her services, ]The owner shall be issued another registration receipt and a
+26 plate or plates, which shall bear a different number from that of the lost plate,
+27 if:
+Page 22 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 1. Proof of insurance on the motor vehicle in compliance with KRS
+2 304.39-080 is provided to the county clerk; and
+3 2. The owner pays to the county clerk the sum of:
+4 a. Three dollars ($3) for each plate; and
+5 b. Three dollars ($3) to the county clerk for his or her services.
+6 (c) The county clerk shall:
+7 1. Retain the owner's statement;[ and ]
+8 2. Retain a copy of the owner's proof of insurance;[, and shall ]
+9 3. Make a notation on the triplicate copy of the surrendered registration
+10 receipt stating the number of the registration receipt replacing it; and[. ]
+11 4. Forward the original copy of the surrendered receipt[ shall be
+12 forwarded] to the cabinet.
+13 (d) The cabinet shall:
+14 1. Immediately[forthwith] cancel the registration corresponding to the
+15 number of the lost plate; and
+16 2. Report[.] the cancellation[ shall be reported by the cabinet] to the
+17 commissioner of the Department of Kentucky State Police.
+18 (e) Any person finding a lost registration plate shall deliver it to the[
+19 Transportation] cabinet or to any county clerk for forwarding it to the cabinet.
+20 (3) (a) If an[the] owner moves from one (1) county into another county of the
+21 Commonwealth, the owner[he or she] may obtain from the county clerk of
+22 his or her county of residence a new registration receipt and new
+23 registration plate bearing the name of the county of residence if:[. In order to
+24 obtain a new registration plate, the owner shall surrender ]
+25 1. The owner surrenders his or her current registration receipt and current
+26 registration plate to the county clerk;[. Upon being provided with ]
+27 2. Proof of insurance on the motor vehicle in compliance with KRS
+Page 23 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 304.39-080 is provided to[,] the county clerk; and[ shall provide the
+2 owner with a new registration receipt and plate bearing the county
+3 name]
+4 3. The owner pays a fee of five dollars ($5) to the county clerk, of which
+5 the county clerk shall be entitled to retain three dollars ($3) and the
+6 cabinet shall be entitled to two dollars ($2).
+7 (b) The surrendered receipt and plate shall be forwarded to the[ Transportation]
+8 cabinet.[ The fee for this registration shall be five dollars ($5) of which the
+9 clerk shall be entitled to three dollars ($3) and the cabinet shall be entitled to
+10 two dollars ($2).]
+11 (4) If an[the] owner's registration is revoked under subsection (5)(b) of Section 1 of
+12 this Act[as a result of the provisions set forth in KRS 186A.040], the owner may
+13 have his or her registration reinstated by the county clerk who issued the present
+14 owner's copy of the receipt if[by presenting the clerk proof of]:
+15 (a) The owner pays to the county clerk the reinstatement fee required under
+16 subsection (8) of Section 5 of this Act; and
+17 (b) The owner provides proof of insurance on the motor vehicle in compliance
+18 with KRS 304.39-080 to the county clerk[and by filing an affidavit upon a
+19 form furnished by the cabinet; or
+20 (b) A valid compliance or exemption certificate in compliance with KRS 224.20-
+21 720 or issued under the authority of an air pollution control district under
+22 KRS 224.20-760].
+23 (5) The owner of a motor vehicle that has the vehicle's registration revoked under KRS
+24 186.290 shall pay to the clerk a fee of twenty dollars ($20), which shall be equally
+25 divided between the county clerk and the cabinet.
+26 (6) [On and after January 1, 2006, if the motor vehicle is a personal motor vehicle as
+27 defined in KRS 304.39-087, ]Proof of insurance for a personal motor
+Page 24 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 vehicle[required under this section] shall be determined by the county clerk as
+2 provided in KRS 186A.042.
+3 Section 7. KRS 186.190 is amended to read as follows:
+4 (1) (a) Except as provided for in paragraph (e) of this subsection, when a motor
+5 vehicle that has been previously registered changes ownership, the registration
+6 plate shall not remain upon the motor vehicle, but shall be retained by the
+7 seller and may be transferred to another vehicle owned or leased by the seller
+8 in accordance with paragraph (b) or (c) of this subsection.
+9 (b) An individual who sells a motor vehicle which has a valid registration plate
+10 may transfer that plate to another vehicle of the same classification at the time
+11 the individual transfers the vehicle. If the individual does not have a vehicle to
+12 transfer the plate to at the time the individual sells a vehicle, the individual
+13 may hold the registration plate for the period of registration. At any time
+14 during the period of registration, the individual shall notify the county clerk
+15 and transfer the plate to a vehicle of the same classification that he or she has
+16 obtained prior to operating that vehicle on a public highway. If the plate
+17 transfer occurs in the final month in which the existing registration is still
+18 valid, the individual shall be required to renew the registration on the newly
+19 acquired vehicle.
+20 (c) An individual who trades in a motor vehicle with a valid registration plate
+21 during the purchase of a motor vehicle from a licensed motor vehicle dealer
+22 shall remove the plate from the vehicle offered in trade. A photocopy of the
+23 valid certificate of registration shall be included with the application for title
+24 and registration for the purchased vehicle, and the plate shall be retained by
+25 the purchaser. The dealer shall equip the purchased vehicle with a temporary
+26 tag in accordance with KRS 186A.100 before the buyer may operate it on the
+27 highway. When the buyer receives a valid certificate of registration from the
+Page 25 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 county clerk, the buyer shall remove the temporary tag and affix the
+2 registration plate to the vehicle.
+3 (d) All vehicle transfers and registration plate transfers shall be initiated within
+4 the fifteen (15) day period established under KRS 186.020 and 186A.070.
+5 (e) This subsection shall not apply to transfers between motor vehicle dealers
+6 licensed under KRS Chapter 190. A secured party who repossesses a vehicle
+7 shall comply with KRS 186.045(6).
+8 (2) (a) A person shall not purchase, sell, or trade any motor vehicle without
+9 delivering to the county clerk of the county in which the sale or trade is made
+10 the title, and a notarized affidavit if required and available under KRS
+11 138.450 attesting to the total and actual consideration paid or to be paid for
+12 the motor vehicle.
+13 (b) Except for transactions handled by a motor vehicle dealer licensed pursuant to
+14 KRS Chapter 190, the person who is purchasing the vehicle shall present
+15 proof of insurance in compliance with KRS 304.39-080 to the county clerk
+16 before the clerk transfers the registration on the vehicle.
+17 (c) Proof of insurance shall be in the manner prescribed in administrative
+18 regulations promulgated by the Department of Insurance pursuant to KRS
+19 Chapter 13A.
+20 (d) [On and after January 1, 2006, if the motor vehicle is a personal motor vehicle
+21 as defined in KRS 304.39-087, ]Proof of insurance for a personal motor
+22 vehicle shall be determined by the county clerk as provided in KRS
+23 186A.042.
+24 (3) (a) Upon delivery of the title, and a notarized affidavit if required and available
+25 under KRS 138.450 attesting to the total and actual consideration paid or to be
+26 paid for the motor vehicle to the county clerk of the county in which the sale
+27 or trade was made, the seller shall pay to the county clerk a transfer fee of two
+Page 26 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 dollars ($2), which shall be remitted to the Transportation Cabinet.
+2 (b) If an affidavit is required, and available, the signatures on the affidavit shall
+3 be individually notarized before the county clerk shall issue to the purchaser a
+4 transfer of registration bearing the same data and information as contained on
+5 the original registration receipt, except the change in name and address.
+6 (c) The seller shall pay to the county clerk a fee of six dollars ($6) for the
+7 clerk's[his] services.
+8 (4) (a) If the owner junks or otherwise renders a motor vehicle unfit for future use,
+9 the owner[he] shall deliver the registration plate and registration receipt to the
+10 county clerk of the county in which the motor vehicle is junked.
+11 (b) The county clerk shall return the plate and motor vehicle registration receipt
+12 to the Transportation Cabinet.
+13 (c) The owner shall pay to the county clerk one dollar ($1) for the clerk's[his]
+14 services.
+15 (5) A licensed motor vehicle dealer shall not be required to pay the transfer fee
+16 provided by this section, but shall be required to pay the county clerk's fee provided
+17 by this section.
+18 (6) The motor vehicle registration receipt issued by the clerk under this section shall
+19 contain information required by the Department of Vehicle Regulation.
+20 Section 8. KRS 186.990 is amended to read as follows:
+21 (1) Any person who violates any of the provisions of KRS 186.020, 186.030, 186.040,
+22 186.045(4), 186.050, 186.056, 186.060, 186.073, 186.110, 186.130, 186.140,
+23 186.160, 186.170, 186.180(1) to (4)[(a)], 186.210(1), 186.230, or KRS 186.655 to
+24 186.680 shall be guilty of a violation.
+25 (2) Any person who violates any of the provisions of KRS 138.465, 186.072, 186.190,
+26 186.200, or 186.210(2) shall be guilty of a Class A misdemeanor.
+27 (3) A person who violates the provisions of KRS 186.450(4), (5), or (6) or 186.452(3),
+Page 27 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 (4), or (5) shall be guilty of a violation. A person who violates any of the other
+2 provisions of KRS 186.400 to 186.640 shall be guilty of a Class B misdemeanor.
+3 (4) Any clerk or judge failing to comply with KRS 186.550(1) shall be guilty of a
+4 violation.
+5 (5) If it appears to the satisfaction of the trial court that any offender under KRS
+6 186.400 to 186.640 has a driver's license but in good faith failed to have it on his or
+7 her person or misplaced or lost it, the court may, in its discretion, dismiss the
+8 charges against the defendant without fine, imprisonment, or cost.
+9 (6) Any person who steals a motor vehicle registration plate or renewal decal shall be
+10 guilty of a Class D felony. Displaying a canceled registration plate on a motor
+11 vehicle shall be prima facie evidence of guilt under this section.
+12 (7) Any person who violates the provisions of KRS 186.1911 shall be guilty of a Class
+13 A misdemeanor.
+14 (8) Any person who makes a false affidavit to secure a license plate under KRS
+15 186.172 shall be guilty of a Class A misdemeanor.
+16 (9) Any person who violates any provision of KRS 186.070 or 186.150 shall be guilty
+17 of a Class A misdemeanor.
+18 (10) Any person who operates a vehicle bearing a dealer's plate upon the highways of
+19 this Commonwealth with intent to evade the motor vehicle usage tax or registration
+20 fee shall be guilty of a Class A misdemeanor for the first offense and a Class D
+21 felony for each subsequent offense.
+22 (11) Any person, other than a licensed dealer or manufacturer, who procures a dealer's
+23 plate with intent to evade the motor vehicle usage tax or registration fee shall be
+24 guilty of a Class D felony.
+25 (12) Any resident who unlawfully registers, titles, or licenses a motor vehicle in any
+26 state other than Kentucky with intent to evade the motor vehicle usage tax or the
+27 registration fee shall be guilty of a Class A misdemeanor if the amount of tax due is
+Page 28 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 less than one hundred dollars ($100), or of a Class D felony if the amount of tax due
+2 is more than one hundred dollars ($100), and in addition shall be liable for all taxes
+3 so evaded with applicable interest and penalties.
+4 Section 9. KRS 304.39-085 is amended to read as follows:
+5 (1) As used in this section, the following have the same meaning as in Section 1 of
+6 this Act:
+7 (a) "Commercial motor vehicle";
+8 (b) "Commercial motor vehicle insurance"; and
+9 (c) "Insurer."
+10 (2) Every insurer that does not provide access to insurance status information for
+11 commercial motor vehicles as specified by the Department of Vehicle Regulation
+12 under Section 1 of this Act[authorized insurance company] shall, within one (1)
+13 calendar week following the end of its accounting month, send to the Department of
+14 Vehicle Regulation a list of all persons insured by it whose commercial motor
+15 vehicle insurance[policy] was terminated by either cancellation or nonrenewal
+16 during such accounting month, except those persons whose nonrenewal was at the
+17 end of a policy with a term of six (6) months or longer and who failed to make a
+18 payment for the renewal of the policy. Such list shall include a description of each
+19 vehicle insured under such terminating policy.
+20 (3)[(2)] An insurer may[It shall be lawful for an authorized insurance company to]
+21 present the information required by subsection (2)[(1)] of this section by compatible
+22 computer tape approved by the Department of Vehicle Regulation.
+23 [(3) On and after January 1, 2006, this section shall not apply to policies covering
+24 personal motor vehicles as defined in KRS 304.39-087.]
+25 Section 10. KRS 304.39-087 is amended to read as follows:
+26 (1) (a) As used in this subsection[section], [unless the context requires otherwise,]
+27 "personal motor vehicle" means:
+Page 29 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 1.[(a)] A private passenger motor vehicle that is not used as a public or
+2 livery conveyance for passengers, nor rented to others; and
+3 2.[(b)] Any other four-wheel motor vehicle that weighs six thousand
+4 (6,000) pounds or less which is not used in the occupation, profession,
+5 or business of the insured.
+6 (b)[(2)] Prior to January 1, 2027[Beginning January 1, 2006], every insurance
+7 company that writes liability insurance on personal motor vehicles in
+8 Kentucky shall, between the first and fifteenth day of each month, send to the
+9 Department of Vehicle Regulation a list of the vehicle identification numbers
+10 (VINs) of each personal motor vehicle covered by liability insurance issued
+11 by the insurer as of the last day of the preceding month and the name of each
+12 personal motor vehicle insurance policyholder. The information shall be
+13 submitted either electronically or by paper copy at the option of the
+14 Department of Vehicle Regulation.
+15 (c)[(3)] In the absence of malice, fraud, or gross negligence, an[any] insurer and
+16 any authorized employee of the[an] insurer shall not be subject to civil
+17 liability for libel, slander, or any other relevant tort, and no civil cause of
+18 action of any nature shall arise against the insurer or authorized employee, for
+19 submission of the information required by[ subsection (2) of] this
+20 subsection[section], including submission of inaccurate or incomplete
+21 information.
+22 (2) Every insurer that provides coverage for the security required under KRS 304.39-
+23 080 for personal motor vehicles, as defined in Section 1 of this Act, shall comply
+24 with Section 1 of this Act.
+25 Section 11. KRS 304.39-117 is amended to read as follows:
+26 (1) As used in this section, the following have the same meaning as in Section 1 of
+27 this Act:
+Page 30 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 (a) "Accessible online insurance verification system" or "system";
+2 (b) "Commercial motor vehicle";
+3 (c) "Insurer"; and
+4 (d) "Personal motor vehicle."
+5 (2) (a) Each insurer[ issuing an insurance contract which provides security covering a
+6 motor vehicle] shall provide to the insured, in compliance with administrative
+7 regulations promulgated by the commissioner[department], written proof in
+8 the form of an insurance card that the insured has in full force and effect
+9 the[an insurance contract providing] security required under[in conformity
+10 with] this subtitle.
+11 (b) An insurer may provide an insurance card in either a paper or an electronic
+12 format.
+13 (c) For commercial motor vehicles, the insurance card shall clearly indicate
+14 that the coverage is commercial or fleet coverage.
+15 (3)[(2)] If an owner enters into an insurance contract on a newly acquired motor
+16 vehicle, or changes insurance carriers on an existing motor vehicle, the owner shall
+17 keep the paper insurance card or an[a portable] electronic device to download the
+18 insurance card in his or her motor vehicle for the following number of[forty-five
+19 (45)] days after[from] the date the coverage took effect as prima facie evidence that
+20 the required security is currently in full force and effect, and shall show the card to
+21 a peace officer upon request:
+22 (a) Except as provided in paragraph (b) of this subsection, forty-five (45) days
+23 for a commercial motor vehicle; or
+24 (b) Seven (7) days for a:
+25 1. Personal motor vehicle; or
+26 2. Commercial motor vehicle if the commercial motor vehicle is covered
+27 by an insurer that has opted to report to the accessible online
+Page 31 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 insurance verification system.
+2 (4)[(3)] For a[As to] personal motor vehicle or a commercial motor vehicle if the
+3 commercial motor vehicle is covered by an insurer that has opted to report to the
+4 accessible online insurance verification system:[vehicles as defined in KRS
+5 304.39-087, ]
+6 (a) The paper or electronic insurance card or the system[database created by KRS
+7 304.39-087] shall be evidence to a peace officer who requests the card if the
+8 peace officer has access to the system[database through AVIS]; and[. ]
+9 (b) If the system[AVIS] does not list the vehicle identification number of the[
+10 personal] motor vehicle as an insured vehicle, the peace officer may accept a
+11 paper or electronic insurance card as evidence that the required security is
+12 currently in full force and effect on the[ personal] motor vehicle if the card
+13 was effective no more than seven (7)[forty-five (45)] days before the date on
+14 which the peace officer requests the card.
+15 (5)[(4)] For purposes of this section:
+16 (a) An insurance card in an electronic format means the display of an image on
+17 any[ portable] electronic device, including a cellular phone or any other type
+18 of portable electronic device, depicting a current valid representation of the
+19 card;
+20 (b) Whenever a person presents an[a mobile] electronic device pursuant to this
+21 section, that person assumes all liability for any damage to the[ mobile]
+22 electronic device; and
+23 (c) When a person provides evidence of financial responsibility using an[a
+24 mobile] electronic device to a peace officer, the peace officer shall only view
+25 the electronic image of the insurance card and is prohibited from viewing any
+26 other content on the[ mobile] electronic device.
+27 Section 12. By July 1, 2025:
+Page 32 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+
+UNOFFICIAL COPY 25 RS HB 390/EN
+1 (1) The Department of Insurance shall identify and appoint the initial four insurer
+2 representatives to the technical advisory committee created under subsection (4) of
+3 Section 1 of this Act in accordance with paragraph (d) of that subsection; and
+4 (2) The Department of Vehicle Regulation shall notify the members of the
+5 technical advisory committee created under subsection (4) of Section 1 of this Act of the
+6 date, time, and location of the first meeting, which meeting may include remote
+7 attendance and shall:
+8 (a) Take place within 30 days of the date of the notification; and
+9 (b) Include an informational status update from the department relating to the
+10 establishment and implementation of the accessible online insurance verification system.
+11 Section 13. Sections 2 and 11 of this Act take effect on January 1, 2027.
+Page 33 of 33
+HB039020.100 - 300 - XXXX 3/13/2025 9:36 AM Engrossed
+
+[DELETED:   2  E A B S ( A ( " a o i v s e b t d ( " m v m a m v t i c b c ( " 1 P c 2 R f a c m a b t D o I ( " ( " m t I I C o M V A ( " u ( " m v m a m v t i n c b c ( " 1 T 2 A 3 A 4 A 5 A]
+[DELETED:   2  E 6 A o e a b t d t t e p ( ( T 1 P a r i o t i s o m v w T C O o T f i i t A d 2 E a I t b I c B i O i A d B n l t J 1 2 i a b r v e I i t e t d t m i m 3 O a r i a w K C 1 t e i a e t a o i v a S]
+[DELETED:   2  E i E a o p i t s e g a r f t s t a c i I a i S t i t i s e s a t f m a f o t e s c i E m a b M e a a m o r i l o r t t s f i w w o t ( t 4 M u s t a o i v s w s i ( T d m c w a p s p w h s i s s i o s t a i e i o a m t a o ( 1 N]
+[DELETED:   2  E a B J 1 2 p o i w a d t m f d g o t a o i v b P o i w a u t t g r i t s c D a u m t t g r i t s t m v i a t d b 2 T c w o i r t a n s o o i b r i a a r p 3 T t ( T d a a c p s p s e m a c p f i d t i a o ( ( E a o p i t s i t p c f t s r u K 3 f p m 1 C w t d i t i o m t 2 O a S]
+[DELETED:   2  E i A p m v t a c b t i a i T n o e p f e p m v c b t i a s b t d b P a t a o i s i f p m v t a c b t i a s c S t i r u t s e t t d t t a o i ( 1 I s i s i f c m v e t t d t t a o i 2 A p s c w a s a r e b t d u s ( o t s ( I o ( I s n b s t c o a l f l s o a o r t a n c c o a o a n s a a a i o a a e o a i n]
+[DELETED:   2  E r i ( ( A t ( T 1 R t e i o a m o t a o i v s a 2 M r t t d t e t t a a E b C ( T ( 1 F ( v m a b t c o t D o I i a w p ( o t s 2 T p o t K C C A o t p 3 T c o t D o I o t c d w s s a a v e o m 4 T w c ( 1 T c o t D o I s i a w t p a t t t a]
+[DELETED:   2  E c a I a b T t 2 T D o I s i t f f ( i a T d a o d w p f m v i i K a o d o n m u b T l d a o d w p f m v m c A w p f m v i i K d t r s a m i i K m 3 I a i i b t D o I u s 2 o t p d o f w a r r D a F a i i u s 2 o t p]
+[DELETED:   2  E n v i d p a c i d o f b F a i i u s 2 o t p t f p a c i w t n v i f p a c i d o f c F a i i u s 2 o t p a i t m t r o t s 4 T a R u s 2 o t p a i a s s c b A t 5 E y 6 V a W b I ( P t m a f u K C 1 o p a]
+[DELETED:   2  E d a a t d s s d o t f t t t a c f r a r 1 A r a w a f r u K 1 r o p u t s o o r t t s 2 T g ( I a t t r o p ( o t s t d s k t t a c i a a c w t c r t e i o a m o t a o i ( A c K ( ( T o 1 N t t d o V R f a i c o c o n o t o c m v i p p t K 2 P i a d i s ( o S 1 o t A d n a i t d c b K 3 f t (]
+[DELETED:   2  E c 3 O a a J 1 2 i t v i n ( o t o p m v o c m v h o t d s i m a d a t t n ( T 1 B 2 S 3 [ a T t b T d s r t r o e m v f o w f ( s h t ( i T c i T a o i v s i t t m v o m v a c b t s r u K 3 T d s f i t i t i e t d s r t r o t m v]
+[DELETED:   2  E 1 T r 2 T p p p i t f o a a s u p o p a s f i K 5 t t f t m m v i o t v s i t d m 3 T p p p i t f o a a s u p o p a s f i K 5 t t f t m m v i o t v s i t d n i t r o t s n o t v T a s e t w t v i o o d a w t s u o t v i r t p 4 T p p p i t f o a a s u p r t h C w o a m v o i t c o h o h e I a p h h o h m v r r t K 3 T d s n t c a t b ( T]
+[DELETED:   2  E t t s T n t t d g t t c a i a o 1 T a b 2 A d n t t d s t t p r t p  U n b t d a c a s i v r r t ( t w a t ( m ( A o m p t p o i r u t s b f ( W c c m r t o t e o o e s i p p o i t t c w t t ( d n p t d s e a i t t d a v ( ( I d t m t e t i p t t s a K 3 a 3 t c]
+[DELETED:   2  E 1 C w t c o t D o I a i o r a t t i s a t m v 2 T t m e p u n r e t s a t d b t A N S I o t A A o M V A ( N 1 I o b t d p t t s a K a S t b D u s a o u i a m o r b t d t a i e c i I t i I r t a s i r f t i a p t t f D P 2 T p a p t a t i r i t p 3 P w k r o d i f t]
+[DELETED:   2  E d d e r ( T p t S ( A t ( " ( " ( [ n ( K ( R ( D ( T ( T  f o n s ( I v t ( T]
+[DELETED:   2  E t p e s ( T 1 I 2 P a a b t p m o t b w t o a ( T s s n a t a t i K m v ( F ( A i c i a e f m t d o a i s i a t t a o a p e d i s e ( T c c m r t a t e t e i c S ( ( A u t ( ( T]
+[DELETED:   2  E r ( A c b t ( T t t i e ( T t t ( ( I t o o a m v s t t c c a p c a f K c o t a r p t b f t d o i i b t c c f t p o o i ( T T C m p a r i a w K C 1 g t s ( ( T t ( A]
+[DELETED:   2  E u p a d b t c c f t p o m ( A t t a b t s m o b i b t c a ( A u m 1 3 ] o i f a p m v s b d ( A c o S ( E r r v t ( ( P ( ( A p o t o r a t a c c t t t d o t m v t f t c c t r ( T]
+[DELETED:   2  E d i ( ( A c c s n i a r p d o r c a p i K 1 o a r r f a m ( E t b ( [ a d i K 3 ] o i f a p m v s b d b t c c a p i K 1 S ( ( U r t a a f t c c s i t t o a c o r c t i r b s ( I p o t a s s w r i m r b a a a w t a o t G t t p i p c ( E s p t o s p t c c t s o s d m ( T p]
+[DELETED:   2  E r ( T t a c ( ( A a t ( T o d ( d s b a t t r f f v r ( O ( D r r ( ( T c ( T S t 1 F c 2 F s b u a d b t c f w f w i e t s i e l f c ( ( E a p i K 1 i a t t r f p f c c i s ( a ( o t s a a]
+[DELETED:   2  E r ( T 1 O d ( s b p i a a f t p a f e f t i o r o t A s T o a m o A o 2 2 O f s i c c o r t t c a a o r f t T T c i c t 3 O t T c t p a u r s f o o t o r t t c a a o r f t t c c o i c c a p o l t t t ( a d b M 1 t T c s c t a c i t p c y a d t e f p p p t t c a s n b i a e f f t p ( A m v r c f n s b s t t]
+[DELETED:   2  E p ( ( T u A t ( T f ( T p o t r f r b t c u t s t A s b p i a a f t p a f e a a n i o r o t a o i S ( ( I o p 1 [ t c ] o i o t m v i c w K 3 i p t t c c e t p o i s n b r f d a b 2 T o f a a u a f f b t c 3 T o p p t t c c a f o t d ( e p o i s n b r f d a]
+[DELETED:   2  E ( W t b c 1 T o s s h o o c r 2 P o i o t m v i c w K 3 i p t t c c e t p o i s n b r f d a f b m v d a d i K 1 a b a d m 3 T o p t p t c c a f o t d ( e p o i s n b r f d a ( A t t ( ( I 1 S i 2 F ( [ p t c p o i o t m v i c d h s ] o s b i a r r a a p i]
+[DELETED:   2  E 1 P o i o t m v i c w K 3 2 T a T b T ( T 1 R 2 R 3 M r r 4 F t o c o t s r s b f ( T 1 I c t r c t t n 2 R t c s b r b t c t t c ( A p f a l r p s d i t t T ( ( I a o m f o ( c i a c o t C h o h c o r a n r r a n r o 1 T r 2 P o i o t m v i c w K]
+[DELETED:   2  E 3 i p t t c c a s p t o w a n r r a p b t c n 3 T t c ( T c c t ( I t h o ( T s ( T w f ( A 7 o i u t a o a a p c d u K ( T 1 d ( [ d i K 3 ] o i f a p m]
+[DELETED:   2  E v u t s s b d b t c c a p S ( ( E a p f i p ( o t s w a m v p s i ( A m t t m h t r p f t p o r A a t d a o p t o t v o a p h I t p t o i t f m i w t e r i s v a ( A d s v a t t h]
+[DELETED:   2  E c c t b s r t t t a a t r ( A t ( T s s n a t t b m v d l s ( ( A p s n p s o t a m v w d t t a a n a i r a a u K 1 t ( E K C 1 t p w i p t v s p p b ( P o i s b i t m p i a r p b t D o I p t K C ( [ a d i K 3 ] o i f a p m v s b d b t c c a p i K 1 ( ( U u p o]
+[DELETED:   2  E d ( I b t t ( T s s p t t c c a f o s d ( f t c ( ( I t c ( T t ( T s ( A l m v d s n b r t p t t f p b ( T c S ( A 1 1 1 1 1 1 1 1 1 1 ( A 1 ( A]
+[DELETED:   2  E ( p ( A c o j f t c w K 1 s b g o a v ( I i a t t s o t t c t a o u K 1 h p o m o l i t c m i i d d t c ( A g o a C D f D a c r p o a m v ( A A ( A p w m a f a t s a l p u K 1 ( A o ( A t f f ( A p g ( A r w u r t o a m i a s r]
+[DELETED:   2  E l i s S ( A t ( " ( " ( " ( E c u c V R a l o a p i b i w c m v i w t b e c o n d e p v ( A p c [ O a a J 1 2 t s s n a t p c p S ( ( A "]
+[DELETED:   2  E 1 A l 2 A o f m v t w s t ( o ( P c t w l i o p m v i K D ( b p m v i p T i s b s e e o b p c a t o o t D ( I a a e o t i s n b s t c l f l s o a o r t a n c c o a s o t i r b s ( o t s i s o i o i i ( E 0 w S ( A t]
+[DELETED:   2  E ( " ( " ( " ( " ( ( E m r t h f t i c p s r u c w ( A f ( F c m v t i c s c i t ( I a o e i a i c o a n a m v k i ( t a ( E f ( S 1 P 2 C b a i t h o t r t t a o]
+[DELETED:   2  E i ( F c a o i v s a d i K 3 ( T 3 p ( I t p p e i c e t t r s i c w w ( F ( A a o c ( W s t p a a l f a d t t m e ( W a p p e o f r u a m t o S]
+[DELETED:   2  E ( T r t t t a c c u s ( o S ( T D o V R s n t m o t t d t a l o t f m w m m i r a ( T ( I a i s u f t d r t t e S]

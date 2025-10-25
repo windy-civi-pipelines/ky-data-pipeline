@@ -1,0 +1,362 @@
+Title: 1 AN ACT relating to consumer data privacy.
+Official Title: 1 AN ACT relating to consumer data privacy.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS BR 352
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 367.3613 (Effective January 1, 2026) is amended to read as
+4 follows:
+5 (1) KRS 367.3611 to 367.3629 apply to persons that conduct business in the
+6 Commonwealth or produce products or services that are targeted to residents of the
+7 Commonwealth and that during a calendar year control or process personal data of
+8 at least:
+9 (a) One hundred thousand (100,000) consumers; or
+10 (b) Twenty-five thousand (25,000) consumers and derive over fifty percent (50%)
+11 of gross revenue from the sale of personal data.
+12 (2) KRS 367.3611 to 367.3629 shall not apply to any:
+13 (a) City, state agency, or any political subdivision of the state;
+14 (b) Financial institutions, their affiliates, or data subject to Title V of the federal
+15 Gramm-Leach-Bliley Act, 15 U.S.C. sec. 6801 et seq.;
+16 (c) Covered entity or business associate governed by the privacy, security, and
+17 breach notification rules issued by the United States Department of Health
+18 and Human Services, 45 C.F.R. pts. 160 and 164 established pursuant to
+19 HIPAA;
+20 (d) Nonprofit organization;
+21 (e) Institution of higher education;
+22 (f) Organization that:
+23 1. Does not provide net earnings to, or operate in any manner that inures to
+24 the benefit of, any officer, employee, or shareholder of the entity; and
+25 2. Is an entity such as those recognized under KRS 304.47-060(1)(e), so
+26 long as the entity collects, processes, uses, or shares data solely in
+27 relation to identifying, investigating, or assisting:
+Page 1 of 6
+BR035200.100 - 352 - XXXX 2/25/2025 3:12 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 352
+1 a. Law enforcement agencies in connection with suspected
+2 insurance-related criminal or fraudulent acts; or
+3 b. First responders in connection with catastrophic events; or
+4 (g) Small telephone utility as defined in KRS 278.516, a Tier III CMRS provider
+5 as defined in KRS 65.7621, or a municipally owned utility that does not sell
+6 or share personal data with any third-party[ processor].
+7 (3) The following information and data are exempt from KRS 367.3611 to 367.3629:
+8 (a) Protected health information under HIPAA;
+9 (b) Health records;
+10 (c) Patient identifying information for purposes of 42 C.F.R. sec. 2.11;
+11 (d) Identifiable private information for purposes of the federal policy for the
+12 protection of human subjects under 45 C.F.R. pt. 46; identifiable private
+13 information that is otherwise information collected as part of human subjects
+14 research pursuant to the good clinical practice guidelines issued by the
+15 International Council for Harmonisation of Technical Requirements for
+16 Pharmaceuticals for Human Use; the protection of human subjects under 21
+17 C.F.R. pts. 50 and 56;[,] or personal data used or shared in research conducted
+18 in accordance with the requirements set forth in KRS 367.3611 to 367.3629,
+19 or other research conducted in accordance with applicable law;
+20 (e) Information and documents created for purposes of the federal Health Care
+21 Quality Improvement Act of 1986, 42 U.S.C. sec. 11101 et seq.;
+22 (f) Patient safety work product for purposes of the federal Patient Safety and
+23 Quality Improvement Act, 42 U.S.C. sec. 299b-21 et seq.;
+24 (g) Information derived from any of the health care-related information listed in
+25 this subsection that is de-identified in accordance with the requirements for
+26 de-identification pursuant to HIPAA;
+27 (h) Information originating from, and intermingled to be indistinguishable from,
+Page 2 of 6
+BR035200.100 - 352 - XXXX 2/25/2025 3:12 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 352
+1 or information treated in the same manner as information exempt under this
+2 subsection that is maintained by a covered entity or business associate, or a
+3 program or qualified service organization as defined by 42 C.F.R. sec. 2.11;
+4 (i) Information collected by a health care provider who is a covered entity that
+5 maintains protected health information in accordance with HIPAA and
+6 related regulations, 45 C.F.R. pts. 160, 162, and 164;
+7 (j) Information included in a limited data set as described in 45 C.F.R.
+8 164.514(e), to the extent the information is used, disclosed, and maintained
+9 as specified in 45 C.F.R. sec. 164.514(e);
+10 (k) Information used only for public health activities and purposes as authorized
+11 by HIPAA;
+12 (l)[(j)] The collection, maintenance, disclosure, sale, communication, or use of
+13 any personal information bearing on a consumer's creditworthiness, credit
+14 standing, credit capacity, character, general reputation, personal
+15 characteristics, or mode of living by a consumer reporting agency, furnisher,
+16 or user that provides information for use in a consumer report, and by a user
+17 of a consumer report, but only to the extent that such activity is regulated by
+18 and authorized under the federal Fair Credit Reporting Act, 15 U.S.C. sec.
+19 1681 et seq.;
+20 (m)[(k)] Personal data collected, processed, sold, or disclosed in compliance with
+21 the federal Driver's Privacy Protection Act of 1994, 18 U.S.C. sec. 2721 et
+22 seq.;
+23 (n)[(l)] Personal data regulated by the federal Family Educational Rights and
+24 Privacy Act, 20 U.S.C. sec. 1232g et seq.;
+25 (o)[(m)] Personal data collected, processed, sold, or disclosed in compliance with
+26 the federal Farm Credit Act, 12 U.S.C. sec. 2001 et seq.;
+27 (p)[(n)] Data processed or maintained:
+Page 3 of 6
+BR035200.100 - 352 - XXXX 2/25/2025 3:12 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 352
+1 1. In the course of an individual applying to, employed by, or acting as an
+2 agent or independent contractor of a controller, processor, or third party,
+3 to the extent that the data is collected and used within the context of that
+4 role;
+5 2. As the emergency contact information of an individual used for
+6 emergency contact purposes; or
+7 3. That is necessary to retain to administer benefits for another individual
+8 relating to the individual under subparagraph 1. of this paragraph and
+9 used for the purposes of administering those benefits;
+10 (q)[(o)] Data processed by a utility, an affiliate of a utility, or a holding company
+11 system organized specifically for the purpose of providing goods or services
+12 to a utility as defined in KRS 278.010. For purposes of this paragraph,
+13 "holding company system" means two (2) or more affiliated persons, one (1)
+14 or more of which is a utility; and
+15 (r)[(p)] Personal data collected and used for purposes of federal policy under the
+16 Combat Methamphetamine Epidemic Act of 2005.
+17 (4) Controllers and processors that comply with the verifiable parental consent
+18 requirements of the Children's Online Privacy Protection Act, 15 U.S.C. sec. 6501
+19 et seq., shall be deemed compliant with any obligation to obtain parental consent
+20 under KRS 367.3611 to 367.3629.
+21 Section 2. KRS 367.3621 (Effective January 1, 2026) is amended to read as
+22 follows:
+23 (1) Controllers shall conduct and document a data protection impact assessment of each
+24 of the following processing activities involving personal data:
+25 (a) The processing of personal data for the purposes of targeted advertising;
+26 (b) The processing of personal data for the purposes of selling of personal data;
+27 (c) The processing of personal data for the purposes of profiling, where the
+Page 4 of 6
+BR035200.100 - 352 - XXXX 2/25/2025 3:12 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 352
+1 profiling presents a reasonably foreseeable risk of:
+2 1. Unfair or deceptive treatment of consumers or unlawful, disparate
+3 impact on consumers;
+4 2. Financial, physical, or reputational injury to consumers;
+5 3. A physical or other intrusion upon the solitude or seclusion, or the
+6 private affairs or concerns, of consumers, where an intrusion would be
+7 offensive to a reasonable person; or
+8 4. Other substantial injury to consumers;
+9 (d) The processing of sensitive data; and
+10 (e) Any processing of personal data that presents a heightened risk of harm to
+11 consumers.
+12 (2) Data protection impact assessments conducted under this section shall identify and
+13 weigh the benefits that may flow, directly and indirectly, from the processing to the
+14 controller, the consumer, other stakeholders, and the public against the potential
+15 risks to the rights of the consumer associated with such processing, as mitigated by
+16 safeguards that can be employed by the controller to reduce such risk. The use of
+17 de-identified data and the reasonable expectations of consumers, as well as the
+18 context of the processing of personal data and the relationship between the
+19 controller and the consumer whose personal data will be processed, shall be
+20 factored into this assessment by the controller.
+21 (3) The Attorney General may request, pursuant to an investigative demand, that a
+22 controller disclose any data protection impact assessment that is relevant to an
+23 investigation conducted by the Attorney General, and the controller shall make the
+24 data protection impact assessment available to the Attorney General. The Attorney
+25 General may evaluate the data protection impact assessments for compliance with
+26 the requirements of KRS 367.3611 to 367.3629.
+27 (4) Data protection impact assessments are confidential and exempt from disclosure,
+Page 5 of 6
+BR035200.100 - 352 - XXXX 2/25/2025 3:12 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 352
+1 public inspection, and copying under KRS 61.870 to 61.884.
+2 (5) The disclosure of a data protection impact assessment pursuant to a request from
+3 the Attorney General under subsection (3) of this section does not constitute a
+4 waiver of the attorney-client privilege or work product protection with respect to
+5 the assessment and any information contained in the assessment.
+6 (6) A single data protection assessment may address a comparable set of processing
+7 operations that include similar activities.
+8 (7) Data protection assessments conducted by a controller for the purpose of
+9 compliance with other laws or regulations may comply under this section if the
+10 assessments have a reasonably comparable scope and effect.
+11 (8) Data protection assessment requirements shall apply to processing activities created
+12 or generated on or after June 1, 2026.
+Page 6 of 6
+BR035200.100 - 352 - XXXX 2/25/2025 3:12 PM Jacketed
+[DELETED:  C  2  J A B S f ( K 3 t 3 a t p t c b i t C C a ( O ( T o ( K ( C ( F G A ( C e o b b n r i b a H S 4 C p 1 a 1 e p t H ( N ( I ( O 1 D t 2 I a e l a t e c p u o s d s i r]
+[DELETED:  C  2  J a L e a i c w s i o b F ( S a o ( T ( P ( H ( P ( I p i f p o t f p f t p o h s u 4 C p 4 i p i r p t t g c p g i b t I C f H o T R f P C i o ( I Q ( P s w p f p Q ( I t d ( I]
+[DELETED:  C  2  J o s p ( I m p h i i a w H a r ( I i i a l d s a d i 4 C 1 a ( I b ( T a p i b o a c c c s c c c g r p c o o a a 1 ( P t s ( P d r b P ( P t ( D]
+[DELETED:  C  2  J 1 I a t r 2 A t e c i o a i u f e 3 T r t t i a u ( D s t a u a d i K 2 F p o t p " o ( P C ( C a p t c w t v p c r e u S f ( C o ( T ( T ( T p o p d f t p o p w t]
+[DELETED:  C  2  J p 1 U o d t o c o u d i 2 F 3 A p o o i u t s o s o t p o 4 O ( T ( A p o p d c ( D w c t c o s a t p a t r s d d a t r e o c a w a t c o t p o p d a t r b t c a t c w p d w b p s b f ( T A G m r p t a i d t a c d a d p i a t i r t a i d G t ( D p i a a c]
+[DELETED:  C  2  J p ( T d t A G u s ( o t s d n c a w o t ( A s d p a m a a o ( D p a c b a c f t p o c w o l o r m c u t s i t a ( D o]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS BR 352
+1 AN ACT relating to consumer data privacy.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 367.3613 (Effective January 1, 2026) is amended to read as
+4 follows:
+5 (1) KRS 367.3611 to 367.3629 apply to persons that conduct business in the
+6 Commonwealth or produce products or services that are targeted to residents of the
+7 Commonwealth and that during a calendar year control or process personal data of
+8 at least:
+9 (a) One hundred thousand (100,000) consumers; or
+10 (b) Twenty-five thousand (25,000) consumers and derive over fifty percent (50%)
+11 of gross revenue from the sale of personal data.
+12 (2) KRS 367.3611 to 367.3629 shall not apply to any:
+13 (a) City, state agency, or any political subdivision of the state;
+14 (b) Financial institutions, their affiliates, or data subject to Title V of the federal
+15 Gramm-Leach-Bliley Act, 15 U.S.C. sec. 6801 et seq.;
+16 (c) Covered entity or business associate governed by the privacy, security, and
+17 breach notification rules issued by the United States Department of Health
+18 and Human Services, 45 C.F.R. pts. 160 and 164 established pursuant to
+19 HIPAA;
+20 (d) Nonprofit organization;
+21 (e) Institution of higher education;
+22 (f) Organization that:
+23 1. Does not provide net earnings to, or operate in any manner that inures to
+24 the benefit of, any officer, employee, or shareholder of the entity; and
+25 2. Is an entity such as those recognized under KRS 304.47-060(1)(e), so
+26 long as the entity collects, processes, uses, or shares data solely in
+27 relation to identifying, investigating, or assisting:
+Page 1 of 6
+BR035200.100 - 352 - XXXX 2/25/2025 3:12 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 352
+1 a. Law enforcement agencies in connection with suspected
+2 insurance-related criminal or fraudulent acts; or
+3 b. First responders in connection with catastrophic events; or
+4 (g) Small telephone utility as defined in KRS 278.516, a Tier III CMRS provider
+5 as defined in KRS 65.7621, or a municipally owned utility that does not sell
+6 or share personal data with any third-party[ processor].
+7 (3) The following information and data are exempt from KRS 367.3611 to 367.3629:
+8 (a) Protected health information under HIPAA;
+9 (b) Health records;
+10 (c) Patient identifying information for purposes of 42 C.F.R. sec. 2.11;
+11 (d) Identifiable private information for purposes of the federal policy for the
+12 protection of human subjects under 45 C.F.R. pt. 46; identifiable private
+13 information that is otherwise information collected as part of human subjects
+14 research pursuant to the good clinical practice guidelines issued by the
+15 International Council for Harmonisation of Technical Requirements for
+16 Pharmaceuticals for Human Use; the protection of human subjects under 21
+17 C.F.R. pts. 50 and 56;[,] or personal data used or shared in research conducted
+18 in accordance with the requirements set forth in KRS 367.3611 to 367.3629,
+19 or other research conducted in accordance with applicable law;
+20 (e) Information and documents created for purposes of the federal Health Care
+21 Quality Improvement Act of 1986, 42 U.S.C. sec. 11101 et seq.;
+22 (f) Patient safety work product for purposes of the federal Patient Safety and
+23 Quality Improvement Act, 42 U.S.C. sec. 299b-21 et seq.;
+24 (g) Information derived from any of the health care-related information listed in
+25 this subsection that is de-identified in accordance with the requirements for
+26 de-identification pursuant to HIPAA;
+27 (h) Information originating from, and intermingled to be indistinguishable from,
+Page 2 of 6
+BR035200.100 - 352 - XXXX 2/25/2025 3:12 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 352
+1 or information treated in the same manner as information exempt under this
+2 subsection that is maintained by a covered entity or business associate, or a
+3 program or qualified service organization as defined by 42 C.F.R. sec. 2.11;
+4 (i) Information collected by a health care provider who is a covered entity that
+5 maintains protected health information in accordance with HIPAA and
+6 related regulations, 45 C.F.R. pts. 160, 162, and 164;
+7 (j) Information included in a limited data set as described in 45 C.F.R.
+8 164.514(e), to the extent the information is used, disclosed, and maintained
+9 as specified in 45 C.F.R. sec. 164.514(e);
+10 (k) Information used only for public health activities and purposes as authorized
+11 by HIPAA;
+12 (l)[(j)] The collection, maintenance, disclosure, sale, communication, or use of
+13 any personal information bearing on a consumer's creditworthiness, credit
+14 standing, credit capacity, character, general reputation, personal
+15 characteristics, or mode of living by a consumer reporting agency, furnisher,
+16 or user that provides information for use in a consumer report, and by a user
+17 of a consumer report, but only to the extent that such activity is regulated by
+18 and authorized under the federal Fair Credit Reporting Act, 15 U.S.C. sec.
+19 1681 et seq.;
+20 (m)[(k)] Personal data collected, processed, sold, or disclosed in compliance with
+21 the federal Driver's Privacy Protection Act of 1994, 18 U.S.C. sec. 2721 et
+22 seq.;
+23 (n)[(l)] Personal data regulated by the federal Family Educational Rights and
+24 Privacy Act, 20 U.S.C. sec. 1232g et seq.;
+25 (o)[(m)] Personal data collected, processed, sold, or disclosed in compliance with
+26 the federal Farm Credit Act, 12 U.S.C. sec. 2001 et seq.;
+27 (p)[(n)] Data processed or maintained:
+Page 3 of 6
+BR035200.100 - 352 - XXXX 2/25/2025 3:12 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 352
+1 1. In the course of an individual applying to, employed by, or acting as an
+2 agent or independent contractor of a controller, processor, or third party,
+3 to the extent that the data is collected and used within the context of that
+4 role;
+5 2. As the emergency contact information of an individual used for
+6 emergency contact purposes; or
+7 3. That is necessary to retain to administer benefits for another individual
+8 relating to the individual under subparagraph 1. of this paragraph and
+9 used for the purposes of administering those benefits;
+10 (q)[(o)] Data processed by a utility, an affiliate of a utility, or a holding company
+11 system organized specifically for the purpose of providing goods or services
+12 to a utility as defined in KRS 278.010. For purposes of this paragraph,
+13 "holding company system" means two (2) or more affiliated persons, one (1)
+14 or more of which is a utility; and
+15 (r)[(p)] Personal data collected and used for purposes of federal policy under the
+16 Combat Methamphetamine Epidemic Act of 2005.
+17 (4) Controllers and processors that comply with the verifiable parental consent
+18 requirements of the Children's Online Privacy Protection Act, 15 U.S.C. sec. 6501
+19 et seq., shall be deemed compliant with any obligation to obtain parental consent
+20 under KRS 367.3611 to 367.3629.
+21 Section 2. KRS 367.3621 (Effective January 1, 2026) is amended to read as
+22 follows:
+23 (1) Controllers shall conduct and document a data protection impact assessment of each
+24 of the following processing activities involving personal data:
+25 (a) The processing of personal data for the purposes of targeted advertising;
+26 (b) The processing of personal data for the purposes of selling of personal data;
+27 (c) The processing of personal data for the purposes of profiling, where the
+Page 4 of 6
+BR035200.100 - 352 - XXXX 2/25/2025 3:12 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 352
+1 profiling presents a reasonably foreseeable risk of:
+2 1. Unfair or deceptive treatment of consumers or unlawful, disparate
+3 impact on consumers;
+4 2. Financial, physical, or reputational injury to consumers;
+5 3. A physical or other intrusion upon the solitude or seclusion, or the
+6 private affairs or concerns, of consumers, where an intrusion would be
+7 offensive to a reasonable person; or
+8 4. Other substantial injury to consumers;
+9 (d) The processing of sensitive data; and
+10 (e) Any processing of personal data that presents a heightened risk of harm to
+11 consumers.
+12 (2) Data protection impact assessments conducted under this section shall identify and
+13 weigh the benefits that may flow, directly and indirectly, from the processing to the
+14 controller, the consumer, other stakeholders, and the public against the potential
+15 risks to the rights of the consumer associated with such processing, as mitigated by
+16 safeguards that can be employed by the controller to reduce such risk. The use of
+17 de-identified data and the reasonable expectations of consumers, as well as the
+18 context of the processing of personal data and the relationship between the
+19 controller and the consumer whose personal data will be processed, shall be
+20 factored into this assessment by the controller.
+21 (3) The Attorney General may request, pursuant to an investigative demand, that a
+22 controller disclose any data protection impact assessment that is relevant to an
+23 investigation conducted by the Attorney General, and the controller shall make the
+24 data protection impact assessment available to the Attorney General. The Attorney
+25 General may evaluate the data protection impact assessments for compliance with
+26 the requirements of KRS 367.3611 to 367.3629.
+27 (4) Data protection impact assessments are confidential and exempt from disclosure,
+Page 5 of 6
+BR035200.100 - 352 - XXXX 2/25/2025 3:12 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 352
+1 public inspection, and copying under KRS 61.870 to 61.884.
+2 (5) The disclosure of a data protection impact assessment pursuant to a request from
+3 the Attorney General under subsection (3) of this section does not constitute a
+4 waiver of the attorney-client privilege or work product protection with respect to
+5 the assessment and any information contained in the assessment.
+6 (6) A single data protection assessment may address a comparable set of processing
+7 operations that include similar activities.
+8 (7) Data protection assessments conducted by a controller for the purpose of
+9 compliance with other laws or regulations may comply under this section if the
+10 assessments have a reasonably comparable scope and effect.
+11 (8) Data protection assessment requirements shall apply to processing activities created
+12 or generated on or after June 1, 2026.
+Page 6 of 6
+BR035200.100 - 352 - XXXX 2/25/2025 3:12 PM Jacketed
+
+[DELETED:  C  2  J A B S f ( K 3 t 3 a t p t c b i t C C a ( O ( T o ( K ( C ( F G A ( C e o b b n r i b a H S 4 C p 1 a 1 e p t H ( N ( I ( O 1 D t 2 I a e l a t e c p u o s d s i r]
+[DELETED:  C  2  J a L e a i c w s i o b F ( S a o ( T ( P ( H ( P ( I p i f p o t f p f t p o h s u 4 C p 4 i p i r p t t g c p g i b t I C f H o T R f P C i o ( I Q ( P s w p f p Q ( I t d ( I]
+[DELETED:  C  2  J o s p ( I m p h i i a w H a r ( I i i a l d s a d i 4 C 1 a ( I b ( T a p i b o a c c c s c c c g r p c o o a a 1 ( P t s ( P d r b P ( P t ( D]
+[DELETED:  C  2  J 1 I a t r 2 A t e c i o a i u f e 3 T r t t i a u ( D s t a u a d i K 2 F p o t p " o ( P C ( C a p t c w t v p c r e u S f ( C o ( T ( T ( T p o p d f t p o p w t]
+[DELETED:  C  2  J p 1 U o d t o c o u d i 2 F 3 A p o o i u t s o s o t p o 4 O ( T ( A p o p d c ( D w c t c o s a t p a t r s d d a t r e o c a w a t c o t p o p d a t r b t c a t c w p d w b p s b f ( T A G m r p t a i d t a c d a d p i a t i r t a i d G t ( D p i a a c]
+[DELETED:  C  2  J p ( T d t A G u s ( o t s d n c a w o t ( A s d p a m a a o ( D p a c b a c f t p o c w o l o r m c u t s i t a ( D o]

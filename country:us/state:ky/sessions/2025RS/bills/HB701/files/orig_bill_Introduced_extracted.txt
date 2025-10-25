@@ -1,0 +1,484 @@
+Title: 1 AN ACT relating to blockchain digital assets.
+Official Title: 1 AN ACT relating to blockchain digital assets.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS BR 329
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF KRS CHAPTER 369 IS CREATED TO
+4 READ AS FOLLOWS:
+5 As used in Sections 1 to 4 of this Act:
+6 (1) "Blockchain" means data that is:
+7 (a) Shared across a peer-to-peer network to create a ledger of verified
+8 transactions or information among linked network participants using
+9 cryptography to:
+10 1. Maintain the integrity of the ledger; or
+11 2. Execute other functions; and
+12 (b) Distributed in a concurrent, automated update to network participants on
+13 the state of the ledger and any other functions;
+14 (2) "Blockchain network" means a technical infrastructure that provides ledger and
+15 smart contract services to applications;
+16 (3) "Blockchain protocol" means any executable software:
+17 (a) Deployed to a blockchain including an additional standardized set of rules
+18 that:
+19 1. Uses an existing blockchain as a base;
+20 2. Facilitates the transfer of data and electronic records;
+21 3. Allows that data to be broadcast to nodes; and
+22 4. Is governed by a set of predefined rules which execute autonomously
+23 without human intervention and can be altered by a predetermined
+24 mechanism; and
+25 (b) Composed of a source code that is publicly available and accessible,
+26 including a smart contract or any network of smart contracts;
+27 (4) (a) "Central bank digital currency" means a digital currency, a digital medium
+Page 1 of 8
+XXXX 2/19/2025 8:26 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 329
+1 of exchange, or a digital monetary unit of account:
+2 1. Issued and made directly available to the public; or
+3 2. Processed or validated;
+4 by the United States Federal Reserve System or a federal agency.
+5 (b) "Central bank digital currency" does not mean a digital asset:
+6 1. Backed by legal tender or government treasuries; and
+7 2. Issued by a private entity;
+8 (5) "Cryptocurrency" has the same meaning as in KRS 139.516;
+9 (6) "Cryptography" means the practice of coding information to ensure only the
+10 person that a message was written for can read and process that information;
+11 (7) "Digital asset" means:
+12 (a) Virtual currency;
+13 (b) Cryptocurrency; and
+14 (c) Natively electronic assets, including stablecoins, fungible tokens, and
+15 nonfungible tokens;
+16 that confer economic, proprietary, or access rights or powers;
+17 (8) "Digital asset mining" means using computer hardware and software specifically
+18 designed or utilized for the purpose of validating data and securing a blockchain
+19 network;
+20 (9) "Digital asset mining as a service" means and individual or business which runs,
+21 maintains, and services digital asset mining devices on behalf of another
+22 individual or business for monetary compensation;
+23 (10) "Digital asset mining business" means a group of computers working together
+24 that consume more than one (1) megawatt of energy for the purpose of securing a
+25 blockchain protocol;
+26 (11) "Hardware wallet" means a physical device that:
+27 (a) Stores private keys offline;
+Page 2 of 8
+XXXX 2/19/2025 8:26 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 329
+1 (b) Provides a way to sign transactions and interact with the blockchain; and
+2 (c) Allows the owner to retain independent control over the digital asset
+3 contained therein;
+4 (12) "Home digital asset mining" means using digital asset mining in an area zoned
+5 for residential use;
+6 (13) "Natively electronic asset" means a purely digital asset that exists only on the
+7 blockchain network;
+8 (14) "Node" means a computer which:
+9 (a) Uses software to:
+10 1. Communicate with other devices or participants on a blockchain to
+11 maintain consensus and integrity of that blockchain;
+12 2. Create and validates transaction blocks; or
+13 3. Contain and update a copy of a blockchain; and
+14 (b) Does not exercise discretion over transactions initiated by the end users of
+15 the blockchain protocol;
+16 (15) "Nonfungible token" means a digital asset on a blockchain that:
+17 (a) Has unique identification codes and metadata that are recorded;
+18 (b) Has been tokenized and cannot be replicated;
+19 (c) Is used to certify ownership and authenticity; and
+20 (d) Represents digital or physical items including artwork or real estate;
+21 (16) "Private key" means the access to manage digital assets at a specific internet
+22 address and may be used for encryption and digital signature;
+23 (17) "Self-hosted wallet" means a digital interface that can:
+24 (a) Secure and transfer digital assets; and
+25 (b) Allow its owner to retain independent control of the secured digital assets
+26 and private keys;
+27 (18) "Smart contract" has the same meaning as in KRS 42.747;
+Page 3 of 8
+XXXX 2/19/2025 8:26 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 329
+1 (19) "Stablecoin" means a digital asset that is:
+2 (a) Issued by a corporation;
+3 (b) Backed by cash or high-quality liquid assets; and
+4 (c) Redeemable on demand by the holder at par for a fixed monetary value in
+5 equivalent United States dollars;
+6 (20) "Staking" means using a node to commit digital assets to a blockchain network
+7 to:
+8 (a) Validate transactions;
+9 (b) Propose and attest to blocks contained in the blockchain; and
+10 (c) Secure the network;
+11 (21) (a) "Staking as a service" means the provision of technical staking services by
+12 a service provider on behalf of an individual or business that owns the
+13 digital assets being staked.
+14 (b) "Staking as a service" includes the operation of nodes and the associated
+15 infrastructure necessary to facilitate participation in blockchain protocols’
+16 consensus mechanisms;
+17 (22) "Third-party wallet" means a wallet that is hosted and controlled by a party other
+18 than the owner which contains the private keys for the owner of digital assets;
+19 and
+20 (23) "Wallet" means a digital interface or a physical device which holds digital assets
+21 or private keys, and may include a:
+22 (a) Hardware wallet;
+23 (b) Self-hosted wallet; and
+24 (c) Third-party wallet.
+25 SECTION 2. A NEW SECTION OF KRS CHAPTER 369 IS CREATED TO
+26 READ AS FOLLOWS:
+27 (1) An individual shall not be prohibited from:
+Page 4 of 8
+XXXX 2/19/2025 8:26 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 329
+1 (a) Accepting digital assets for payment for legal goods or services; or
+2 (b) The use of a wallet.
+3 (2) Digital assets used as a method of payment shall not be subject to additional
+4 taxes, withholdings, assessments, or charges that are based solely on the use of
+5 the digital asset as the method of payment.
+6 (3) This section shall not prohibit the imposition or collection of taxes, withholdings,
+7 assessments, or charges on digital assets used as the method of payment when the
+8 same imposition and collections of taxes, withholdings, assessments, or charges
+9 are made on similar transactions which use the legal tender of the United States
+10 as the method of payment.
+11 SECTION 3. A NEW SECTION OF KRS CHAPTER 369 IS CREATED TO
+12 READ AS FOLLOWS:
+13 The local zoning for a digital asset mining business:
+14 (1) Shall not be changed from its original designation without going through the
+15 notice and comment process established by the local government;
+16 (2) Shall not be changed to discriminate against a digital asset mining business;
+17 (3) May be appealed to a proper court of jurisdiction; and
+18 (4) Shall be reversed upon a finding by the court that the change occurred to
+19 discriminate against a digital asset mining business.
+20 SECTION 4. A NEW SECTION OF KRS CHAPTER 369 IS CREATED TO
+21 READ AS FOLLOWS:
+22 (1) The operation of a node shall be allowed to:
+23 (a) Connect to a blockchain protocol and participate in the blockchain
+24 protocol's operations;
+25 (b) Transfer digital assets on a blockchain protocol; or
+26 (c) Participate in staking on a blockchain protocol.
+27 (2) The Attorney General may initiate any action under KRS 367.110 to 367.300
+Page 5 of 8
+XXXX 2/19/2025 8:26 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 329
+1 relating to the offering or providing to individuals or other businesses of:
+2 (a) Digital asset mining; or
+3 (b) Staking as a service.
+4 (3) A person:
+5 (a) Engaged in or providing digital asset mining;
+6 (b) Operating a node or series of nodes on a blockchain network; or
+7 (c) Providing staking as a service;
+8 shall have no liability for a specific transaction if the person only validates the
+9 transaction.
+10 Section 5. KRS 286.11-007 is amended to read as follows:
+11 This subtitle does not apply to:
+12 (1) The United States or any department, agency, or instrumentality thereof;
+13 (2) The United States Post Office or a contractor acting on behalf of the United States
+14 Post Office;
+15 (3) A state or any agency, department, or political subdivision of a state;
+16 (4) A financial institution or its subsidiaries, affiliates, and service corporations, or any
+17 office of an international banking corporation, branch of a foreign bank, or
+18 corporation organized pursuant to the Bank Service Corporation Act, 12 U.S.C.
+19 secs. 181 to 1867, or a corporation organized under the Edge Act, 12 U.S.C. secs.
+20 611 to 633;
+21 (5) A service provider that:
+22 (a) Pursuant to a written agreement, acts on behalf of an entity exempt from
+23 licensure as set forth in subsection (4) of this section; and
+24 (b) Allows the state or federal regulators with regulatory jurisdiction over the
+25 exempt entity to examine and inspect the service provider's applicable
+26 records, books, and transactions;
+27 (6) A service provider that receives money or monetary value on behalf of an entity
+Page 6 of 8
+XXXX 2/19/2025 8:26 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 329
+1 selling goods or services other than money transmission services if:
+2 (a) The entity, upon receipt of funds by the service provider, immediately either:
+3 1. Provides the purchased goods or services to the purchaser; or
+4 2. Credits the purchaser for the full amount of money or monetary value
+5 received by the service provider, which credit is not revocable by the
+6 entity, and evidences this credit in writing; and
+7 (b) The entity is obligated to provide the purchased goods or services to the
+8 purchaser regardless of whether or not the service provider transmits the
+9 money or monetary value to the entity;[ or]
+10 (7) The provision of electronic transfer of government benefits for any federal, state, or
+11 county governmental agency as defined in Federal Reserve Board Regulation E, by
+12 a contractor for and on behalf of the United States or any department, agency, or
+13 instrumentality thereof, or any state or any political subdivisions thereof; or
+14 (8) (a) Any individual or business that:
+15 1. Is engaged in home digital asset mining or a digital asset mining
+16 business;
+17 2. Develops or deploys software on a blockchain protocol, even if the
+18 software effectuates the exchange of one digital asset for another
+19 digital asset; or
+20 3. Exchanges digital assets for other digital assets;
+21 4. Operates a node or series of nodes on a blockchain protocol.
+22 (b) As used in this subsection, the following terms have the same meaning as in
+23 Section 1 of this Act:
+24 1. "Digital asset mining business";
+25 2. "Home digital asset mining"; and
+26 3. "Node."[.]
+27 Section 6. KRS 292.340 is amended to read as follows:
+Page 7 of 8
+XXXX 2/19/2025 8:26 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 329
+1 (1) It is unlawful for any person to offer or sell any security in this state, unless the
+2 security is registered under this chapter, or the security or transaction is exempt
+3 under this chapter, or the security is a covered security.
+4 (2) (a) A business that offers to provide digital asset mining or staking as a service
+5 to any person shall not be deemed to be offering or selling a security under
+6 this chapter.
+7 (b) As used in this subsection, the following terms have the same meaning as in
+8 Section 1 of this Act:
+9 1. "Digital asset mining"; and
+10 2. "Staking as a service."
+Page 8 of 8
+XXXX 2/19/2025 8:26 AM Jacketed
+[DELETED:   2  J A B S R A ( " ( S a a p n t c a l o v t o i a l n p u c 1 M 2 E ( D t ( " s ( " ( D t 1 U 2 F 3 A 4 I w h i a c b a b a p m ( C o a s c t i p a a a i ( ( "]
+[DELETED:   2  J o 1 I 2 P b ( " 1 B 2 I ( " ( " m t p o c i t e o t p ( " ( V ( C ( N e a i s f t a n t ( " d n ( " m a s d a m d o b o a i ( " t b ( " ( S]
+[DELETED:   2  J ( P ( A t o t r i c o t d a c ( " f ( " b ( " ( U 1 C w o d o p o a b t m 2 C 3 C ( D t ( " ( H ( H ( I ( R ( " k m t a t m d a a a s i a ( " ( S ( A a ( "]
+[DELETED:   2  J ( " ( I ( B ( R e ( " t ( V ( P ( S ( ( " a s p o b o a i o b t o t d ( " i c ( " t a ( " o ( H ( S ( T S R ( A]
+[DELETED:   2  J ( A ( T ( D a u a a m o p s n b s t a t t ( T a s a a S R T ( S n b c f i o d w g t t n ( S ( M ( S b r u a f b t c t t c o t d S R ( T ( C t a b p a p i t b p ( T ( P ( T A G m i a a u K 3 t 3]
+[DELETED:   2  J r ( D ( S ( A ( E ( O ( P  s t S T ( T ( T P ( A ( A o o a i b c b o a f b o c o p t t B S C A 1 U s 6 ( A ( P t a w a a o b o a e e f l ( A t s o f r w r j o t e e t e a i t s p a r ( A]
+[DELETED:   2  J s ( T 1 P 2 C r e ( T e i o t p t p g o s t t p r o w o n t s p t t m ( T c a i ( ( A 1 I e i h d a m o a d a m b 2 D o d s o a b p e i t s e t e o o d a f a d 3 E 4 O ( A S 1 " 2 " 3 " S]
+[DELETED:   2  J ( I s i r u c o o i e u ( ( A t t ( A S 1 " 2 "]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS BR 329
+1 AN ACT relating to blockchain digital assets.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF KRS CHAPTER 369 IS CREATED TO
+4 READ AS FOLLOWS:
+5 As used in Sections 1 to 4 of this Act:
+6 (1) "Blockchain" means data that is:
+7 (a) Shared across a peer-to-peer network to create a ledger of verified
+8 transactions or information among linked network participants using
+9 cryptography to:
+10 1. Maintain the integrity of the ledger; or
+11 2. Execute other functions; and
+12 (b) Distributed in a concurrent, automated update to network participants on
+13 the state of the ledger and any other functions;
+14 (2) "Blockchain network" means a technical infrastructure that provides ledger and
+15 smart contract services to applications;
+16 (3) "Blockchain protocol" means any executable software:
+17 (a) Deployed to a blockchain including an additional standardized set of rules
+18 that:
+19 1. Uses an existing blockchain as a base;
+20 2. Facilitates the transfer of data and electronic records;
+21 3. Allows that data to be broadcast to nodes; and
+22 4. Is governed by a set of predefined rules which execute autonomously
+23 without human intervention and can be altered by a predetermined
+24 mechanism; and
+25 (b) Composed of a source code that is publicly available and accessible,
+26 including a smart contract or any network of smart contracts;
+27 (4) (a) "Central bank digital currency" means a digital currency, a digital medium
+Page 1 of 8
+XXXX 2/19/2025 8:26 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 329
+1 of exchange, or a digital monetary unit of account:
+2 1. Issued and made directly available to the public; or
+3 2. Processed or validated;
+4 by the United States Federal Reserve System or a federal agency.
+5 (b) "Central bank digital currency" does not mean a digital asset:
+6 1. Backed by legal tender or government treasuries; and
+7 2. Issued by a private entity;
+8 (5) "Cryptocurrency" has the same meaning as in KRS 139.516;
+9 (6) "Cryptography" means the practice of coding information to ensure only the
+10 person that a message was written for can read and process that information;
+11 (7) "Digital asset" means:
+12 (a) Virtual currency;
+13 (b) Cryptocurrency; and
+14 (c) Natively electronic assets, including stablecoins, fungible tokens, and
+15 nonfungible tokens;
+16 that confer economic, proprietary, or access rights or powers;
+17 (8) "Digital asset mining" means using computer hardware and software specifically
+18 designed or utilized for the purpose of validating data and securing a blockchain
+19 network;
+20 (9) "Digital asset mining as a service" means and individual or business which runs,
+21 maintains, and services digital asset mining devices on behalf of another
+22 individual or business for monetary compensation;
+23 (10) "Digital asset mining business" means a group of computers working together
+24 that consume more than one (1) megawatt of energy for the purpose of securing a
+25 blockchain protocol;
+26 (11) "Hardware wallet" means a physical device that:
+27 (a) Stores private keys offline;
+Page 2 of 8
+XXXX 2/19/2025 8:26 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 329
+1 (b) Provides a way to sign transactions and interact with the blockchain; and
+2 (c) Allows the owner to retain independent control over the digital asset
+3 contained therein;
+4 (12) "Home digital asset mining" means using digital asset mining in an area zoned
+5 for residential use;
+6 (13) "Natively electronic asset" means a purely digital asset that exists only on the
+7 blockchain network;
+8 (14) "Node" means a computer which:
+9 (a) Uses software to:
+10 1. Communicate with other devices or participants on a blockchain to
+11 maintain consensus and integrity of that blockchain;
+12 2. Create and validates transaction blocks; or
+13 3. Contain and update a copy of a blockchain; and
+14 (b) Does not exercise discretion over transactions initiated by the end users of
+15 the blockchain protocol;
+16 (15) "Nonfungible token" means a digital asset on a blockchain that:
+17 (a) Has unique identification codes and metadata that are recorded;
+18 (b) Has been tokenized and cannot be replicated;
+19 (c) Is used to certify ownership and authenticity; and
+20 (d) Represents digital or physical items including artwork or real estate;
+21 (16) "Private key" means the access to manage digital assets at a specific internet
+22 address and may be used for encryption and digital signature;
+23 (17) "Self-hosted wallet" means a digital interface that can:
+24 (a) Secure and transfer digital assets; and
+25 (b) Allow its owner to retain independent control of the secured digital assets
+26 and private keys;
+27 (18) "Smart contract" has the same meaning as in KRS 42.747;
+Page 3 of 8
+XXXX 2/19/2025 8:26 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 329
+1 (19) "Stablecoin" means a digital asset that is:
+2 (a) Issued by a corporation;
+3 (b) Backed by cash or high-quality liquid assets; and
+4 (c) Redeemable on demand by the holder at par for a fixed monetary value in
+5 equivalent United States dollars;
+6 (20) "Staking" means using a node to commit digital assets to a blockchain network
+7 to:
+8 (a) Validate transactions;
+9 (b) Propose and attest to blocks contained in the blockchain; and
+10 (c) Secure the network;
+11 (21) (a) "Staking as a service" means the provision of technical staking services by
+12 a service provider on behalf of an individual or business that owns the
+13 digital assets being staked.
+14 (b) "Staking as a service" includes the operation of nodes and the associated
+15 infrastructure necessary to facilitate participation in blockchain protocols’
+16 consensus mechanisms;
+17 (22) "Third-party wallet" means a wallet that is hosted and controlled by a party other
+18 than the owner which contains the private keys for the owner of digital assets;
+19 and
+20 (23) "Wallet" means a digital interface or a physical device which holds digital assets
+21 or private keys, and may include a:
+22 (a) Hardware wallet;
+23 (b) Self-hosted wallet; and
+24 (c) Third-party wallet.
+25 SECTION 2. A NEW SECTION OF KRS CHAPTER 369 IS CREATED TO
+26 READ AS FOLLOWS:
+27 (1) An individual shall not be prohibited from:
+Page 4 of 8
+XXXX 2/19/2025 8:26 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 329
+1 (a) Accepting digital assets for payment for legal goods or services; or
+2 (b) The use of a wallet.
+3 (2) Digital assets used as a method of payment shall not be subject to additional
+4 taxes, withholdings, assessments, or charges that are based solely on the use of
+5 the digital asset as the method of payment.
+6 (3) This section shall not prohibit the imposition or collection of taxes, withholdings,
+7 assessments, or charges on digital assets used as the method of payment when the
+8 same imposition and collections of taxes, withholdings, assessments, or charges
+9 are made on similar transactions which use the legal tender of the United States
+10 as the method of payment.
+11 SECTION 3. A NEW SECTION OF KRS CHAPTER 369 IS CREATED TO
+12 READ AS FOLLOWS:
+13 The local zoning for a digital asset mining business:
+14 (1) Shall not be changed from its original designation without going through the
+15 notice and comment process established by the local government;
+16 (2) Shall not be changed to discriminate against a digital asset mining business;
+17 (3) May be appealed to a proper court of jurisdiction; and
+18 (4) Shall be reversed upon a finding by the court that the change occurred to
+19 discriminate against a digital asset mining business.
+20 SECTION 4. A NEW SECTION OF KRS CHAPTER 369 IS CREATED TO
+21 READ AS FOLLOWS:
+22 (1) The operation of a node shall be allowed to:
+23 (a) Connect to a blockchain protocol and participate in the blockchain
+24 protocol's operations;
+25 (b) Transfer digital assets on a blockchain protocol; or
+26 (c) Participate in staking on a blockchain protocol.
+27 (2) The Attorney General may initiate any action under KRS 367.110 to 367.300
+Page 5 of 8
+XXXX 2/19/2025 8:26 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 329
+1 relating to the offering or providing to individuals or other businesses of:
+2 (a) Digital asset mining; or
+3 (b) Staking as a service.
+4 (3) A person:
+5 (a) Engaged in or providing digital asset mining;
+6 (b) Operating a node or series of nodes on a blockchain network; or
+7 (c) Providing staking as a service;
+8 shall have no liability for a specific transaction if the person only validates the
+9 transaction.
+10 Section 5. KRS 286.11-007 is amended to read as follows:
+11 This subtitle does not apply to:
+12 (1) The United States or any department, agency, or instrumentality thereof;
+13 (2) The United States Post Office or a contractor acting on behalf of the United States
+14 Post Office;
+15 (3) A state or any agency, department, or political subdivision of a state;
+16 (4) A financial institution or its subsidiaries, affiliates, and service corporations, or any
+17 office of an international banking corporation, branch of a foreign bank, or
+18 corporation organized pursuant to the Bank Service Corporation Act, 12 U.S.C.
+19 secs. 181 to 1867, or a corporation organized under the Edge Act, 12 U.S.C. secs.
+20 611 to 633;
+21 (5) A service provider that:
+22 (a) Pursuant to a written agreement, acts on behalf of an entity exempt from
+23 licensure as set forth in subsection (4) of this section; and
+24 (b) Allows the state or federal regulators with regulatory jurisdiction over the
+25 exempt entity to examine and inspect the service provider's applicable
+26 records, books, and transactions;
+27 (6) A service provider that receives money or monetary value on behalf of an entity
+Page 6 of 8
+XXXX 2/19/2025 8:26 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 329
+1 selling goods or services other than money transmission services if:
+2 (a) The entity, upon receipt of funds by the service provider, immediately either:
+3 1. Provides the purchased goods or services to the purchaser; or
+4 2. Credits the purchaser for the full amount of money or monetary value
+5 received by the service provider, which credit is not revocable by the
+6 entity, and evidences this credit in writing; and
+7 (b) The entity is obligated to provide the purchased goods or services to the
+8 purchaser regardless of whether or not the service provider transmits the
+9 money or monetary value to the entity;[ or]
+10 (7) The provision of electronic transfer of government benefits for any federal, state, or
+11 county governmental agency as defined in Federal Reserve Board Regulation E, by
+12 a contractor for and on behalf of the United States or any department, agency, or
+13 instrumentality thereof, or any state or any political subdivisions thereof; or
+14 (8) (a) Any individual or business that:
+15 1. Is engaged in home digital asset mining or a digital asset mining
+16 business;
+17 2. Develops or deploys software on a blockchain protocol, even if the
+18 software effectuates the exchange of one digital asset for another
+19 digital asset; or
+20 3. Exchanges digital assets for other digital assets;
+21 4. Operates a node or series of nodes on a blockchain protocol.
+22 (b) As used in this subsection, the following terms have the same meaning as in
+23 Section 1 of this Act:
+24 1. "Digital asset mining business";
+25 2. "Home digital asset mining"; and
+26 3. "Node."[.]
+27 Section 6. KRS 292.340 is amended to read as follows:
+Page 7 of 8
+XXXX 2/19/2025 8:26 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 329
+1 (1) It is unlawful for any person to offer or sell any security in this state, unless the
+2 security is registered under this chapter, or the security or transaction is exempt
+3 under this chapter, or the security is a covered security.
+4 (2) (a) A business that offers to provide digital asset mining or staking as a service
+5 to any person shall not be deemed to be offering or selling a security under
+6 this chapter.
+7 (b) As used in this subsection, the following terms have the same meaning as in
+8 Section 1 of this Act:
+9 1. "Digital asset mining"; and
+10 2. "Staking as a service."
+Page 8 of 8
+XXXX 2/19/2025 8:26 AM Jacketed
+
+[DELETED:   2  J A B S R A ( " ( S a a p n t c a l o v t o i a l n p u c 1 M 2 E ( D t ( " s ( " ( D t 1 U 2 F 3 A 4 I w h i a c b a b a p m ( C o a s c t i p a a a i ( ( "]
+[DELETED:   2  J o 1 I 2 P b ( " 1 B 2 I ( " ( " m t p o c i t e o t p ( " ( V ( C ( N e a i s f t a n t ( " d n ( " m a s d a m d o b o a i ( " t b ( " ( S]
+[DELETED:   2  J ( P ( A t o t r i c o t d a c ( " f ( " b ( " ( U 1 C w o d o p o a b t m 2 C 3 C ( D t ( " ( H ( H ( I ( R ( " k m t a t m d a a a s i a ( " ( S ( A a ( "]
+[DELETED:   2  J ( " ( I ( B ( R e ( " t ( V ( P ( S ( ( " a s p o b o a i o b t o t d ( " i c ( " t a ( " o ( H ( S ( T S R ( A]
+[DELETED:   2  J ( A ( T ( D a u a a m o p s n b s t a t t ( T a s a a S R T ( S n b c f i o d w g t t n ( S ( M ( S b r u a f b t c t t c o t d S R ( T ( C t a b p a p i t b p ( T ( P ( T A G m i a a u K 3 t 3]
+[DELETED:   2  J r ( D ( S ( A ( E ( O ( P  s t S T ( T ( T P ( A ( A o o a i b c b o a f b o c o p t t B S C A 1 U s 6 ( A ( P t a w a a o b o a e e f l ( A t s o f r w r j o t e e t e a i t s p a r ( A]
+[DELETED:   2  J s ( T 1 P 2 C r e ( T e i o t p t p g o s t t p r o w o n t s p t t m ( T c a i ( ( A 1 I e i h d a m o a d a m b 2 D o d s o a b p e i t s e t e o o d a f a d 3 E 4 O ( A S 1 " 2 " 3 " S]
+[DELETED:   2  J ( I s i r u c o o i e u ( ( A t t ( A S 1 " 2 "]

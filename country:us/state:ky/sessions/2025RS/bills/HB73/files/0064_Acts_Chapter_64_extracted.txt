@@ -1,0 +1,666 @@
+Title: AN ACT relating to employers of the Teachers' Retirement System.
+Official Title: AN ACT relating to employers of the Teachers' Retirement System.
+Number of Sections: 17
+Source: versions - Acts Chapter 64
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+CHAPTER 64 1
+CHAPTER 64
+( HB 73 )
+Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+Section 1. KRS 161.220 is amended to read as follows:
+As used in KRS 161.220 to 161.716 and 161.990:
+(1) "Retirement system" means the arrangement provided for in KRS 161.220 to 161.716 and 161.990 for
+payment of allowances to members;
+(2) "Retirement allowance" means the amount annually payable during the course of his or her natural life to a
+member who has been retired by reason of service;
+(3) "Disability allowance" means the amount annually payable to a member retired by reason of disability;
+(4) "Member" means the commissioner of education, deputy commissioners, associate commissioners, and all
+division directors in the State Department of Education, employees participating in the system pursuant to
+KRS 196.167(3)(b)1., and any full-time teacher or professional occupying a position requiring certification or
+graduation from a four (4) year college or university, as a condition of employment, and who is employed by
+public boards, institutions, or agencies as follows:
+(a) Local boards of education and public charter schools if the public charter school satisfies the criteria set
+by the Internal Revenue Service to participate in a governmental retirement plan;
+(b) Eastern Kentucky University, Kentucky State University, Morehead State University, Murray State
+University, Western Kentucky University, and any community colleges established under the control of
+these universities;
+(c) State-operated secondary area vocational education or area technology centers, Kentucky School for the
+Blind, and Kentucky School for the Deaf;
+(d) Other public education agencies as created by the General Assembly and those members of the
+administrative staff of the Teachers' Retirement System of the State of Kentucky whom the board of
+trustees may designate by administrative regulation;
+(e) Regional cooperative organizations formed by local boards of education or other public educational
+institutions listed in this subsection, for the purpose of providing educational services to the
+participating organizations;
+(f) All full-time members of the staffs of the Kentucky Association of School Administrators, Kentucky
+Education Association, Kentucky Vocational Association, Kentucky High School Athletic Association,
+Kentucky Academic Association, and the Kentucky School Boards Association who were members of
+the Kentucky Teachers' Retirement System or were qualified for a position covered by the system at the
+time of employment by the association in the event that the board of directors of the respective
+association petitions to be included. The board of trustees of the Kentucky Teachers' Retirement System
+may designate by resolution whether part-time employees of the petitioning association are to be
+included. The state shall make no contributions on account of these employees, either full-time or part-
+time. The association shall make the employer's contributions, including any contribution that is
+specified under KRS 161.550. The provisions of this paragraph shall be applicable to persons in the
+employ of the associations on or subsequent to July 1, 1972;
+(g) Employees of the Council on Postsecondary Education who were employees of the Department for
+Adult Education and Literacy and who were members of the Kentucky Teachers' Retirement System at
+the time the department was transferred to the council pursuant to Executive Order 2003-600;
+(h) The Office of Career and Technical Education;
+(i) The Office of Vocational Rehabilitation;
+(j) The Kentucky Educational Collaborative for State Agency Children;
+Legislative Research Commission PDF Version
+2 ACTS OF THE GENERAL ASSEMBLY
+(k) The Governor's Scholars Program;
+(l) Any person who is retired for service from the retirement system and is reemployed by an employer
+identified in this subsection in a position that the board of trustees deems to be a member, except that
+any person who becomes a member on or after January 1, 2022, and subsequently draws a monthly
+lifetime retirement allowance, shall upon reemployment after retirement not earn a second retirement
+account;
+(m) Employees of the former Cabinet for Workforce Development who are transferred to the Kentucky
+Community and Technical College System and who occupy positions covered by the Kentucky
+Teachers' Retirement System shall remain in the Teachers' Retirement System. New employees
+occupying these positions, as well as newly created positions qualifying for Teachers' Retirement
+System coverage that would have previously been included in the former Cabinet for Workforce
+Development, shall be members of the Teachers' Retirement System;
+(n) Effective January 1, 1998, employees of state community colleges who are transferred to the Kentucky
+Community and Technical College System shall continue to participate in federal old age, survivors,
+disability, and hospital insurance, and a retirement plan other than the Kentucky Teachers' Retirement
+System offered by Kentucky Community and Technical College System. New employees occupying
+positions in the Kentucky Community and Technical College System as referenced in KRS 164.5807(5)
+that would not have previously been included in the former Cabinet for Workforce Development, shall
+participate in federal old age, survivors, disability, and hospital insurance and have a choice at the time
+of employment of participating in a retirement plan provided by the Kentucky Community and
+Technical College System, including participation in the Kentucky Teachers' Retirement System, on the
+same basis as faculty of the state universities as provided in KRS 161.540 and 161.620;
+(o) Employees of the Office of General Counsel, the Office of Budget and Administrative Services, and the
+Office of Quality and Human Resources within the Office of the Secretary of the former Cabinet for
+Workforce Development and the commissioners of the former Department for Adult Education and
+Literacy and the former Department for Technical Education who were contributing to the Kentucky
+Teachers' Retirement System as of July 15, 2000;
+(p) Employees of the Kentucky Department of Education only who are graduates of a four (4) year college
+or university, notwithstanding a substitution clause within a job classification, and who are serving in a
+professional job classification as defined by the department;
+(q) The Governor's School for Entrepreneurs Program;
+(r) Employees of the Office of Adult Education within the Department of Workforce Development in the
+Education and Labor Cabinet who were employees of the Council on Postsecondary Education,
+Kentucky Adult Education Program and who were members of the Kentucky Teachers' Retirement
+System at the time the Program was transferred to the cabinet pursuant to Executive Orders 2019-0026
+and 2019-0027;[ and]
+(s) Employees of the Education Professional Standards Board who were members of the Kentucky
+Teachers' Retirement System at the time the employees were transferred to the Kentucky Department of
+Education pursuant to Executive Order 2020-590; and
+(t) WeLeadCS, the virtual computer science career academy established in KRS 158.809;
+(5) "Present teacher" means any teacher who was a teacher on or before July 1, 1940, and became a member of the
+retirement system created by 1938 (1st Extra. Sess.) Ky. Acts ch. 1, on the date of the inauguration of the
+system or within one (1) year after that date, and any teacher who was a member of a local teacher retirement
+system in the public elementary or secondary schools of the state on or before July 1, 1940, and continued to
+be a member of the system until he or she, with the membership of the local retirement system, became a
+member of the state Teachers' Retirement System or who becomes a member under the provisions of KRS
+
+Section 2:
+161.470(4);
+(6) "New teacher" means any member not a present teacher;
+(7) "Prior service" means the number of years during which the member was a teacher in Kentucky prior to July 1,
+1941, except that not more than thirty (30) years' prior service shall be allowed or credited to any teacher;
+(8) "Subsequent service" means the number of years during which the teacher is a member of the Teachers'
+Retirement System after July 1, 1941;
+CHAPTER 64 3
+(9) "Final average salary" means the average of the five (5) highest annual salaries which the member has received
+for service in a covered position and on which the member has made contributions, or on which the public
+board, institution, or agency has picked-up member contributions pursuant to KRS 161.540(2), or the average
+of the five (5) years of highest salaries as defined in KRS 61.680(2)(a), which shall include picked-up member
+contributions. Additionally, the board of trustees may approve a final average salary based upon the average of
+the three (3) highest salaries for individuals who become members prior to January 1, 2022, who are at least
+fifty-five (55) years of age and have a minimum of twenty-seven (27) years of Kentucky service credit.
+However, if any of the five (5) or three (3) highest annual salaries used to calculate the final average salary
+was paid within the three (3) years immediately prior to the date of the member's retirement for individuals
+who become members prior to January 1, 2022, or within the five (5) years immediately prior to the date of the
+member's retirement for individuals who become members on or after January 1, 2022, the amount of salary to
+be included for each of those three (3) years or five (5) years, as applicable, for the purpose of calculating the
+final average salary shall be limited to the lesser of:
+(a) The member's actual salary; or
+(b) The member's annual salary that was used for retirement purposes during each of the prior three (3)
+years or five (5) years, as applicable, plus a percentage increase equal to the percentage increase
+received by all other members employed by the public board, institution, or agency, or for members of
+school districts, the highest percentage increase received by members on any one (1) rank and step of
+the salary schedule of the school district. The increase shall be computed on the salary that was used for
+retirement purposes. The board of trustees may promulgate an administrative regulation in accordance
+with KRS Chapter 13A to establish a methodology for measuring the limitation so that the combined
+increases in salary for each of the last three (3) full years of salary prior to retirement shall not exceed
+the total permissible percentage increase received by other members of the employer for the same three
+(3) year period.
+For individuals who became members of the retirement system prior to July 1, 2021, this limitation shall not
+apply if the member receives an increase in salary in a percentage exceeding that received by the other
+members, and this increase was accompanied by a corresponding change in position or in length of
+employment. The board of trustees may promulgate an administrative regulation in accordance with KRS
+Chapter 13A to provide definitions for a corresponding change in position or in length of employment. This
+limitation shall also not apply to the payment to a member for accrued annual leave if the individual becomes a
+member before July 1, 2008, or accrued sick leave which is authorized by statute and which shall, for
+individuals subject to KRS 161.155(10) who became nonuniversity members of the system prior to January 1,
+2022, be included as part of a retiring member's annual compensation for the member's last year of active
+service;
+(10) "Annual compensation" means the total salary received by a member as compensation for all services
+performed in employment covered by the retirement system during a fiscal year. Annual compensation shall
+not include payment for any benefit or salary adjustments made by the public board, institution, or agency to
+the member or on behalf of the member which is not available as a benefit or salary adjustment to other
+members employed by that public board, institution, or agency. Annual compensation shall not include the
+salary supplement received by a member under KRS 157.197(2)(c), 158.6455, or 158.782 on or after July 1,
+
+Section 3:
+1996. Under no circumstances shall annual compensation include compensation that is earned by a member
+while on assignment to an organization or agency that is not a public board, institution, or agency listed in
+subsection (4) of this section. In the event that federal law requires that a member continue membership in the
+retirement system even though the member is on assignment to an organization or agency that is not a public
+board, institution, or agency listed in subsection (4) of this section, the member's annual compensation for
+retirement purposes shall be deemed to be the annual compensation, as limited by subsection (9) of this
+
+Section 4:
+section, last earned by the member while still employed solely by and providing services directly to a public
+board, institution, or agency listed in subsection (4) of this section. The board of trustees shall determine if any
+benefit or salary adjustment qualifies as annual compensation. For an individual who becomes a member on or
+after July 1, 2008, annual compensation shall not include lump-sum payments upon termination of
+employment for accumulated annual or compensatory leave;
+(11) "Age of member" means the age attained on the first day of the month immediately following the birthdate of
+the member. This definition is limited to retirement eligibility and does not apply to tenure of members;
+(12) "Employ," and derivatives thereof, means relationships under which an individual provides services to an
+employer as an employee, as an independent contractor, as an employee of a third party, or under any other
+Legislative Research Commission PDF Version
+4 ACTS OF THE GENERAL ASSEMBLY
+arrangement as long as the services provided to the employer are provided in a position that would otherwise
+be covered by the Kentucky Teachers' Retirement System and as long as the services are being provided to a
+public board, institution, or agency listed in subsection (4) of this section;
+(13) "Regular interest" means:
+(a) For an individual who becomes a member prior to July 1, 2008, interest at three percent (3%) per
+annum;:
+(b) For an individual who becomes a member on or after July 1, 2008, but prior to January 1, 2022, interest
+at two and one-half percent (2.5%) per annum for purposes of crediting interest to the teacher savings
+account or any other contributions made by the employee that are refundable to the employee upon
+termination of employment; and
+(c) For an individual who becomes a member on or after January 1, 2022, the rolling five (5) year yield on
+a thirty (30) year United States Treasury bond as of the end of May prior to the most recently completed
+fiscal year, except that:
+
+Section 5:
+1. Once the member has at least sixty (60) months of service in the system it shall mean interest at
+two and one-half percent (2.5%) per annum for purposes of crediting interest to employee
+contributions in the foundational benefit component or any other contributions made by the
+employee to the foundational benefit component that are refundable to the employee upon
+termination of employment; and
+
+Section 6:
+2. The board shall have the authority to adjust the regular interest rate for individuals who become
+members on or after January 1, 2022, in accordance with KRS 161.633 and 161.634;
+(14) "Accumulated contributions" means the contributions of a member to the teachers' savings fund, including
+picked-up member contributions as described in KRS 161.540(2), plus accrued regular interest;
+(15) "Annuitant" means a person who receives a retirement allowance or a disability allowance;
+(16) "Local retirement system" means any teacher retirement or annuity system created in any public school district
+in Kentucky in accordance with the laws of Kentucky;
+(17) "Fiscal year" means the twelve (12) month period from July 1 to June 30. The retirement plan year is
+concurrent with this fiscal year. A contract for a member employed by a local board of education may not
+exceed two hundred sixty-one (261) days in the fiscal year;
+(18) "Public schools" means the schools and other institutions mentioned in subsection (4) of this section;
+(19) "Dependent" as used in KRS 161.520 and 161.525 means a person who was receiving, at the time of death of
+the member, at least one-half (1/2) of the support from the member for maintenance, including board, lodging,
+medical care, and related costs;
+(20) "Active contributing member" means a member currently making contributions to the Teachers' Retirement
+System, who made contributions in the next preceding fiscal year, for whom picked-up member contributions
+are currently being made, or for whom these contributions were made in the next preceding fiscal year;
+(21) "Full-time" means employment in a position that requires services on a continuing basis equal to at least
+seven-tenths (7/10) of normal full-time service on a fiscal year basis;
+(22) "Full actuarial cost," when used to determine the payment that a member must pay for service credit means the
+actuarial value of all costs associated with the enhancement of a member's benefits or eligibility for benefit
+enhancements, including health insurance supplement payments made by the retirement system. The actuary
+for the retirement system shall determine the full actuarial value costs and actuarial cost factor tables as
+provided in KRS 161.400;
+(23) "Last annual compensation" means the annual compensation, as defined by subsection (10) of this section and
+as limited by subsection (9) of this section, earned by the member during the most recent period of
+contributing service, either consecutive or nonconsecutive, that is sufficient to provide the member with one
+(1) full year of service credit in the Kentucky Teachers' Retirement System, and which compensation is used
+in calculating the member's initial retirement allowance, excluding bonuses, retirement incentives, payments
+for accumulated sick leave, annual, personal, and compensatory leave, and any other lump-sum payment. For
+an individual who becomes a member on or after July 1, 2008, payments for annual or compensatory leave
+shall not be included in determining the member's last annual compensation;
+CHAPTER 64 5
+(24) "Participant" means a member, as defined by subsection (4) of this section, or an annuitant, as defined by
+subsection (15) of this section;
+(25) "Qualified domestic relations order" means any judgment, decree, or order, including approval of a property
+settlement agreement, that:
+(a) Is issued by a court or administrative agency; and
+(b) Relates to the provision of child support, alimony payments, or marital property rights to an alternate
+payee;
+(26) "Alternate payee" means a spouse, former spouse, child, or other dependent of a participant, who is designated
+to be paid retirement benefits in a qualified domestic relations order;
+(27) "University member" means an individual who becomes a member through employment with an employer
+specified in subsection (4)(b) and (n) of this section;
+(28) "Nonuniversity member" means an individual who becomes a member through employment with an employer
+specified under subsection (4) of this section, except for those members employed by an employer specified in
+subsection (4)(b) and (n) of this section;
+(29) "Accumulated employer contribution" means the employer contribution deposited to a member's account
+through the supplemental benefit component and regular interest credited on such amounts as provided by
+KRS 161.635 for nonuniversity members and KRS 161.636 for university members;
+(30) "Accumulated account balance" means:
+(a) For members who began participating in the system prior to January 1, 2022, the member's accumulated
+contributions; or
+(b) For members who began participating in the system on or after January 1, 2022, the combined sum of
+the member's accumulated contributions and the member's accumulated employer contributions;
+(31) "Foundational benefit component" means the benefits provided by KRS 161.220 to 161.716 to individuals who
+become members on or after January 1, 2022, except for the supplemental benefit component and retiree
+health benefits set forth in KRS 161.675; and
+(32) "Supplemental benefit component" means:
+(a) The benefit established pursuant to KRS 161.635 for individuals who become nonuniversity members
+on or after January 1, 2022; or
+(b) The benefit established pursuant to KRS 161.636 for individuals who become university members on or
+after January 1, 2022.
+Section 2. KRS 161.400 is amended to read as follows:
+(1) (a) The board of trustees shall designate as actuary a competent person who shall be a fellow of the
+Conference of Consulting Actuaries or a member of the American Academy of Actuaries. He or she
+shall be the technical adviser of the board on matters regarding the operation of the funds of the system
+and shall perform such other duties as are required in connection therewith.
+(b) 1. At least once in each two (2) year period, the board shall cause an actuarial investigation to be
+made of all of the economic experience under the retirement system, including but not limited to
+the inflation rate, investment return, and payroll growth assumptions, relative to the economic
+assumptions and funding methods previously adopted by the board.
+
+Section 7:
+2. At least once in each five (5) year period, the actuary shall make an actuarial investigation into
+all of the demographic actuarial assumptions used, including but not limited to mortality tables,
+withdrawal rates, and retirement rate assumptions, relative to the demographic actuarial
+assumptions previously adopted by the board.
+
+Section 8:
+3. Each actuarial investigation shall include at a minimum a summary of the changes in actuarial
+assumptions and funding methods recommended in the investigation and the projected impact of
+the recommended changes on funding levels, unfunded liabilities, and actuarially recommended
+contribution rates for employers over a thirty (30) year period.
+Legislative Research Commission PDF Version
+6 ACTS OF THE GENERAL ASSEMBLY
+(c) At least annually the actuary shall make an actuarial valuation of the retirement system. The valuation
+shall include:
+
+Section 9:
+1. A description of the actuarial assumptions used, and the assumptions shall be reasonably related
+to the experience of the system and represent the actuary's best estimate of anticipated
+experience;
+
+Section 10:
+2. A description of any funding methods utilized or required by state law in the development of the
+actuarial valuation results;
+
+Section 11:
+3. A description of any changes in actuarial assumptions and methods from the previous year's
+actuarial valuation;
+
+Section 12:
+4. The actuarially recommended contribution rate for employers for the upcoming budget periods;
+
+Section 13:
+5. A thirty (30) year projection of the funding levels, unfunded liabilities, and actuarially
+recommended contribution rates for employers based upon the actuarial assumptions, funding
+methods, and experience of the system as of the valuation date;[ and]
+
+Section 14:
+6. A sensitivity analysis that evaluates the impact of changes in system assumptions, including but
+not limited to the investment return assumption, payroll growth assumption, and medical
+inflation rates, on employer contribution rates, funding levels, and unfunded liabilities; and
+
+Section 15:
+7. A breakdown of each individual employer's share of the actuarially accrued liability as
+determined solely by the system's consulting actuary and assigned to each employer based
+upon the last participating employer of the member or annuitant as of the valuation date. The
+breakdown shall include a value for each individual employer, including but not limited to
+each individual school district, each university, each state agency, and every other individual
+employer who participates in the system.
+(d) On the basis of the results of the valuations, the board of trustees shall make necessary changes in the
+retirement system within the provisions of law and shall establish the contributions payable by
+employers and the state specified in KRS 161.550, including changes prescribed by KRS 161.633,
+
+Section 16:
+161.634, 161.635, and 161.636, as applicable.
+(e) For any change in actuarial assumptions, funding methods, retiree health insurance premiums and
+subsidies, or any other decisions made by the board that impact system liabilities and actuarially
+recommended contribution rates for employers and that are not made in conjunction with the actuarial
+investigations required by paragraph (b) of this subsection, an actuarial analysis shall be completed
+showing the projected impact of the changes on funding levels, unfunded liabilities, and actuarially
+recommended contribution rates for employers over a thirty (30) year period.
+(2) Actuarial factors and actuarial cost factor tables in use by the retirement system for all purposes shall be
+determined by the actuary of the retirement system and approved by the board of trustees by resolution and
+implemented without the necessity of an administrative regulation.
+(3) A copy of each actuarial investigation, actuarial analysis, and valuation required by subsection (1) of this
+
+Section 17:
+section shall be forwarded electronically to the Legislative Research Commission no later than ten (10) days
+after receipt by the board, and the Legislative Research Commission shall distribute the information received
+to the committee staff and co-chairs of any committee that has jurisdiction over the Teachers' Retirement
+System. The actuarial valuation required by subsection (1)(c) of this section shall be submitted no later than
+November 15 following the close of the fiscal year.
+Signed by Governor March 24, 2025.
+[DELETED:  " s m t a p f i K 1 t 1 a 1 f " " " L E K U K S U S U S S O p e a a c b t G A a t m o t R l i t s f t p o p e s t t A o e b t a i t e t t b o d o t r d b r w p e o t p a a t b T a s m t e c i a c t i E T T T]
+[DELETED:  T A E a T C S a w o p c b t K R S s r i t T R S N e t p a w a n c p q f T R c t w h p b i i t f C f W E e o p i a r p p b t K C a E E T E a L C w w e o t C o P E E o t E P S B w w m o t K W " " " "]
+[DELETED:  " ( o a h a m o t y o K s c T T o f ( y a a p a p i e t t p iF i t a i i s i a e t r b t o a t i w a b a c c i p o i l o b J 1 2 o a s l w i a b s a w s f " c m t t s r b a m a c f a s J 1 2 a c s n i l p u t o " "]
+[DELETED:  " F F F O a o p ( p a f p o c i t e i t f b c o a o c m b t t t f b c t a r t t e u T " " " " y m t t ( m p f J 1 t J 3 T r p y i " " " " " " l b s ( o t s e b t m d t m r p o]
+[DELETED:  " " I R " " " " e c m t e c d t a m a " F F " " T T ( T b o t s d a a a c p w s b a f o t 1 A A r a r r a r t t d a E]
+[DELETED:  A A t e o t s a r t a b e o a A A T A t ( y p o t f l u l a a A l t t i r a p g a a m A b o e i e s o t a a l a O s w t p o l a s e t c p b F a c i a a f m r h i p a o a o d m b t b t i s l a a A A]
+
+
+================================================================================
+
+Raw Text:
+CHAPTER 64 1
+CHAPTER 64
+( HB 73 )
+AN ACT relating to employers of the Teachers' Retirement System.
+Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+Section 1. KRS 161.220 is amended to read as follows:
+As used in KRS 161.220 to 161.716 and 161.990:
+(1) "Retirement system" means the arrangement provided for in KRS 161.220 to 161.716 and 161.990 for
+payment of allowances to members;
+(2) "Retirement allowance" means the amount annually payable during the course of his or her natural life to a
+member who has been retired by reason of service;
+(3) "Disability allowance" means the amount annually payable to a member retired by reason of disability;
+(4) "Member" means the commissioner of education, deputy commissioners, associate commissioners, and all
+division directors in the State Department of Education, employees participating in the system pursuant to
+KRS 196.167(3)(b)1., and any full-time teacher or professional occupying a position requiring certification or
+graduation from a four (4) year college or university, as a condition of employment, and who is employed by
+public boards, institutions, or agencies as follows:
+(a) Local boards of education and public charter schools if the public charter school satisfies the criteria set
+by the Internal Revenue Service to participate in a governmental retirement plan;
+(b) Eastern Kentucky University, Kentucky State University, Morehead State University, Murray State
+University, Western Kentucky University, and any community colleges established under the control of
+these universities;
+(c) State-operated secondary area vocational education or area technology centers, Kentucky School for the
+Blind, and Kentucky School for the Deaf;
+(d) Other public education agencies as created by the General Assembly and those members of the
+administrative staff of the Teachers' Retirement System of the State of Kentucky whom the board of
+trustees may designate by administrative regulation;
+(e) Regional cooperative organizations formed by local boards of education or other public educational
+institutions listed in this subsection, for the purpose of providing educational services to the
+participating organizations;
+(f) All full-time members of the staffs of the Kentucky Association of School Administrators, Kentucky
+Education Association, Kentucky Vocational Association, Kentucky High School Athletic Association,
+Kentucky Academic Association, and the Kentucky School Boards Association who were members of
+the Kentucky Teachers' Retirement System or were qualified for a position covered by the system at the
+time of employment by the association in the event that the board of directors of the respective
+association petitions to be included. The board of trustees of the Kentucky Teachers' Retirement System
+may designate by resolution whether part-time employees of the petitioning association are to be
+included. The state shall make no contributions on account of these employees, either full-time or part-
+time. The association shall make the employer's contributions, including any contribution that is
+specified under KRS 161.550. The provisions of this paragraph shall be applicable to persons in the
+employ of the associations on or subsequent to July 1, 1972;
+(g) Employees of the Council on Postsecondary Education who were employees of the Department for
+Adult Education and Literacy and who were members of the Kentucky Teachers' Retirement System at
+the time the department was transferred to the council pursuant to Executive Order 2003-600;
+(h) The Office of Career and Technical Education;
+(i) The Office of Vocational Rehabilitation;
+(j) The Kentucky Educational Collaborative for State Agency Children;
+Legislative Research Commission PDF Version
+
+2 ACTS OF THE GENERAL ASSEMBLY
+(k) The Governor's Scholars Program;
+(l) Any person who is retired for service from the retirement system and is reemployed by an employer
+identified in this subsection in a position that the board of trustees deems to be a member, except that
+any person who becomes a member on or after January 1, 2022, and subsequently draws a monthly
+lifetime retirement allowance, shall upon reemployment after retirement not earn a second retirement
+account;
+(m) Employees of the former Cabinet for Workforce Development who are transferred to the Kentucky
+Community and Technical College System and who occupy positions covered by the Kentucky
+Teachers' Retirement System shall remain in the Teachers' Retirement System. New employees
+occupying these positions, as well as newly created positions qualifying for Teachers' Retirement
+System coverage that would have previously been included in the former Cabinet for Workforce
+Development, shall be members of the Teachers' Retirement System;
+(n) Effective January 1, 1998, employees of state community colleges who are transferred to the Kentucky
+Community and Technical College System shall continue to participate in federal old age, survivors,
+disability, and hospital insurance, and a retirement plan other than the Kentucky Teachers' Retirement
+System offered by Kentucky Community and Technical College System. New employees occupying
+positions in the Kentucky Community and Technical College System as referenced in KRS 164.5807(5)
+that would not have previously been included in the former Cabinet for Workforce Development, shall
+participate in federal old age, survivors, disability, and hospital insurance and have a choice at the time
+of employment of participating in a retirement plan provided by the Kentucky Community and
+Technical College System, including participation in the Kentucky Teachers' Retirement System, on the
+same basis as faculty of the state universities as provided in KRS 161.540 and 161.620;
+(o) Employees of the Office of General Counsel, the Office of Budget and Administrative Services, and the
+Office of Quality and Human Resources within the Office of the Secretary of the former Cabinet for
+Workforce Development and the commissioners of the former Department for Adult Education and
+Literacy and the former Department for Technical Education who were contributing to the Kentucky
+Teachers' Retirement System as of July 15, 2000;
+(p) Employees of the Kentucky Department of Education only who are graduates of a four (4) year college
+or university, notwithstanding a substitution clause within a job classification, and who are serving in a
+professional job classification as defined by the department;
+(q) The Governor's School for Entrepreneurs Program;
+(r) Employees of the Office of Adult Education within the Department of Workforce Development in the
+Education and Labor Cabinet who were employees of the Council on Postsecondary Education,
+Kentucky Adult Education Program and who were members of the Kentucky Teachers' Retirement
+System at the time the Program was transferred to the cabinet pursuant to Executive Orders 2019-0026
+and 2019-0027;[ and]
+(s) Employees of the Education Professional Standards Board who were members of the Kentucky
+Teachers' Retirement System at the time the employees were transferred to the Kentucky Department of
+Education pursuant to Executive Order 2020-590; and
+(t) WeLeadCS, the virtual computer science career academy established in KRS 158.809;
+(5) "Present teacher" means any teacher who was a teacher on or before July 1, 1940, and became a member of the
+retirement system created by 1938 (1st Extra. Sess.) Ky. Acts ch. 1, on the date of the inauguration of the
+system or within one (1) year after that date, and any teacher who was a member of a local teacher retirement
+system in the public elementary or secondary schools of the state on or before July 1, 1940, and continued to
+be a member of the system until he or she, with the membership of the local retirement system, became a
+member of the state Teachers' Retirement System or who becomes a member under the provisions of KRS
+161.470(4);
+(6) "New teacher" means any member not a present teacher;
+(7) "Prior service" means the number of years during which the member was a teacher in Kentucky prior to July 1,
+1941, except that not more than thirty (30) years' prior service shall be allowed or credited to any teacher;
+(8) "Subsequent service" means the number of years during which the teacher is a member of the Teachers'
+Retirement System after July 1, 1941;
+
+CHAPTER 64 3
+(9) "Final average salary" means the average of the five (5) highest annual salaries which the member has received
+for service in a covered position and on which the member has made contributions, or on which the public
+board, institution, or agency has picked-up member contributions pursuant to KRS 161.540(2), or the average
+of the five (5) years of highest salaries as defined in KRS 61.680(2)(a), which shall include picked-up member
+contributions. Additionally, the board of trustees may approve a final average salary based upon the average of
+the three (3) highest salaries for individuals who become members prior to January 1, 2022, who are at least
+fifty-five (55) years of age and have a minimum of twenty-seven (27) years of Kentucky service credit.
+However, if any of the five (5) or three (3) highest annual salaries used to calculate the final average salary
+was paid within the three (3) years immediately prior to the date of the member's retirement for individuals
+who become members prior to January 1, 2022, or within the five (5) years immediately prior to the date of the
+member's retirement for individuals who become members on or after January 1, 2022, the amount of salary to
+be included for each of those three (3) years or five (5) years, as applicable, for the purpose of calculating the
+final average salary shall be limited to the lesser of:
+(a) The member's actual salary; or
+(b) The member's annual salary that was used for retirement purposes during each of the prior three (3)
+years or five (5) years, as applicable, plus a percentage increase equal to the percentage increase
+received by all other members employed by the public board, institution, or agency, or for members of
+school districts, the highest percentage increase received by members on any one (1) rank and step of
+the salary schedule of the school district. The increase shall be computed on the salary that was used for
+retirement purposes. The board of trustees may promulgate an administrative regulation in accordance
+with KRS Chapter 13A to establish a methodology for measuring the limitation so that the combined
+increases in salary for each of the last three (3) full years of salary prior to retirement shall not exceed
+the total permissible percentage increase received by other members of the employer for the same three
+(3) year period.
+For individuals who became members of the retirement system prior to July 1, 2021, this limitation shall not
+apply if the member receives an increase in salary in a percentage exceeding that received by the other
+members, and this increase was accompanied by a corresponding change in position or in length of
+employment. The board of trustees may promulgate an administrative regulation in accordance with KRS
+Chapter 13A to provide definitions for a corresponding change in position or in length of employment. This
+limitation shall also not apply to the payment to a member for accrued annual leave if the individual becomes a
+member before July 1, 2008, or accrued sick leave which is authorized by statute and which shall, for
+individuals subject to KRS 161.155(10) who became nonuniversity members of the system prior to January 1,
+2022, be included as part of a retiring member's annual compensation for the member's last year of active
+service;
+(10) "Annual compensation" means the total salary received by a member as compensation for all services
+performed in employment covered by the retirement system during a fiscal year. Annual compensation shall
+not include payment for any benefit or salary adjustments made by the public board, institution, or agency to
+the member or on behalf of the member which is not available as a benefit or salary adjustment to other
+members employed by that public board, institution, or agency. Annual compensation shall not include the
+salary supplement received by a member under KRS 157.197(2)(c), 158.6455, or 158.782 on or after July 1,
+1996. Under no circumstances shall annual compensation include compensation that is earned by a member
+while on assignment to an organization or agency that is not a public board, institution, or agency listed in
+subsection (4) of this section. In the event that federal law requires that a member continue membership in the
+retirement system even though the member is on assignment to an organization or agency that is not a public
+board, institution, or agency listed in subsection (4) of this section, the member's annual compensation for
+retirement purposes shall be deemed to be the annual compensation, as limited by subsection (9) of this
+section, last earned by the member while still employed solely by and providing services directly to a public
+board, institution, or agency listed in subsection (4) of this section. The board of trustees shall determine if any
+benefit or salary adjustment qualifies as annual compensation. For an individual who becomes a member on or
+after July 1, 2008, annual compensation shall not include lump-sum payments upon termination of
+employment for accumulated annual or compensatory leave;
+(11) "Age of member" means the age attained on the first day of the month immediately following the birthdate of
+the member. This definition is limited to retirement eligibility and does not apply to tenure of members;
+(12) "Employ," and derivatives thereof, means relationships under which an individual provides services to an
+employer as an employee, as an independent contractor, as an employee of a third party, or under any other
+Legislative Research Commission PDF Version
+
+4 ACTS OF THE GENERAL ASSEMBLY
+arrangement as long as the services provided to the employer are provided in a position that would otherwise
+be covered by the Kentucky Teachers' Retirement System and as long as the services are being provided to a
+public board, institution, or agency listed in subsection (4) of this section;
+(13) "Regular interest" means:
+(a) For an individual who becomes a member prior to July 1, 2008, interest at three percent (3%) per
+annum;:
+(b) For an individual who becomes a member on or after July 1, 2008, but prior to January 1, 2022, interest
+at two and one-half percent (2.5%) per annum for purposes of crediting interest to the teacher savings
+account or any other contributions made by the employee that are refundable to the employee upon
+termination of employment; and
+(c) For an individual who becomes a member on or after January 1, 2022, the rolling five (5) year yield on
+a thirty (30) year United States Treasury bond as of the end of May prior to the most recently completed
+fiscal year, except that:
+1. Once the member has at least sixty (60) months of service in the system it shall mean interest at
+two and one-half percent (2.5%) per annum for purposes of crediting interest to employee
+contributions in the foundational benefit component or any other contributions made by the
+employee to the foundational benefit component that are refundable to the employee upon
+termination of employment; and
+2. The board shall have the authority to adjust the regular interest rate for individuals who become
+members on or after January 1, 2022, in accordance with KRS 161.633 and 161.634;
+(14) "Accumulated contributions" means the contributions of a member to the teachers' savings fund, including
+picked-up member contributions as described in KRS 161.540(2), plus accrued regular interest;
+(15) "Annuitant" means a person who receives a retirement allowance or a disability allowance;
+(16) "Local retirement system" means any teacher retirement or annuity system created in any public school district
+in Kentucky in accordance with the laws of Kentucky;
+(17) "Fiscal year" means the twelve (12) month period from July 1 to June 30. The retirement plan year is
+concurrent with this fiscal year. A contract for a member employed by a local board of education may not
+exceed two hundred sixty-one (261) days in the fiscal year;
+(18) "Public schools" means the schools and other institutions mentioned in subsection (4) of this section;
+(19) "Dependent" as used in KRS 161.520 and 161.525 means a person who was receiving, at the time of death of
+the member, at least one-half (1/2) of the support from the member for maintenance, including board, lodging,
+medical care, and related costs;
+(20) "Active contributing member" means a member currently making contributions to the Teachers' Retirement
+System, who made contributions in the next preceding fiscal year, for whom picked-up member contributions
+are currently being made, or for whom these contributions were made in the next preceding fiscal year;
+(21) "Full-time" means employment in a position that requires services on a continuing basis equal to at least
+seven-tenths (7/10) of normal full-time service on a fiscal year basis;
+(22) "Full actuarial cost," when used to determine the payment that a member must pay for service credit means the
+actuarial value of all costs associated with the enhancement of a member's benefits or eligibility for benefit
+enhancements, including health insurance supplement payments made by the retirement system. The actuary
+for the retirement system shall determine the full actuarial value costs and actuarial cost factor tables as
+provided in KRS 161.400;
+(23) "Last annual compensation" means the annual compensation, as defined by subsection (10) of this section and
+as limited by subsection (9) of this section, earned by the member during the most recent period of
+contributing service, either consecutive or nonconsecutive, that is sufficient to provide the member with one
+(1) full year of service credit in the Kentucky Teachers' Retirement System, and which compensation is used
+in calculating the member's initial retirement allowance, excluding bonuses, retirement incentives, payments
+for accumulated sick leave, annual, personal, and compensatory leave, and any other lump-sum payment. For
+an individual who becomes a member on or after July 1, 2008, payments for annual or compensatory leave
+shall not be included in determining the member's last annual compensation;
+
+CHAPTER 64 5
+(24) "Participant" means a member, as defined by subsection (4) of this section, or an annuitant, as defined by
+subsection (15) of this section;
+(25) "Qualified domestic relations order" means any judgment, decree, or order, including approval of a property
+settlement agreement, that:
+(a) Is issued by a court or administrative agency; and
+(b) Relates to the provision of child support, alimony payments, or marital property rights to an alternate
+payee;
+(26) "Alternate payee" means a spouse, former spouse, child, or other dependent of a participant, who is designated
+to be paid retirement benefits in a qualified domestic relations order;
+(27) "University member" means an individual who becomes a member through employment with an employer
+specified in subsection (4)(b) and (n) of this section;
+(28) "Nonuniversity member" means an individual who becomes a member through employment with an employer
+specified under subsection (4) of this section, except for those members employed by an employer specified in
+subsection (4)(b) and (n) of this section;
+(29) "Accumulated employer contribution" means the employer contribution deposited to a member's account
+through the supplemental benefit component and regular interest credited on such amounts as provided by
+KRS 161.635 for nonuniversity members and KRS 161.636 for university members;
+(30) "Accumulated account balance" means:
+(a) For members who began participating in the system prior to January 1, 2022, the member's accumulated
+contributions; or
+(b) For members who began participating in the system on or after January 1, 2022, the combined sum of
+the member's accumulated contributions and the member's accumulated employer contributions;
+(31) "Foundational benefit component" means the benefits provided by KRS 161.220 to 161.716 to individuals who
+become members on or after January 1, 2022, except for the supplemental benefit component and retiree
+health benefits set forth in KRS 161.675; and
+(32) "Supplemental benefit component" means:
+(a) The benefit established pursuant to KRS 161.635 for individuals who become nonuniversity members
+on or after January 1, 2022; or
+(b) The benefit established pursuant to KRS 161.636 for individuals who become university members on or
+after January 1, 2022.
+Section 2. KRS 161.400 is amended to read as follows:
+(1) (a) The board of trustees shall designate as actuary a competent person who shall be a fellow of the
+Conference of Consulting Actuaries or a member of the American Academy of Actuaries. He or she
+shall be the technical adviser of the board on matters regarding the operation of the funds of the system
+and shall perform such other duties as are required in connection therewith.
+(b) 1. At least once in each two (2) year period, the board shall cause an actuarial investigation to be
+made of all of the economic experience under the retirement system, including but not limited to
+the inflation rate, investment return, and payroll growth assumptions, relative to the economic
+assumptions and funding methods previously adopted by the board.
+2. At least once in each five (5) year period, the actuary shall make an actuarial investigation into
+all of the demographic actuarial assumptions used, including but not limited to mortality tables,
+withdrawal rates, and retirement rate assumptions, relative to the demographic actuarial
+assumptions previously adopted by the board.
+3. Each actuarial investigation shall include at a minimum a summary of the changes in actuarial
+assumptions and funding methods recommended in the investigation and the projected impact of
+the recommended changes on funding levels, unfunded liabilities, and actuarially recommended
+contribution rates for employers over a thirty (30) year period.
+Legislative Research Commission PDF Version
+
+6 ACTS OF THE GENERAL ASSEMBLY
+(c) At least annually the actuary shall make an actuarial valuation of the retirement system. The valuation
+shall include:
+1. A description of the actuarial assumptions used, and the assumptions shall be reasonably related
+to the experience of the system and represent the actuary's best estimate of anticipated
+experience;
+2. A description of any funding methods utilized or required by state law in the development of the
+actuarial valuation results;
+3. A description of any changes in actuarial assumptions and methods from the previous year's
+actuarial valuation;
+4. The actuarially recommended contribution rate for employers for the upcoming budget periods;
+5. A thirty (30) year projection of the funding levels, unfunded liabilities, and actuarially
+recommended contribution rates for employers based upon the actuarial assumptions, funding
+methods, and experience of the system as of the valuation date;[ and]
+6. A sensitivity analysis that evaluates the impact of changes in system assumptions, including but
+not limited to the investment return assumption, payroll growth assumption, and medical
+inflation rates, on employer contribution rates, funding levels, and unfunded liabilities; and
+7. A breakdown of each individual employer's share of the actuarially accrued liability as
+determined solely by the system's consulting actuary and assigned to each employer based
+upon the last participating employer of the member or annuitant as of the valuation date. The
+breakdown shall include a value for each individual employer, including but not limited to
+each individual school district, each university, each state agency, and every other individual
+employer who participates in the system.
+(d) On the basis of the results of the valuations, the board of trustees shall make necessary changes in the
+retirement system within the provisions of law and shall establish the contributions payable by
+employers and the state specified in KRS 161.550, including changes prescribed by KRS 161.633,
+161.634, 161.635, and 161.636, as applicable.
+(e) For any change in actuarial assumptions, funding methods, retiree health insurance premiums and
+subsidies, or any other decisions made by the board that impact system liabilities and actuarially
+recommended contribution rates for employers and that are not made in conjunction with the actuarial
+investigations required by paragraph (b) of this subsection, an actuarial analysis shall be completed
+showing the projected impact of the changes on funding levels, unfunded liabilities, and actuarially
+recommended contribution rates for employers over a thirty (30) year period.
+(2) Actuarial factors and actuarial cost factor tables in use by the retirement system for all purposes shall be
+determined by the actuary of the retirement system and approved by the board of trustees by resolution and
+implemented without the necessity of an administrative regulation.
+(3) A copy of each actuarial investigation, actuarial analysis, and valuation required by subsection (1) of this
+section shall be forwarded electronically to the Legislative Research Commission no later than ten (10) days
+after receipt by the board, and the Legislative Research Commission shall distribute the information received
+to the committee staff and co-chairs of any committee that has jurisdiction over the Teachers' Retirement
+System. The actuarial valuation required by subsection (1)(c) of this section shall be submitted no later than
+November 15 following the close of the fiscal year.
+Signed by Governor March 24, 2025.
+
+[DELETED:  " s m t a p f i K 1 t 1 a 1 f " " " L E K U K S U S U S S O p e a a c b t G A a t m o t R l i t s f t p o p e s t t A o e b t a i t e t t b o d o t r d b r w p e o t p a a t b T a s m t e c i a c t i E T T T]
+[DELETED:  T A E a T C S a w o p c b t K R S s r i t T R S N e t p a w a n c p q f T R c t w h p b i i t f C f W E e o p i a r p p b t K C a E E T E a L C w w e o t C o P E E o t E P S B w w m o t K W " " " "]
+[DELETED:  " ( o a h a m o t y o K s c T T o f ( y a a p a p i e t t p iF i t a i i s i a e t r b t o a t i w a b a c c i p o i l o b J 1 2 o a s l w i a b s a w s f " c m t t s r b a m a c f a s J 1 2 a c s n i l p u t o " "]
+[DELETED:  " F F F O a o p ( p a f p o c i t e i t f b c o a o c m b t t t f b c t a r t t e u T " " " " y m t t ( m p f J 1 t J 3 T r p y i " " " " " " l b s ( o t s e b t m d t m r p o]
+[DELETED:  " " I R " " " " e c m t e c d t a m a " F F " " T T ( T b o t s d a a a c p w s b a f o t 1 A A r a r r a r t t d a E]
+[DELETED:  A A t e o t s a r t a b e o a A A T A t ( y p o t f l u l a a A l t t i r a p g a a m A b o e i e s o t a a l a O s w t p o l a s e t c p b F a c i a a f m r h i p a o a o d m b t b t i s l a a A A]

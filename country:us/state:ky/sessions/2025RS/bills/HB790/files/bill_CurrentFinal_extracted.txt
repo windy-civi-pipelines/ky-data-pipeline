@@ -1,0 +1,364 @@
+Title: 1 AN ACT relating to solar merchant electric generating facilities.
+Official Title: 1 AN ACT relating to solar merchant electric generating facilities.
+Number of Sections: 1
+Source: versions - Current/Final
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS HB 790/GA
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 278.710 is amended to read as follows:
+4 (1) Within one hundred twenty (120) days of receipt of an administratively complete
+5 application, or within one hundred eighty (180) days of receipt of an
+6 administratively complete application if a hearing is requested, the board shall, by
+7 majority vote, grant or deny a construction certificate, either in whole or in part,
+8 based upon the following criteria:
+9 (a) Impact of the facility on scenic surroundings, property values, the pattern and
+10 type of development of adjacent property, and surrounding roads;
+11 (b) Anticipated noise levels expected as a result of construction and operation of
+12 the proposed facility;
+13 (c) The economic impact of the facility upon the affected region and the state;
+14 (d) Whether the facility is proposed for a site upon which existing generating
+15 facilities, capable of generating ten megawatts (10MW) or more of electricity,
+16 are currently located;
+17 (e) Whether the proposed facility will meet all local planning and zoning
+18 requirements that existed on the date the application was filed;
+19 (f) Whether the additional load imposed upon the electricity transmission system
+20 by use of the merchant electric generating facility will adversely affect the
+21 reliability of service for retail customers of electric utilities regulated by the
+22 Public Service Commission;
+23 (g) Except where the facility is subject to a statewide setback established by a
+24 planning and zoning commission as provided in KRS 278.704(3) and except
+25 for a facility proposed to be located on a site of a former coal processing plant
+26 and the facility will use on-site waste coal as a fuel source, whether the
+27 exhaust stack of the proposed merchant electric generating facility and any
+Page 1 of 6
+HB079010.100 - 1399 - XXXX 3/12/2025 2:29 PM GA
+UNOFFICIAL COPY 25 RS HB 790/GA
+1 wind turbine is at least one thousand (1,000) feet from the property boundary
+2 of any adjoining property owner and all proposed structures or facilities used
+3 for generation of electricity are two thousand (2,000) feet from any residential
+4 neighborhood, school, hospital, or nursing home facility, unless a different
+5 setback has been requested and approved under KRS 278.704(4). If a
+6 planning and zoning commission has established setback requirements that
+7 differ from those under KRS 278.704(2), the applicant shall provide evidence
+8 of compliance. If the facility is proposed to be located on site of a former coal
+9 processing plant and the facility will use on-site waste coal as a fuel source,
+10 the applicant shall provide evidence of compliance with the setback
+11 requirements provided in KRS 278.704(5);
+12 (h) The efficacy of any proposed measures to mitigate adverse impacts that are
+13 identified pursuant to paragraph (a), (b), (e), or (f) of this subsection from the
+14 construction or operation of the proposed facility;
+15 (i) Whether the applicant has a good environmental compliance history; and
+16 (j) Whether the decommissioning plan is complete and complies with the
+17 requirements of KRS 278.706(2)(m) and any other local requirements that
+18 may apply.
+19 (2) When considering an application for a construction certificate for a merchant
+20 electric generating facility, the board may consider the policy of the General
+21 Assembly to encourage the use of coal as a principal fuel for electricity generation
+22 as set forth in KRS 152.210, provided that any facility, regardless of fuel choice,
+23 shall comply fully with KRS 224.10-280, 278.212, 278.216, and 278.700 to
+24 278.716.
+25 (3) A person that has received a construction certificate for a merchant electric
+26 generating facility shall:
+27 (a) File with the Energy and Environment Cabinet the copy of the bond or other
+Page 2 of 6
+HB079010.100 - 1399 - XXXX 3/12/2025 2:29 PM GA
+UNOFFICIAL COPY 25 RS HB 790/GA
+1 similar security that, pursuant to KRS 278.706(2)(m)5., is required by a
+2 county or a municipal government or as part of a decommissioning plan, no
+3 later than the date upon which the construction of the merchant generating
+4 facility commences, and refile an updated copy at least once every five (5)
+5 years thereafter;
+6 (b) Not transfer rights and obligation under the certificate without having first
+7 applied for and received a board determination that:
+8 1. The acquirer has a good environmental compliance history; and
+9 2. The acquirer has the financial, technical, and managerial capacity to
+10 meet the obligations imposed by the terms of the approval or has the
+11 ability to contract to meet these obligations;
+12 (c) File with the Energy and Environment Cabinet a notice of the date that
+13 construction is complete and the merchant electric generating facility begins
+14 producing electricity for sale. At the time of the filing of the notice required
+15 by this paragraph, a construction certificate holder for a solar merchant
+16 electric generating facility shall also file a report with the Energy and
+17 Environment Cabinet detailing all federal and state incentives utilized by
+18 the construction certificate holder relating to the siting, construction, and
+19 operation of the facility. The Energy and Environment Cabinet shall
+20 compile a report of all of the state and federal incentive disclosures made by
+21 solar merchant electric generating facilities under this paragraph each year
+22 and submit it annually to the Legislative Research Commission on or before
+23 December 1; and
+24 (d) Following the date the merchant electric generating facility begins producing
+25 electricity for sale, file a notice of any transaction involving the transfer or
+26 sale of ownership, control, or the right to control the merchant electric
+27 generating facility, with lessors of property where the merchant electric
+Page 3 of 6
+HB079010.100 - 1399 - XXXX 3/12/2025 2:29 PM GA
+UNOFFICIAL COPY 25 RS HB 790/GA
+1 generating facility is located, the Energy and Environment Cabinet, the county
+2 judge/executive of a county and, if applicable, the mayor of a municipality in
+3 which the merchant electric generating facility is located, within ten (10) days
+4 of completing the transaction. The notice shall include the name, street
+5 address, telephone number, and e-mail address of the person acquiring
+6 ownership, control, or the right to control the merchant electric generating
+7 facility.
+8 (4) A person that has acquired ownership, control, or the right to control a merchant
+9 electric generating facility from the applicant or its successor or assign shall file
+10 with the Energy and Environment Cabinet within ten (10) days of completing the
+11 acquisition:
+12 (a) A written consent to assume the obligations set forth in the decommissioning
+13 plan as of the date the acquisition occurred; and
+14 (b) A notice of adoption of an existing bond or other similar security previously
+15 filed pursuant to subsection (3)(a) of this section or a replacement bond or
+16 other similar security that complies with KRS 278.706(2)(m)5. An existing
+17 bond or other similar security shall be adopted, or a replacement bond or other
+18 similar security shall be in place, as of the date the acquisition occurs so that
+19 there is no lapse in coverage of the decommissioning bond or other similar
+20 security. A person making a filing pursuant to this subsection shall file an
+21 updated bond or other similar security that complies with KRS
+22 278.706(2)(m)5. at least once every five (5) years.
+23 (5) Any person who transfers or sells ownership, control, or the right to control a
+24 merchant electric generating facility shall remain liable for all existing
+25 decommissioning obligations and bond requirements until the person who acquires
+26 ownership, control, or the right to control the merchant electric generating facility
+27 files with the Energy and Environment Cabinet the documents required by
+Page 4 of 6
+HB079010.100 - 1399 - XXXX 3/12/2025 2:29 PM GA
+UNOFFICIAL COPY 25 RS HB 790/GA
+1 subsection (4) of this section and they are accepted as complete by the secretary.
+2 (6) Any application approval condition that requires the approval of the transfer of
+3 control of a merchant electric generating facility after construction is complete shall
+4 be void and unenforceable, but any transfer of control of a merchant electric
+5 generating facility shall be subject to compliance with the requirements of
+6 subsections (3)(d), (4), and (5) of this section.
+7 (7) Notwithstanding any provision of law to the contrary, including any order issued by
+8 the board prior to June 29, 2023, after the board has approved an application for a
+9 construction certificate for a merchant electric generating facility under this section,
+10 the approved applicant has posted the bond or similar security required under KRS
+11 278.706(2)(m)5., and the facility is constructed and begins generating electricity for
+12 sale, the board's authority to enforce any conditions of the construction certificate,
+13 including bonding and decommissioning requirements, shall end and the secretary
+14 of the Energy and Environment Cabinet shall monitor and enforce the construction
+15 certificate holder's compliance with the requirements of KRS 278.700 to 278.716
+16 and the conditions of its construction certificate application approval.
+17 (8) In addition to all compliance monitoring and enforcement performed by the
+18 secretary of the Energy and Environment Cabinet, and notwithstanding any
+19 provision of law to the contrary, the secretary shall also review the
+20 decommissioning plan required by KRS 278.706(2)(m) or by local ordinance,
+21 license, or permit and the bond or similar security amount required by KRS
+22 278.706(2)(m)5. or by local ordinance, license, or permit as needed, including any
+23 time a transfer determination is made under subsection (5) of this section, but in any
+24 event at least once every five (5) years. Upon review, the secretary of the Energy
+25 and Environment Cabinet shall require the decommissioning plan to be updated and
+26 the bond amount to be changed to match any significant change in circumstances or
+27 change to the estimated cost of effectuating the decommissioning plan or to the
+Page 5 of 6
+HB079010.100 - 1399 - XXXX 3/12/2025 2:29 PM GA
+UNOFFICIAL COPY 25 RS HB 790/GA
+1 salvage value of the facility or its components.
+2 (9) After the facility for which an application for a construction certificate has been
+3 approved is constructed and begins generating electricity for sale, the secretary of
+4 the Energy and Environment Cabinet shall ensure ongoing compliance with the
+5 mitigation measures that were conditions of the application approval under KRS
+6 278.708(6) and any enforcement by the board of the mitigation measures shall
+7 cease.
+8 (10) During the period that the merchant electric generating facility is operational, if
+9 solar panels are replaced and discarded, the facility owner-operator shall remove
+10 discarded solar panels from the site within ninety (90) days of completion of the
+11 work. Upon request of the facility owner-operator, the secretary of the Energy and
+12 Environment Cabinet may extend the time period under this subsection for
+13 removing discarded solar panels.
+Page 6 of 6
+HB079010.100 - 1399 - XXXX 3/12/2025 2:29 PM GA
+[DELETED:   2  G A B S ( W a o w o h e ( d o r o a a m b ( I t ( A t ( T ( W t f i p f a s u w e g f a ( W t p f w m a l p a z r ( W b r P ( E p f a t f w u o w c a a f s w t e]
+[DELETED:   2  G w o f n s h o n h f u a d s h b r a a u K 2 I a p a z c h e s r t d o p t a s p e o c w t s r ( T i c ( W ( W t d p i c a c w t r o K 2 a a o l r t m ( W c a a f a c c f a m e g f t b m c t p o t G A a s c f w K 2 2 2 a 2 t 2 ( A p t h r a c c f a m e g ( F]
+[DELETED:   2  G s s t p t K 2 i r b a c l f y ( N t a o u c w h f a 1 T 2 T a h t f t a m c t m a ( F w t E a E C a n o t d t c p b t p a c c h f a s m e g f s a f a r w t E a E t o o t f T E a E C s c s a D ( F e s o o c o t r t c t m e g f w l o p w t m e]
+[DELETED:   2  G g j w o c t t T n s i t n s a t n a e a o t p a o c o t r t c t m e g f ( A e w a ( A p ( A f o b s t s f t u b o o s s t c w K 2 ( A p w t o s o c o t r t c a m e g f s r l f a e d o f w t E a E C t d r b]
+[DELETED:   2  G s ( A a a c t r t a o t t o c b v a u b a t o c o a m e g f s b s t c w t r o s ( N t c t 2 s i o c a ( I a t a c m a e p b t s o t E a E C a n a p o l t t c t s s a r t d p r b K 2 o b l o l o p a t b o s s a r b K 2 t e a t c t t e c o t d p t]
+[DELETED:   2  G s ( A a t E a E C s e o c w t m 2 a a e b t b o t m m s c ( D t p t t m e g f i o i s d w E C m e t t p u t s f r]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS HB 790/GA
+1 AN ACT relating to solar merchant electric generating facilities.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 278.710 is amended to read as follows:
+4 (1) Within one hundred twenty (120) days of receipt of an administratively complete
+5 application, or within one hundred eighty (180) days of receipt of an
+6 administratively complete application if a hearing is requested, the board shall, by
+7 majority vote, grant or deny a construction certificate, either in whole or in part,
+8 based upon the following criteria:
+9 (a) Impact of the facility on scenic surroundings, property values, the pattern and
+10 type of development of adjacent property, and surrounding roads;
+11 (b) Anticipated noise levels expected as a result of construction and operation of
+12 the proposed facility;
+13 (c) The economic impact of the facility upon the affected region and the state;
+14 (d) Whether the facility is proposed for a site upon which existing generating
+15 facilities, capable of generating ten megawatts (10MW) or more of electricity,
+16 are currently located;
+17 (e) Whether the proposed facility will meet all local planning and zoning
+18 requirements that existed on the date the application was filed;
+19 (f) Whether the additional load imposed upon the electricity transmission system
+20 by use of the merchant electric generating facility will adversely affect the
+21 reliability of service for retail customers of electric utilities regulated by the
+22 Public Service Commission;
+23 (g) Except where the facility is subject to a statewide setback established by a
+24 planning and zoning commission as provided in KRS 278.704(3) and except
+25 for a facility proposed to be located on a site of a former coal processing plant
+26 and the facility will use on-site waste coal as a fuel source, whether the
+27 exhaust stack of the proposed merchant electric generating facility and any
+Page 1 of 6
+HB079010.100 - 1399 - XXXX 3/12/2025 2:29 PM GA
+
+UNOFFICIAL COPY 25 RS HB 790/GA
+1 wind turbine is at least one thousand (1,000) feet from the property boundary
+2 of any adjoining property owner and all proposed structures or facilities used
+3 for generation of electricity are two thousand (2,000) feet from any residential
+4 neighborhood, school, hospital, or nursing home facility, unless a different
+5 setback has been requested and approved under KRS 278.704(4). If a
+6 planning and zoning commission has established setback requirements that
+7 differ from those under KRS 278.704(2), the applicant shall provide evidence
+8 of compliance. If the facility is proposed to be located on site of a former coal
+9 processing plant and the facility will use on-site waste coal as a fuel source,
+10 the applicant shall provide evidence of compliance with the setback
+11 requirements provided in KRS 278.704(5);
+12 (h) The efficacy of any proposed measures to mitigate adverse impacts that are
+13 identified pursuant to paragraph (a), (b), (e), or (f) of this subsection from the
+14 construction or operation of the proposed facility;
+15 (i) Whether the applicant has a good environmental compliance history; and
+16 (j) Whether the decommissioning plan is complete and complies with the
+17 requirements of KRS 278.706(2)(m) and any other local requirements that
+18 may apply.
+19 (2) When considering an application for a construction certificate for a merchant
+20 electric generating facility, the board may consider the policy of the General
+21 Assembly to encourage the use of coal as a principal fuel for electricity generation
+22 as set forth in KRS 152.210, provided that any facility, regardless of fuel choice,
+23 shall comply fully with KRS 224.10-280, 278.212, 278.216, and 278.700 to
+24 278.716.
+25 (3) A person that has received a construction certificate for a merchant electric
+26 generating facility shall:
+27 (a) File with the Energy and Environment Cabinet the copy of the bond or other
+Page 2 of 6
+HB079010.100 - 1399 - XXXX 3/12/2025 2:29 PM GA
+
+UNOFFICIAL COPY 25 RS HB 790/GA
+1 similar security that, pursuant to KRS 278.706(2)(m)5., is required by a
+2 county or a municipal government or as part of a decommissioning plan, no
+3 later than the date upon which the construction of the merchant generating
+4 facility commences, and refile an updated copy at least once every five (5)
+5 years thereafter;
+6 (b) Not transfer rights and obligation under the certificate without having first
+7 applied for and received a board determination that:
+8 1. The acquirer has a good environmental compliance history; and
+9 2. The acquirer has the financial, technical, and managerial capacity to
+10 meet the obligations imposed by the terms of the approval or has the
+11 ability to contract to meet these obligations;
+12 (c) File with the Energy and Environment Cabinet a notice of the date that
+13 construction is complete and the merchant electric generating facility begins
+14 producing electricity for sale. At the time of the filing of the notice required
+15 by this paragraph, a construction certificate holder for a solar merchant
+16 electric generating facility shall also file a report with the Energy and
+17 Environment Cabinet detailing all federal and state incentives utilized by
+18 the construction certificate holder relating to the siting, construction, and
+19 operation of the facility. The Energy and Environment Cabinet shall
+20 compile a report of all of the state and federal incentive disclosures made by
+21 solar merchant electric generating facilities under this paragraph each year
+22 and submit it annually to the Legislative Research Commission on or before
+23 December 1; and
+24 (d) Following the date the merchant electric generating facility begins producing
+25 electricity for sale, file a notice of any transaction involving the transfer or
+26 sale of ownership, control, or the right to control the merchant electric
+27 generating facility, with lessors of property where the merchant electric
+Page 3 of 6
+HB079010.100 - 1399 - XXXX 3/12/2025 2:29 PM GA
+
+UNOFFICIAL COPY 25 RS HB 790/GA
+1 generating facility is located, the Energy and Environment Cabinet, the county
+2 judge/executive of a county and, if applicable, the mayor of a municipality in
+3 which the merchant electric generating facility is located, within ten (10) days
+4 of completing the transaction. The notice shall include the name, street
+5 address, telephone number, and e-mail address of the person acquiring
+6 ownership, control, or the right to control the merchant electric generating
+7 facility.
+8 (4) A person that has acquired ownership, control, or the right to control a merchant
+9 electric generating facility from the applicant or its successor or assign shall file
+10 with the Energy and Environment Cabinet within ten (10) days of completing the
+11 acquisition:
+12 (a) A written consent to assume the obligations set forth in the decommissioning
+13 plan as of the date the acquisition occurred; and
+14 (b) A notice of adoption of an existing bond or other similar security previously
+15 filed pursuant to subsection (3)(a) of this section or a replacement bond or
+16 other similar security that complies with KRS 278.706(2)(m)5. An existing
+17 bond or other similar security shall be adopted, or a replacement bond or other
+18 similar security shall be in place, as of the date the acquisition occurs so that
+19 there is no lapse in coverage of the decommissioning bond or other similar
+20 security. A person making a filing pursuant to this subsection shall file an
+21 updated bond or other similar security that complies with KRS
+22 278.706(2)(m)5. at least once every five (5) years.
+23 (5) Any person who transfers or sells ownership, control, or the right to control a
+24 merchant electric generating facility shall remain liable for all existing
+25 decommissioning obligations and bond requirements until the person who acquires
+26 ownership, control, or the right to control the merchant electric generating facility
+27 files with the Energy and Environment Cabinet the documents required by
+Page 4 of 6
+HB079010.100 - 1399 - XXXX 3/12/2025 2:29 PM GA
+
+UNOFFICIAL COPY 25 RS HB 790/GA
+1 subsection (4) of this section and they are accepted as complete by the secretary.
+2 (6) Any application approval condition that requires the approval of the transfer of
+3 control of a merchant electric generating facility after construction is complete shall
+4 be void and unenforceable, but any transfer of control of a merchant electric
+5 generating facility shall be subject to compliance with the requirements of
+6 subsections (3)(d), (4), and (5) of this section.
+7 (7) Notwithstanding any provision of law to the contrary, including any order issued by
+8 the board prior to June 29, 2023, after the board has approved an application for a
+9 construction certificate for a merchant electric generating facility under this section,
+10 the approved applicant has posted the bond or similar security required under KRS
+11 278.706(2)(m)5., and the facility is constructed and begins generating electricity for
+12 sale, the board's authority to enforce any conditions of the construction certificate,
+13 including bonding and decommissioning requirements, shall end and the secretary
+14 of the Energy and Environment Cabinet shall monitor and enforce the construction
+15 certificate holder's compliance with the requirements of KRS 278.700 to 278.716
+16 and the conditions of its construction certificate application approval.
+17 (8) In addition to all compliance monitoring and enforcement performed by the
+18 secretary of the Energy and Environment Cabinet, and notwithstanding any
+19 provision of law to the contrary, the secretary shall also review the
+20 decommissioning plan required by KRS 278.706(2)(m) or by local ordinance,
+21 license, or permit and the bond or similar security amount required by KRS
+22 278.706(2)(m)5. or by local ordinance, license, or permit as needed, including any
+23 time a transfer determination is made under subsection (5) of this section, but in any
+24 event at least once every five (5) years. Upon review, the secretary of the Energy
+25 and Environment Cabinet shall require the decommissioning plan to be updated and
+26 the bond amount to be changed to match any significant change in circumstances or
+27 change to the estimated cost of effectuating the decommissioning plan or to the
+Page 5 of 6
+HB079010.100 - 1399 - XXXX 3/12/2025 2:29 PM GA
+
+UNOFFICIAL COPY 25 RS HB 790/GA
+1 salvage value of the facility or its components.
+2 (9) After the facility for which an application for a construction certificate has been
+3 approved is constructed and begins generating electricity for sale, the secretary of
+4 the Energy and Environment Cabinet shall ensure ongoing compliance with the
+5 mitigation measures that were conditions of the application approval under KRS
+6 278.708(6) and any enforcement by the board of the mitigation measures shall
+7 cease.
+8 (10) During the period that the merchant electric generating facility is operational, if
+9 solar panels are replaced and discarded, the facility owner-operator shall remove
+10 discarded solar panels from the site within ninety (90) days of completion of the
+11 work. Upon request of the facility owner-operator, the secretary of the Energy and
+12 Environment Cabinet may extend the time period under this subsection for
+13 removing discarded solar panels.
+Page 6 of 6
+HB079010.100 - 1399 - XXXX 3/12/2025 2:29 PM GA
+
+[DELETED:   2  G A B S ( W a o w o h e ( d o r o a a m b ( I t ( A t ( T ( W t f i p f a s u w e g f a ( W t p f w m a l p a z r ( W b r P ( E p f a t f w u o w c a a f s w t e]
+[DELETED:   2  G w o f n s h o n h f u a d s h b r a a u K 2 I a p a z c h e s r t d o p t a s p e o c w t s r ( T i c ( W ( W t d p i c a c w t r o K 2 a a o l r t m ( W c a a f a c c f a m e g f t b m c t p o t G A a s c f w K 2 2 2 a 2 t 2 ( A p t h r a c c f a m e g ( F]
+[DELETED:   2  G s s t p t K 2 i r b a c l f y ( N t a o u c w h f a 1 T 2 T a h t f t a m c t m a ( F w t E a E C a n o t d t c p b t p a c c h f a s m e g f s a f a r w t E a E t o o t f T E a E C s c s a D ( F e s o o c o t r t c t m e g f w l o p w t m e]
+[DELETED:   2  G g j w o c t t T n s i t n s a t n a e a o t p a o c o t r t c t m e g f ( A e w a ( A p ( A f o b s t s f t u b o o s s t c w K 2 ( A p w t o s o c o t r t c a m e g f s r l f a e d o f w t E a E C t d r b]
+[DELETED:   2  G s ( A a a c t r t a o t t o c b v a u b a t o c o a m e g f s b s t c w t r o s ( N t c t 2 s i o c a ( I a t a c m a e p b t s o t E a E C a n a p o l t t c t s s a r t d p r b K 2 o b l o l o p a t b o s s a r b K 2 t e a t c t t e c o t d p t]
+[DELETED:   2  G s ( A a t E a E C s e o c w t m 2 a a e b t b o t m m s c ( D t p t t m e g f i o i s d w E C m e t t p u t s f r]

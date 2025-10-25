@@ -1,0 +1,100 @@
+Title: 1 AN ACT relating to the use of algorithmic devices in setting the amount of rent to
+Official Title: 1 AN ACT relating to the use of algorithmic devices in setting the amount of rent to
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS BR 1079
+2 be charged to a residential tenant.
+3 WHEREAS, recent national data indicates that landlords of residential rental
+4 housing use property management software to collude and raise residential rental housing
+5 prices; and
+6 WHEREAS, landlords engaging with the software supply real-time prices and
+7 additional lease information to companies managing the software, who proceed to use
+8 algorithms to fix rental prices; and
+9 WHEREAS, the use of these algorithmic devices has been the subject of lawsuits
+10 and poses a heightened risk of anticompetitive conduct, price fixing, and collusion, all of
+11 which result in higher rents for residential tenants; and
+12 WHEREAS, several municipalities around the country have prohibited the use of
+13 algorithmic devices in setting rent;
+14 NOW, THEREFORE,
+15 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+16 SECTION 1. A NEW SECTION OF KRS CHAPTER 383 IS CREATED TO
+17 READ AS FOLLOWS:
+18 (1) As used in this section, "algorithmic device":
+19 (a) Means a device that uses one (1) or more algorithms to perform
+20 calculations of data, including data concerning local or statewide rent
+21 amounts being charged to tenants by landlords, for the purpose of advising
+22 a landlord concerning the amount of rent that the landlord may consider
+23 charging a tenant;
+24 (b) Includes a product that incorporates an algorithmic device; and
+25 (c) Does not include a product designed internally and used exclusively by a
+26 landlord or a landlord's affiliates.
+27 (2) A landlord shall not employ, use, or rely upon, or cause another person to
+Page 1 of 2
+XXXX 1/29/2025 12:41 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1079
+1 employ, use, or rely upon, an algorithmic device in setting the amount of rent to
+2 be charged to a tenant for the occupancy of a dwelling unit.
+3 (3) A violation of this section shall be deemed an unfair, false, misleading, or
+4 deceptive practice in the conduct of trade or commerce in violation of KRS
+5 367.170.
+6 Section 2. Section 1 of this Act applies to a landlord's calculation of the amount
+7 of rent for a rental agreement executed on or after the effective date of this Act.
+Page 2 of 2
+XXXX 1/29/2025 12:41 PM Jacketed
+[DELETED:   2  J A b W r n d i t l o r r h p W l e w t s s r p a a a W a w W a N B S R ( A ( M a d t u o ( o m a t p c o d i d c l o s r a a c ( I ( D l ( A l s n e u o r u o c a p t]
+[DELETED:   2  J e b ( A v o t s s b d a u f m o d p i t c o t o c i v o K 3 S o]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS BR 1079
+1 AN ACT relating to the use of algorithmic devices in setting the amount of rent to
+2 be charged to a residential tenant.
+3 WHEREAS, recent national data indicates that landlords of residential rental
+4 housing use property management software to collude and raise residential rental housing
+5 prices; and
+6 WHEREAS, landlords engaging with the software supply real-time prices and
+7 additional lease information to companies managing the software, who proceed to use
+8 algorithms to fix rental prices; and
+9 WHEREAS, the use of these algorithmic devices has been the subject of lawsuits
+10 and poses a heightened risk of anticompetitive conduct, price fixing, and collusion, all of
+11 which result in higher rents for residential tenants; and
+12 WHEREAS, several municipalities around the country have prohibited the use of
+13 algorithmic devices in setting rent;
+14 NOW, THEREFORE,
+15 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+16 SECTION 1. A NEW SECTION OF KRS CHAPTER 383 IS CREATED TO
+17 READ AS FOLLOWS:
+18 (1) As used in this section, "algorithmic device":
+19 (a) Means a device that uses one (1) or more algorithms to perform
+20 calculations of data, including data concerning local or statewide rent
+21 amounts being charged to tenants by landlords, for the purpose of advising
+22 a landlord concerning the amount of rent that the landlord may consider
+23 charging a tenant;
+24 (b) Includes a product that incorporates an algorithmic device; and
+25 (c) Does not include a product designed internally and used exclusively by a
+26 landlord or a landlord's affiliates.
+27 (2) A landlord shall not employ, use, or rely upon, or cause another person to
+Page 1 of 2
+XXXX 1/29/2025 12:41 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1079
+1 employ, use, or rely upon, an algorithmic device in setting the amount of rent to
+2 be charged to a tenant for the occupancy of a dwelling unit.
+3 (3) A violation of this section shall be deemed an unfair, false, misleading, or
+4 deceptive practice in the conduct of trade or commerce in violation of KRS
+5 367.170.
+6 Section 2. Section 1 of this Act applies to a landlord's calculation of the amount
+7 of rent for a rental agreement executed on or after the effective date of this Act.
+Page 2 of 2
+XXXX 1/29/2025 12:41 PM Jacketed
+
+[DELETED:   2  J A b W r n d i t l o r r h p W l e w t s s r p a a a W a w W a N B S R ( A ( M a d t u o ( o m a t p c o d i d c l o s r a a c ( I ( D l ( A l s n e u o r u o c a p t]
+[DELETED:   2  J e b ( A v o t s s b d a u f m o d p i t c o t o c i v o K 3 S o]

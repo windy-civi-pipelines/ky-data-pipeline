@@ -1,0 +1,405 @@
+Title: 1 AN ACT relating to blockchain digital assets.
+Official Title: 1 AN ACT relating to blockchain digital assets.
+Number of Sections: 1
+Source: versions - Current/Final
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS HB 701/GA
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF KRS CHAPTER 369 IS CREATED TO
+4 READ AS FOLLOWS:
+5 As used in Sections 1 to 3 of this Act:
+6 (1) "Blockchain" means data that is:
+7 (a) Shared across a peer-to-peer network to create a ledger of verified
+8 transactions or information among linked network participants using
+9 cryptography to:
+10 1. Maintain the integrity of the ledger; or
+11 2. Execute other functions; and
+12 (b) Distributed in a concurrent, automated update to network participants on
+13 the state of the ledger and any other functions;
+14 (2) "Blockchain network" means a technical infrastructure that provides ledger and
+15 smart contract services to applications;
+16 (3) "Blockchain protocol" means any executable software:
+17 (a) Deployed to a blockchain, including an additional standardized set of rules
+18 that:
+19 1. Uses an existing blockchain as a base;
+20 2. Facilitates the transfer of data and electronic records;
+21 3. Allows that data to be broadcast to nodes; and
+22 4. Is governed by a set of predefined rules which execute autonomously
+23 without human intervention and can be altered by a predetermined
+24 mechanism; and
+25 (b) Composed of a source code that is publicly available and accessible,
+26 including a smart contract or any network of smart contracts;
+27 (4) "Cryptocurrency" has the same meaning as in KRS 139.516;
+Page 1 of 7
+HB070110.100 - 329 - XXXX 2/28/2025 9:26 AM GA
+UNOFFICIAL COPY 25 RS HB 701/GA
+1 (5) "Cryptography" means the practice of coding information to ensure only the
+2 person that a message was written for can read and process that information;
+3 (6) "Digital asset" means:
+4 (a) Virtual currency;
+5 (b) Cryptocurrency; and
+6 (c) Natively electronic assets, including stablecoins, fungible tokens, and
+7 nonfungible tokens;
+8 that confer economic, proprietary, or access rights or powers;
+9 (7) "Hardware wallet" means a physical device that:
+10 (a) Stores private keys offline;
+11 (b) Provides a way to sign transactions and interact with the blockchain; and
+12 (c) Allows the owner to retain independent control over the digital asset
+13 contained therein;
+14 (8) "Natively electronic asset" means a purely digital asset that exists only on the
+15 blockchain network;
+16 (9) "Node" means a computer which:
+17 (a) Uses software to:
+18 1. Communicate with other devices or participants on a blockchain to
+19 maintain consensus and integrity of that blockchain;
+20 2. Create and validate transaction blocks; or
+21 3. Contain and update a copy of a blockchain; and
+22 (b) Does not exercise discretion over transactions initiated by the end users of
+23 the blockchain protocol;
+24 (10) "Nonfungible token" means a digital asset on a blockchain that:
+25 (a) Has unique identification codes and metadata that are recorded;
+26 (b) Has been tokenized and cannot be replicated;
+27 (c) Is used to certify ownership and authenticity; and
+Page 2 of 7
+HB070110.100 - 329 - XXXX 2/28/2025 9:26 AM GA
+UNOFFICIAL COPY 25 RS HB 701/GA
+1 (d) Represents digital or physical items including artwork or real estate;
+2 (11) "Private key" means the access to manage digital assets at a specific internet
+3 address and may be used for encryption and digital signature;
+4 (12) "Self-hosted wallet" means a digital interface that can:
+5 (a) Secure and transfer digital assets; and
+6 (b) Allow its owner to retain independent control of the secured digital assets
+7 and private keys;
+8 (13) "Smart contract" has the same meaning as in KRS 42.747;
+9 (14) "Stablecoin" means a digital asset that is:
+10 (a) Issued by a corporation;
+11 (b) Backed by cash or high-quality liquid assets; and
+12 (c) Redeemable on demand by the holder at par for a fixed monetary value in
+13 equivalent United States dollars;
+14 (15) "Staking" means using a node to commit digital assets to a blockchain network
+15 to:
+16 (a) Validate transactions;
+17 (b) Propose and attest to blocks contained in the blockchain; and
+18 (c) Secure the network;
+19 (16) (a) "Staking as a service" means the provision of technical staking services by
+20 a service provider on behalf of an individual or business that owns the
+21 digital assets being staked.
+22 (b) "Staking as a service" includes the operation of nodes and the associated
+23 infrastructure necessary to facilitate participation in blockchain protocols’
+24 consensus mechanisms;
+25 (17) "Third-party wallet" means a wallet that is hosted and controlled by a party other
+26 than the owner which contains the private keys for the owner of digital assets;
+27 and
+Page 3 of 7
+HB070110.100 - 329 - XXXX 2/28/2025 9:26 AM GA
+UNOFFICIAL COPY 25 RS HB 701/GA
+1 (18) "Wallet" means a digital interface or a physical device which holds digital assets
+2 or private keys, and may include a:
+3 (a) Hardware wallet;
+4 (b) Self-hosted wallet; and
+5 (c) Third-party wallet.
+6 SECTION 2. A NEW SECTION OF KRS CHAPTER 369 IS CREATED TO
+7 READ AS FOLLOWS:
+8 (1) An individual shall not be prohibited from:
+9 (a) Accepting digital assets for payment for legal goods or services; or
+10 (b) The use of a wallet.
+11 (2) Digital assets used as a method of payment shall not be subject to additional
+12 taxes, withholdings, assessments, or charges that are based solely on the use of
+13 the digital asset as the method of payment.
+14 (3) This section shall not:
+15 (a) Prohibit the imposition or collection of taxes, withholdings, assessments, or
+16 charges on digital assets used as the method of payment when the same
+17 imposition and collections of taxes, withholdings, assessments, or charges
+18 are made on similar transactions which use the legal tender of the United
+19 States as the method of payment; or
+20 (b) Require any person to accept digital assets for payment for legal goods or
+21 services.
+22 SECTION 3. A NEW SECTION OF KRS CHAPTER 369 IS CREATED TO
+23 READ AS FOLLOWS:
+24 (1) The operation of a node shall be allowed to:
+25 (a) Connect to a blockchain protocol and participate in the blockchain
+26 protocol's operations;
+27 (b) Transfer digital assets on a blockchain protocol; or
+Page 4 of 7
+HB070110.100 - 329 - XXXX 2/28/2025 9:26 AM GA
+UNOFFICIAL COPY 25 RS HB 701/GA
+1 (c) Participate in staking on a blockchain protocol.
+2 (2) The Attorney General may initiate any action under KRS 367.110 to 367.300
+3 relating to the offering or providing staking as a service to individuals or other
+4 businesses.
+5 (3) A person:
+6 (a) Operating a node or series of nodes on a blockchain network; or
+7 (b) Providing staking as a service;
+8 shall have no liability for a specific transaction if the person only validates the
+9 transaction.
+10 Section 4. KRS 286.11-007 is amended to read as follows:
+11 This subtitle does not apply to:
+12 (1) The United States or any department, agency, or instrumentality thereof;
+13 (2) The United States Post Office or a contractor acting on behalf of the United States
+14 Post Office;
+15 (3) A state or any agency, department, or political subdivision of a state;
+16 (4) A financial institution or its subsidiaries, affiliates, and service corporations, or any
+17 office of an international banking corporation, branch of a foreign bank, or
+18 corporation organized pursuant to the Bank Service Corporation Act, 12 U.S.C.
+19 secs. 181 to 1867, or a corporation organized under the Edge Act, 12 U.S.C. secs.
+20 611 to 633;
+21 (5) A service provider that:
+22 (a) Pursuant to a written agreement, acts on behalf of an entity exempt from
+23 licensure as set forth in subsection (4) of this section; and
+24 (b) Allows the state or federal regulators with regulatory jurisdiction over the
+25 exempt entity to examine and inspect the service provider's applicable
+26 records, books, and transactions;
+27 (6) A service provider that receives money or monetary value on behalf of an entity
+Page 5 of 7
+HB070110.100 - 329 - XXXX 2/28/2025 9:26 AM GA
+UNOFFICIAL COPY 25 RS HB 701/GA
+1 selling goods or services other than money transmission services if:
+2 (a) The entity, upon receipt of funds by the service provider, immediately either:
+3 1. Provides the purchased goods or services to the purchaser; or
+4 2. Credits the purchaser for the full amount of money or monetary value
+5 received by the service provider, which credit is not revocable by the
+6 entity, and evidences this credit in writing; and
+7 (b) The entity is obligated to provide the purchased goods or services to the
+8 purchaser regardless of whether or not the service provider transmits the
+9 money or monetary value to the entity;[ or]
+10 (7) The provision of electronic transfer of government benefits for any federal, state, or
+11 county governmental agency as defined in Federal Reserve Board Regulation E, by
+12 a contractor for and on behalf of the United States or any department, agency, or
+13 instrumentality thereof, or any state or any political subdivisions thereof; or
+14 (8) (a) Any individual or business that:
+15 1. Develops or deploys software on a blockchain protocol, even if the
+16 software effectuates the exchange of one digital asset for another
+17 digital asset;
+18 2. Exchanges digital assets for other digital assets; or
+19 3. Operates a node or series of nodes on a blockchain protocol.
+20 (b) As used in this subsection, "blockchain protocol," "digital asset," and
+21 "node" have the same meaning as in Section 1 of this Act.
+22 Section 5. KRS 292.340 is amended to read as follows:
+23 (1) It is unlawful for any person to offer or sell any security in this state, unless the
+24 security is registered under this chapter, or the security or transaction is exempt
+25 under this chapter, or the security is a covered security.
+26 (2) (a) A business that offers to provide staking as a service to any person shall not
+27 be deemed to be offering or selling a security under this chapter.
+Page 6 of 7
+HB070110.100 - 329 - XXXX 2/28/2025 9:26 AM GA
+UNOFFICIAL COPY 25 RS HB 701/GA
+1 (b) As used in this subsection, "staking as a service" has the same meaning as
+2 in Section 1 of this Act.
+Page 7 of 7
+HB070110.100 - 329 - XXXX 2/28/2025 9:26 AM GA
+[DELETED:  C  2  G A B S R A ( " ( S a a p n t c a l o v t o i a l n p u c 1 M 2 E ( D i a c a u t n p o t ( " s ( " ( D t 1 U 2 F 3 A 4 I w h i a c b a b a p m ( C o a s c t i p a a a i ( "]
+[DELETED:  C  2  G ( " m t p o c i t e o t p ( " ( V ( C ( N e a i s f t a n t ( " ( S ( P ( A t o t r i c o t d a c ( " e a m a p d a t e o o t b ( " ( U 1 C w o d o p o a b t m 2 C 3 C ( D n e d t ( " ( H c ( H  ( I a]
+[DELETED:  C  2  G ( R ( " k m t a t m d a a a s i a ( " ( S ( A i o t r i c o t a ( " ( " ( I ( B ( R e ( " t ( V ( P ( S ( ( " a s p o b o a i o b t o t d ( " a a s i t i n t f p i b p c ( " t t o w c t p k f t a]
+[DELETED:  C  2  G ( " o ( H ( S ( T S R ( A ( A ( T ( D a u a a m o p s n b s t a t w a o c t t ( T ( P c o d a u a t m o p w t s i a c o t w a o c a m o S ( R a p t a s S R ( T ( C t a b p a p i t b p ( T]
+[DELETED:  C  2  G ( P ( T A G m i a a u K 3 t 3 r t t o o p s a a b ( A ( O ( P  s h n l f a s t i t p o t S T ( T ( T P ( A ( A o o a i b c b o a f b o c o p t t B S C A 1 U s 6 ( A ( P t a w a a o b o a e e f l ( A t s o f r w r j o t e e t e a i t s p a r ( A s p t r]
+[DELETED:  C  2  G s ( T 1 P 2 C r b t s p w e ( T e i o t p t p g o s t t p r o w o n t s p t t m ( T c a i ( ( A 1 D o d s o a b p e i t s e t e o o d a f a d 2 E 3 O ( A u i t s " p " a a " S ( I i u s i r u t c o t s o t i u ( ( A b]
+[DELETED:  C  2  G ( A i]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS HB 701/GA
+1 AN ACT relating to blockchain digital assets.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF KRS CHAPTER 369 IS CREATED TO
+4 READ AS FOLLOWS:
+5 As used in Sections 1 to 3 of this Act:
+6 (1) "Blockchain" means data that is:
+7 (a) Shared across a peer-to-peer network to create a ledger of verified
+8 transactions or information among linked network participants using
+9 cryptography to:
+10 1. Maintain the integrity of the ledger; or
+11 2. Execute other functions; and
+12 (b) Distributed in a concurrent, automated update to network participants on
+13 the state of the ledger and any other functions;
+14 (2) "Blockchain network" means a technical infrastructure that provides ledger and
+15 smart contract services to applications;
+16 (3) "Blockchain protocol" means any executable software:
+17 (a) Deployed to a blockchain, including an additional standardized set of rules
+18 that:
+19 1. Uses an existing blockchain as a base;
+20 2. Facilitates the transfer of data and electronic records;
+21 3. Allows that data to be broadcast to nodes; and
+22 4. Is governed by a set of predefined rules which execute autonomously
+23 without human intervention and can be altered by a predetermined
+24 mechanism; and
+25 (b) Composed of a source code that is publicly available and accessible,
+26 including a smart contract or any network of smart contracts;
+27 (4) "Cryptocurrency" has the same meaning as in KRS 139.516;
+Page 1 of 7
+HB070110.100 - 329 - XXXX 2/28/2025 9:26 AM GA
+
+UNOFFICIAL COPY 25 RS HB 701/GA
+1 (5) "Cryptography" means the practice of coding information to ensure only the
+2 person that a message was written for can read and process that information;
+3 (6) "Digital asset" means:
+4 (a) Virtual currency;
+5 (b) Cryptocurrency; and
+6 (c) Natively electronic assets, including stablecoins, fungible tokens, and
+7 nonfungible tokens;
+8 that confer economic, proprietary, or access rights or powers;
+9 (7) "Hardware wallet" means a physical device that:
+10 (a) Stores private keys offline;
+11 (b) Provides a way to sign transactions and interact with the blockchain; and
+12 (c) Allows the owner to retain independent control over the digital asset
+13 contained therein;
+14 (8) "Natively electronic asset" means a purely digital asset that exists only on the
+15 blockchain network;
+16 (9) "Node" means a computer which:
+17 (a) Uses software to:
+18 1. Communicate with other devices or participants on a blockchain to
+19 maintain consensus and integrity of that blockchain;
+20 2. Create and validate transaction blocks; or
+21 3. Contain and update a copy of a blockchain; and
+22 (b) Does not exercise discretion over transactions initiated by the end users of
+23 the blockchain protocol;
+24 (10) "Nonfungible token" means a digital asset on a blockchain that:
+25 (a) Has unique identification codes and metadata that are recorded;
+26 (b) Has been tokenized and cannot be replicated;
+27 (c) Is used to certify ownership and authenticity; and
+Page 2 of 7
+HB070110.100 - 329 - XXXX 2/28/2025 9:26 AM GA
+
+UNOFFICIAL COPY 25 RS HB 701/GA
+1 (d) Represents digital or physical items including artwork or real estate;
+2 (11) "Private key" means the access to manage digital assets at a specific internet
+3 address and may be used for encryption and digital signature;
+4 (12) "Self-hosted wallet" means a digital interface that can:
+5 (a) Secure and transfer digital assets; and
+6 (b) Allow its owner to retain independent control of the secured digital assets
+7 and private keys;
+8 (13) "Smart contract" has the same meaning as in KRS 42.747;
+9 (14) "Stablecoin" means a digital asset that is:
+10 (a) Issued by a corporation;
+11 (b) Backed by cash or high-quality liquid assets; and
+12 (c) Redeemable on demand by the holder at par for a fixed monetary value in
+13 equivalent United States dollars;
+14 (15) "Staking" means using a node to commit digital assets to a blockchain network
+15 to:
+16 (a) Validate transactions;
+17 (b) Propose and attest to blocks contained in the blockchain; and
+18 (c) Secure the network;
+19 (16) (a) "Staking as a service" means the provision of technical staking services by
+20 a service provider on behalf of an individual or business that owns the
+21 digital assets being staked.
+22 (b) "Staking as a service" includes the operation of nodes and the associated
+23 infrastructure necessary to facilitate participation in blockchain protocols’
+24 consensus mechanisms;
+25 (17) "Third-party wallet" means a wallet that is hosted and controlled by a party other
+26 than the owner which contains the private keys for the owner of digital assets;
+27 and
+Page 3 of 7
+HB070110.100 - 329 - XXXX 2/28/2025 9:26 AM GA
+
+UNOFFICIAL COPY 25 RS HB 701/GA
+1 (18) "Wallet" means a digital interface or a physical device which holds digital assets
+2 or private keys, and may include a:
+3 (a) Hardware wallet;
+4 (b) Self-hosted wallet; and
+5 (c) Third-party wallet.
+6 SECTION 2. A NEW SECTION OF KRS CHAPTER 369 IS CREATED TO
+7 READ AS FOLLOWS:
+8 (1) An individual shall not be prohibited from:
+9 (a) Accepting digital assets for payment for legal goods or services; or
+10 (b) The use of a wallet.
+11 (2) Digital assets used as a method of payment shall not be subject to additional
+12 taxes, withholdings, assessments, or charges that are based solely on the use of
+13 the digital asset as the method of payment.
+14 (3) This section shall not:
+15 (a) Prohibit the imposition or collection of taxes, withholdings, assessments, or
+16 charges on digital assets used as the method of payment when the same
+17 imposition and collections of taxes, withholdings, assessments, or charges
+18 are made on similar transactions which use the legal tender of the United
+19 States as the method of payment; or
+20 (b) Require any person to accept digital assets for payment for legal goods or
+21 services.
+22 SECTION 3. A NEW SECTION OF KRS CHAPTER 369 IS CREATED TO
+23 READ AS FOLLOWS:
+24 (1) The operation of a node shall be allowed to:
+25 (a) Connect to a blockchain protocol and participate in the blockchain
+26 protocol's operations;
+27 (b) Transfer digital assets on a blockchain protocol; or
+Page 4 of 7
+HB070110.100 - 329 - XXXX 2/28/2025 9:26 AM GA
+
+UNOFFICIAL COPY 25 RS HB 701/GA
+1 (c) Participate in staking on a blockchain protocol.
+2 (2) The Attorney General may initiate any action under KRS 367.110 to 367.300
+3 relating to the offering or providing staking as a service to individuals or other
+4 businesses.
+5 (3) A person:
+6 (a) Operating a node or series of nodes on a blockchain network; or
+7 (b) Providing staking as a service;
+8 shall have no liability for a specific transaction if the person only validates the
+9 transaction.
+10 Section 4. KRS 286.11-007 is amended to read as follows:
+11 This subtitle does not apply to:
+12 (1) The United States or any department, agency, or instrumentality thereof;
+13 (2) The United States Post Office or a contractor acting on behalf of the United States
+14 Post Office;
+15 (3) A state or any agency, department, or political subdivision of a state;
+16 (4) A financial institution or its subsidiaries, affiliates, and service corporations, or any
+17 office of an international banking corporation, branch of a foreign bank, or
+18 corporation organized pursuant to the Bank Service Corporation Act, 12 U.S.C.
+19 secs. 181 to 1867, or a corporation organized under the Edge Act, 12 U.S.C. secs.
+20 611 to 633;
+21 (5) A service provider that:
+22 (a) Pursuant to a written agreement, acts on behalf of an entity exempt from
+23 licensure as set forth in subsection (4) of this section; and
+24 (b) Allows the state or federal regulators with regulatory jurisdiction over the
+25 exempt entity to examine and inspect the service provider's applicable
+26 records, books, and transactions;
+27 (6) A service provider that receives money or monetary value on behalf of an entity
+Page 5 of 7
+HB070110.100 - 329 - XXXX 2/28/2025 9:26 AM GA
+
+UNOFFICIAL COPY 25 RS HB 701/GA
+1 selling goods or services other than money transmission services if:
+2 (a) The entity, upon receipt of funds by the service provider, immediately either:
+3 1. Provides the purchased goods or services to the purchaser; or
+4 2. Credits the purchaser for the full amount of money or monetary value
+5 received by the service provider, which credit is not revocable by the
+6 entity, and evidences this credit in writing; and
+7 (b) The entity is obligated to provide the purchased goods or services to the
+8 purchaser regardless of whether or not the service provider transmits the
+9 money or monetary value to the entity;[ or]
+10 (7) The provision of electronic transfer of government benefits for any federal, state, or
+11 county governmental agency as defined in Federal Reserve Board Regulation E, by
+12 a contractor for and on behalf of the United States or any department, agency, or
+13 instrumentality thereof, or any state or any political subdivisions thereof; or
+14 (8) (a) Any individual or business that:
+15 1. Develops or deploys software on a blockchain protocol, even if the
+16 software effectuates the exchange of one digital asset for another
+17 digital asset;
+18 2. Exchanges digital assets for other digital assets; or
+19 3. Operates a node or series of nodes on a blockchain protocol.
+20 (b) As used in this subsection, "blockchain protocol," "digital asset," and
+21 "node" have the same meaning as in Section 1 of this Act.
+22 Section 5. KRS 292.340 is amended to read as follows:
+23 (1) It is unlawful for any person to offer or sell any security in this state, unless the
+24 security is registered under this chapter, or the security or transaction is exempt
+25 under this chapter, or the security is a covered security.
+26 (2) (a) A business that offers to provide staking as a service to any person shall not
+27 be deemed to be offering or selling a security under this chapter.
+Page 6 of 7
+HB070110.100 - 329 - XXXX 2/28/2025 9:26 AM GA
+
+UNOFFICIAL COPY 25 RS HB 701/GA
+1 (b) As used in this subsection, "staking as a service" has the same meaning as
+2 in Section 1 of this Act.
+Page 7 of 7
+HB070110.100 - 329 - XXXX 2/28/2025 9:26 AM GA
+
+[DELETED:  C  2  G A B S R A ( " ( S a a p n t c a l o v t o i a l n p u c 1 M 2 E ( D i a c a u t n p o t ( " s ( " ( D t 1 U 2 F 3 A 4 I w h i a c b a b a p m ( C o a s c t i p a a a i ( "]
+[DELETED:  C  2  G ( " m t p o c i t e o t p ( " ( V ( C ( N e a i s f t a n t ( " ( S ( P ( A t o t r i c o t d a c ( " e a m a p d a t e o o t b ( " ( U 1 C w o d o p o a b t m 2 C 3 C ( D n e d t ( " ( H c ( H  ( I a]
+[DELETED:  C  2  G ( R ( " k m t a t m d a a a s i a ( " ( S ( A i o t r i c o t a ( " ( " ( I ( B ( R e ( " t ( V ( P ( S ( ( " a s p o b o a i o b t o t d ( " a a s i t i n t f p i b p c ( " t t o w c t p k f t a]
+[DELETED:  C  2  G ( " o ( H ( S ( T S R ( A ( A ( T ( D a u a a m o p s n b s t a t w a o c t t ( T ( P c o d a u a t m o p w t s i a c o t w a o c a m o S ( R a p t a s S R ( T ( C t a b p a p i t b p ( T]
+[DELETED:  C  2  G ( P ( T A G m i a a u K 3 t 3 r t t o o p s a a b ( A ( O ( P  s h n l f a s t i t p o t S T ( T ( T P ( A ( A o o a i b c b o a f b o c o p t t B S C A 1 U s 6 ( A ( P t a w a a o b o a e e f l ( A t s o f r w r j o t e e t e a i t s p a r ( A s p t r]
+[DELETED:  C  2  G s ( T 1 P 2 C r b t s p w e ( T e i o t p t p g o s t t p r o w o n t s p t t m ( T c a i ( ( A 1 D o d s o a b p e i t s e t e o o d a f a d 2 E 3 O ( A u i t s " p " a a " S ( I i u s i r u t c o t s o t i u ( ( A b]
+[DELETED:  C  2  G ( A i]

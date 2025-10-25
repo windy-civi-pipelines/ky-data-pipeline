@@ -1,0 +1,2154 @@
+Title: 1 AN ACT relating to administrative regulations and declaring an emergency.
+Official Title: 1 AN ACT relating to administrative regulations and declaring an emergency.
+Number of Sections: 1
+Source: versions - Current/Final
+Media Type: application/pdf
+Strikethrough Detection: 34 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS SB 23/GA
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 13A.010 is amended to read as follows:
+4 As used in this chapter, unless the context otherwise requires:
+5 (1) "Administrative body" means each state board, bureau, cabinet, commission,
+6 department, authority, officer, or other entity, except the General Assembly and the
+7 Court of Justice, authorized by law to promulgate administrative regulations;
+8 (2) "Administrative regulation" means each statement of general applicability
+9 promulgated by an administrative body that implements, interprets, or prescribes
+10 law or policy, or describes the organization, procedure, or practice requirements of
+11 any administrative body. The term includes an existing administrative regulation, a
+12 new administrative regulation, an emergency administrative regulation, an
+13 administrative regulation in contemplation of a statute, and the amendment or
+14 repeal of an existing administrative regulation, but does not include:
+15 (a) Statements concerning only the internal management of an administrative
+16 body and not affecting private rights or procedures available to the public;
+17 (b) Declaratory rulings;
+18 (c) Intradepartmental memoranda not in conflict with KRS 13A.130;
+19 (d) Statements relating to acquisition of property for highway purposes and
+20 statements relating to the construction or maintenance of highways; or
+21 (e) Rules, regulations, and policies of the governing boards of institutions that
+22 make up the postsecondary education system defined in KRS 164.001
+23 pertaining to students attending or applicants to the institutions, to faculty and
+24 staff of the respective institutions, or to the control and maintenance of land
+25 and buildings occupied by the respective institutions;
+26 (3) "Adopted" means that an administrative regulation has become effective in
+27 accordance with the provisions of this chapter;
+Page 1 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 (4) "Authorizing signature" means the signature of the head of the administrative body
+2 authorized by statute to promulgate administrative regulations;
+3 (5) "Commission" means the Legislative Research Commission;
+4 (6) "Effective" means an administrative regulation that has completed the legislative
+5 committee review established by KRS 13A.290, 13A.330, and 13A.331;
+6 (7) "Federal mandate" means any federal constitutional, legislative, or executive law or
+7 order that requires or permits any administrative body to engage in regulatory
+8 activities that impose compliance standards, reporting requirements, recordkeeping,
+9 or similar responsibilities upon entities in the Commonwealth;
+10 (8) "Federal mandate comparison" means a written statement containing the
+11 information required by KRS 13A.245;
+12 (9) "Filed" or "promulgated" means that an administrative regulation, or other
+13 document required to be filed by this chapter, has been submitted to the
+14 Commission in accordance with this chapter;
+15 (10) "Full review" means that a filed administrative regulation is on an agenda for:
+16 (a) The subcommittee as the last step required by this chapter prior to
+17 assignment in accordance with subsection (6) of Section 5 of this Act;
+18 (b) A legislative committee as the last step required by this chapter for an
+19 ordinary administrative regulation before becoming effective upon
+20 adjournment in accordance with KRS 13A.331(1) and (2); or
+21 (c) A legislative committee as an emergency administrative regulation being
+22 reviewed after assignment in accordance with subsections (6) and (7) of
+23 Section 5 of this Act;
+24 (11) "Last effective date" means the latter of:
+25 (a) The most recent date an ordinary administrative regulation became effective,
+26 without including the date a technical amendment was made pursuant to KRS
+27 13A.040(10), 13A.2255(2), or 13A.312; or
+Page 2 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 (b) The date a certification letter was filed with the regulations compiler for that
+2 administrative regulation pursuant to KRS 13A.3104(4), if the letter stated
+3 that the administrative regulation shall remain in effect without amendment;
+4 (12)[(11)] "Legislative committee" means an interim joint committee, a House or Senate
+5 standing committee, a statutory committee, or a subcommittee of the Legislative
+6 Research Commission;
+7 (13)[(12)] "Local government" means and includes a city, county, urban-county, charter
+8 county, consolidated local government, special district, or a quasi-governmental
+9 body authorized by the Kentucky Revised Statutes or a local ordinance;
+10 (14)[(13)] "Major economic impact" means an overall negative or adverse economic
+11 impact from an administrative regulation of five hundred thousand dollars
+12 ($500,000) or more on state or local government or regulated entities, in aggregate,
+13 as determined by the promulgating administrative bodies;
+14 (15)[(14)] "Proposed administrative regulation" means an administrative regulation that:
+15 (a) Has been filed by an administrative body; and
+16 (b) Has not become effective or been withdrawn;
+17 (16)[(15)] "Regulatory impact analysis" means a written statement containing the
+18 provisions required by KRS 13A.240;
+19 (17)[(16)] "Small business" means a business entity, including its affiliates, that:
+20 (a) Is independently owned and operated; and
+21 (b) 1. Employs fewer than one hundred fifty (150) full-time employees or their
+22 equivalent; or
+23 2. Has gross annual sales of less than six million dollars ($6,000,000);
+24 (18)[(17)] "Statement of consideration" means the document required by KRS 13A.280
+25 in which the administrative body summarizes the comments received, its responses
+26 to those comments, and the action taken, if any, as a result of those comments and
+27 responses;
+Page 3 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 (19)[(18)] "Subcommittee" means the Administrative Regulation Review Subcommittee
+2 of the Legislative Research Commission;
+3 (20)[(19)] "Tiering" means the tailoring of regulatory requirements to fit the particular
+4 circumstances surrounding regulated entities; and
+5 (21)[(20)] "Written comments" means comments submitted to the administrative body's
+6 contact person identified pursuant to KRS 13A.220(6)(d) via hand delivery, United
+7 States mail, email[e-mail], or facsimile and may include but is not limited to
+8 comments submitted internally from within the promulgating administrative body
+9 or from another administrative body.
+10 Section 2. KRS 13A.030 is amended to read as follows:
+11 (1) The Administrative Regulation Review Subcommittee shall:
+12 (a) Conduct a continuous study as to whether additional legislation or changes in
+13 legislation are needed based on various factors, including[,] but not limited to,
+14 review of new, emergency, and existing administrative regulations, the lack of
+15 administrative regulations, and the needs of administrative bodies;
+16 (b) Except as provided by KRS 158.6471 and 158.6472, review and comment
+17 upon effective administrative regulations pursuant to subsections (2), (3), and
+18 (4) of this section or administrative regulations filed with the Commission;
+19 (c) Make recommendations for changes in statutes, new statutes, repeal of
+20 statutes affecting administrative regulations or the ability of administrative
+21 bodies to promulgate them; and
+22 (d) Conduct such other studies relating to administrative regulations as may be
+23 assigned by the Commission.
+24 (2) The subcommittee may make a determination:
+25 (a) That an effective administrative regulation or an administrative regulation
+26 filed with the Commission is deficient because it:
+27 1. Is wrongfully promulgated;
+Page 4 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 2. Appears to be in conflict with an existing statute;
+2 3. Appears to have no statutory authority for its promulgation;
+3 4. Appears to impose stricter or more burdensome state requirements than
+4 required by the federal mandate, without reasonable justification;
+5 5. Fails to use tiering when tiering is applicable;
+6 6. Is in excess of the administrative body's authority;
+7 7. Appears to impose an unreasonable burden on government or small
+8 business, or both;
+9 8. Is filed as an emergency administrative regulation without adequate
+10 justification of the emergency nature of the situation as described in
+11 KRS 13A.190(1);
+12 9. Has not been noticed in conformance with the requirements of KRS
+13 13A.270(3);
+14 10. Does not provide an adequate cost analysis pursuant to KRS 13A.250;[
+15 or]
+16 11. Was the subject of the subcommittee's instruction to an administrative
+17 body to appear under subsection (4) of this section and the
+18 administrative body failed to:
+19 a. Appear;
+20 b. Make a good faith effort to answer subcommittee questions; or
+21 c. Provide any information or data required by the subcommittee;
+22 or
+23 12. Appears to be deficient in any other manner;
+24 (b) That an administrative regulation is needed to implement an existing statute;
+25 or
+26 (c) That an administrative regulation should be amended or repealed.
+27 (3) The subcommittee may conduct an informational review of an effective
+Page 5 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 administrative regulation or an administrative regulation filed with the
+2 Commission if requested by a member of the subcommittee.
+3 (4) (a) The subcommittee may require any administrative body to appear before it to
+4 answer questions or submit data and information as required by the
+5 subcommittee in the performance of its duties under this chapter, and no
+6 administrative body shall fail to:
+7 1. Appear before the subcommittee;
+8 2. Make a good faith effort to answer subcommittee questions;
+9 3. Provide any[the] information or data required by the subcommittee; or
+10 4. Perform any combination of subparagraphs 1., 2., and 3. of this
+11 paragraph required by the subcommittee.
+12 (b) Either co-chair of the subcommittee may require action by an
+13 administrative body under paragraph (a) of this subsection on behalf of the
+14 subcommittee.
+15 (5) At least five (5) calendar days before an informational review of an ordinary
+16 administrative regulation, the subcommittee shall notify the affected
+17 administrative body.
+18 Section 3. KRS 13A.270 is amended to read as follows:
+19 (1) (a) In addition to the public comment period required by paragraph (c) of this
+20 subsection, following publication in the Administrative Register of the text of
+21 an administrative regulation, the administrative body shall, unless authorized
+22 to cancel the hearing pursuant to subsection (7) of this section, hold a hearing,
+23 open to the public, on the administrative regulation.
+24 (b) The public hearing for an:
+25 1. Ordinary administrative regulation shall not be held before the twenty-
+26 first day or after the last workday of the month following the month in
+27 which the administrative regulation is published in the Administrative
+Page 6 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 Register; or
+2 2. Emergency administrative regulation shall not be held before the
+3 twenty-first day or after the last workday of the month in which the
+4 administrative regulation is published in the Administrative Register.
+5 Nothing in this paragraph shall preclude the administrative body from holding
+6 additional public hearings in addition to the hearing mandated in
+7 subparagraph 1. or 2. of this paragraph.
+8 (c) The administrative body shall accept written comments regarding the
+9 administrative regulation during the comment period. The comment period
+10 shall begin on the date the administrative regulation is filed with the
+11 regulations compiler and:
+12 1. For an ordinary administrative regulation, shall run until 11:59 p.m. on
+13 the last day of the calendar month following the month in which the
+14 administrative regulation was published in the Administrative Register;
+15 or
+16 2. For an emergency administrative regulation, shall run until 11:59 p.m.
+17 on the last day of the calendar month in which the administrative
+18 regulation is published in the Administrative Register.
+19 (2) Each administrative regulation shall state:
+20 (a) The place, time, and date of the scheduled public hearing;
+21 (b) The manner in which interested persons shall submit their:
+22 1. Notification of attending the public hearing; and
+23 2. Written comments;
+24 (c) That notification of attending the public hearing shall be transmitted to the
+25 administrative body no later than five (5) workdays prior to the date of the
+26 scheduled public hearing;
+27 (d) The deadline for submitting written comments regarding the administrative
+Page 7 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 regulation in accordance with subsection (1)(c) of this section; and
+2 (e) The name, position, mailing address, email[e-mail] address, and telephone
+3 and facsimile numbers of the person to whom a notification and written
+4 comments shall be transmitted.
+5 (3) (a) A person who wishes to be notified that an administrative body has filed an
+6 administrative regulation shall:
+7 1. Contact the administrative body by telephone or written letter to request
+8 that the administrative body send the information required by paragraph
+9 (c) or (d) of this subsection to the person; or
+10 2. Complete an electronic registration form located on a centralized state
+11 government website[Web site] developed and maintained by the
+12 Commonwealth Office of Technology.
+13 (b) A registration submitted pursuant to paragraph (a) of this subsection shall:
+14 1. Indicate whether the person wishes to receive notification regarding:
+15 a. All administrative regulations promulgated by an administrative
+16 body; or
+17 b. Each administrative regulation that relates to a specified subject
+18 area. The subject areas shall be provided by the administrative
+19 bodies and shall be listed on the centralized state government
+20 website[Web site] in alphabetical order;
+21 2. Include a request for the person to provide an email[e-mail] address in
+22 order to receive regulatory information electronically;
+23 3. Be valid for a period of four (4) years from the date the registration is
+24 submitted, or until the person submits a written request to be removed
+25 from the notification list, whichever occurs first; and
+26 4. Be transmitted to the promulgating administrative body, if the
+27 registration was made through the centralized state government
+Page 8 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 website[Web site]. The collected email[e-mail] addresses shall be used
+2 solely for the purposes of this subsection and shall not be sold,
+3 transferred, or otherwise made available to third parties, other than the
+4 promulgating administrative body.
+5 (c) A copy of the administrative regulation as filed, and all attachments required
+6 by KRS 13A.230(1), shall be emailed[e-mailed]:
+7 1. To every person who has:
+8 a. Registered pursuant to paragraph (a) of this subsection; and
+9 b. Provided an email[e-mail] address as part of the registration
+10 request;
+11 2. Within five (5) working days after the date the administrative regulation
+12 is filed with the Commission; and
+13 3. With a request from the administrative body that affected individuals,
+14 businesses, or other entities submit written comments that identify the
+15 anticipated effects of the proposed administrative regulation.
+16 (d) Within five (5) working days after the date the administrative regulation is
+17 filed with the Commission, the administrative body shall mail the following
+18 information to every person who has registered pursuant to paragraph (a) of
+19 this subsection but did not provide an email[e-mail] address:
+20 1. A cover letter from the administrative body requesting that affected
+21 individuals, businesses, or other entities submit written comments that
+22 identify the anticipated effects of the proposed administrative regulation;
+23 2. A copy of the regulatory impact analysis required by KRS 13A.240
+24 completed in detail sufficient to put the individual on notice as to the
+25 specific contents of the administrative regulation, including all proposed
+26 amendments to the administrative regulation; and
+27 3. A statement that a copy of the administrative regulation may be obtained
+Page 9 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 from the Commission's website[Web site], which can be accessed on-
+2 line through public libraries or any computer with internet access. The
+3 Commission's website[Web site] address shall be included in the
+4 statement.
+5 (e) An administrative body shall not be required to send a copy of an
+6 administrative regulation that was amended after comments in accordance
+7 with KRS 13A.280 to persons who have registered pursuant to paragraph (a)
+8 of this subsection, unless the person requested a copy pursuant to KRS
+9 13A.280(8).
+10 (4) (a) If small business may be impacted by an administrative regulation, the
+11 administrative body shall email[e-mail] a copy of the administrative
+12 regulation as filed, and all attachments required by KRS 13A.230(1), to the
+13 chief executive officer of the Commission on Small Business Innovation and
+14 Advocacy within one (1) working day after the date the administrative
+15 regulation is filed with the Commission.
+16 (b) The email[e-mail] shall include a request from the administrative body that
+17 the Commission on Small Business Innovation and Advocacy review the
+18 administrative regulation in accordance with KRS 11.202(1)(e) and submit its
+19 report or comments in accordance with the deadline established in subsection
+20 (1)(c) of this section. A copy of the report shall be filed with the regulations
+21 compiler.
+22 (c) An administrative body shall not be required to send a copy of an
+23 administrative regulation that was amended after comments in accordance
+24 with KRS 13A.280 to the Commission on Small Business Innovation and
+25 Advocacy, unless its chief executive officer requested a copy pursuant to KRS
+26 13A.280(8).
+27 (5) (a) If a local government may be impacted by an administrative regulation, the
+Page 10 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 administrative body shall send, by email[e-mail] if the local government has
+2 an email[e-mail] address, a copy of the administrative regulation as filed and
+3 all attachments required by KRS 13A.230(1) to each local government in the
+4 state within one (1) working day after the date the administrative regulation is
+5 filed with the Commission. If the local government does not have an email[e-
+6 mail] address, the material shall not be sent.
+7 (b) The email[e-mail] shall include a request from the administrative body that
+8 the local government review the administrative regulation in the same manner
+9 as would the Commission on Small Business Innovation and Advocacy under
+10 KRS 11.202(1)(e), and submit its report or comments in accordance with the
+11 deadline established in subsection (1)(c) of this section. A copy of the report
+12 or comments shall be filed with the regulations compiler.
+13 (c) An administrative body shall not be required to send a copy of an
+14 administrative regulation that was amended after comments in accordance
+15 with KRS 13A.280 to a local government, unless its contact person requested
+16 a copy pursuant to KRS 13A.280(8).
+17 (6) Persons desiring to be heard at the hearing shall notify the administrative body in
+18 writing as to their desire to appear and testify at the hearing not less than five (5)
+19 workdays before the scheduled date of the hearing.
+20 (7) The administrative body shall immediately notify the regulations compiler by letter
+21 if:
+22 (a) No written notice of intent to attend the public hearing is received by the
+23 administrative body at least five (5) workdays before the scheduled hearing,
+24 and it chooses to cancel the public hearing; and
+25 (b) No written comments have been received by the close of the last day of the
+26 public comment period.
+27 (8) (a) 1. Upon receipt from interested persons of their intent to attend a public
+Page 11 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 hearing, the administrative body shall notify the regulations compiler by
+2 letter that the public hearing shall be held.
+3 2. If the public hearing is held but no comments are received during the
+4 hearing, the administrative body shall notify the regulations compiler by
+5 letter that the public hearing was held and that no comments were
+6 received.
+7 (b) Upon receipt of written comments, the administrative body shall notify the
+8 regulations compiler by letter that written comments have been received.
+9 (9) (a) If the notifications required by subsections (7) and (8) of this section are not
+10 received by the regulations compiler by close of business on the second
+11 workday of the calendar month following the end of the public comment
+12 period, the administrative regulation shall be deferred to the next regularly
+13 scheduled meeting of the subcommittee.
+14 (b) A filed administrative regulation that is deferred under this subsection due
+15 to failure to timely notify the regulations compiler may still be placed on the
+16 subcommittee's agenda for informational review pursuant to subsection (3)
+17 or (4) of Section 2 of this Act.
+18 (c) If a filed administrative regulation is placed on the agenda pursuant to
+19 paragraph (b) of this subsection, the full review of the filed administrative
+20 regulation shall still be deferred in accordance with this subsection.
+21 (10) The notifications required by subsections (7) and (8) of this section shall be made
+22 by letter. The letter may be sent by email[e-mail] if the administrative body uses an
+23 electronic signature and letterhead for the emailed[e-mailed] document.
+24 (11) Every hearing shall be conducted in such a manner as to guarantee each person who
+25 wishes to offer comment a fair and reasonable opportunity to do so, whether or not
+26 such person has given the notice contemplated by subsection (6) of this section. No
+27 transcript need be taken of the hearing, unless a written request for a transcript is
+Page 12 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 made, in which case the person requesting the transcript shall have the
+2 responsibility of paying for same. A recording may be made in lieu of a transcript
+3 under the same terms and conditions as a transcript. This section shall not preclude
+4 an administrative body from making a transcript or making a recording if it so
+5 desires.
+6 (12) Nothing in this section shall be construed as requiring a separate hearing on each
+7 administrative regulation. Administrative regulations may be grouped at the
+8 convenience of the administrative body for purposes of hearings required by this
+9 section.
+10 Section 4. KRS 13A.280 is amended to read as follows:
+11 (1) Following the last day of the comment period, the administrative body shall give
+12 consideration to all comments received at the public hearing and all written
+13 comments received during the comment period, including:
+14 (a) Any report filed by the Commission on Small Business Innovation and
+15 Advocacy in accordance with KRS 11.202(1)(e) and 13A.270(4), or by a local
+16 government in accordance with KRS 11.202(1)(e) and 13A.270(5); and
+17 (b) Any comments regarding the administrative regulation's major economic
+18 impact, as defined in KRS 13A.010, as submitted by agencies, local
+19 governments, or regulated entities.
+20 (2) (a) Except as provided in paragraph (b) of this subsection, the administrative
+21 body shall file with the commission on or before 12 noon, eastern time, on the
+22 fifteenth day of the calendar month following the end of the public comment
+23 period the statement of consideration relating to the administrative regulation
+24 and, if applicable, the amended after comments version.
+25 (b) If the administrative body has received a significant number of public
+26 comments:
+27 1. It may extend the time for filing the statement of consideration for an
+Page 13 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 ordinary administrative regulation and, if applicable, the amended after
+2 comments version by notifying the regulations compiler in writing on or
+3 before 12 noon, eastern time, on the fifteenth day of the calendar month
+4 following the end of the public comment period; and
+5 2. The administrative body shall file the statement of consideration for an
+6 ordinary administrative regulation and, if applicable, the amended after
+7 comments version, with the Commission on or before 12 noon, eastern
+8 time, no later than the fifteenth day of the second calendar month
+9 following the end of the public comment period.
+10 (3) (a) If the administrative regulation is amended as a result of the hearing or written
+11 comments received, the administrative body shall forward the items specified
+12 in this paragraph to the regulations compiler by 12 noon, eastern time, on the
+13 applicable deadline specified in subsection (2) of this section:
+14 1. The original and five (5) copies of the administrative regulation
+15 indicating any amendments resulting from comments received at the
+16 public hearing and during the comment period. The amendments shall
+17 be indicated in:
+18 a. The original wording for an ordinary administrative regulation; or
+19 b. The wording of an emergency administrative regulation as
+20 amended, for an emergency administrative regulation that was
+21 amended at a legislative committee meeting pursuant to KRS
+22 13A.190(3);
+23 2. The original and five (5) copies of the statement of consideration as
+24 required by subsection (2) of this section, attached to the back of the
+25 original and each copy of the administrative regulation; and
+26 3. The regulatory impact analysis, tiering statement, federal mandate
+27 comparison, or fiscal note on local government. These documents shall
+Page 14 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 reflect changes resulting from amendments made after the public
+2 hearing.
+3 (b) The original and four (4) copies of the amended after comments version, the
+4 statement of consideration, and the attachments required by paragraph (a)3. of
+5 this subsection shall be stapled in the top left corner. The fifth copy shall not
+6 be stapled.
+7 (c) At the same time as, or prior to, filing the paper version, the administrative
+8 body shall file an electronic version of the amended after comments version,
+9 the statement of consideration, and the required attachments saved as a single
+10 document for each amended after comments administrative regulation in an
+11 electronic format approved by the regulations compiler.
+12 (4) (a) If the administrative regulation is not amended as a result of the public
+13 hearing, or written comments received, the administrative body shall file the
+14 original and five (5) copies of the statement of consideration with the
+15 regulations compiler by 12 noon, eastern time, on the deadline established in
+16 subsection (2) of this section. The original and four (4) copies of the statement
+17 of consideration shall be stapled in the top left corner. The fifth copy of each
+18 statement of consideration shall not be stapled.
+19 (b) If the statement of consideration covers multiple administrative regulations, as
+20 authorized by subsection (6)(g)1. of this section, the administrative body shall
+21 file with the regulations compiler:
+22 1. The original and five (5) copies of the statement of consideration as
+23 required by paragraph (a) of this subsection; and
+24 2. Two (2) additional unstapled copies of the statement of consideration for
+25 each additional administrative regulation included in the group of
+26 administrative regulations.
+27 (c) At the same time as, or prior to, filing the paper version, the administrative
+Page 15 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 body shall file an electronic version of the statement of consideration saved as
+2 a single document for each statement of consideration in an electronic format
+3 approved by the regulations compiler.
+4 (5) (a) If comments are received either at the public hearing or during the public
+5 comment period, the administrative regulation shall be deferred to the next
+6 regularly scheduled meeting of the subcommittee following the month in
+7 which the statement of consideration is due.
+8 (b) A filed administrative regulation that is deferred under this subsection due
+9 to receipt of public comments may still be placed on the subcommittee's
+10 agenda for informational review pursuant to subsection (3) or (4) of Section
+11 2 of this Act.
+12 (c) If a filed administrative regulation is placed on the agenda pursuant to
+13 paragraph (a) of this subsection, the full review of the filed administrative
+14 regulation shall still be deferred in accordance with this subsection.
+15 (6) The format for the statement of consideration shall be as follows:
+16 (a) The statement shall be typewritten on white paper, size eight and one-half (8-
+17 1/2) by eleven (11) inches. Copies of the statement may be mechanically
+18 reproduced;
+19 (b) The first page of the statement of consideration shall have a two (2) inch top
+20 margin;
+21 (c) The heading of the statement shall consist of the words "STATEMENT OF
+22 CONSIDERATION RELATING TO" followed by the number of the
+23 administrative regulation that was the subject of the public hearing and
+24 comment period and the name of the promulgating administrative body. The
+25 heading shall be centered. This shall be followed by the words "Not Amended
+26 After Comments," "Emergency Not Amended After Comments," "Amended
+27 After Comments," or "Emergency Amended After Comments," whichever is
+Page 16 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 applicable;
+2 (d) If a hearing has been held or written comments received, the heading is to be
+3 followed by:
+4 1. A statement setting out the date, time and place of the hearing, if the
+5 hearing was held;
+6 2. A list of those persons who attended the hearing or who submitted
+7 comments and the organization, agency, or other entity represented, if
+8 applicable; and
+9 3. The name and title of the representative of the promulgating
+10 administrative body;
+11 (e) Following the general information, the promulgating administrative body
+12 shall summarize the comments received at the public hearing and during the
+13 comment period and the response of the promulgating administrative body.
+14 Each subject commented upon shall be summarized in a separate numbered
+15 paragraph. Each numbered paragraph shall contain two (2) subsections:
+16 1. Subsection (a) shall be labeled "Comment," shall identify the name of
+17 the person, and the organization represented if applicable, who made the
+18 comment, and shall contain a summary of the comment; and
+19 2. Subsection (b) shall be labeled "Response" and shall contain the
+20 response to the comment by the promulgating administrative body;
+21 (f) Following the summary and comments, the promulgating administrative body
+22 shall:
+23 1. Summarize the statement and the action taken by the administrative
+24 body as a result of comments received at the public hearing and during
+25 the comment period; and
+26 2. If amended after the comment period, list the changes made to the
+27 administrative regulation in the format prescribed by KRS
+Page 17 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 13A.320(2)(c) and (d); and
+2 (g) 1. If administrative regulations were considered as a group at a public
+3 hearing, one (1) statement of consideration may include the group of
+4 administrative regulations. If a comment relates to one (1) or more of
+5 the administrative regulations in the group, the summary of the
+6 comment and response shall specify each administrative regulation to
+7 which it applies.
+8 2. Emergency administrative regulations shall be in a separate statement of
+9 consideration from ordinary administrative regulations.
+10 (7) If the administrative regulation is amended pursuant to subsection (3) of this
+11 section, the full text of the administrative regulation shall be published in the
+12 Administrative Register. The changes made to the administrative regulation shall be
+13 typed in bold and made in the format prescribed by KRS 13A.222(2). The
+14 administrative regulation shall be reviewed by the Administrative Regulation
+15 Review Subcommittee after such publication.
+16 (8) If requested, copies of the statement of consideration and, if applicable, the
+17 amended after comments version of the administrative regulation shall be made
+18 available by the promulgating administrative body to persons attending the hearing
+19 or submitting comments or who specifically request a copy from the administrative
+20 body.
+21 Section 5. KRS 13A.290 is amended to read as follows:
+22 (1) (a) Except as provided by KRS 158.6471 and 158.6472, the Administrative
+23 Regulation Review Subcommittee shall meet monthly to review
+24 administrative regulations prior to close of business on the fifteenth day of the
+25 calendar month.
+26 (b) The agenda shall:
+27 1. Include each administrative regulation that completed the public
+Page 18 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 comment process;
+2 2. Include each administrative regulation for which a statement of
+3 consideration was received on or before 12 noon, eastern time, on the
+4 fifteenth day of the prior calendar month;
+5 3. Include each effective administrative regulation or administrative
+6 regulation filed with the Commission that the subcommittee has
+7 decided to review pursuant to subsection (3) of Section 2 of this Act;
+8 4. Include each administrative regulation required to be on the agenda
+9 pursuant to subsection (4) of Section 2 of this Act;
+10 5. Include each administrative regulation that was deferred from the prior
+11 month's meeting of the subcommittee; and
+12 6.[5.] Not include an administrative regulation that is deferred, withdrawn,
+13 expired, or automatically taken off the agenda under the provisions of
+14 this chapter, unless it is being reviewed pursuant to subsection (3) or
+15 (4) of Section 2 of this Act.
+16 (c) Review of an administrative regulation shall include the entire administrative
+17 regulation and all attachments filed with the administrative regulation. The
+18 review of amendments to existing administrative regulations shall not be
+19 limited to only the changes proposed by the promulgating administrative
+20 body.
+21 (2) The meetings shall be open to the public.
+22 (3) Public notice of the time, date, and place of the Administrative Regulation Review
+23 Subcommittee meeting shall be given in the Administrative Register.
+24 (4) (a) A representative of the administrative body for an administrative regulation
+25 on the agenda[under consideration] shall be present to explain the
+26 administrative regulation and to answer questions thereon.
+27 (b) If a representative of an[the] administrative body with authority to amend,
+Page 19 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 defer, and answer questions about a filed administrative regulation that is on
+2 the agenda for full review fails to appear before[is not present at the
+3 subcommittee meeting, the administrative regulation shall be deferred to the
+4 next regularly scheduled meeting of] the subcommittee, the subcommittee
+5 may:
+6 1. Defer the administrative regulation to the next regularly scheduled
+7 meeting of the subcommittee; and
+8 2. Make a determination pursuant to subsections (2), (3), and (4) of
+9 Section 2 of this Act or KRS 13A.190(3).
+10 (c) If a representative of an administrative body with authority to defer and
+11 answer questions about an[for an effective] administrative regulation that
+12 was placed on the agenda for informational review pursuant to subsection
+13 (3) or (4) of Section 2 of this Act fails to appear before the subcommittee, the
+14 subcommittee may:
+15 1. Defer the informational review of the administrative regulation to the
+16 next regularly scheduled meeting of the subcommittee; and[or]
+17 2. Make a determination pursuant to KRS 13A.030(2), (3), and (4), or KRS
+18 13A.190(3).
+19 (5) Following the meeting and before the next regularly scheduled meeting of the
+20 Commission, the Administrative Regulation Review Subcommittee shall forward to
+21 the Commission its findings, recommendations, or other comments it deems
+22 appropriate in writing.[ The Administrative Regulation Review Subcommittee shall
+23 also forward to the Commission its findings, recommendations, or other comments
+24 it deems appropriate on an effective administrative regulation it has reviewed.] The
+25 Administrative Regulation Review Subcommittee's findings shall be published in
+26 the Administrative Register.
+27 (6) (a) After review by the Administrative Regulation Review Subcommittee, the
+Page 20 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 Commission shall, on the first Wednesday of the following month, or if the
+2 first Wednesday is a legal holiday, the next workday of the month:[,]
+3 1. Assign a filed administrative regulation to a legislative committee with
+4 subject matter jurisdiction if the administrative regulation was on the
+5 agenda for full review pursuant to subsection (1)(b)1., 2., or 5. of this
+6 section; and
+7 2. Not assign a filed administrative regulation to a legislative committee
+8 with subject matter jurisdiction if the administrative regulation was
+9 solely on the agenda for informational review pursuant to subsection
+10 (3) or (4) of Section 2 of this Act.
+11 (b) Upon notification of the assignment by the Commission, the legislative
+12 committee to which the administrative regulation is assigned shall notify the
+13 regulations compiler:
+14 1. Of the date, time, and place of the meeting at which it will consider the
+15 administrative regulation; or
+16 2. That it will not meet to consider the administrative regulation.
+17 (7) (a) Within ninety (90) days of the assignment, the legislative committee may hold
+18 a public meeting during which the administrative regulation shall be
+19 reviewed.
+20 (b) If the ninetieth day of the assignment falls on a Saturday, Sunday, or holiday,
+21 the deadline for review shall be the workday following the Saturday, Sunday,
+22 or holiday.
+23 (c) 1. If the administrative regulation is assigned to an interim joint committee
+24 and a session of the General Assembly begins during the review period,
+25 the assignment shall transfer to the Senate and House standing
+26 committees with subject matter jurisdiction.
+27 2. If the administrative regulation is assigned to Senate and House standing
+Page 21 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 committees and a session of the General Assembly adjourns sine die
+2 during the review period, the assignment shall transfer to the interim
+3 joint committee with subject matter jurisdiction.
+4 3. An administrative regulation may be transferred more than one (1) time
+5 under this paragraph. A transfer shall not extend the review period
+6 established by this subsection.
+7 (d) Notice of the time, date, and place of the meeting shall be placed in the
+8 legislative calendar.
+9 (8) Except as provided in subsection (9) of this section, a legislative committee shall be
+10 empowered to make the same determinations and to exercise the same authority as
+11 the Administrative Regulation Review Subcommittee, including all powers and
+12 restrictions relating to informational reviews conducted under subsection (3) or
+13 (4) of Section 2 of this Act.
+14 (9) (a) This subsection shall apply to administrative regulations filed with the
+15 Commission and reviewed pursuant to subsection (7) of this section.
+16 (b) A majority of the entire membership of the legislative committee shall
+17 constitute a quorum for purposes of reviewing administrative regulations.
+18 (c) In order to amend an administrative regulation pursuant to KRS 13A.320,
+19 defer an administrative regulation pursuant to KRS 13A.300, or find an
+20 administrative regulation deficient pursuant to KRS 13A.030(2), (3), or (4) or
+21 13A.190(3), the motion to amend, defer, or find deficient shall be approved by
+22 a majority of the entire membership of the legislative committee.
+23 Additionally, during a session of the General Assembly, standing committees
+24 of the Senate and House of Representatives shall agree in order to amend an
+25 administrative regulation, defer an administrative regulation, or find an
+26 administrative regulation deficient by:
+27 1. Meeting separately; or
+Page 22 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 2. Meeting jointly. If the standing committees meet jointly, it shall require
+2 a majority vote of Senate members voting and a majority of House
+3 members voting, as well as the majority vote of the entire membership
+4 of the standing committees meeting jointly, in order to take action on the
+5 administrative regulation.
+6 (10) (a) The quorum requirements of subsection (9)(b) of this section shall apply to an
+7 effective or filed administrative regulation that is under informational review
+8 by a legislative committee pursuant to subsection (3) or (4) of Section 2 of
+9 this Act and subsection (8) of this section.
+10 (b) A motion to defer the informational review of an[find an effective]
+11 administrative regulation or find the administrative regulation deficient shall
+12 be approved by:
+13 1. A majority of the entire membership of the Administrative Regulation
+14 Review Subcommittee; or
+15 2. A legislative committee in accordance with subsection (9)(c) of this
+16 section.
+17 (11) (a) Upon adjournment of the meeting at which a legislative committee has
+18 considered an administrative regulation pursuant to subsection (7) or (10) of
+19 this section, the legislative committee shall inform the regulations compiler of
+20 its findings, recommendations, or other action taken on the administrative
+21 regulation.
+22 (b) Following the meeting and before the next regularly scheduled meeting of the
+23 Commission, the legislative committee shall forward to the Commission its
+24 findings, recommendations, or other comments it deems appropriate in
+25 writing. The legislative committee's findings shall be published in the
+26 Administrative Register.
+27 Section 6. KRS 13A.300 is amended to read as follows:
+Page 23 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 (1) The administrative body that promulgated an administrative regulation may request
+2 that consideration of the administrative regulation be deferred by a legislative
+3 committee.
+4 (2) The deferral of an administrative regulation scheduled for full review by the
+5 Administrative Regulation Review Subcommittee pursuant to subsection (1)(b)1.,
+6 2., or 5. of Section 5 of this Act shall be governed by KRS 13A.020(4) and the
+7 following:
+8 (a) A request for deferral of an ordinary administrative regulation filed with the
+9 Commission shall be automatically granted if:
+10 1. The administrative body submits a written letter to the regulations
+11 compiler; and
+12 2. The letter is received by 12 noon, eastern time, at least five (5)
+13 calendar days prior to the subcommittee meeting;
+14 (b) A request for deferral of an[ effective administrative regulation or an]
+15 emergency administrative regulation may be granted if:
+16 1. The administrative body submits a written letter to the regulations
+17 compiler;
+18 2. The letter is received prior to the subcommittee meeting; and
+19 3. Approved by the co-chairs of the Administrative Regulation Review
+20 Subcommittee;
+21 (c) A request for deferral may be granted at the discretion of the subcommittee if
+22 the request is made by the administrative body orally at a meeting of the
+23 subcommittee;
+24 (d) The subcommittee may request that consideration of an administrative
+25 regulation be deferred by the promulgating administrative body. Upon receipt
+26 of the request, the promulgating administrative body may agree to defer
+27 consideration of the administrative regulation;
+Page 24 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 (e) Except as provided in paragraph (g)[(f)] of this subsection, an administrative
+2 regulation that has been deferred for full review shall be placed on the agenda
+3 of the next scheduled meeting of the subcommittee. [If it is an administrative
+4 regulation filed with the Commission, ]The subcommittee shall consider the
+5 administrative regulation as if it had met all other requirements of filing.
+6 Repromulgation shall not be required in those cases;[ and]
+7 (f) 1. A filed administrative regulation deferred under this subsection may
+8 still be placed on the agenda pursuant to subsection (3) or (4) of
+9 Section 2 of this Act for informational review.
+10 2. If a filed administrative regulation is placed on the agenda pursuant to
+11 subparagraph 1. of this paragraph, the full review of the filed
+12 administrative regulation shall still be deferred in accordance with this
+13 subsection; and
+14 (g) An administrative regulation shall not be deferred under this subsection more
+15 than twelve (12) times.
+16 (3)[ (a)] The deferral of an informational review for an[a filed ordinary]
+17 administrative regulation scheduled by the Administrative Regulation Review
+18 Subcommittee pursuant to subsection (1)(b)3. or 4. of Section 5 of this
+19 Act[referred to a second legislative committee or committees pursuant to KRS
+20 13A.290(6) and (7)] shall be governed by KRS 13A.020(4) and the following:[this
+21 subsection and the voting requirements of KRS 13A.290(9).]
+22 (a)[(b) 1.] A request to defer an informational review for an administrative
+23 regulation that was placed on the subcommittee's agenda may be[for
+24 deferral shall be automatically] granted if:
+25 1.[a.] The administrative body submits a written letter to the regulations
+26 compiler;[ and]
+27 2.[b.] The letter is received prior to the subcommittee[legislative committee]
+Page 25 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 meeting; and
+2 3. Approved by the co-chairs of the Administrative Regulation Review
+3 Subcommittee;
+4 (b)[2.] A request for deferral may be granted at the discretion of the
+5 subcommittee[second legislative committee] if the request is made by the
+6 administrative body orally at a meeting of the subcommittee[legislative
+7 committee]; and
+8 [3. The legislative committee may request that consideration of an
+9 administrative regulation be deferred by the promulgating administrative
+10 body. Upon receipt of the request, the promulgating administrative body
+11 may agree to defer consideration of the administrative regulation.]
+12 (c)[ 1.] An informational review for an administrative regulation that is
+13 deferred may be placed on the[a subsequent] agenda of the next scheduled
+14 meeting of the subcommittee[legislative committee or committees within the
+15 review period.
+16 2. If a filed ordinary administrative regulation that has been deferred is not
+17 placed on a subsequent agenda within the review period, the
+18 administrative regulation shall take effect at the expiration of the review
+19 period].
+20 (4) (a) The deferral of a filed ordinary or emergency[an effective] administrative
+21 regulation assigned to a second[or an emergency administrative regulation
+22 under review by a] legislative committee or committees for full review
+23 pursuant to subsections (6) and (7) of Section 5 of this Act shall be governed
+24 by this subsection and the voting requirements of KRS 13A.290(9).
+25 (b) A request for deferral may be granted if:
+26 1. The administrative body submits a written letter to the regulations
+27 compiler;
+Page 26 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 2. The letter is received:
+2 a. Prior to the legislative committee meeting for an emergency
+3 administrative regulation; or
+4 b. By 12 noon, eastern time, at least five (5) calendar days prior to
+5 the legislative committee meeting for an ordinary administrative
+6 regulation; and
+7 3. Approved by the presiding chair or chairs.
+8 (c) A request for deferral may be granted at the discretion of the second
+9 legislative committee if the request is made by the administrative body orally
+10 at a meeting of the legislative committee.
+11 (d) 1. At a meeting of a legislative committee, the legislative committee may
+12 request that consideration of an administrative regulation be deferred by
+13 the administrative body. Upon receipt of the request, the administrative
+14 body may agree to defer consideration of the administrative regulation.
+15 2.[(e)] An administrative regulation that is deferred for full review may
+16 be placed on a subsequent agenda of the legislative committee or
+17 committees within the review period.
+18 3. If a filed ordinary administrative regulation that has been deferred for
+19 full review is not placed on a subsequent agenda within the review
+20 period, the administrative regulation shall take effect at the expiration
+21 of the review period.
+22 (e) 1. A filed administrative regulation deferred under this subsection may
+23 still be placed on the agenda for informational review pursuant to
+24 subsection (3) or (4) of Section 2 of this Act and subsection (8) of
+25 Section 5 of this Act; and
+26 2. If a filed administrative regulation is placed on the agenda pursuant to
+27 subparagraph 1. of this paragraph, the full review of the filed
+Page 27 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 administrative regulation may be scheduled by the legislative
+2 committee at a subsequent meeting during the ninety (90) day review
+3 period.
+4 (5) The deferral of an informational review for an administrative regulation
+5 scheduled by a legislative committee pursuant to subsection (3) or (4) of Section 2
+6 of this Act and subsection (8) of Section 5 of this Act shall be governed by this
+7 subsection and the voting requirements of subsection (9) of Section 5 of this Act.
+8 (a) A request to defer an informational review for an administrative regulation
+9 that was placed on the legislative committee's agenda may be granted if:
+10 1. The administrative body submits a written letter to the regulations
+11 compiler;
+12 2. The letter is received prior to the legislative committee meeting; and
+13 3. Approved by the presiding chair or chairs.
+14 (b) A request for deferral of an informational review for an administrative
+15 regulation may be granted at the discretion of the legislative committee if
+16 the request is made by the administrative body orally at a meeting of the
+17 legislative committee.
+18 (c) An informational review for an administrative regulation that is deferred
+19 may be placed on a subsequent agenda of the legislative committee.
+20 (6) Except as provided by KRS 13A.290(4), if a representative of an administrative
+21 body with authority to amend, defer, and answer questions about a filed[whose]
+22 administrative regulation that is on the agenda[is scheduled] for full review fails to
+23 appear before a legislative committee, the legislative committee in conformance
+24 with KRS 13A.290(9) may:
+25 (a) Defer the administrative regulation to a subsequent[the next regularly
+26 scheduled] meeting of the legislative committee; and[or]
+27 (b) Make a determination pursuant to KRS 13A.030(2), (3), and (4) or
+Page 28 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 13A.190(3).
+2 (7) If a representative of an administrative body with authority to defer and answer
+3 questions about an administrative regulation that was placed on the agenda for
+4 informational review pursuant to subsection (3) or (4) of Section 2 of this Act and
+5 subsection (8) of Section 5 of this Act fails to appear before the legislative
+6 committee, the legislative committee in conformance with subsection (9) of
+7 Section 5 of this Act may:
+8 (a) Defer the informational review for the administrative regulation to a
+9 subsequent meeting of the legislative committee; and
+10 (b) Make a determination pursuant to subsection (2), (3), and (4) of Section 2
+11 of this Act or KRS 13A.190(3).
+12 Section 7. KRS 13A.335 is amended to read as follows:
+13 (1) (a) A filed administrative regulation found deficient by a legislative committee
+14 shall not be considered deficient if:
+15 1. A subsequent amendment of that administrative regulation is filed with
+16 the Commission by the administrative body;
+17 2. The legislative committee that found the administrative regulation
+18 deficient approves a motion that the subsequent amendment corrects the
+19 deficiency; and
+20 3. The administrative regulation is not found deficient by any other
+21 legislative committee that reviews the administrative regulation under
+22 the provisions of KRS Chapter 13A[ finds that the administrative
+23 regulation is not deficient].
+24 (b) A filed administrative regulation found deficient by the Administrative
+25 Regulation Review Subcommittee shall not be considered deficient if:
+26 1. The administrative regulation is amended to correct the deficiency at a
+27 meeting of the legislative committee to which it was assigned by the
+Page 29 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 Commission;
+2 2. That legislative committee does not determine that the administrative
+3 regulation is deficient for any other reason; and
+4 3. The Administrative Regulation Review Subcommittee approves a
+5 motion that the deficiency has been corrected and that the administrative
+6 regulation should not be considered deficient.
+7 (c) A filed administrative regulation found deficient by a legislative committee[
+8 with subject matter jurisdiction] shall not be considered deficient if the
+9 legislative committee:
+10 1. Reconsiders the administrative regulation and its finding of deficiency;
+11 and
+12 2. Approves a motion that the administrative regulation is not deficient.
+13 (d) If an amendment to an effective administrative regulation is going through the
+14 KRS Chapter 13A promulgation process and is found deficient by a
+15 legislative committee, the administrative regulation shall not be considered
+16 deficient if the:
+17 1. Administrative regulation was found deficient due to the amendment;
+18 2. Promulgating administrative body has withdrawn the proposed
+19 amendment of the existing administrative regulation; and
+20 3. Regulations compiler has not received the Governor's determination
+21 pursuant to KRS 13A.330.
+22 (2) If an effective administrative regulation is found deficient by a legislative
+23 committee, the administrative regulation shall not be considered deficient if the
+24 legislative committee:
+25 (a) Reconsiders the administrative regulation and its finding of deficiency; and
+26 (b) Approves a motion that the administrative regulation is not deficient.
+27 (3) (a) If an administrative regulation has been found deficient by a legislative
+Page 30 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 committee, the regulations compiler shall add the following notice to the
+2 administrative regulation: "This administrative regulation was found deficient
+3 by the [name of legislative committee] on [date]." This notice shall be the last
+4 section of the administrative regulation.
+5 (b) If an administrative regulation has been found deficient by a legislative
+6 committee, subsequent amendments of that administrative regulation filed
+7 with the Commission shall contain the notice provided in paragraph (a) of this
+8 subsection.
+9 (c) If an administrative regulation that has been found deficient by a legislative
+10 committee has subsequently been determined not to be deficient under the
+11 provisions of this section, the regulations compiler shall delete the notice
+12 required by paragraph (a) of this subsection.
+13 Section 8. KRS 67.767 is amended to read as follows:
+14 (1) (a) The Secretary of State shall prescribe a standard form or forms, through
+15 promulgation of an administrative regulation, which shall be accepted by all
+16 tax districts and shall allow for returns of net profits and gross receipts
+17 occupational license taxes by all business entities unless the tax district opts
+18 out from acceptance in accordance with subsection (2) of this section or is
+19 exempted under subsection (3) of this section. The Secretary shall also
+20 develop and update as necessary instructions or a set of instructions for
+21 business entities on the completion of the standard form or forms so that
+22 business entities have the current information necessary to ensure the proper
+23 payment of the tax to each tax district.
+24 (b) The Secretary shall seek advice and comments on the development,
+25 amendment, and maintenance of the form or forms and instructions from an
+26 advisory committee chaired by the Secretary, or his or her designee, that is
+27 composed of a representative from the Kentucky Association of Counties, the
+Page 31 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 Kentucky League of Cities, the Kentucky Occupational License Association,
+2 the Kentucky School Boards Association, the Kentucky Society of Certified
+3 Public Accountants, urban-county governments, and consolidated local
+4 governments, and a representative of business entities appointed by the
+5 Secretary.
+6 (c) During the development of the proposed initial form or forms, the Secretary
+7 of State shall report in writing to the Interim Joint Committee on Local
+8 Government on the progress of the development process. When the proposed
+9 administrative regulation is filed with the Legislative Research Commission
+10 pursuant to KRS Chapter 13A, the Secretary of State shall also submit a copy
+11 thereof, via regular or electronic mail, to the members of the Interim Joint
+12 Committee on Local Government or, if during a session of the General
+13 Assembly, to the members of the House Standing Committee on Local
+14 Government and the Senate Standing Committee on State and Local
+15 Government. The submission to the members shall include a note from the
+16 Secretary of State stating that the members may submit any comments
+17 regarding the proposed administrative regulation in accordance with the
+18 deadline established in KRS 13A.270(1)(c).
+19 (d) Notwithstanding KRS 13A.290(6)(a), after full review by the Administrative
+20 Regulation Review Subcommittee, the Legislative Research Commission
+21 shall assign the administrative regulation to the Interim Joint Committee on
+22 Local Government for consideration or, if during a session of the General
+23 Assembly, to the House Standing Committee on Local Government and the
+24 Senate Standing Committee on State and Local Government.
+25 (e) Once the standard form or forms are adopted or amended, the Secretary of
+26 State shall include the form or forms, instructions, and any updates on the
+27 one-stop business portal or another public website[Web site] maintained by
+Page 32 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 that office along with information submitted to the Secretary of State pursuant
+2 to subsection (2) or (3) of this section. The form or forms and instructions
+3 shall be updated and maintained by the Secretary of State at no cost to the tax
+4 districts. No fee shall be levied against the public or businesses for accessing
+5 and downloading forms, instructions, or other information maintained by the
+6 Secretary of State under this section.
+7 (2) After the form or forms are adopted under subsection (1) of this section but prior to
+8 July 1, 2017, a tax district may adopt the standard form or forms as its exclusive
+9 return form or forms, may accept the standard form or forms in addition to the tax
+10 district's own return form or forms, or may elect to opt out of accepting the standard
+11 form or forms through adoption of a written order by the tax district's governing
+12 body. If a tax district elects not to accept the standard form or forms, it shall
+13 forward the following information to the Secretary of State for inclusion on the one-
+14 stop business portal or another public website[Web site] maintained by that office:
+15 (a) A copy of the written order specifying that the tax district will not accept the
+16 standard form or forms within thirty (30) days of its adoption; and
+17 (b) A copy of occupational license tax forms that the tax district accepts, any
+18 accompanying instructions, and any future amendments to those forms and
+19 instructions within thirty (30) days of any change.
+20 (3) After July 1, 2017, a tax district shall either adopt the standard form or forms as its
+21 exclusive return form or forms or accept the standard form or forms in addition to
+22 the tax district's own return form or forms, unless:
+23 (a) The tax district submits a written request approved by the tax district's
+24 governing body to the Secretary of State for an exemption based on
+25 documented information that acceptance of the form will impose an undue
+26 financial hardship on the tax district; and
+27 (b) The Secretary of State approves the request for an exemption and obtains the
+Page 33 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 return form or forms that will be accepted by the tax district and any
+2 applicable instructions for inclusion on the one-stop business portal or another
+3 public website[Web site] maintained by that office. In exercising his or her
+4 discretion to grant an exemption under this subsection, the Secretary of State
+5 may impose any reasonable terms and limitations upon the exemption.
+6 (4) Upon receipt of an order pursuant to subsection (2) of this section or upon the
+7 issuance of an exemption under subsection (3) of this section, the Secretary of State
+8 shall provide notice to the Kentucky Society of Certified Public Accountants of the
+9 tax districts that have submitted a written order to opt out under subsection (2) of
+10 this section or that are granted an exemption under subsection (3) of this section.
+11 (5) The Secretary of State shall, only upon the request of a tax district, include
+12 electronic links for the electronic filing of forms with the local tax district by no
+13 later than July 1, 2017.
+14 (6) Nothing in this section or KRS 67.766 shall be interpreted to alter or preempt the
+15 requirements imposed by a tax district regarding deadlines, reporting, rates, or other
+16 legally imposed procedures regarding the imposition, administration, and collection
+17 of local occupational license taxes by a tax district. Nor shall the adoption or use of
+18 a standard form or forms developed under this section release the taxpayer from any
+19 liability or responsibility to the tax district for the correct payment of taxes,
+20 penalties, and any other obligations imposed by the tax district. This section and
+21 KRS 67.766 shall not be interpreted to authorize the collection of local tax revenues
+22 by the state government or any other agency of the state.
+23 Section 9. Whereas it is essential that the public and the General Assembly
+24 promptly receive the necessary information to make informed decisions about
+25 administrative regulations, an emergency is declared to exist, and this Act takes effect
+26 upon its passage and approval by the Governor or upon its otherwise becoming a law.
+Page 34 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+[DELETED:   2  G A B S A ( " b m e s b b c c d C ( " r m e s o g a p l a n a r a e a r a a r i c o a s a t a o r ( S c o t i m o a a b ( D ( I ( S r t a o p f h p a s ( R p m u t p e s d i K 1 p s a ( " m t a a r h b e i a]
+[DELETED:   2  G ( " a ( " ( " c ( " o t r o p a a b t e i r a o ( " m c m a w s c t i ( " o " m t a a r o o d r t b f b t c h b s t t C ( " ( T s a t l s r b t c p t a ( A l c a t l s r b t c f a o a r b b e u a ( A l c a a e a r b r a a i a w s ( a ( o S ( " ( T w 1]
+[DELETED:   2  G ( T a r p t K 1 i t l s t ( " s R ( " c c l g s d o a q b ( " e i m a o n o a e i f a a r o f h t d ( a ( " ( H ( H ( " i a m a w s c t p ( " ( I ( 1 E e 2 H ( " i t r]
+[DELETED:   2  G ( " o ( " c ( " c S m e o f a m i b i n l t c o S ( T ( C l r a ( E a p b K 1 a 1 r a c u ( ( M r f c i s n s r o s a a r o t a o a b ( C a ( T ( T a e a r o a a r f 1 I]
+[DELETED:   2  G 2 A 3 A 4 A r 5 F 6 I 7 A t i a u b o g o s b 8 I f a a e a r w a j o t e n o t s a d i K 9 H n b n i c w t r o K 1 1 D o 1 W b t a u s ( o t s a t a a A b M c P o 1 A ( T o ( T ( T s m c a i r o a e]
+[DELETED:   2  G a r o a a r f w t C ( ( T a q o s d a i a r b t s i t p o i d u t c a n a 1 A 2 M 3 P 4 P a c o s 1 2 a 3 o t p ( E c o t s m r a b a a s ( A l f ( c d b a i r o a o a r t s s n t a a S ( ( I s a t o ( T 1 O f w]
+[DELETED:   2  G R 2 E a r s n b h b t t d o a t l w o t m i w t a  N a p h i a t t h m i s ( T a b s a w c r t a r d t c p T c p s b o t d t a r i f w t r 1 F t l d o c f t m i w t a o 2 F o t l d o t c m i w t a r ( E ( T ( T 1 N 2 W ( T b a s ( T d f s w c r t a]
+[DELETED:   2  G r ( T n p m a e a a t a f n o t p t w a n a w c ( ( A a 1 C t ( 2 C g w s d a m b t C ( A 1 I a A a r p b a a b b E a r t r t a s a T s a s b p b t a b a s b l o t c s g w 2 I o 3 B s f 4 B t t t p a b i t r w m t t c s g]
+[DELETED:   2  G w s f t p o t s a s n b s t p ( A b 1 T a R b P a e a a p o t r r 2 W i 3 W b a ( W f i t 1 A c l f t a b r t a i i 2 A c o t r i a r b K 1 c s a 3 A]
+[DELETED:   2  G f l C w s a s b i i t s ( A a b s n b r t s a c o a a r t w a a c i a w o t s u t p r a c p t K 1 ( ( I s b m b i b a a r t a b s e a c o t a r c A w o ( w d a t d t a r ( T t C o S B I a A r t a r ( c ( A a b s n b r t s a c o a a r t w a a c i a w K 1 t t C o S B I a A 1 ( ( I]
+[DELETED:   2  G a a a s f m ( T t a K d o ( A a b s n b r t s a c o a a r t w a a c i a w a ( P w w ( T i ( N w n o i t a t p h i r b t a a ( N p ( ( 1 U]
+[DELETED:   2  G h l 2 I h l t t p h w h a t n c w r ( U r ( ( I r b t r c b c o b o t s w o t c m f t e o t p c p s ( A t s o ( I a f a r i p o t a p t p r ( T b e ( E w s t]
+[DELETED:   2  G m i w c t p r t t s h t r u a a b f m a t o m a r i i s d ( N a r A r m b g a t c s S ( F c t a c r a t p h a a w c ( A r f b t C o S B I a A g ( A c r t a r m e i a d i K 1 a s b a l g ( ( E a p i p ( o t s t a b f p a ( I t a b h r a s n o p c 1 I]
+[DELETED:   2  G o c b f 2 T o c t n l t t f d o t s c m f ( ( I c i a 1 T o a f ( c o t a r i a a r f c r a t p b a T b T w o a e a r a a f a e a r t w a a a l c m p t K 1 2 T o a f ( c o t s o c a r o 3 T r i a t s f m c]
+[DELETED:   2  G r c r f a m a t p h ( T s t b ( A b t d e ( ( I t a r i n a a a r o t p h o a f ( c o t s o c w t r s o s ( I a f 1 T o a f ( c o t s o c a r 2 T e a a r i i t g o a ( A]
+[DELETED:   2  G b a a ( ( I c a r e a t p h o d t p c r s m o t s f t m i w ( A t r o p c m s b p o t s a 2 ( I a f a r i p o t a p t p r ( T ( T 1 b e ( i C o t s m b m r ( T m ( T C R T f b t n o t a r t w t s o t p h a c h A A]
+[DELETED:   2  G a ( I f 1 A h 2 A l o t p w a t h o w s c a 3 T n a t o t r o t p a ( F t g i t p a b s c E p 1 S t c 2 S ( s b l " a s c t r ( F s 1 S t s a t a t b t a b t 2 I a a t c p l t c m t t a r i t f p b K]
+[DELETED:   2  G 1 ( 1 I a r w c a a g a a p h o ( s o m i t g o a t a r i t g t s o t c a r s s e a r t w 2 E c ( I t a r i a p t s ( o t s t f t o t a r s b p i t A t i b a m i t f p b K 1 T a r s b r b t A R R ( I r c o t s o c a i a t a a c v o t a r s b m a o b S ( ( E a p b K 1 a 1 t A R R S s m m t r a c ( T 1 I e a r t c t p]
+[DELETED:   2  G c 2 I e a r f w a s o c f 3 I e e a r o a r f w t C t t s h d 4 I p 5 I m 6 i a a r t i d w e t ( ( R r a a a f w t a r T r o a t e a r s n b l t o t c p b t p a b ( T ( P S ( ( A o t a c s b p t e t a ( I a a]
+[DELETED:   2  G d t a f f r f t a b n p a t s n r s m o t s t s m 1 D t a r t t n r s m 2 M a d p t s ( ( a ( o S ( I a r o a a b w a t d a a q a a a e a r t w ( s 1 D n 2 M 1 ( F t m a b t n r s m o t C t C i f r o o c i d a a i A t ( ( A r b t A R R S t]
+[DELETED:   2  G C f 1 A s a s 2 N w s m j i t a r w s ( ( U n o t a b t C t l c r 1 O a 2 T ( ( W a p m d w t a r s b r ( I t o ( 1 I a t a s t t t S a H s c 2 I]
+[DELETED:   2  G c a a s o t G A a s d d t r p t a s t t t i j 3 A u t p A t s n e t r p e ( N o t t d a p o t m s b p i t l ( E e t A R R S i a p a r ( ( ( T s s a t a r f w t C ( A m o t e m o t l c s c ( I o t a a a r p t K 1 d a a r p t K 1 o f a a 1 a m o t e m o t l c A o a r d a a r o f a a 1 M]
+[DELETED:   2  G 2 M a m v o S m v a a m o H m o a ( ( T e b t ( A m t d t i r o a a e a b 1 A R 2 A l c i a w s ( o t s ( ( U a o t m a w a l c h c t i f r o o a t o t a r ( F C f r o o c i d a i w T l c f s b p i t A S]
+[DELETED:   2  G ( T t c o t a r b d b a l c ( T d o a a r s f f r b t A 2 f ( A C 1 T a b s a w l t t r c 2 T l i r b 1 n e t a l f ( c ( A r f d o a e a r o a e 1 T a b s a w l t t r c 2 T 3 A b t c o t A R R S ( A t r i m b t a b o a a m o t s ( T s m r t c o a a r o t r t p a b m a t d c]
+[DELETED:   2  G ( E r o r a r a i i h m a o r o f R ( 1 A s b p o t a p t s ( o ( o S 2 I s 1 o t p t f r o t f a s ( A t ( ( T d o a i r f a f o a r s b t A R R S p t s ( o 4 o S 5 o t A t a s l c o c p t K 1 s ( 1 A r t w p o t s a m b d 1 a b s a w l t t r c 2]
+[DELETED:   2  G m 3 A b t c o t A R R S ( A r f d m b g a t d o t s l c i t r i m b t a b o a a m o t s c [ T l c m r t c o a a b m ( 1 A i r f a a r t i d m r 2 I p o a s a w t r p t a p ( ( T d o a f o o e e a r a t a s a e a r u r b a l c o c f f r p b ( A 1 T a b s a w l t t r c]
+[DELETED:   2  G 2 T a P t t l c m f a e a b B t r 3 A ( A r f d m b g a t d o t s l a ( 1 A r t b 2 A b p o a s a o t l c o c 3 I f r i n p o a s a w t r p o ( 1 A s b p o t a f i r p t s ( o ( o S 2 o t A a s ( o S 2 I s 1 o t p t f r o t f]
+[DELETED:   2  G a r m b s b t l c p ( T d o a i r f a a r s o s ( A t 1 T a b s a w l t t r c 2 T 3 A ( A r f d o a i r f a a r t l ( A m ( E a K b a a b a l c t l c i c w ( D t a r t a s n r s ( M a d p t K 1 ( a ( o]
+[DELETED:   2  G 1 ( I q i s ( o S 5 o t A f t a b t l c t l c i c w s ( o S ( D t i r f t a r t a s ( M o S ( ( A s 1 A t 2 T l c t f t a r d d 3 T a r i n f d b a o l c t r t a r u t p o K C 1 f t t a r ( A f a r f d b t A R 1 T m a]
+[DELETED:   2  G C 2 T l c d n d t t a r 3 T A R R S a a m r ( A w s m j s n b c d i t l 1 R a 2 A ( I K C 1 p p a i f d b a l c t a r s n b c d 1 A 2 P a b h w t p a 3 R c h n r t G d p ( I a e a r i f d b a l c t a r s n b c d i t l ( R ( A ( ( I a a r h b f d b a l]
+[DELETED:   2  G c t r c s a t f n t t a b s ( I a a r h b f d b a l c s a o t a r f w s ( I c h s b d n t b d u t p o t s t r c s d t n r S ( ( T S o S s p a s f o f t p t d a s a f r o n p a g r o o e u s ( o t s T S s a d a u a n i o a s o i f b e o t c o t s f o f s t b p ( T S s s a a c o t d a a c]
+[DELETED:   2  G K t P A u g a c l g a a r o b e a b t S ( D o S s r i w t t I J C o L G a p t t I C o L G o i d a s o t G A t t m o t H S C o L G a t S S C o S a L G S o S s t t m m s a c r t p a r i a w t d ( N R R S t L R C s L G f c o i d a s o t G A S ( O S f t o]
+[DELETED:   2  G t t a s d a S ( A J r d f b I a t d e n t a t s f o f i s f s ( A s ( A c o o l t f t t t d a a a i ( A e t ( T t d s a w r a b t t d g b t t S o S f a e b o d f f ( T]
+[DELETED:   2  G r f o f t w b a b t t d a a a p d m ( U r o a o p t s ( o t s o u t i s t t ( T S o S s o u t r o a t d i e l ( N r l o a l o r t t t d f t c p o t p K b S p r t n i t m i d a a u]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 AN ACT relating to administrative regulations and declaring an emergency.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 13A.010 is amended to read as follows:
+4 As used in this chapter, unless the context otherwise requires:
+5 (1) "Administrative body" means each state board, bureau, cabinet, commission,
+6 department, authority, officer, or other entity, except the General Assembly and the
+7 Court of Justice, authorized by law to promulgate administrative regulations;
+8 (2) "Administrative regulation" means each statement of general applicability
+9 promulgated by an administrative body that implements, interprets, or prescribes
+10 law or policy, or describes the organization, procedure, or practice requirements of
+11 any administrative body. The term includes an existing administrative regulation, a
+12 new administrative regulation, an emergency administrative regulation, an
+13 administrative regulation in contemplation of a statute, and the amendment or
+14 repeal of an existing administrative regulation, but does not include:
+15 (a) Statements concerning only the internal management of an administrative
+16 body and not affecting private rights or procedures available to the public;
+17 (b) Declaratory rulings;
+18 (c) Intradepartmental memoranda not in conflict with KRS 13A.130;
+19 (d) Statements relating to acquisition of property for highway purposes and
+20 statements relating to the construction or maintenance of highways; or
+21 (e) Rules, regulations, and policies of the governing boards of institutions that
+22 make up the postsecondary education system defined in KRS 164.001
+23 pertaining to students attending or applicants to the institutions, to faculty and
+24 staff of the respective institutions, or to the control and maintenance of land
+25 and buildings occupied by the respective institutions;
+26 (3) "Adopted" means that an administrative regulation has become effective in
+27 accordance with the provisions of this chapter;
+Page 1 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 (4) "Authorizing signature" means the signature of the head of the administrative body
+2 authorized by statute to promulgate administrative regulations;
+3 (5) "Commission" means the Legislative Research Commission;
+4 (6) "Effective" means an administrative regulation that has completed the legislative
+5 committee review established by KRS 13A.290, 13A.330, and 13A.331;
+6 (7) "Federal mandate" means any federal constitutional, legislative, or executive law or
+7 order that requires or permits any administrative body to engage in regulatory
+8 activities that impose compliance standards, reporting requirements, recordkeeping,
+9 or similar responsibilities upon entities in the Commonwealth;
+10 (8) "Federal mandate comparison" means a written statement containing the
+11 information required by KRS 13A.245;
+12 (9) "Filed" or "promulgated" means that an administrative regulation, or other
+13 document required to be filed by this chapter, has been submitted to the
+14 Commission in accordance with this chapter;
+15 (10) "Full review" means that a filed administrative regulation is on an agenda for:
+16 (a) The subcommittee as the last step required by this chapter prior to
+17 assignment in accordance with subsection (6) of Section 5 of this Act;
+18 (b) A legislative committee as the last step required by this chapter for an
+19 ordinary administrative regulation before becoming effective upon
+20 adjournment in accordance with KRS 13A.331(1) and (2); or
+21 (c) A legislative committee as an emergency administrative regulation being
+22 reviewed after assignment in accordance with subsections (6) and (7) of
+23 Section 5 of this Act;
+24 (11) "Last effective date" means the latter of:
+25 (a) The most recent date an ordinary administrative regulation became effective,
+26 without including the date a technical amendment was made pursuant to KRS
+27 13A.040(10), 13A.2255(2), or 13A.312; or
+Page 2 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 (b) The date a certification letter was filed with the regulations compiler for that
+2 administrative regulation pursuant to KRS 13A.3104(4), if the letter stated
+3 that the administrative regulation shall remain in effect without amendment;
+4 (12)[(11)] "Legislative committee" means an interim joint committee, a House or Senate
+5 standing committee, a statutory committee, or a subcommittee of the Legislative
+6 Research Commission;
+7 (13)[(12)] "Local government" means and includes a city, county, urban-county, charter
+8 county, consolidated local government, special district, or a quasi-governmental
+9 body authorized by the Kentucky Revised Statutes or a local ordinance;
+10 (14)[(13)] "Major economic impact" means an overall negative or adverse economic
+11 impact from an administrative regulation of five hundred thousand dollars
+12 ($500,000) or more on state or local government or regulated entities, in aggregate,
+13 as determined by the promulgating administrative bodies;
+14 (15)[(14)] "Proposed administrative regulation" means an administrative regulation that:
+15 (a) Has been filed by an administrative body; and
+16 (b) Has not become effective or been withdrawn;
+17 (16)[(15)] "Regulatory impact analysis" means a written statement containing the
+18 provisions required by KRS 13A.240;
+19 (17)[(16)] "Small business" means a business entity, including its affiliates, that:
+20 (a) Is independently owned and operated; and
+21 (b) 1. Employs fewer than one hundred fifty (150) full-time employees or their
+22 equivalent; or
+23 2. Has gross annual sales of less than six million dollars ($6,000,000);
+24 (18)[(17)] "Statement of consideration" means the document required by KRS 13A.280
+25 in which the administrative body summarizes the comments received, its responses
+26 to those comments, and the action taken, if any, as a result of those comments and
+27 responses;
+Page 3 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 (19)[(18)] "Subcommittee" means the Administrative Regulation Review Subcommittee
+2 of the Legislative Research Commission;
+3 (20)[(19)] "Tiering" means the tailoring of regulatory requirements to fit the particular
+4 circumstances surrounding regulated entities; and
+5 (21)[(20)] "Written comments" means comments submitted to the administrative body's
+6 contact person identified pursuant to KRS 13A.220(6)(d) via hand delivery, United
+7 States mail, email[e-mail], or facsimile and may include but is not limited to
+8 comments submitted internally from within the promulgating administrative body
+9 or from another administrative body.
+10 Section 2. KRS 13A.030 is amended to read as follows:
+11 (1) The Administrative Regulation Review Subcommittee shall:
+12 (a) Conduct a continuous study as to whether additional legislation or changes in
+13 legislation are needed based on various factors, including[,] but not limited to,
+14 review of new, emergency, and existing administrative regulations, the lack of
+15 administrative regulations, and the needs of administrative bodies;
+16 (b) Except as provided by KRS 158.6471 and 158.6472, review and comment
+17 upon effective administrative regulations pursuant to subsections (2), (3), and
+18 (4) of this section or administrative regulations filed with the Commission;
+19 (c) Make recommendations for changes in statutes, new statutes, repeal of
+20 statutes affecting administrative regulations or the ability of administrative
+21 bodies to promulgate them; and
+22 (d) Conduct such other studies relating to administrative regulations as may be
+23 assigned by the Commission.
+24 (2) The subcommittee may make a determination:
+25 (a) That an effective administrative regulation or an administrative regulation
+26 filed with the Commission is deficient because it:
+27 1. Is wrongfully promulgated;
+Page 4 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 2. Appears to be in conflict with an existing statute;
+2 3. Appears to have no statutory authority for its promulgation;
+3 4. Appears to impose stricter or more burdensome state requirements than
+4 required by the federal mandate, without reasonable justification;
+5 5. Fails to use tiering when tiering is applicable;
+6 6. Is in excess of the administrative body's authority;
+7 7. Appears to impose an unreasonable burden on government or small
+8 business, or both;
+9 8. Is filed as an emergency administrative regulation without adequate
+10 justification of the emergency nature of the situation as described in
+11 KRS 13A.190(1);
+12 9. Has not been noticed in conformance with the requirements of KRS
+13 13A.270(3);
+14 10. Does not provide an adequate cost analysis pursuant to KRS 13A.250;[
+15 or]
+16 11. Was the subject of the subcommittee's instruction to an administrative
+17 body to appear under subsection (4) of this section and the
+18 administrative body failed to:
+19 a. Appear;
+20 b. Make a good faith effort to answer subcommittee questions; or
+21 c. Provide any information or data required by the subcommittee;
+22 or
+23 12. Appears to be deficient in any other manner;
+24 (b) That an administrative regulation is needed to implement an existing statute;
+25 or
+26 (c) That an administrative regulation should be amended or repealed.
+27 (3) The subcommittee may conduct an informational review of an effective
+Page 5 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 administrative regulation or an administrative regulation filed with the
+2 Commission if requested by a member of the subcommittee.
+3 (4) (a) The subcommittee may require any administrative body to appear before it to
+4 answer questions or submit data and information as required by the
+5 subcommittee in the performance of its duties under this chapter, and no
+6 administrative body shall fail to:
+7 1. Appear before the subcommittee;
+8 2. Make a good faith effort to answer subcommittee questions;
+9 3. Provide any[the] information or data required by the subcommittee; or
+10 4. Perform any combination of subparagraphs 1., 2., and 3. of this
+11 paragraph required by the subcommittee.
+12 (b) Either co-chair of the subcommittee may require action by an
+13 administrative body under paragraph (a) of this subsection on behalf of the
+14 subcommittee.
+15 (5) At least five (5) calendar days before an informational review of an ordinary
+16 administrative regulation, the subcommittee shall notify the affected
+17 administrative body.
+18 Section 3. KRS 13A.270 is amended to read as follows:
+19 (1) (a) In addition to the public comment period required by paragraph (c) of this
+20 subsection, following publication in the Administrative Register of the text of
+21 an administrative regulation, the administrative body shall, unless authorized
+22 to cancel the hearing pursuant to subsection (7) of this section, hold a hearing,
+23 open to the public, on the administrative regulation.
+24 (b) The public hearing for an:
+25 1. Ordinary administrative regulation shall not be held before the twenty-
+26 first day or after the last workday of the month following the month in
+27 which the administrative regulation is published in the Administrative
+Page 6 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 Register; or
+2 2. Emergency administrative regulation shall not be held before the
+3 twenty-first day or after the last workday of the month in which the
+4 administrative regulation is published in the Administrative Register.
+5 Nothing in this paragraph shall preclude the administrative body from holding
+6 additional public hearings in addition to the hearing mandated in
+7 subparagraph 1. or 2. of this paragraph.
+8 (c) The administrative body shall accept written comments regarding the
+9 administrative regulation during the comment period. The comment period
+10 shall begin on the date the administrative regulation is filed with the
+11 regulations compiler and:
+12 1. For an ordinary administrative regulation, shall run until 11:59 p.m. on
+13 the last day of the calendar month following the month in which the
+14 administrative regulation was published in the Administrative Register;
+15 or
+16 2. For an emergency administrative regulation, shall run until 11:59 p.m.
+17 on the last day of the calendar month in which the administrative
+18 regulation is published in the Administrative Register.
+19 (2) Each administrative regulation shall state:
+20 (a) The place, time, and date of the scheduled public hearing;
+21 (b) The manner in which interested persons shall submit their:
+22 1. Notification of attending the public hearing; and
+23 2. Written comments;
+24 (c) That notification of attending the public hearing shall be transmitted to the
+25 administrative body no later than five (5) workdays prior to the date of the
+26 scheduled public hearing;
+27 (d) The deadline for submitting written comments regarding the administrative
+Page 7 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 regulation in accordance with subsection (1)(c) of this section; and
+2 (e) The name, position, mailing address, email[e-mail] address, and telephone
+3 and facsimile numbers of the person to whom a notification and written
+4 comments shall be transmitted.
+5 (3) (a) A person who wishes to be notified that an administrative body has filed an
+6 administrative regulation shall:
+7 1. Contact the administrative body by telephone or written letter to request
+8 that the administrative body send the information required by paragraph
+9 (c) or (d) of this subsection to the person; or
+10 2. Complete an electronic registration form located on a centralized state
+11 government website[Web site] developed and maintained by the
+12 Commonwealth Office of Technology.
+13 (b) A registration submitted pursuant to paragraph (a) of this subsection shall:
+14 1. Indicate whether the person wishes to receive notification regarding:
+15 a. All administrative regulations promulgated by an administrative
+16 body; or
+17 b. Each administrative regulation that relates to a specified subject
+18 area. The subject areas shall be provided by the administrative
+19 bodies and shall be listed on the centralized state government
+20 website[Web site] in alphabetical order;
+21 2. Include a request for the person to provide an email[e-mail] address in
+22 order to receive regulatory information electronically;
+23 3. Be valid for a period of four (4) years from the date the registration is
+24 submitted, or until the person submits a written request to be removed
+25 from the notification list, whichever occurs first; and
+26 4. Be transmitted to the promulgating administrative body, if the
+27 registration was made through the centralized state government
+Page 8 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 website[Web site]. The collected email[e-mail] addresses shall be used
+2 solely for the purposes of this subsection and shall not be sold,
+3 transferred, or otherwise made available to third parties, other than the
+4 promulgating administrative body.
+5 (c) A copy of the administrative regulation as filed, and all attachments required
+6 by KRS 13A.230(1), shall be emailed[e-mailed]:
+7 1. To every person who has:
+8 a. Registered pursuant to paragraph (a) of this subsection; and
+9 b. Provided an email[e-mail] address as part of the registration
+10 request;
+11 2. Within five (5) working days after the date the administrative regulation
+12 is filed with the Commission; and
+13 3. With a request from the administrative body that affected individuals,
+14 businesses, or other entities submit written comments that identify the
+15 anticipated effects of the proposed administrative regulation.
+16 (d) Within five (5) working days after the date the administrative regulation is
+17 filed with the Commission, the administrative body shall mail the following
+18 information to every person who has registered pursuant to paragraph (a) of
+19 this subsection but did not provide an email[e-mail] address:
+20 1. A cover letter from the administrative body requesting that affected
+21 individuals, businesses, or other entities submit written comments that
+22 identify the anticipated effects of the proposed administrative regulation;
+23 2. A copy of the regulatory impact analysis required by KRS 13A.240
+24 completed in detail sufficient to put the individual on notice as to the
+25 specific contents of the administrative regulation, including all proposed
+26 amendments to the administrative regulation; and
+27 3. A statement that a copy of the administrative regulation may be obtained
+Page 9 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 from the Commission's website[Web site], which can be accessed on-
+2 line through public libraries or any computer with internet access. The
+3 Commission's website[Web site] address shall be included in the
+4 statement.
+5 (e) An administrative body shall not be required to send a copy of an
+6 administrative regulation that was amended after comments in accordance
+7 with KRS 13A.280 to persons who have registered pursuant to paragraph (a)
+8 of this subsection, unless the person requested a copy pursuant to KRS
+9 13A.280(8).
+10 (4) (a) If small business may be impacted by an administrative regulation, the
+11 administrative body shall email[e-mail] a copy of the administrative
+12 regulation as filed, and all attachments required by KRS 13A.230(1), to the
+13 chief executive officer of the Commission on Small Business Innovation and
+14 Advocacy within one (1) working day after the date the administrative
+15 regulation is filed with the Commission.
+16 (b) The email[e-mail] shall include a request from the administrative body that
+17 the Commission on Small Business Innovation and Advocacy review the
+18 administrative regulation in accordance with KRS 11.202(1)(e) and submit its
+19 report or comments in accordance with the deadline established in subsection
+20 (1)(c) of this section. A copy of the report shall be filed with the regulations
+21 compiler.
+22 (c) An administrative body shall not be required to send a copy of an
+23 administrative regulation that was amended after comments in accordance
+24 with KRS 13A.280 to the Commission on Small Business Innovation and
+25 Advocacy, unless its chief executive officer requested a copy pursuant to KRS
+26 13A.280(8).
+27 (5) (a) If a local government may be impacted by an administrative regulation, the
+Page 10 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 administrative body shall send, by email[e-mail] if the local government has
+2 an email[e-mail] address, a copy of the administrative regulation as filed and
+3 all attachments required by KRS 13A.230(1) to each local government in the
+4 state within one (1) working day after the date the administrative regulation is
+5 filed with the Commission. If the local government does not have an email[e-
+6 mail] address, the material shall not be sent.
+7 (b) The email[e-mail] shall include a request from the administrative body that
+8 the local government review the administrative regulation in the same manner
+9 as would the Commission on Small Business Innovation and Advocacy under
+10 KRS 11.202(1)(e), and submit its report or comments in accordance with the
+11 deadline established in subsection (1)(c) of this section. A copy of the report
+12 or comments shall be filed with the regulations compiler.
+13 (c) An administrative body shall not be required to send a copy of an
+14 administrative regulation that was amended after comments in accordance
+15 with KRS 13A.280 to a local government, unless its contact person requested
+16 a copy pursuant to KRS 13A.280(8).
+17 (6) Persons desiring to be heard at the hearing shall notify the administrative body in
+18 writing as to their desire to appear and testify at the hearing not less than five (5)
+19 workdays before the scheduled date of the hearing.
+20 (7) The administrative body shall immediately notify the regulations compiler by letter
+21 if:
+22 (a) No written notice of intent to attend the public hearing is received by the
+23 administrative body at least five (5) workdays before the scheduled hearing,
+24 and it chooses to cancel the public hearing; and
+25 (b) No written comments have been received by the close of the last day of the
+26 public comment period.
+27 (8) (a) 1. Upon receipt from interested persons of their intent to attend a public
+Page 11 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 hearing, the administrative body shall notify the regulations compiler by
+2 letter that the public hearing shall be held.
+3 2. If the public hearing is held but no comments are received during the
+4 hearing, the administrative body shall notify the regulations compiler by
+5 letter that the public hearing was held and that no comments were
+6 received.
+7 (b) Upon receipt of written comments, the administrative body shall notify the
+8 regulations compiler by letter that written comments have been received.
+9 (9) (a) If the notifications required by subsections (7) and (8) of this section are not
+10 received by the regulations compiler by close of business on the second
+11 workday of the calendar month following the end of the public comment
+12 period, the administrative regulation shall be deferred to the next regularly
+13 scheduled meeting of the subcommittee.
+14 (b) A filed administrative regulation that is deferred under this subsection due
+15 to failure to timely notify the regulations compiler may still be placed on the
+16 subcommittee's agenda for informational review pursuant to subsection (3)
+17 or (4) of Section 2 of this Act.
+18 (c) If a filed administrative regulation is placed on the agenda pursuant to
+19 paragraph (b) of this subsection, the full review of the filed administrative
+20 regulation shall still be deferred in accordance with this subsection.
+21 (10) The notifications required by subsections (7) and (8) of this section shall be made
+22 by letter. The letter may be sent by email[e-mail] if the administrative body uses an
+23 electronic signature and letterhead for the emailed[e-mailed] document.
+24 (11) Every hearing shall be conducted in such a manner as to guarantee each person who
+25 wishes to offer comment a fair and reasonable opportunity to do so, whether or not
+26 such person has given the notice contemplated by subsection (6) of this section. No
+27 transcript need be taken of the hearing, unless a written request for a transcript is
+Page 12 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 made, in which case the person requesting the transcript shall have the
+2 responsibility of paying for same. A recording may be made in lieu of a transcript
+3 under the same terms and conditions as a transcript. This section shall not preclude
+4 an administrative body from making a transcript or making a recording if it so
+5 desires.
+6 (12) Nothing in this section shall be construed as requiring a separate hearing on each
+7 administrative regulation. Administrative regulations may be grouped at the
+8 convenience of the administrative body for purposes of hearings required by this
+9 section.
+10 Section 4. KRS 13A.280 is amended to read as follows:
+11 (1) Following the last day of the comment period, the administrative body shall give
+12 consideration to all comments received at the public hearing and all written
+13 comments received during the comment period, including:
+14 (a) Any report filed by the Commission on Small Business Innovation and
+15 Advocacy in accordance with KRS 11.202(1)(e) and 13A.270(4), or by a local
+16 government in accordance with KRS 11.202(1)(e) and 13A.270(5); and
+17 (b) Any comments regarding the administrative regulation's major economic
+18 impact, as defined in KRS 13A.010, as submitted by agencies, local
+19 governments, or regulated entities.
+20 (2) (a) Except as provided in paragraph (b) of this subsection, the administrative
+21 body shall file with the commission on or before 12 noon, eastern time, on the
+22 fifteenth day of the calendar month following the end of the public comment
+23 period the statement of consideration relating to the administrative regulation
+24 and, if applicable, the amended after comments version.
+25 (b) If the administrative body has received a significant number of public
+26 comments:
+27 1. It may extend the time for filing the statement of consideration for an
+Page 13 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 ordinary administrative regulation and, if applicable, the amended after
+2 comments version by notifying the regulations compiler in writing on or
+3 before 12 noon, eastern time, on the fifteenth day of the calendar month
+4 following the end of the public comment period; and
+5 2. The administrative body shall file the statement of consideration for an
+6 ordinary administrative regulation and, if applicable, the amended after
+7 comments version, with the Commission on or before 12 noon, eastern
+8 time, no later than the fifteenth day of the second calendar month
+9 following the end of the public comment period.
+10 (3) (a) If the administrative regulation is amended as a result of the hearing or written
+11 comments received, the administrative body shall forward the items specified
+12 in this paragraph to the regulations compiler by 12 noon, eastern time, on the
+13 applicable deadline specified in subsection (2) of this section:
+14 1. The original and five (5) copies of the administrative regulation
+15 indicating any amendments resulting from comments received at the
+16 public hearing and during the comment period. The amendments shall
+17 be indicated in:
+18 a. The original wording for an ordinary administrative regulation; or
+19 b. The wording of an emergency administrative regulation as
+20 amended, for an emergency administrative regulation that was
+21 amended at a legislative committee meeting pursuant to KRS
+22 13A.190(3);
+23 2. The original and five (5) copies of the statement of consideration as
+24 required by subsection (2) of this section, attached to the back of the
+25 original and each copy of the administrative regulation; and
+26 3. The regulatory impact analysis, tiering statement, federal mandate
+27 comparison, or fiscal note on local government. These documents shall
+Page 14 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 reflect changes resulting from amendments made after the public
+2 hearing.
+3 (b) The original and four (4) copies of the amended after comments version, the
+4 statement of consideration, and the attachments required by paragraph (a)3. of
+5 this subsection shall be stapled in the top left corner. The fifth copy shall not
+6 be stapled.
+7 (c) At the same time as, or prior to, filing the paper version, the administrative
+8 body shall file an electronic version of the amended after comments version,
+9 the statement of consideration, and the required attachments saved as a single
+10 document for each amended after comments administrative regulation in an
+11 electronic format approved by the regulations compiler.
+12 (4) (a) If the administrative regulation is not amended as a result of the public
+13 hearing, or written comments received, the administrative body shall file the
+14 original and five (5) copies of the statement of consideration with the
+15 regulations compiler by 12 noon, eastern time, on the deadline established in
+16 subsection (2) of this section. The original and four (4) copies of the statement
+17 of consideration shall be stapled in the top left corner. The fifth copy of each
+18 statement of consideration shall not be stapled.
+19 (b) If the statement of consideration covers multiple administrative regulations, as
+20 authorized by subsection (6)(g)1. of this section, the administrative body shall
+21 file with the regulations compiler:
+22 1. The original and five (5) copies of the statement of consideration as
+23 required by paragraph (a) of this subsection; and
+24 2. Two (2) additional unstapled copies of the statement of consideration for
+25 each additional administrative regulation included in the group of
+26 administrative regulations.
+27 (c) At the same time as, or prior to, filing the paper version, the administrative
+Page 15 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 body shall file an electronic version of the statement of consideration saved as
+2 a single document for each statement of consideration in an electronic format
+3 approved by the regulations compiler.
+4 (5) (a) If comments are received either at the public hearing or during the public
+5 comment period, the administrative regulation shall be deferred to the next
+6 regularly scheduled meeting of the subcommittee following the month in
+7 which the statement of consideration is due.
+8 (b) A filed administrative regulation that is deferred under this subsection due
+9 to receipt of public comments may still be placed on the subcommittee's
+10 agenda for informational review pursuant to subsection (3) or (4) of Section
+11 2 of this Act.
+12 (c) If a filed administrative regulation is placed on the agenda pursuant to
+13 paragraph (a) of this subsection, the full review of the filed administrative
+14 regulation shall still be deferred in accordance with this subsection.
+15 (6) The format for the statement of consideration shall be as follows:
+16 (a) The statement shall be typewritten on white paper, size eight and one-half (8-
+17 1/2) by eleven (11) inches. Copies of the statement may be mechanically
+18 reproduced;
+19 (b) The first page of the statement of consideration shall have a two (2) inch top
+20 margin;
+21 (c) The heading of the statement shall consist of the words "STATEMENT OF
+22 CONSIDERATION RELATING TO" followed by the number of the
+23 administrative regulation that was the subject of the public hearing and
+24 comment period and the name of the promulgating administrative body. The
+25 heading shall be centered. This shall be followed by the words "Not Amended
+26 After Comments," "Emergency Not Amended After Comments," "Amended
+27 After Comments," or "Emergency Amended After Comments," whichever is
+Page 16 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 applicable;
+2 (d) If a hearing has been held or written comments received, the heading is to be
+3 followed by:
+4 1. A statement setting out the date, time and place of the hearing, if the
+5 hearing was held;
+6 2. A list of those persons who attended the hearing or who submitted
+7 comments and the organization, agency, or other entity represented, if
+8 applicable; and
+9 3. The name and title of the representative of the promulgating
+10 administrative body;
+11 (e) Following the general information, the promulgating administrative body
+12 shall summarize the comments received at the public hearing and during the
+13 comment period and the response of the promulgating administrative body.
+14 Each subject commented upon shall be summarized in a separate numbered
+15 paragraph. Each numbered paragraph shall contain two (2) subsections:
+16 1. Subsection (a) shall be labeled "Comment," shall identify the name of
+17 the person, and the organization represented if applicable, who made the
+18 comment, and shall contain a summary of the comment; and
+19 2. Subsection (b) shall be labeled "Response" and shall contain the
+20 response to the comment by the promulgating administrative body;
+21 (f) Following the summary and comments, the promulgating administrative body
+22 shall:
+23 1. Summarize the statement and the action taken by the administrative
+24 body as a result of comments received at the public hearing and during
+25 the comment period; and
+26 2. If amended after the comment period, list the changes made to the
+27 administrative regulation in the format prescribed by KRS
+Page 17 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 13A.320(2)(c) and (d); and
+2 (g) 1. If administrative regulations were considered as a group at a public
+3 hearing, one (1) statement of consideration may include the group of
+4 administrative regulations. If a comment relates to one (1) or more of
+5 the administrative regulations in the group, the summary of the
+6 comment and response shall specify each administrative regulation to
+7 which it applies.
+8 2. Emergency administrative regulations shall be in a separate statement of
+9 consideration from ordinary administrative regulations.
+10 (7) If the administrative regulation is amended pursuant to subsection (3) of this
+11 section, the full text of the administrative regulation shall be published in the
+12 Administrative Register. The changes made to the administrative regulation shall be
+13 typed in bold and made in the format prescribed by KRS 13A.222(2). The
+14 administrative regulation shall be reviewed by the Administrative Regulation
+15 Review Subcommittee after such publication.
+16 (8) If requested, copies of the statement of consideration and, if applicable, the
+17 amended after comments version of the administrative regulation shall be made
+18 available by the promulgating administrative body to persons attending the hearing
+19 or submitting comments or who specifically request a copy from the administrative
+20 body.
+21 Section 5. KRS 13A.290 is amended to read as follows:
+22 (1) (a) Except as provided by KRS 158.6471 and 158.6472, the Administrative
+23 Regulation Review Subcommittee shall meet monthly to review
+24 administrative regulations prior to close of business on the fifteenth day of the
+25 calendar month.
+26 (b) The agenda shall:
+27 1. Include each administrative regulation that completed the public
+Page 18 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 comment process;
+2 2. Include each administrative regulation for which a statement of
+3 consideration was received on or before 12 noon, eastern time, on the
+4 fifteenth day of the prior calendar month;
+5 3. Include each effective administrative regulation or administrative
+6 regulation filed with the Commission that the subcommittee has
+7 decided to review pursuant to subsection (3) of Section 2 of this Act;
+8 4. Include each administrative regulation required to be on the agenda
+9 pursuant to subsection (4) of Section 2 of this Act;
+10 5. Include each administrative regulation that was deferred from the prior
+11 month's meeting of the subcommittee; and
+12 6.[5.] Not include an administrative regulation that is deferred, withdrawn,
+13 expired, or automatically taken off the agenda under the provisions of
+14 this chapter, unless it is being reviewed pursuant to subsection (3) or
+15 (4) of Section 2 of this Act.
+16 (c) Review of an administrative regulation shall include the entire administrative
+17 regulation and all attachments filed with the administrative regulation. The
+18 review of amendments to existing administrative regulations shall not be
+19 limited to only the changes proposed by the promulgating administrative
+20 body.
+21 (2) The meetings shall be open to the public.
+22 (3) Public notice of the time, date, and place of the Administrative Regulation Review
+23 Subcommittee meeting shall be given in the Administrative Register.
+24 (4) (a) A representative of the administrative body for an administrative regulation
+25 on the agenda[under consideration] shall be present to explain the
+26 administrative regulation and to answer questions thereon.
+27 (b) If a representative of an[the] administrative body with authority to amend,
+Page 19 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 defer, and answer questions about a filed administrative regulation that is on
+2 the agenda for full review fails to appear before[is not present at the
+3 subcommittee meeting, the administrative regulation shall be deferred to the
+4 next regularly scheduled meeting of] the subcommittee, the subcommittee
+5 may:
+6 1. Defer the administrative regulation to the next regularly scheduled
+7 meeting of the subcommittee; and
+8 2. Make a determination pursuant to subsections (2), (3), and (4) of
+9 Section 2 of this Act or KRS 13A.190(3).
+10 (c) If a representative of an administrative body with authority to defer and
+11 answer questions about an[for an effective] administrative regulation that
+12 was placed on the agenda for informational review pursuant to subsection
+13 (3) or (4) of Section 2 of this Act fails to appear before the subcommittee, the
+14 subcommittee may:
+15 1. Defer the informational review of the administrative regulation to the
+16 next regularly scheduled meeting of the subcommittee; and[or]
+17 2. Make a determination pursuant to KRS 13A.030(2), (3), and (4), or KRS
+18 13A.190(3).
+19 (5) Following the meeting and before the next regularly scheduled meeting of the
+20 Commission, the Administrative Regulation Review Subcommittee shall forward to
+21 the Commission its findings, recommendations, or other comments it deems
+22 appropriate in writing.[ The Administrative Regulation Review Subcommittee shall
+23 also forward to the Commission its findings, recommendations, or other comments
+24 it deems appropriate on an effective administrative regulation it has reviewed.] The
+25 Administrative Regulation Review Subcommittee's findings shall be published in
+26 the Administrative Register.
+27 (6) (a) After review by the Administrative Regulation Review Subcommittee, the
+Page 20 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 Commission shall, on the first Wednesday of the following month, or if the
+2 first Wednesday is a legal holiday, the next workday of the month:[,]
+3 1. Assign a filed administrative regulation to a legislative committee with
+4 subject matter jurisdiction if the administrative regulation was on the
+5 agenda for full review pursuant to subsection (1)(b)1., 2., or 5. of this
+6 section; and
+7 2. Not assign a filed administrative regulation to a legislative committee
+8 with subject matter jurisdiction if the administrative regulation was
+9 solely on the agenda for informational review pursuant to subsection
+10 (3) or (4) of Section 2 of this Act.
+11 (b) Upon notification of the assignment by the Commission, the legislative
+12 committee to which the administrative regulation is assigned shall notify the
+13 regulations compiler:
+14 1. Of the date, time, and place of the meeting at which it will consider the
+15 administrative regulation; or
+16 2. That it will not meet to consider the administrative regulation.
+17 (7) (a) Within ninety (90) days of the assignment, the legislative committee may hold
+18 a public meeting during which the administrative regulation shall be
+19 reviewed.
+20 (b) If the ninetieth day of the assignment falls on a Saturday, Sunday, or holiday,
+21 the deadline for review shall be the workday following the Saturday, Sunday,
+22 or holiday.
+23 (c) 1. If the administrative regulation is assigned to an interim joint committee
+24 and a session of the General Assembly begins during the review period,
+25 the assignment shall transfer to the Senate and House standing
+26 committees with subject matter jurisdiction.
+27 2. If the administrative regulation is assigned to Senate and House standing
+Page 21 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 committees and a session of the General Assembly adjourns sine die
+2 during the review period, the assignment shall transfer to the interim
+3 joint committee with subject matter jurisdiction.
+4 3. An administrative regulation may be transferred more than one (1) time
+5 under this paragraph. A transfer shall not extend the review period
+6 established by this subsection.
+7 (d) Notice of the time, date, and place of the meeting shall be placed in the
+8 legislative calendar.
+9 (8) Except as provided in subsection (9) of this section, a legislative committee shall be
+10 empowered to make the same determinations and to exercise the same authority as
+11 the Administrative Regulation Review Subcommittee, including all powers and
+12 restrictions relating to informational reviews conducted under subsection (3) or
+13 (4) of Section 2 of this Act.
+14 (9) (a) This subsection shall apply to administrative regulations filed with the
+15 Commission and reviewed pursuant to subsection (7) of this section.
+16 (b) A majority of the entire membership of the legislative committee shall
+17 constitute a quorum for purposes of reviewing administrative regulations.
+18 (c) In order to amend an administrative regulation pursuant to KRS 13A.320,
+19 defer an administrative regulation pursuant to KRS 13A.300, or find an
+20 administrative regulation deficient pursuant to KRS 13A.030(2), (3), or (4) or
+21 13A.190(3), the motion to amend, defer, or find deficient shall be approved by
+22 a majority of the entire membership of the legislative committee.
+23 Additionally, during a session of the General Assembly, standing committees
+24 of the Senate and House of Representatives shall agree in order to amend an
+25 administrative regulation, defer an administrative regulation, or find an
+26 administrative regulation deficient by:
+27 1. Meeting separately; or
+Page 22 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 2. Meeting jointly. If the standing committees meet jointly, it shall require
+2 a majority vote of Senate members voting and a majority of House
+3 members voting, as well as the majority vote of the entire membership
+4 of the standing committees meeting jointly, in order to take action on the
+5 administrative regulation.
+6 (10) (a) The quorum requirements of subsection (9)(b) of this section shall apply to an
+7 effective or filed administrative regulation that is under informational review
+8 by a legislative committee pursuant to subsection (3) or (4) of Section 2 of
+9 this Act and subsection (8) of this section.
+10 (b) A motion to defer the informational review of an[find an effective]
+11 administrative regulation or find the administrative regulation deficient shall
+12 be approved by:
+13 1. A majority of the entire membership of the Administrative Regulation
+14 Review Subcommittee; or
+15 2. A legislative committee in accordance with subsection (9)(c) of this
+16 section.
+17 (11) (a) Upon adjournment of the meeting at which a legislative committee has
+18 considered an administrative regulation pursuant to subsection (7) or (10) of
+19 this section, the legislative committee shall inform the regulations compiler of
+20 its findings, recommendations, or other action taken on the administrative
+21 regulation.
+22 (b) Following the meeting and before the next regularly scheduled meeting of the
+23 Commission, the legislative committee shall forward to the Commission its
+24 findings, recommendations, or other comments it deems appropriate in
+25 writing. The legislative committee's findings shall be published in the
+26 Administrative Register.
+27 Section 6. KRS 13A.300 is amended to read as follows:
+Page 23 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 (1) The administrative body that promulgated an administrative regulation may request
+2 that consideration of the administrative regulation be deferred by a legislative
+3 committee.
+4 (2) The deferral of an administrative regulation scheduled for full review by the
+5 Administrative Regulation Review Subcommittee pursuant to subsection (1)(b)1.,
+6 2., or 5. of Section 5 of this Act shall be governed by KRS 13A.020(4) and the
+7 following:
+8 (a) A request for deferral of an ordinary administrative regulation filed with the
+9 Commission shall be automatically granted if:
+10 1. The administrative body submits a written letter to the regulations
+11 compiler; and
+12 2. The letter is received by 12 noon, eastern time, at least five (5)
+13 calendar days prior to the subcommittee meeting;
+14 (b) A request for deferral of an[ effective administrative regulation or an]
+15 emergency administrative regulation may be granted if:
+16 1. The administrative body submits a written letter to the regulations
+17 compiler;
+18 2. The letter is received prior to the subcommittee meeting; and
+19 3. Approved by the co-chairs of the Administrative Regulation Review
+20 Subcommittee;
+21 (c) A request for deferral may be granted at the discretion of the subcommittee if
+22 the request is made by the administrative body orally at a meeting of the
+23 subcommittee;
+24 (d) The subcommittee may request that consideration of an administrative
+25 regulation be deferred by the promulgating administrative body. Upon receipt
+26 of the request, the promulgating administrative body may agree to defer
+27 consideration of the administrative regulation;
+Page 24 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 (e) Except as provided in paragraph (g)[(f)] of this subsection, an administrative
+2 regulation that has been deferred for full review shall be placed on the agenda
+3 of the next scheduled meeting of the subcommittee. [If it is an administrative
+4 regulation filed with the Commission, ]The subcommittee shall consider the
+5 administrative regulation as if it had met all other requirements of filing.
+6 Repromulgation shall not be required in those cases;[ and]
+7 (f) 1. A filed administrative regulation deferred under this subsection may
+8 still be placed on the agenda pursuant to subsection (3) or (4) of
+9 Section 2 of this Act for informational review.
+10 2. If a filed administrative regulation is placed on the agenda pursuant to
+11 subparagraph 1. of this paragraph, the full review of the filed
+12 administrative regulation shall still be deferred in accordance with this
+13 subsection; and
+14 (g) An administrative regulation shall not be deferred under this subsection more
+15 than twelve (12) times.
+16 (3)[ (a)] The deferral of an informational review for an[a filed ordinary]
+17 administrative regulation scheduled by the Administrative Regulation Review
+18 Subcommittee pursuant to subsection (1)(b)3. or 4. of Section 5 of this
+19 Act[referred to a second legislative committee or committees pursuant to KRS
+20 13A.290(6) and (7)] shall be governed by KRS 13A.020(4) and the following:[this
+21 subsection and the voting requirements of KRS 13A.290(9).]
+22 (a)[(b) 1.] A request to defer an informational review for an administrative
+23 regulation that was placed on the subcommittee's agenda may be[for
+24 deferral shall be automatically] granted if:
+25 1.[a.] The administrative body submits a written letter to the regulations
+26 compiler;[ and]
+27 2.[b.] The letter is received prior to the subcommittee[legislative committee]
+Page 25 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 meeting; and
+2 3. Approved by the co-chairs of the Administrative Regulation Review
+3 Subcommittee;
+4 (b)[2.] A request for deferral may be granted at the discretion of the
+5 subcommittee[second legislative committee] if the request is made by the
+6 administrative body orally at a meeting of the subcommittee[legislative
+7 committee]; and
+8 [3. The legislative committee may request that consideration of an
+9 administrative regulation be deferred by the promulgating administrative
+10 body. Upon receipt of the request, the promulgating administrative body
+11 may agree to defer consideration of the administrative regulation.]
+12 (c)[ 1.] An informational review for an administrative regulation that is
+13 deferred may be placed on the[a subsequent] agenda of the next scheduled
+14 meeting of the subcommittee[legislative committee or committees within the
+15 review period.
+16 2. If a filed ordinary administrative regulation that has been deferred is not
+17 placed on a subsequent agenda within the review period, the
+18 administrative regulation shall take effect at the expiration of the review
+19 period].
+20 (4) (a) The deferral of a filed ordinary or emergency[an effective] administrative
+21 regulation assigned to a second[or an emergency administrative regulation
+22 under review by a] legislative committee or committees for full review
+23 pursuant to subsections (6) and (7) of Section 5 of this Act shall be governed
+24 by this subsection and the voting requirements of KRS 13A.290(9).
+25 (b) A request for deferral may be granted if:
+26 1. The administrative body submits a written letter to the regulations
+27 compiler;
+Page 26 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 2. The letter is received:
+2 a. Prior to the legislative committee meeting for an emergency
+3 administrative regulation; or
+4 b. By 12 noon, eastern time, at least five (5) calendar days prior to
+5 the legislative committee meeting for an ordinary administrative
+6 regulation; and
+7 3. Approved by the presiding chair or chairs.
+8 (c) A request for deferral may be granted at the discretion of the second
+9 legislative committee if the request is made by the administrative body orally
+10 at a meeting of the legislative committee.
+11 (d) 1. At a meeting of a legislative committee, the legislative committee may
+12 request that consideration of an administrative regulation be deferred by
+13 the administrative body. Upon receipt of the request, the administrative
+14 body may agree to defer consideration of the administrative regulation.
+15 2.[(e)] An administrative regulation that is deferred for full review may
+16 be placed on a subsequent agenda of the legislative committee or
+17 committees within the review period.
+18 3. If a filed ordinary administrative regulation that has been deferred for
+19 full review is not placed on a subsequent agenda within the review
+20 period, the administrative regulation shall take effect at the expiration
+21 of the review period.
+22 (e) 1. A filed administrative regulation deferred under this subsection may
+23 still be placed on the agenda for informational review pursuant to
+24 subsection (3) or (4) of Section 2 of this Act and subsection (8) of
+25 Section 5 of this Act; and
+26 2. If a filed administrative regulation is placed on the agenda pursuant to
+27 subparagraph 1. of this paragraph, the full review of the filed
+Page 27 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 administrative regulation may be scheduled by the legislative
+2 committee at a subsequent meeting during the ninety (90) day review
+3 period.
+4 (5) The deferral of an informational review for an administrative regulation
+5 scheduled by a legislative committee pursuant to subsection (3) or (4) of Section 2
+6 of this Act and subsection (8) of Section 5 of this Act shall be governed by this
+7 subsection and the voting requirements of subsection (9) of Section 5 of this Act.
+8 (a) A request to defer an informational review for an administrative regulation
+9 that was placed on the legislative committee's agenda may be granted if:
+10 1. The administrative body submits a written letter to the regulations
+11 compiler;
+12 2. The letter is received prior to the legislative committee meeting; and
+13 3. Approved by the presiding chair or chairs.
+14 (b) A request for deferral of an informational review for an administrative
+15 regulation may be granted at the discretion of the legislative committee if
+16 the request is made by the administrative body orally at a meeting of the
+17 legislative committee.
+18 (c) An informational review for an administrative regulation that is deferred
+19 may be placed on a subsequent agenda of the legislative committee.
+20 (6) Except as provided by KRS 13A.290(4), if a representative of an administrative
+21 body with authority to amend, defer, and answer questions about a filed[whose]
+22 administrative regulation that is on the agenda[is scheduled] for full review fails to
+23 appear before a legislative committee, the legislative committee in conformance
+24 with KRS 13A.290(9) may:
+25 (a) Defer the administrative regulation to a subsequent[the next regularly
+26 scheduled] meeting of the legislative committee; and[or]
+27 (b) Make a determination pursuant to KRS 13A.030(2), (3), and (4) or
+Page 28 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 13A.190(3).
+2 (7) If a representative of an administrative body with authority to defer and answer
+3 questions about an administrative regulation that was placed on the agenda for
+4 informational review pursuant to subsection (3) or (4) of Section 2 of this Act and
+5 subsection (8) of Section 5 of this Act fails to appear before the legislative
+6 committee, the legislative committee in conformance with subsection (9) of
+7 Section 5 of this Act may:
+8 (a) Defer the informational review for the administrative regulation to a
+9 subsequent meeting of the legislative committee; and
+10 (b) Make a determination pursuant to subsection (2), (3), and (4) of Section 2
+11 of this Act or KRS 13A.190(3).
+12 Section 7. KRS 13A.335 is amended to read as follows:
+13 (1) (a) A filed administrative regulation found deficient by a legislative committee
+14 shall not be considered deficient if:
+15 1. A subsequent amendment of that administrative regulation is filed with
+16 the Commission by the administrative body;
+17 2. The legislative committee that found the administrative regulation
+18 deficient approves a motion that the subsequent amendment corrects the
+19 deficiency; and
+20 3. The administrative regulation is not found deficient by any other
+21 legislative committee that reviews the administrative regulation under
+22 the provisions of KRS Chapter 13A[ finds that the administrative
+23 regulation is not deficient].
+24 (b) A filed administrative regulation found deficient by the Administrative
+25 Regulation Review Subcommittee shall not be considered deficient if:
+26 1. The administrative regulation is amended to correct the deficiency at a
+27 meeting of the legislative committee to which it was assigned by the
+Page 29 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 Commission;
+2 2. That legislative committee does not determine that the administrative
+3 regulation is deficient for any other reason; and
+4 3. The Administrative Regulation Review Subcommittee approves a
+5 motion that the deficiency has been corrected and that the administrative
+6 regulation should not be considered deficient.
+7 (c) A filed administrative regulation found deficient by a legislative committee[
+8 with subject matter jurisdiction] shall not be considered deficient if the
+9 legislative committee:
+10 1. Reconsiders the administrative regulation and its finding of deficiency;
+11 and
+12 2. Approves a motion that the administrative regulation is not deficient.
+13 (d) If an amendment to an effective administrative regulation is going through the
+14 KRS Chapter 13A promulgation process and is found deficient by a
+15 legislative committee, the administrative regulation shall not be considered
+16 deficient if the:
+17 1. Administrative regulation was found deficient due to the amendment;
+18 2. Promulgating administrative body has withdrawn the proposed
+19 amendment of the existing administrative regulation; and
+20 3. Regulations compiler has not received the Governor's determination
+21 pursuant to KRS 13A.330.
+22 (2) If an effective administrative regulation is found deficient by a legislative
+23 committee, the administrative regulation shall not be considered deficient if the
+24 legislative committee:
+25 (a) Reconsiders the administrative regulation and its finding of deficiency; and
+26 (b) Approves a motion that the administrative regulation is not deficient.
+27 (3) (a) If an administrative regulation has been found deficient by a legislative
+Page 30 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 committee, the regulations compiler shall add the following notice to the
+2 administrative regulation: "This administrative regulation was found deficient
+3 by the [name of legislative committee] on [date]." This notice shall be the last
+4 section of the administrative regulation.
+5 (b) If an administrative regulation has been found deficient by a legislative
+6 committee, subsequent amendments of that administrative regulation filed
+7 with the Commission shall contain the notice provided in paragraph (a) of this
+8 subsection.
+9 (c) If an administrative regulation that has been found deficient by a legislative
+10 committee has subsequently been determined not to be deficient under the
+11 provisions of this section, the regulations compiler shall delete the notice
+12 required by paragraph (a) of this subsection.
+13 Section 8. KRS 67.767 is amended to read as follows:
+14 (1) (a) The Secretary of State shall prescribe a standard form or forms, through
+15 promulgation of an administrative regulation, which shall be accepted by all
+16 tax districts and shall allow for returns of net profits and gross receipts
+17 occupational license taxes by all business entities unless the tax district opts
+18 out from acceptance in accordance with subsection (2) of this section or is
+19 exempted under subsection (3) of this section. The Secretary shall also
+20 develop and update as necessary instructions or a set of instructions for
+21 business entities on the completion of the standard form or forms so that
+22 business entities have the current information necessary to ensure the proper
+23 payment of the tax to each tax district.
+24 (b) The Secretary shall seek advice and comments on the development,
+25 amendment, and maintenance of the form or forms and instructions from an
+26 advisory committee chaired by the Secretary, or his or her designee, that is
+27 composed of a representative from the Kentucky Association of Counties, the
+Page 31 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 Kentucky League of Cities, the Kentucky Occupational License Association,
+2 the Kentucky School Boards Association, the Kentucky Society of Certified
+3 Public Accountants, urban-county governments, and consolidated local
+4 governments, and a representative of business entities appointed by the
+5 Secretary.
+6 (c) During the development of the proposed initial form or forms, the Secretary
+7 of State shall report in writing to the Interim Joint Committee on Local
+8 Government on the progress of the development process. When the proposed
+9 administrative regulation is filed with the Legislative Research Commission
+10 pursuant to KRS Chapter 13A, the Secretary of State shall also submit a copy
+11 thereof, via regular or electronic mail, to the members of the Interim Joint
+12 Committee on Local Government or, if during a session of the General
+13 Assembly, to the members of the House Standing Committee on Local
+14 Government and the Senate Standing Committee on State and Local
+15 Government. The submission to the members shall include a note from the
+16 Secretary of State stating that the members may submit any comments
+17 regarding the proposed administrative regulation in accordance with the
+18 deadline established in KRS 13A.270(1)(c).
+19 (d) Notwithstanding KRS 13A.290(6)(a), after full review by the Administrative
+20 Regulation Review Subcommittee, the Legislative Research Commission
+21 shall assign the administrative regulation to the Interim Joint Committee on
+22 Local Government for consideration or, if during a session of the General
+23 Assembly, to the House Standing Committee on Local Government and the
+24 Senate Standing Committee on State and Local Government.
+25 (e) Once the standard form or forms are adopted or amended, the Secretary of
+26 State shall include the form or forms, instructions, and any updates on the
+27 one-stop business portal or another public website[Web site] maintained by
+Page 32 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 that office along with information submitted to the Secretary of State pursuant
+2 to subsection (2) or (3) of this section. The form or forms and instructions
+3 shall be updated and maintained by the Secretary of State at no cost to the tax
+4 districts. No fee shall be levied against the public or businesses for accessing
+5 and downloading forms, instructions, or other information maintained by the
+6 Secretary of State under this section.
+7 (2) After the form or forms are adopted under subsection (1) of this section but prior to
+8 July 1, 2017, a tax district may adopt the standard form or forms as its exclusive
+9 return form or forms, may accept the standard form or forms in addition to the tax
+10 district's own return form or forms, or may elect to opt out of accepting the standard
+11 form or forms through adoption of a written order by the tax district's governing
+12 body. If a tax district elects not to accept the standard form or forms, it shall
+13 forward the following information to the Secretary of State for inclusion on the one-
+14 stop business portal or another public website[Web site] maintained by that office:
+15 (a) A copy of the written order specifying that the tax district will not accept the
+16 standard form or forms within thirty (30) days of its adoption; and
+17 (b) A copy of occupational license tax forms that the tax district accepts, any
+18 accompanying instructions, and any future amendments to those forms and
+19 instructions within thirty (30) days of any change.
+20 (3) After July 1, 2017, a tax district shall either adopt the standard form or forms as its
+21 exclusive return form or forms or accept the standard form or forms in addition to
+22 the tax district's own return form or forms, unless:
+23 (a) The tax district submits a written request approved by the tax district's
+24 governing body to the Secretary of State for an exemption based on
+25 documented information that acceptance of the form will impose an undue
+26 financial hardship on the tax district; and
+27 (b) The Secretary of State approves the request for an exemption and obtains the
+Page 33 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+
+UNOFFICIAL COPY 25 RS SB 23/GA
+1 return form or forms that will be accepted by the tax district and any
+2 applicable instructions for inclusion on the one-stop business portal or another
+3 public website[Web site] maintained by that office. In exercising his or her
+4 discretion to grant an exemption under this subsection, the Secretary of State
+5 may impose any reasonable terms and limitations upon the exemption.
+6 (4) Upon receipt of an order pursuant to subsection (2) of this section or upon the
+7 issuance of an exemption under subsection (3) of this section, the Secretary of State
+8 shall provide notice to the Kentucky Society of Certified Public Accountants of the
+9 tax districts that have submitted a written order to opt out under subsection (2) of
+10 this section or that are granted an exemption under subsection (3) of this section.
+11 (5) The Secretary of State shall, only upon the request of a tax district, include
+12 electronic links for the electronic filing of forms with the local tax district by no
+13 later than July 1, 2017.
+14 (6) Nothing in this section or KRS 67.766 shall be interpreted to alter or preempt the
+15 requirements imposed by a tax district regarding deadlines, reporting, rates, or other
+16 legally imposed procedures regarding the imposition, administration, and collection
+17 of local occupational license taxes by a tax district. Nor shall the adoption or use of
+18 a standard form or forms developed under this section release the taxpayer from any
+19 liability or responsibility to the tax district for the correct payment of taxes,
+20 penalties, and any other obligations imposed by the tax district. This section and
+21 KRS 67.766 shall not be interpreted to authorize the collection of local tax revenues
+22 by the state government or any other agency of the state.
+23 Section 9. Whereas it is essential that the public and the General Assembly
+24 promptly receive the necessary information to make informed decisions about
+25 administrative regulations, an emergency is declared to exist, and this Act takes effect
+26 upon its passage and approval by the Governor or upon its otherwise becoming a law.
+Page 34 of 34
+SB002310.100 - 422 - XXXX 2/7/2025 9:22 AM GA
+
+[DELETED:   2  G A B S A ( " b m e s b b c c d C ( " r m e s o g a p l a n a r a e a r a a r i c o a s a t a o r ( S c o t i m o a a b ( D ( I ( S r t a o p f h p a s ( R p m u t p e s d i K 1 p s a ( " m t a a r h b e i a]
+[DELETED:   2  G ( " a ( " ( " c ( " o t r o p a a b t e i r a o ( " m c m a w s c t i ( " o " m t a a r o o d r t b f b t c h b s t t C ( " ( T s a t l s r b t c p t a ( A l c a t l s r b t c f a o a r b b e u a ( A l c a a e a r b r a a i a w s ( a ( o S ( " ( T w 1]
+[DELETED:   2  G ( T a r p t K 1 i t l s t ( " s R ( " c c l g s d o a q b ( " e i m a o n o a e i f a a r o f h t d ( a ( " ( H ( H ( " i a m a w s c t p ( " ( I ( 1 E e 2 H ( " i t r]
+[DELETED:   2  G ( " o ( " c ( " c S m e o f a m i b i n l t c o S ( T ( C l r a ( E a p b K 1 a 1 r a c u ( ( M r f c i s n s r o s a a r o t a o a b ( C a ( T ( T a e a r o a a r f 1 I]
+[DELETED:   2  G 2 A 3 A 4 A r 5 F 6 I 7 A t i a u b o g o s b 8 I f a a e a r w a j o t e n o t s a d i K 9 H n b n i c w t r o K 1 1 D o 1 W b t a u s ( o t s a t a a A b M c P o 1 A ( T o ( T ( T s m c a i r o a e]
+[DELETED:   2  G a r o a a r f w t C ( ( T a q o s d a i a r b t s i t p o i d u t c a n a 1 A 2 M 3 P 4 P a c o s 1 2 a 3 o t p ( E c o t s m r a b a a s ( A l f ( c d b a i r o a o a r t s s n t a a S ( ( I s a t o ( T 1 O f w]
+[DELETED:   2  G R 2 E a r s n b h b t t d o a t l w o t m i w t a  N a p h i a t t h m i s ( T a b s a w c r t a r d t c p T c p s b o t d t a r i f w t r 1 F t l d o c f t m i w t a o 2 F o t l d o t c m i w t a r ( E ( T ( T 1 N 2 W ( T b a s ( T d f s w c r t a]
+[DELETED:   2  G r ( T n p m a e a a t a f n o t p t w a n a w c ( ( A a 1 C t ( 2 C g w s d a m b t C ( A 1 I a A a r p b a a b b E a r t r t a s a T s a s b p b t a b a s b l o t c s g w 2 I o 3 B s f 4 B t t t p a b i t r w m t t c s g]
+[DELETED:   2  G w s f t p o t s a s n b s t p ( A b 1 T a R b P a e a a p o t r r 2 W i 3 W b a ( W f i t 1 A c l f t a b r t a i i 2 A c o t r i a r b K 1 c s a 3 A]
+[DELETED:   2  G f l C w s a s b i i t s ( A a b s n b r t s a c o a a r t w a a c i a w o t s u t p r a c p t K 1 ( ( I s b m b i b a a r t a b s e a c o t a r c A w o ( w d a t d t a r ( T t C o S B I a A r t a r ( c ( A a b s n b r t s a c o a a r t w a a c i a w K 1 t t C o S B I a A 1 ( ( I]
+[DELETED:   2  G a a a s f m ( T t a K d o ( A a b s n b r t s a c o a a r t w a a c i a w a ( P w w ( T i ( N w n o i t a t p h i r b t a a ( N p ( ( 1 U]
+[DELETED:   2  G h l 2 I h l t t p h w h a t n c w r ( U r ( ( I r b t r c b c o b o t s w o t c m f t e o t p c p s ( A t s o ( I a f a r i p o t a p t p r ( T b e ( E w s t]
+[DELETED:   2  G m i w c t p r t t s h t r u a a b f m a t o m a r i i s d ( N a r A r m b g a t c s S ( F c t a c r a t p h a a w c ( A r f b t C o S B I a A g ( A c r t a r m e i a d i K 1 a s b a l g ( ( E a p i p ( o t s t a b f p a ( I t a b h r a s n o p c 1 I]
+[DELETED:   2  G o c b f 2 T o c t n l t t f d o t s c m f ( ( I c i a 1 T o a f ( c o t a r i a a r f c r a t p b a T b T w o a e a r a a f a e a r t w a a a l c m p t K 1 2 T o a f ( c o t s o c a r o 3 T r i a t s f m c]
+[DELETED:   2  G r c r f a m a t p h ( T s t b ( A b t d e ( ( I t a r i n a a a r o t p h o a f ( c o t s o c w t r s o s ( I a f 1 T o a f ( c o t s o c a r 2 T e a a r i i t g o a ( A]
+[DELETED:   2  G b a a ( ( I c a r e a t p h o d t p c r s m o t s f t m i w ( A t r o p c m s b p o t s a 2 ( I a f a r i p o t a p t p r ( T ( T 1 b e ( i C o t s m b m r ( T m ( T C R T f b t n o t a r t w t s o t p h a c h A A]
+[DELETED:   2  G a ( I f 1 A h 2 A l o t p w a t h o w s c a 3 T n a t o t r o t p a ( F t g i t p a b s c E p 1 S t c 2 S ( s b l " a s c t r ( F s 1 S t s a t a t b t a b t 2 I a a t c p l t c m t t a r i t f p b K]
+[DELETED:   2  G 1 ( 1 I a r w c a a g a a p h o ( s o m i t g o a t a r i t g t s o t c a r s s e a r t w 2 E c ( I t a r i a p t s ( o t s t f t o t a r s b p i t A t i b a m i t f p b K 1 T a r s b r b t A R R ( I r c o t s o c a i a t a a c v o t a r s b m a o b S ( ( E a p b K 1 a 1 t A R R S s m m t r a c ( T 1 I e a r t c t p]
+[DELETED:   2  G c 2 I e a r f w a s o c f 3 I e e a r o a r f w t C t t s h d 4 I p 5 I m 6 i a a r t i d w e t ( ( R r a a a f w t a r T r o a t e a r s n b l t o t c p b t p a b ( T ( P S ( ( A o t a c s b p t e t a ( I a a]
+[DELETED:   2  G d t a f f r f t a b n p a t s n r s m o t s t s m 1 D t a r t t n r s m 2 M a d p t s ( ( a ( o S ( I a r o a a b w a t d a a q a a a e a r t w ( s 1 D n 2 M 1 ( F t m a b t n r s m o t C t C i f r o o c i d a a i A t ( ( A r b t A R R S t]
+[DELETED:   2  G C f 1 A s a s 2 N w s m j i t a r w s ( ( U n o t a b t C t l c r 1 O a 2 T ( ( W a p m d w t a r s b r ( I t o ( 1 I a t a s t t t S a H s c 2 I]
+[DELETED:   2  G c a a s o t G A a s d d t r p t a s t t t i j 3 A u t p A t s n e t r p e ( N o t t d a p o t m s b p i t l ( E e t A R R S i a p a r ( ( ( T s s a t a r f w t C ( A m o t e m o t l c s c ( I o t a a a r p t K 1 d a a r p t K 1 o f a a 1 a m o t e m o t l c A o a r d a a r o f a a 1 M]
+[DELETED:   2  G 2 M a m v o S m v a a m o H m o a ( ( T e b t ( A m t d t i r o a a e a b 1 A R 2 A l c i a w s ( o t s ( ( U a o t m a w a l c h c t i f r o o a t o t a r ( F C f r o o c i d a i w T l c f s b p i t A S]
+[DELETED:   2  G ( T t c o t a r b d b a l c ( T d o a a r s f f r b t A 2 f ( A C 1 T a b s a w l t t r c 2 T l i r b 1 n e t a l f ( c ( A r f d o a e a r o a e 1 T a b s a w l t t r c 2 T 3 A b t c o t A R R S ( A t r i m b t a b o a a m o t s ( T s m r t c o a a r o t r t p a b m a t d c]
+[DELETED:   2  G ( E r o r a r a i i h m a o r o f R ( 1 A s b p o t a p t s ( o ( o S 2 I s 1 o t p t f r o t f a s ( A t ( ( T d o a i r f a f o a r s b t A R R S p t s ( o 4 o S 5 o t A t a s l c o c p t K 1 s ( 1 A r t w p o t s a m b d 1 a b s a w l t t r c 2]
+[DELETED:   2  G m 3 A b t c o t A R R S ( A r f d m b g a t d o t s l c i t r i m b t a b o a a m o t s c [ T l c m r t c o a a b m ( 1 A i r f a a r t i d m r 2 I p o a s a w t r p t a p ( ( T d o a f o o e e a r a t a s a e a r u r b a l c o c f f r p b ( A 1 T a b s a w l t t r c]
+[DELETED:   2  G 2 T a P t t l c m f a e a b B t r 3 A ( A r f d m b g a t d o t s l a ( 1 A r t b 2 A b p o a s a o t l c o c 3 I f r i n p o a s a w t r p o ( 1 A s b p o t a f i r p t s ( o ( o S 2 o t A a s ( o S 2 I s 1 o t p t f r o t f]
+[DELETED:   2  G a r m b s b t l c p ( T d o a i r f a a r s o s ( A t 1 T a b s a w l t t r c 2 T 3 A ( A r f d o a i r f a a r t l ( A m ( E a K b a a b a l c t l c i c w ( D t a r t a s n r s ( M a d p t K 1 ( a ( o]
+[DELETED:   2  G 1 ( I q i s ( o S 5 o t A f t a b t l c t l c i c w s ( o S ( D t i r f t a r t a s ( M o S ( ( A s 1 A t 2 T l c t f t a r d d 3 T a r i n f d b a o l c t r t a r u t p o K C 1 f t t a r ( A f a r f d b t A R 1 T m a]
+[DELETED:   2  G C 2 T l c d n d t t a r 3 T A R R S a a m r ( A w s m j s n b c d i t l 1 R a 2 A ( I K C 1 p p a i f d b a l c t a r s n b c d 1 A 2 P a b h w t p a 3 R c h n r t G d p ( I a e a r i f d b a l c t a r s n b c d i t l ( R ( A ( ( I a a r h b f d b a l]
+[DELETED:   2  G c t r c s a t f n t t a b s ( I a a r h b f d b a l c s a o t a r f w s ( I c h s b d n t b d u t p o t s t r c s d t n r S ( ( T S o S s p a s f o f t p t d a s a f r o n p a g r o o e u s ( o t s T S s a d a u a n i o a s o i f b e o t c o t s f o f s t b p ( T S s s a a c o t d a a c]
+[DELETED:   2  G K t P A u g a c l g a a r o b e a b t S ( D o S s r i w t t I J C o L G a p t t I C o L G o i d a s o t G A t t m o t H S C o L G a t S S C o S a L G S o S s t t m m s a c r t p a r i a w t d ( N R R S t L R C s L G f c o i d a s o t G A S ( O S f t o]
+[DELETED:   2  G t t a s d a S ( A J r d f b I a t d e n t a t s f o f i s f s ( A s ( A c o o l t f t t t d a a a i ( A e t ( T t d s a w r a b t t d g b t t S o S f a e b o d f f ( T]
+[DELETED:   2  G r f o f t w b a b t t d a a a p d m ( U r o a o p t s ( o t s o u t i s t t ( T S o S s o u t r o a t d i e l ( N r l o a l o r t t t d f t c p o t p K b S p r t n i t m i d a a u]

@@ -1,0 +1,490 @@
+Title: 1 AN ACT relating to state electrical standards for buildings.
+Official Title: 1 AN ACT relating to state electrical standards for buildings.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS BR 389
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 227.480 is amended to read as follows:
+4 (1) (a) A city, county, urban-county government, charter county, or consolidated
+5 local government or the state shall, according to the Uniform State Building
+6 Code as it pertains to the plan review and inspection responsibilities of local
+7 governments or the state, require any person to obtain a permit before
+8 commencing construction, alteration, or repairs of any electrical system.
+9 (b) The city, county, urban-county government, charter county, or consolidated
+10 local government or the state shall require all inspections that are deemed
+11 necessary by the department for the safety of life and property. The
+12 department shall promulgate administrative regulations to describe the
+13 circumstances where inspections are required.
+14 (2) A city, county, urban-county government, charter county, or consolidated local
+15 government or the state shall not issue a permit unless the applicant submits proof
+16 of being licensed as an electrical contractor under KRS Chapter 227A or of acting
+17 on behalf of a licensed electrical contractor. However, the provisions of this
+18 subsection shall not apply to:
+19 (a) A homeowner or farmer who does construction, alteration, or repairs of any
+20 electrical system on his or her own premises or any other person exempt from
+21 licensing under KRS 227A.030 or 227A.150;
+22 (b) Electrical work performed by the Commonwealth of Kentucky, a city, county,
+23 urban-county government, charter county, or consolidated local government,
+24 or any subdivision thereof;
+25 (c) A company with a recently deceased licensed electrical contractor, which
+26 shall be granted an interim period of up to one hundred eighty (180)
+27 continuous calendar days by the city, county, urban-county government,
+Page 1 of 8
+XXXX 12/3/2024 3:29 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 389
+1 charter county, consolidated local government, or state to allow the company
+2 to utilize the license of the deceased electrical contractor if:
+3 1. The company effectuates and documents all necessary bonding and
+4 insurance policies required by KRS Chapter 227A; and
+5 2. Ensures that the bonding and insurance policies remain in effect for the
+6 entirety of the interim period of time extended; or
+7 (d) A disaster response business as defined in KRS 141.010.
+8 (3) A city, county, urban-county government, charter county, or consolidated local
+9 government shall appoint and may fix the compensation of city, county, urban-
+10 county government, charter county, or consolidated local government electrical
+11 inspectors, and may by ordinance fix reasonable fees and establish other
+12 requirements for the conduct of electrical inspections within its boundaries. All
+13 electrical inspectors shall be certified under KRS 227.489.
+14 (4) Reasonable standards for the construction, alteration, and repair of any electrical
+15 system shall be those adopted in the Uniform State Building Code, as promulgated
+16 by the department, and shall be designed after and may be selected from the
+17 models offered by such model code agencies as the International Code Council,
+18 Inc., the National Fire Protection Association, and other nationally recognized
+19 organizations and[have as a minimum standard the requirements of the National
+20 Electrical Code, which] may include Kentucky amendments. These standards shall
+21 be used by the electrical inspector in making[ his] inspections.
+22 Section 2. KRS 198B.050 is amended to read as follows:
+23 (1) The department shall adopt and promulgate a mandatory Uniform State Building
+24 Code that establishes standards for the construction of all buildings, as defined in
+25 KRS 198B.010, in the state. The code shall provide that the review and approval, as
+26 necessary, of building plans for conformance with the Uniform State Building Code
+27 prior to construction approval shall be conducted only by the department or a local
+Page 2 of 8
+XXXX 12/3/2024 3:29 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 389
+1 government or governments delegated such responsibilities by this chapter, and any
+2 exceptions to this policy shall be explicitly stated in the code.
+3 (2) The code shall be comprehensive and shall include but not be limited to provisions
+4 for general construction; structural quality; mechanical systems to include heating,
+5 cooling, and ventilation; electrical systems; and life safety from hazards of fire,
+6 explosion, and other disasters, whether caused by acts of nature or man. The code
+7 shall encompass the Kentucky State Plumbing Code promulgated pursuant to KRS
+8 318.130, boiler rules and regulations issued pursuant to KRS 236.030, and the[
+9 national] electrical code.
+10 (3) This code shall be designed after and may be selected from the models offered by
+11 such model code agencies as the International Code Council, Inc., the National Fire
+12 Protection Association, and other nationally recognized organizations which may
+13 include governmental agencies. The code shall:
+14 (a) Provide uniform standards and requirements for construction and construction
+15 materials;
+16 (b) To the extent practicable, set forth standards, specifications, and requirements
+17 in terms of performance objectives, so as to facilitate the use of new
+18 technologies, techniques, and materials. The code shall not discriminate in
+19 favor of particular suppliers' materials, techniques, or technologies; and
+20 (c) Protect the public health, safety, and welfare within the state.
+21 (4) The code shall include provisions for the continuing review and possible adoption
+22 of new materials, technologies, and techniques in the building industry when
+23 deemed justified by the department to fulfill the purposes of this chapter. The
+24 department may adopt a model code promulgated by a model code agency only if
+25 that agency provides a method for democratic participation by the department and
+26 any local governments which may enforce the code, in a continuing review and
+27 possible adoption of new materials, technologies, and techniques in the building
+Page 3 of 8
+XXXX 12/3/2024 3:29 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 389
+1 industry.
+2 (5) The department shall promulgate administrative regulations, after notice in
+3 accordance with KRS Chapter 13A, which are necessary to implement the Uniform
+4 State Building Code or to carry out any other responsibility assigned to the
+5 department by this chapter.
+6 (6) The department shall monitor the effectiveness of agencies designated by local
+7 governments to enforce the provisions of the Uniform State Building Code.
+8 (7) If the department determines that an agency is not enforcing the provisions of the
+9 Uniform State Building Code, it shall determine where deficiencies exist. The
+10 department shall require the local government to correct the deficiencies within
+11 sixty (60) days and report to the department its method of correcting the
+12 deficiencies.
+13 (8) If the local government fails to correct the deficiencies, the department may
+14 preempt the local program as provided for in KRS 198B.060(4).
+15 (9) The department shall provide for the supply, including amendments and revisions
+16 thereto, of sufficient copies of the Uniform State Building Code for all interested
+17 parties.
+18 Section 3. KRS 227.450 is amended to read as follows:
+19 As used in KRS 227.450 to 227.500 unless the context otherwise requires:
+20 (1) "Alteration" means any change, modification, or adjustment to an existing electrical
+21 system or conduit;
+22 (2) "Commissioner" means the commissioner of the Department of Housing, Buildings
+23 and Construction;
+24 (3) "Department" means the Department of Housing, Buildings and Construction;
+25 (4) "Division" means the Electrical Division within the department;
+26 (5) "Electrical" pertains to the installation, alteration, or repair of wires and
+27 conduits for the purpose of transmitting electricity, and the installation of fixtures
+Page 4 of 8
+XXXX 12/3/2024 3:29 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 389
+1 and equipment in connection therewith;
+2 (6) "Electrical contractor" means any licensed individual, partnership, or corporation
+3 that is licensed to engage in, offers to engage in, or advertises or holds itself out to
+4 be qualified to engage in designing, planning, superintending, contracting of, or
+5 assuming responsibility for the installation, alteration, or repair of any electrical
+6 system used for the purpose of furnishing heat, light, or power, and employs
+7 electrical workers to engage in this practice. If the electrical contractor is not a
+8 master electrician, the electrical contractor shall employ at least one (1) full-time
+9 master electrician;
+10 (7) "Electrical inspector" means any person certified by the commissioner pursuant
+11 to KRS 227.489 who, for compensation, inspects the construction and installation
+12 of electrical conductors, fittings, devices, and fixtures for light, heat, or power
+13 service equipment to ascertain the compliance with the Uniform State Building
+14 Code promulgated pursuant to KRS 198B.050 or the standards of safety of the
+15 Commonwealth of Kentucky;
+16 (8)[(6)] "Electrical system" means any electrical work subject to standards[ provided
+17 within the National Electrical Code as] adopted in the Uniform State Building
+18 Code, as promulgated by the department;
+19 (9)[(7)] "Electrician" means any person licensed by the department who is employed
+20 by an electrical contractor and is engaged in the construction, alteration, or repair of
+21 any electrical system used for the purpose of furnishing heat, light, or power[;
+22 (8) "Electrical" pertains to the installation, alteration, or repair of wires and conduits for
+23 the purpose of transmitting electricity, and the installation of fixtures and equipment
+24 in connection therewith;
+25 (9) "Electrical inspector" means any person certified by the commissioner pursuant to
+26 KRS 227.489 who, for compensation, inspects the construction and installation of
+27 electrical conductors, fittings, devices, and fixtures for light, heat, or power service
+Page 5 of 8
+XXXX 12/3/2024 3:29 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 389
+1 equipment to ascertain the compliance with the National Electrical Code
+2 incorporated in the Uniform State Building Code promulgated pursuant to KRS
+3 198B.050 or the standards of safety of the Commonwealth of Kentucky]; and
+4 (10) "Repair" means the reconstruction or renewal of any part of an existing building for
+5 the purpose of its maintenance.
+6 Section 4. KRS 227.489 is amended to read as follows:
+7 The commissioner shall require electrical inspectors to be certified. Examinations shall be
+8 based on[ the National Electrical Code incorporated in] the Uniform State Building Code
+9 and the standards of safety prescribed by the department. Electrical inspectors who have
+10 been engaged in the inspection of electrical light and power wiring installations, based on
+11 the requirements of the National Electrical Code, for a period of three (3) years, may be
+12 certified on the basis of knowledge of this subject and experience. No certificate shall be
+13 denied, suspended, or revoked unless the applicant or certificate holder is afforded the
+14 opportunity for a hearing in accordance with KRS Chapter 13B.
+15 Section 5. KRS 227.810 is amended to read as follows:
+16 (1) A ground-fault circuit-interrupter shall be installed on all existing and new
+17 fountains and pools that are located in a public place within the Commonwealth, in
+18 accordance with standards set forth in the Uniform State Building Code[ National
+19 Electrical Code] adopted by administrative regulations of the department.
+20 (2) A state or local government agency shall not promulgate an administrative
+21 regulation or ordinance to exempt any fountain or pool located in a public place
+22 from the required installation of a ground-fault circuit-interrupter, regardless of the
+23 age of construction of the fountain or pool.
+24 Section 6. KRS 227A.010 is amended to read as follows:
+25 As used in KRS 227A.010 to 227A.140, unless the context otherwise requires:
+26 (1) "Authorized local licensing program" means any city, county, urban-county
+27 government, charter county, or consolidated local government electrician and
+Page 6 of 8
+XXXX 12/3/2024 3:29 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 389
+1 electrical contractor licensing program established by local ordinance for the
+2 purpose of licensing electrical workers. "Authorized local licensing program" shall
+3 include a licensing program established through a cooperative agreement between
+4 two (2) or more counties;
+5 (2) "Department" means the Department of Housing, Buildings and Construction;
+6 (3) "Electrical" pertains to the installation, alteration, or repair of wires and conduits for
+7 the purpose of transmitting electricity, and the installation of fixtures and equipment
+8 in connection therewith;
+9 (4) "Electrical contractor" means any licensed individual, partnership, or corporation
+10 that is licensed to engage in, offers to engage in, or advertises or holds itself out to
+11 be qualified to engage in designing, planning, superintending, contracting of, or
+12 assuming responsibility for the installation, alteration, or repair of any electrical
+13 system used for the purpose of furnishing heat, light, or power, and employs
+14 electrical workers to engage in this practice. If the electrical contractor is not a
+15 master electrician, the electrical contractor shall employ at least one (1) full-time
+16 master electrician; however, no master electrician shall act in this capacity for more
+17 than one (1) electrical contractor;
+18 (5) "Electrical system" means any electrical work subject to standards[ provided within
+19 the National Electrical Code as] adopted in the Uniform State Building Code, as
+20 promulgated by the department;
+21 (6) "Electrician" means any person licensed by the department who is employed by an
+22 electrical contractor and is engaged in the construction, alteration, or repair of any
+23 electrical system used for the purpose of furnishing heat, light, or power;
+24 (7) "Maintenance worker or maintenance engineer" means a person who is a regular,
+25 bona fide employee or agent of a property owner, property lessor, property
+26 management company, or firm that is not in the electrical business but has
+27 jurisdiction over the property where the routine maintenance of electrical systems is
+Page 7 of 8
+XXXX 12/3/2024 3:29 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 389
+1 being performed;
+2 (8) "Master electrician" means any individual licensed to engage in, and assume
+3 responsible charge, supervision, or direction of an electrician engaged in the
+4 construction, installation, alteration, or repair of any electrical system used to
+5 furnish heat, light, or power;
+6 (9) "Repair" means the reconstruction or renewal of any part of an existing building for
+7 the purpose of its maintenance; and
+8 (10) (a) "Routine maintenance of electrical systems" means the routine and periodic
+9 servicing of electrical systems, including cleaning, inspecting, and making
+10 adjustments to ensure the proper operation and the removal or replacement of
+11 component parts.
+12 (b) "Routine maintenance of electrical systems" does not include the installation
+13 of complete electrical systems.
+Page 8 of 8
+XXXX 12/3/2024 3:29 PM Jacketed
+[DELETED:   2  J A B S ( ( A c c u g c c o c l C g o t s r a p t o a p b c ( T l g o t s s r a i t a d n b t d f t s o l a p T d s p a r t d t c ( A c c u g c c o c l g o o b o a l e c H t p o t s ( A e l ( E u o ( A c w a r d l e c w s b g a i p o u t o h e ( c c d b t c c u g]
+[DELETED:   2  J c t 1 T c e a d a n b a i 2 E e ( A ( A c c u g c c o c l g s a a m f t c o c c u c g c c o c l g e i a m b o f r f a e o r f t c o e i w i b A e ( R s b t d a s b d a a m b s f t m I o E b S ( T C K n p]
+[DELETED:   2  J g e ( T f c a v e s a l s f h o f e s 3 b r a r i p t K 2 a t n ( T s P i ( P m ( T i t o p o s a t f t u o n t t a m T c s n d i f ( P ( T o n m t a t i t b i w d j b t d t f t p o t c T d t a l g w m e t c i a c r a p a o m t a t i t b]
+[DELETED:   2  J i ( T d s p a r a n i a S B C o t c o a o r a t t d ( T d s m t e o a d b l g ( I U S B C i s d w d e T d s r t l g t c t d w s ( d a r t t d i m o c t d ( I t l g f t c t d t d m p ( T t p S A ( " s ( " a ( " ( " ( " p t t i a o r o w a c]
+[DELETED:   2  J a ( " t b q t e i d p s c o o a r f t i a o r o a e s u f t p o f h l o p a e e w t e i t p I t e c i n a m m ( " t o s C C ( " w t N E C a a i t U S B C ( " b a ( " t i ( " K e]
+[DELETED:   2  J e t a t c w t N E C i i t U S B C p p t K 1 ( " t S T b a b t c d o S ( A g c s b i o a e a n f a E ( A s o l g a s n p a a r f a S A ( " l l p m a c c u g c c o c l g e a]
+[DELETED:   2  J e c l p e b l o f t p i t ( " ( " t i ( " t b q t e i d p s c o o a r f t i a o r o a e s u f t p o f h l o p a e e w t e i t p I t e c i n a m m t ( " t p ( " e e ( " b f e o a o a p o p l p m c o f t i n i t e b b h j]
+[DELETED:   2  J b ( " e m a i l t e i a a r c s o d o a e e i t c i a o r o a e s u t f ( " t ( ( " s o e s i c i a m a c ( " o]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS BR 389
+1 AN ACT relating to state electrical standards for buildings.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 227.480 is amended to read as follows:
+4 (1) (a) A city, county, urban-county government, charter county, or consolidated
+5 local government or the state shall, according to the Uniform State Building
+6 Code as it pertains to the plan review and inspection responsibilities of local
+7 governments or the state, require any person to obtain a permit before
+8 commencing construction, alteration, or repairs of any electrical system.
+9 (b) The city, county, urban-county government, charter county, or consolidated
+10 local government or the state shall require all inspections that are deemed
+11 necessary by the department for the safety of life and property. The
+12 department shall promulgate administrative regulations to describe the
+13 circumstances where inspections are required.
+14 (2) A city, county, urban-county government, charter county, or consolidated local
+15 government or the state shall not issue a permit unless the applicant submits proof
+16 of being licensed as an electrical contractor under KRS Chapter 227A or of acting
+17 on behalf of a licensed electrical contractor. However, the provisions of this
+18 subsection shall not apply to:
+19 (a) A homeowner or farmer who does construction, alteration, or repairs of any
+20 electrical system on his or her own premises or any other person exempt from
+21 licensing under KRS 227A.030 or 227A.150;
+22 (b) Electrical work performed by the Commonwealth of Kentucky, a city, county,
+23 urban-county government, charter county, or consolidated local government,
+24 or any subdivision thereof;
+25 (c) A company with a recently deceased licensed electrical contractor, which
+26 shall be granted an interim period of up to one hundred eighty (180)
+27 continuous calendar days by the city, county, urban-county government,
+Page 1 of 8
+XXXX 12/3/2024 3:29 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 389
+1 charter county, consolidated local government, or state to allow the company
+2 to utilize the license of the deceased electrical contractor if:
+3 1. The company effectuates and documents all necessary bonding and
+4 insurance policies required by KRS Chapter 227A; and
+5 2. Ensures that the bonding and insurance policies remain in effect for the
+6 entirety of the interim period of time extended; or
+7 (d) A disaster response business as defined in KRS 141.010.
+8 (3) A city, county, urban-county government, charter county, or consolidated local
+9 government shall appoint and may fix the compensation of city, county, urban-
+10 county government, charter county, or consolidated local government electrical
+11 inspectors, and may by ordinance fix reasonable fees and establish other
+12 requirements for the conduct of electrical inspections within its boundaries. All
+13 electrical inspectors shall be certified under KRS 227.489.
+14 (4) Reasonable standards for the construction, alteration, and repair of any electrical
+15 system shall be those adopted in the Uniform State Building Code, as promulgated
+16 by the department, and shall be designed after and may be selected from the
+17 models offered by such model code agencies as the International Code Council,
+18 Inc., the National Fire Protection Association, and other nationally recognized
+19 organizations and[have as a minimum standard the requirements of the National
+20 Electrical Code, which] may include Kentucky amendments. These standards shall
+21 be used by the electrical inspector in making[ his] inspections.
+22 Section 2. KRS 198B.050 is amended to read as follows:
+23 (1) The department shall adopt and promulgate a mandatory Uniform State Building
+24 Code that establishes standards for the construction of all buildings, as defined in
+25 KRS 198B.010, in the state. The code shall provide that the review and approval, as
+26 necessary, of building plans for conformance with the Uniform State Building Code
+27 prior to construction approval shall be conducted only by the department or a local
+Page 2 of 8
+XXXX 12/3/2024 3:29 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 389
+1 government or governments delegated such responsibilities by this chapter, and any
+2 exceptions to this policy shall be explicitly stated in the code.
+3 (2) The code shall be comprehensive and shall include but not be limited to provisions
+4 for general construction; structural quality; mechanical systems to include heating,
+5 cooling, and ventilation; electrical systems; and life safety from hazards of fire,
+6 explosion, and other disasters, whether caused by acts of nature or man. The code
+7 shall encompass the Kentucky State Plumbing Code promulgated pursuant to KRS
+8 318.130, boiler rules and regulations issued pursuant to KRS 236.030, and the[
+9 national] electrical code.
+10 (3) This code shall be designed after and may be selected from the models offered by
+11 such model code agencies as the International Code Council, Inc., the National Fire
+12 Protection Association, and other nationally recognized organizations which may
+13 include governmental agencies. The code shall:
+14 (a) Provide uniform standards and requirements for construction and construction
+15 materials;
+16 (b) To the extent practicable, set forth standards, specifications, and requirements
+17 in terms of performance objectives, so as to facilitate the use of new
+18 technologies, techniques, and materials. The code shall not discriminate in
+19 favor of particular suppliers' materials, techniques, or technologies; and
+20 (c) Protect the public health, safety, and welfare within the state.
+21 (4) The code shall include provisions for the continuing review and possible adoption
+22 of new materials, technologies, and techniques in the building industry when
+23 deemed justified by the department to fulfill the purposes of this chapter. The
+24 department may adopt a model code promulgated by a model code agency only if
+25 that agency provides a method for democratic participation by the department and
+26 any local governments which may enforce the code, in a continuing review and
+27 possible adoption of new materials, technologies, and techniques in the building
+Page 3 of 8
+XXXX 12/3/2024 3:29 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 389
+1 industry.
+2 (5) The department shall promulgate administrative regulations, after notice in
+3 accordance with KRS Chapter 13A, which are necessary to implement the Uniform
+4 State Building Code or to carry out any other responsibility assigned to the
+5 department by this chapter.
+6 (6) The department shall monitor the effectiveness of agencies designated by local
+7 governments to enforce the provisions of the Uniform State Building Code.
+8 (7) If the department determines that an agency is not enforcing the provisions of the
+9 Uniform State Building Code, it shall determine where deficiencies exist. The
+10 department shall require the local government to correct the deficiencies within
+11 sixty (60) days and report to the department its method of correcting the
+12 deficiencies.
+13 (8) If the local government fails to correct the deficiencies, the department may
+14 preempt the local program as provided for in KRS 198B.060(4).
+15 (9) The department shall provide for the supply, including amendments and revisions
+16 thereto, of sufficient copies of the Uniform State Building Code for all interested
+17 parties.
+18 Section 3. KRS 227.450 is amended to read as follows:
+19 As used in KRS 227.450 to 227.500 unless the context otherwise requires:
+20 (1) "Alteration" means any change, modification, or adjustment to an existing electrical
+21 system or conduit;
+22 (2) "Commissioner" means the commissioner of the Department of Housing, Buildings
+23 and Construction;
+24 (3) "Department" means the Department of Housing, Buildings and Construction;
+25 (4) "Division" means the Electrical Division within the department;
+26 (5) "Electrical" pertains to the installation, alteration, or repair of wires and
+27 conduits for the purpose of transmitting electricity, and the installation of fixtures
+Page 4 of 8
+XXXX 12/3/2024 3:29 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 389
+1 and equipment in connection therewith;
+2 (6) "Electrical contractor" means any licensed individual, partnership, or corporation
+3 that is licensed to engage in, offers to engage in, or advertises or holds itself out to
+4 be qualified to engage in designing, planning, superintending, contracting of, or
+5 assuming responsibility for the installation, alteration, or repair of any electrical
+6 system used for the purpose of furnishing heat, light, or power, and employs
+7 electrical workers to engage in this practice. If the electrical contractor is not a
+8 master electrician, the electrical contractor shall employ at least one (1) full-time
+9 master electrician;
+10 (7) "Electrical inspector" means any person certified by the commissioner pursuant
+11 to KRS 227.489 who, for compensation, inspects the construction and installation
+12 of electrical conductors, fittings, devices, and fixtures for light, heat, or power
+13 service equipment to ascertain the compliance with the Uniform State Building
+14 Code promulgated pursuant to KRS 198B.050 or the standards of safety of the
+15 Commonwealth of Kentucky;
+16 (8)[(6)] "Electrical system" means any electrical work subject to standards[ provided
+17 within the National Electrical Code as] adopted in the Uniform State Building
+18 Code, as promulgated by the department;
+19 (9)[(7)] "Electrician" means any person licensed by the department who is employed
+20 by an electrical contractor and is engaged in the construction, alteration, or repair of
+21 any electrical system used for the purpose of furnishing heat, light, or power[;
+22 (8) "Electrical" pertains to the installation, alteration, or repair of wires and conduits for
+23 the purpose of transmitting electricity, and the installation of fixtures and equipment
+24 in connection therewith;
+25 (9) "Electrical inspector" means any person certified by the commissioner pursuant to
+26 KRS 227.489 who, for compensation, inspects the construction and installation of
+27 electrical conductors, fittings, devices, and fixtures for light, heat, or power service
+Page 5 of 8
+XXXX 12/3/2024 3:29 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 389
+1 equipment to ascertain the compliance with the National Electrical Code
+2 incorporated in the Uniform State Building Code promulgated pursuant to KRS
+3 198B.050 or the standards of safety of the Commonwealth of Kentucky]; and
+4 (10) "Repair" means the reconstruction or renewal of any part of an existing building for
+5 the purpose of its maintenance.
+6 Section 4. KRS 227.489 is amended to read as follows:
+7 The commissioner shall require electrical inspectors to be certified. Examinations shall be
+8 based on[ the National Electrical Code incorporated in] the Uniform State Building Code
+9 and the standards of safety prescribed by the department. Electrical inspectors who have
+10 been engaged in the inspection of electrical light and power wiring installations, based on
+11 the requirements of the National Electrical Code, for a period of three (3) years, may be
+12 certified on the basis of knowledge of this subject and experience. No certificate shall be
+13 denied, suspended, or revoked unless the applicant or certificate holder is afforded the
+14 opportunity for a hearing in accordance with KRS Chapter 13B.
+15 Section 5. KRS 227.810 is amended to read as follows:
+16 (1) A ground-fault circuit-interrupter shall be installed on all existing and new
+17 fountains and pools that are located in a public place within the Commonwealth, in
+18 accordance with standards set forth in the Uniform State Building Code[ National
+19 Electrical Code] adopted by administrative regulations of the department.
+20 (2) A state or local government agency shall not promulgate an administrative
+21 regulation or ordinance to exempt any fountain or pool located in a public place
+22 from the required installation of a ground-fault circuit-interrupter, regardless of the
+23 age of construction of the fountain or pool.
+24 Section 6. KRS 227A.010 is amended to read as follows:
+25 As used in KRS 227A.010 to 227A.140, unless the context otherwise requires:
+26 (1) "Authorized local licensing program" means any city, county, urban-county
+27 government, charter county, or consolidated local government electrician and
+Page 6 of 8
+XXXX 12/3/2024 3:29 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 389
+1 electrical contractor licensing program established by local ordinance for the
+2 purpose of licensing electrical workers. "Authorized local licensing program" shall
+3 include a licensing program established through a cooperative agreement between
+4 two (2) or more counties;
+5 (2) "Department" means the Department of Housing, Buildings and Construction;
+6 (3) "Electrical" pertains to the installation, alteration, or repair of wires and conduits for
+7 the purpose of transmitting electricity, and the installation of fixtures and equipment
+8 in connection therewith;
+9 (4) "Electrical contractor" means any licensed individual, partnership, or corporation
+10 that is licensed to engage in, offers to engage in, or advertises or holds itself out to
+11 be qualified to engage in designing, planning, superintending, contracting of, or
+12 assuming responsibility for the installation, alteration, or repair of any electrical
+13 system used for the purpose of furnishing heat, light, or power, and employs
+14 electrical workers to engage in this practice. If the electrical contractor is not a
+15 master electrician, the electrical contractor shall employ at least one (1) full-time
+16 master electrician; however, no master electrician shall act in this capacity for more
+17 than one (1) electrical contractor;
+18 (5) "Electrical system" means any electrical work subject to standards[ provided within
+19 the National Electrical Code as] adopted in the Uniform State Building Code, as
+20 promulgated by the department;
+21 (6) "Electrician" means any person licensed by the department who is employed by an
+22 electrical contractor and is engaged in the construction, alteration, or repair of any
+23 electrical system used for the purpose of furnishing heat, light, or power;
+24 (7) "Maintenance worker or maintenance engineer" means a person who is a regular,
+25 bona fide employee or agent of a property owner, property lessor, property
+26 management company, or firm that is not in the electrical business but has
+27 jurisdiction over the property where the routine maintenance of electrical systems is
+Page 7 of 8
+XXXX 12/3/2024 3:29 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 389
+1 being performed;
+2 (8) "Master electrician" means any individual licensed to engage in, and assume
+3 responsible charge, supervision, or direction of an electrician engaged in the
+4 construction, installation, alteration, or repair of any electrical system used to
+5 furnish heat, light, or power;
+6 (9) "Repair" means the reconstruction or renewal of any part of an existing building for
+7 the purpose of its maintenance; and
+8 (10) (a) "Routine maintenance of electrical systems" means the routine and periodic
+9 servicing of electrical systems, including cleaning, inspecting, and making
+10 adjustments to ensure the proper operation and the removal or replacement of
+11 component parts.
+12 (b) "Routine maintenance of electrical systems" does not include the installation
+13 of complete electrical systems.
+Page 8 of 8
+XXXX 12/3/2024 3:29 PM Jacketed
+
+[DELETED:   2  J A B S ( ( A c c u g c c o c l C g o t s r a p t o a p b c ( T l g o t s s r a i t a d n b t d f t s o l a p T d s p a r t d t c ( A c c u g c c o c l g o o b o a l e c H t p o t s ( A e l ( E u o ( A c w a r d l e c w s b g a i p o u t o h e ( c c d b t c c u g]
+[DELETED:   2  J c t 1 T c e a d a n b a i 2 E e ( A ( A c c u g c c o c l g s a a m f t c o c c u c g c c o c l g e i a m b o f r f a e o r f t c o e i w i b A e ( R s b t d a s b d a a m b s f t m I o E b S ( T C K n p]
+[DELETED:   2  J g e ( T f c a v e s a l s f h o f e s 3 b r a r i p t K 2 a t n ( T s P i ( P m ( T i t o p o s a t f t u o n t t a m T c s n d i f ( P ( T o n m t a t i t b i w d j b t d t f t p o t c T d t a l g w m e t c i a c r a p a o m t a t i t b]
+[DELETED:   2  J i ( T d s p a r a n i a S B C o t c o a o r a t t d ( T d s m t e o a d b l g ( I U S B C i s d w d e T d s r t l g t c t d w s ( d a r t t d i m o c t d ( I t l g f t c t d t d m p ( T t p S A ( " s ( " a ( " ( " ( " p t t i a o r o w a c]
+[DELETED:   2  J a ( " t b q t e i d p s c o o a r f t i a o r o a e s u f t p o f h l o p a e e w t e i t p I t e c i n a m m ( " t o s C C ( " w t N E C a a i t U S B C ( " b a ( " t i ( " K e]
+[DELETED:   2  J e t a t c w t N E C i i t U S B C p p t K 1 ( " t S T b a b t c d o S ( A g c s b i o a e a n f a E ( A s o l g a s n p a a r f a S A ( " l l p m a c c u g c c o c l g e a]
+[DELETED:   2  J e c l p e b l o f t p i t ( " ( " t i ( " t b q t e i d p s c o o a r f t i a o r o a e s u f t p o f h l o p a e e w t e i t p I t e c i n a m m t ( " t p ( " e e ( " b f e o a o a p o p l p m c o f t i n i t e b b h j]
+[DELETED:   2  J b ( " e m a i l t e i a a r c s o d o a e e i t c i a o r o a e s u t f ( " t ( ( " s o e s i c i a m a c ( " o]

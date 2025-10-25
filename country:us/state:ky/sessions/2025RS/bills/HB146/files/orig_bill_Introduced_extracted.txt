@@ -1,0 +1,325 @@
+Title: 1 AN ACT relating to the taxation of retirement distributions.
+Official Title: 1 AN ACT relating to the taxation of retirement distributions.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS BR 822
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 141.019 is amended to read as follows:
+4 In the case of taxpayers other than corporations:
+5 (1) Adjusted gross income shall be calculated by subtracting from the gross income of
+6 those taxpayers the deductions allowed individuals by Section 62 of the Internal
+7 Revenue Code and adjusting as follows:
+8 (a) Exclude income that is exempt from state taxation by the Kentucky
+9 Constitution and the Constitution and statutory laws of the United States;
+10 (b) Exclude income from supplemental annuities provided by the Railroad
+11 Retirement Act of 1937 as amended and which are subject to federal income
+12 tax by Pub. L. No. 89-699;
+13 (c) Include interest income derived from obligations of sister states and political
+14 subdivisions thereof;
+15 (d) Exclude employee pension contributions picked up as provided for in KRS
+16 6.505, 16.545, 21.360, 61.523, 61.560, 65.155, 67A.320, 67A.510, 78.610,
+17 and 161.540 upon a ruling by the Internal Revenue Service or the federal
+18 courts that these contributions shall not be included as gross income until such
+19 time as the contributions are distributed or made available to the employee;
+20 (e) Exclude Social Security and railroad retirement benefits subject to federal
+21 income tax;
+22 (f) Exclude any money received because of a settlement or judgment in a lawsuit
+23 brought against a manufacturer or distributor of "Agent Orange" for damages
+24 resulting from exposure to Agent Orange by a member or veteran of the
+25 Armed Forces of the United States or any dependent of such person who
+26 served in Vietnam;
+27 (g) 1. a. For taxable years beginning after December 31, 2005, but before
+Page 1 of 5
+XXXX 12/5/2024 2:54 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 822
+1 January 1, 2018, exclude up to forty-one thousand one hundred ten
+2 dollars ($41,110) of total distributions from pension plans, annuity
+3 contracts, profit-sharing plans, retirement plans, or employee
+4 savings plans;[ and]
+5 b. For taxable years beginning on or after January 1, 2018, but before
+6 January 1, 2026, exclude up to thirty-one thousand one hundred
+7 ten dollars ($31,110) of total distributions from pension plans,
+8 annuity contracts, profit-sharing plans, retirement plans, or
+9 employee savings plans; and
+10 c. For taxable years beginning on or after January 1, 2026,
+11 exclude up to forty-one thousand one hundred ten dollars
+12 ($41,110) of total distributions from pension plans, annuity
+13 contracts, profit-sharing plans, retirement plans, or employee
+14 savings plans.
+15 2. As used in this paragraph:
+16 a. "Annuity contract" has the same meaning as set forth in Section
+17 1035 of the Internal Revenue Code;
+18 b. "Distributions" includes but is not limited to any lump-sum
+19 distribution from pension or profit-sharing plans qualifying for the
+20 income tax averaging provisions of Section 402 of the Internal
+21 Revenue Code; any distribution from an individual retirement
+22 account as defined in Section 408 of the Internal Revenue Code;
+23 and any disability pension distribution; and
+24 c. "Pension plans, profit-sharing plans, retirement plans, or employee
+25 savings plans" means any trust or other entity created or organized
+26 under a written retirement plan and forming part of a stock bonus,
+27 pension, or profit-sharing plan of a public or private employer for
+Page 2 of 5
+XXXX 12/5/2024 2:54 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 822
+1 the exclusive benefit of employees or their beneficiaries and
+2 includes plans qualified or unqualified under Section 401 of the
+3 Internal Revenue Code and individual retirement accounts as
+4 defined in Section 408 of the Internal Revenue Code;
+5 (h) 1. a. Exclude the portion of the distributive share of a shareholder's net
+6 income from an S corporation subject to the franchise tax imposed
+7 under KRS 136.505 or the capital stock tax imposed under KRS
+8 136.300; and
+9 b. Exclude the portion of the distributive share of a shareholder's net
+10 income from an S corporation related to a qualified subchapter S
+11 subsidiary subject to the franchise tax imposed under KRS
+12 136.505 or the capital stock tax imposed under KRS 136.300.
+13 2. The shareholder's basis of stock held in an S corporation where the S
+14 corporation or its qualified subchapter S subsidiary is subject to the
+15 franchise tax imposed under KRS 136.505 or the capital stock tax
+16 imposed under KRS 136.300 shall be the same as the basis for federal
+17 income tax purposes;
+18 (i) Exclude income received for services performed as a precinct worker for
+19 election training or for working at election booths in state, county, and local
+20 primaries or regular or special elections;
+21 (j) Exclude any capital gains income attributable to property taken by eminent
+22 domain;
+23 (k) 1. Exclude all income from all sources for members of the Armed Forces
+24 who are on active duty and who are killed in the line of duty, for the
+25 year during which the death occurred and the year prior to the year
+26 during which the death occurred.
+27 2. For the purposes of this paragraph, "all income from all sources" shall
+Page 3 of 5
+XXXX 12/5/2024 2:54 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 822
+1 include all federal and state death benefits payable to the estate or any
+2 beneficiaries;
+3 (l) Exclude all military pay received by members of the Armed Forces while on
+4 active duty;
+5 (m) 1. Include the amount deducted for depreciation under 26 U.S.C. sec. 167
+6 or 168; and
+7 2. Exclude the amounts allowed by KRS 141.0101 for depreciation;
+8 (n) Include the amount deducted under 26 U.S.C. sec. 199A;
+9 (o) Ignore any change in the cost basis of the surviving spouse's share of property
+10 owned by a Kentucky community property trust occurring for federal income
+11 tax purposes as a result of the death of the predeceasing spouse;
+12 (p) Allow the same treatment allowed under Pub. L. No. 116-260, secs. 276 and
+13 278, related to the tax treatment of forgiven covered loans, deductions
+14 attributable to those loans, and tax attributes associated with those loans for
+15 taxable years ending on or after March 27, 2020, but before January 1, 2022;
+16 and
+17 (q) For taxable years beginning on or after January 1, 2020, but before March 11,
+18 2023, allow the same treatment of restaurant revitalization grants in
+19 accordance with Pub. L. No. 117-2, sec. 9673 and 15 U.S.C. sec. 9009c,
+20 related to the tax treatment of the grants, deductions attributable to those
+21 grants, and tax attributes associated with those grants; and
+22 (2) Net income shall be calculated by subtracting from adjusted gross income all the
+23 deductions allowed individuals by Chapter 1 of the Internal Revenue Code, as
+24 modified by KRS 141.0101, except:
+25 (a) Any deduction allowed by 26 U.S.C. sec. 164 for taxes;
+26 (b) Any deduction allowed by 26 U.S.C. sec. 165 for losses, except wagering
+27 losses allowed under Section 165(d) of the Internal Revenue Code;
+Page 4 of 5
+XXXX 12/5/2024 2:54 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 822
+1 (c) Any deduction allowed by 26 U.S.C. sec. 213 for medical care expenses;
+2 (d) Any deduction allowed by 26 U.S.C. sec. 217 for moving expenses;
+3 (e) Any deduction allowed by 26 U.S.C. sec. 67 for any other miscellaneous
+4 deduction;
+5 (f) Any deduction allowed by the Internal Revenue Code for amounts allowable
+6 under KRS 140.090(1)(h) in calculating the value of the distributive shares of
+7 the estate of a decedent, unless there is filed with the income return a
+8 statement that the deduction has not been claimed under KRS 140.090(1)(h);
+9 (g) Any deduction allowed by 26 U.S.C. sec. 151 for personal exemptions and
+10 any other deductions in lieu thereof;
+11 (h) Any deduction allowed for amounts paid to any club, organization, or
+12 establishment which has been determined by the courts or an agency
+13 established by the General Assembly and charged with enforcing the civil
+14 rights laws of the Commonwealth, not to afford full and equal membership
+15 and full and equal enjoyment of its goods, services, facilities, privileges,
+16 advantages, or accommodations to any person because of race, color, religion,
+17 national origin, or sex, except nothing shall be construed to deny a deduction
+18 for amounts paid to any religious or denominational club, group, or
+19 establishment or any organization operated solely for charitable or educational
+20 purposes which restricts membership to persons of the same religion or
+21 denomination in order to promote the religious principles for which it is
+22 established and maintained; and
+23 (i) A taxpayer may elect to claim the standard deduction allowed by KRS
+24 141.081 instead of itemized deductions allowed pursuant to 26 U.S.C. sec. 63
+25 and as modified by this section.
+Page 5 of 5
+XXXX 12/5/2024 2:54 PM Jacketed
+[DELETED:   2  J A B S I ( A t R ( E i t i e f s t b t K C ( E i f s a p b t R R t ( I s ( E 6 1 2 6 6 6 6 6 7 a 1 u a r b t I R S o t f c t ( E S S a r r b s t f i ( E b r f e t A O b a m o v o t A F o t U S o a d o s p w s ( 1 a F]
+[DELETED:   2  J J d c p p r p o e s b F J t d ( o t d f p p a c p p r p o e c F t y b o o a J 1 2 e u t f t o h t d ( o t d f p p a c p p r p o e s 2 A a " 1 b " i b i n l t a l d i t a p o S 4 o t I R C a d f a i r a a c " s u p]
+[DELETED:   2  J t e b o e o t b a i I R C a i r a a d ( 1 a E i u 1 b E i s s t t f t i u K 1 2 T c o i q s S s i s t t f t i u K 1 o t c s t i i ( E i r f s p a a p w f e p ( E d ( 1 E w y d w t d o a t y p t t y d 2 F]
+[DELETED:   2  J i b ( E a ( 1 I o 2 E ( I ( I o t ( A 2 r t t t t o f c l d a t a ( F 2 a t s t o r r g i a w P L N 1 s 9 a 1 U s 9 r t t t t o t g d a t t g ( N d a i b C 1 o t I R C a m ( A ( A d a b 2 U s 1 f l e w l]
+[DELETED:   2  J ( A ( A ( A d a b 2 U s 6 f a o m d ( A u t e o a d u t i f w t i r a s ( A a ( A d a f a p t a c o o e w h b d b t c o a a e b t G A a c w e t c r a f a e e o i g s f p a n f a p t a r o d c g o e p w r m t p o t s r o d i o t p t r p f w i i e ( A t m e t c t s d a b K 1 a]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS BR 822
+1 AN ACT relating to the taxation of retirement distributions.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 141.019 is amended to read as follows:
+4 In the case of taxpayers other than corporations:
+5 (1) Adjusted gross income shall be calculated by subtracting from the gross income of
+6 those taxpayers the deductions allowed individuals by Section 62 of the Internal
+7 Revenue Code and adjusting as follows:
+8 (a) Exclude income that is exempt from state taxation by the Kentucky
+9 Constitution and the Constitution and statutory laws of the United States;
+10 (b) Exclude income from supplemental annuities provided by the Railroad
+11 Retirement Act of 1937 as amended and which are subject to federal income
+12 tax by Pub. L. No. 89-699;
+13 (c) Include interest income derived from obligations of sister states and political
+14 subdivisions thereof;
+15 (d) Exclude employee pension contributions picked up as provided for in KRS
+16 6.505, 16.545, 21.360, 61.523, 61.560, 65.155, 67A.320, 67A.510, 78.610,
+17 and 161.540 upon a ruling by the Internal Revenue Service or the federal
+18 courts that these contributions shall not be included as gross income until such
+19 time as the contributions are distributed or made available to the employee;
+20 (e) Exclude Social Security and railroad retirement benefits subject to federal
+21 income tax;
+22 (f) Exclude any money received because of a settlement or judgment in a lawsuit
+23 brought against a manufacturer or distributor of "Agent Orange" for damages
+24 resulting from exposure to Agent Orange by a member or veteran of the
+25 Armed Forces of the United States or any dependent of such person who
+26 served in Vietnam;
+27 (g) 1. a. For taxable years beginning after December 31, 2005, but before
+Page 1 of 5
+XXXX 12/5/2024 2:54 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 822
+1 January 1, 2018, exclude up to forty-one thousand one hundred ten
+2 dollars ($41,110) of total distributions from pension plans, annuity
+3 contracts, profit-sharing plans, retirement plans, or employee
+4 savings plans;[ and]
+5 b. For taxable years beginning on or after January 1, 2018, but before
+6 January 1, 2026, exclude up to thirty-one thousand one hundred
+7 ten dollars ($31,110) of total distributions from pension plans,
+8 annuity contracts, profit-sharing plans, retirement plans, or
+9 employee savings plans; and
+10 c. For taxable years beginning on or after January 1, 2026,
+11 exclude up to forty-one thousand one hundred ten dollars
+12 ($41,110) of total distributions from pension plans, annuity
+13 contracts, profit-sharing plans, retirement plans, or employee
+14 savings plans.
+15 2. As used in this paragraph:
+16 a. "Annuity contract" has the same meaning as set forth in Section
+17 1035 of the Internal Revenue Code;
+18 b. "Distributions" includes but is not limited to any lump-sum
+19 distribution from pension or profit-sharing plans qualifying for the
+20 income tax averaging provisions of Section 402 of the Internal
+21 Revenue Code; any distribution from an individual retirement
+22 account as defined in Section 408 of the Internal Revenue Code;
+23 and any disability pension distribution; and
+24 c. "Pension plans, profit-sharing plans, retirement plans, or employee
+25 savings plans" means any trust or other entity created or organized
+26 under a written retirement plan and forming part of a stock bonus,
+27 pension, or profit-sharing plan of a public or private employer for
+Page 2 of 5
+XXXX 12/5/2024 2:54 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 822
+1 the exclusive benefit of employees or their beneficiaries and
+2 includes plans qualified or unqualified under Section 401 of the
+3 Internal Revenue Code and individual retirement accounts as
+4 defined in Section 408 of the Internal Revenue Code;
+5 (h) 1. a. Exclude the portion of the distributive share of a shareholder's net
+6 income from an S corporation subject to the franchise tax imposed
+7 under KRS 136.505 or the capital stock tax imposed under KRS
+8 136.300; and
+9 b. Exclude the portion of the distributive share of a shareholder's net
+10 income from an S corporation related to a qualified subchapter S
+11 subsidiary subject to the franchise tax imposed under KRS
+12 136.505 or the capital stock tax imposed under KRS 136.300.
+13 2. The shareholder's basis of stock held in an S corporation where the S
+14 corporation or its qualified subchapter S subsidiary is subject to the
+15 franchise tax imposed under KRS 136.505 or the capital stock tax
+16 imposed under KRS 136.300 shall be the same as the basis for federal
+17 income tax purposes;
+18 (i) Exclude income received for services performed as a precinct worker for
+19 election training or for working at election booths in state, county, and local
+20 primaries or regular or special elections;
+21 (j) Exclude any capital gains income attributable to property taken by eminent
+22 domain;
+23 (k) 1. Exclude all income from all sources for members of the Armed Forces
+24 who are on active duty and who are killed in the line of duty, for the
+25 year during which the death occurred and the year prior to the year
+26 during which the death occurred.
+27 2. For the purposes of this paragraph, "all income from all sources" shall
+Page 3 of 5
+XXXX 12/5/2024 2:54 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 822
+1 include all federal and state death benefits payable to the estate or any
+2 beneficiaries;
+3 (l) Exclude all military pay received by members of the Armed Forces while on
+4 active duty;
+5 (m) 1. Include the amount deducted for depreciation under 26 U.S.C. sec. 167
+6 or 168; and
+7 2. Exclude the amounts allowed by KRS 141.0101 for depreciation;
+8 (n) Include the amount deducted under 26 U.S.C. sec. 199A;
+9 (o) Ignore any change in the cost basis of the surviving spouse's share of property
+10 owned by a Kentucky community property trust occurring for federal income
+11 tax purposes as a result of the death of the predeceasing spouse;
+12 (p) Allow the same treatment allowed under Pub. L. No. 116-260, secs. 276 and
+13 278, related to the tax treatment of forgiven covered loans, deductions
+14 attributable to those loans, and tax attributes associated with those loans for
+15 taxable years ending on or after March 27, 2020, but before January 1, 2022;
+16 and
+17 (q) For taxable years beginning on or after January 1, 2020, but before March 11,
+18 2023, allow the same treatment of restaurant revitalization grants in
+19 accordance with Pub. L. No. 117-2, sec. 9673 and 15 U.S.C. sec. 9009c,
+20 related to the tax treatment of the grants, deductions attributable to those
+21 grants, and tax attributes associated with those grants; and
+22 (2) Net income shall be calculated by subtracting from adjusted gross income all the
+23 deductions allowed individuals by Chapter 1 of the Internal Revenue Code, as
+24 modified by KRS 141.0101, except:
+25 (a) Any deduction allowed by 26 U.S.C. sec. 164 for taxes;
+26 (b) Any deduction allowed by 26 U.S.C. sec. 165 for losses, except wagering
+27 losses allowed under Section 165(d) of the Internal Revenue Code;
+Page 4 of 5
+XXXX 12/5/2024 2:54 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 822
+1 (c) Any deduction allowed by 26 U.S.C. sec. 213 for medical care expenses;
+2 (d) Any deduction allowed by 26 U.S.C. sec. 217 for moving expenses;
+3 (e) Any deduction allowed by 26 U.S.C. sec. 67 for any other miscellaneous
+4 deduction;
+5 (f) Any deduction allowed by the Internal Revenue Code for amounts allowable
+6 under KRS 140.090(1)(h) in calculating the value of the distributive shares of
+7 the estate of a decedent, unless there is filed with the income return a
+8 statement that the deduction has not been claimed under KRS 140.090(1)(h);
+9 (g) Any deduction allowed by 26 U.S.C. sec. 151 for personal exemptions and
+10 any other deductions in lieu thereof;
+11 (h) Any deduction allowed for amounts paid to any club, organization, or
+12 establishment which has been determined by the courts or an agency
+13 established by the General Assembly and charged with enforcing the civil
+14 rights laws of the Commonwealth, not to afford full and equal membership
+15 and full and equal enjoyment of its goods, services, facilities, privileges,
+16 advantages, or accommodations to any person because of race, color, religion,
+17 national origin, or sex, except nothing shall be construed to deny a deduction
+18 for amounts paid to any religious or denominational club, group, or
+19 establishment or any organization operated solely for charitable or educational
+20 purposes which restricts membership to persons of the same religion or
+21 denomination in order to promote the religious principles for which it is
+22 established and maintained; and
+23 (i) A taxpayer may elect to claim the standard deduction allowed by KRS
+24 141.081 instead of itemized deductions allowed pursuant to 26 U.S.C. sec. 63
+25 and as modified by this section.
+Page 5 of 5
+XXXX 12/5/2024 2:54 PM Jacketed
+
+[DELETED:   2  J A B S I ( A t R ( E i t i e f s t b t K C ( E i f s a p b t R R t ( I s ( E 6 1 2 6 6 6 6 6 7 a 1 u a r b t I R S o t f c t ( E S S a r r b s t f i ( E b r f e t A O b a m o v o t A F o t U S o a d o s p w s ( 1 a F]
+[DELETED:   2  J J d c p p r p o e s b F J t d ( o t d f p p a c p p r p o e c F t y b o o a J 1 2 e u t f t o h t d ( o t d f p p a c p p r p o e s 2 A a " 1 b " i b i n l t a l d i t a p o S 4 o t I R C a d f a i r a a c " s u p]
+[DELETED:   2  J t e b o e o t b a i I R C a i r a a d ( 1 a E i u 1 b E i s s t t f t i u K 1 2 T c o i q s S s i s t t f t i u K 1 o t c s t i i ( E i r f s p a a p w f e p ( E d ( 1 E w y d w t d o a t y p t t y d 2 F]
+[DELETED:   2  J i b ( E a ( 1 I o 2 E ( I ( I o t ( A 2 r t t t t o f c l d a t a ( F 2 a t s t o r r g i a w P L N 1 s 9 a 1 U s 9 r t t t t o t g d a t t g ( N d a i b C 1 o t I R C a m ( A ( A d a b 2 U s 1 f l e w l]
+[DELETED:   2  J ( A ( A ( A d a b 2 U s 6 f a o m d ( A u t e o a d u t i f w t i r a s ( A a ( A d a f a p t a c o o e w h b d b t c o a a e b t G A a c w e t c r a f a e e o i g s f p a n f a p t a r o d c g o e p w r m t p o t s r o d i o t p t r p f w i i e ( A t m e t c t s d a b K 1 a]

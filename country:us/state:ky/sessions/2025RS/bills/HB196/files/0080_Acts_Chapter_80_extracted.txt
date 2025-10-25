@@ -1,0 +1,295 @@
+Title: AN ACT relating to coal mining.
+Official Title: AN ACT relating to coal mining.
+Number of Sections: 4
+Source: versions - Acts Chapter 80
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+CHAPTER 80 1
+CHAPTER 80
+( HB 196 )
+Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+Section 1. KRS 351.010 is amended to read as follows:
+(1) As used in this chapter, unless the context requires otherwise:
+(a) "Adulterated specimen" means a specimen containing a substance that is not a normal constituent or
+containing an endogenous substance at a concentration that is not a normal physiological concentration;
+(b) "Approved" means that a device, apparatus, equipment, or machinery, or practice employed in the
+mining of coal has been approved by the commissioner of the Department for Natural Resources;
+(c) "Assistant mine foreman" means a certified person designated to assist the mine foreman in the
+supervision of a portion or the whole of a mine or of the persons employed therein;
+(d) "Commercial mine" means any coal mine from which coal is mined for sale, commercial use, or
+exchange. This term shall in no instance be construed to include a mine where coal is produced for own
+use;
+(e) "Commission" means the Mine Safety Review Commission created by KRS 351.1041;
+(f) "Commissioner" means commissioner of the Department for Natural Resources;
+(g) "Department" means the Department for Natural Resources;
+(h) "Drift" means an opening through strata or coal seams with opening grades sufficient to permit coal to
+be hauled therefrom or which is used for the purpose of ventilation, drainage, ingress, egress, and other
+purposes in connection with the mining of coal;
+(i) "Excavations and workings" means the excavated portions of a mine;
+(j) "Fire boss" (often referred to as mine examiner) means a person certified as a mine foreman or assistant
+mine foreman who is designated by management to examine a mine or part of a mine for explosive gas
+or other dangers before a shift crew enters;
+(k) "Gassy mine." All mines shall be classified as gassy or gaseous;
+(l) "Illicit substances" includes prescription drugs used illegally or in excess of therapeutic levels as well as
+illegal drugs;
+(m) "Intake air" means air that has not passed through the last working place of the split or by the unsealed
+entrances to abandoned workings and by analysis contains not less than nineteen and one-half percent
+(19.5%) oxygen, no dangerous quantities of flammable gas, and no harmful amounts of poisonous gas
+or dust;
+(n) "Licensee" means any owner, operator, lessee, corporation, partnership, or other person who procures a
+license from the department to operate a coal mine;
+(o) "Medical review officer" or "MRO" means a licensed physician with knowledge of substance abuse
+disorders, laboratory testing, chain of custody, collection procedures, and the ability to verify positive,
+confirmed test results. The MRO shall possess the necessary medical training to interpret and evaluate a
+positive test result in relation to the person's medical history or any other relevant biomedical
+information;
+(p) "Mine" means any open pit or any underground workings from which coal is produced for sale,
+exchange, or commercial use, and all shafts, slopes, drifts, or inclines leading thereto, and includes all
+buildings and equipment, above or below the surface of the ground, used in connection with the
+workings. Workings that are adjacent to each other and under the same management, but which are
+administered as distinct units, shall be considered a separate mine;
+Legislative Research Commission PDF Version
+2 ACTS OF THE GENERAL ASSEMBLY
+(q) "Mine foreman" means a certified person whom the licensee or superintendent places in charge of the
+workings of the mine and of the persons employed therein;
+(r) "Mine manager" means a certified or noncertified person whom the licensee places in charge of a mine
+or mines and whose duties include but are not limited to operations at the mine or mines and
+supervision of personnel when qualified to do so;
+(s) "Open-pit mine" shall include open excavations and open-cut workings, including but not limited to
+auger operations and highwall mining systems for the extraction of coal. However, excavation of refuse
+from a coarse coal refuse fill for reprocessing of the refuse, which is permitted and bonded under KRS
+Chapter 350 and is regulated by the Mine Safety and Health Administration, shall not be required to
+obtain a license under this chapter;
+(t) "Operator" means the licensee, owner, lessee, or other person who operates or controls a coal mine;
+(u) "Permissible" refers to any equipment, device, or explosive that has been approved by the United States
+Bureau of Mines, the Mining Enforcement and Safety Administration, or the Mine Safety and Health
+Administration and that meets all requirements, restrictions, exceptions, limitations, and conditions
+attached to the classification by the approving agency;
+(v) "Preshift examination" means the examination of a mine or any portion thereof where miners are
+scheduled to work or travel, which shall be conducted not more than three (3) hours before any
+oncoming shift;
+(w) "Return air" means air that has passed through the last active working place on each split, or air that has
+passed through abandoned, inaccessible, or pillared workings;
+(x) "Serious physical injury" means an injury which has a reasonable potential to cause death;
+(y) "Shaft" means a vertical opening through the strata that is used in connection with the mining of coal,
+for the purpose of ventilation or drainage, or for hoisting men, coal, or materials;
+(z) "Slope" means an inclined opening used for the same purpose as a shaft;
+(aa) "Superintendent" means the person who, on behalf of the licensee, has immediate supervision of one (1)
+or more mines;
+(ab) "Supervisory personnel" means a person certified under the provisions of this chapter to assist in the
+supervision of a portion or the whole of the mine or of the persons employed therein;
+(ac) "Division" means the Division of Mine Safety;
+(ad) "Director" means the director of the Division of Mine Safety;
+(ae) "Probation" means the status of a certification or license issued by the Division of Mine Safety that
+conditions the validity of the certification or license upon compliance with orders of the Mine Safety
+Review Commission; [and]
+(af) "Final order of the commission" means an order which has not been appealed to the Franklin Circuit
+Court within thirty (30) days of entry, or an order affirming the commission's order that has been
+entered by any court within the Commonwealth and for which all appeals have been exhausted;
+(ag) "Emergency medical technician" has the same meaning as in KRS 311A.010; and
+(ah) "Mine emergency technician" means a person that holds a current surface or underground miner's
+certification in the Commonwealth and that has been certified as having met all the requirements
+prescribed by the Division of Mine Safety for that certification.
+(2) Except as the context otherwise requires, this chapter applies only to commercial coal mines.
+(3) The definitions in KRS 352.010 apply also to this chapter, unless the context requires otherwise.
+Section 2. KRS 351.127 is amended to read as follows:
+(1) Certified emergency medical technicians or mine emergency technicians shall be employed at every licensed
+coal mine whose employees are actively engaged in the extraction, production, or preparation of coal. Persons
+employed as mine emergency technicians shall be trained in a manner established in an administrative
+regulation promulgated by the department. Persons seeking certification as a mine emergency medical
+technician or mine emergency technician shall be subject to the following additional requirements:
+CHAPTER 80 3
+(a) All persons seeking certification as a mine emergency technician shall demonstrate drug- and alcohol-
+free status in accordance with KRS 351.182 and 351.183;
+(b) The drug and alcohol testing for those seeking certification as mine emergency technicians shall be
+administered prior to the examination for the certification, in accordance with KRS 351.182 and
+
+Section 2:
+351.183; and
+(c) Certification as a mine emergency technician shall not be issued until the results of the drug and alcohol
+testing have been obtained. Notification shall be given to the person in accordance with KRS 351.184.
+(2) These emergency medical technicians or mine emergency technicians shall be employed in the following
+manner:
+(a) Except as otherwise provided in paragraph (b) of this subsection, for every shift engaged in the
+production of coal at a surface or underground coal mining operation, there shall be:
+
+Section 3:
+1. One (1) emergency medical or mine emergency technician employed on every shift with ten
+(10) or fewer miners employed on the shift; and
+
+Section 4:
+2. Two (2) emergency medical or mine emergency technicians employed on every shift with more
+than ten (10) but fewer than fifty-one (51) miners employed on the shift; and[At least two (2)
+emergency medical or mine emergency technicians shall be employed on every shift engaged in
+the production of coal, and at least one (1) emergency medical or mine emergency technician
+shall be employed on every nonproduction shift;]
+(b) For underground mines only, on every shift with more than fifty (50) miners working on the shift,
+there shall be one (1) additional emergency medical technician or mine emergency technician for
+each additional fifty (50) miners, or any portion thereof, engaged in the extraction, production, or
+preparation of coal and[For underground mines], at least one (1) [of the two (2) ]emergency medical or
+mine emergency technician[technicians] shall be underground at all times while miners are working in
+the mines regardless of how many miners are working on the shift.[ An additional emergency medical
+technician or mine emergency technician shall be employed for every additional fifty (50), or any
+portion thereof, employees per shift who are actively engaged in the extraction, production, or
+preparation of coal.]
+(3) If these emergency medical technicians or mine emergency technicians are also employed in other capacities
+at the coal mine, they shall be available for quick response to emergencies and shall have available to them at
+all times the equipment necessary to respond to emergencies, as prescribed by the commissioner.
+(4) If the licensee selects existing employees to be trained as emergency medical technicians or mine emergency
+technicians, the employees selected shall be paid their regular wages during training.
+(5) Certified emergency medical technicians and mine emergency technicians shall receive annual retraining in
+the manner established in an administrative regulation promulgated by the department, during which they shall
+receive their regular wages.
+Became law without Governor's signature March 25, 2025.
+Legislative Research Commission PDF Version
+[DELETED:  A " " " m f m a c p d t a t m f i t " m m a c m f w c i m f s c u o " " " " " " " " " " " t r i r t t p m h o a o r b " m a o p o a u w f w c i p f s a e a o b t s o t g u i c w t]
+[DELETED:  " " m a w d i b a n l t o a t m o m a " " " a t m a r r e l a c " e m t e o a m o a p t w m a t w o t w s b c n m t t ( h b a " " " " " " " " " " " " E T C a m e t s b t i a m e i a a p b t d P s c a a m e m]
+[DELETED:  A T p t t e f t c i a w K 3 a C T E O T F t e p s w a a e i t e p o I I C]
+
+
+================================================================================
+
+Raw Text:
+CHAPTER 80 1
+CHAPTER 80
+( HB 196 )
+AN ACT relating to coal mining.
+Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+Section 1. KRS 351.010 is amended to read as follows:
+(1) As used in this chapter, unless the context requires otherwise:
+(a) "Adulterated specimen" means a specimen containing a substance that is not a normal constituent or
+containing an endogenous substance at a concentration that is not a normal physiological concentration;
+(b) "Approved" means that a device, apparatus, equipment, or machinery, or practice employed in the
+mining of coal has been approved by the commissioner of the Department for Natural Resources;
+(c) "Assistant mine foreman" means a certified person designated to assist the mine foreman in the
+supervision of a portion or the whole of a mine or of the persons employed therein;
+(d) "Commercial mine" means any coal mine from which coal is mined for sale, commercial use, or
+exchange. This term shall in no instance be construed to include a mine where coal is produced for own
+use;
+(e) "Commission" means the Mine Safety Review Commission created by KRS 351.1041;
+(f) "Commissioner" means commissioner of the Department for Natural Resources;
+(g) "Department" means the Department for Natural Resources;
+(h) "Drift" means an opening through strata or coal seams with opening grades sufficient to permit coal to
+be hauled therefrom or which is used for the purpose of ventilation, drainage, ingress, egress, and other
+purposes in connection with the mining of coal;
+(i) "Excavations and workings" means the excavated portions of a mine;
+(j) "Fire boss" (often referred to as mine examiner) means a person certified as a mine foreman or assistant
+mine foreman who is designated by management to examine a mine or part of a mine for explosive gas
+or other dangers before a shift crew enters;
+(k) "Gassy mine." All mines shall be classified as gassy or gaseous;
+(l) "Illicit substances" includes prescription drugs used illegally or in excess of therapeutic levels as well as
+illegal drugs;
+(m) "Intake air" means air that has not passed through the last working place of the split or by the unsealed
+entrances to abandoned workings and by analysis contains not less than nineteen and one-half percent
+(19.5%) oxygen, no dangerous quantities of flammable gas, and no harmful amounts of poisonous gas
+or dust;
+(n) "Licensee" means any owner, operator, lessee, corporation, partnership, or other person who procures a
+license from the department to operate a coal mine;
+(o) "Medical review officer" or "MRO" means a licensed physician with knowledge of substance abuse
+disorders, laboratory testing, chain of custody, collection procedures, and the ability to verify positive,
+confirmed test results. The MRO shall possess the necessary medical training to interpret and evaluate a
+positive test result in relation to the person's medical history or any other relevant biomedical
+information;
+(p) "Mine" means any open pit or any underground workings from which coal is produced for sale,
+exchange, or commercial use, and all shafts, slopes, drifts, or inclines leading thereto, and includes all
+buildings and equipment, above or below the surface of the ground, used in connection with the
+workings. Workings that are adjacent to each other and under the same management, but which are
+administered as distinct units, shall be considered a separate mine;
+Legislative Research Commission PDF Version
+
+2 ACTS OF THE GENERAL ASSEMBLY
+(q) "Mine foreman" means a certified person whom the licensee or superintendent places in charge of the
+workings of the mine and of the persons employed therein;
+(r) "Mine manager" means a certified or noncertified person whom the licensee places in charge of a mine
+or mines and whose duties include but are not limited to operations at the mine or mines and
+supervision of personnel when qualified to do so;
+(s) "Open-pit mine" shall include open excavations and open-cut workings, including but not limited to
+auger operations and highwall mining systems for the extraction of coal. However, excavation of refuse
+from a coarse coal refuse fill for reprocessing of the refuse, which is permitted and bonded under KRS
+Chapter 350 and is regulated by the Mine Safety and Health Administration, shall not be required to
+obtain a license under this chapter;
+(t) "Operator" means the licensee, owner, lessee, or other person who operates or controls a coal mine;
+(u) "Permissible" refers to any equipment, device, or explosive that has been approved by the United States
+Bureau of Mines, the Mining Enforcement and Safety Administration, or the Mine Safety and Health
+Administration and that meets all requirements, restrictions, exceptions, limitations, and conditions
+attached to the classification by the approving agency;
+(v) "Preshift examination" means the examination of a mine or any portion thereof where miners are
+scheduled to work or travel, which shall be conducted not more than three (3) hours before any
+oncoming shift;
+(w) "Return air" means air that has passed through the last active working place on each split, or air that has
+passed through abandoned, inaccessible, or pillared workings;
+(x) "Serious physical injury" means an injury which has a reasonable potential to cause death;
+(y) "Shaft" means a vertical opening through the strata that is used in connection with the mining of coal,
+for the purpose of ventilation or drainage, or for hoisting men, coal, or materials;
+(z) "Slope" means an inclined opening used for the same purpose as a shaft;
+(aa) "Superintendent" means the person who, on behalf of the licensee, has immediate supervision of one (1)
+or more mines;
+(ab) "Supervisory personnel" means a person certified under the provisions of this chapter to assist in the
+supervision of a portion or the whole of the mine or of the persons employed therein;
+(ac) "Division" means the Division of Mine Safety;
+(ad) "Director" means the director of the Division of Mine Safety;
+(ae) "Probation" means the status of a certification or license issued by the Division of Mine Safety that
+conditions the validity of the certification or license upon compliance with orders of the Mine Safety
+Review Commission; [and]
+(af) "Final order of the commission" means an order which has not been appealed to the Franklin Circuit
+Court within thirty (30) days of entry, or an order affirming the commission's order that has been
+entered by any court within the Commonwealth and for which all appeals have been exhausted;
+(ag) "Emergency medical technician" has the same meaning as in KRS 311A.010; and
+(ah) "Mine emergency technician" means a person that holds a current surface or underground miner's
+certification in the Commonwealth and that has been certified as having met all the requirements
+prescribed by the Division of Mine Safety for that certification.
+(2) Except as the context otherwise requires, this chapter applies only to commercial coal mines.
+(3) The definitions in KRS 352.010 apply also to this chapter, unless the context requires otherwise.
+Section 2. KRS 351.127 is amended to read as follows:
+(1) Certified emergency medical technicians or mine emergency technicians shall be employed at every licensed
+coal mine whose employees are actively engaged in the extraction, production, or preparation of coal. Persons
+employed as mine emergency technicians shall be trained in a manner established in an administrative
+regulation promulgated by the department. Persons seeking certification as a mine emergency medical
+technician or mine emergency technician shall be subject to the following additional requirements:
+
+CHAPTER 80 3
+(a) All persons seeking certification as a mine emergency technician shall demonstrate drug- and alcohol-
+free status in accordance with KRS 351.182 and 351.183;
+(b) The drug and alcohol testing for those seeking certification as mine emergency technicians shall be
+administered prior to the examination for the certification, in accordance with KRS 351.182 and
+351.183; and
+(c) Certification as a mine emergency technician shall not be issued until the results of the drug and alcohol
+testing have been obtained. Notification shall be given to the person in accordance with KRS 351.184.
+(2) These emergency medical technicians or mine emergency technicians shall be employed in the following
+manner:
+(a) Except as otherwise provided in paragraph (b) of this subsection, for every shift engaged in the
+production of coal at a surface or underground coal mining operation, there shall be:
+1. One (1) emergency medical or mine emergency technician employed on every shift with ten
+(10) or fewer miners employed on the shift; and
+2. Two (2) emergency medical or mine emergency technicians employed on every shift with more
+than ten (10) but fewer than fifty-one (51) miners employed on the shift; and[At least two (2)
+emergency medical or mine emergency technicians shall be employed on every shift engaged in
+the production of coal, and at least one (1) emergency medical or mine emergency technician
+shall be employed on every nonproduction shift;]
+(b) For underground mines only, on every shift with more than fifty (50) miners working on the shift,
+there shall be one (1) additional emergency medical technician or mine emergency technician for
+each additional fifty (50) miners, or any portion thereof, engaged in the extraction, production, or
+preparation of coal and[For underground mines], at least one (1) [of the two (2) ]emergency medical or
+mine emergency technician[technicians] shall be underground at all times while miners are working in
+the mines regardless of how many miners are working on the shift.[ An additional emergency medical
+technician or mine emergency technician shall be employed for every additional fifty (50), or any
+portion thereof, employees per shift who are actively engaged in the extraction, production, or
+preparation of coal.]
+(3) If these emergency medical technicians or mine emergency technicians are also employed in other capacities
+at the coal mine, they shall be available for quick response to emergencies and shall have available to them at
+all times the equipment necessary to respond to emergencies, as prescribed by the commissioner.
+(4) If the licensee selects existing employees to be trained as emergency medical technicians or mine emergency
+technicians, the employees selected shall be paid their regular wages during training.
+(5) Certified emergency medical technicians and mine emergency technicians shall receive annual retraining in
+the manner established in an administrative regulation promulgated by the department, during which they shall
+receive their regular wages.
+Became law without Governor's signature March 25, 2025.
+Legislative Research Commission PDF Version
+
+[DELETED:  A " " " m f m a c p d t a t m f i t " m m a c m f w c i m f s c u o " " " " " " " " " " " t r i r t t p m h o a o r b " m a o p o a u w f w c i p f s a e a o b t s o t g u i c w t]
+[DELETED:  " " m a w d i b a n l t o a t m o m a " " " a t m a r r e l a c " e m t e o a m o a p t w m a t w o t w s b c n m t t ( h b a " " " " " " " " " " " " E T C a m e t s b t i a m e i a a p b t d P s c a a m e m]
+[DELETED:  A T p t t e f t c i a w K 3 a C T E O T F t e p s w a a e i t e p o I I C]

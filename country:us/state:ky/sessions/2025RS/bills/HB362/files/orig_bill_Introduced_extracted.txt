@@ -1,0 +1,638 @@
+Title: 1 AN ACT relating to wage transparency.
+Official Title: 1 AN ACT relating to wage transparency.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS BR 1242
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 337.010 is amended to read as follows:
+4 (1) As used in this chapter, unless the context requires otherwise:
+5 (a) "Commissioner" means the commissioner of the Department of Workplace
+6 Standards under the direction and supervision of the secretary of the
+7 Education and Labor Cabinet;
+8 (b) "Department" means the Department of Workplace Standards in the
+9 Education and Labor Cabinet;
+10 [(c) 1. "Wages" includes any compensation due to an employee by reason of
+11 his or her employment, including salaries, commissions, vested vacation
+12 pay, overtime pay, severance or dismissal pay, earned bonuses, and any
+13 other similar advantages agreed upon by the employer and the employee
+14 or provided to employees as an established policy. The wages shall be
+15 payable in legal tender of the United States, checks on banks, direct
+16 deposits, or payroll card accounts convertible into cash on demand at
+17 full face value, subject to the allowances made in this chapter. However,
+18 an employee may not be charged an activation fee and the payroll card
+19 account shall provide the employee with the ability, without charge, to
+20 make at least one (1) withdrawal per pay period for any amount up to
+21 and including the full account balance.
+22 2. For the purposes of calculating hourly wage rates for scheduled
+23 overtime for professional firefighters, as defined in KRS 95A.210(8),
+24 "wages" shall not include the distribution to qualified professional
+25 firefighters by local governments of supplements received from the
+26 Firefighters Foundation Program Fund. For the purposes of calculating
+27 hourly wage rates for unscheduled overtime for professional firefighters,
+Page 1 of 10
+XXXX 1/14/2025 10:07 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1242
+1 as defined in KRS 95A.210(9), "wages" shall include the distribution to
+2 qualified professional firefighters by local governments of supplements
+3 received from the Firefighters Foundation Program Fund;]
+4 (c)[(d)] "Employer" is any person, either individual, corporation, partnership,
+5 agency, or firm who employs an employee and includes any person, either
+6 individual, corporation, partnership, agency, or firm acting directly or
+7 indirectly in the interest of an employer in relation to an employee;[ and]
+8 (d)[(e)] "Employee" is any person employed by or suffered or permitted to work
+9 for an employer, except that:
+10 1. Notwithstanding any voluntary agreement entered into between the
+11 United States Department of Labor and a franchisee, neither a franchisee
+12 nor a franchisee's employee shall be deemed to be an employee of the
+13 franchisor for any purpose under this chapter; and
+14 2. Notwithstanding any voluntary agreement entered into between the
+15 United States Department of Labor and a franchisor, neither a franchisor
+16 nor a franchisor's employee shall be deemed to be an employee of the
+17 franchisee for any purpose under this chapter.
+18 For purposes of this paragraph, "franchisee" and "franchisor" have the same
+19 meanings as in 16 C.F.R. sec. 436.1;
+20 (e) "Job posting" means any advertisement for employment, whether printed or
+21 electronic, that:
+22 1. Is made by an employer for the purpose of attracting applications for
+23 employment from potential employees; and
+24 2. Describes the position the employer seeks to fill;
+25 (f) 1. "Wages" includes any compensation due to an employee by reason of
+26 his or her employment, including salaries, commissions, vested
+27 vacation pay, overtime pay, severance or dismissal pay, earned
+Page 2 of 10
+XXXX 1/14/2025 10:07 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1242
+1 bonuses, and any other similar advantages agreed upon by the
+2 employer and the employee or provided to employees as an established
+3 policy. The wages shall be payable in legal tender of the United States,
+4 checks on banks, direct deposits, or payroll card accounts convertible
+5 into cash on demand at full face value, subject to the allowances made
+6 in this chapter. However, an employee may not be charged an
+7 activation fee and the payroll card account shall provide the employee
+8 with the ability, without charge, to make at least one (1) withdrawal
+9 per pay period for any amount up to and including the full account
+10 balance.
+11 2. For the purposes of calculating hourly wage rates for scheduled
+12 overtime for professional firefighters, as defined in KRS 95A.210,
+13 "wages" shall not include the distribution to qualified professional
+14 firefighters by local governments of supplements received from the
+15 Firefighters Foundation Program Fund. For the purposes of
+16 calculating hourly wage rates for unscheduled overtime for
+17 professional firefighters, as defined in KRS 95A.210, "wages" shall
+18 include the distribution to qualified professional firefighters by local
+19 governments of supplements received from the Firefighters
+20 Foundation Program Fund; and
+21 (g) "Wage range" means the range of wages an employer anticipates relying
+22 on when setting wages for a position, and may include:
+23 1. Reference to any applicable pay scale;
+24 2. Previously determined range of wages for the position;
+25 3. Actual range of wages for those employees currently holding
+26 comparable positions; or
+27 4. The employer's budgeted amount for that position.
+Page 3 of 10
+XXXX 1/14/2025 10:07 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1242
+1 (2) As used in KRS 337.275 to 337.325, 337.345, and 337.385 to 337.405, unless the
+2 context requires otherwise:
+3 (a) "Agriculture" means farming in all its branches, including cultivation and
+4 tillage of the soil; dairying; production, cultivation, growing, and harvesting
+5 of any agricultural or horticultural commodity; raising of livestock, bees,
+6 furbearing animals, or poultry; and any practice, including any forestry or
+7 lumbering operations, performed on a farm in conjunction with farming
+8 operations, including preparation and delivery of produce to storage, to
+9 market, or to carriers for transportation to market;
+10 (b)[(a)] "Employee" is any person employed by or suffered or permitted to work
+11 for an employer, but shall not include:
+12 1. Any individual employed in agriculture;
+13 2. Any individual employed in a bona fide executive, administrative,
+14 supervisory, or professional capacity, or in the capacity of outside
+15 salesman, or as an outside collector as the terms are defined by
+16 administrative regulations of the commissioner;
+17 3. Any individual employed by the United States;
+18 4. Any individual employed in domestic service in or about a private
+19 home. The provisions of this section shall include individuals employed
+20 in domestic service in or about the home of an employer where there is
+21 more than one (1) domestic servant regularly employed;
+22 5. Any individual classified and given a certificate by the commissioner
+23 showing a status of learner, apprentice, worker with a disability,
+24 sheltered workshop employee, and student under administrative
+25 procedures and administrative regulations prescribed and promulgated
+26 by the commissioner. This certificate shall authorize employment at the
+27 wages, less than the established fixed minimum fair wage rates, and for
+Page 4 of 10
+XXXX 1/14/2025 10:07 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1242
+1 the period of time fixed by the commissioner and stated in the certificate
+2 issued to the person;
+3 6. Employees of retail stores, service industries, hotels, motels, and
+4 restaurant operations whose average annual gross volume of sales made
+5 for business done is less than ninety-five thousand dollars ($95,000) for
+6 the five (5) preceding years exclusive of excise taxes at the retail level
+7 or if the employee is the parent, spouse, child, or other member of his or
+8 her employer's immediate family;
+9 7. Any individual employed as a baby-sitter in an employer's home, or an
+10 individual employed as a companion by a sick, convalescing, or elderly
+11 person or by the person's immediate family, to care for that sick,
+12 convalescing, or elderly person and whose principal duties do not
+13 include housekeeping;
+14 8. Any individual engaged in the delivery of newspapers to the consumer;
+15 9. Any individual subject to the provisions of KRS Chapters 7, 16, 27A,
+16 30A, and 18A provided that the secretary of the Personnel Cabinet shall
+17 have the authority to prescribe by administrative regulation those
+18 emergency employees, or others, who shall receive overtime pay rates
+19 necessary for the efficient operation of government and the protection of
+20 affected employees;
+21 10. Any employee employed by an establishment which is an organized
+22 nonprofit camp, religious, or nonprofit educational conference center, if
+23 it does not operate for more than two hundred ten (210) days in any
+24 calendar year;
+25 11. Any employee whose function is to provide twenty-four (24) hour
+26 residential care on the employer's premises in a parental role to children
+27 who are primarily dependent, neglected, and abused and who are in the
+Page 5 of 10
+XXXX 1/14/2025 10:07 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1242
+1 care of private, nonprofit childcaring facilities licensed by the Cabinet
+2 for Health and Family Services under KRS 199.640 to 199.670;
+3 12. Any individual whose function is to provide twenty-four (24) hour
+4 residential care in his or her own home as a family caregiver, family
+5 home provider, or adult foster care provider and who is approved to
+6 provide family caregiver services to an adult with a disability through a
+7 contractual relationship with a community board for mental health or
+8 individuals with an intellectual disability established under KRS
+9 210.370 to 210.460 or through a contractual relationship with a certified
+10 waiver provider as defined in 907 KAR 7:005 sec. 1(5), or is certified or
+11 licensed by the Cabinet for Health and Family Services to provide adult
+12 foster care;
+13 13. A direct seller as defined in Section 3508(b)(2) of the Internal Revenue
+14 Code of 1986; or
+15 14. Any individual whose function is to provide behavior support services,
+16 behavior programming services, case management services, community
+17 living support services, positive behavior support services, or respite
+18 services through a contractual relationship with a certified waiver
+19 provider, as defined in 907 KAR 7:005 sec. 1(5), pursuant to a 1915(c)
+20 home and community based services waiver program, as defined in 907
+21 KAR 7:005 sec. 1(2);
+22 [(b) "Agriculture" means farming in all its branches, including cultivation and
+23 tillage of the soil; dairying; production, cultivation, growing, and harvesting
+24 of any agricultural or horticultural commodity; raising of livestock, bees,
+25 furbearing animals, or poultry; and any practice, including any forestry or
+26 lumbering operations, performed on a farm in conjunction with farming
+27 operations, including preparation and delivery of produce to storage, to
+Page 6 of 10
+XXXX 1/14/2025 10:07 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1242
+1 market, or to carriers for transportation to market;]
+2 (c) "Gratuity" means voluntary monetary contribution received by an employee
+3 from a guest, patron, or customer for services rendered;
+4 (d) "Tipped employee" means any employee engaged in an occupation in which
+5 he or she customarily and regularly receives more than thirty dollars ($30) per
+6 month in tips; and
+7 (e) "U.S.C." means the United States Code.
+8 SECTION 2. A NEW SECTION OF KRS CHAPTER 337 IS CREATED TO
+9 READ AS FOLLOWS:
+10 In every job posting, the employer responsible for the job posting shall disclose the
+11 wages or wage range, as well as a general description of all benefits or other
+12 compensation associated with the position described in the job posting.
+13 Section 3. KRS 95A.250 is amended to read as follows:
+14 (1) (a) An eligible local government shall be entitled to receive an annual supplement
+15 of three thousand dollars ($3,000) and, beginning July 1, 2018, an annual
+16 supplement of four thousand dollars ($4,000) for each qualified professional
+17 firefighter it employs, plus an amount equal to the required employer's
+18 contribution on the supplement to the defined benefit pension plan, or to a
+19 plan qualified under Section 401(a) or Section 457 of the Internal Revenue
+20 Code of 1954 as amended.
+21 (b) The employer's contribution to any of these plans on the supplement shall not
+22 exceed the required employer's contribution to the County Employees
+23 Retirement System pursuant to KRS Chapter 78 for the hazardous duty
+24 category. The pension contribution on the supplement shall be paid whether
+25 the professional firefighter entered the system under hazardous duty coverage
+26 or nonhazardous coverage.
+27 (c) The local unit of government shall pay the amount received for retirement
+Page 7 of 10
+XXXX 1/14/2025 10:07 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1242
+1 coverage to the appropriate retirement system to cover the required employer
+2 contribution on the supplement.
+3 (d) Should the foundation program funds be insufficient to pay employer
+4 contributions to the system, then the total amount available for pension
+5 payments shall be prorated to each eligible government so that each receives
+6 the same percentage of required pension costs attributable to the supplement.
+7 (e) 1. In addition to the payments received under paragraphs (a) and (b) of this
+8 subsection, but only if sufficient funds are available to fully reimburse
+9 each eligible local government for the employer contributions to the
+10 pension system, each local government shall receive an administrative
+11 expense reimbursement in an amount equal to seven and sixty-five one-
+12 hundredths percent (7.65%) of the total annual supplement received
+13 greater than three thousand one hundred dollars ($3,100) for each
+14 qualified professional firefighter it employs, subject to the cap
+15 established by subparagraph 3. of this paragraph.
+16 2. The local government may use the moneys received under this
+17 paragraph in any manner it deems necessary to partially cover the costs
+18 of administering the payments received under paragraph (a) of this
+19 subsection.
+20 3. The total amount distributed under this paragraph shall not exceed the
+21 total sum of two hundred fifty thousand dollars ($250,000) for each
+22 fiscal year. If there are insufficient funds to provide for full
+23 reimbursement as provided in subparagraph 1. of this paragraph, then
+24 the amount shall be distributed pro rata to each eligible local
+25 government so that each receives the same percentage attributable to its
+26 total receipt of the cash salary supplement.
+27 (2) (a) Each qualified professional firefighter, whose local government receives a
+Page 8 of 10
+XXXX 1/14/2025 10:07 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1242
+1 supplement pursuant to subsection (1)(a) of this section due to employment of
+2 the firefighter, shall receive distribution of the supplement from that local
+3 government in twelve (12) equal monthly installments with his or her pay for
+4 the last pay period of each month. The monthly distribution shall be
+5 calculated by dividing the supplement amount established in subsection (1)(a)
+6 of this section by twelve (12).
+7 (b) The supplement disbursed to a qualified professional firefighter pursuant to
+8 this section shall not be considered "wages" as defined by KRS
+9 337.010(1)(f)[(c)]1. and shall not be included in the hourly wage rate for
+10 calculation of overtime pursuant to KRS 337.285 for scheduled overtime. The
+11 supplement shall be included in the hourly wage rates for calculation of
+12 overtime for unscheduled overtime pursuant to KRS 337.285.
+13 (c) To determine the addition to the hourly wage rate for calculation of overtime
+14 on unscheduled overtime, the annual supplement shall be divided by two
+15 thousand eighty (2,080). The overtime rate for unscheduled overtime shall be
+16 calculated by adding the quotient, which is the amount of the annual
+17 supplement divided by two thousand eighty (2,080), to the hourly wage rate
+18 and multiplying the total by one and one-half (1.5). The enhanced overtime
+19 rate shall be paid only for unscheduled overtime. Scheduled overtime shall be
+20 paid at one and one-half (1.5) times the regular hourly wage rate, excluding
+21 the supplement.
+22 (3) (a) The Kentucky Community and Technical College System shall be entitled to
+23 receive annually a supplement equal to the amount determined in subsection
+24 (1) of this section for each Kentucky fire and rescue training coordinator
+25 employed by the Kentucky Community and Technical College System who
+26 meets the qualifications for individual firefighters required in KRS 95A.230,
+27 plus an amount equal to the required employer's contribution on the
+Page 9 of 10
+XXXX 1/14/2025 10:07 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1242
+1 supplement to the defined benefit pension plan.
+2 (b) The Department of Military Affairs shall be entitled to receive annually a
+3 supplement equal to the amount determined in subsection (1) of this section
+4 for each civilian firefighter employed by the Department of Military Affairs
+5 who meets the qualifications for individual firefighters required in KRS
+6 95A.230, plus an amount equal to the required employer's contribution on the
+7 supplement to the defined benefit pension plan.
+8 (c) Each fire and rescue training coordinator employed by the Kentucky
+9 Community and Technical College System and each civilian firefighter
+10 employed by the Department of Military Affairs, whose employer receives a
+11 supplement pursuant to this subsection, shall receive distribution from that
+12 employer of the supplement which his or her qualifications brought to the
+13 employer. The supplement distributed shall be in addition to his or her regular
+14 salary.
+15 Section 4. KRS 337.020 is amended to read as follows:
+16 Every employer doing business in this state shall, as often as semimonthly, pay to each of
+17 its employees all wages or salary earned to a day not more than eighteen (18) days prior
+18 to the date of that payment. Any employee who is absent at the time fixed for payment, or
+19 who, for any other reason, is not paid at that time, shall be paid thereafter at any time
+20 upon six (6) days' demand. No employer subject to this section shall, by any means,
+21 secure exemption from it. Every such employee shall have a right of action against any
+22 such employer for the full amount of his or her wages due on each regular pay day. The
+23 provisions of this section do not apply to those individuals defined in KRS
+24 337.010(2)(b)[(a)]2.
+Page 10 of 10
+XXXX 1/14/2025 10:07 AM Jacketed
+[DELETED:   2  J A B S ( A ( " m t c o t D o W S u t d a s o t s o t E ( " m t D o W S i t E [ 1 " h p o o p i l t o t U S c o b d d f a a m a 2 F t p o c h w r f s o f p f a d i K 9 " s n i t d t q p f b l g o s r f t F h]
+[DELETED:   2  J a q r ( " i a p e i c p a i c p a o f a d o i ( " f 1 N a v a e i b t U n f 2 N a v a e i b t U n f  F m ( " e 1 I e 2 D ( 1 " h o h e i s c v v p o p s o d p e]
+[DELETED:   2  J b a a o s a a u b t e p c i i t c H a e m n b c a a w p b 2 F t p o c h w r f s o f p f a d i K 9 " s n i t d t q p f b l g o s r f t F F P F F t p o c h w r f u o f p i g o s r f t F F ( " o 1 R 2 P 3 A r o w f t e c h c 4 T]
+[DELETED:   2  J ( A c ( " t o f l o p o a f i c w f o i p a d o p t s t m ( " f 1 A 2 A i e i a b f e a s o p c o i t c o o s o a a o c a t t a d b a 3 A 4 A i e i d s i o a a p h i m 5 A s a s o l a w w a d s w e a s u a p a a r p a p b w]
+[DELETED:   2  J t i 6 E o r s s i h m a r f t o h 7 A i p o b t p i f t c f t s c o e p a w p d d n i 8 A 9 A 3 h t a t p b a r t e n a 1 A e e b a e w i a o n i m t c 1 A e w f i t p t ( h r w]
+[DELETED:   2  J c f 1 A i w f i t p t ( h r h p o a f c p a w i a t p c r w a c b f m h o i w a i d e u K 2 w l f 1 A C 1 A b l s s p b s s o r s t a c r w a c w p h K [ " m f i a i b i c a t o a a o h c r o l b f a o p a a p i a f o l o p o a f i c w f o i p a d o p t s t]
+[DELETED:   2  J m ( " f ( " h m ( " S R I f w o w r a w a a g d o a b o o c S ( ( A o t t d ( a b J 1 2 a a s f i e p a a e t t r e c p C ( T e t r e c t t C E R S p t K C 7 f t h d c t o ( T a f]
+[DELETED:   2  J c c ( S t f p f b i t p e c t t s t t t a a f p p t ( 1 I s e e l g f t e c t t p e h p ( o t t a s r g t t t o h d ( f e q p f i e s t t c e 2 T l g m u t m r u t p o a t p r u p ( o t s 3 T t s o t h f t d ( f e f y I t a i f t p f f r t a s b d p r t e e l g t ( ( E q p f w l g r a]
+[DELETED:   2  J s t f s r d o t s f t l g t l p p o e m T m d s b c o ( T t s s n b c " a d b K 3 a s n b i i t h w r f c s s b i i t h w r f c o o ( T o u o t a s s b d b t t c b a t q w i t a o t a s a r p t ( ( T r ( o t s f e K f a r t c e m p a a e t t r e c o t]
+[DELETED:   2  J s ( T D o M A s b e t r a a s f w m t q f i f r i K 9 s ( E f a r t c e b t K C a T C S a e c f e s p t t s s r d f t e o t s w h o h q b t t e s S E i t w u s ( d d N e s t t s s b a m s s p o t s d n a t t i d i K 3]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS BR 1242
+1 AN ACT relating to wage transparency.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 337.010 is amended to read as follows:
+4 (1) As used in this chapter, unless the context requires otherwise:
+5 (a) "Commissioner" means the commissioner of the Department of Workplace
+6 Standards under the direction and supervision of the secretary of the
+7 Education and Labor Cabinet;
+8 (b) "Department" means the Department of Workplace Standards in the
+9 Education and Labor Cabinet;
+10 [(c) 1. "Wages" includes any compensation due to an employee by reason of
+11 his or her employment, including salaries, commissions, vested vacation
+12 pay, overtime pay, severance or dismissal pay, earned bonuses, and any
+13 other similar advantages agreed upon by the employer and the employee
+14 or provided to employees as an established policy. The wages shall be
+15 payable in legal tender of the United States, checks on banks, direct
+16 deposits, or payroll card accounts convertible into cash on demand at
+17 full face value, subject to the allowances made in this chapter. However,
+18 an employee may not be charged an activation fee and the payroll card
+19 account shall provide the employee with the ability, without charge, to
+20 make at least one (1) withdrawal per pay period for any amount up to
+21 and including the full account balance.
+22 2. For the purposes of calculating hourly wage rates for scheduled
+23 overtime for professional firefighters, as defined in KRS 95A.210(8),
+24 "wages" shall not include the distribution to qualified professional
+25 firefighters by local governments of supplements received from the
+26 Firefighters Foundation Program Fund. For the purposes of calculating
+27 hourly wage rates for unscheduled overtime for professional firefighters,
+Page 1 of 10
+XXXX 1/14/2025 10:07 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1242
+1 as defined in KRS 95A.210(9), "wages" shall include the distribution to
+2 qualified professional firefighters by local governments of supplements
+3 received from the Firefighters Foundation Program Fund;]
+4 (c)[(d)] "Employer" is any person, either individual, corporation, partnership,
+5 agency, or firm who employs an employee and includes any person, either
+6 individual, corporation, partnership, agency, or firm acting directly or
+7 indirectly in the interest of an employer in relation to an employee;[ and]
+8 (d)[(e)] "Employee" is any person employed by or suffered or permitted to work
+9 for an employer, except that:
+10 1. Notwithstanding any voluntary agreement entered into between the
+11 United States Department of Labor and a franchisee, neither a franchisee
+12 nor a franchisee's employee shall be deemed to be an employee of the
+13 franchisor for any purpose under this chapter; and
+14 2. Notwithstanding any voluntary agreement entered into between the
+15 United States Department of Labor and a franchisor, neither a franchisor
+16 nor a franchisor's employee shall be deemed to be an employee of the
+17 franchisee for any purpose under this chapter.
+18 For purposes of this paragraph, "franchisee" and "franchisor" have the same
+19 meanings as in 16 C.F.R. sec. 436.1;
+20 (e) "Job posting" means any advertisement for employment, whether printed or
+21 electronic, that:
+22 1. Is made by an employer for the purpose of attracting applications for
+23 employment from potential employees; and
+24 2. Describes the position the employer seeks to fill;
+25 (f) 1. "Wages" includes any compensation due to an employee by reason of
+26 his or her employment, including salaries, commissions, vested
+27 vacation pay, overtime pay, severance or dismissal pay, earned
+Page 2 of 10
+XXXX 1/14/2025 10:07 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1242
+1 bonuses, and any other similar advantages agreed upon by the
+2 employer and the employee or provided to employees as an established
+3 policy. The wages shall be payable in legal tender of the United States,
+4 checks on banks, direct deposits, or payroll card accounts convertible
+5 into cash on demand at full face value, subject to the allowances made
+6 in this chapter. However, an employee may not be charged an
+7 activation fee and the payroll card account shall provide the employee
+8 with the ability, without charge, to make at least one (1) withdrawal
+9 per pay period for any amount up to and including the full account
+10 balance.
+11 2. For the purposes of calculating hourly wage rates for scheduled
+12 overtime for professional firefighters, as defined in KRS 95A.210,
+13 "wages" shall not include the distribution to qualified professional
+14 firefighters by local governments of supplements received from the
+15 Firefighters Foundation Program Fund. For the purposes of
+16 calculating hourly wage rates for unscheduled overtime for
+17 professional firefighters, as defined in KRS 95A.210, "wages" shall
+18 include the distribution to qualified professional firefighters by local
+19 governments of supplements received from the Firefighters
+20 Foundation Program Fund; and
+21 (g) "Wage range" means the range of wages an employer anticipates relying
+22 on when setting wages for a position, and may include:
+23 1. Reference to any applicable pay scale;
+24 2. Previously determined range of wages for the position;
+25 3. Actual range of wages for those employees currently holding
+26 comparable positions; or
+27 4. The employer's budgeted amount for that position.
+Page 3 of 10
+XXXX 1/14/2025 10:07 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1242
+1 (2) As used in KRS 337.275 to 337.325, 337.345, and 337.385 to 337.405, unless the
+2 context requires otherwise:
+3 (a) "Agriculture" means farming in all its branches, including cultivation and
+4 tillage of the soil; dairying; production, cultivation, growing, and harvesting
+5 of any agricultural or horticultural commodity; raising of livestock, bees,
+6 furbearing animals, or poultry; and any practice, including any forestry or
+7 lumbering operations, performed on a farm in conjunction with farming
+8 operations, including preparation and delivery of produce to storage, to
+9 market, or to carriers for transportation to market;
+10 (b)[(a)] "Employee" is any person employed by or suffered or permitted to work
+11 for an employer, but shall not include:
+12 1. Any individual employed in agriculture;
+13 2. Any individual employed in a bona fide executive, administrative,
+14 supervisory, or professional capacity, or in the capacity of outside
+15 salesman, or as an outside collector as the terms are defined by
+16 administrative regulations of the commissioner;
+17 3. Any individual employed by the United States;
+18 4. Any individual employed in domestic service in or about a private
+19 home. The provisions of this section shall include individuals employed
+20 in domestic service in or about the home of an employer where there is
+21 more than one (1) domestic servant regularly employed;
+22 5. Any individual classified and given a certificate by the commissioner
+23 showing a status of learner, apprentice, worker with a disability,
+24 sheltered workshop employee, and student under administrative
+25 procedures and administrative regulations prescribed and promulgated
+26 by the commissioner. This certificate shall authorize employment at the
+27 wages, less than the established fixed minimum fair wage rates, and for
+Page 4 of 10
+XXXX 1/14/2025 10:07 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1242
+1 the period of time fixed by the commissioner and stated in the certificate
+2 issued to the person;
+3 6. Employees of retail stores, service industries, hotels, motels, and
+4 restaurant operations whose average annual gross volume of sales made
+5 for business done is less than ninety-five thousand dollars ($95,000) for
+6 the five (5) preceding years exclusive of excise taxes at the retail level
+7 or if the employee is the parent, spouse, child, or other member of his or
+8 her employer's immediate family;
+9 7. Any individual employed as a baby-sitter in an employer's home, or an
+10 individual employed as a companion by a sick, convalescing, or elderly
+11 person or by the person's immediate family, to care for that sick,
+12 convalescing, or elderly person and whose principal duties do not
+13 include housekeeping;
+14 8. Any individual engaged in the delivery of newspapers to the consumer;
+15 9. Any individual subject to the provisions of KRS Chapters 7, 16, 27A,
+16 30A, and 18A provided that the secretary of the Personnel Cabinet shall
+17 have the authority to prescribe by administrative regulation those
+18 emergency employees, or others, who shall receive overtime pay rates
+19 necessary for the efficient operation of government and the protection of
+20 affected employees;
+21 10. Any employee employed by an establishment which is an organized
+22 nonprofit camp, religious, or nonprofit educational conference center, if
+23 it does not operate for more than two hundred ten (210) days in any
+24 calendar year;
+25 11. Any employee whose function is to provide twenty-four (24) hour
+26 residential care on the employer's premises in a parental role to children
+27 who are primarily dependent, neglected, and abused and who are in the
+Page 5 of 10
+XXXX 1/14/2025 10:07 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1242
+1 care of private, nonprofit childcaring facilities licensed by the Cabinet
+2 for Health and Family Services under KRS 199.640 to 199.670;
+3 12. Any individual whose function is to provide twenty-four (24) hour
+4 residential care in his or her own home as a family caregiver, family
+5 home provider, or adult foster care provider and who is approved to
+6 provide family caregiver services to an adult with a disability through a
+7 contractual relationship with a community board for mental health or
+8 individuals with an intellectual disability established under KRS
+9 210.370 to 210.460 or through a contractual relationship with a certified
+10 waiver provider as defined in 907 KAR 7:005 sec. 1(5), or is certified or
+11 licensed by the Cabinet for Health and Family Services to provide adult
+12 foster care;
+13 13. A direct seller as defined in Section 3508(b)(2) of the Internal Revenue
+14 Code of 1986; or
+15 14. Any individual whose function is to provide behavior support services,
+16 behavior programming services, case management services, community
+17 living support services, positive behavior support services, or respite
+18 services through a contractual relationship with a certified waiver
+19 provider, as defined in 907 KAR 7:005 sec. 1(5), pursuant to a 1915(c)
+20 home and community based services waiver program, as defined in 907
+21 KAR 7:005 sec. 1(2);
+22 [(b) "Agriculture" means farming in all its branches, including cultivation and
+23 tillage of the soil; dairying; production, cultivation, growing, and harvesting
+24 of any agricultural or horticultural commodity; raising of livestock, bees,
+25 furbearing animals, or poultry; and any practice, including any forestry or
+26 lumbering operations, performed on a farm in conjunction with farming
+27 operations, including preparation and delivery of produce to storage, to
+Page 6 of 10
+XXXX 1/14/2025 10:07 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1242
+1 market, or to carriers for transportation to market;]
+2 (c) "Gratuity" means voluntary monetary contribution received by an employee
+3 from a guest, patron, or customer for services rendered;
+4 (d) "Tipped employee" means any employee engaged in an occupation in which
+5 he or she customarily and regularly receives more than thirty dollars ($30) per
+6 month in tips; and
+7 (e) "U.S.C." means the United States Code.
+8 SECTION 2. A NEW SECTION OF KRS CHAPTER 337 IS CREATED TO
+9 READ AS FOLLOWS:
+10 In every job posting, the employer responsible for the job posting shall disclose the
+11 wages or wage range, as well as a general description of all benefits or other
+12 compensation associated with the position described in the job posting.
+13 Section 3. KRS 95A.250 is amended to read as follows:
+14 (1) (a) An eligible local government shall be entitled to receive an annual supplement
+15 of three thousand dollars ($3,000) and, beginning July 1, 2018, an annual
+16 supplement of four thousand dollars ($4,000) for each qualified professional
+17 firefighter it employs, plus an amount equal to the required employer's
+18 contribution on the supplement to the defined benefit pension plan, or to a
+19 plan qualified under Section 401(a) or Section 457 of the Internal Revenue
+20 Code of 1954 as amended.
+21 (b) The employer's contribution to any of these plans on the supplement shall not
+22 exceed the required employer's contribution to the County Employees
+23 Retirement System pursuant to KRS Chapter 78 for the hazardous duty
+24 category. The pension contribution on the supplement shall be paid whether
+25 the professional firefighter entered the system under hazardous duty coverage
+26 or nonhazardous coverage.
+27 (c) The local unit of government shall pay the amount received for retirement
+Page 7 of 10
+XXXX 1/14/2025 10:07 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1242
+1 coverage to the appropriate retirement system to cover the required employer
+2 contribution on the supplement.
+3 (d) Should the foundation program funds be insufficient to pay employer
+4 contributions to the system, then the total amount available for pension
+5 payments shall be prorated to each eligible government so that each receives
+6 the same percentage of required pension costs attributable to the supplement.
+7 (e) 1. In addition to the payments received under paragraphs (a) and (b) of this
+8 subsection, but only if sufficient funds are available to fully reimburse
+9 each eligible local government for the employer contributions to the
+10 pension system, each local government shall receive an administrative
+11 expense reimbursement in an amount equal to seven and sixty-five one-
+12 hundredths percent (7.65%) of the total annual supplement received
+13 greater than three thousand one hundred dollars ($3,100) for each
+14 qualified professional firefighter it employs, subject to the cap
+15 established by subparagraph 3. of this paragraph.
+16 2. The local government may use the moneys received under this
+17 paragraph in any manner it deems necessary to partially cover the costs
+18 of administering the payments received under paragraph (a) of this
+19 subsection.
+20 3. The total amount distributed under this paragraph shall not exceed the
+21 total sum of two hundred fifty thousand dollars ($250,000) for each
+22 fiscal year. If there are insufficient funds to provide for full
+23 reimbursement as provided in subparagraph 1. of this paragraph, then
+24 the amount shall be distributed pro rata to each eligible local
+25 government so that each receives the same percentage attributable to its
+26 total receipt of the cash salary supplement.
+27 (2) (a) Each qualified professional firefighter, whose local government receives a
+Page 8 of 10
+XXXX 1/14/2025 10:07 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1242
+1 supplement pursuant to subsection (1)(a) of this section due to employment of
+2 the firefighter, shall receive distribution of the supplement from that local
+3 government in twelve (12) equal monthly installments with his or her pay for
+4 the last pay period of each month. The monthly distribution shall be
+5 calculated by dividing the supplement amount established in subsection (1)(a)
+6 of this section by twelve (12).
+7 (b) The supplement disbursed to a qualified professional firefighter pursuant to
+8 this section shall not be considered "wages" as defined by KRS
+9 337.010(1)(f)[(c)]1. and shall not be included in the hourly wage rate for
+10 calculation of overtime pursuant to KRS 337.285 for scheduled overtime. The
+11 supplement shall be included in the hourly wage rates for calculation of
+12 overtime for unscheduled overtime pursuant to KRS 337.285.
+13 (c) To determine the addition to the hourly wage rate for calculation of overtime
+14 on unscheduled overtime, the annual supplement shall be divided by two
+15 thousand eighty (2,080). The overtime rate for unscheduled overtime shall be
+16 calculated by adding the quotient, which is the amount of the annual
+17 supplement divided by two thousand eighty (2,080), to the hourly wage rate
+18 and multiplying the total by one and one-half (1.5). The enhanced overtime
+19 rate shall be paid only for unscheduled overtime. Scheduled overtime shall be
+20 paid at one and one-half (1.5) times the regular hourly wage rate, excluding
+21 the supplement.
+22 (3) (a) The Kentucky Community and Technical College System shall be entitled to
+23 receive annually a supplement equal to the amount determined in subsection
+24 (1) of this section for each Kentucky fire and rescue training coordinator
+25 employed by the Kentucky Community and Technical College System who
+26 meets the qualifications for individual firefighters required in KRS 95A.230,
+27 plus an amount equal to the required employer's contribution on the
+Page 9 of 10
+XXXX 1/14/2025 10:07 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1242
+1 supplement to the defined benefit pension plan.
+2 (b) The Department of Military Affairs shall be entitled to receive annually a
+3 supplement equal to the amount determined in subsection (1) of this section
+4 for each civilian firefighter employed by the Department of Military Affairs
+5 who meets the qualifications for individual firefighters required in KRS
+6 95A.230, plus an amount equal to the required employer's contribution on the
+7 supplement to the defined benefit pension plan.
+8 (c) Each fire and rescue training coordinator employed by the Kentucky
+9 Community and Technical College System and each civilian firefighter
+10 employed by the Department of Military Affairs, whose employer receives a
+11 supplement pursuant to this subsection, shall receive distribution from that
+12 employer of the supplement which his or her qualifications brought to the
+13 employer. The supplement distributed shall be in addition to his or her regular
+14 salary.
+15 Section 4. KRS 337.020 is amended to read as follows:
+16 Every employer doing business in this state shall, as often as semimonthly, pay to each of
+17 its employees all wages or salary earned to a day not more than eighteen (18) days prior
+18 to the date of that payment. Any employee who is absent at the time fixed for payment, or
+19 who, for any other reason, is not paid at that time, shall be paid thereafter at any time
+20 upon six (6) days' demand. No employer subject to this section shall, by any means,
+21 secure exemption from it. Every such employee shall have a right of action against any
+22 such employer for the full amount of his or her wages due on each regular pay day. The
+23 provisions of this section do not apply to those individuals defined in KRS
+24 337.010(2)(b)[(a)]2.
+Page 10 of 10
+XXXX 1/14/2025 10:07 AM Jacketed
+
+[DELETED:   2  J A B S ( A ( " m t c o t D o W S u t d a s o t s o t E ( " m t D o W S i t E [ 1 " h p o o p i l t o t U S c o b d d f a a m a 2 F t p o c h w r f s o f p f a d i K 9 " s n i t d t q p f b l g o s r f t F h]
+[DELETED:   2  J a q r ( " i a p e i c p a i c p a o f a d o i ( " f 1 N a v a e i b t U n f 2 N a v a e i b t U n f  F m ( " e 1 I e 2 D ( 1 " h o h e i s c v v p o p s o d p e]
+[DELETED:   2  J b a a o s a a u b t e p c i i t c H a e m n b c a a w p b 2 F t p o c h w r f s o f p f a d i K 9 " s n i t d t q p f b l g o s r f t F F P F F t p o c h w r f u o f p i g o s r f t F F ( " o 1 R 2 P 3 A r o w f t e c h c 4 T]
+[DELETED:   2  J ( A c ( " t o f l o p o a f i c w f o i p a d o p t s t m ( " f 1 A 2 A i e i a b f e a s o p c o i t c o o s o a a o c a t t a d b a 3 A 4 A i e i d s i o a a p h i m 5 A s a s o l a w w a d s w e a s u a p a a r p a p b w]
+[DELETED:   2  J t i 6 E o r s s i h m a r f t o h 7 A i p o b t p i f t c f t s c o e p a w p d d n i 8 A 9 A 3 h t a t p b a r t e n a 1 A e e b a e w i a o n i m t c 1 A e w f i t p t ( h r w]
+[DELETED:   2  J c f 1 A i w f i t p t ( h r h p o a f c p a w i a t p c r w a c b f m h o i w a i d e u K 2 w l f 1 A C 1 A b l s s p b s s o r s t a c r w a c w p h K [ " m f i a i b i c a t o a a o h c r o l b f a o p a a p i a f o l o p o a f i c w f o i p a d o p t s t]
+[DELETED:   2  J m ( " f ( " h m ( " S R I f w o w r a w a a g d o a b o o c S ( ( A o t t d ( a b J 1 2 a a s f i e p a a e t t r e c p C ( T e t r e c t t C E R S p t K C 7 f t h d c t o ( T a f]
+[DELETED:   2  J c c ( S t f p f b i t p e c t t s t t t a a f p p t ( 1 I s e e l g f t e c t t p e h p ( o t t a s r g t t t o h d ( f e q p f i e s t t c e 2 T l g m u t m r u t p o a t p r u p ( o t s 3 T t s o t h f t d ( f e f y I t a i f t p f f r t a s b d p r t e e l g t ( ( E q p f w l g r a]
+[DELETED:   2  J s t f s r d o t s f t l g t l p p o e m T m d s b c o ( T t s s n b c " a d b K 3 a s n b i i t h w r f c s s b i i t h w r f c o o ( T o u o t a s s b d b t t c b a t q w i t a o t a s a r p t ( ( T r ( o t s f e K f a r t c e m p a a e t t r e c o t]
+[DELETED:   2  J s ( T D o M A s b e t r a a s f w m t q f i f r i K 9 s ( E f a r t c e b t K C a T C S a e c f e s p t t s s r d f t e o t s w h o h q b t t e s S E i t w u s ( d d N e s t t s s b a m s s p o t s d n a t t i d i K 3]

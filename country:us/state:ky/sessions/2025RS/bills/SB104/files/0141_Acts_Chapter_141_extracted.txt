@@ -1,0 +1,434 @@
+Title: AN ACT relating to the Kentucky Public Employees' Deferred Compensation Authority.
+Official Title: AN ACT relating to the Kentucky Public Employees' Deferred Compensation Authority.
+Number of Sections: 12
+Source: versions - Acts Chapter 141
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+CHAPTER 141 1
+CHAPTER 141
+( SB 104 )
+Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+Section 1. KRS 18A.230 is amended to read as follows:
+As used in KRS 18A.230 to 18A.275, unless the context requires otherwise:
+(1) "Employee" means a person holding an office, position or employment in state government and agencies
+thereof and also includes persons in the public school system;
+(2) "Income" means earnings of a person while an employee of the state and agencies thereof or public school
+system;
+(3) "Asset" means any owned physical object or right having a monetary value;
+(4) "Trust fund" means a fund consisting of assets received and held by a government unit or its designated
+custodian to be expended or invested in accordance with conditions of the trust;
+(5) "Deferred compensation" means a method which allows employees to authorize income to be deducted from
+their current earning and set aside to be paid at a later date;
+(6) "Board" means the board of trustees as established by KRS 18A.245;
+(7) "Authority" means the Kentucky Public Employees' Deferred Compensation Authority;[ and ]
+(8) "Financial planning" means the process of determining whether and how a participant can meet retirement
+goals through the proper management of financial resources; and
+(9) "Self-directed brokerage account" means a brokerage account of record offered by a broker-dealer selected
+by the board and registered with the United States Securities and Exchange Commission which allows
+participants to invest in securities registered with the United States Securities and Exchange Commission as
+alternative plan investments in addition to those designated by the board.
+Section 2. KRS 18A.235 is amended to read as follows:
+The Kentucky Public Employees Deferred Compensation System is established pursuant to the provisions of KRS
+18A.230 to 18A.275, and shall transact all of its business and shall have the powers and privileges of a corporation,
+including but not limited to the following powers:
+(1) The board shall have the power and authority to purchase fiduciary liability insurance; and
+(2) The board shall reimburse or advance any trustee, officer, or employee for any legal expense resulting from
+a civil action arising out of the performance of his or her official duties. The hourly rate for any contract
+for legal services under this subsection shall not exceed the maximum hourly rate provided in the Legal
+Services Duties and Maximum Rate Schedule promulgated by the Government Contract Review Committee
+established pursuant to KRS 45A.705, unless a higher rate is specifically approved by the secretary of the
+Finance and Administration Cabinet or his or her designee.
+Section 3. KRS 18A.245 is amended to read as follows:
+(1) The authority shall be administered by a board of trustees composed of seven (7) members, who shall be as
+follows:
+(a) Secretary, Finance and Administration Cabinet, ex officio;
+(b) Secretary of personnel, ex officio;
+(c) The state controller, ex officio;
+(d) The State Treasurer, ex officio; and
+Legislative Research Commission PDF Version
+2 ACTS OF THE GENERAL ASSEMBLY
+(e) Three (3) at-large members appointed by the Governor, who do not have a conflict of interest as
+provided by KRS 18A.262, one (1) of whom shall have at least five (5) years of investment or banking
+experience and one (1) of whom shall be a representative of a nonstate government employer.
+(2) The members of the board appointed by the Governor shall serve for a period of four (4) years and the ex
+officio members of the board shall serve only for the period of their term of office. Each ex officio member
+may designate a proxy by written notice to the authority prior to call of order of each meeting, and the proxy
+shall be entitled to participate as a full voting member.
+(3) Any vacancy which may occur shall be filled in the same manner provided for the selection of the particular
+member for a full term. Vacancies shall be filled for the unexpired term only.
+(4) Membership on the board of trustees shall not be incompatible with any other office unless a constitutional
+incompatibility exists, and no member shall be subject to removal from office, except upon conviction of a
+felony, or of a misdemeanor involving moral turpitude.
+(5) Board members who do not otherwise receive a salary or compensation from the State Treasury shall receive a
+per diem of one hundred dollars ($100) for each day they are in session or on official duty, and they shall be
+reimbursed for their actual and necessary expenses in accordance with state administrative regulations and
+standards applicable to state employees.
+(6) The board shall meet at least once in each quarter of the year, and may meet in special session upon the call of
+the chair[chairman]. It shall elect a chair[chairman] and a vice chair[chairman]. A majority of the members
+shall constitute a quorum, and all actions taken by the board shall be by affirmative vote of a majority of the
+members present.
+(7) The authority shall be attached to the Personnel Cabinet for administrative purposes only. The board may take
+but is not limited to the following actions:
+(a) Appoint such employees as it deems necessary and fix the compensation for all employees of the board,
+subject to the approval of the secretary. The authority shall be headed by an executive director who
+shall be appointed by the board of trustees[directors] of the authority without the limitations imposed
+by KRS 12.040 and KRS Chapter 18A. The executive director of the authority and employees
+appointed by the board shall serve at its will and pleasure. All other staff of the authority shall be
+employed under KRS 18A.005 to 18A.200;
+(b) Require such employees as it thinks proper to execute bonds for the faithful performance of their duties;
+(c) Establish a system of accounting;
+(d) Contract for such services as may be necessary for the operation or administration of deferred
+compensation plans authorized in KRS 18A.230 to 18A.275, including annual audits;
+(e) Do all things, take all actions, and adopt plans for participation consistent with federal law and with the
+provisions of KRS 18A.230 to 18A.275, including but not limited to:
+
+Section 2:
+1. Amending the board's plan for the Kentucky Public Employees 401(k) Deferred Compensation
+Plan or the Kentucky Employees 457 Deferred Compensation Plan, or both such plans, to adopt,
+maintain, and terminate a deemed IRA program under Internal Revenue Code Section 408;
+
+Section 3:
+2. Amending the board's plan for the Kentucky Public Employees 401(k) Deferred Compensation
+Plan to adopt, maintain, and terminate a qualified Roth contribution program under Internal
+Revenue Code Section 402A; and
+
+Section 4:
+3. Adopting, maintaining, and terminating an Internal Revenue Code Section 403(b) plan for
+qualified employees;[ and]
+(f) Contract with persons or companies duly licensed by the state of Kentucky and applicable federal
+regulatory agencies, at the cost of the trust fund or individual participant accounts, to provide
+investment advice and financial planning to participants in the plans, with respect to their selection of
+investments. The board may promulgate administrative regulations for provision of financial planning
+to participants in the plans;
+(g) Contract with companies duly licensed by the state of Kentucky and applicable federal regulatory
+agencies to provide self-directed brokerage accounts to participants for their individual selection of
+plan account investments. Such contracts with self-directed brokerage account vendors shall be
+exempt from KRS Chapters 45 and 45A. The board may promulgate administrative regulations in
+CHAPTER 141 3
+accordance with KRS Chapter 13A for the provision of self-directed brokerage accounts to
+participants; and
+(h) Promulgate administrative regulations in accordance with KRS Chapter 13A, provided the
+regulations are not inconsistent with KRS 18A.230 to 18A.275, necessary or proper in order to carry
+out the provisions of this section and duties authorized by KRS 18A.230 to 18A.275.
+(8) The Attorney General, or an assistant designated by him or her, may act as legal adviser and attorney for the
+board. The board may also appoint legal counsel in accordance with KRS Chapter 12.
+(9) The board shall prepare an annual financial report showing all receipts, disbursements, assets, and liabilities
+and shall submit a copy to the Governor and the Legislative Research Commission. All board meetings and
+records shall be open for inspection by the public.
+(10) Notwithstanding any other evidence of legislative intent, it is hereby declared to be the controlling
+legislative intent that the provisions of KRS 18A.230 to 18A.275 shall conform with federal statutes or
+regulations and meet the qualification requirements under 26 U.S.C. secs. 401(a) and 457(b), applicable
+federal regulations, and other published guidance, and the board shall have the authority to promulgate
+administrative regulations, with retroactive effect if required under federal law, to conform the Kentucky
+Public Employees 401(k) Deferred Compensation Plan and the Kentucky Employees 457(b) Deferred
+Compensation Plan with federal statutes and regulations and to meet the qualification requirements under
+26 U.S.C. secs. 401(a) and 457(b).
+Section 4. KRS 18A.255 is amended to read as follows:
+(1) Subject to subsections (3) and (4) of this section but notwithstanding any other provision of KRS 18A.230 to
+18A.275, funds held for the state[State of Kentucky] public employees deferred compensation trust fund
+pursuant to agreement between the state and participating employees may be invested in such investments as
+are deemed appropriate by the trustees, including but not limited to annuity contracts. Agreements may be
+made in writing or by electronic record, signature, or contract as determined by the authority in accordance
+with the provisions of KRS 369.101 to 369.120 and shall not be denied legal effect or enforceability if made
+electronically to the extent permitted by the authority.
+(2) Funds deposited to the credit of the trust fund from payroll deductions made pursuant to KRS 18A.250 shall be
+temporarily invested as provided in KRS 42.500 until such funds are invested pursuant to the deferred
+compensation agreements between the state and participating employees and actually credited to accounts for
+plan participants. Notwithstanding KRS 42.500, interest earned from such temporary investments and by the
+trust fund and the corpus of the trust fund shall be used to defray the expenses of administering the deferred
+compensation plans, including but not limited to all business and operational expenses, premiums for
+general and fiduciary liability insurance and deductible costs, and costs to settle claims against the
+authority, its plans, and trustees, as determined by the board in the best interest of plan
+participants[system].
+(3) Neither the authority nor the board shall be liable for any losses or claims due to a participant's actions in
+connection with the investment advice or financial planning provided to the participant by operation of KRS
+18A.245(7)(f) or other statute or administrative regulation[otherwise]. The authority and board shall have no
+duty or obligation to monitor, review, or assess the specific investment advice or financial planning provided
+to a participant.
+(4) (a) The participant shall have sole responsibility for evaluation, selection, and monitoring of investments
+held in his or her self-directed brokerage account, and shall at all times be and remain responsible
+and liable for any losses in his or her self-directed brokerage account. Expenses charged for use of a
+self-directed brokerage account shall be paid solely by the participant.
+(b) Neither the authority nor the board shall be liable for any losses, expenses, liabilities, or claims due
+to a participant's actions in connection with a self-directed brokerage account provided to the
+participant by operation of subsection (7)(g) of Section 3 of this Act or other statute or administrative
+regulation. The authority and board shall have no duty or obligation to monitor, review, or assess the
+investments held in a participant's self-directed brokerage account or the self-directed brokerage
+account's investment performance. Neither the authority nor the board shall be responsible for
+review or evaluation of fees of a self-directed brokerage account, including but not limited to fees of
+a self-directed brokerage account's custodian or broker. The board's selection of a restricted asset list
+for self-directed brokerage accounts creates no presumption that the board has any obligation or
+Legislative Research Commission PDF Version
+4 ACTS OF THE GENERAL ASSEMBLY
+duty to select, monitor, or deem prudent assets which may be invested in a self-directed brokerage
+account.
+(5) (a) A trustee shall discharge his or her duties as a trustee, including his or her duties as a member of a
+committee:
+
+Section 5:
+1. In good faith;
+
+Section 6:
+2. On an informed basis; and
+
+Section 7:
+3. In a manner he or she honestly believes to be in the best interest of the authority and its plans
+and trusts.
+(b) A trustee discharges his or her duties on an informed basis if, when he or she makes an inquiry into
+the business affairs of the board or authority or into a particular action to be taken or decision to be
+made, he or she exercises the care of an ordinary prudent person in a like position would exercise
+under similar circumstances.
+(c) In discharging his or her duties, a trustee may rely on information, opinions, reports, or statements,
+including financial statements and other financial data, if prepared or presented by:
+
+Section 8:
+1. One (1) or more officers or employees of the board whom the trustee honestly believes to be
+reliable and competent in the matters presented;
+
+Section 9:
+2. Legal counsel, public accountants, or other persons as to matters the trustee honestly believes
+are within the person's professional or expert competence; or
+
+Section 10:
+3. A committee of the board of trustees of which he or she is not a member if the trustee honestly
+believes the committee merits confidence.
+(d) A trustee shall not be considered as acting in good faith if he or she has knowledge concerning the
+matter in question that makes reliance otherwise permitted by paragraph (c) of this subsection
+unwarranted.
+(e) Any action taken as a trustee, or any failure to take any action as a trustee, shall not be the basis for
+monetary damages or injunctive relief unless:
+
+Section 11:
+1. The trustee has breached or failed to perform the duties of the trustee's office in compliance
+with this section; and
+
+Section 12:
+2. In the case of an action for monetary damages, the breach or failure to perform constitutes
+willful misconduct or wanton or reckless disregard for human rights, safety, or property.
+(f) A person bringing an action for monetary damages under this section shall have the burden of
+proving by clear and convincing evidence the provisions of paragraph (e)1. and 2. of this subsection,
+and the burden of proving that the breach or failure to perform was the legal cause of damages
+suffered by the authority or its plans or trusts.
+Section 5. KRS 18A.260 is amended to read as follows:
+Assets held for the state public employees' deferred compensation trust fund shall be invested as permitted by KRS
+18A.230 to 18A.275. However, investments by participants in self-directed brokerage accounts shall be limited to
+securities registered with the United States Securities and Exchange Commission only[In no case shall such
+investment be other than permitted by KRS 18A.230 to 18A.275 and not prohibited by Section 177 of the Kentucky
+Constitution and must be offered by such persons or companies authorized and duly licensed by the State of
+Kentucky and applicable federal regulatory agencies to offer such insurance or investment programs in compliance
+with all relevant provisions of KRS 18A.230 to 18A.275].
+Signed by Governor April 1, 2025.
+[DELETED:  " " " " " " " ] " " T T T S S T T]
+[DELETED:  T ( a m a t G d n h a c i a T A M B T T A K 1 a K C 1 T e d o t a a e R E C f s s a m b n f t o o a o d D A A t a m a t a R p u I A m a t a I R C S 4 p f C a a t c o t t f o i p a t p C a i S c w s b a v s b]
+[DELETED:  w K C 1 f t p o s b a t P a r i a w K C 1 p t T T N a o e o l i i i h d t b t c E 4 D C P a t K E 4 D S f h f t s o K p e d c t f F i a p i K 4 u s f a i p t t d p i b n l t a b a o e p f a f l i a d c a c t s c a t i p a t a d b t b i t b i o p N ( T N a p a i c w a s b a p t t i p N t a n t b s b r f]
+[DELETED:  ( A I O I A I O L A A i q t m r o p b p ( o t s A T I A r w t U S S a E C o n c s s a m b o b s p o c a a d l b t S o]
+
+
+================================================================================
+
+Raw Text:
+CHAPTER 141 1
+CHAPTER 141
+( SB 104 )
+AN ACT relating to the Kentucky Public Employees' Deferred Compensation Authority.
+Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+Section 1. KRS 18A.230 is amended to read as follows:
+As used in KRS 18A.230 to 18A.275, unless the context requires otherwise:
+(1) "Employee" means a person holding an office, position or employment in state government and agencies
+thereof and also includes persons in the public school system;
+(2) "Income" means earnings of a person while an employee of the state and agencies thereof or public school
+system;
+(3) "Asset" means any owned physical object or right having a monetary value;
+(4) "Trust fund" means a fund consisting of assets received and held by a government unit or its designated
+custodian to be expended or invested in accordance with conditions of the trust;
+(5) "Deferred compensation" means a method which allows employees to authorize income to be deducted from
+their current earning and set aside to be paid at a later date;
+(6) "Board" means the board of trustees as established by KRS 18A.245;
+(7) "Authority" means the Kentucky Public Employees' Deferred Compensation Authority;[ and ]
+(8) "Financial planning" means the process of determining whether and how a participant can meet retirement
+goals through the proper management of financial resources; and
+(9) "Self-directed brokerage account" means a brokerage account of record offered by a broker-dealer selected
+by the board and registered with the United States Securities and Exchange Commission which allows
+participants to invest in securities registered with the United States Securities and Exchange Commission as
+alternative plan investments in addition to those designated by the board.
+Section 2. KRS 18A.235 is amended to read as follows:
+The Kentucky Public Employees Deferred Compensation System is established pursuant to the provisions of KRS
+18A.230 to 18A.275, and shall transact all of its business and shall have the powers and privileges of a corporation,
+including but not limited to the following powers:
+(1) The board shall have the power and authority to purchase fiduciary liability insurance; and
+(2) The board shall reimburse or advance any trustee, officer, or employee for any legal expense resulting from
+a civil action arising out of the performance of his or her official duties. The hourly rate for any contract
+for legal services under this subsection shall not exceed the maximum hourly rate provided in the Legal
+Services Duties and Maximum Rate Schedule promulgated by the Government Contract Review Committee
+established pursuant to KRS 45A.705, unless a higher rate is specifically approved by the secretary of the
+Finance and Administration Cabinet or his or her designee.
+Section 3. KRS 18A.245 is amended to read as follows:
+(1) The authority shall be administered by a board of trustees composed of seven (7) members, who shall be as
+follows:
+(a) Secretary, Finance and Administration Cabinet, ex officio;
+(b) Secretary of personnel, ex officio;
+(c) The state controller, ex officio;
+(d) The State Treasurer, ex officio; and
+Legislative Research Commission PDF Version
+
+2 ACTS OF THE GENERAL ASSEMBLY
+(e) Three (3) at-large members appointed by the Governor, who do not have a conflict of interest as
+provided by KRS 18A.262, one (1) of whom shall have at least five (5) years of investment or banking
+experience and one (1) of whom shall be a representative of a nonstate government employer.
+(2) The members of the board appointed by the Governor shall serve for a period of four (4) years and the ex
+officio members of the board shall serve only for the period of their term of office. Each ex officio member
+may designate a proxy by written notice to the authority prior to call of order of each meeting, and the proxy
+shall be entitled to participate as a full voting member.
+(3) Any vacancy which may occur shall be filled in the same manner provided for the selection of the particular
+member for a full term. Vacancies shall be filled for the unexpired term only.
+(4) Membership on the board of trustees shall not be incompatible with any other office unless a constitutional
+incompatibility exists, and no member shall be subject to removal from office, except upon conviction of a
+felony, or of a misdemeanor involving moral turpitude.
+(5) Board members who do not otherwise receive a salary or compensation from the State Treasury shall receive a
+per diem of one hundred dollars ($100) for each day they are in session or on official duty, and they shall be
+reimbursed for their actual and necessary expenses in accordance with state administrative regulations and
+standards applicable to state employees.
+(6) The board shall meet at least once in each quarter of the year, and may meet in special session upon the call of
+the chair[chairman]. It shall elect a chair[chairman] and a vice chair[chairman]. A majority of the members
+shall constitute a quorum, and all actions taken by the board shall be by affirmative vote of a majority of the
+members present.
+(7) The authority shall be attached to the Personnel Cabinet for administrative purposes only. The board may take
+but is not limited to the following actions:
+(a) Appoint such employees as it deems necessary and fix the compensation for all employees of the board,
+subject to the approval of the secretary. The authority shall be headed by an executive director who
+shall be appointed by the board of trustees[directors] of the authority without the limitations imposed
+by KRS 12.040 and KRS Chapter 18A. The executive director of the authority and employees
+appointed by the board shall serve at its will and pleasure. All other staff of the authority shall be
+employed under KRS 18A.005 to 18A.200;
+(b) Require such employees as it thinks proper to execute bonds for the faithful performance of their duties;
+(c) Establish a system of accounting;
+(d) Contract for such services as may be necessary for the operation or administration of deferred
+compensation plans authorized in KRS 18A.230 to 18A.275, including annual audits;
+(e) Do all things, take all actions, and adopt plans for participation consistent with federal law and with the
+provisions of KRS 18A.230 to 18A.275, including but not limited to:
+1. Amending the board's plan for the Kentucky Public Employees 401(k) Deferred Compensation
+Plan or the Kentucky Employees 457 Deferred Compensation Plan, or both such plans, to adopt,
+maintain, and terminate a deemed IRA program under Internal Revenue Code Section 408;
+2. Amending the board's plan for the Kentucky Public Employees 401(k) Deferred Compensation
+Plan to adopt, maintain, and terminate a qualified Roth contribution program under Internal
+Revenue Code Section 402A; and
+3. Adopting, maintaining, and terminating an Internal Revenue Code Section 403(b) plan for
+qualified employees;[ and]
+(f) Contract with persons or companies duly licensed by the state of Kentucky and applicable federal
+regulatory agencies, at the cost of the trust fund or individual participant accounts, to provide
+investment advice and financial planning to participants in the plans, with respect to their selection of
+investments. The board may promulgate administrative regulations for provision of financial planning
+to participants in the plans;
+(g) Contract with companies duly licensed by the state of Kentucky and applicable federal regulatory
+agencies to provide self-directed brokerage accounts to participants for their individual selection of
+plan account investments. Such contracts with self-directed brokerage account vendors shall be
+exempt from KRS Chapters 45 and 45A. The board may promulgate administrative regulations in
+
+CHAPTER 141 3
+accordance with KRS Chapter 13A for the provision of self-directed brokerage accounts to
+participants; and
+(h) Promulgate administrative regulations in accordance with KRS Chapter 13A, provided the
+regulations are not inconsistent with KRS 18A.230 to 18A.275, necessary or proper in order to carry
+out the provisions of this section and duties authorized by KRS 18A.230 to 18A.275.
+(8) The Attorney General, or an assistant designated by him or her, may act as legal adviser and attorney for the
+board. The board may also appoint legal counsel in accordance with KRS Chapter 12.
+(9) The board shall prepare an annual financial report showing all receipts, disbursements, assets, and liabilities
+and shall submit a copy to the Governor and the Legislative Research Commission. All board meetings and
+records shall be open for inspection by the public.
+(10) Notwithstanding any other evidence of legislative intent, it is hereby declared to be the controlling
+legislative intent that the provisions of KRS 18A.230 to 18A.275 shall conform with federal statutes or
+regulations and meet the qualification requirements under 26 U.S.C. secs. 401(a) and 457(b), applicable
+federal regulations, and other published guidance, and the board shall have the authority to promulgate
+administrative regulations, with retroactive effect if required under federal law, to conform the Kentucky
+Public Employees 401(k) Deferred Compensation Plan and the Kentucky Employees 457(b) Deferred
+Compensation Plan with federal statutes and regulations and to meet the qualification requirements under
+26 U.S.C. secs. 401(a) and 457(b).
+Section 4. KRS 18A.255 is amended to read as follows:
+(1) Subject to subsections (3) and (4) of this section but notwithstanding any other provision of KRS 18A.230 to
+18A.275, funds held for the state[State of Kentucky] public employees deferred compensation trust fund
+pursuant to agreement between the state and participating employees may be invested in such investments as
+are deemed appropriate by the trustees, including but not limited to annuity contracts. Agreements may be
+made in writing or by electronic record, signature, or contract as determined by the authority in accordance
+with the provisions of KRS 369.101 to 369.120 and shall not be denied legal effect or enforceability if made
+electronically to the extent permitted by the authority.
+(2) Funds deposited to the credit of the trust fund from payroll deductions made pursuant to KRS 18A.250 shall be
+temporarily invested as provided in KRS 42.500 until such funds are invested pursuant to the deferred
+compensation agreements between the state and participating employees and actually credited to accounts for
+plan participants. Notwithstanding KRS 42.500, interest earned from such temporary investments and by the
+trust fund and the corpus of the trust fund shall be used to defray the expenses of administering the deferred
+compensation plans, including but not limited to all business and operational expenses, premiums for
+general and fiduciary liability insurance and deductible costs, and costs to settle claims against the
+authority, its plans, and trustees, as determined by the board in the best interest of plan
+participants[system].
+(3) Neither the authority nor the board shall be liable for any losses or claims due to a participant's actions in
+connection with the investment advice or financial planning provided to the participant by operation of KRS
+18A.245(7)(f) or other statute or administrative regulation[otherwise]. The authority and board shall have no
+duty or obligation to monitor, review, or assess the specific investment advice or financial planning provided
+to a participant.
+(4) (a) The participant shall have sole responsibility for evaluation, selection, and monitoring of investments
+held in his or her self-directed brokerage account, and shall at all times be and remain responsible
+and liable for any losses in his or her self-directed brokerage account. Expenses charged for use of a
+self-directed brokerage account shall be paid solely by the participant.
+(b) Neither the authority nor the board shall be liable for any losses, expenses, liabilities, or claims due
+to a participant's actions in connection with a self-directed brokerage account provided to the
+participant by operation of subsection (7)(g) of Section 3 of this Act or other statute or administrative
+regulation. The authority and board shall have no duty or obligation to monitor, review, or assess the
+investments held in a participant's self-directed brokerage account or the self-directed brokerage
+account's investment performance. Neither the authority nor the board shall be responsible for
+review or evaluation of fees of a self-directed brokerage account, including but not limited to fees of
+a self-directed brokerage account's custodian or broker. The board's selection of a restricted asset list
+for self-directed brokerage accounts creates no presumption that the board has any obligation or
+Legislative Research Commission PDF Version
+
+4 ACTS OF THE GENERAL ASSEMBLY
+duty to select, monitor, or deem prudent assets which may be invested in a self-directed brokerage
+account.
+(5) (a) A trustee shall discharge his or her duties as a trustee, including his or her duties as a member of a
+committee:
+1. In good faith;
+2. On an informed basis; and
+3. In a manner he or she honestly believes to be in the best interest of the authority and its plans
+and trusts.
+(b) A trustee discharges his or her duties on an informed basis if, when he or she makes an inquiry into
+the business affairs of the board or authority or into a particular action to be taken or decision to be
+made, he or she exercises the care of an ordinary prudent person in a like position would exercise
+under similar circumstances.
+(c) In discharging his or her duties, a trustee may rely on information, opinions, reports, or statements,
+including financial statements and other financial data, if prepared or presented by:
+1. One (1) or more officers or employees of the board whom the trustee honestly believes to be
+reliable and competent in the matters presented;
+2. Legal counsel, public accountants, or other persons as to matters the trustee honestly believes
+are within the person's professional or expert competence; or
+3. A committee of the board of trustees of which he or she is not a member if the trustee honestly
+believes the committee merits confidence.
+(d) A trustee shall not be considered as acting in good faith if he or she has knowledge concerning the
+matter in question that makes reliance otherwise permitted by paragraph (c) of this subsection
+unwarranted.
+(e) Any action taken as a trustee, or any failure to take any action as a trustee, shall not be the basis for
+monetary damages or injunctive relief unless:
+1. The trustee has breached or failed to perform the duties of the trustee's office in compliance
+with this section; and
+2. In the case of an action for monetary damages, the breach or failure to perform constitutes
+willful misconduct or wanton or reckless disregard for human rights, safety, or property.
+(f) A person bringing an action for monetary damages under this section shall have the burden of
+proving by clear and convincing evidence the provisions of paragraph (e)1. and 2. of this subsection,
+and the burden of proving that the breach or failure to perform was the legal cause of damages
+suffered by the authority or its plans or trusts.
+Section 5. KRS 18A.260 is amended to read as follows:
+Assets held for the state public employees' deferred compensation trust fund shall be invested as permitted by KRS
+18A.230 to 18A.275. However, investments by participants in self-directed brokerage accounts shall be limited to
+securities registered with the United States Securities and Exchange Commission only[In no case shall such
+investment be other than permitted by KRS 18A.230 to 18A.275 and not prohibited by Section 177 of the Kentucky
+Constitution and must be offered by such persons or companies authorized and duly licensed by the State of
+Kentucky and applicable federal regulatory agencies to offer such insurance or investment programs in compliance
+with all relevant provisions of KRS 18A.230 to 18A.275].
+Signed by Governor April 1, 2025.
+
+[DELETED:  " " " " " " " ] " " T T T S S T T]
+[DELETED:  T ( a m a t G d n h a c i a T A M B T T A K 1 a K C 1 T e d o t a a e R E C f s s a m b n f t o o a o d D A A t a m a t a R p u I A m a t a I R C S 4 p f C a a t c o t t f o i p a t p C a i S c w s b a v s b]
+[DELETED:  w K C 1 f t p o s b a t P a r i a w K C 1 p t T T N a o e o l i i i h d t b t c E 4 D C P a t K E 4 D S f h f t s o K p e d c t f F i a p i K 4 u s f a i p t t d p i b n l t a b a o e p f a f l i a d c a c t s c a t i p a t a d b t b i t b i o p N ( T N a p a i c w a s b a p t t i p N t a n t b s b r f]
+[DELETED:  ( A I O I A I O L A A i q t m r o p b p ( o t s A T I A r w t U S S a E C o n c s s a m b o b s p o c a a d l b t S o]

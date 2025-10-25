@@ -1,0 +1,1585 @@
+Title: 1 AN ACT relating to medicinal cannabis.
+Official Title: 1 AN ACT relating to medicinal cannabis.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 25 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS BR 1303
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 218B.010 is amended to read as follows:
+4 For the purposes of this chapter, unless the context otherwise requires:
+5 (1) "Bona fide practitioner-patient relationship" means a treating or consulting
+6 relationship, during the course of which a medicinal cannabis practitioner has:
+7 (a) Completed an initial in-person examination and assessment of the patient's
+8 medical history and current medical condition which shall include a review
+9 of:
+10 1. The patient's medical records for the previous twelve (12) months;
+11 2. All other available medical records relevant to the patient's qualifying
+12 medical condition;
+13 3. Any medications that the patient is currently taking; and
+14 4. Any other possible risks or side effects that may be associated with the
+15 use of medicinal cannabis;
+16 (b) Consulted with the patient with respect to the possible medical, therapeutic,
+17 and palliative properties of medicinal cannabis;
+18 (c) Advised the patient of the possible risks and side effects associated with the
+19 use of medicinal cannabis, including possible interactions between medicinal
+20 cannabis and any other drug or medication that the patient is taking at that
+21 time; and
+22 (d) Established an expectation that he or she will provide follow-up care and
+23 treatment to the patient in accordance with administrative regulations
+24 promulgated pursuant to KRS 218B.050(10);
+25 (2) "Cabinet" means the Cabinet for Health and Family Services;
+26 (3) "Cannabis business" means an entity licensed under this chapter as a cultivator,
+27 dispensary, processor, producer, or safety compliance facility;
+Page 1 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1303
+1 (4) "Cannabis business agent" means a principal officer, board member, employee,
+2 volunteer, or agent of a cannabis business;
+3 (5) "Cardholder" means:
+4 (a) A registered qualified patient, designated caregiver, or visiting qualified
+5 patient who has applied for, obtained, and possesses a valid registry
+6 identification card issued by the cabinet; or
+7 (b) A visiting qualified patient who has obtained and possesses:
+8 1. A valid out-of-state registry identification card; and
+9 2. Documentation of having been diagnosed with a qualifying medical
+10 condition;
+11 (6) "Cultivator" means an entity licensed as such under KRS 218B.080, 218B.085, and
+12 218B.090;
+13 (7) "Cultivator agent" means a principal officer, board member, employee, volunteer,
+14 or agent of a cultivator;
+15 (8) "Designated caregiver" means a person who has registered as such with the cabinet
+16 under KRS 218B.055 and 218B.060;
+17 (9) "Dispensary" means an entity licensed as such under KRS 218B.080, 218B.085,
+18 and 218B.090;
+19 (10) "Dispensary agent" means a principal officer, board member, employee, volunteer,
+20 or agent of a dispensary;
+21 (11) "Disqualifying felony offense" means:
+22 (a) A felony offense that resulted in the person being classified by the
+23 Department of Corrections as a violent offender under KRS 439.3401; or
+24 (b) A violation of a state or federal controlled substance law that was classified as
+25 a felony in the jurisdiction where the person was convicted, except:
+26 1. An offense for which the sentence, including any term of probation,
+27 incarceration, or supervised release, was completed five (5) or more
+Page 2 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1303
+1 years earlier; or
+2 2. An offense that, as determined by the cabinet, consisted of conduct for
+3 which this chapter would likely have prevented a conviction, but the
+4 conduct either occurred prior to the enactment of this chapter or was
+5 prosecuted by an authority other than the Commonwealth of Kentucky;
+6 (12) "Enclosed, locked facility" means an indoor growing space such as a room,
+7 greenhouse, building, or other indoor enclosed area that is maintained and operated
+8 by a cultivator or producer and is equipped with locks and other security devices
+9 that permit access only by authorized agents of the cultivator or producer, as
+10 required by the cabinet;
+11 (13) "Growth area" has the same meaning as an enclosed, locked facility;
+12 (14) "Marijuana" has the same meaning as in KRS 218A.010;
+13 (15) "Medicinal cannabis":
+14 (a) Means marijuana as defined in KRS 218A.010 when cultivated, harvested,
+15 processed, produced, transported, dispensed, distributed, sold, possessed, or
+16 used in accordance with this chapter;
+17 (b) Includes medicinal cannabis products and raw plant material; and
+18 (c) Does not include industrial hemp or industrial hemp products as defined in
+19 KRS 260.850;
+20 (16) "Medicinal cannabis accessories" means any equipment, product, or material of any
+21 kind which is used, intended for use, or designed for use in the preparing, storing,
+22 using, or consuming medicinal cannabis in accordance with this chapter;
+23 (17) "Medicinal cannabis practitioner" means a physician or an advanced practice
+24 registered nurse who is authorized to prescribe controlled substances under KRS
+25 314.042, who is authorized by his or her state licensing board to provide written
+26 certifications pursuant to KRS 218B.050;
+27 (18) "Medicinal cannabis product":
+Page 3 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1303
+1 (a) Means any compound, manufacture, salt, derivative, mixture, or preparation
+2 of any part of the plant Cannabis sp., its seeds or its resin; or any compound,
+3 mixture, or preparation which contains any quantity of these substances when
+4 cultivated, harvested, processed, produced, transported, dispensed, distributed,
+5 sold, possessed, or used in accordance with this chapter; and
+6 (b) Does not include industrial hemp products as defined in KRS 260.850;
+7 (19) "Minor" means a person less than eighteen (18) years of age;
+8 (20) "Out-of-state registry identification card" means a registry identification card, or an
+9 equivalent document, that was issued pursuant to the laws of another state, district,
+10 territory, commonwealth, or insular possession of the United States;
+11 (21) "Processor" means an entity licensed as such under KRS 218B.080, 218B.085, and
+12 218B.090;
+13 (22) "Processor agent" means a principal officer, board member, employee, volunteer, or
+14 agent of a processor;
+15 (23) "Producer" means an entity licensed as such under KRS 218B.080, 218B.085, and
+16 218B.090;
+17 (24) "Producer agent" means a principal officer, board member, employee, volunteer, or
+18 agent of a producer;
+19 (25) "Qualified patient" means a person who has obtained a written certification from a
+20 medicinal cannabis practitioner with whom he or she has a bona fide practitioner-
+21 patient relationship;
+22 (26) "Qualifying medical condition" means any of the following:
+23 (a) Acquired immunodeficiency syndrome (AIDS);
+24 (b) Amyotrophic lateral sclerosis (ALS) or Lou Gehrig's disease;
+25 (c) Cachexia or wasting syndrome;
+26 (d) [Any type or form of ]Cancer regardless of type, form, or stage;
+27 (e) Chronic nausea or cyclical vomiting syndrome that has proven resistant to
+Page 4 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1303
+1 other conventional medical treatments;
+2 (f)[(b)] Chronic, severe, intractable, or debilitating pain;
+3 (g) Crohn's disease;
+4 (h)[(c)] Epilepsy or any other intractable seizure disorder;
+5 (i) Fibromyalgia;
+6 (j) Glaucoma;
+7 (k) Hepatitis C;
+8 (l) Human immunodeficiency virus (HIV);
+9 (m) Huntington's disease;
+10 (n)[(d)] Multiple sclerosis, muscle spasms, or spasticity;
+11 (o) Muscular dystrophy;
+12 (p) Neuropathies;
+13 (q) Parkinson's disease;
+14 [(e) Chronic nausea or cyclical vomiting syndrome that has proven resistant to
+15 other conventional medical treatments;]
+16 (r)[(f)] Post-traumatic stress disorder;[ and]
+17 (s) Severe arthritis;
+18 (t) Sickle cell disease;
+19 (u) Any terminal illness as defined in KRS 217.5401; and
+20 (v)[(g)] Any other medical condition or disease for which the Kentucky Center
+21 for Cannabis established in KRS 164.983, or its successor, determines that
+22 sufficient scientific data and evidence exists to demonstrate that an individual
+23 diagnosed with that condition or disease is likely to receive medical,
+24 therapeutic, or palliative benefits from the use of medicinal cannabis;
+25 (27) "Raw plant material":
+26 (a) Means the trichome-covered part of the female plant Cannabis sp. or any
+27 mixture of shredded leaves, stems, seeds, and flowers of the Cannabis sp.
+Page 5 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1303
+1 plant; and
+2 (b) Does not include plant material obtained from industrial hemp as defined in
+3 KRS 260.850;
+4 (28) "Registered qualified patient" means a qualified patient who has applied for,
+5 obtained, and possesses a valid registry identification card issued by the cabinet;
+6 (29) "Registry identification card" means a document issued by the cabinet that
+7 identifies a person as a registered qualified patient, visiting qualified patient, or
+8 designated caregiver;
+9 (30) "Safety compliance facility" means an entity licensed as such under KRS 218B.080,
+10 218B.085, and 218B.090;
+11 (31) "Safety compliance facility agent" means a principal officer, board member,
+12 employee, volunteer, or agent of a safety compliance facility;
+13 (32) "Seedling" means a medicinal cannabis plant that has no flowers and is not taller
+14 than eight (8) inches;
+15 (33) "Serious violation" means:
+16 (a) Any violation of this chapter or any administrative regulation promulgated
+17 thereunder that is capable of causing death or which causes serious and
+18 prolonged disfigurement, prolonged impairment of health, or prolonged loss
+19 or impairment of the function of any bodily organ;
+20 (b) The diversion of medicinal cannabis for use not regulated pursuant to this
+21 chapter; or
+22 (c) Any act that would constitute a violation of KRS 218A.1421;
+23 (34) "Smoking" means the inhalation of smoke produced from the combustion of raw
+24 plant material when ignited by a flame;
+25 (35) "State licensing board" means:
+26 (a) The Kentucky Board of Medical Licensure; or
+27 (b) The Kentucky Board of Nursing;
+Page 6 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1303
+1 (36) "Telehealth" has the same meaning as in KRS 211.332;
+2 (37) "Use of medicinal cannabis":
+3 (a) Includes the acquisition, administration, possession, transfer, transportation,
+4 or consumption of medicinal cannabis or medicinal cannabis accessories by a
+5 cardholder in accordance with this chapter; and
+6 (b) Does not include:
+7 1. Cultivation of marijuana by a cardholder;
+8 2. The use or consumption of marijuana by smoking; or
+9 3. The use of industrial hemp or industrial hemp products as defined in
+10 KRS 260.850;
+11 (38) "Visiting qualified patient" means a person who has registered as such through the
+12 cabinet as required under this chapter or who possesses a valid out-of-state registry
+13 identification card and documentation of having been diagnosed with a qualifying
+14 medical condition; and
+15 (39) "Written certification" means a document dated and signed by a medicinal cannabis
+16 practitioner, that:
+17 (a) States, that in the medicinal cannabis practitioner's professional medical
+18 opinion, the patient may receive medical, therapeutic, or palliative benefit
+19 from the use of medicinal cannabis;
+20 (b) Specifies the qualifying medical condition or conditions for which the
+21 medicinal cannabis practitioner believes the patient may receive medical,
+22 therapeutic, or palliative benefit; and
+23 (c) Affirms that the medicinal cannabis practitioner has a bona fide practitioner-
+24 patient relationship with the patient.
+25 Section 2. KRS 218B.025 is amended to read as follows:
+26 (1) A registered qualified patient, except as provided in subsection (2) of this section
+27 and KRS 218B.035, shall not be subject, under the laws of the Commonwealth, to
+Page 7 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1303
+1 arrest, prosecution, or denial of any right or privilege, including but not limited to a
+2 civil penalty or disciplinary action by a court or occupational or professional
+3 licensing board, for the use of medicinal cannabis, if the registered qualified patient
+4 does not possess more than:
+5 (a) An amount of medicinal cannabis determined by the cabinet to constitute an
+6 uninterrupted thirty (30) day supply at his or her residence, except as
+7 permitted under Section 7 of this Act;
+8 (b) An amount of medicinal cannabis in excess of a thirty (30) day supply at his
+9 or her residence, in accordance with administrative regulations promulgated
+10 pursuant to KRS 218B.140(1)(c)6.; or
+11 (c) An amount of medicinal cannabis determined by the cabinet to constitute an
+12 uninterrupted ten (10) day supply on his or her person, except that an amount
+13 greater than a ten (10) day supply may be transported by a registered qualified
+14 patient from a dispensary to his or her residence if the medicinal cannabis is
+15 contained in a sealed package that requires at least a two (2) step process for
+16 initial opening.
+17 (2) A registered qualified patient who is under eighteen (18) years of age shall not be
+18 permitted to possess, purchase, or acquire medicinal cannabis and shall only engage
+19 in the use of medicinal cannabis with the assistance of a designated caregiver who
+20 is the registered qualified patient's parent or legal guardian responsible for
+21 providing consent for medical treatment.
+22 (3) A visiting qualified patient shall not be subject, under the laws of the
+23 Commonwealth, to arrest, prosecution, or denial of any right or privilege, including
+24 but not limited to civil penalty or disciplinary action by a court or occupational or
+25 professional licensing board, for the use of medicinal cannabis, if the visiting
+26 qualified patient does not possess more than an amount of medicinal cannabis
+27 determined by the cabinet to constitute an uninterrupted ten (10) day supply on his
+Page 8 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1303
+1 or her person.
+2 (4) A designated caregiver shall not be subject, under the laws of the Commonwealth,
+3 to arrest, prosecution, or denial of any right or privilege, including but not limited to
+4 civil penalty or disciplinary action by a court or occupational or professional
+5 licensing board, for assisting a registered qualified patient to whom the designated
+6 caregiver is connected through the cabinet's registration process with the use of
+7 medicinal cannabis if the designated caregiver does not possess more than:
+8 (a) An amount of medicinal cannabis determined by the cabinet to constitute an
+9 uninterrupted thirty (30) day supply at his or her residence for each registered
+10 qualified patient to whom the caregiver is connected through the cabinet's
+11 registration process, except as permitted under Section 7 of this Act;
+12 (b) An amount of medicinal cannabis in excess of a thirty (30) day supply at his
+13 or her residence for each registered qualified patient to whom the caregiver is
+14 connected through the cabinet's registration process, in accordance with
+15 administrative regulations promulgated pursuant to KRS 218B.140(1)(c)6.; or
+16 (c) An amount of medicinal cannabis determined by the cabinet to constitute an
+17 uninterrupted ten (10) day supply on his or her person for each registered
+18 qualified patient to whom the caregiver is connected through the cabinet's
+19 registration process, except that an amount greater than a ten (10) day supply
+20 may be transported by a designated caregiver from a dispensary to his or her
+21 residence if the medicinal cannabis is contained in a sealed package that
+22 requires at least a two (2) step process for initial opening.
+23 (5) (a) All medicinal cannabis possessed by a cardholder outside of his or her
+24 residence shall be kept in the original container in which the cardholder
+25 received the medicinal cannabis from a dispensary.
+26 (b) When a cardholder possesses medicinal cannabis outside of his or her
+27 residence, the cardholder shall also be in possession of a valid registry
+Page 9 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1303
+1 identification card issued by the cabinet or, for visiting qualified patients, a
+2 valid out-of-state registry identification card and documentation of having
+3 been diagnosed with a qualifying medical condition.
+4 (c) Paragraph (a) of this subsection shall not apply to medicinal cannabis that
+5 is the product of cultivation by a cardholder as permitted under Section 7 of
+6 this Act.
+7 (6) Notwithstanding subsections (1), (3), and (4) of this section and except as provided
+8 in administrative regulations promulgated pursuant to KRS 218B.140(1)(c)6.:
+9 (a) A registered qualified patient shall not be permitted to purchase more
+10 medicinal cannabis than the amount determined by the cabinet to constitute an
+11 uninterrupted thirty (30) day supply of medicinal cannabis during a given
+12 twenty-five (25) day period;
+13 (b) A designated caregiver shall not be permitted to purchase more medicinal
+14 cannabis than the amount determined by the cabinet to constitute an
+15 uninterrupted thirty (30) day supply of medicinal cannabis for each registered
+16 qualified patient to whom the caregiver is connected through the cabinet's
+17 registration process during a given twenty-five (25) day period; and
+18 (c) A visiting qualified patient shall not be permitted to purchase more medicinal
+19 cannabis than the amount determined by the cabinet to constitute an
+20 uninterrupted ten (10) day supply of medicinal cannabis during a given eight
+21 (8) day period.
+22 (7) A cardholder shall not be subject, under the laws of the Commonwealth, to arrest,
+23 prosecution, or denial of any right or privilege, including but not limited to a civil
+24 penalty or disciplinary action by a court or occupational or professional licensing
+25 board, for:
+26 (a) Possession of cannabis that is incidental to the use of medicinal cannabis;
+27 (b) Possession of medicinal cannabis accessories; or
+Page 10 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1303
+1 (c) Transferring medicinal cannabis to a safety facility for testing.
+2 (8) No person shall be subject, under the laws of the Commonwealth, to arrest,
+3 prosecution, or denial of any right or privilege, including but not limited to a civil
+4 penalty or disciplinary action by a court or occupational or professional licensing
+5 board, for:
+6 (a) Selling medicinal cannabis accessories to a cardholder who is over eighteen
+7 (18) years of age upon presentation of a valid registry identification card
+8 issued by the cabinet or, for visiting qualified patients, a valid out-of-state
+9 registry identification card and documentation of having been diagnosed with
+10 a qualifying medical condition;
+11 (b) Being in the presence or vicinity of the use of medicinal cannabis as allowed
+12 under this chapter; or
+13 (c) Assisting a registered qualified patient or visiting qualified patient with using
+14 or administering medicinal cannabis. For purposes of illustration and not
+15 limitation, this includes preparing raw plant material or brewing tea for a
+16 registered qualified patient or visiting qualified patient. It does not include
+17 providing medicinal cannabis to a patient that the patient did not already
+18 possess.
+19 (9) Notwithstanding any other provision of law to the contrary, a registered qualified
+20 patient who is injured or defrauded, including by theft or deprivation of use and
+21 benefit of any money, personal property including medicinal cannabis, or articles of
+22 value of any kind, by his or her designated caregiver shall have a civil cause of
+23 action in Circuit Court to recover the actual damages sustained, together with the
+24 cost of the lawsuit, including a reasonable fee for the individual's attorney of record.
+25 Section 3. KRS 218B.030 is amended to read as follows:
+26 (1) (a) Any medicinal cannabis, medicinal cannabis accessories, lawful property, or
+27 interest in lawful property that is possessed, owned, or used in connection
+Page 11 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1303
+1 with the use of medicinal cannabis or acts incidental to that use shall not be
+2 subject to seizure or forfeiture under KRS 218A.405 to 218A.460.
+3 (b) This chapter shall not prevent the seizure or forfeiture of marijuana exceeding
+4 the amounts allowed under KRS 218B.025 and Section 7 of this Act or
+5 administrative regulations promulgated pursuant to KRS 218B.140(1)(c)6.,
+6 nor shall it prevent seizure or forfeiture if the basis for that action is unrelated
+7 to the use of medicinal cannabis in accordance with this chapter and any
+8 administrative regulation promulgated thereunder.
+9 (2) Possession of, or application for, a registry identification card, an out-of-state
+10 registry identification card, or cannabis business license shall not constitute
+11 probable cause or reasonable suspicion, nor shall it be used to support the search of
+12 the person, property, or home of the person possessing or applying for the registry
+13 identification card, out-of-state registry identification card, or cannabis business
+14 license. The possession of, or application for, a registry identification card, out-of-
+15 state registry identification card, or cannabis business license shall not preclude the
+16 existence of probable cause if probable cause exists on other grounds.
+17 (3) (a) There shall be a rebuttable presumption that a cardholder is engaged in the
+18 lawful use of medicinal cannabis, or in the case of a designated caregiver,
+19 assisting with the lawful use of medicinal cannabis, if the cardholder:
+20 1. Possesses a valid registry identification card or, in the case of a visiting
+21 qualified patient, an out-of-state registry identification card and
+22 documentation of having been diagnosed with a qualifying medical
+23 condition; and
+24 2. Possesses an amount of medicinal cannabis that does not exceed the
+25 amount allowed under KRS 218B.025 or administrative regulations
+26 promulgated pursuant to KRS 218B.140(1)(c)6.
+27 (b) This presumption may be rebutted by a preponderance of evidence that
+Page 12 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1303
+1 conduct was unrelated to the use of medicinal cannabis or was otherwise in
+2 violation of this chapter.
+3 Section 4. KRS 218B.035 is amended to read as follows:
+4 (1) This chapter does not authorize any person to engage in, and shall not prevent the
+5 imposition of any civil, criminal, or other penalties, including but not limited to
+6 criminal prosecution or disciplinary action by the cabinet or an occupational or
+7 professional licensing board, for engaging in the following conduct:
+8 (a) Operating, navigating, or being in actual physical control of any aircraft,
+9 vehicle, vessel, or any other device known, or hereafter invented, that is
+10 powered by machinery and that is or may be used to transport persons or
+11 property while under the influence of medicinal cannabis;
+12 (b) Consuming medicinal cannabis while operating, navigating, or being in actual
+13 physical control of an aircraft, vehicle, vessel, or any other device known, or
+14 hereafter invented, that is powered by machinery and that is or may be used to
+15 transport persons or property;
+16 (c) Possessing medicinal cannabis that is within the operator's arm's reach or
+17 requires less than a two (2) step process to access while operating, navigating,
+18 or being in actual physical control of an aircraft, vehicle, vessel, or any other
+19 device known, or hereafter invented, that is powered by machinery and that is
+20 or may be used to transport persons or property;
+21 (d) Undertaking any task under the influence of medicinal cannabis, when doing
+22 so would constitute negligence or professional malpractice;
+23 (e) Possessing medicinal cannabis, or otherwise engaging in the use of medicinal
+24 cannabis:
+25 1. On the grounds of any preschool or primary or secondary school, except
+26 as permitted in accordance with policies enacted pursuant to KRS
+27 218B.045(4);
+Page 13 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1303
+1 2. In any correctional facility; or
+2 3. On any property of the federal government;
+3 (f) Using marijuana, if that person is not a registered qualified patient or visiting
+4 qualified patient;
+5 (g) Using or consuming marijuana by smoking, except as permitted under
+6 subsection (3) of this section;
+7 (h) Using or consuming marijuana by vaping while on any form of public
+8 transportation, in any public place as defined in KRS 525.010, or in any place
+9 of public accommodation, resort, or amusement as defined in KRS 344.130;
+10 or
+11 (i) Cultivating marijuana unless that person is licensed by the cabinet as a
+12 cannabis cultivator or cannabis producer pursuant to KRS 218B.080,
+13 218B.085, and 218B.090 or is a cultivator or producer agent, except as
+14 permitted in Section 7 of this Act.
+15 (2) The penalty for a violation of subsection (1)(a) or (b) of this section shall be the
+16 same as those established for operating a motor vehicle under the influence of
+17 alcohol or any other substance in KRS 189A.010.
+18 (3) (a) An individual who violates subsection (1)(g) or (h) of this section shall not be
+19 considered to be in possession of medicinal cannabis or engaged in the use of
+20 medicinal cannabis and shall not benefit from the legal protections afforded
+21 by this chapter.
+22 (b) A registered qualified patient shall not be considered to be in violation of
+23 subsection (1)(g) of this section if he or she uses or consumes medicinal
+24 cannabis by smoking while on private property owned by the registered
+25 qualified patient or his or her designated caregiver.
+26 (c) The odor or smell of uncombusted raw plant material shall not constitute
+27 evidence of use or consumption of cannabis by smoking.
+Page 14 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1303
+1 (d)[(c)] If an individual uses or consumes marijuana by smoking or vaping while
+2 on any form of public transportation, in any public place as defined in KRS
+3 525.010, or in any place of public accommodation, resort, or amusement as
+4 defined in KRS 344.130:
+5 1. The cabinet may revoke the individual's registry identification card; and
+6 2. The individual may be subject to prosecution under KRS 218A.1421
+7 and 218A.1422.
+8 (4) Nothing in this chapter supersedes statutory laws relating to driving while under the
+9 influence of intoxicants. This chapter shall not prevent the enforcement of current
+10 laws pertaining to driving while intoxicated, including KRS 183.061, 189.520,
+11 189A.010, and 235.240.
+12 (5) As used in this section:
+13 (a) "Aircraft" has the same meaning as in KRS 183.011;
+14 (b) "Vehicle" has the same meaning as in KRS 189.010; and
+15 (c) "Vessel" has the same meaning as in KRS 235.010.
+16 Section 5. KRS 218B.080 is amended to read as follows:
+17 (1) No person shall cultivate, except as permitted under Section 7 of this Act, process,
+18 produce, possess, test, transfer, transport, or sell medicinal cannabis or otherwise
+19 operate a cannabis business in this state without first obtaining a license under this
+20 section.
+21 (2) The cabinet shall create separate licenses, licensure application fees, initial
+22 licensure fees, and licensure renewal fees allowing persons to operate a cannabis
+23 business, pursuant to this chapter and any administrative regulations promulgated
+24 thereunder, as a:
+25 (a) Tier I cannabis cultivator;
+26 (b) Tier II cannabis cultivator;
+27 (c) Tier III cannabis cultivator;
+Page 15 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1303
+1 (d) Tier IV cannabis cultivator;
+2 (e) Cannabis dispensary;
+3 (f) Cannabis processor;
+4 (g) Cannabis producer; or
+5 (h) Cannabis safety compliance facility.
+6 (3) Licensure application fees, initial licensing fees, and licensure renewal fees
+7 collected by the cabinet pursuant to this section shall be retained by the cabinet for
+8 administrative purposes.
+9 (4) (a) Except as provided in paragraph (b) of this subsection, a cannabis business
+10 shall be required to apply for and obtain from the cabinet a separate license
+11 for each location it intends to operate.
+12 (b) A cannabis business licensed as a producer may operate cultivation and
+13 processing activities at separate locations, but shall not operate more than one
+14 (1) cultivation and one (1) processing facility per license.
+15 (5) (a) A cannabis business license issued under this section and KRS 218B.085 and
+16 218B.090 shall be valid for one (1) year from the date of issuance. The
+17 cabinet shall notify each licensee ninety (90) days prior to the date the license
+18 expires to allow the licensee to begin the renewal process established by the
+19 cabinet pursuant to KRS 218B.140.
+20 (b) The renewal of a cannabis business license shall be contingent upon
+21 successful achievement of minimal performance standards established by the
+22 cabinet as part of the biennial accreditation process established by the cabinet
+23 pursuant to KRS 218B.140.
+24 (6) The cabinet shall approve a license holder's sale of a license issued pursuant to this
+25 section and KRS 218B.085 and 218B.090 if the purchaser and any new facilities
+26 meet the requirements of this chapter.
+27 Section 6. KRS 218B.140 is amended to read as follows:
+Page 16 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1303
+1 (1) No later than July 1, 2024, the cabinet shall:
+2 (a) Ensure that the electronic monitoring system established pursuant to KRS
+3 218A.202 is designed or configured to enable:
+4 1. Medicinal cannabis practitioners to record the issuance of written
+5 certifications to qualified patients, as required by KRS 218B.050;
+6 2. The cabinet and state licensing boards to monitor the issuance of written
+7 certifications by medicinal cannabis practitioners;
+8 3. Cabinet personnel, law enforcement personnel, and dispensary agents to
+9 verify the validity of registry identification cards issued by the cabinet
+10 by entering a registry identification number to determine whether or not
+11 the identification number corresponds with a current, valid registry
+12 identification card. The system shall only disclose whether the
+13 identification card is valid and whether the cardholder is a registered
+14 qualified patient, visiting qualified patient, or designated caregiver;
+15 4. Law enforcement personnel and dispensary agents to access medicinal
+16 cannabis sales data recorded by dispensary agents pursuant to KRS
+17 218B.110;
+18 5. Dispensary agents to record the amount of medicinal cannabis that is
+19 dispensed to a cardholder during each transaction as required by KRS
+20 218B.110; and
+21 6. The sharing of dispensing data recorded by dispensary agents pursuant
+22 to KRS 218B.110 with all dispensaries in real time;
+23 (b) Ensure that the electronic monitoring system established pursuant to KRS
+24 218A.202 is designed to facilitate the tracking of medicinal cannabis
+25 cultivated, processed, or produced by a licensed cannabis business from the
+26 point of cultivation to the point of sale to cardholders; and
+27 (c) Promulgate administrative regulations in accordance with KRS Chapter 13A
+Page 17 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1303
+1 to establish:
+2 1. Procedures for the issuance, renewal, suspension, and revocation of
+3 registry identification cards, including the creation of a standardized:
+4 a. Written certification form; and
+5 b. Application form which the cabinet shall require to be notarized;
+6 2. Procedures for the issuance and revocation of registry identification
+7 cards;
+8 3. Procedures for the issuance, renewal, suspension, and revocation of
+9 cannabis business licenses, including the creation of a uniform licensure
+10 application form which the cabinet shall require to be notarized and
+11 minimal performance standards for a biennial accreditation process with
+12 all such procedures subject to the requirements of KRS Chapters 13A
+13 and 13B;
+14 4. A convenience fee to be assessed and collected by dispensaries for
+15 visiting qualified patients who do not possess a valid registry
+16 identification card issued by the cabinet and who purchase medicinal
+17 cannabis with an out-of-state registry identification card and
+18 documentation of having been diagnosed with a qualifying medical
+19 condition. The convenience fee established pursuant to this
+20 subparagraph shall not exceed fifteen dollars ($15) per transaction;
+21 5. In collaboration with the Board of Physicians and Advisors:
+22 a. A definition of the amount of medicinal cannabis or delta-9
+23 tetrahydrocannabinol that constitutes a daily supply, an
+24 uninterrupted ten (10) day supply, and an uninterrupted thirty (30)
+25 day supply of medicinal cannabis; and
+26 b. The amount of raw plant material that medicinal cannabis products
+27 are considered to be equivalent to;
+Page 18 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1303
+1 6. A process by which a medicinal cannabis practitioner may recommend,
+2 and a registered qualified patient or his or her designated caregiver may
+3 legally purchase and possess, an amount of medicinal cannabis in excess
+4 of the thirty (30) day supply of medicinal cannabis, if the medicinal
+5 cannabis practitioner reasonably believes that the standard thirty (30)
+6 day supply would be insufficient in providing the patient with
+7 uninterrupted therapeutic or palliative relief;
+8 7. Provisions governing the following matters related to cannabis
+9 businesses with the goal of protecting against diversion and theft,
+10 without imposing any undue burden that would make cannabis business
+11 operations unreasonable or impractical on cannabis businesses or
+12 compromising the confidentiality of cardholders:
+13 a. Recordkeeping and inventory control requirements, including the
+14 use of the electronic monitoring systems established pursuant to
+15 KRS 218A.202;
+16 b. Procedures for the verification and validation of a registry
+17 identification card, or its equivalent, that was issued pursuant to
+18 the laws of another state, district, territory, commonwealth, or
+19 insular possession of the United States that allows for the use of
+20 medicinal cannabis in the jurisdiction of issuance;
+21 c. Security requirements for safety compliance facilities, processors,
+22 producers, dispensaries, and cultivators, which shall include at a
+23 minimum lighting, video security, alarm requirements, on-site
+24 parking, and measures to prevent loitering;
+25 d. Procedures for the secure transportation, including delivery
+26 services provided by dispensaries, and storage of medicinal
+27 cannabis by cannabis business licensees and their employees or
+Page 19 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1303
+1 agents;
+2 e. Employment and training requirements for licensees and their
+3 agents, including requiring each licensee to create an identification
+4 badge for each of the licensee's agents or employees; and
+5 f. Restrictions on visits to licensed cultivation and processing
+6 facilities, including requiring the use of visitor logs;
+7 8. Procedures to establish, publish, and annually update a list of varieties
+8 of cannabis that possess a low but effective level of
+9 tetrahydrocannabinol, including the substance cannabidiol, by
+10 comparing percentages of chemical compounds within a given variety
+11 against other varieties of cannabis;
+12 9. A rating system that tracks the terpene content of at least the twelve (12)
+13 major terpenoids within each strain of cannabis available for medicinal
+14 use within the Commonwealth;
+15 10. Requirements for random sample testing of medicinal cannabis to
+16 ensure quality control, including testing for cannabinoids, terpenoids,
+17 residual solvents, pesticides, poisons, toxins, mold, mildew, insects,
+18 bacteria, and any other dangerous adulterant;
+19 11. Requirements for licensed cultivators, producers, and processors to
+20 contract with an independent safety compliance facility to test the
+21 medicinal cannabis before it is sold at a dispensary. The cabinet may
+22 approve the safety compliance facility chosen by a cultivator, producer,
+23 or processor and require that the safety compliance facility report test
+24 results for a designated quantity of medicinal cannabis to the cultivator,
+25 producer, or processor and cabinet;
+26 12. Standards for the operation of safety compliance facilities which may
+27 include:
+Page 20 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1303
+1 a. Requirements for equipment;
+2 b. Personnel qualifications; and
+3 c. Requiring facilities to be accredited by a relevant certifying entity;
+4 13. Standards for the packaging and labeling of medicinal cannabis sold or
+5 distributed by cannabis businesses which shall comply with 15 U.S.C.
+6 secs. 1471 to 1476 and shall include:
+7 a. Standards for packaging that requires at least a two (2) step
+8 process of initial opening;
+9 b. A warning label which may include the length of time it typically
+10 takes for the product to take effect, how long the effects of the
+11 product typically last, and any other information deemed
+12 appropriate or necessary by the cabinet;
+13 c. The amount of medicinal cannabis the product is considered the
+14 equivalent to;
+15 d. Disclosing ingredients, possible allergens, and certain bioactive
+16 components, including cannabinoids and terpenoids, as determined
+17 by the cabinet;
+18 e. A nutritional fact panel;
+19 f. Opaque, child-resistant packaging;
+20 g. [A requirement that all raw plant material packaged or sold in this
+21 state be marked or labeled as "NOT INTENDED FOR
+22 CONSUMPTION BY SMOKING";
+23 h. ]A requirement that medicinal cannabis products be clearly
+24 marked with an identifiable and standardized symbol indicating
+25 that the product contains cannabis;
+26 h.[i.] A requirement that all medicinal cannabis product packaging
+27 include an expiration date; and
+Page 21 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1303
+1 i.[j.] A requirement that medicinal cannabis products and their
+2 packaging not be visually reminiscent of major brands of edible
+3 noncannabis products or otherwise present an attractive nuisance
+4 to minors;
+5 14. Health and safety requirements for the processing of medicinal cannabis
+6 and the indoor cultivation of medicinal cannabis by licensees;
+7 15. Restrictions on:
+8 a. Additives to medicinal cannabis that are toxic, including vitamin E
+9 acetate, or increase the likelihood of addiction; and
+10 b. Pesticides, fertilizers, and herbicides used during medicinal
+11 cannabis cultivation which pose a threat to human health and
+12 safety;
+13 16. Standards for the safe processing of medicinal cannabis products created
+14 by extracting or concentrating compounds from raw plant material;
+15 17. Standards for determining the amount of unprocessed raw plant material
+16 that medicinal cannabis products are considered the equivalent to;
+17 18. Restrictions on advertising, marketing, and signage in regard to
+18 operations or establishments owned by licensees necessary to prevent
+19 the targeting of minors;
+20 19. The requirement that evidence-based educational materials regarding
+21 dosage and impairment be disseminated to registered qualified patients,
+22 visiting qualified patients, and designated caregivers who purchase
+23 medicinal cannabis products;
+24 20. Policies governing insurance requirements for cultivators, dispensaries,
+25 processors, producers, and safety compliance facilities; and
+26 21. Standards, procedures, or restrictions that the cabinet deems necessary
+27 to ensure the efficient, transparent, and safe operation of the medicinal
+Page 22 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1303
+1 cannabis program, except that the cabinet shall not promulgate any
+2 administrative regulation that would impose an undue burden or make
+3 cannabis business operations unreasonable or impractical.
+4 (2) No later than January 1, 2025, the cabinet shall:
+5 (a) Establish a medicinal cannabis adverse drug effects reporting system for the
+6 purpose of allowing cardholders to report adverse drug effects via telephone
+7 or online; and
+8 (b) In collaboration with the Board of Physicians and Advisors, produce the
+9 Medicinal Cannabis Advisory Pamphlet which shall include but not be limited
+10 to:
+11 1. Information on the risks, dangers, and possible side effects of the use of
+12 medicinal cannabis;
+13 2. Information on the medicinal cannabis adverse drug effects reporting
+14 system and how to report adverse drug effects; and
+15 3. A detachable signature page which shall be:
+16 a. Signed by a cardholder each time he or she receives a copy of the
+17 Medicinal Cannabis Advisory Pamphlet as required under KRS
+18 218B.110(2)(d); and
+19 b. Retained by the dispensary for a period of at least thirty-six (36)
+20 months.
+21 (3) The cabinet shall provide each licensed dispensary with an adequate number of
+22 Medicinal Cannabis Advisory Pamphlets to ensure that the dispensary is able to
+23 comply with the requirements of KRS 218B.110(2)(d).
+24 (4) Except as provided in KRS 218B.035(1)(g), 218B.095(2)(b), 218.110(2)(e),
+25 218B.115(2), 218B.120(3), and subsection (1)(c)10., 13., 15., and 16. of this
+26 section, the cabinet shall not restrict or limit methods of delivery, use, or
+27 consumption of medicinal cannabis or the types of products that may be acquired,
+Page 23 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1303
+1 produced, processed, possessed, sold, or distributed by a cannabis business.
+2 (5) If a need for additional cannabis cultivation in this state is demonstrated by
+3 cannabis businesses or the cabinet's own analysis, the cabinet may through the
+4 promulgation of administrative regulations increase the cultivation area square
+5 footage limits for either cultivators or producers, or both by up to three (3) times the
+6 limits established in KRS 218B.105 and 218B.120. Any increase in the cultivation
+7 square footage limits adopted by the cabinet pursuant to this section shall not result
+8 in an increase in the licensure application or renewal fees established by the cabinet.
+9 (6) When promulgating administrative regulations under this section, the cabinet shall
+10 consider standards, procedures, and restrictions that have been found to be best
+11 practices relative to the use and regulation of medicinal cannabis.
+12 SECTION 7. A NEW SECTION OF KRS CHAPTER 218B IS CREATED TO
+13 READ AS FOLLOWS:
+14 (1) Notwithstanding any provision of law to the contrary, in addition to the
+15 possession limits established in subsections (1)(a) and 4(a) of Section 2 of this
+16 Act:
+17 (a) 1. A registered qualified patient who is at least eighteen (18) years of age
+18 shall be permitted to possess, cultivate, and harvest up to three (3)
+19 mature medicinal cannabis plants and up to three (3) seedlings on
+20 private property owned by the registered qualified patient.
+21 2. A designated caregiver shall be permitted to possess, cultivate, and
+22 harvest up to three (3) mature medicinal cannabis plants and up to
+23 three (3) seedlings for each registered qualified patient to whom the
+24 designated caregiver is connected through the cabinet's registration
+25 process on private property owned by the designated caregiver; and
+26 (b) Cardholders who possess, cultivate, and harvest mature medicinal cannabis
+27 plants and seedlings shall be permitted to possess, on private property they
+Page 24 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1303
+1 own, any amount of raw plant material and medicinal cannabis products
+2 resulting from at-home cultivation activities permitted under this section.
+3 (2) Cardholders who wish to possess, cultivate, and harvest medicinal cannabis
+4 plants and seedlings shall not be required under this chapter or by any
+5 administrative regulation promulgated by the cabinet to register or otherwise
+6 notify the cabinet of their intent to possess, cultivate, and harvest medicinal
+7 cannabis plants and seedlings on private property they own.
+8 (3) Mature medicinal cannabis plants and seedlings possessed, cultivated, and
+9 harvested by cardholders shall be stored in an enclosed, locked space such as a
+10 closet, room, greenhouse, or other indoor locked space located on private
+11 property owned by the cardholder.
+12 (4) The concentration and potency limits for commercially available medicinal
+13 cannabis established in KRS 218B.095, 218B.110, 218B.115, and 218B.120 shall
+14 not apply to raw plant material or medicinal cannabis products resulting from at-
+15 home cultivation activities permitted under this section.
+16 (5) (a) Except for a designated caregiver who may provide medicinal cannabis to a
+17 registered qualified patient to whom they are connected through the
+18 cabinet's registration process, nothing in this section shall be interpreted as
+19 authorizing or otherwise permitting a cardholder to transfer or sell
+20 medicinal cannabis, mature medicinal cannabis plants, or seedlings to
+21 another individual including another cardholder.
+22 (b) A cardholder who transfers or sells medicinal cannabis, mature medicinal
+23 cannabis plants, or seedlings to another individual in violation of paragraph
+24 (a) of this subsection, may be subject to prosecution including under KRS
+25 218A.1421.
+Page 25 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+[DELETED:   2  J A B S F ( " f p r m a t o c r ( C a i i e a a o p m o 1 T 2 A m 3 A 4 A u ( C a ( A u c t ( E a e t h o s w p f c a t t t p i a w a r p ( " ( " b m a e l u t c a a c d]
+[DELETED:   2  J ( " b a m a p o b m e v ( " ( A r q p d c o v q p w h a f o a p a v r i ( A 1 A 2 D o h b d w a q m c ( " 2 ( " o ( " u ( " e u a ( " o ( " ( A f o t r i t p b c b t D ( A a 1 A o f w t s i a t o p i o s r w c f ( o m]
+[DELETED:   2  J y 2 A w t c w l h p a c b t c p p ( " l f m a i g s s a a r g b t p a o b a a o t c o p a r ( " ( " ( " ( M m a d i K 2 w c h p u ( I ( D K ( " k u ( " c p m a p o a a p r 3 c ( "]
+[DELETED:   2  J ( M o m c s ( D ( " ( " e t ( " 2 ( " a ( " 2 ( " a ( " m p ( " ( A ( A ( C ( [ ( C]
+[DELETED:   2  J o ( C ( C ( E ( F ( G ( H ( H ( H ( M ( M ( N ( P [ C n o c v s t h p r t o ( P ( S ( S ( A ( A f s d w t c o d i l t r m t ( " ( M t t p o t f p C s o a m o s l s s a f o t C s]
+[DELETED:   2  J p ( D K ( " q p m a q p w h a f o ( " i c m a d i b t c t i a p a a r q p v q p o d ( " 2 ( " c f a m a p o b m e ( " t ( " ( A v o t c o a a r p t t i c o c d o w c s a p o ( T d o m c f u n r p t t c ( A ( " p ( " ( T ( T]
+[DELETED:   2  J ( " ( " ( I t a a p t o c ( D 1 C 2 T 3 T p K ( " c i m ( " p ( S t i t m c p p m o t p m r m t o p b f ( S t q m c o c f w t m c p b t p m r m t ( A p S ( A a]
+[DELETED:   2  J a c p o d a b a c o o o p l d ( A u t ( d s a h o h r e a p ( A o p ( A u g p c i ( A p i i t r q p p o l g r f p ( A v q p s n b s u t l o t C b p l b f t u o m c i t v q p d n p m t a a o m c d]
+[DELETED:   2  J o ( A t c p o d a b a c o o o p l c i c t t c r p w t u o m ( A u q p t w t c i c t t c r ( A o c t t c r p i a w a ( A u t ( d s o h o h p f e r q p t w t c i c t t c r m r i t m c i c i a s p t r ( ( A m c p b a c o o h o h r s b k i t o c i w t c r ( W a c p m c o o h o h r t c s a b i p o a v r]
+[DELETED:   2  J i v o r i c a d o h b ( P i t ( N i ( A r q p s n b p t p m m u t ( d s o m c d a g t ( A d c s n b p t p m m c t t a d b t c t c a u q p t w t c i c t t c r ( A c t t a d b t c t c a u ( ( A p p b ( P ( P]
+[DELETED:   2  J ( T ( N p s b s u t l o t C t a p p b ( S ( y o a u p o a v r i c i b t c o f v q p a v o r a ( B u ( A o a m c F p o i a n l t i p r p m o b t f a r q p o q p I d n i p m c t a p t t p d n a p ( N p b v a c S ( ( A i i l p t i p o o u i c]
+[DELETED:   2  J w s ( T t a a u K 2 a S 7 o t A o a r p p t K 2 n t t u o m c i a w t c a a a ( P o o a f a r i c a o r i c o c b l s n c p t i c o r i c o c b l s e ( ( T l a 1 P q p a o r i c a d o h b d w a q m c 2 P a a o m c t d n e t a a u K 2 o a r p ( T p m b r b a p o e t]
+[DELETED:   2  J c v S ( T i c p o d a b t c o a o o p ( O n o b i a p c o a a v v o a o d k o h i t i p b m a t i o m b u t t p o p ( C p h t ( P m c t i w t o a r o r o d o ( U s ( P c 1 O a p i a w p e p t K 2]
+[DELETED:   2  J 2 I 3 O ( U q ( U o c m b s e a p u s ( U o c m b v w o a f o p t o o ( C m u t p i l b t c a a c c o c p p t K 2 2 a 2 o i a c o p a e a p ( T s a t e f o a m v u t i o a ( ( A c m b ( A s c b s w o p p o b t r q ( T o o s o u r p m s n c e]
+[DELETED:   2  J ( I o 5 d 1 T 2 T i m b s t p u K 2 a ( N i l p t d w i i K 1 1 1 ( A ( " ( " ( " S ( N p o s ( T c s c s l l a f i l b t ( T ( T ( T]
+[DELETED:   2  J ( T ( C ( C ( C ( C ( L a f i l f a l r f c a ( ( E s f ( A c b l a a p m o c a p ( ( ( A 2 s b v f o ( y f t d o i T c e c ( T r o a c b l s b c u s c p ( T s m S]
+[DELETED:   2  J ( N ( E t t e m s e p t K 2 1 M c p t r t i o w c 2 T c 3 C v b t i n c w a c v r i c T s s o d w t i c v a w c i a r q 4 L c s d r b d a p t K 2 5 D a d 2 6 T t ( E t t e m s e p t K 2 i d t f t t o m c c p ( P]
+[DELETED:   2  J t 1 P f t i r s a r o r a W b A 2 P f t i a r o r i c 3 P f t i r s a r o c a f w t c s r t b n a m a a 4 A c f t b a a c b d f v q p w d n p a v r i c i b t c a w p m c w a o r i c a d o h b d w a q m c T c f e p t t s 5 I a A d o t a o m c o d t t c a d s a u d b T a]
+[DELETED:   2  J 6 A a l o t t ( d s o m c i t m c p r b t t s t ( d s w b i i p t p w u 7 P g t f m r t c b w t g o p a d a t w o u o i o c b o c a R u K b P f t v a v o a r i t l o a s d t c o i m c S p m l v s a r o p d P f t s t i d s p b d a s o m c b c b l a t e o]
+[DELETED:   2  J a e E a t r f l a t a b f R o v t l c a p f 8 P o c t p a l b e l o t i t s c b c a 9 A m u 1 R f r s t o m c t e q c i t f c t r s p p t m m i b 1 R f l c p a p t c w a i s c f t t t m a o r p 1 S i]
+[DELETED:   2  J a R b P c R 1 S d s a S f p t r a l a t ( s p b A t e p t l a a o i d a c T e d D i p a a c b c b e A f O g [ s b m o l a " I F C h ] r t m c p b c m w a i a s s i t h r t a m c p p i]
+[DELETED:   2  J i A r t m c p a t p n t 1 H a 1 R a A a b P f a h u d m c c w p a t t h h a s 1 S b 1 S t 1 R o a m a s i r t o o o b l n t p t 1 T r t e e m r d v q p a d c w p m 2 P p 2 S t]
+[DELETED:   2  J c p e t t c s n p a a c ( N ( E p o ( I c w t B o P a A p t M t 1 I m 2 I o t m c a d e r s 3 A a S M C A P a r u K 2 b R m ( T c s p e l d w a a n o M c ( E a p i K 2 2 2 2 2 a s ( 1 1 a 1 o t s t c s n r o l m o d u o c]
+[DELETED:   2  J p ( I a n f a c c i t s i d b c b o t c o a t c m t t p o a r i t c a s f l s i ( W c s p a r t h b f t b b p S R ( N a p o l t t c i a t t p A ( 1 A s b p t p c a h u t t ( m m c p a u t t ( s o p 2 A d c s b p t p c a h t d c i c t t c r p ( C p]
+[DELETED:   2  J o r ( C w w t p c a h m c p a s s n b r u t c o b a a r p b t c t r o o n t c o t i t p c a h m c ( M m c p a s p c a h c r g o o i l s l o p p ( T c a p l f c a m c n h ( ( E r q p t w t a c t t c a o o p a c t t o s m c m m c p o s t a ( A c ( 2]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS BR 1303
+1 AN ACT relating to medicinal cannabis.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 218B.010 is amended to read as follows:
+4 For the purposes of this chapter, unless the context otherwise requires:
+5 (1) "Bona fide practitioner-patient relationship" means a treating or consulting
+6 relationship, during the course of which a medicinal cannabis practitioner has:
+7 (a) Completed an initial in-person examination and assessment of the patient's
+8 medical history and current medical condition which shall include a review
+9 of:
+10 1. The patient's medical records for the previous twelve (12) months;
+11 2. All other available medical records relevant to the patient's qualifying
+12 medical condition;
+13 3. Any medications that the patient is currently taking; and
+14 4. Any other possible risks or side effects that may be associated with the
+15 use of medicinal cannabis;
+16 (b) Consulted with the patient with respect to the possible medical, therapeutic,
+17 and palliative properties of medicinal cannabis;
+18 (c) Advised the patient of the possible risks and side effects associated with the
+19 use of medicinal cannabis, including possible interactions between medicinal
+20 cannabis and any other drug or medication that the patient is taking at that
+21 time; and
+22 (d) Established an expectation that he or she will provide follow-up care and
+23 treatment to the patient in accordance with administrative regulations
+24 promulgated pursuant to KRS 218B.050(10);
+25 (2) "Cabinet" means the Cabinet for Health and Family Services;
+26 (3) "Cannabis business" means an entity licensed under this chapter as a cultivator,
+27 dispensary, processor, producer, or safety compliance facility;
+Page 1 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1303
+1 (4) "Cannabis business agent" means a principal officer, board member, employee,
+2 volunteer, or agent of a cannabis business;
+3 (5) "Cardholder" means:
+4 (a) A registered qualified patient, designated caregiver, or visiting qualified
+5 patient who has applied for, obtained, and possesses a valid registry
+6 identification card issued by the cabinet; or
+7 (b) A visiting qualified patient who has obtained and possesses:
+8 1. A valid out-of-state registry identification card; and
+9 2. Documentation of having been diagnosed with a qualifying medical
+10 condition;
+11 (6) "Cultivator" means an entity licensed as such under KRS 218B.080, 218B.085, and
+12 218B.090;
+13 (7) "Cultivator agent" means a principal officer, board member, employee, volunteer,
+14 or agent of a cultivator;
+15 (8) "Designated caregiver" means a person who has registered as such with the cabinet
+16 under KRS 218B.055 and 218B.060;
+17 (9) "Dispensary" means an entity licensed as such under KRS 218B.080, 218B.085,
+18 and 218B.090;
+19 (10) "Dispensary agent" means a principal officer, board member, employee, volunteer,
+20 or agent of a dispensary;
+21 (11) "Disqualifying felony offense" means:
+22 (a) A felony offense that resulted in the person being classified by the
+23 Department of Corrections as a violent offender under KRS 439.3401; or
+24 (b) A violation of a state or federal controlled substance law that was classified as
+25 a felony in the jurisdiction where the person was convicted, except:
+26 1. An offense for which the sentence, including any term of probation,
+27 incarceration, or supervised release, was completed five (5) or more
+Page 2 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1303
+1 years earlier; or
+2 2. An offense that, as determined by the cabinet, consisted of conduct for
+3 which this chapter would likely have prevented a conviction, but the
+4 conduct either occurred prior to the enactment of this chapter or was
+5 prosecuted by an authority other than the Commonwealth of Kentucky;
+6 (12) "Enclosed, locked facility" means an indoor growing space such as a room,
+7 greenhouse, building, or other indoor enclosed area that is maintained and operated
+8 by a cultivator or producer and is equipped with locks and other security devices
+9 that permit access only by authorized agents of the cultivator or producer, as
+10 required by the cabinet;
+11 (13) "Growth area" has the same meaning as an enclosed, locked facility;
+12 (14) "Marijuana" has the same meaning as in KRS 218A.010;
+13 (15) "Medicinal cannabis":
+14 (a) Means marijuana as defined in KRS 218A.010 when cultivated, harvested,
+15 processed, produced, transported, dispensed, distributed, sold, possessed, or
+16 used in accordance with this chapter;
+17 (b) Includes medicinal cannabis products and raw plant material; and
+18 (c) Does not include industrial hemp or industrial hemp products as defined in
+19 KRS 260.850;
+20 (16) "Medicinal cannabis accessories" means any equipment, product, or material of any
+21 kind which is used, intended for use, or designed for use in the preparing, storing,
+22 using, or consuming medicinal cannabis in accordance with this chapter;
+23 (17) "Medicinal cannabis practitioner" means a physician or an advanced practice
+24 registered nurse who is authorized to prescribe controlled substances under KRS
+25 314.042, who is authorized by his or her state licensing board to provide written
+26 certifications pursuant to KRS 218B.050;
+27 (18) "Medicinal cannabis product":
+Page 3 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1303
+1 (a) Means any compound, manufacture, salt, derivative, mixture, or preparation
+2 of any part of the plant Cannabis sp., its seeds or its resin; or any compound,
+3 mixture, or preparation which contains any quantity of these substances when
+4 cultivated, harvested, processed, produced, transported, dispensed, distributed,
+5 sold, possessed, or used in accordance with this chapter; and
+6 (b) Does not include industrial hemp products as defined in KRS 260.850;
+7 (19) "Minor" means a person less than eighteen (18) years of age;
+8 (20) "Out-of-state registry identification card" means a registry identification card, or an
+9 equivalent document, that was issued pursuant to the laws of another state, district,
+10 territory, commonwealth, or insular possession of the United States;
+11 (21) "Processor" means an entity licensed as such under KRS 218B.080, 218B.085, and
+12 218B.090;
+13 (22) "Processor agent" means a principal officer, board member, employee, volunteer, or
+14 agent of a processor;
+15 (23) "Producer" means an entity licensed as such under KRS 218B.080, 218B.085, and
+16 218B.090;
+17 (24) "Producer agent" means a principal officer, board member, employee, volunteer, or
+18 agent of a producer;
+19 (25) "Qualified patient" means a person who has obtained a written certification from a
+20 medicinal cannabis practitioner with whom he or she has a bona fide practitioner-
+21 patient relationship;
+22 (26) "Qualifying medical condition" means any of the following:
+23 (a) Acquired immunodeficiency syndrome (AIDS);
+24 (b) Amyotrophic lateral sclerosis (ALS) or Lou Gehrig's disease;
+25 (c) Cachexia or wasting syndrome;
+26 (d) [Any type or form of ]Cancer regardless of type, form, or stage;
+27 (e) Chronic nausea or cyclical vomiting syndrome that has proven resistant to
+Page 4 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1303
+1 other conventional medical treatments;
+2 (f)[(b)] Chronic, severe, intractable, or debilitating pain;
+3 (g) Crohn's disease;
+4 (h)[(c)] Epilepsy or any other intractable seizure disorder;
+5 (i) Fibromyalgia;
+6 (j) Glaucoma;
+7 (k) Hepatitis C;
+8 (l) Human immunodeficiency virus (HIV);
+9 (m) Huntington's disease;
+10 (n)[(d)] Multiple sclerosis, muscle spasms, or spasticity;
+11 (o) Muscular dystrophy;
+12 (p) Neuropathies;
+13 (q) Parkinson's disease;
+14 [(e) Chronic nausea or cyclical vomiting syndrome that has proven resistant to
+15 other conventional medical treatments;]
+16 (r)[(f)] Post-traumatic stress disorder;[ and]
+17 (s) Severe arthritis;
+18 (t) Sickle cell disease;
+19 (u) Any terminal illness as defined in KRS 217.5401; and
+20 (v)[(g)] Any other medical condition or disease for which the Kentucky Center
+21 for Cannabis established in KRS 164.983, or its successor, determines that
+22 sufficient scientific data and evidence exists to demonstrate that an individual
+23 diagnosed with that condition or disease is likely to receive medical,
+24 therapeutic, or palliative benefits from the use of medicinal cannabis;
+25 (27) "Raw plant material":
+26 (a) Means the trichome-covered part of the female plant Cannabis sp. or any
+27 mixture of shredded leaves, stems, seeds, and flowers of the Cannabis sp.
+Page 5 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1303
+1 plant; and
+2 (b) Does not include plant material obtained from industrial hemp as defined in
+3 KRS 260.850;
+4 (28) "Registered qualified patient" means a qualified patient who has applied for,
+5 obtained, and possesses a valid registry identification card issued by the cabinet;
+6 (29) "Registry identification card" means a document issued by the cabinet that
+7 identifies a person as a registered qualified patient, visiting qualified patient, or
+8 designated caregiver;
+9 (30) "Safety compliance facility" means an entity licensed as such under KRS 218B.080,
+10 218B.085, and 218B.090;
+11 (31) "Safety compliance facility agent" means a principal officer, board member,
+12 employee, volunteer, or agent of a safety compliance facility;
+13 (32) "Seedling" means a medicinal cannabis plant that has no flowers and is not taller
+14 than eight (8) inches;
+15 (33) "Serious violation" means:
+16 (a) Any violation of this chapter or any administrative regulation promulgated
+17 thereunder that is capable of causing death or which causes serious and
+18 prolonged disfigurement, prolonged impairment of health, or prolonged loss
+19 or impairment of the function of any bodily organ;
+20 (b) The diversion of medicinal cannabis for use not regulated pursuant to this
+21 chapter; or
+22 (c) Any act that would constitute a violation of KRS 218A.1421;
+23 (34) "Smoking" means the inhalation of smoke produced from the combustion of raw
+24 plant material when ignited by a flame;
+25 (35) "State licensing board" means:
+26 (a) The Kentucky Board of Medical Licensure; or
+27 (b) The Kentucky Board of Nursing;
+Page 6 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1303
+1 (36) "Telehealth" has the same meaning as in KRS 211.332;
+2 (37) "Use of medicinal cannabis":
+3 (a) Includes the acquisition, administration, possession, transfer, transportation,
+4 or consumption of medicinal cannabis or medicinal cannabis accessories by a
+5 cardholder in accordance with this chapter; and
+6 (b) Does not include:
+7 1. Cultivation of marijuana by a cardholder;
+8 2. The use or consumption of marijuana by smoking; or
+9 3. The use of industrial hemp or industrial hemp products as defined in
+10 KRS 260.850;
+11 (38) "Visiting qualified patient" means a person who has registered as such through the
+12 cabinet as required under this chapter or who possesses a valid out-of-state registry
+13 identification card and documentation of having been diagnosed with a qualifying
+14 medical condition; and
+15 (39) "Written certification" means a document dated and signed by a medicinal cannabis
+16 practitioner, that:
+17 (a) States, that in the medicinal cannabis practitioner's professional medical
+18 opinion, the patient may receive medical, therapeutic, or palliative benefit
+19 from the use of medicinal cannabis;
+20 (b) Specifies the qualifying medical condition or conditions for which the
+21 medicinal cannabis practitioner believes the patient may receive medical,
+22 therapeutic, or palliative benefit; and
+23 (c) Affirms that the medicinal cannabis practitioner has a bona fide practitioner-
+24 patient relationship with the patient.
+25 Section 2. KRS 218B.025 is amended to read as follows:
+26 (1) A registered qualified patient, except as provided in subsection (2) of this section
+27 and KRS 218B.035, shall not be subject, under the laws of the Commonwealth, to
+Page 7 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1303
+1 arrest, prosecution, or denial of any right or privilege, including but not limited to a
+2 civil penalty or disciplinary action by a court or occupational or professional
+3 licensing board, for the use of medicinal cannabis, if the registered qualified patient
+4 does not possess more than:
+5 (a) An amount of medicinal cannabis determined by the cabinet to constitute an
+6 uninterrupted thirty (30) day supply at his or her residence, except as
+7 permitted under Section 7 of this Act;
+8 (b) An amount of medicinal cannabis in excess of a thirty (30) day supply at his
+9 or her residence, in accordance with administrative regulations promulgated
+10 pursuant to KRS 218B.140(1)(c)6.; or
+11 (c) An amount of medicinal cannabis determined by the cabinet to constitute an
+12 uninterrupted ten (10) day supply on his or her person, except that an amount
+13 greater than a ten (10) day supply may be transported by a registered qualified
+14 patient from a dispensary to his or her residence if the medicinal cannabis is
+15 contained in a sealed package that requires at least a two (2) step process for
+16 initial opening.
+17 (2) A registered qualified patient who is under eighteen (18) years of age shall not be
+18 permitted to possess, purchase, or acquire medicinal cannabis and shall only engage
+19 in the use of medicinal cannabis with the assistance of a designated caregiver who
+20 is the registered qualified patient's parent or legal guardian responsible for
+21 providing consent for medical treatment.
+22 (3) A visiting qualified patient shall not be subject, under the laws of the
+23 Commonwealth, to arrest, prosecution, or denial of any right or privilege, including
+24 but not limited to civil penalty or disciplinary action by a court or occupational or
+25 professional licensing board, for the use of medicinal cannabis, if the visiting
+26 qualified patient does not possess more than an amount of medicinal cannabis
+27 determined by the cabinet to constitute an uninterrupted ten (10) day supply on his
+Page 8 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1303
+1 or her person.
+2 (4) A designated caregiver shall not be subject, under the laws of the Commonwealth,
+3 to arrest, prosecution, or denial of any right or privilege, including but not limited to
+4 civil penalty or disciplinary action by a court or occupational or professional
+5 licensing board, for assisting a registered qualified patient to whom the designated
+6 caregiver is connected through the cabinet's registration process with the use of
+7 medicinal cannabis if the designated caregiver does not possess more than:
+8 (a) An amount of medicinal cannabis determined by the cabinet to constitute an
+9 uninterrupted thirty (30) day supply at his or her residence for each registered
+10 qualified patient to whom the caregiver is connected through the cabinet's
+11 registration process, except as permitted under Section 7 of this Act;
+12 (b) An amount of medicinal cannabis in excess of a thirty (30) day supply at his
+13 or her residence for each registered qualified patient to whom the caregiver is
+14 connected through the cabinet's registration process, in accordance with
+15 administrative regulations promulgated pursuant to KRS 218B.140(1)(c)6.; or
+16 (c) An amount of medicinal cannabis determined by the cabinet to constitute an
+17 uninterrupted ten (10) day supply on his or her person for each registered
+18 qualified patient to whom the caregiver is connected through the cabinet's
+19 registration process, except that an amount greater than a ten (10) day supply
+20 may be transported by a designated caregiver from a dispensary to his or her
+21 residence if the medicinal cannabis is contained in a sealed package that
+22 requires at least a two (2) step process for initial opening.
+23 (5) (a) All medicinal cannabis possessed by a cardholder outside of his or her
+24 residence shall be kept in the original container in which the cardholder
+25 received the medicinal cannabis from a dispensary.
+26 (b) When a cardholder possesses medicinal cannabis outside of his or her
+27 residence, the cardholder shall also be in possession of a valid registry
+Page 9 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1303
+1 identification card issued by the cabinet or, for visiting qualified patients, a
+2 valid out-of-state registry identification card and documentation of having
+3 been diagnosed with a qualifying medical condition.
+4 (c) Paragraph (a) of this subsection shall not apply to medicinal cannabis that
+5 is the product of cultivation by a cardholder as permitted under Section 7 of
+6 this Act.
+7 (6) Notwithstanding subsections (1), (3), and (4) of this section and except as provided
+8 in administrative regulations promulgated pursuant to KRS 218B.140(1)(c)6.:
+9 (a) A registered qualified patient shall not be permitted to purchase more
+10 medicinal cannabis than the amount determined by the cabinet to constitute an
+11 uninterrupted thirty (30) day supply of medicinal cannabis during a given
+12 twenty-five (25) day period;
+13 (b) A designated caregiver shall not be permitted to purchase more medicinal
+14 cannabis than the amount determined by the cabinet to constitute an
+15 uninterrupted thirty (30) day supply of medicinal cannabis for each registered
+16 qualified patient to whom the caregiver is connected through the cabinet's
+17 registration process during a given twenty-five (25) day period; and
+18 (c) A visiting qualified patient shall not be permitted to purchase more medicinal
+19 cannabis than the amount determined by the cabinet to constitute an
+20 uninterrupted ten (10) day supply of medicinal cannabis during a given eight
+21 (8) day period.
+22 (7) A cardholder shall not be subject, under the laws of the Commonwealth, to arrest,
+23 prosecution, or denial of any right or privilege, including but not limited to a civil
+24 penalty or disciplinary action by a court or occupational or professional licensing
+25 board, for:
+26 (a) Possession of cannabis that is incidental to the use of medicinal cannabis;
+27 (b) Possession of medicinal cannabis accessories; or
+Page 10 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1303
+1 (c) Transferring medicinal cannabis to a safety facility for testing.
+2 (8) No person shall be subject, under the laws of the Commonwealth, to arrest,
+3 prosecution, or denial of any right or privilege, including but not limited to a civil
+4 penalty or disciplinary action by a court or occupational or professional licensing
+5 board, for:
+6 (a) Selling medicinal cannabis accessories to a cardholder who is over eighteen
+7 (18) years of age upon presentation of a valid registry identification card
+8 issued by the cabinet or, for visiting qualified patients, a valid out-of-state
+9 registry identification card and documentation of having been diagnosed with
+10 a qualifying medical condition;
+11 (b) Being in the presence or vicinity of the use of medicinal cannabis as allowed
+12 under this chapter; or
+13 (c) Assisting a registered qualified patient or visiting qualified patient with using
+14 or administering medicinal cannabis. For purposes of illustration and not
+15 limitation, this includes preparing raw plant material or brewing tea for a
+16 registered qualified patient or visiting qualified patient. It does not include
+17 providing medicinal cannabis to a patient that the patient did not already
+18 possess.
+19 (9) Notwithstanding any other provision of law to the contrary, a registered qualified
+20 patient who is injured or defrauded, including by theft or deprivation of use and
+21 benefit of any money, personal property including medicinal cannabis, or articles of
+22 value of any kind, by his or her designated caregiver shall have a civil cause of
+23 action in Circuit Court to recover the actual damages sustained, together with the
+24 cost of the lawsuit, including a reasonable fee for the individual's attorney of record.
+25 Section 3. KRS 218B.030 is amended to read as follows:
+26 (1) (a) Any medicinal cannabis, medicinal cannabis accessories, lawful property, or
+27 interest in lawful property that is possessed, owned, or used in connection
+Page 11 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1303
+1 with the use of medicinal cannabis or acts incidental to that use shall not be
+2 subject to seizure or forfeiture under KRS 218A.405 to 218A.460.
+3 (b) This chapter shall not prevent the seizure or forfeiture of marijuana exceeding
+4 the amounts allowed under KRS 218B.025 and Section 7 of this Act or
+5 administrative regulations promulgated pursuant to KRS 218B.140(1)(c)6.,
+6 nor shall it prevent seizure or forfeiture if the basis for that action is unrelated
+7 to the use of medicinal cannabis in accordance with this chapter and any
+8 administrative regulation promulgated thereunder.
+9 (2) Possession of, or application for, a registry identification card, an out-of-state
+10 registry identification card, or cannabis business license shall not constitute
+11 probable cause or reasonable suspicion, nor shall it be used to support the search of
+12 the person, property, or home of the person possessing or applying for the registry
+13 identification card, out-of-state registry identification card, or cannabis business
+14 license. The possession of, or application for, a registry identification card, out-of-
+15 state registry identification card, or cannabis business license shall not preclude the
+16 existence of probable cause if probable cause exists on other grounds.
+17 (3) (a) There shall be a rebuttable presumption that a cardholder is engaged in the
+18 lawful use of medicinal cannabis, or in the case of a designated caregiver,
+19 assisting with the lawful use of medicinal cannabis, if the cardholder:
+20 1. Possesses a valid registry identification card or, in the case of a visiting
+21 qualified patient, an out-of-state registry identification card and
+22 documentation of having been diagnosed with a qualifying medical
+23 condition; and
+24 2. Possesses an amount of medicinal cannabis that does not exceed the
+25 amount allowed under KRS 218B.025 or administrative regulations
+26 promulgated pursuant to KRS 218B.140(1)(c)6.
+27 (b) This presumption may be rebutted by a preponderance of evidence that
+Page 12 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1303
+1 conduct was unrelated to the use of medicinal cannabis or was otherwise in
+2 violation of this chapter.
+3 Section 4. KRS 218B.035 is amended to read as follows:
+4 (1) This chapter does not authorize any person to engage in, and shall not prevent the
+5 imposition of any civil, criminal, or other penalties, including but not limited to
+6 criminal prosecution or disciplinary action by the cabinet or an occupational or
+7 professional licensing board, for engaging in the following conduct:
+8 (a) Operating, navigating, or being in actual physical control of any aircraft,
+9 vehicle, vessel, or any other device known, or hereafter invented, that is
+10 powered by machinery and that is or may be used to transport persons or
+11 property while under the influence of medicinal cannabis;
+12 (b) Consuming medicinal cannabis while operating, navigating, or being in actual
+13 physical control of an aircraft, vehicle, vessel, or any other device known, or
+14 hereafter invented, that is powered by machinery and that is or may be used to
+15 transport persons or property;
+16 (c) Possessing medicinal cannabis that is within the operator's arm's reach or
+17 requires less than a two (2) step process to access while operating, navigating,
+18 or being in actual physical control of an aircraft, vehicle, vessel, or any other
+19 device known, or hereafter invented, that is powered by machinery and that is
+20 or may be used to transport persons or property;
+21 (d) Undertaking any task under the influence of medicinal cannabis, when doing
+22 so would constitute negligence or professional malpractice;
+23 (e) Possessing medicinal cannabis, or otherwise engaging in the use of medicinal
+24 cannabis:
+25 1. On the grounds of any preschool or primary or secondary school, except
+26 as permitted in accordance with policies enacted pursuant to KRS
+27 218B.045(4);
+Page 13 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1303
+1 2. In any correctional facility; or
+2 3. On any property of the federal government;
+3 (f) Using marijuana, if that person is not a registered qualified patient or visiting
+4 qualified patient;
+5 (g) Using or consuming marijuana by smoking, except as permitted under
+6 subsection (3) of this section;
+7 (h) Using or consuming marijuana by vaping while on any form of public
+8 transportation, in any public place as defined in KRS 525.010, or in any place
+9 of public accommodation, resort, or amusement as defined in KRS 344.130;
+10 or
+11 (i) Cultivating marijuana unless that person is licensed by the cabinet as a
+12 cannabis cultivator or cannabis producer pursuant to KRS 218B.080,
+13 218B.085, and 218B.090 or is a cultivator or producer agent, except as
+14 permitted in Section 7 of this Act.
+15 (2) The penalty for a violation of subsection (1)(a) or (b) of this section shall be the
+16 same as those established for operating a motor vehicle under the influence of
+17 alcohol or any other substance in KRS 189A.010.
+18 (3) (a) An individual who violates subsection (1)(g) or (h) of this section shall not be
+19 considered to be in possession of medicinal cannabis or engaged in the use of
+20 medicinal cannabis and shall not benefit from the legal protections afforded
+21 by this chapter.
+22 (b) A registered qualified patient shall not be considered to be in violation of
+23 subsection (1)(g) of this section if he or she uses or consumes medicinal
+24 cannabis by smoking while on private property owned by the registered
+25 qualified patient or his or her designated caregiver.
+26 (c) The odor or smell of uncombusted raw plant material shall not constitute
+27 evidence of use or consumption of cannabis by smoking.
+Page 14 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1303
+1 (d)[(c)] If an individual uses or consumes marijuana by smoking or vaping while
+2 on any form of public transportation, in any public place as defined in KRS
+3 525.010, or in any place of public accommodation, resort, or amusement as
+4 defined in KRS 344.130:
+5 1. The cabinet may revoke the individual's registry identification card; and
+6 2. The individual may be subject to prosecution under KRS 218A.1421
+7 and 218A.1422.
+8 (4) Nothing in this chapter supersedes statutory laws relating to driving while under the
+9 influence of intoxicants. This chapter shall not prevent the enforcement of current
+10 laws pertaining to driving while intoxicated, including KRS 183.061, 189.520,
+11 189A.010, and 235.240.
+12 (5) As used in this section:
+13 (a) "Aircraft" has the same meaning as in KRS 183.011;
+14 (b) "Vehicle" has the same meaning as in KRS 189.010; and
+15 (c) "Vessel" has the same meaning as in KRS 235.010.
+16 Section 5. KRS 218B.080 is amended to read as follows:
+17 (1) No person shall cultivate, except as permitted under Section 7 of this Act, process,
+18 produce, possess, test, transfer, transport, or sell medicinal cannabis or otherwise
+19 operate a cannabis business in this state without first obtaining a license under this
+20 section.
+21 (2) The cabinet shall create separate licenses, licensure application fees, initial
+22 licensure fees, and licensure renewal fees allowing persons to operate a cannabis
+23 business, pursuant to this chapter and any administrative regulations promulgated
+24 thereunder, as a:
+25 (a) Tier I cannabis cultivator;
+26 (b) Tier II cannabis cultivator;
+27 (c) Tier III cannabis cultivator;
+Page 15 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1303
+1 (d) Tier IV cannabis cultivator;
+2 (e) Cannabis dispensary;
+3 (f) Cannabis processor;
+4 (g) Cannabis producer; or
+5 (h) Cannabis safety compliance facility.
+6 (3) Licensure application fees, initial licensing fees, and licensure renewal fees
+7 collected by the cabinet pursuant to this section shall be retained by the cabinet for
+8 administrative purposes.
+9 (4) (a) Except as provided in paragraph (b) of this subsection, a cannabis business
+10 shall be required to apply for and obtain from the cabinet a separate license
+11 for each location it intends to operate.
+12 (b) A cannabis business licensed as a producer may operate cultivation and
+13 processing activities at separate locations, but shall not operate more than one
+14 (1) cultivation and one (1) processing facility per license.
+15 (5) (a) A cannabis business license issued under this section and KRS 218B.085 and
+16 218B.090 shall be valid for one (1) year from the date of issuance. The
+17 cabinet shall notify each licensee ninety (90) days prior to the date the license
+18 expires to allow the licensee to begin the renewal process established by the
+19 cabinet pursuant to KRS 218B.140.
+20 (b) The renewal of a cannabis business license shall be contingent upon
+21 successful achievement of minimal performance standards established by the
+22 cabinet as part of the biennial accreditation process established by the cabinet
+23 pursuant to KRS 218B.140.
+24 (6) The cabinet shall approve a license holder's sale of a license issued pursuant to this
+25 section and KRS 218B.085 and 218B.090 if the purchaser and any new facilities
+26 meet the requirements of this chapter.
+27 Section 6. KRS 218B.140 is amended to read as follows:
+Page 16 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1303
+1 (1) No later than July 1, 2024, the cabinet shall:
+2 (a) Ensure that the electronic monitoring system established pursuant to KRS
+3 218A.202 is designed or configured to enable:
+4 1. Medicinal cannabis practitioners to record the issuance of written
+5 certifications to qualified patients, as required by KRS 218B.050;
+6 2. The cabinet and state licensing boards to monitor the issuance of written
+7 certifications by medicinal cannabis practitioners;
+8 3. Cabinet personnel, law enforcement personnel, and dispensary agents to
+9 verify the validity of registry identification cards issued by the cabinet
+10 by entering a registry identification number to determine whether or not
+11 the identification number corresponds with a current, valid registry
+12 identification card. The system shall only disclose whether the
+13 identification card is valid and whether the cardholder is a registered
+14 qualified patient, visiting qualified patient, or designated caregiver;
+15 4. Law enforcement personnel and dispensary agents to access medicinal
+16 cannabis sales data recorded by dispensary agents pursuant to KRS
+17 218B.110;
+18 5. Dispensary agents to record the amount of medicinal cannabis that is
+19 dispensed to a cardholder during each transaction as required by KRS
+20 218B.110; and
+21 6. The sharing of dispensing data recorded by dispensary agents pursuant
+22 to KRS 218B.110 with all dispensaries in real time;
+23 (b) Ensure that the electronic monitoring system established pursuant to KRS
+24 218A.202 is designed to facilitate the tracking of medicinal cannabis
+25 cultivated, processed, or produced by a licensed cannabis business from the
+26 point of cultivation to the point of sale to cardholders; and
+27 (c) Promulgate administrative regulations in accordance with KRS Chapter 13A
+Page 17 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1303
+1 to establish:
+2 1. Procedures for the issuance, renewal, suspension, and revocation of
+3 registry identification cards, including the creation of a standardized:
+4 a. Written certification form; and
+5 b. Application form which the cabinet shall require to be notarized;
+6 2. Procedures for the issuance and revocation of registry identification
+7 cards;
+8 3. Procedures for the issuance, renewal, suspension, and revocation of
+9 cannabis business licenses, including the creation of a uniform licensure
+10 application form which the cabinet shall require to be notarized and
+11 minimal performance standards for a biennial accreditation process with
+12 all such procedures subject to the requirements of KRS Chapters 13A
+13 and 13B;
+14 4. A convenience fee to be assessed and collected by dispensaries for
+15 visiting qualified patients who do not possess a valid registry
+16 identification card issued by the cabinet and who purchase medicinal
+17 cannabis with an out-of-state registry identification card and
+18 documentation of having been diagnosed with a qualifying medical
+19 condition. The convenience fee established pursuant to this
+20 subparagraph shall not exceed fifteen dollars ($15) per transaction;
+21 5. In collaboration with the Board of Physicians and Advisors:
+22 a. A definition of the amount of medicinal cannabis or delta-9
+23 tetrahydrocannabinol that constitutes a daily supply, an
+24 uninterrupted ten (10) day supply, and an uninterrupted thirty (30)
+25 day supply of medicinal cannabis; and
+26 b. The amount of raw plant material that medicinal cannabis products
+27 are considered to be equivalent to;
+Page 18 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1303
+1 6. A process by which a medicinal cannabis practitioner may recommend,
+2 and a registered qualified patient or his or her designated caregiver may
+3 legally purchase and possess, an amount of medicinal cannabis in excess
+4 of the thirty (30) day supply of medicinal cannabis, if the medicinal
+5 cannabis practitioner reasonably believes that the standard thirty (30)
+6 day supply would be insufficient in providing the patient with
+7 uninterrupted therapeutic or palliative relief;
+8 7. Provisions governing the following matters related to cannabis
+9 businesses with the goal of protecting against diversion and theft,
+10 without imposing any undue burden that would make cannabis business
+11 operations unreasonable or impractical on cannabis businesses or
+12 compromising the confidentiality of cardholders:
+13 a. Recordkeeping and inventory control requirements, including the
+14 use of the electronic monitoring systems established pursuant to
+15 KRS 218A.202;
+16 b. Procedures for the verification and validation of a registry
+17 identification card, or its equivalent, that was issued pursuant to
+18 the laws of another state, district, territory, commonwealth, or
+19 insular possession of the United States that allows for the use of
+20 medicinal cannabis in the jurisdiction of issuance;
+21 c. Security requirements for safety compliance facilities, processors,
+22 producers, dispensaries, and cultivators, which shall include at a
+23 minimum lighting, video security, alarm requirements, on-site
+24 parking, and measures to prevent loitering;
+25 d. Procedures for the secure transportation, including delivery
+26 services provided by dispensaries, and storage of medicinal
+27 cannabis by cannabis business licensees and their employees or
+Page 19 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1303
+1 agents;
+2 e. Employment and training requirements for licensees and their
+3 agents, including requiring each licensee to create an identification
+4 badge for each of the licensee's agents or employees; and
+5 f. Restrictions on visits to licensed cultivation and processing
+6 facilities, including requiring the use of visitor logs;
+7 8. Procedures to establish, publish, and annually update a list of varieties
+8 of cannabis that possess a low but effective level of
+9 tetrahydrocannabinol, including the substance cannabidiol, by
+10 comparing percentages of chemical compounds within a given variety
+11 against other varieties of cannabis;
+12 9. A rating system that tracks the terpene content of at least the twelve (12)
+13 major terpenoids within each strain of cannabis available for medicinal
+14 use within the Commonwealth;
+15 10. Requirements for random sample testing of medicinal cannabis to
+16 ensure quality control, including testing for cannabinoids, terpenoids,
+17 residual solvents, pesticides, poisons, toxins, mold, mildew, insects,
+18 bacteria, and any other dangerous adulterant;
+19 11. Requirements for licensed cultivators, producers, and processors to
+20 contract with an independent safety compliance facility to test the
+21 medicinal cannabis before it is sold at a dispensary. The cabinet may
+22 approve the safety compliance facility chosen by a cultivator, producer,
+23 or processor and require that the safety compliance facility report test
+24 results for a designated quantity of medicinal cannabis to the cultivator,
+25 producer, or processor and cabinet;
+26 12. Standards for the operation of safety compliance facilities which may
+27 include:
+Page 20 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1303
+1 a. Requirements for equipment;
+2 b. Personnel qualifications; and
+3 c. Requiring facilities to be accredited by a relevant certifying entity;
+4 13. Standards for the packaging and labeling of medicinal cannabis sold or
+5 distributed by cannabis businesses which shall comply with 15 U.S.C.
+6 secs. 1471 to 1476 and shall include:
+7 a. Standards for packaging that requires at least a two (2) step
+8 process of initial opening;
+9 b. A warning label which may include the length of time it typically
+10 takes for the product to take effect, how long the effects of the
+11 product typically last, and any other information deemed
+12 appropriate or necessary by the cabinet;
+13 c. The amount of medicinal cannabis the product is considered the
+14 equivalent to;
+15 d. Disclosing ingredients, possible allergens, and certain bioactive
+16 components, including cannabinoids and terpenoids, as determined
+17 by the cabinet;
+18 e. A nutritional fact panel;
+19 f. Opaque, child-resistant packaging;
+20 g. [A requirement that all raw plant material packaged or sold in this
+21 state be marked or labeled as "NOT INTENDED FOR
+22 CONSUMPTION BY SMOKING";
+23 h. ]A requirement that medicinal cannabis products be clearly
+24 marked with an identifiable and standardized symbol indicating
+25 that the product contains cannabis;
+26 h.[i.] A requirement that all medicinal cannabis product packaging
+27 include an expiration date; and
+Page 21 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1303
+1 i.[j.] A requirement that medicinal cannabis products and their
+2 packaging not be visually reminiscent of major brands of edible
+3 noncannabis products or otherwise present an attractive nuisance
+4 to minors;
+5 14. Health and safety requirements for the processing of medicinal cannabis
+6 and the indoor cultivation of medicinal cannabis by licensees;
+7 15. Restrictions on:
+8 a. Additives to medicinal cannabis that are toxic, including vitamin E
+9 acetate, or increase the likelihood of addiction; and
+10 b. Pesticides, fertilizers, and herbicides used during medicinal
+11 cannabis cultivation which pose a threat to human health and
+12 safety;
+13 16. Standards for the safe processing of medicinal cannabis products created
+14 by extracting or concentrating compounds from raw plant material;
+15 17. Standards for determining the amount of unprocessed raw plant material
+16 that medicinal cannabis products are considered the equivalent to;
+17 18. Restrictions on advertising, marketing, and signage in regard to
+18 operations or establishments owned by licensees necessary to prevent
+19 the targeting of minors;
+20 19. The requirement that evidence-based educational materials regarding
+21 dosage and impairment be disseminated to registered qualified patients,
+22 visiting qualified patients, and designated caregivers who purchase
+23 medicinal cannabis products;
+24 20. Policies governing insurance requirements for cultivators, dispensaries,
+25 processors, producers, and safety compliance facilities; and
+26 21. Standards, procedures, or restrictions that the cabinet deems necessary
+27 to ensure the efficient, transparent, and safe operation of the medicinal
+Page 22 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1303
+1 cannabis program, except that the cabinet shall not promulgate any
+2 administrative regulation that would impose an undue burden or make
+3 cannabis business operations unreasonable or impractical.
+4 (2) No later than January 1, 2025, the cabinet shall:
+5 (a) Establish a medicinal cannabis adverse drug effects reporting system for the
+6 purpose of allowing cardholders to report adverse drug effects via telephone
+7 or online; and
+8 (b) In collaboration with the Board of Physicians and Advisors, produce the
+9 Medicinal Cannabis Advisory Pamphlet which shall include but not be limited
+10 to:
+11 1. Information on the risks, dangers, and possible side effects of the use of
+12 medicinal cannabis;
+13 2. Information on the medicinal cannabis adverse drug effects reporting
+14 system and how to report adverse drug effects; and
+15 3. A detachable signature page which shall be:
+16 a. Signed by a cardholder each time he or she receives a copy of the
+17 Medicinal Cannabis Advisory Pamphlet as required under KRS
+18 218B.110(2)(d); and
+19 b. Retained by the dispensary for a period of at least thirty-six (36)
+20 months.
+21 (3) The cabinet shall provide each licensed dispensary with an adequate number of
+22 Medicinal Cannabis Advisory Pamphlets to ensure that the dispensary is able to
+23 comply with the requirements of KRS 218B.110(2)(d).
+24 (4) Except as provided in KRS 218B.035(1)(g), 218B.095(2)(b), 218.110(2)(e),
+25 218B.115(2), 218B.120(3), and subsection (1)(c)10., 13., 15., and 16. of this
+26 section, the cabinet shall not restrict or limit methods of delivery, use, or
+27 consumption of medicinal cannabis or the types of products that may be acquired,
+Page 23 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1303
+1 produced, processed, possessed, sold, or distributed by a cannabis business.
+2 (5) If a need for additional cannabis cultivation in this state is demonstrated by
+3 cannabis businesses or the cabinet's own analysis, the cabinet may through the
+4 promulgation of administrative regulations increase the cultivation area square
+5 footage limits for either cultivators or producers, or both by up to three (3) times the
+6 limits established in KRS 218B.105 and 218B.120. Any increase in the cultivation
+7 square footage limits adopted by the cabinet pursuant to this section shall not result
+8 in an increase in the licensure application or renewal fees established by the cabinet.
+9 (6) When promulgating administrative regulations under this section, the cabinet shall
+10 consider standards, procedures, and restrictions that have been found to be best
+11 practices relative to the use and regulation of medicinal cannabis.
+12 SECTION 7. A NEW SECTION OF KRS CHAPTER 218B IS CREATED TO
+13 READ AS FOLLOWS:
+14 (1) Notwithstanding any provision of law to the contrary, in addition to the
+15 possession limits established in subsections (1)(a) and 4(a) of Section 2 of this
+16 Act:
+17 (a) 1. A registered qualified patient who is at least eighteen (18) years of age
+18 shall be permitted to possess, cultivate, and harvest up to three (3)
+19 mature medicinal cannabis plants and up to three (3) seedlings on
+20 private property owned by the registered qualified patient.
+21 2. A designated caregiver shall be permitted to possess, cultivate, and
+22 harvest up to three (3) mature medicinal cannabis plants and up to
+23 three (3) seedlings for each registered qualified patient to whom the
+24 designated caregiver is connected through the cabinet's registration
+25 process on private property owned by the designated caregiver; and
+26 (b) Cardholders who possess, cultivate, and harvest mature medicinal cannabis
+27 plants and seedlings shall be permitted to possess, on private property they
+Page 24 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1303
+1 own, any amount of raw plant material and medicinal cannabis products
+2 resulting from at-home cultivation activities permitted under this section.
+3 (2) Cardholders who wish to possess, cultivate, and harvest medicinal cannabis
+4 plants and seedlings shall not be required under this chapter or by any
+5 administrative regulation promulgated by the cabinet to register or otherwise
+6 notify the cabinet of their intent to possess, cultivate, and harvest medicinal
+7 cannabis plants and seedlings on private property they own.
+8 (3) Mature medicinal cannabis plants and seedlings possessed, cultivated, and
+9 harvested by cardholders shall be stored in an enclosed, locked space such as a
+10 closet, room, greenhouse, or other indoor locked space located on private
+11 property owned by the cardholder.
+12 (4) The concentration and potency limits for commercially available medicinal
+13 cannabis established in KRS 218B.095, 218B.110, 218B.115, and 218B.120 shall
+14 not apply to raw plant material or medicinal cannabis products resulting from at-
+15 home cultivation activities permitted under this section.
+16 (5) (a) Except for a designated caregiver who may provide medicinal cannabis to a
+17 registered qualified patient to whom they are connected through the
+18 cabinet's registration process, nothing in this section shall be interpreted as
+19 authorizing or otherwise permitting a cardholder to transfer or sell
+20 medicinal cannabis, mature medicinal cannabis plants, or seedlings to
+21 another individual including another cardholder.
+22 (b) A cardholder who transfers or sells medicinal cannabis, mature medicinal
+23 cannabis plants, or seedlings to another individual in violation of paragraph
+24 (a) of this subsection, may be subject to prosecution including under KRS
+25 218A.1421.
+Page 25 of 25
+XXXX 1/30/2025 11:06 AM Jacketed
+
+[DELETED:   2  J A B S F ( " f p r m a t o c r ( C a i i e a a o p m o 1 T 2 A m 3 A 4 A u ( C a ( A u c t ( E a e t h o s w p f c a t t t p i a w a r p ( " ( " b m a e l u t c a a c d]
+[DELETED:   2  J ( " b a m a p o b m e v ( " ( A r q p d c o v q p w h a f o a p a v r i ( A 1 A 2 D o h b d w a q m c ( " 2 ( " o ( " u ( " e u a ( " o ( " ( A f o t r i t p b c b t D ( A a 1 A o f w t s i a t o p i o s r w c f ( o m]
+[DELETED:   2  J y 2 A w t c w l h p a c b t c p p ( " l f m a i g s s a a r g b t p a o b a a o t c o p a r ( " ( " ( " ( M m a d i K 2 w c h p u ( I ( D K ( " k u ( " c p m a p o a a p r 3 c ( "]
+[DELETED:   2  J ( M o m c s ( D ( " ( " e t ( " 2 ( " a ( " 2 ( " a ( " m p ( " ( A ( A ( C ( [ ( C]
+[DELETED:   2  J o ( C ( C ( E ( F ( G ( H ( H ( H ( M ( M ( N ( P [ C n o c v s t h p r t o ( P ( S ( S ( A ( A f s d w t c o d i l t r m t ( " ( M t t p o t f p C s o a m o s l s s a f o t C s]
+[DELETED:   2  J p ( D K ( " q p m a q p w h a f o ( " i c m a d i b t c t i a p a a r q p v q p o d ( " 2 ( " c f a m a p o b m e ( " t ( " ( A v o t c o a a r p t t i c o c d o w c s a p o ( T d o m c f u n r p t t c ( A ( " p ( " ( T ( T]
+[DELETED:   2  J ( " ( " ( I t a a p t o c ( D 1 C 2 T 3 T p K ( " c i m ( " p ( S t i t m c p p m o t p m r m t o p b f ( S t q m c o c f w t m c p b t p m r m t ( A p S ( A a]
+[DELETED:   2  J a c p o d a b a c o o o p l d ( A u t ( d s a h o h r e a p ( A o p ( A u g p c i ( A p i i t r q p p o l g r f p ( A v q p s n b s u t l o t C b p l b f t u o m c i t v q p d n p m t a a o m c d]
+[DELETED:   2  J o ( A t c p o d a b a c o o o p l c i c t t c r p w t u o m ( A u q p t w t c i c t t c r ( A o c t t c r p i a w a ( A u t ( d s o h o h p f e r q p t w t c i c t t c r m r i t m c i c i a s p t r ( ( A m c p b a c o o h o h r s b k i t o c i w t c r ( W a c p m c o o h o h r t c s a b i p o a v r]
+[DELETED:   2  J i v o r i c a d o h b ( P i t ( N i ( A r q p s n b p t p m m u t ( d s o m c d a g t ( A d c s n b p t p m m c t t a d b t c t c a u q p t w t c i c t t c r ( A c t t a d b t c t c a u ( ( A p p b ( P ( P]
+[DELETED:   2  J ( T ( N p s b s u t l o t C t a p p b ( S ( y o a u p o a v r i c i b t c o f v q p a v o r a ( B u ( A o a m c F p o i a n l t i p r p m o b t f a r q p o q p I d n i p m c t a p t t p d n a p ( N p b v a c S ( ( A i i l p t i p o o u i c]
+[DELETED:   2  J w s ( T t a a u K 2 a S 7 o t A o a r p p t K 2 n t t u o m c i a w t c a a a ( P o o a f a r i c a o r i c o c b l s n c p t i c o r i c o c b l s e ( ( T l a 1 P q p a o r i c a d o h b d w a q m c 2 P a a o m c t d n e t a a u K 2 o a r p ( T p m b r b a p o e t]
+[DELETED:   2  J c v S ( T i c p o d a b t c o a o o p ( O n o b i a p c o a a v v o a o d k o h i t i p b m a t i o m b u t t p o p ( C p h t ( P m c t i w t o a r o r o d o ( U s ( P c 1 O a p i a w p e p t K 2]
+[DELETED:   2  J 2 I 3 O ( U q ( U o c m b s e a p u s ( U o c m b v w o a f o p t o o ( C m u t p i l b t c a a c c o c p p t K 2 2 a 2 o i a c o p a e a p ( T s a t e f o a m v u t i o a ( ( A c m b ( A s c b s w o p p o b t r q ( T o o s o u r p m s n c e]
+[DELETED:   2  J ( I o 5 d 1 T 2 T i m b s t p u K 2 a ( N i l p t d w i i K 1 1 1 ( A ( " ( " ( " S ( N p o s ( T c s c s l l a f i l b t ( T ( T ( T]
+[DELETED:   2  J ( T ( C ( C ( C ( C ( L a f i l f a l r f c a ( ( E s f ( A c b l a a p m o c a p ( ( ( A 2 s b v f o ( y f t d o i T c e c ( T r o a c b l s b c u s c p ( T s m S]
+[DELETED:   2  J ( N ( E t t e m s e p t K 2 1 M c p t r t i o w c 2 T c 3 C v b t i n c w a c v r i c T s s o d w t i c v a w c i a r q 4 L c s d r b d a p t K 2 5 D a d 2 6 T t ( E t t e m s e p t K 2 i d t f t t o m c c p ( P]
+[DELETED:   2  J t 1 P f t i r s a r o r a W b A 2 P f t i a r o r i c 3 P f t i r s a r o c a f w t c s r t b n a m a a 4 A c f t b a a c b d f v q p w d n p a v r i c i b t c a w p m c w a o r i c a d o h b d w a q m c T c f e p t t s 5 I a A d o t a o m c o d t t c a d s a u d b T a]
+[DELETED:   2  J 6 A a l o t t ( d s o m c i t m c p r b t t s t ( d s w b i i p t p w u 7 P g t f m r t c b w t g o p a d a t w o u o i o c b o c a R u K b P f t v a v o a r i t l o a s d t c o i m c S p m l v s a r o p d P f t s t i d s p b d a s o m c b c b l a t e o]
+[DELETED:   2  J a e E a t r f l a t a b f R o v t l c a p f 8 P o c t p a l b e l o t i t s c b c a 9 A m u 1 R f r s t o m c t e q c i t f c t r s p p t m m i b 1 R f l c p a p t c w a i s c f t t t m a o r p 1 S i]
+[DELETED:   2  J a R b P c R 1 S d s a S f p t r a l a t ( s p b A t e p t l a a o i d a c T e d D i p a a c b c b e A f O g [ s b m o l a " I F C h ] r t m c p b c m w a i a s s i t h r t a m c p p i]
+[DELETED:   2  J i A r t m c p a t p n t 1 H a 1 R a A a b P f a h u d m c c w p a t t h h a s 1 S b 1 S t 1 R o a m a s i r t o o o b l n t p t 1 T r t e e m r d v q p a d c w p m 2 P p 2 S t]
+[DELETED:   2  J c p e t t c s n p a a c ( N ( E p o ( I c w t B o P a A p t M t 1 I m 2 I o t m c a d e r s 3 A a S M C A P a r u K 2 b R m ( T c s p e l d w a a n o M c ( E a p i K 2 2 2 2 2 a s ( 1 1 a 1 o t s t c s n r o l m o d u o c]
+[DELETED:   2  J p ( I a n f a c c i t s i d b c b o t c o a t c m t t p o a r i t c a s f l s i ( W c s p a r t h b f t b b p S R ( N a p o l t t c i a t t p A ( 1 A s b p t p c a h u t t ( m m c p a u t t ( s o p 2 A d c s b p t p c a h t d c i c t t c r p ( C p]
+[DELETED:   2  J o r ( C w w t p c a h m c p a s s n b r u t c o b a a r p b t c t r o o n t c o t i t p c a h m c ( M m c p a s p c a h c r g o o i l s l o p p ( T c a p l f c a m c n h ( ( E r q p t w t a c t t c a o o p a c t t o s m c m m c p o s t a ( A c ( 2]

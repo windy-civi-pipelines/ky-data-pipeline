@@ -1,0 +1,854 @@
+Title: 1 AN ACT relating to a tax credit for alternative jet fuel.
+Official Title: 1 AN ACT relating to a tax credit for alternative jet fuel.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 14 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS BR 344
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF KRS CHAPTER 141 IS CREATED TO
+4 READ AS FOLLOWS:
+5 (1) As used in this section:
+6 (a) "Alternative jet fuel" means fuel that is produced in the United States that
+7 can be blended and used with conventional petroleum jet fuel without the
+8 need to modify aircraft engines and existing fuel distribution infrastructure,
+9 that may be derived from co-processed feedstocks at a conventional
+10 petroleum refinery, or that has a lower carbon intensity than traditional
+11 petroleum jet fuel, including fuel that:
+12 1. Consists of synthesized hydrocarbons and meets the requirements of:
+13 a. The American Society for Testing and Materials International
+14 Standard D7566; or
+15 b. The American Society for Testing and Materials International
+16 Standard D1655;
+17 2. Is derived from resources such as corn or soybean oil, waste streams,
+18 renewable or zero emissions energy sources, or gaseous carbon
+19 oxides;
+20 3. Is not derived from palm fatty acid distillates; and
+21 4. Achieves at least a fifty percent (50%) lifecycle greenhouse gas
+22 emissions reduction in comparison with petroleum-based jet fuel, as
+23 determined by a test that show the fuel production pathway achieves at
+24 least a fifty percent (50%) reduction of the aggregate attributional
+25 care lifecycle:
+26 a. Emissions under the lifecycle methodology for alternative jet
+27 fuels adopted by the International Civil Aviation Organization
+Page 1 of 14
+XXXX 1/31/2025 12:10 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 344
+1 with the agreement of the United States; or
+2 b. Greenhouse gas emissions values utilizing the most recent
+3 version of Argonne National Laboratory's GREET model,
+4 inclusive of agricultural practices and carbon capture and
+5 sequestration;
+6 (b) "Alternative jet fuel consumer" means a taxpayer in this state that is the
+7 end user of alternative jet fuel purchased for:
+8 1. Storage and use in aircraft; or
+9 2. Use in an aircraft departing from an airport located in this state;
+10 (c) "Alternative jet fuel producer" means a facility or operation of a company
+11 in this state that:
+12 1. Produces alternative jet fuel;
+13 2. Blends alternative jet fuel with aviation gasoline or jet fuel; or
+14 3. Grows or produces a feedstock used in the production of alternative jet
+15 fuel;
+16 (d) "Eligible taxpayer" means an alternative jet fuel producer or alternative jet
+17 fuel consumer; and
+18 (e) "Feedstock" means the component used in the production of an approved
+19 alternative jet fuel technology for use in the creation of alternative jet fuel
+20 as may be derived from resources such as corn or soybean oil, waste
+21 streams, renewable or zero emissions energy sources, or gaseous carbon
+22 oxides.
+23 (2) (a) There shall be allowed a nonrefundable alternative jet fuel credit allowed
+24 against the taxes imposed in KRS 141.020 or 141.040 and 141.0401 for
+25 eligible taxpayers in the Commonwealth in an amount certified by the
+26 department under this section, with the ordering of the credits as provided
+27 in Section 2 of this Act.
+Page 2 of 14
+XXXX 1/31/2025 12:10 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 344
+1 (b) For taxable years beginning on or after January 1, 2026, but before
+2 January 1, 2031, alternative jet fuel producers and consumers may claim a
+3 credit at a rate of:
+4 1. One dollar and fifty cents ($1.50) per gallon of alternative jet fuel; or
+5 2. Two dollars ($2) per gallon for alternative jet fuel produced in this
+6 state.
+7 (3) (a) The credit allowed in subsection (2) of this section shall not be carried
+8 forward to a return for any other period.
+9 (b) The total credit allowed per eligible taxpayer shall not exceed four million
+10 dollars ($4,000,000) per taxpayer per taxable year.
+11 (c) The aggregate total of all credits claimed per calendar year shall not exceed
+12 twenty million dollars ($20,000,000).
+13 (d) The taxpayer may claim the amount issued in the credit certificate under
+14 subsection (7) of this section.
+15 (4) An eligible taxpayer may claim a credit for blending or producing alternative jet
+16 fuel, but not both. If alternative jet fuel is blended with aviation gasoline or jet
+17 fuel, the credit is allowed only for the portion of alternative jet fuel that is
+18 included in the blended fuel.
+19 (5) (a) An alternative jet fuel consumer shall not claim credit for amounts claimed
+20 by an alternative jet fuel producer under subsection (2) of this section.
+21 (b) An alternative jet fuel producer shall not claim credit for amounts claimed
+22 by an alternative jet fuel consumer under subsection (2) of this section.
+23 (6) The department may promulgate administrative regulations in accordance with
+24 KRS Chapter 13A to adopt forms and procedures for the calculation and
+25 reporting of this tax credit.
+26 (7) (a) Eligible taxpayers seeking approval for the credit under this section shall:
+27 1. Submit an application to the department, on a form as prescribed by
+Page 3 of 14
+XXXX 1/31/2025 12:10 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 344
+1 the department, by January 15, 2027, following the close of the
+2 calendar year, and each January 15 thereafter as long as the credit is
+3 available; and
+4 2. Provide the:
+5 a. Taxpayer's identification number; and
+6 b. Description and amount or volume of alternative jet fuel:
+7 i. Consumed in this state, including anticipated amounts for
+8 the calendar year; or
+9 ii. Produced, including anticipated production amounts, for
+10 the calendar year.
+11 (b) The department shall:
+12 1. Review all submitted applications no later than February 15, 2027,
+13 and each February 15 thereafter as long as the credit is available;
+14 2. Determine the amount of alternative jet fuel:
+15 a. Produced outside of this state and sold in this state for the
+16 calendar year;
+17 b. Produced in this state and sold in this state for the calendar year;
+18 and
+19 c. Consumed in this state for the calendar year; and
+20 3. By March 1 following the end of the calendar year, provide
+21 certification to the eligible taxpayer indicating the amount of tax
+22 credit to be awarded.
+23 (8) If the total amount of credits requested under subsection (2) of this section
+24 exceeds twenty million dollars ($20,000,000), the department shall determine the
+25 amount of credit each eligible taxpayer receives by multiplying the tax credit cap
+26 by a fraction, the numerator of which is the amount of requested credit for the
+27 eligible taxpayer and the denominator of which is the total amount requested for
+Page 4 of 14
+XXXX 1/31/2025 12:10 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 344
+1 all eligible taxpayers.
+2 (9) (a) In order for the General Assembly to evaluate the alternative jet fuel tax
+3 credit, the department shall provide the following information on a
+4 cumulative basis for each taxable year to provide a historical impact of the
+5 taxpayer:
+6 1. The number of tax returns, by the tax type of return filed, claiming the
+7 credit for each taxable year;
+8 2. The total amount of credit claimed on returns filed for each taxable
+9 year;
+10 3. The cumulative number of credits claimed by county, as identified by
+11 the mailing address on the return filed for each taxable year;
+12 4. a. In the case of taxpayers other than corporations, based on
+13 ranges of adjusted gross income of no larger than five thousand
+14 dollars ($5,000), the total amount of credits claimed for each
+15 adjusted gross income range for each taxable year; and
+16 b. In the case of corporations, based on ranges of net income of no
+17 larger than fifty thousand dollars ($50,000), the total amount of
+18 credit claimed for each net income range for each taxable year;
+19 and
+20 5. Any other taxpayer information necessary for the General Assembly to
+21 evaluate this credit.
+22 (b) The report required by paragraph (a) of this subsection shall be submitted
+23 to the Interim Joint Committee on Appropriations and Revenue on or before
+24 November 1, 2027, and each November 1 thereafter as long as the tax credit
+25 is claimed on any tax return filed.
+26 (c) The information required to be reported under this subsection shall not be
+27 considered confidential taxpayer information and shall not be subject to
+Page 5 of 14
+XXXX 1/31/2025 12:10 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 344
+1 KRS Chapter 131 or any other provisions of the Kentucky Revised Statutes
+2 prohibiting disclosure or reporting of information.
+3 Section 2. KRS 141.0205 is amended to read as follows:
+4 If a taxpayer is entitled to more than one (1) of the tax credits allowed against the tax
+5 imposed by KRS 141.020, 141.040, and 141.0401, the priority of application and use of
+6 the credits shall be determined as follows:
+7 (1) The nonrefundable business incentive credits against the tax imposed by KRS
+8 141.020 shall be taken in the following order:
+9 (a) The limited liability entity tax credit permitted by KRS 141.0401;
+10 (b) The economic development credits computed under KRS 141.347, 141.381,
+11 141.384, 141.3841, 141.400, 141.403, 141.407, 141.415, 154.12-207, and
+12 154.12-2088;
+13 (c) The qualified farming operation credit permitted by KRS 141.412;
+14 (d) The certified rehabilitation credit permitted by KRS 171.397(1)(a);
+15 (e) The health insurance credit permitted by KRS 141.062;
+16 (f) The tax paid to other states credit permitted by KRS 141.070;
+17 (g) The credit for hiring the unemployed permitted by KRS 141.065;
+18 (h) The recycling or composting equipment credit permitted by KRS 141.390;
+19 (i) The [tax ]credit for cash contributions in investment funds permitted by KRS
+20 154.20-263 in effect prior to July 15, 2002, and the credit permitted by KRS
+21 154.20-258;
+22 (j) The research facilities credit permitted by KRS 141.395;
+23 (k) The employer High School Equivalency Diploma program incentive credit
+24 permitted under KRS 151B.402;
+25 (l) The voluntary environmental remediation credit permitted by KRS 141.418;
+26 (m) The biodiesel and renewable diesel credit permitted by KRS 141.423;
+27 (n) The clean coal incentive credit permitted by KRS 141.428;
+Page 6 of 14
+XXXX 1/31/2025 12:10 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 344
+1 (o) The ethanol credit permitted by KRS 141.4242;
+2 (p) The cellulosic ethanol credit permitted by KRS 141.4244;
+3 (q) The energy efficiency credits permitted by KRS 141.436;
+4 (r) The railroad maintenance and improvement credit permitted by KRS 141.385;
+5 (s) The Endow Kentucky credit permitted by KRS 141.438;
+6 (t) The New Markets Development Program credit permitted by KRS 141.434;
+7 (u) The distilled spirits credit permitted by KRS 141.389;
+8 (v) The angel investor credit permitted by KRS 141.396;
+9 (w) The film industry credit permitted by KRS 141.383 for applications approved
+10 on or after April 27, 2018, but before January 1, 2022;
+11 (x) The inventory credit permitted by KRS 141.408;
+12 (y) The renewable chemical production credit permitted by KRS 141.4231;[ and]
+13 (z) The qualified broadband investment [tax ]credit permitted by KRS 141.391;
+14 and
+15 (aa) The alternative jet fuel credit permitted by Section 1 of this Act;
+16 (2) After the application of the nonrefundable credits in subsection (1) of this section,
+17 the nonrefundable personal tax credits against the tax imposed by KRS 141.020
+18 shall be taken in the following order:
+19 (a) The individual credits permitted by KRS 141.020(3);
+20 (b) The credit permitted by KRS 141.066;
+21 (c) The tuition credit permitted by KRS 141.069;
+22 (d) The household and dependent care credit permitted by KRS 141.067;
+23 (e) The income gap credit permitted by KRS 141.066; and
+24 (f) The Education Opportunity Account Program [tax ]credit permitted by KRS
+25 141.522;
+26 (3) After the application of the nonrefundable credits provided for in subsection (2) of
+27 this section, the refundable credits against the tax imposed by KRS 141.020 shall be
+Page 7 of 14
+XXXX 1/31/2025 12:10 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 344
+1 taken in the following order:
+2 (a) The individual withholding tax credit permitted by KRS 141.350;
+3 (b) The individual estimated tax payment credit permitted by KRS 141.305;
+4 (c) The certified rehabilitation credit permitted by KRS 171.3961, 171.3963, and
+5 171.397(1)(b);
+6 (d) The film industry [tax ]credit permitted by KRS 141.383 for applications
+7 approved prior to April 27, 2018, or on or after January 1, 2022;
+8 (e) The development area [tax ]credit permitted by KRS 141.398;
+9 (f) The decontamination [tax ]credit permitted by KRS 141.419; and
+10 (g) The pass-through entity tax credit permitted by KRS 141.209;
+11 (4) The nonrefundable credit permitted by KRS 141.0401 shall be applied against the
+12 tax imposed by KRS 141.040;
+13 (5) The following nonrefundable credits shall be applied against the sum of the tax
+14 imposed by KRS 141.040 after subtracting the credit provided for in subsection (4)
+15 of this section, and the tax imposed by KRS 141.0401 in the following order:
+16 (a) The economic development credits computed under KRS 141.347, 141.381,
+17 141.384, 141.3841, 141.400, 141.403, 141.407, 141.415, 154.12-207, and
+18 154.12-2088;
+19 (b) The qualified farming operation credit permitted by KRS 141.412;
+20 (c) The certified rehabilitation credit permitted by KRS 171.397(1)(a);
+21 (d) The health insurance credit permitted by KRS 141.062;
+22 (e) The unemployment credit permitted by KRS 141.065;
+23 (f) The recycling or composting equipment credit permitted by KRS 141.390;
+24 (g) The coal conversion credit permitted by KRS 141.041;
+25 (h) The enterprise zone credit permitted by KRS 154.45-090, for taxable periods
+26 ending prior to January 1, 2008;
+27 (i) The [tax ]credit for cash contributions to investment funds permitted by KRS
+Page 8 of 14
+XXXX 1/31/2025 12:10 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 344
+1 154.20-263 in effect prior to July 15, 2002, and the credit permitted by KRS
+2 154.20-258;
+3 (j) The research facilities credit permitted by KRS 141.395;
+4 (k) The employer High School Equivalency Diploma program incentive credit
+5 permitted by KRS 151B.402;
+6 (l) The voluntary environmental remediation credit permitted by KRS 141.418;
+7 (m) The biodiesel and renewable diesel credit permitted by KRS 141.423;
+8 (n) The clean coal incentive credit permitted by KRS 141.428;
+9 (o) The ethanol credit permitted by KRS 141.4242;
+10 (p) The cellulosic ethanol credit permitted by KRS 141.4244;
+11 (q) The energy efficiency credits permitted by KRS 141.436;
+12 (r) The ENERGY STAR home or ENERGY STAR manufactured home credit
+13 permitted by KRS 141.437;
+14 (s) The railroad maintenance and improvement credit permitted by KRS 141.385;
+15 (t) The railroad expansion credit permitted by KRS 141.386;
+16 (u) The Endow Kentucky credit permitted by KRS 141.438;
+17 (v) The New Markets Development Program credit permitted by KRS 141.434;
+18 (w) The distilled spirits credit permitted by KRS 141.389;
+19 (x) The film industry credit permitted by KRS 141.383 for applications approved
+20 on or after April 27, 2018, but before January 1, 2022;
+21 (y) The inventory credit permitted by KRS 141.408;
+22 (z) The renewable chemical production [tax ]credit permitted by KRS 141.4231;
+23 (aa) The Education Opportunity Account Program [tax ]credit permitted by KRS
+24 141.522;[ and]
+25 (ab) The qualified broadband investment [tax ]credit permitted by KRS 141.391;
+26 and
+27 (ac) The alternative jet fuel credit permitted by Section 1 of this Act; and
+Page 9 of 14
+XXXX 1/31/2025 12:10 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 344
+1 (6) After the application of the nonrefundable credits in subsection (5) of this section,
+2 the refundable credits shall be taken in the following order:
+3 (a) The corporation estimated tax payment credit permitted by KRS 141.044;
+4 (b) The certified rehabilitation credit permitted by KRS 171.3961, 171.3963, and
+5 171.397(1)(b);
+6 (c) The film industry [tax ]credit permitted by KRS 141.383 for applications
+7 approved prior to April 27, 2018, or on or after January 1, 2022;
+8 (d) The decontamination [tax ]credit permitted by KRS 141.419; and
+9 (e) The pass-through entity tax credit permitted by KRS 141.209.
+10 Section 3. KRS 131.190 is amended to read as follows:
+11 (1) No present or former commissioner or employee of the department, present or
+12 former member of a county board of assessment appeals, present or former property
+13 valuation administrator or employee, present or former secretary or employee of the
+14 Finance and Administration Cabinet, former secretary or employee of the Revenue
+15 Cabinet, or any other person, shall intentionally and without authorization inspect
+16 or divulge any information acquired by him or her of the affairs of any person, or
+17 information regarding the tax schedules, returns, or reports required to be filed with
+18 the department or other proper officer, or any information produced by a hearing or
+19 investigation, insofar as the information may have to do with the affairs of the
+20 person's business.
+21 (2) The prohibition established by subsection (1) of this section shall not extend to:
+22 (a) Information required in prosecutions for making false reports or returns of
+23 property for taxation, or any other infraction of the tax laws;
+24 (b) Any matter properly entered upon any assessment record, or in any way made
+25 a matter of public record;
+26 (c) Furnishing any taxpayer or his or her properly authorized agent with
+27 information respecting his or her own return;
+Page 10 of 14
+XXXX 1/31/2025 12:10 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 344
+1 (d) Testimony provided by the commissioner or any employee of the department
+2 in any court, or the introduction as evidence of returns or reports filed with the
+3 department, in an action for violation of state or federal tax laws or in any
+4 action challenging state or federal tax laws;
+5 (e) Providing an owner of unmined coal, oil or gas reserves, and other mineral or
+6 energy resources assessed under KRS 132.820, or owners of surface land
+7 under which the unmined minerals lie, factual information about the owner's
+8 property derived from third-party returns filed for that owner's property, under
+9 the provisions of KRS 132.820, that is used to determine the owner's
+10 assessment. This information shall be provided to the owner on a confidential
+11 basis, and the owner shall be subject to the penalties provided in KRS
+12 131.990(2). The third-party filer shall be given prior notice of any disclosure
+13 of information to the owner that was provided by the third-party filer;
+14 (f) Providing to a third-party purchaser pursuant to an order entered in a
+15 foreclosure action filed in a court of competent jurisdiction, factual
+16 information related to the owner or lessee of coal, oil, gas reserves, or any
+17 other mineral resources assessed under KRS 132.820. The department may
+18 promulgate an administrative regulation establishing a fee schedule for the
+19 provision of the information described in this paragraph. Any fee imposed
+20 shall not exceed the greater of the actual cost of providing the information or
+21 ten dollars ($10);
+22 (g) Providing information to a licensing agency, the Transportation Cabinet, or
+23 the Kentucky Supreme Court under KRS 131.1817;
+24 (h) Statistics of gasoline and special fuels gallonage reported to the department
+25 under KRS 138.210 to 138.448;
+26 (i) Providing any utility gross receipts license tax return information that is
+27 necessary to administer the provisions of KRS 160.613 to 160.617 to
+Page 11 of 14
+XXXX 1/31/2025 12:10 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 344
+1 applicable school districts on a confidential basis;
+2 (j) Providing documents, data, or other information to a third party pursuant to an
+3 order issued by a court of competent jurisdiction;
+4 (k) Publishing administrative writings on its official website in accordance with
+5 KRS 131.020(1)(b); or
+6 (l) Providing information to the Legislative Research Commission under:
+7 1. KRS 139.519 for purposes of the sales and use tax refund on building
+8 materials used for disaster recovery;
+9 2. KRS 141.436 for purposes of the energy efficiency products credits;
+10 3. KRS 141.437 for purposes of the ENERGY STAR home and the
+11 ENERGY STAR manufactured home credits;
+12 4. KRS 141.383 for purposes of the film industry incentives;
+13 5. KRS 154.26-095 for purposes of the Kentucky industrial revitalization
+14 credit[tax credits] and the job assessment fees;
+15 6. KRS 141.068 for purposes of the Kentucky investment fund;
+16 7. KRS 141.396 for purposes of the angel investor [tax ]credit;
+17 8. KRS 141.389 for purposes of the distilled spirits credit;
+18 9. KRS 141.408 for purposes of the inventory credit;
+19 10. KRS 141.390 for purposes of the recycling and composting
+20 credits[credit];
+21 11. KRS 141.3841 for purposes of the selling farmer [tax ]credit;
+22 12. KRS 141.4231 for purposes of the renewable chemical production [tax
+23 ]credit;
+24 13. KRS 141.524 for purposes of the Education Opportunity Account
+25 Program [tax ]credit;
+26 14. KRS 141.398 for purposes of the development area [tax ]credit;
+27 15. KRS 139.516 for the purposes of the sales and use tax exemptions
+Page 12 of 14
+XXXX 1/31/2025 12:10 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 344
+1 for[exemption on] the commercial mining of cryptocurrency;
+2 16. KRS 141.419 for purposes of the decontamination [tax ]credit;
+3 17. KRS 141.391 for purposes of the qualified broadband investment [tax
+4 ]credit;[ and]
+5 18. KRS 139.499 for purposes of the sales and use tax
+6 exemptions[exemption] for a qualified data center project; and
+7 19. Section 1 of this Act for purposes of the alternative jet fuel credit.
+8 (3) The commissioner shall make available any information for official use only and on
+9 a confidential basis to the proper officer, agency, board or commission of this state,
+10 any Kentucky county, any Kentucky city, any other state, or the federal
+11 government, under reciprocal agreements whereby the department shall receive
+12 similar or useful information in return.
+13 (4) Access to and inspection of information received from the Internal Revenue Service
+14 is for department use only, and is restricted to tax administration purposes.
+15 Information received from the Internal Revenue Service shall not be made available
+16 to any other agency of state government, or any county, city, or other state, and
+17 shall not be inspected intentionally and without authorization by any present
+18 secretary or employee of the Finance and Administration Cabinet, commissioner or
+19 employee of the department, or any other person.
+20 (5) Statistics of crude oil as reported to the department under the crude oil excise tax
+21 requirements of KRS Chapter 137 and statistics of natural gas production as
+22 reported to the department under the natural resources severance tax requirements
+23 of KRS Chapter 143A may be made public by the department by release to the
+24 Energy and Environment Cabinet, Department for Natural Resources.
+25 (6) Notwithstanding any provision of law to the contrary, beginning with mine-map
+26 submissions for the 1989 tax year, the department may make public or divulge only
+27 those portions of mine maps submitted by taxpayers to the department pursuant to
+Page 13 of 14
+XXXX 1/31/2025 12:10 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 344
+1 KRS Chapter 132 for ad valorem tax purposes that depict the boundaries of mined-
+2 out parcel areas. These electronic maps shall not be relied upon to determine actual
+3 boundaries of mined-out parcel areas. Property boundaries contained in mine maps
+4 required under KRS Chapters 350 and 352 shall not be construed to constitute land
+5 surveying or boundary surveys as defined by KRS 322.010 and any administrative
+6 regulations promulgated thereto.
+Page 14 of 14
+XXXX 1/31/2025 12:10 PM Jacketed
+[DELETED:   2  J A B S R ( A ( " c n t m b d f c f a a c p r o t h a l c i t t p 1 C a T A S f T a M I S b T A S f T a M I S 2 I r o z e e s o g c o 3 I 4 A a l a f p ( l g g e d l a f p ( r o t a a c a E u t l m f a j f a b t I C A O]
+[DELETED:   2  J w b G g e v u t m r v o A N L G m i o a p a c c a s ( " e 1 S 2 U ( " i 1 P 2 B 3 G f ( " f ( " a a m b d f r s a c o s o w s r o z e e s o g c o ( ( T a t t i i K 1 o 1 a 1 f e t i t C i a a c b t d i]
+[DELETED:   2  J ( F t y b o o a J 1 2 b b J c 1 O 2 T s ( ( T c a i s ( o t s s n b c f ( T d ( T t ( T s ( A f f t c i a o f t p o a j f t i i ( ( A b ( A b ( T K C 1 t a f a p f t c a r ( ( E 1 S]
+[DELETED:   2  J t d b J 1 2 f t c o t c a 2 P a T b D i C t i P i a p a f t ( T 1 R a s a n l t F 1 2 a 2 D a P o o t s a s i t s f t c b P a c C 3 B M 1 f t e o t c y p c t t e t i t a o t c ( I t t a o c r u s ( o t s e a b e]
+[DELETED:   2  J a ( ( I c t d s p t f i o a c t 1 T c 2 T y 3 T t 4 a I t c o t o t c b o r d ( t t a o c c f e a b I l c a 5 A e ( T t N i ( T c c t i a s n b s t]
+[DELETED:   2  J K p S I i t ( T n b i c a t t i b K 1 ( T ( T 1 1 1 1 1 1 1 a 1 ( T ( T ( T ( T ( T ( T ( T 1 1 ( T ( T e H S E D p i c p ( T ( T ( T]
+[DELETED:   2  J ( T ( T ( T ( T ( T ( T ( T ( T ( T o ( T ( T ( T a ( T ( A t n p t c a t t i b K 1 s ( T ( T ( T ( T ( T ( T 1 ( A t]
+[DELETED:   2  J t ( T ( T ( T 1 ( T f i [ ] p b K 1 f a a ( T ( T ( T ( T t ( T f n c s b a a t s o t i o ( T 1 1 1 1 1 1 1 a 1 ( T ( T ( T ( T ( T ( T ( T e ( T]
+[DELETED:   2  J 1 1 ( T ( T e H S E D p i c p ( T ( T ( T ( T ( T ( T ( T p ( T ( T ( T ( T ( T ( T o ( T ( T ( T 1 ( T a ( T]
+[DELETED:   2  J ( A t ( T ( T 1 ( T f i [ ] p b K 1 f a a ( T ( T S ( N p o f c o e o t d p o f v F C o i t i i a t i m h t d w t a o t p ( T ( I r i p f m f r o o p ( A a ( F a t o h o h p a a w i]
+[DELETED:   2  J ( T i d a ( P e r a u K 1 o o o s l u p t p o K 1 t i u t d t o a b a t o s b s t t p p i K 1 o ( P t a t p p t a o e i a f a f i a c o c j f i o a m p a a r e a f s f t p o t i d i t p A f i s t ( P C t ( S u ( P a u g r l t r i t i n t a t p o K 1 t 1 t]
+[DELETED:   2  J a ( P o ( P K ( P 1 K m 2 K 3 K 1 f p o t E S h a t E 4 K 5 K c 6 K 7 K 8 K 9 K 1 K 1 f p o t r a c c 1 K 1 K ] 1 K 1 f p o t E O A P 1 K 1 K 1 f t p o t s a u t e]
+[DELETED:   2  J f 1 K 1 K ] 1 K 1 f p o t s a u t e 1 S ( T a a K c a K c a o s o t f g u r a w t d s r s ( A i f d u o a i r t t a p I t s n b i i a w a b a p s e ( S r o K C 1 a s o n g p a r o E ( N c m s t]
+[DELETED:   2  J K o b r s r]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS BR 344
+1 AN ACT relating to a tax credit for alternative jet fuel.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF KRS CHAPTER 141 IS CREATED TO
+4 READ AS FOLLOWS:
+5 (1) As used in this section:
+6 (a) "Alternative jet fuel" means fuel that is produced in the United States that
+7 can be blended and used with conventional petroleum jet fuel without the
+8 need to modify aircraft engines and existing fuel distribution infrastructure,
+9 that may be derived from co-processed feedstocks at a conventional
+10 petroleum refinery, or that has a lower carbon intensity than traditional
+11 petroleum jet fuel, including fuel that:
+12 1. Consists of synthesized hydrocarbons and meets the requirements of:
+13 a. The American Society for Testing and Materials International
+14 Standard D7566; or
+15 b. The American Society for Testing and Materials International
+16 Standard D1655;
+17 2. Is derived from resources such as corn or soybean oil, waste streams,
+18 renewable or zero emissions energy sources, or gaseous carbon
+19 oxides;
+20 3. Is not derived from palm fatty acid distillates; and
+21 4. Achieves at least a fifty percent (50%) lifecycle greenhouse gas
+22 emissions reduction in comparison with petroleum-based jet fuel, as
+23 determined by a test that show the fuel production pathway achieves at
+24 least a fifty percent (50%) reduction of the aggregate attributional
+25 care lifecycle:
+26 a. Emissions under the lifecycle methodology for alternative jet
+27 fuels adopted by the International Civil Aviation Organization
+Page 1 of 14
+XXXX 1/31/2025 12:10 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 344
+1 with the agreement of the United States; or
+2 b. Greenhouse gas emissions values utilizing the most recent
+3 version of Argonne National Laboratory's GREET model,
+4 inclusive of agricultural practices and carbon capture and
+5 sequestration;
+6 (b) "Alternative jet fuel consumer" means a taxpayer in this state that is the
+7 end user of alternative jet fuel purchased for:
+8 1. Storage and use in aircraft; or
+9 2. Use in an aircraft departing from an airport located in this state;
+10 (c) "Alternative jet fuel producer" means a facility or operation of a company
+11 in this state that:
+12 1. Produces alternative jet fuel;
+13 2. Blends alternative jet fuel with aviation gasoline or jet fuel; or
+14 3. Grows or produces a feedstock used in the production of alternative jet
+15 fuel;
+16 (d) "Eligible taxpayer" means an alternative jet fuel producer or alternative jet
+17 fuel consumer; and
+18 (e) "Feedstock" means the component used in the production of an approved
+19 alternative jet fuel technology for use in the creation of alternative jet fuel
+20 as may be derived from resources such as corn or soybean oil, waste
+21 streams, renewable or zero emissions energy sources, or gaseous carbon
+22 oxides.
+23 (2) (a) There shall be allowed a nonrefundable alternative jet fuel credit allowed
+24 against the taxes imposed in KRS 141.020 or 141.040 and 141.0401 for
+25 eligible taxpayers in the Commonwealth in an amount certified by the
+26 department under this section, with the ordering of the credits as provided
+27 in Section 2 of this Act.
+Page 2 of 14
+XXXX 1/31/2025 12:10 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 344
+1 (b) For taxable years beginning on or after January 1, 2026, but before
+2 January 1, 2031, alternative jet fuel producers and consumers may claim a
+3 credit at a rate of:
+4 1. One dollar and fifty cents ($1.50) per gallon of alternative jet fuel; or
+5 2. Two dollars ($2) per gallon for alternative jet fuel produced in this
+6 state.
+7 (3) (a) The credit allowed in subsection (2) of this section shall not be carried
+8 forward to a return for any other period.
+9 (b) The total credit allowed per eligible taxpayer shall not exceed four million
+10 dollars ($4,000,000) per taxpayer per taxable year.
+11 (c) The aggregate total of all credits claimed per calendar year shall not exceed
+12 twenty million dollars ($20,000,000).
+13 (d) The taxpayer may claim the amount issued in the credit certificate under
+14 subsection (7) of this section.
+15 (4) An eligible taxpayer may claim a credit for blending or producing alternative jet
+16 fuel, but not both. If alternative jet fuel is blended with aviation gasoline or jet
+17 fuel, the credit is allowed only for the portion of alternative jet fuel that is
+18 included in the blended fuel.
+19 (5) (a) An alternative jet fuel consumer shall not claim credit for amounts claimed
+20 by an alternative jet fuel producer under subsection (2) of this section.
+21 (b) An alternative jet fuel producer shall not claim credit for amounts claimed
+22 by an alternative jet fuel consumer under subsection (2) of this section.
+23 (6) The department may promulgate administrative regulations in accordance with
+24 KRS Chapter 13A to adopt forms and procedures for the calculation and
+25 reporting of this tax credit.
+26 (7) (a) Eligible taxpayers seeking approval for the credit under this section shall:
+27 1. Submit an application to the department, on a form as prescribed by
+Page 3 of 14
+XXXX 1/31/2025 12:10 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 344
+1 the department, by January 15, 2027, following the close of the
+2 calendar year, and each January 15 thereafter as long as the credit is
+3 available; and
+4 2. Provide the:
+5 a. Taxpayer's identification number; and
+6 b. Description and amount or volume of alternative jet fuel:
+7 i. Consumed in this state, including anticipated amounts for
+8 the calendar year; or
+9 ii. Produced, including anticipated production amounts, for
+10 the calendar year.
+11 (b) The department shall:
+12 1. Review all submitted applications no later than February 15, 2027,
+13 and each February 15 thereafter as long as the credit is available;
+14 2. Determine the amount of alternative jet fuel:
+15 a. Produced outside of this state and sold in this state for the
+16 calendar year;
+17 b. Produced in this state and sold in this state for the calendar year;
+18 and
+19 c. Consumed in this state for the calendar year; and
+20 3. By March 1 following the end of the calendar year, provide
+21 certification to the eligible taxpayer indicating the amount of tax
+22 credit to be awarded.
+23 (8) If the total amount of credits requested under subsection (2) of this section
+24 exceeds twenty million dollars ($20,000,000), the department shall determine the
+25 amount of credit each eligible taxpayer receives by multiplying the tax credit cap
+26 by a fraction, the numerator of which is the amount of requested credit for the
+27 eligible taxpayer and the denominator of which is the total amount requested for
+Page 4 of 14
+XXXX 1/31/2025 12:10 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 344
+1 all eligible taxpayers.
+2 (9) (a) In order for the General Assembly to evaluate the alternative jet fuel tax
+3 credit, the department shall provide the following information on a
+4 cumulative basis for each taxable year to provide a historical impact of the
+5 taxpayer:
+6 1. The number of tax returns, by the tax type of return filed, claiming the
+7 credit for each taxable year;
+8 2. The total amount of credit claimed on returns filed for each taxable
+9 year;
+10 3. The cumulative number of credits claimed by county, as identified by
+11 the mailing address on the return filed for each taxable year;
+12 4. a. In the case of taxpayers other than corporations, based on
+13 ranges of adjusted gross income of no larger than five thousand
+14 dollars ($5,000), the total amount of credits claimed for each
+15 adjusted gross income range for each taxable year; and
+16 b. In the case of corporations, based on ranges of net income of no
+17 larger than fifty thousand dollars ($50,000), the total amount of
+18 credit claimed for each net income range for each taxable year;
+19 and
+20 5. Any other taxpayer information necessary for the General Assembly to
+21 evaluate this credit.
+22 (b) The report required by paragraph (a) of this subsection shall be submitted
+23 to the Interim Joint Committee on Appropriations and Revenue on or before
+24 November 1, 2027, and each November 1 thereafter as long as the tax credit
+25 is claimed on any tax return filed.
+26 (c) The information required to be reported under this subsection shall not be
+27 considered confidential taxpayer information and shall not be subject to
+Page 5 of 14
+XXXX 1/31/2025 12:10 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 344
+1 KRS Chapter 131 or any other provisions of the Kentucky Revised Statutes
+2 prohibiting disclosure or reporting of information.
+3 Section 2. KRS 141.0205 is amended to read as follows:
+4 If a taxpayer is entitled to more than one (1) of the tax credits allowed against the tax
+5 imposed by KRS 141.020, 141.040, and 141.0401, the priority of application and use of
+6 the credits shall be determined as follows:
+7 (1) The nonrefundable business incentive credits against the tax imposed by KRS
+8 141.020 shall be taken in the following order:
+9 (a) The limited liability entity tax credit permitted by KRS 141.0401;
+10 (b) The economic development credits computed under KRS 141.347, 141.381,
+11 141.384, 141.3841, 141.400, 141.403, 141.407, 141.415, 154.12-207, and
+12 154.12-2088;
+13 (c) The qualified farming operation credit permitted by KRS 141.412;
+14 (d) The certified rehabilitation credit permitted by KRS 171.397(1)(a);
+15 (e) The health insurance credit permitted by KRS 141.062;
+16 (f) The tax paid to other states credit permitted by KRS 141.070;
+17 (g) The credit for hiring the unemployed permitted by KRS 141.065;
+18 (h) The recycling or composting equipment credit permitted by KRS 141.390;
+19 (i) The [tax ]credit for cash contributions in investment funds permitted by KRS
+20 154.20-263 in effect prior to July 15, 2002, and the credit permitted by KRS
+21 154.20-258;
+22 (j) The research facilities credit permitted by KRS 141.395;
+23 (k) The employer High School Equivalency Diploma program incentive credit
+24 permitted under KRS 151B.402;
+25 (l) The voluntary environmental remediation credit permitted by KRS 141.418;
+26 (m) The biodiesel and renewable diesel credit permitted by KRS 141.423;
+27 (n) The clean coal incentive credit permitted by KRS 141.428;
+Page 6 of 14
+XXXX 1/31/2025 12:10 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 344
+1 (o) The ethanol credit permitted by KRS 141.4242;
+2 (p) The cellulosic ethanol credit permitted by KRS 141.4244;
+3 (q) The energy efficiency credits permitted by KRS 141.436;
+4 (r) The railroad maintenance and improvement credit permitted by KRS 141.385;
+5 (s) The Endow Kentucky credit permitted by KRS 141.438;
+6 (t) The New Markets Development Program credit permitted by KRS 141.434;
+7 (u) The distilled spirits credit permitted by KRS 141.389;
+8 (v) The angel investor credit permitted by KRS 141.396;
+9 (w) The film industry credit permitted by KRS 141.383 for applications approved
+10 on or after April 27, 2018, but before January 1, 2022;
+11 (x) The inventory credit permitted by KRS 141.408;
+12 (y) The renewable chemical production credit permitted by KRS 141.4231;[ and]
+13 (z) The qualified broadband investment [tax ]credit permitted by KRS 141.391;
+14 and
+15 (aa) The alternative jet fuel credit permitted by Section 1 of this Act;
+16 (2) After the application of the nonrefundable credits in subsection (1) of this section,
+17 the nonrefundable personal tax credits against the tax imposed by KRS 141.020
+18 shall be taken in the following order:
+19 (a) The individual credits permitted by KRS 141.020(3);
+20 (b) The credit permitted by KRS 141.066;
+21 (c) The tuition credit permitted by KRS 141.069;
+22 (d) The household and dependent care credit permitted by KRS 141.067;
+23 (e) The income gap credit permitted by KRS 141.066; and
+24 (f) The Education Opportunity Account Program [tax ]credit permitted by KRS
+25 141.522;
+26 (3) After the application of the nonrefundable credits provided for in subsection (2) of
+27 this section, the refundable credits against the tax imposed by KRS 141.020 shall be
+Page 7 of 14
+XXXX 1/31/2025 12:10 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 344
+1 taken in the following order:
+2 (a) The individual withholding tax credit permitted by KRS 141.350;
+3 (b) The individual estimated tax payment credit permitted by KRS 141.305;
+4 (c) The certified rehabilitation credit permitted by KRS 171.3961, 171.3963, and
+5 171.397(1)(b);
+6 (d) The film industry [tax ]credit permitted by KRS 141.383 for applications
+7 approved prior to April 27, 2018, or on or after January 1, 2022;
+8 (e) The development area [tax ]credit permitted by KRS 141.398;
+9 (f) The decontamination [tax ]credit permitted by KRS 141.419; and
+10 (g) The pass-through entity tax credit permitted by KRS 141.209;
+11 (4) The nonrefundable credit permitted by KRS 141.0401 shall be applied against the
+12 tax imposed by KRS 141.040;
+13 (5) The following nonrefundable credits shall be applied against the sum of the tax
+14 imposed by KRS 141.040 after subtracting the credit provided for in subsection (4)
+15 of this section, and the tax imposed by KRS 141.0401 in the following order:
+16 (a) The economic development credits computed under KRS 141.347, 141.381,
+17 141.384, 141.3841, 141.400, 141.403, 141.407, 141.415, 154.12-207, and
+18 154.12-2088;
+19 (b) The qualified farming operation credit permitted by KRS 141.412;
+20 (c) The certified rehabilitation credit permitted by KRS 171.397(1)(a);
+21 (d) The health insurance credit permitted by KRS 141.062;
+22 (e) The unemployment credit permitted by KRS 141.065;
+23 (f) The recycling or composting equipment credit permitted by KRS 141.390;
+24 (g) The coal conversion credit permitted by KRS 141.041;
+25 (h) The enterprise zone credit permitted by KRS 154.45-090, for taxable periods
+26 ending prior to January 1, 2008;
+27 (i) The [tax ]credit for cash contributions to investment funds permitted by KRS
+Page 8 of 14
+XXXX 1/31/2025 12:10 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 344
+1 154.20-263 in effect prior to July 15, 2002, and the credit permitted by KRS
+2 154.20-258;
+3 (j) The research facilities credit permitted by KRS 141.395;
+4 (k) The employer High School Equivalency Diploma program incentive credit
+5 permitted by KRS 151B.402;
+6 (l) The voluntary environmental remediation credit permitted by KRS 141.418;
+7 (m) The biodiesel and renewable diesel credit permitted by KRS 141.423;
+8 (n) The clean coal incentive credit permitted by KRS 141.428;
+9 (o) The ethanol credit permitted by KRS 141.4242;
+10 (p) The cellulosic ethanol credit permitted by KRS 141.4244;
+11 (q) The energy efficiency credits permitted by KRS 141.436;
+12 (r) The ENERGY STAR home or ENERGY STAR manufactured home credit
+13 permitted by KRS 141.437;
+14 (s) The railroad maintenance and improvement credit permitted by KRS 141.385;
+15 (t) The railroad expansion credit permitted by KRS 141.386;
+16 (u) The Endow Kentucky credit permitted by KRS 141.438;
+17 (v) The New Markets Development Program credit permitted by KRS 141.434;
+18 (w) The distilled spirits credit permitted by KRS 141.389;
+19 (x) The film industry credit permitted by KRS 141.383 for applications approved
+20 on or after April 27, 2018, but before January 1, 2022;
+21 (y) The inventory credit permitted by KRS 141.408;
+22 (z) The renewable chemical production [tax ]credit permitted by KRS 141.4231;
+23 (aa) The Education Opportunity Account Program [tax ]credit permitted by KRS
+24 141.522;[ and]
+25 (ab) The qualified broadband investment [tax ]credit permitted by KRS 141.391;
+26 and
+27 (ac) The alternative jet fuel credit permitted by Section 1 of this Act; and
+Page 9 of 14
+XXXX 1/31/2025 12:10 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 344
+1 (6) After the application of the nonrefundable credits in subsection (5) of this section,
+2 the refundable credits shall be taken in the following order:
+3 (a) The corporation estimated tax payment credit permitted by KRS 141.044;
+4 (b) The certified rehabilitation credit permitted by KRS 171.3961, 171.3963, and
+5 171.397(1)(b);
+6 (c) The film industry [tax ]credit permitted by KRS 141.383 for applications
+7 approved prior to April 27, 2018, or on or after January 1, 2022;
+8 (d) The decontamination [tax ]credit permitted by KRS 141.419; and
+9 (e) The pass-through entity tax credit permitted by KRS 141.209.
+10 Section 3. KRS 131.190 is amended to read as follows:
+11 (1) No present or former commissioner or employee of the department, present or
+12 former member of a county board of assessment appeals, present or former property
+13 valuation administrator or employee, present or former secretary or employee of the
+14 Finance and Administration Cabinet, former secretary or employee of the Revenue
+15 Cabinet, or any other person, shall intentionally and without authorization inspect
+16 or divulge any information acquired by him or her of the affairs of any person, or
+17 information regarding the tax schedules, returns, or reports required to be filed with
+18 the department or other proper officer, or any information produced by a hearing or
+19 investigation, insofar as the information may have to do with the affairs of the
+20 person's business.
+21 (2) The prohibition established by subsection (1) of this section shall not extend to:
+22 (a) Information required in prosecutions for making false reports or returns of
+23 property for taxation, or any other infraction of the tax laws;
+24 (b) Any matter properly entered upon any assessment record, or in any way made
+25 a matter of public record;
+26 (c) Furnishing any taxpayer or his or her properly authorized agent with
+27 information respecting his or her own return;
+Page 10 of 14
+XXXX 1/31/2025 12:10 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 344
+1 (d) Testimony provided by the commissioner or any employee of the department
+2 in any court, or the introduction as evidence of returns or reports filed with the
+3 department, in an action for violation of state or federal tax laws or in any
+4 action challenging state or federal tax laws;
+5 (e) Providing an owner of unmined coal, oil or gas reserves, and other mineral or
+6 energy resources assessed under KRS 132.820, or owners of surface land
+7 under which the unmined minerals lie, factual information about the owner's
+8 property derived from third-party returns filed for that owner's property, under
+9 the provisions of KRS 132.820, that is used to determine the owner's
+10 assessment. This information shall be provided to the owner on a confidential
+11 basis, and the owner shall be subject to the penalties provided in KRS
+12 131.990(2). The third-party filer shall be given prior notice of any disclosure
+13 of information to the owner that was provided by the third-party filer;
+14 (f) Providing to a third-party purchaser pursuant to an order entered in a
+15 foreclosure action filed in a court of competent jurisdiction, factual
+16 information related to the owner or lessee of coal, oil, gas reserves, or any
+17 other mineral resources assessed under KRS 132.820. The department may
+18 promulgate an administrative regulation establishing a fee schedule for the
+19 provision of the information described in this paragraph. Any fee imposed
+20 shall not exceed the greater of the actual cost of providing the information or
+21 ten dollars ($10);
+22 (g) Providing information to a licensing agency, the Transportation Cabinet, or
+23 the Kentucky Supreme Court under KRS 131.1817;
+24 (h) Statistics of gasoline and special fuels gallonage reported to the department
+25 under KRS 138.210 to 138.448;
+26 (i) Providing any utility gross receipts license tax return information that is
+27 necessary to administer the provisions of KRS 160.613 to 160.617 to
+Page 11 of 14
+XXXX 1/31/2025 12:10 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 344
+1 applicable school districts on a confidential basis;
+2 (j) Providing documents, data, or other information to a third party pursuant to an
+3 order issued by a court of competent jurisdiction;
+4 (k) Publishing administrative writings on its official website in accordance with
+5 KRS 131.020(1)(b); or
+6 (l) Providing information to the Legislative Research Commission under:
+7 1. KRS 139.519 for purposes of the sales and use tax refund on building
+8 materials used for disaster recovery;
+9 2. KRS 141.436 for purposes of the energy efficiency products credits;
+10 3. KRS 141.437 for purposes of the ENERGY STAR home and the
+11 ENERGY STAR manufactured home credits;
+12 4. KRS 141.383 for purposes of the film industry incentives;
+13 5. KRS 154.26-095 for purposes of the Kentucky industrial revitalization
+14 credit[tax credits] and the job assessment fees;
+15 6. KRS 141.068 for purposes of the Kentucky investment fund;
+16 7. KRS 141.396 for purposes of the angel investor [tax ]credit;
+17 8. KRS 141.389 for purposes of the distilled spirits credit;
+18 9. KRS 141.408 for purposes of the inventory credit;
+19 10. KRS 141.390 for purposes of the recycling and composting
+20 credits[credit];
+21 11. KRS 141.3841 for purposes of the selling farmer [tax ]credit;
+22 12. KRS 141.4231 for purposes of the renewable chemical production [tax
+23 ]credit;
+24 13. KRS 141.524 for purposes of the Education Opportunity Account
+25 Program [tax ]credit;
+26 14. KRS 141.398 for purposes of the development area [tax ]credit;
+27 15. KRS 139.516 for the purposes of the sales and use tax exemptions
+Page 12 of 14
+XXXX 1/31/2025 12:10 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 344
+1 for[exemption on] the commercial mining of cryptocurrency;
+2 16. KRS 141.419 for purposes of the decontamination [tax ]credit;
+3 17. KRS 141.391 for purposes of the qualified broadband investment [tax
+4 ]credit;[ and]
+5 18. KRS 139.499 for purposes of the sales and use tax
+6 exemptions[exemption] for a qualified data center project; and
+7 19. Section 1 of this Act for purposes of the alternative jet fuel credit.
+8 (3) The commissioner shall make available any information for official use only and on
+9 a confidential basis to the proper officer, agency, board or commission of this state,
+10 any Kentucky county, any Kentucky city, any other state, or the federal
+11 government, under reciprocal agreements whereby the department shall receive
+12 similar or useful information in return.
+13 (4) Access to and inspection of information received from the Internal Revenue Service
+14 is for department use only, and is restricted to tax administration purposes.
+15 Information received from the Internal Revenue Service shall not be made available
+16 to any other agency of state government, or any county, city, or other state, and
+17 shall not be inspected intentionally and without authorization by any present
+18 secretary or employee of the Finance and Administration Cabinet, commissioner or
+19 employee of the department, or any other person.
+20 (5) Statistics of crude oil as reported to the department under the crude oil excise tax
+21 requirements of KRS Chapter 137 and statistics of natural gas production as
+22 reported to the department under the natural resources severance tax requirements
+23 of KRS Chapter 143A may be made public by the department by release to the
+24 Energy and Environment Cabinet, Department for Natural Resources.
+25 (6) Notwithstanding any provision of law to the contrary, beginning with mine-map
+26 submissions for the 1989 tax year, the department may make public or divulge only
+27 those portions of mine maps submitted by taxpayers to the department pursuant to
+Page 13 of 14
+XXXX 1/31/2025 12:10 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 344
+1 KRS Chapter 132 for ad valorem tax purposes that depict the boundaries of mined-
+2 out parcel areas. These electronic maps shall not be relied upon to determine actual
+3 boundaries of mined-out parcel areas. Property boundaries contained in mine maps
+4 required under KRS Chapters 350 and 352 shall not be construed to constitute land
+5 surveying or boundary surveys as defined by KRS 322.010 and any administrative
+6 regulations promulgated thereto.
+Page 14 of 14
+XXXX 1/31/2025 12:10 PM Jacketed
+
+[DELETED:   2  J A B S R ( A ( " c n t m b d f c f a a c p r o t h a l c i t t p 1 C a T A S f T a M I S b T A S f T a M I S 2 I r o z e e s o g c o 3 I 4 A a l a f p ( l g g e d l a f p ( r o t a a c a E u t l m f a j f a b t I C A O]
+[DELETED:   2  J w b G g e v u t m r v o A N L G m i o a p a c c a s ( " e 1 S 2 U ( " i 1 P 2 B 3 G f ( " f ( " a a m b d f r s a c o s o w s r o z e e s o g c o ( ( T a t t i i K 1 o 1 a 1 f e t i t C i a a c b t d i]
+[DELETED:   2  J ( F t y b o o a J 1 2 b b J c 1 O 2 T s ( ( T c a i s ( o t s s n b c f ( T d ( T t ( T s ( A f f t c i a o f t p o a j f t i i ( ( A b ( A b ( T K C 1 t a f a p f t c a r ( ( E 1 S]
+[DELETED:   2  J t d b J 1 2 f t c o t c a 2 P a T b D i C t i P i a p a f t ( T 1 R a s a n l t F 1 2 a 2 D a P o o t s a s i t s f t c b P a c C 3 B M 1 f t e o t c y p c t t e t i t a o t c ( I t t a o c r u s ( o t s e a b e]
+[DELETED:   2  J a ( ( I c t d s p t f i o a c t 1 T c 2 T y 3 T t 4 a I t c o t o t c b o r d ( t t a o c c f e a b I l c a 5 A e ( T t N i ( T c c t i a s n b s t]
+[DELETED:   2  J K p S I i t ( T n b i c a t t i b K 1 ( T ( T 1 1 1 1 1 1 1 a 1 ( T ( T ( T ( T ( T ( T ( T 1 1 ( T ( T e H S E D p i c p ( T ( T ( T]
+[DELETED:   2  J ( T ( T ( T ( T ( T ( T ( T ( T ( T o ( T ( T ( T a ( T ( A t n p t c a t t i b K 1 s ( T ( T ( T ( T ( T ( T 1 ( A t]
+[DELETED:   2  J t ( T ( T ( T 1 ( T f i [ ] p b K 1 f a a ( T ( T ( T ( T t ( T f n c s b a a t s o t i o ( T 1 1 1 1 1 1 1 a 1 ( T ( T ( T ( T ( T ( T ( T e ( T]
+[DELETED:   2  J 1 1 ( T ( T e H S E D p i c p ( T ( T ( T ( T ( T ( T ( T p ( T ( T ( T ( T ( T ( T o ( T ( T ( T 1 ( T a ( T]
+[DELETED:   2  J ( A t ( T ( T 1 ( T f i [ ] p b K 1 f a a ( T ( T S ( N p o f c o e o t d p o f v F C o i t i i a t i m h t d w t a o t p ( T ( I r i p f m f r o o p ( A a ( F a t o h o h p a a w i]
+[DELETED:   2  J ( T i d a ( P e r a u K 1 o o o s l u p t p o K 1 t i u t d t o a b a t o s b s t t p p i K 1 o ( P t a t p p t a o e i a f a f i a c o c j f i o a m p a a r e a f s f t p o t i d i t p A f i s t ( P C t ( S u ( P a u g r l t r i t i n t a t p o K 1 t 1 t]
+[DELETED:   2  J a ( P o ( P K ( P 1 K m 2 K 3 K 1 f p o t E S h a t E 4 K 5 K c 6 K 7 K 8 K 9 K 1 K 1 f p o t r a c c 1 K 1 K ] 1 K 1 f p o t E O A P 1 K 1 K 1 f t p o t s a u t e]
+[DELETED:   2  J f 1 K 1 K ] 1 K 1 f p o t s a u t e 1 S ( T a a K c a K c a o s o t f g u r a w t d s r s ( A i f d u o a i r t t a p I t s n b i i a w a b a p s e ( S r o K C 1 a s o n g p a r o E ( N c m s t]
+[DELETED:   2  J K o b r s r]

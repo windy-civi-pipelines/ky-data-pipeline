@@ -1,0 +1,783 @@
+Title: 1 AN ACT relating to tax incentives for first-time home buyers.
+Official Title: 1 AN ACT relating to tax incentives for first-time home buyers.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 13 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS BR 1196
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF KRS CHAPTER 141 IS CREATED TO
+4 READ AS FOLLOWS:
+5 (1) As used in this section:
+6 (a) "Eligible costs" means any down payment or closing cost associated with
+7 the purchase of a qualified principal residence and does not include any
+8 costs incurred prior to the establishment of an eligible savings account;
+9 (b) "Eligible savings account" means an account established and designated by
+10 a financial institution as having the sole purpose of saving for eligible costs
+11 associated with the purchase of a qualified principal residence by a first-
+12 time home buyer;
+13 (c) "Financial institution" means a financial institution as defined in KRS
+14 286.11-003 that has a physical location in this state;
+15 (d) "First-time home buyer" means an individual who purchases or has the
+16 intent to purchase a qualified principal residence in this state and has not
+17 had an ownership interest in a principal residence for a minimum of ten
+18 (10) years prior to the date in which tax incentives are utilized under this
+19 section; and
+20 (e) "Qualified principal residence" means a single-family residence within this
+21 state and that meets the qualifications for a principal residence for purposes
+22 of Section 121 of the Internal Revenue Code.
+23 (2) (a) For taxable years beginning on or after January 1, 2026, but before
+24 January 1, 2036, a first-time home buyer shall be allowed a deduction in
+25 each taxable year for contributions made into an eligible savings account
+26 and may exclude any interest earned therefrom.
+27 (b) Deductions and exclusions under paragraph (a) of this subsection in any
+Page 1 of 13
+XXXX 1/9/2025 4:50 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1196
+1 taxable year shall be limited to:
+2 1. Five thousand dollars ($5,000) for single individuals or taxpayers
+3 filing a separate return; or
+4 2. Ten thousand dollars ($10,000) for married individuals filing
+5 separately on a combined form or a joint tax return.
+6 (3) The total of tax incentives claimed under this section for taxable years beginning
+7 on or after January 1, 2026, but before January 1, 2036, shall not exceed:
+8 (a) Twenty-five thousand dollars ($25,000) for single account holders filing a
+9 single return or separate returns; or
+10 (b) Fifty thousand dollars ($50,000) for joint account holders filing separately
+11 on a combined form or a joint tax return.
+12 (4) (a) The department may request bank statements or other necessary forms of
+13 verification to confirm:
+14 1. The annual contribution made to an eligible savings account;
+15 2. The total interest income earned from an eligible savings account; or
+16 3. That funds were withdrawn from an eligible savings account for
+17 eligible costs by a first-time home buyer.
+18 (b) If a first-time home buyer withdraws and uses funds from an eligible
+19 savings account for something other than eligible costs, recapture of the
+20 deduction or exclusion shall be claimed as an addition to income on the
+21 return for the taxable year in which the funds were withdrawn.
+22 (c) Notwithstanding paragraph (b) of this subsection, funds may be withdrawn
+23 from an eligible savings account for circumstances that involve the:
+24 1. Death or disability of an account holder;
+25 2. Exhaustion of an account holder's unemployment compensation as a
+26 result of a job loss;
+27 3. Disbursement of account assets under a bankruptcy proceeding in
+Page 2 of 13
+XXXX 1/9/2025 4:50 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1196
+1 accordance with the United States Bankruptcy Code, 11 U.S.C. secs.
+2 101 to 110; or
+3 4. Transfer or deposit of funds into another eligible savings account
+4 within sixty (60) days of the withdrawal.
+5 (5) (a) In order for the General Assembly to evaluate the effectiveness of this
+6 section, the department shall submit the following information to the
+7 Legislative Research Commission and the Interim Joint Committee on
+8 Appropriations and Revenue on or before November 1, 2027, and on or
+9 before each November 1 thereafter as long as the eligible savings account
+10 tax deduction and the exclusion may be claimed on a return:
+11 1. The location of the taxpayer, by county, as reflected on the return filed
+12 for the taxable year;
+13 2. The amount of eligible savings account contribution deductions
+14 claimed by the taxpayer for the taxable year;
+15 3. The amount of the eligible savings account income exclusions claimed
+16 by the taxpayer for the taxable year;
+17 4. The total cumulative amount of all eligible savings account
+18 contribution deductions claimed for the taxable year;
+19 5. The total cumulative amount of all eligible savings account income
+20 exclusions claimed for the taxable; and
+21 6. Based on ranges of adjusted gross income of no larger than five
+22 thousand dollars ($5,000) for the taxable year, the total amount of tax
+23 deductions claimed and the total number of returns claiming a tax
+24 deduction for each adjusted gross income range; and
+25 7. Based on ranges of adjusted gross income of no larger than five
+26 thousand dollars ($5,000) for the taxable year, the total amount of
+27 exclusions claimed and the total number of returns claiming an
+Page 3 of 13
+XXXX 1/9/2025 4:50 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1196
+1 exclusion of interest for each adjusted gross income range.
+2 (b) The information required to be reported under this section shall not be
+3 considered confidential taxpayer information and shall not be subject to
+4 KRS Chapter 131 or any other provisions of the Kentucky Revised Statutes
+5 prohibiting disclosure or reporting of information.
+6 Section 2. KRS 141.019 is amended to read as follows:
+7 In the case of taxpayers other than corporations:
+8 (1) Adjusted gross income shall be calculated by subtracting from the gross income of
+9 those taxpayers the deductions allowed individuals by Section 62 of the Internal
+10 Revenue Code and adjusting as follows:
+11 (a) Exclude income that is exempt from state taxation by the Kentucky
+12 Constitution and the Constitution and statutory laws of the United States;
+13 (b) Exclude income from supplemental annuities provided by the Railroad
+14 Retirement Act of 1937 as amended and which are subject to federal income
+15 tax by Pub. L. No. 89-699;
+16 (c) Include interest income derived from obligations of sister states and political
+17 subdivisions thereof;
+18 (d) Exclude employee pension contributions picked up as provided for in KRS
+19 6.505, 16.545, 21.360, 61.523, 61.560, 65.155, 67A.320, 67A.510, 78.610,
+20 and 161.540 upon a ruling by the Internal Revenue Service or the federal
+21 courts that these contributions shall not be included as gross income until such
+22 time as the contributions are distributed or made available to the employee;
+23 (e) Exclude Social Security and railroad retirement benefits subject to federal
+24 income tax;
+25 (f) Exclude any money received because of a settlement or judgment in a lawsuit
+26 brought against a manufacturer or distributor of "Agent Orange" for damages
+27 resulting from exposure to Agent Orange by a member or veteran of the
+Page 4 of 13
+XXXX 1/9/2025 4:50 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1196
+1 Armed Forces of the United States or any dependent of such person who
+2 served in Vietnam;
+3 (g) 1. a. For taxable years beginning after December 31, 2005, but before
+4 January 1, 2018, exclude up to forty-one thousand one hundred ten
+5 dollars ($41,110) of total distributions from pension plans, annuity
+6 contracts, profit-sharing plans, retirement plans, or employee
+7 savings plans; and
+8 b. For taxable years beginning on or after January 1, 2018, exclude
+9 up to thirty-one thousand one hundred ten dollars ($31,110) of
+10 total distributions from pension plans, annuity contracts, profit-
+11 sharing plans, retirement plans, or employee savings plans.
+12 2. As used in this paragraph:
+13 a. "Annuity contract" has the same meaning as set forth in Section
+14 1035 of the Internal Revenue Code;
+15 b. "Distributions" includes but is not limited to any lump-sum
+16 distribution from pension or profit-sharing plans qualifying for the
+17 income tax averaging provisions of Section 402 of the Internal
+18 Revenue Code; any distribution from an individual retirement
+19 account as defined in Section 408 of the Internal Revenue Code;
+20 and any disability pension distribution; and
+21 c. "Pension plans, profit-sharing plans, retirement plans, or employee
+22 savings plans" means any trust or other entity created or organized
+23 under a written retirement plan and forming part of a stock bonus,
+24 pension, or profit-sharing plan of a public or private employer for
+25 the exclusive benefit of employees or their beneficiaries and
+26 includes plans qualified or unqualified under Section 401 of the
+27 Internal Revenue Code and individual retirement accounts as
+Page 5 of 13
+XXXX 1/9/2025 4:50 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1196
+1 defined in Section 408 of the Internal Revenue Code;
+2 (h) 1. a. Exclude the portion of the distributive share of a shareholder's net
+3 income from an S corporation subject to the franchise tax imposed
+4 under KRS 136.505 or the capital stock tax imposed under KRS
+5 136.300; and
+6 b. Exclude the portion of the distributive share of a shareholder's net
+7 income from an S corporation related to a qualified subchapter S
+8 subsidiary subject to the franchise tax imposed under KRS
+9 136.505 or the capital stock tax imposed under KRS 136.300.
+10 2. The shareholder's basis of stock held in an S corporation where the S
+11 corporation or its qualified subchapter S subsidiary is subject to the
+12 franchise tax imposed under KRS 136.505 or the capital stock tax
+13 imposed under KRS 136.300 shall be the same as the basis for federal
+14 income tax purposes;
+15 (i) Exclude income received for services performed as a precinct worker for
+16 election training or for working at election booths in state, county, and local
+17 primaries or regular or special elections;
+18 (j) Exclude any capital gains income attributable to property taken by eminent
+19 domain;
+20 (k) 1. Exclude all income from all sources for members of the Armed Forces
+21 who are on active duty and who are killed in the line of duty, for the
+22 year during which the death occurred and the year prior to the year
+23 during which the death occurred.
+24 2. For the purposes of this paragraph, "all income from all sources" shall
+25 include all federal and state death benefits payable to the estate or any
+26 beneficiaries;
+27 (l) Exclude all military pay received by members of the Armed Forces while on
+Page 6 of 13
+XXXX 1/9/2025 4:50 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1196
+1 active duty;
+2 (m) 1. Include the amount deducted for depreciation under 26 U.S.C. sec. 167
+3 or 168; and
+4 2. Exclude the amounts allowed by KRS 141.0101 for depreciation;
+5 (n) Include the amount deducted under 26 U.S.C. sec. 199A;
+6 (o) Ignore any change in the cost basis of the surviving spouse's share of property
+7 owned by a Kentucky community property trust occurring for federal income
+8 tax purposes as a result of the death of the predeceasing spouse;
+9 (p) Allow the same treatment allowed under Pub. L. No. 116-260, secs. 276 and
+10 278, related to the tax treatment of forgiven covered loans, deductions
+11 attributable to those loans, and tax attributes associated with those loans for
+12 taxable years ending on or after March 27, 2020, but before January 1, 2022;[
+13 and]
+14 (q) For taxable years beginning on or after January 1, 2020, but before March 11,
+15 2023, allow the same treatment of restaurant revitalization grants in
+16 accordance with Pub. L. No. 117-2, sec. 9673 and 15 U.S.C. sec. 9009c,
+17 related to the tax treatment of the grants, deductions attributable to those
+18 grants, and tax attributes associated with those grants;[ and]
+19 (r) For taxable years beginning on or after January 1, 2026, but before
+20 January 1, 2036, exclude amounts contributed to an eligible savings
+21 account for use by a first-time home buyer in accordance with Section 1 of
+22 this Act; and
+23 (s) For taxable years beginning on or after January 1, 2026, but before
+24 January 1, 2036, exclude interest income received from an eligible savings
+25 account for use by a first-time home buyer in accordance with Section 1 of
+26 this Act; and
+27 (2) Net income shall be calculated by subtracting from adjusted gross income all the
+Page 7 of 13
+XXXX 1/9/2025 4:50 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1196
+1 deductions allowed individuals by Chapter 1 of the Internal Revenue Code, as
+2 modified by KRS 141.0101, except:
+3 (a) Any deduction allowed by 26 U.S.C. sec. 164 for taxes;
+4 (b) Any deduction allowed by 26 U.S.C. sec. 165 for losses, except wagering
+5 losses allowed under Section 165(d) of the Internal Revenue Code;
+6 (c) Any deduction allowed by 26 U.S.C. sec. 213 for medical care expenses;
+7 (d) Any deduction allowed by 26 U.S.C. sec. 217 for moving expenses;
+8 (e) Any deduction allowed by 26 U.S.C. sec. 67 for any other miscellaneous
+9 deduction;
+10 (f) Any deduction allowed by the Internal Revenue Code for amounts allowable
+11 under KRS 140.090(1)(h) in calculating the value of the distributive shares of
+12 the estate of a decedent, unless there is filed with the income return a
+13 statement that the deduction has not been claimed under KRS 140.090(1)(h);
+14 (g) Any deduction allowed by 26 U.S.C. sec. 151 for personal exemptions and
+15 any other deductions in lieu thereof;
+16 (h) Any deduction allowed for amounts paid to any club, organization, or
+17 establishment which has been determined by the courts or an agency
+18 established by the General Assembly and charged with enforcing the civil
+19 rights laws of the Commonwealth, not to afford full and equal membership
+20 and full and equal enjoyment of its goods, services, facilities, privileges,
+21 advantages, or accommodations to any person because of race, color, religion,
+22 national origin, or sex, except nothing shall be construed to deny a deduction
+23 for amounts paid to any religious or denominational club, group, or
+24 establishment or any organization operated solely for charitable or educational
+25 purposes which restricts membership to persons of the same religion or
+26 denomination in order to promote the religious principles for which it is
+27 established and maintained; and
+Page 8 of 13
+XXXX 1/9/2025 4:50 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1196
+1 (i) A taxpayer may elect to claim the standard deduction allowed by KRS
+2 141.081 instead of itemized deductions allowed pursuant to 26 U.S.C. sec. 63
+3 and as modified by this section.
+4 Section 3. KRS 131.190 is amended to read as follows:
+5 (1) No present or former commissioner or employee of the department, present or
+6 former member of a county board of assessment appeals, present or former property
+7 valuation administrator or employee, present or former secretary or employee of the
+8 Finance and Administration Cabinet, former secretary or employee of the Revenue
+9 Cabinet, or any other person, shall intentionally and without authorization inspect
+10 or divulge any information acquired by him or her of the affairs of any person, or
+11 information regarding the tax schedules, returns, or reports required to be filed with
+12 the department or other proper officer, or any information produced by a hearing or
+13 investigation, insofar as the information may have to do with the affairs of the
+14 person's business.
+15 (2) The prohibition established by subsection (1) of this section shall not extend to:
+16 (a) Information required in prosecutions for making false reports or returns of
+17 property for taxation, or any other infraction of the tax laws;
+18 (b) Any matter properly entered upon any assessment record, or in any way made
+19 a matter of public record;
+20 (c) Furnishing any taxpayer or his or her properly authorized agent with
+21 information respecting his or her own return;
+22 (d) Testimony provided by the commissioner or any employee of the department
+23 in any court, or the introduction as evidence of returns or reports filed with the
+24 department, in an action for violation of state or federal tax laws or in any
+25 action challenging state or federal tax laws;
+26 (e) Providing an owner of unmined coal, oil or gas reserves, and other mineral or
+27 energy resources assessed under KRS 132.820, or owners of surface land
+Page 9 of 13
+XXXX 1/9/2025 4:50 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1196
+1 under which the unmined minerals lie, factual information about the owner's
+2 property derived from third-party returns filed for that owner's property, under
+3 the provisions of KRS 132.820, that is used to determine the owner's
+4 assessment. This information shall be provided to the owner on a confidential
+5 basis, and the owner shall be subject to the penalties provided in KRS
+6 131.990(2). The third-party filer shall be given prior notice of any disclosure
+7 of information to the owner that was provided by the third-party filer;
+8 (f) Providing to a third-party purchaser pursuant to an order entered in a
+9 foreclosure action filed in a court of competent jurisdiction, factual
+10 information related to the owner or lessee of coal, oil, gas reserves, or any
+11 other mineral resources assessed under KRS 132.820. The department may
+12 promulgate an administrative regulation establishing a fee schedule for the
+13 provision of the information described in this paragraph. Any fee imposed
+14 shall not exceed the greater of the actual cost of providing the information or
+15 ten dollars ($10);
+16 (g) Providing information to a licensing agency, the Transportation Cabinet, or
+17 the Kentucky Supreme Court under KRS 131.1817;
+18 (h) Statistics of gasoline and special fuels gallonage reported to the department
+19 under KRS 138.210 to 138.448;
+20 (i) Providing any utility gross receipts license tax return information that is
+21 necessary to administer the provisions of KRS 160.613 to 160.617 to
+22 applicable school districts on a confidential basis;
+23 (j) Providing documents, data, or other information to a third party pursuant to an
+24 order issued by a court of competent jurisdiction;
+25 (k) Publishing administrative writings on its official website in accordance with
+26 KRS 131.020(1)(b); or
+27 (l) Providing information to the Legislative Research Commission under:
+Page 10 of 13
+XXXX 1/9/2025 4:50 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1196
+1 1. KRS 139.519 for purposes of the sales and use tax refund on building
+2 materials used for disaster recovery;
+3 2. KRS 141.436 for purposes of the energy efficiency products credits;
+4 3. KRS 141.437 for purposes of the ENERGY STAR home and the
+5 ENERGY STAR manufactured home credits;
+6 4. KRS 141.383 for purposes of the film industry incentives;
+7 5. KRS 154.26-095 for purposes of the Kentucky industrial revitalization
+8 credit[tax credits] and the job assessment fees;
+9 6. KRS 141.068 for purposes of the Kentucky investment fund;
+10 7. KRS 141.396 for purposes of the angel investor [tax ]credit;
+11 8. KRS 141.389 for purposes of the distilled spirits credit;
+12 9. KRS 141.408 for purposes of the inventory credit;
+13 10. KRS 141.390 for purposes of the recycling and composting
+14 credits[credit];
+15 11. KRS 141.3841 for purposes of the selling farmer [tax ]credit;
+16 12. KRS 141.4231 for purposes of the renewable chemical production [tax
+17 ]credit;
+18 13. KRS 141.524 for purposes of the Education Opportunity Account
+19 Program [tax ]credit;
+20 14. KRS 141.398 for purposes of the development area [tax ]credit;
+21 15. KRS 139.516 for [the ]purposes of the sales and use tax exemptions
+22 for[exemption on] the commercial mining of cryptocurrency;
+23 16. KRS 141.419 for purposes of the decontamination [tax ]credit;
+24 17. KRS 141.391 for purposes of the qualified broadband investment [tax
+25 ]credit;[ and]
+26 18. KRS 139.499 for purposes of the sales and use tax
+27 exemptions[exemption] for a qualified data center project; and
+Page 11 of 13
+XXXX 1/9/2025 4:50 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1196
+1 19. Section 1 of this Act for purposes of the deduction for contributions
+2 made to an eligible savings account and the exclusion of interest
+3 earned therefrom.
+4 (3) The commissioner shall make available any information for official use only and on
+5 a confidential basis to the proper officer, agency, board or commission of this state,
+6 any Kentucky county, any Kentucky city, any other state, or the federal
+7 government, under reciprocal agreements whereby the department shall receive
+8 similar or useful information in return.
+9 (4) Access to and inspection of information received from the Internal Revenue Service
+10 is for department use only, and is restricted to tax administration purposes.
+11 Information received from the Internal Revenue Service shall not be made available
+12 to any other agency of state government, or any county, city, or other state, and
+13 shall not be inspected intentionally and without authorization by any present
+14 secretary or employee of the Finance and Administration Cabinet, commissioner or
+15 employee of the department, or any other person.
+16 (5) Statistics of crude oil as reported to the department under the crude oil excise tax
+17 requirements of KRS Chapter 137 and statistics of natural gas production as
+18 reported to the department under the natural resources severance tax requirements
+19 of KRS Chapter 143A may be made public by the department by release to the
+20 Energy and Environment Cabinet, Department for Natural Resources.
+21 (6) Notwithstanding any provision of law to the contrary, beginning with mine-map
+22 submissions for the 1989 tax year, the department may make public or divulge only
+23 those portions of mine maps submitted by taxpayers to the department pursuant to
+24 KRS Chapter 132 for ad valorem tax purposes that depict the boundaries of mined-
+25 out parcel areas. These electronic maps shall not be relied upon to determine actual
+26 boundaries of mined-out parcel areas. Property boundaries contained in mine maps
+27 required under KRS Chapters 350 and 352 shall not be construed to constitute land
+Page 12 of 13
+XXXX 1/9/2025 4:50 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1196
+1 surveying or boundary surveys as defined by KRS 322.010 and any administrative
+2 regulations promulgated thereto.
+Page 13 of 13
+XXXX 1/9/2025 4:50 PM Jacketed
+[DELETED:   2  J A B S R ( A ( " t c ( " a a t ( " i m a f i a d i K 2 ( " h b m a i p o h t i h ( s ( " s o ( ( F t y b o o a J 1 2 b b J e a ( D]
+[DELETED:   2  J t 1 F t d ( f s i o t f 2 T t d ( f m i f s ( T o ( T s ( F o ( ( T v 1 T 2 T 3 T f w w f a e s a f e ( I a f h b w a u f f a e s a f s o t e c r o t d r ( N f 1 D 2 E r 3 D o a a u a b p i]
+[DELETED:   2  J a 1 4 T o d o f i a e s a w ( ( I o f t G A t e t e o t s t d s s t f i t t L R C a t I J C o A a R o o b N 1 2 a o o b t 1 T f 2 T a o e s a c d c 3 T b 4 T t c a o a e s a c 5 T t c a o e s a i e 6 B o r o a g i o n l t f t d c a t t n o r c a t d 7 B o r o a g i o n l t f t d ( f t t y t t a o e c a t t n o r c a]
+[DELETED:   2  J e ( T i r t b r u t s s n b c c t i a s n b s t K p S I ( A t R ( E i t i e f s t b t K C ( E i f s a p b t R R t ( I s ( E 6 1 2 6 6 6 6 6 7 a 1 u a r b t I R S o t f c t ( E S S a r r b s t f i ( E b r f e t A O b a m o v o t]
+[DELETED:   2  J A F o t U S o a d o s p w s ( 1 a F J d c p p r p o e s b F u t t t o h t d ( o t d f p p a c p s 2 A a " 1 b " i b i n l t a l d i t a p o S 4 o t I R C a d f a i r a a c " s u p t e b o e o t b a i I R C a i r a a]
+[DELETED:   2  J d ( 1 a E i u 1 b E i s s t t f t i u K 1 2 T c o i q s S s i s t t f t i u K 1 o t c s t i i ( E i r f s p a a p w f e p ( E d ( 1 E w y d w t d o a t y p t t y d 2 F i b ( E]
+[DELETED:   2  J a ( 1 I o 2 E ( I ( I o t ( A 2 r t t t t o f c l d a t a ( F 2 a t s t o r r g i a w P L N 1 s 9 a 1 U s 9 r t t t t o t g d a t t g ( F t y b o o a J 1 2 b b J 1 2 e a c t a e s a t ( F t y b o o a J 1 2 b b J a t ( N]
+[DELETED:   2  J d a i b C 1 o t I R C a m ( A ( A d a b 2 U s 1 f l e w l ( A ( A ( A d a b 2 U s 6 f a o m d ( A u t e o a d u t i f w t i r a s ( A a ( A d a f a p t a c o o e w h b d b t c o a a e b t G A a c w e t c r a f a e e o i g s f p a n f a p t a r o d c g o e p w r m t p o t s r o d i o t p t r p f w i i e]
+[DELETED:   2  J ( A t m e t c t s d a b K 1 a S ( N p o f c o e o t d p o f v F C o i t i i a t i m h t d w t a o t p ( T ( I r i p f m f r o o p ( A a ( F a t o h o h p a a w i ( T i d a ( P e r a u K 1 o o o s l]
+[DELETED:   2  J u p t p o K 1 t i u t d t o a b a t o s b s t t p p i K 1 o ( P t a t p p t a o e i a f a f i a c o c j f i o a m p a a r e a f s f t p o t i d i t p A f i s t ( P t ( S u ( P a u g r l t r i t i n t a t p o K 1 t 1 t a ( P o ( P K ( P]
+[DELETED:   2  J 1 K m 2 K 3 K 1 f p o t E S h a t E 4 K 5 K c 6 K 7 K 8 K 9 K 1 K 1 f p o t r a c c 1 K 1 K ] 1 K 1 f p o t E O A P 1 K 1 K 1 f [ ] o t s a u t e f 1 K 1 K ] 1 K 1 f p o t s a u t e]
+[DELETED:   2  J 1 S m t a e s a a t e o i e ( T a a K c a K c a o s o t f g u r a w t d s r s ( A i f d u o a i r t t a p I t s n b i i a w a b a p s e ( S r o K C 1 a s o n g p a r o E ( N c m s t K o b r]
+[DELETED:   2  J s r]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS BR 1196
+1 AN ACT relating to tax incentives for first-time home buyers.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF KRS CHAPTER 141 IS CREATED TO
+4 READ AS FOLLOWS:
+5 (1) As used in this section:
+6 (a) "Eligible costs" means any down payment or closing cost associated with
+7 the purchase of a qualified principal residence and does not include any
+8 costs incurred prior to the establishment of an eligible savings account;
+9 (b) "Eligible savings account" means an account established and designated by
+10 a financial institution as having the sole purpose of saving for eligible costs
+11 associated with the purchase of a qualified principal residence by a first-
+12 time home buyer;
+13 (c) "Financial institution" means a financial institution as defined in KRS
+14 286.11-003 that has a physical location in this state;
+15 (d) "First-time home buyer" means an individual who purchases or has the
+16 intent to purchase a qualified principal residence in this state and has not
+17 had an ownership interest in a principal residence for a minimum of ten
+18 (10) years prior to the date in which tax incentives are utilized under this
+19 section; and
+20 (e) "Qualified principal residence" means a single-family residence within this
+21 state and that meets the qualifications for a principal residence for purposes
+22 of Section 121 of the Internal Revenue Code.
+23 (2) (a) For taxable years beginning on or after January 1, 2026, but before
+24 January 1, 2036, a first-time home buyer shall be allowed a deduction in
+25 each taxable year for contributions made into an eligible savings account
+26 and may exclude any interest earned therefrom.
+27 (b) Deductions and exclusions under paragraph (a) of this subsection in any
+Page 1 of 13
+XXXX 1/9/2025 4:50 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1196
+1 taxable year shall be limited to:
+2 1. Five thousand dollars ($5,000) for single individuals or taxpayers
+3 filing a separate return; or
+4 2. Ten thousand dollars ($10,000) for married individuals filing
+5 separately on a combined form or a joint tax return.
+6 (3) The total of tax incentives claimed under this section for taxable years beginning
+7 on or after January 1, 2026, but before January 1, 2036, shall not exceed:
+8 (a) Twenty-five thousand dollars ($25,000) for single account holders filing a
+9 single return or separate returns; or
+10 (b) Fifty thousand dollars ($50,000) for joint account holders filing separately
+11 on a combined form or a joint tax return.
+12 (4) (a) The department may request bank statements or other necessary forms of
+13 verification to confirm:
+14 1. The annual contribution made to an eligible savings account;
+15 2. The total interest income earned from an eligible savings account; or
+16 3. That funds were withdrawn from an eligible savings account for
+17 eligible costs by a first-time home buyer.
+18 (b) If a first-time home buyer withdraws and uses funds from an eligible
+19 savings account for something other than eligible costs, recapture of the
+20 deduction or exclusion shall be claimed as an addition to income on the
+21 return for the taxable year in which the funds were withdrawn.
+22 (c) Notwithstanding paragraph (b) of this subsection, funds may be withdrawn
+23 from an eligible savings account for circumstances that involve the:
+24 1. Death or disability of an account holder;
+25 2. Exhaustion of an account holder's unemployment compensation as a
+26 result of a job loss;
+27 3. Disbursement of account assets under a bankruptcy proceeding in
+Page 2 of 13
+XXXX 1/9/2025 4:50 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1196
+1 accordance with the United States Bankruptcy Code, 11 U.S.C. secs.
+2 101 to 110; or
+3 4. Transfer or deposit of funds into another eligible savings account
+4 within sixty (60) days of the withdrawal.
+5 (5) (a) In order for the General Assembly to evaluate the effectiveness of this
+6 section, the department shall submit the following information to the
+7 Legislative Research Commission and the Interim Joint Committee on
+8 Appropriations and Revenue on or before November 1, 2027, and on or
+9 before each November 1 thereafter as long as the eligible savings account
+10 tax deduction and the exclusion may be claimed on a return:
+11 1. The location of the taxpayer, by county, as reflected on the return filed
+12 for the taxable year;
+13 2. The amount of eligible savings account contribution deductions
+14 claimed by the taxpayer for the taxable year;
+15 3. The amount of the eligible savings account income exclusions claimed
+16 by the taxpayer for the taxable year;
+17 4. The total cumulative amount of all eligible savings account
+18 contribution deductions claimed for the taxable year;
+19 5. The total cumulative amount of all eligible savings account income
+20 exclusions claimed for the taxable; and
+21 6. Based on ranges of adjusted gross income of no larger than five
+22 thousand dollars ($5,000) for the taxable year, the total amount of tax
+23 deductions claimed and the total number of returns claiming a tax
+24 deduction for each adjusted gross income range; and
+25 7. Based on ranges of adjusted gross income of no larger than five
+26 thousand dollars ($5,000) for the taxable year, the total amount of
+27 exclusions claimed and the total number of returns claiming an
+Page 3 of 13
+XXXX 1/9/2025 4:50 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1196
+1 exclusion of interest for each adjusted gross income range.
+2 (b) The information required to be reported under this section shall not be
+3 considered confidential taxpayer information and shall not be subject to
+4 KRS Chapter 131 or any other provisions of the Kentucky Revised Statutes
+5 prohibiting disclosure or reporting of information.
+6 Section 2. KRS 141.019 is amended to read as follows:
+7 In the case of taxpayers other than corporations:
+8 (1) Adjusted gross income shall be calculated by subtracting from the gross income of
+9 those taxpayers the deductions allowed individuals by Section 62 of the Internal
+10 Revenue Code and adjusting as follows:
+11 (a) Exclude income that is exempt from state taxation by the Kentucky
+12 Constitution and the Constitution and statutory laws of the United States;
+13 (b) Exclude income from supplemental annuities provided by the Railroad
+14 Retirement Act of 1937 as amended and which are subject to federal income
+15 tax by Pub. L. No. 89-699;
+16 (c) Include interest income derived from obligations of sister states and political
+17 subdivisions thereof;
+18 (d) Exclude employee pension contributions picked up as provided for in KRS
+19 6.505, 16.545, 21.360, 61.523, 61.560, 65.155, 67A.320, 67A.510, 78.610,
+20 and 161.540 upon a ruling by the Internal Revenue Service or the federal
+21 courts that these contributions shall not be included as gross income until such
+22 time as the contributions are distributed or made available to the employee;
+23 (e) Exclude Social Security and railroad retirement benefits subject to federal
+24 income tax;
+25 (f) Exclude any money received because of a settlement or judgment in a lawsuit
+26 brought against a manufacturer or distributor of "Agent Orange" for damages
+27 resulting from exposure to Agent Orange by a member or veteran of the
+Page 4 of 13
+XXXX 1/9/2025 4:50 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1196
+1 Armed Forces of the United States or any dependent of such person who
+2 served in Vietnam;
+3 (g) 1. a. For taxable years beginning after December 31, 2005, but before
+4 January 1, 2018, exclude up to forty-one thousand one hundred ten
+5 dollars ($41,110) of total distributions from pension plans, annuity
+6 contracts, profit-sharing plans, retirement plans, or employee
+7 savings plans; and
+8 b. For taxable years beginning on or after January 1, 2018, exclude
+9 up to thirty-one thousand one hundred ten dollars ($31,110) of
+10 total distributions from pension plans, annuity contracts, profit-
+11 sharing plans, retirement plans, or employee savings plans.
+12 2. As used in this paragraph:
+13 a. "Annuity contract" has the same meaning as set forth in Section
+14 1035 of the Internal Revenue Code;
+15 b. "Distributions" includes but is not limited to any lump-sum
+16 distribution from pension or profit-sharing plans qualifying for the
+17 income tax averaging provisions of Section 402 of the Internal
+18 Revenue Code; any distribution from an individual retirement
+19 account as defined in Section 408 of the Internal Revenue Code;
+20 and any disability pension distribution; and
+21 c. "Pension plans, profit-sharing plans, retirement plans, or employee
+22 savings plans" means any trust or other entity created or organized
+23 under a written retirement plan and forming part of a stock bonus,
+24 pension, or profit-sharing plan of a public or private employer for
+25 the exclusive benefit of employees or their beneficiaries and
+26 includes plans qualified or unqualified under Section 401 of the
+27 Internal Revenue Code and individual retirement accounts as
+Page 5 of 13
+XXXX 1/9/2025 4:50 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1196
+1 defined in Section 408 of the Internal Revenue Code;
+2 (h) 1. a. Exclude the portion of the distributive share of a shareholder's net
+3 income from an S corporation subject to the franchise tax imposed
+4 under KRS 136.505 or the capital stock tax imposed under KRS
+5 136.300; and
+6 b. Exclude the portion of the distributive share of a shareholder's net
+7 income from an S corporation related to a qualified subchapter S
+8 subsidiary subject to the franchise tax imposed under KRS
+9 136.505 or the capital stock tax imposed under KRS 136.300.
+10 2. The shareholder's basis of stock held in an S corporation where the S
+11 corporation or its qualified subchapter S subsidiary is subject to the
+12 franchise tax imposed under KRS 136.505 or the capital stock tax
+13 imposed under KRS 136.300 shall be the same as the basis for federal
+14 income tax purposes;
+15 (i) Exclude income received for services performed as a precinct worker for
+16 election training or for working at election booths in state, county, and local
+17 primaries or regular or special elections;
+18 (j) Exclude any capital gains income attributable to property taken by eminent
+19 domain;
+20 (k) 1. Exclude all income from all sources for members of the Armed Forces
+21 who are on active duty and who are killed in the line of duty, for the
+22 year during which the death occurred and the year prior to the year
+23 during which the death occurred.
+24 2. For the purposes of this paragraph, "all income from all sources" shall
+25 include all federal and state death benefits payable to the estate or any
+26 beneficiaries;
+27 (l) Exclude all military pay received by members of the Armed Forces while on
+Page 6 of 13
+XXXX 1/9/2025 4:50 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1196
+1 active duty;
+2 (m) 1. Include the amount deducted for depreciation under 26 U.S.C. sec. 167
+3 or 168; and
+4 2. Exclude the amounts allowed by KRS 141.0101 for depreciation;
+5 (n) Include the amount deducted under 26 U.S.C. sec. 199A;
+6 (o) Ignore any change in the cost basis of the surviving spouse's share of property
+7 owned by a Kentucky community property trust occurring for federal income
+8 tax purposes as a result of the death of the predeceasing spouse;
+9 (p) Allow the same treatment allowed under Pub. L. No. 116-260, secs. 276 and
+10 278, related to the tax treatment of forgiven covered loans, deductions
+11 attributable to those loans, and tax attributes associated with those loans for
+12 taxable years ending on or after March 27, 2020, but before January 1, 2022;[
+13 and]
+14 (q) For taxable years beginning on or after January 1, 2020, but before March 11,
+15 2023, allow the same treatment of restaurant revitalization grants in
+16 accordance with Pub. L. No. 117-2, sec. 9673 and 15 U.S.C. sec. 9009c,
+17 related to the tax treatment of the grants, deductions attributable to those
+18 grants, and tax attributes associated with those grants;[ and]
+19 (r) For taxable years beginning on or after January 1, 2026, but before
+20 January 1, 2036, exclude amounts contributed to an eligible savings
+21 account for use by a first-time home buyer in accordance with Section 1 of
+22 this Act; and
+23 (s) For taxable years beginning on or after January 1, 2026, but before
+24 January 1, 2036, exclude interest income received from an eligible savings
+25 account for use by a first-time home buyer in accordance with Section 1 of
+26 this Act; and
+27 (2) Net income shall be calculated by subtracting from adjusted gross income all the
+Page 7 of 13
+XXXX 1/9/2025 4:50 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1196
+1 deductions allowed individuals by Chapter 1 of the Internal Revenue Code, as
+2 modified by KRS 141.0101, except:
+3 (a) Any deduction allowed by 26 U.S.C. sec. 164 for taxes;
+4 (b) Any deduction allowed by 26 U.S.C. sec. 165 for losses, except wagering
+5 losses allowed under Section 165(d) of the Internal Revenue Code;
+6 (c) Any deduction allowed by 26 U.S.C. sec. 213 for medical care expenses;
+7 (d) Any deduction allowed by 26 U.S.C. sec. 217 for moving expenses;
+8 (e) Any deduction allowed by 26 U.S.C. sec. 67 for any other miscellaneous
+9 deduction;
+10 (f) Any deduction allowed by the Internal Revenue Code for amounts allowable
+11 under KRS 140.090(1)(h) in calculating the value of the distributive shares of
+12 the estate of a decedent, unless there is filed with the income return a
+13 statement that the deduction has not been claimed under KRS 140.090(1)(h);
+14 (g) Any deduction allowed by 26 U.S.C. sec. 151 for personal exemptions and
+15 any other deductions in lieu thereof;
+16 (h) Any deduction allowed for amounts paid to any club, organization, or
+17 establishment which has been determined by the courts or an agency
+18 established by the General Assembly and charged with enforcing the civil
+19 rights laws of the Commonwealth, not to afford full and equal membership
+20 and full and equal enjoyment of its goods, services, facilities, privileges,
+21 advantages, or accommodations to any person because of race, color, religion,
+22 national origin, or sex, except nothing shall be construed to deny a deduction
+23 for amounts paid to any religious or denominational club, group, or
+24 establishment or any organization operated solely for charitable or educational
+25 purposes which restricts membership to persons of the same religion or
+26 denomination in order to promote the religious principles for which it is
+27 established and maintained; and
+Page 8 of 13
+XXXX 1/9/2025 4:50 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1196
+1 (i) A taxpayer may elect to claim the standard deduction allowed by KRS
+2 141.081 instead of itemized deductions allowed pursuant to 26 U.S.C. sec. 63
+3 and as modified by this section.
+4 Section 3. KRS 131.190 is amended to read as follows:
+5 (1) No present or former commissioner or employee of the department, present or
+6 former member of a county board of assessment appeals, present or former property
+7 valuation administrator or employee, present or former secretary or employee of the
+8 Finance and Administration Cabinet, former secretary or employee of the Revenue
+9 Cabinet, or any other person, shall intentionally and without authorization inspect
+10 or divulge any information acquired by him or her of the affairs of any person, or
+11 information regarding the tax schedules, returns, or reports required to be filed with
+12 the department or other proper officer, or any information produced by a hearing or
+13 investigation, insofar as the information may have to do with the affairs of the
+14 person's business.
+15 (2) The prohibition established by subsection (1) of this section shall not extend to:
+16 (a) Information required in prosecutions for making false reports or returns of
+17 property for taxation, or any other infraction of the tax laws;
+18 (b) Any matter properly entered upon any assessment record, or in any way made
+19 a matter of public record;
+20 (c) Furnishing any taxpayer or his or her properly authorized agent with
+21 information respecting his or her own return;
+22 (d) Testimony provided by the commissioner or any employee of the department
+23 in any court, or the introduction as evidence of returns or reports filed with the
+24 department, in an action for violation of state or federal tax laws or in any
+25 action challenging state or federal tax laws;
+26 (e) Providing an owner of unmined coal, oil or gas reserves, and other mineral or
+27 energy resources assessed under KRS 132.820, or owners of surface land
+Page 9 of 13
+XXXX 1/9/2025 4:50 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1196
+1 under which the unmined minerals lie, factual information about the owner's
+2 property derived from third-party returns filed for that owner's property, under
+3 the provisions of KRS 132.820, that is used to determine the owner's
+4 assessment. This information shall be provided to the owner on a confidential
+5 basis, and the owner shall be subject to the penalties provided in KRS
+6 131.990(2). The third-party filer shall be given prior notice of any disclosure
+7 of information to the owner that was provided by the third-party filer;
+8 (f) Providing to a third-party purchaser pursuant to an order entered in a
+9 foreclosure action filed in a court of competent jurisdiction, factual
+10 information related to the owner or lessee of coal, oil, gas reserves, or any
+11 other mineral resources assessed under KRS 132.820. The department may
+12 promulgate an administrative regulation establishing a fee schedule for the
+13 provision of the information described in this paragraph. Any fee imposed
+14 shall not exceed the greater of the actual cost of providing the information or
+15 ten dollars ($10);
+16 (g) Providing information to a licensing agency, the Transportation Cabinet, or
+17 the Kentucky Supreme Court under KRS 131.1817;
+18 (h) Statistics of gasoline and special fuels gallonage reported to the department
+19 under KRS 138.210 to 138.448;
+20 (i) Providing any utility gross receipts license tax return information that is
+21 necessary to administer the provisions of KRS 160.613 to 160.617 to
+22 applicable school districts on a confidential basis;
+23 (j) Providing documents, data, or other information to a third party pursuant to an
+24 order issued by a court of competent jurisdiction;
+25 (k) Publishing administrative writings on its official website in accordance with
+26 KRS 131.020(1)(b); or
+27 (l) Providing information to the Legislative Research Commission under:
+Page 10 of 13
+XXXX 1/9/2025 4:50 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1196
+1 1. KRS 139.519 for purposes of the sales and use tax refund on building
+2 materials used for disaster recovery;
+3 2. KRS 141.436 for purposes of the energy efficiency products credits;
+4 3. KRS 141.437 for purposes of the ENERGY STAR home and the
+5 ENERGY STAR manufactured home credits;
+6 4. KRS 141.383 for purposes of the film industry incentives;
+7 5. KRS 154.26-095 for purposes of the Kentucky industrial revitalization
+8 credit[tax credits] and the job assessment fees;
+9 6. KRS 141.068 for purposes of the Kentucky investment fund;
+10 7. KRS 141.396 for purposes of the angel investor [tax ]credit;
+11 8. KRS 141.389 for purposes of the distilled spirits credit;
+12 9. KRS 141.408 for purposes of the inventory credit;
+13 10. KRS 141.390 for purposes of the recycling and composting
+14 credits[credit];
+15 11. KRS 141.3841 for purposes of the selling farmer [tax ]credit;
+16 12. KRS 141.4231 for purposes of the renewable chemical production [tax
+17 ]credit;
+18 13. KRS 141.524 for purposes of the Education Opportunity Account
+19 Program [tax ]credit;
+20 14. KRS 141.398 for purposes of the development area [tax ]credit;
+21 15. KRS 139.516 for [the ]purposes of the sales and use tax exemptions
+22 for[exemption on] the commercial mining of cryptocurrency;
+23 16. KRS 141.419 for purposes of the decontamination [tax ]credit;
+24 17. KRS 141.391 for purposes of the qualified broadband investment [tax
+25 ]credit;[ and]
+26 18. KRS 139.499 for purposes of the sales and use tax
+27 exemptions[exemption] for a qualified data center project; and
+Page 11 of 13
+XXXX 1/9/2025 4:50 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1196
+1 19. Section 1 of this Act for purposes of the deduction for contributions
+2 made to an eligible savings account and the exclusion of interest
+3 earned therefrom.
+4 (3) The commissioner shall make available any information for official use only and on
+5 a confidential basis to the proper officer, agency, board or commission of this state,
+6 any Kentucky county, any Kentucky city, any other state, or the federal
+7 government, under reciprocal agreements whereby the department shall receive
+8 similar or useful information in return.
+9 (4) Access to and inspection of information received from the Internal Revenue Service
+10 is for department use only, and is restricted to tax administration purposes.
+11 Information received from the Internal Revenue Service shall not be made available
+12 to any other agency of state government, or any county, city, or other state, and
+13 shall not be inspected intentionally and without authorization by any present
+14 secretary or employee of the Finance and Administration Cabinet, commissioner or
+15 employee of the department, or any other person.
+16 (5) Statistics of crude oil as reported to the department under the crude oil excise tax
+17 requirements of KRS Chapter 137 and statistics of natural gas production as
+18 reported to the department under the natural resources severance tax requirements
+19 of KRS Chapter 143A may be made public by the department by release to the
+20 Energy and Environment Cabinet, Department for Natural Resources.
+21 (6) Notwithstanding any provision of law to the contrary, beginning with mine-map
+22 submissions for the 1989 tax year, the department may make public or divulge only
+23 those portions of mine maps submitted by taxpayers to the department pursuant to
+24 KRS Chapter 132 for ad valorem tax purposes that depict the boundaries of mined-
+25 out parcel areas. These electronic maps shall not be relied upon to determine actual
+26 boundaries of mined-out parcel areas. Property boundaries contained in mine maps
+27 required under KRS Chapters 350 and 352 shall not be construed to constitute land
+Page 12 of 13
+XXXX 1/9/2025 4:50 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1196
+1 surveying or boundary surveys as defined by KRS 322.010 and any administrative
+2 regulations promulgated thereto.
+Page 13 of 13
+XXXX 1/9/2025 4:50 PM Jacketed
+
+[DELETED:   2  J A B S R ( A ( " t c ( " a a t ( " i m a f i a d i K 2 ( " h b m a i p o h t i h ( s ( " s o ( ( F t y b o o a J 1 2 b b J e a ( D]
+[DELETED:   2  J t 1 F t d ( f s i o t f 2 T t d ( f m i f s ( T o ( T s ( F o ( ( T v 1 T 2 T 3 T f w w f a e s a f e ( I a f h b w a u f f a e s a f s o t e c r o t d r ( N f 1 D 2 E r 3 D o a a u a b p i]
+[DELETED:   2  J a 1 4 T o d o f i a e s a w ( ( I o f t G A t e t e o t s t d s s t f i t t L R C a t I J C o A a R o o b N 1 2 a o o b t 1 T f 2 T a o e s a c d c 3 T b 4 T t c a o a e s a c 5 T t c a o e s a i e 6 B o r o a g i o n l t f t d c a t t n o r c a t d 7 B o r o a g i o n l t f t d ( f t t y t t a o e c a t t n o r c a]
+[DELETED:   2  J e ( T i r t b r u t s s n b c c t i a s n b s t K p S I ( A t R ( E i t i e f s t b t K C ( E i f s a p b t R R t ( I s ( E 6 1 2 6 6 6 6 6 7 a 1 u a r b t I R S o t f c t ( E S S a r r b s t f i ( E b r f e t A O b a m o v o t]
+[DELETED:   2  J A F o t U S o a d o s p w s ( 1 a F J d c p p r p o e s b F u t t t o h t d ( o t d f p p a c p s 2 A a " 1 b " i b i n l t a l d i t a p o S 4 o t I R C a d f a i r a a c " s u p t e b o e o t b a i I R C a i r a a]
+[DELETED:   2  J d ( 1 a E i u 1 b E i s s t t f t i u K 1 2 T c o i q s S s i s t t f t i u K 1 o t c s t i i ( E i r f s p a a p w f e p ( E d ( 1 E w y d w t d o a t y p t t y d 2 F i b ( E]
+[DELETED:   2  J a ( 1 I o 2 E ( I ( I o t ( A 2 r t t t t o f c l d a t a ( F 2 a t s t o r r g i a w P L N 1 s 9 a 1 U s 9 r t t t t o t g d a t t g ( F t y b o o a J 1 2 b b J 1 2 e a c t a e s a t ( F t y b o o a J 1 2 b b J a t ( N]
+[DELETED:   2  J d a i b C 1 o t I R C a m ( A ( A d a b 2 U s 1 f l e w l ( A ( A ( A d a b 2 U s 6 f a o m d ( A u t e o a d u t i f w t i r a s ( A a ( A d a f a p t a c o o e w h b d b t c o a a e b t G A a c w e t c r a f a e e o i g s f p a n f a p t a r o d c g o e p w r m t p o t s r o d i o t p t r p f w i i e]
+[DELETED:   2  J ( A t m e t c t s d a b K 1 a S ( N p o f c o e o t d p o f v F C o i t i i a t i m h t d w t a o t p ( T ( I r i p f m f r o o p ( A a ( F a t o h o h p a a w i ( T i d a ( P e r a u K 1 o o o s l]
+[DELETED:   2  J u p t p o K 1 t i u t d t o a b a t o s b s t t p p i K 1 o ( P t a t p p t a o e i a f a f i a c o c j f i o a m p a a r e a f s f t p o t i d i t p A f i s t ( P t ( S u ( P a u g r l t r i t i n t a t p o K 1 t 1 t a ( P o ( P K ( P]
+[DELETED:   2  J 1 K m 2 K 3 K 1 f p o t E S h a t E 4 K 5 K c 6 K 7 K 8 K 9 K 1 K 1 f p o t r a c c 1 K 1 K ] 1 K 1 f p o t E O A P 1 K 1 K 1 f [ ] o t s a u t e f 1 K 1 K ] 1 K 1 f p o t s a u t e]
+[DELETED:   2  J 1 S m t a e s a a t e o i e ( T a a K c a K c a o s o t f g u r a w t d s r s ( A i f d u o a i r t t a p I t s n b i i a w a b a p s e ( S r o K C 1 a s o n g p a r o E ( N c m s t K o b r]
+[DELETED:   2  J s r]

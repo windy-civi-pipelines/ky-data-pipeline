@@ -1,0 +1,323 @@
+Title: 1 AN ACT relating to business corporations.
+Official Title: 1 AN ACT relating to business corporations.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS BR 1286
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 271B.8-300 is amended to read as follows:
+4 (1) A director shall discharge his or her duties as a director, including his or her duties
+5 as a member of a committee:
+6 (a) In good faith;
+7 (b) On an informed basis; and
+8 (c) In a manner he or she honestly believes to be in the best interests of the
+9 corporation.
+10 (2) A director shall be considered to discharge his or her duties on an informed basis if
+11 he or she makes, with the care an ordinarily prudent person in a like position would
+12 exercise under similar circumstances, inquiry into the business and affairs of the
+13 corporation, or into a particular action to be taken or decision to be made.
+14 (3) In discharging his or her duties a director shall be entitled to rely on information,
+15 opinions, reports, or statements, including financial statements and other financial
+16 data, if prepared or presented by:
+17 (a) One (1) or more officers or employees of the corporation whom the director
+18 honestly believes to be reliable and competent in the matters presented;
+19 (b) Legal counsel, public accountants, or other persons as to matters the director
+20 honestly believes are within the person's professional or expert competence;
+21 or
+22 (c) A committee of the board of directors of which he or she is not a member, if
+23 the director honestly believes the committee merits confidence.
+24 (4) A director shall not be considered to be acting in good faith if he or she:
+25 (a) Has knowledge concerning the matter in question that makes reliance
+26 otherwise permitted by subsection (3) of this section unwarranted; or
+27 (b) Takes any action to implement or maintain diversity, equity, and inclusion
+Page 1 of 5
+XXXX 2/6/2025 10:52 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1286
+1 initiatives or environmental, social, and governance investing.
+2 (5) In addition to any other limitation on a director's liability for monetary damages
+3 contained in any provision of the corporation's articles of incorporation adopted in
+4 accordance with subsection (2)(d) of KRS 271B.2-020, any action taken as a
+5 director, or any failure to take any action as a director, shall not be the basis for
+6 monetary damages or injunctive relief unless:
+7 (a) The director has breached or failed to perform the duties of the director's
+8 office in compliance with this section; and
+9 (b) In the case of an action for monetary damages, the breach or failure to
+10 perform constitutes willful misconduct or wanton or reckless disregard for the
+11 best interests of the corporation and its shareholders.
+12 (6) Subsection (5) of this section shall not apply to any action taken as a director, or
+13 any failure to take any action as a director, regarding the implementation or
+14 maintenance of diversity, equity, and inclusion initiatives or environmental,
+15 social, and governance investing.
+16 (7)[(6)] A person bringing an action for monetary damages under this section shall
+17 have the burden of proving by clear and convincing evidence the provisions of
+18 subsection (5)(a) and (b) of this section, and the burden of proving that the breach
+19 or failure to perform was the legal cause of damages suffered by the corporation.
+20 (8)[(7)] Nothing in this section shall eliminate or limit the liability of any director for
+21 any act or omission occurring prior to July 15, 1988.
+22 (9) In an action brought in the right of a domestic corporation under Section 2 of
+23 this Act, neither the business judgment rule nor any other provision of this
+24 chapter shall operate as an affirmative defense where the damages alleged to
+25 have been suffered by the corporation are the result of diversity, equity, and
+26 inclusion initiatives or environmental, social, and governance investing.
+27 (10) As used in this section:
+Page 2 of 5
+XXXX 2/6/2025 10:52 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1286
+1 (a) "Diversity, equity, and inclusion initiatives" means:
+2 1. Policies, practices, or procedures designed or implemented to promote
+3 or provide differential treatment or benefits to individuals on the basis
+4 of religion, race, sex, color, or national origin, including but not
+5 limited to any such policy, practice, or procedure related to
+6 employment, employee recruitment, employee hiring, employee
+7 promotion, contracts, or contract renewal; and
+8 2. Does not include any policy, practice, procedure, office, employee,
+9 training, program, or activity that is required pursuant to state or
+10 federal antidiscrimination laws, or differential treatment or benefits
+11 necessary to provide medical treatment; and
+12 (b) "Environmental, social, and governance investing" means an investment
+13 strategy that emphasizes a firm's governance structure or the environmental
+14 or social impacts of the firm's products or practices, including but not
+15 limited to using a set of standards to screen potential investments based
+16 upon the perceived impact to the environment and the social relationships
+17 between a firm's employees and the community.
+18 (11)[(8)] In a public benefit corporation:
+19 (a) The board of directors shall manage or direct the business and affairs of the
+20 public benefit corporation in a manner that balances the pecuniary interests of
+21 the stockholders, the best interests of those materially affected by the
+22 corporation's conduct, and the specific public benefit or public benefits
+23 identified in its articles of incorporation;
+24 (b) A director of the public benefit corporation shall not, by virtue of the public
+25 benefit provisions set forth in the corporation's articles of incorporation, have
+26 any duty to any person on account of any interest of the person in the public
+27 benefit or public benefits identified in the articles of incorporation or on
+Page 3 of 5
+XXXX 2/6/2025 10:52 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1286
+1 account of any interest materially affected by the corporation's conduct;
+2 (c) With respect to a decision implicating the balance requirement in paragraph
+3 (a) of this subsection, a director shall act in conformity with subsection (1) of
+4 this section; and
+5 (d) The articles of incorporation of a public benefit corporation may include a
+6 provision that any disinterested failure to satisfy this subsection shall not
+7 constitute an act or omission not in good faith or a breach of the duty of
+8 loyalty.
+9 Section 2. KRS 271B.7-400 is amended to read as follows:
+10 (1) A person shall not commence a proceeding in the right of a domestic or foreign
+11 corporation unless he or she was a shareholder of the corporation when the
+12 transaction complained of occurred or unless he or she became a shareholder
+13 through transfer by operation of law from one who was a shareholder at that time.
+14 The derivative proceeding shall not be maintained if it appears that the person
+15 commencing the proceeding does not fairly and adequately represent the interests of
+16 the shareholders in enforcing the right of the corporation.
+17 (2) A complaint in a proceeding brought in the right of a corporation shall be verified
+18 and allege with particularity the demand made, if any, to obtain action by the board
+19 of directors and either that the demand was refused or ignored or why he or she did
+20 not make the demand. Whether or not a demand for action was made, if the
+21 corporation commences an investigation of the charges made in the demand or
+22 complaint, the court may stay any proceeding until the investigation is completed.
+23 (3) A proceeding commenced under this section may not be discontinued or settled
+24 without the court's approval. If the court determines that a proposed discontinuance
+25 or settlement will substantially affect the interest of the corporation's shareholders
+26 or a class of shareholders, the court shall direct that notice be given the shareholders
+27 affected.
+Page 4 of 5
+XXXX 2/6/2025 10:52 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1286
+1 (4) On termination of the proceeding the court may require the plaintiff to pay any
+2 defendant's reasonable expenses, including counsel fees, incurred in defending the
+3 proceeding if it finds that the proceeding was commenced without reasonable cause.
+4 (5) The court shall award a plaintiff who prevails in a proceeding brought in the
+5 right of a domestic corporation reasonable attorney's fees, costs, and expert
+6 witness fees and expenses, and may award compensatory and punitive damages,
+7 if the damages suffered by the corporation were the result of diversity, equity, and
+8 inclusion initiatives or environmental, social, and governance investing, as those
+9 terms are defined in Section 1 of this Act.
+10 (6)[(5)] For purposes of this section, "shareholder" includes a beneficial owner whose
+11 shares are held in a voting trust or held by a nominee on his behalf.
+12 (7)[(6)] In any derivative proceedings in the right of a foreign corporation, the matters
+13 covered by this section shall be governed by the laws of the jurisdiction of
+14 incorporation.
+15 (8)[(7)] The articles of incorporation of the corporation may provide that proper venue
+16 for a derivative action or an action to compel the production of books and records is
+17 in or only is in the appropriate court.
+18 (9)[(8)] Shareholders of a public benefit corporation owning individually or
+19 collectively, as of the date of instituting a derivative proceeding, at least two
+20 percent (2%) of the corporation's outstanding shares or, in the case of a corporation
+21 with shares listed on a national securities exchange, the lesser of that percentage or
+22 shares of at least two million dollars ($2,000,000) in market value, may maintain a
+23 derivative proceeding to enforce the requirements[ set forth] in KRS 271B.8-
+24 300(11)[(8)].
+Page 5 of 5
+XXXX 2/6/2025 10:52 AM Jacketed
+[DELETED:   2  J A B S ( A a ( I ( O ( I a m h o s h b t b i t b i o t c ( A h e c ( I o d ( O h ( L h o ( A t ( A ( H k c t m i q t m r o ( T]
+[DELETED:   2  J i ( I c a w s ( o K 2 a a t a a d m ( T d h b o f t p t d o t d o ( I t c o a a f m d t b o f t p b ( S a f t t a a a a d r t i o m o d e a i i o e s ( A h t b o p b c a c e t p o s o ( N a ( I t A n t b j r n a o p o t c s o a a a d w t d a t h b s b t c a t r o d e a i ( A]
+[DELETED:   2  J ( " 1 P o o r r s c o n o i b n l t a s p p o p r t e e r e h e p 2 D n i a p p p o e t p o a t i r p t s o f a l o d t o b n ( " s a g i m a i s o s i o t f p o p i b n l t u a s o s t s p i b u b ( I ( T p t s t b i o t m a b t c c a t s p b o p b i ( A b a b o p b i i t a o i o o]
+[DELETED:   2  J a ( W ( t ( T p t a d f t s t s s n c a a o o n i g f o a b o t d o l S ( A c u h o s w a s o t c w t t c o o o u h o s b a s t T d p s n b m i i a t t p c t ( A a o n m t d W o n a d f a w m i t c c a i o t c m i t d o c ( A p c u s m n b d o w o o a]
+[DELETED:   2  J ( O t o p t c m r t p t p a d p ( T r o a d c r a f c a e w i i t ( F s ( I c b t s s b g b t l o t j o i ( T f i ( S o a p b c o i o c a o t d o i a d p a l t p w s d p t e t r s f i K 2 3]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS BR 1286
+1 AN ACT relating to business corporations.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 271B.8-300 is amended to read as follows:
+4 (1) A director shall discharge his or her duties as a director, including his or her duties
+5 as a member of a committee:
+6 (a) In good faith;
+7 (b) On an informed basis; and
+8 (c) In a manner he or she honestly believes to be in the best interests of the
+9 corporation.
+10 (2) A director shall be considered to discharge his or her duties on an informed basis if
+11 he or she makes, with the care an ordinarily prudent person in a like position would
+12 exercise under similar circumstances, inquiry into the business and affairs of the
+13 corporation, or into a particular action to be taken or decision to be made.
+14 (3) In discharging his or her duties a director shall be entitled to rely on information,
+15 opinions, reports, or statements, including financial statements and other financial
+16 data, if prepared or presented by:
+17 (a) One (1) or more officers or employees of the corporation whom the director
+18 honestly believes to be reliable and competent in the matters presented;
+19 (b) Legal counsel, public accountants, or other persons as to matters the director
+20 honestly believes are within the person's professional or expert competence;
+21 or
+22 (c) A committee of the board of directors of which he or she is not a member, if
+23 the director honestly believes the committee merits confidence.
+24 (4) A director shall not be considered to be acting in good faith if he or she:
+25 (a) Has knowledge concerning the matter in question that makes reliance
+26 otherwise permitted by subsection (3) of this section unwarranted; or
+27 (b) Takes any action to implement or maintain diversity, equity, and inclusion
+Page 1 of 5
+XXXX 2/6/2025 10:52 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1286
+1 initiatives or environmental, social, and governance investing.
+2 (5) In addition to any other limitation on a director's liability for monetary damages
+3 contained in any provision of the corporation's articles of incorporation adopted in
+4 accordance with subsection (2)(d) of KRS 271B.2-020, any action taken as a
+5 director, or any failure to take any action as a director, shall not be the basis for
+6 monetary damages or injunctive relief unless:
+7 (a) The director has breached or failed to perform the duties of the director's
+8 office in compliance with this section; and
+9 (b) In the case of an action for monetary damages, the breach or failure to
+10 perform constitutes willful misconduct or wanton or reckless disregard for the
+11 best interests of the corporation and its shareholders.
+12 (6) Subsection (5) of this section shall not apply to any action taken as a director, or
+13 any failure to take any action as a director, regarding the implementation or
+14 maintenance of diversity, equity, and inclusion initiatives or environmental,
+15 social, and governance investing.
+16 (7)[(6)] A person bringing an action for monetary damages under this section shall
+17 have the burden of proving by clear and convincing evidence the provisions of
+18 subsection (5)(a) and (b) of this section, and the burden of proving that the breach
+19 or failure to perform was the legal cause of damages suffered by the corporation.
+20 (8)[(7)] Nothing in this section shall eliminate or limit the liability of any director for
+21 any act or omission occurring prior to July 15, 1988.
+22 (9) In an action brought in the right of a domestic corporation under Section 2 of
+23 this Act, neither the business judgment rule nor any other provision of this
+24 chapter shall operate as an affirmative defense where the damages alleged to
+25 have been suffered by the corporation are the result of diversity, equity, and
+26 inclusion initiatives or environmental, social, and governance investing.
+27 (10) As used in this section:
+Page 2 of 5
+XXXX 2/6/2025 10:52 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1286
+1 (a) "Diversity, equity, and inclusion initiatives" means:
+2 1. Policies, practices, or procedures designed or implemented to promote
+3 or provide differential treatment or benefits to individuals on the basis
+4 of religion, race, sex, color, or national origin, including but not
+5 limited to any such policy, practice, or procedure related to
+6 employment, employee recruitment, employee hiring, employee
+7 promotion, contracts, or contract renewal; and
+8 2. Does not include any policy, practice, procedure, office, employee,
+9 training, program, or activity that is required pursuant to state or
+10 federal antidiscrimination laws, or differential treatment or benefits
+11 necessary to provide medical treatment; and
+12 (b) "Environmental, social, and governance investing" means an investment
+13 strategy that emphasizes a firm's governance structure or the environmental
+14 or social impacts of the firm's products or practices, including but not
+15 limited to using a set of standards to screen potential investments based
+16 upon the perceived impact to the environment and the social relationships
+17 between a firm's employees and the community.
+18 (11)[(8)] In a public benefit corporation:
+19 (a) The board of directors shall manage or direct the business and affairs of the
+20 public benefit corporation in a manner that balances the pecuniary interests of
+21 the stockholders, the best interests of those materially affected by the
+22 corporation's conduct, and the specific public benefit or public benefits
+23 identified in its articles of incorporation;
+24 (b) A director of the public benefit corporation shall not, by virtue of the public
+25 benefit provisions set forth in the corporation's articles of incorporation, have
+26 any duty to any person on account of any interest of the person in the public
+27 benefit or public benefits identified in the articles of incorporation or on
+Page 3 of 5
+XXXX 2/6/2025 10:52 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1286
+1 account of any interest materially affected by the corporation's conduct;
+2 (c) With respect to a decision implicating the balance requirement in paragraph
+3 (a) of this subsection, a director shall act in conformity with subsection (1) of
+4 this section; and
+5 (d) The articles of incorporation of a public benefit corporation may include a
+6 provision that any disinterested failure to satisfy this subsection shall not
+7 constitute an act or omission not in good faith or a breach of the duty of
+8 loyalty.
+9 Section 2. KRS 271B.7-400 is amended to read as follows:
+10 (1) A person shall not commence a proceeding in the right of a domestic or foreign
+11 corporation unless he or she was a shareholder of the corporation when the
+12 transaction complained of occurred or unless he or she became a shareholder
+13 through transfer by operation of law from one who was a shareholder at that time.
+14 The derivative proceeding shall not be maintained if it appears that the person
+15 commencing the proceeding does not fairly and adequately represent the interests of
+16 the shareholders in enforcing the right of the corporation.
+17 (2) A complaint in a proceeding brought in the right of a corporation shall be verified
+18 and allege with particularity the demand made, if any, to obtain action by the board
+19 of directors and either that the demand was refused or ignored or why he or she did
+20 not make the demand. Whether or not a demand for action was made, if the
+21 corporation commences an investigation of the charges made in the demand or
+22 complaint, the court may stay any proceeding until the investigation is completed.
+23 (3) A proceeding commenced under this section may not be discontinued or settled
+24 without the court's approval. If the court determines that a proposed discontinuance
+25 or settlement will substantially affect the interest of the corporation's shareholders
+26 or a class of shareholders, the court shall direct that notice be given the shareholders
+27 affected.
+Page 4 of 5
+XXXX 2/6/2025 10:52 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1286
+1 (4) On termination of the proceeding the court may require the plaintiff to pay any
+2 defendant's reasonable expenses, including counsel fees, incurred in defending the
+3 proceeding if it finds that the proceeding was commenced without reasonable cause.
+4 (5) The court shall award a plaintiff who prevails in a proceeding brought in the
+5 right of a domestic corporation reasonable attorney's fees, costs, and expert
+6 witness fees and expenses, and may award compensatory and punitive damages,
+7 if the damages suffered by the corporation were the result of diversity, equity, and
+8 inclusion initiatives or environmental, social, and governance investing, as those
+9 terms are defined in Section 1 of this Act.
+10 (6)[(5)] For purposes of this section, "shareholder" includes a beneficial owner whose
+11 shares are held in a voting trust or held by a nominee on his behalf.
+12 (7)[(6)] In any derivative proceedings in the right of a foreign corporation, the matters
+13 covered by this section shall be governed by the laws of the jurisdiction of
+14 incorporation.
+15 (8)[(7)] The articles of incorporation of the corporation may provide that proper venue
+16 for a derivative action or an action to compel the production of books and records is
+17 in or only is in the appropriate court.
+18 (9)[(8)] Shareholders of a public benefit corporation owning individually or
+19 collectively, as of the date of instituting a derivative proceeding, at least two
+20 percent (2%) of the corporation's outstanding shares or, in the case of a corporation
+21 with shares listed on a national securities exchange, the lesser of that percentage or
+22 shares of at least two million dollars ($2,000,000) in market value, may maintain a
+23 derivative proceeding to enforce the requirements[ set forth] in KRS 271B.8-
+24 300(11)[(8)].
+Page 5 of 5
+XXXX 2/6/2025 10:52 AM Jacketed
+
+[DELETED:   2  J A B S ( A a ( I ( O ( I a m h o s h b t b i t b i o t c ( A h e c ( I o d ( O h ( L h o ( A t ( A ( H k c t m i q t m r o ( T]
+[DELETED:   2  J i ( I c a w s ( o K 2 a a t a a d m ( T d h b o f t p t d o t d o ( I t c o a a f m d t b o f t p b ( S a f t t a a a a d r t i o m o d e a i i o e s ( A h t b o p b c a c e t p o s o ( N a ( I t A n t b j r n a o p o t c s o a a a d w t d a t h b s b t c a t r o d e a i ( A]
+[DELETED:   2  J ( " 1 P o o r r s c o n o i b n l t a s p p o p r t e e r e h e p 2 D n i a p p p o e t p o a t i r p t s o f a l o d t o b n ( " s a g i m a i s o s i o t f p o p i b n l t u a s o s t s p i b u b ( I ( T p t s t b i o t m a b t c c a t s p b o p b i ( A b a b o p b i i t a o i o o]
+[DELETED:   2  J a ( W ( t ( T p t a d f t s t s s n c a a o o n i g f o a b o t d o l S ( A c u h o s w a s o t c w t t c o o o u h o s b a s t T d p s n b m i i a t t p c t ( A a o n m t d W o n a d f a w m i t c c a i o t c m i t d o c ( A p c u s m n b d o w o o a]
+[DELETED:   2  J ( O t o p t c m r t p t p a d p ( T r o a d c r a f c a e w i i t ( F s ( I c b t s s b g b t l o t j o i ( T f i ( S o a p b c o i o c a o t d o i a d p a l t p w s d p t e t r s f i K 2 3]

@@ -1,0 +1,165 @@
+Title: 1 AN ACT relating to theft of services.
+Official Title: 1 AN ACT relating to theft of services.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS BR 1195
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 514.060 is amended to read as follows:
+4 (1) A person is guilty of theft of services when:
+5 (a) The person intentionally obtains services by deception or threat or by false
+6 token or other means to avoid payment for the services which he or she knows
+7 are available only for compensation;
+8 (b) The person intentionally obtains wireless communications services or access
+9 to services by any of the following means:
+10 1. Unauthorized interception of any electronic serial number, mobile
+11 identification number, personal identification number, or like identifying
+12 number;
+13 2. Unauthorized interception of any cellular service or personal
+14 communications service as terms may be defined in 47 C.F.R. parts 22
+15 and 24 respectively;
+16 3. Unauthorized interception of any similar telephone service; or
+17 4. Use of deception, threat, or other means to avoid payment for the
+18 services which the person knows are available only for charge or
+19 compensation;[ or]
+20 (c) Having control over or unauthorized access to the use of the services of others
+21 to which the person is not entitled, the person intentionally diverts the services
+22 to the person's own benefit or the benefit of another not entitled thereto; or
+23 (d) Having control of rental equipment under a written rental agreement, the
+24 person:
+25 1. Intentionally holds the equipment beyond the expiration of the rental
+26 period without the consent of the owner of the equipment;
+27 2. Intentionally deprives the owner of the equipment of its use in further
+Page 1 of 3
+XXXX 1/9/2025 4:05 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1195
+1 rentals;
+2 3. Intentionally refuses to pay or absconds without payment;
+3 4. Fails to respond within five (5) days after receiving notice by certified
+4 mail demanding return; and
+5 5. Refuses to make an agreeable payment to a rental agency within thirty
+6 (30) days of receipt of a late notice to a person sent by certified mail,
+7 return receipt requested.
+8 (2) Where compensation for services is ordinarily paid immediately upon the rendering
+9 of the services, as in the case of hotels and restaurants, refusal to pay or absconding
+10 without payment or offer to pay shall be prima facie evidence that the services were
+11 obtained by deception as to intention to pay.
+12 (3) In any prosecution for theft of gas, water, electricity, or other public service, where
+13 the utility supplying the service had installed a meter or other device to record the
+14 amount of service supplied, proof that:
+15 (a) The meter or other device has been altered, tampered with, or bypassed in a
+16 manner so as to prevent or reduce the recording thereof; or
+17 (b) Service has been, after having been disconnected by the utility supplying
+18 service, reconnected without authorization of the utility
+19 shall be prima facie evidence of the intent to commit theft of service by the person
+20 or persons obligated to pay for service supplied through the meter or other device.
+21 (4) Theft of services is a Class B misdemeanor unless:
+22 (a) The value of the service is five hundred dollars ($500) or more but less than
+23 one thousand dollars ($1,000), in which case it is a Class A misdemeanor;
+24 (b) The value of the service is one thousand dollars ($1,000) or more but less than
+25 ten thousand dollars ($10,000), in which case it is a Class D felony;
+26 (c) A person has three (3) or more convictions under paragraph (a) of this
+27 subsection within the last five (5) years, in which case it is a Class D felony.
+Page 2 of 3
+XXXX 1/9/2025 4:05 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1195
+1 The five (5) year period shall be measured from the dates on which the
+2 offenses occurred for which the judgments of conviction were entered; or
+3 (d) The value of the service is ten thousand dollars ($10,000) or more, in which
+4 case it is a Class C felony.
+5 (5) If any person commits two (2) or more separate offenses of theft of services within
+6 ninety (90) days, the offenses may be combined and treated as a single offense, and
+7 the value of the property in each offense may be aggregated for the purpose of
+8 determining the appropriate charge.
+Page 3 of 3
+XXXX 1/9/2025 4:05 PM Jacketed
+[DELETED:   2  J A B S ( A ( T t a ( T t 1 U i o a e s n m i n 2 U i o a c s o p c a 3 U 4 U o d t o o m t a p f t s w t p k a a o f c o c ( H t t ( H p 1 I p 2 I]
+[DELETED:   2  J r 3 I 4 F m 5 R ( r ( W o w o ( I t a ( T m ( S h b a h b d b t u s s  s o ( T ( T o ( T t ( A p h t ( o m c u p ( o t s]
+[DELETED:   2  J T f ( y p s b m f t d o w t o ( T c ( I n t v o t p i e o m b a f t p o d]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS BR 1195
+1 AN ACT relating to theft of services.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 514.060 is amended to read as follows:
+4 (1) A person is guilty of theft of services when:
+5 (a) The person intentionally obtains services by deception or threat or by false
+6 token or other means to avoid payment for the services which he or she knows
+7 are available only for compensation;
+8 (b) The person intentionally obtains wireless communications services or access
+9 to services by any of the following means:
+10 1. Unauthorized interception of any electronic serial number, mobile
+11 identification number, personal identification number, or like identifying
+12 number;
+13 2. Unauthorized interception of any cellular service or personal
+14 communications service as terms may be defined in 47 C.F.R. parts 22
+15 and 24 respectively;
+16 3. Unauthorized interception of any similar telephone service; or
+17 4. Use of deception, threat, or other means to avoid payment for the
+18 services which the person knows are available only for charge or
+19 compensation;[ or]
+20 (c) Having control over or unauthorized access to the use of the services of others
+21 to which the person is not entitled, the person intentionally diverts the services
+22 to the person's own benefit or the benefit of another not entitled thereto; or
+23 (d) Having control of rental equipment under a written rental agreement, the
+24 person:
+25 1. Intentionally holds the equipment beyond the expiration of the rental
+26 period without the consent of the owner of the equipment;
+27 2. Intentionally deprives the owner of the equipment of its use in further
+Page 1 of 3
+XXXX 1/9/2025 4:05 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1195
+1 rentals;
+2 3. Intentionally refuses to pay or absconds without payment;
+3 4. Fails to respond within five (5) days after receiving notice by certified
+4 mail demanding return; and
+5 5. Refuses to make an agreeable payment to a rental agency within thirty
+6 (30) days of receipt of a late notice to a person sent by certified mail,
+7 return receipt requested.
+8 (2) Where compensation for services is ordinarily paid immediately upon the rendering
+9 of the services, as in the case of hotels and restaurants, refusal to pay or absconding
+10 without payment or offer to pay shall be prima facie evidence that the services were
+11 obtained by deception as to intention to pay.
+12 (3) In any prosecution for theft of gas, water, electricity, or other public service, where
+13 the utility supplying the service had installed a meter or other device to record the
+14 amount of service supplied, proof that:
+15 (a) The meter or other device has been altered, tampered with, or bypassed in a
+16 manner so as to prevent or reduce the recording thereof; or
+17 (b) Service has been, after having been disconnected by the utility supplying
+18 service, reconnected without authorization of the utility
+19 shall be prima facie evidence of the intent to commit theft of service by the person
+20 or persons obligated to pay for service supplied through the meter or other device.
+21 (4) Theft of services is a Class B misdemeanor unless:
+22 (a) The value of the service is five hundred dollars ($500) or more but less than
+23 one thousand dollars ($1,000), in which case it is a Class A misdemeanor;
+24 (b) The value of the service is one thousand dollars ($1,000) or more but less than
+25 ten thousand dollars ($10,000), in which case it is a Class D felony;
+26 (c) A person has three (3) or more convictions under paragraph (a) of this
+27 subsection within the last five (5) years, in which case it is a Class D felony.
+Page 2 of 3
+XXXX 1/9/2025 4:05 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1195
+1 The five (5) year period shall be measured from the dates on which the
+2 offenses occurred for which the judgments of conviction were entered; or
+3 (d) The value of the service is ten thousand dollars ($10,000) or more, in which
+4 case it is a Class C felony.
+5 (5) If any person commits two (2) or more separate offenses of theft of services within
+6 ninety (90) days, the offenses may be combined and treated as a single offense, and
+7 the value of the property in each offense may be aggregated for the purpose of
+8 determining the appropriate charge.
+Page 3 of 3
+XXXX 1/9/2025 4:05 PM Jacketed
+
+[DELETED:   2  J A B S ( A ( T t a ( T t 1 U i o a e s n m i n 2 U i o a c s o p c a 3 U 4 U o d t o o m t a p f t s w t p k a a o f c o c ( H t t ( H p 1 I p 2 I]
+[DELETED:   2  J r 3 I 4 F m 5 R ( r ( W o w o ( I t a ( T m ( S h b a h b d b t u s s  s o ( T ( T o ( T t ( A p h t ( o m c u p ( o t s]
+[DELETED:   2  J T f ( y p s b m f t d o w t o ( T c ( I n t v o t p i e o m b a f t p o d]

@@ -1,0 +1,1329 @@
+Title: 1 AN ACT relating to digital assets.
+Official Title: 1 AN ACT relating to digital assets.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 21 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS BR 1400
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 41.070 is amended to read as follows:
+4 (1) (a) As used in this section, "central bank digital currency":
+5 1. Means a digital currency, digital medium of exchange, or digital
+6 monetary unit of account that is:
+7 a. Issued and made directly available to the public; or
+8 b. Processed and validated;
+9 by the United States Federal Reserve System, a federal agency, or a
+10 foreign government; and
+11 2. Does not include a digital asset that is:
+12 a. Backed by legal tender or government treasuries; and
+13 b. Issued by a qualified entity.
+14 (b) As used in paragraph (a) of this subsection, "qualified entity" means an
+15 entity that is not:
+16 1. The United States Federal Reserve System;
+17 2. A federal agency;
+18 3. A foreign government; or
+19 4. An instrumentality or agent of an entity referenced in subparagraph
+20 1., 2., or 3. of this paragraph.
+21 (2) Unless otherwise expressly provided by law, no receipts from any source of state
+22 money or money for which the state is responsible shall be held, used, or deposited
+23 in any personal or special bank account, temporarily or otherwise, by any agent or
+24 employee of any budget unit, to meet expenditures or for any other purpose.
+25 (3)[(2)] (a) All receipts of any character of any budget unit, all revenue collected for
+26 the state, and all public money and dues to the state shall be deposited in state
+27 depositories in the most prompt and cost-efficient manner available.
+Page 1 of 21
+XXXX 2/3/2025 1:21 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1400
+1 (b) However, in the case of state departments or agencies located outside
+2 Frankfort, and all state institutions, the Finance and Administration Cabinet
+3 may permit temporary deposits to be made to the accounts maintained by the
+4 agency, department, or institution in a state depository for a period not to
+5 exceed thirty (30) days, and may require that the money be forwarded to the
+6 State Treasury at the time and in the manner and form prescribed by the
+7 cabinet.
+8 (c) [Nothing in ]This section shall not be construed as authorizing any
+9 representative of any agency, department, or institution to enforce or cash,
+10 even for the purpose of a deposit, any check or other instrument of value
+11 payable to the Commonwealth or any agency thereof.
+12 (4)[(3)] Each agency depositing its receipts directly with the State Treasurer shall do
+13 so in the manner approved by the State Treasurer as agent in charge of public fund
+14 deposits.
+15 (5)[(4)] (a) The Department of Revenue may deposit receipts to the credit of the
+16 State Treasury directly with a state depository utilized by the Commonwealth
+17 for its primary banking services.
+18 (b) 1. The State Treasurer, with the approval of the Finance and
+19 Administration Cabinet, may authorize other agencies to deposit receipts
+20 directly with a state depository to the credit of the State Treasury if the
+21 Treasurer prescribes the manner in which the deposit is to be made, and
+22 the forms and reports to be filed with the Treasury Department.
+23 2. The Finance and Administration Cabinet shall prescribe the forms and
+24 reports to be filed with it when this type of deposit is made.
+25 (6)[(5)] Each department, agency, or other budget unit which receives funds to be
+26 deposited into the State Treasury shall maintain records to report adequately each
+27 amount received, from whom received, and date received. Agency records shall be
+Page 2 of 21
+XXXX 2/3/2025 1:21 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1400
+1 easily reconcilable with the information forwarded to the State Treasurer.
+2 (7) A department, agency, or other budget unit, including the State Treasurer, shall
+3 not:
+4 (a) Accept central bank digital currency as a method of payment to the
+5 department, agency, budget unit, or State Treasury; or
+6 (b) Require a payment be made to the department, agency, budget unit, or State
+7 Treasury using a central bank digital currency.
+8 Section 2. KRS 45.345 is amended to read as follows:
+9 (1) As used in this section, "central bank digital currency" has the same meaning as
+10 in Section 1 of this Act.
+11 (2) In addition to any payment method authorized by law[,] and notwithstanding any
+12 statute to the contrary, except as otherwise provided in this section and Section 1
+13 of this Act, any state agency may accept the following methods of payment to
+14 secure funds for deposit into the State Treasury:
+15 (a) Credit card;
+16 (b) Debit card;
+17 (c) Electronic check;
+18 (d) Automated clearinghouse (ACH) debit; or
+19 (e) Any other electronic payment method upon the prior written approval of both
+20 the Finance and Administration Cabinet and the Office of the State Treasurer.
+21 (3)[(2)] Any fees charged to a state agency by the provider of the payment services
+22 listed in subsection (1) of this section shall be deemed to represent collection
+23 expenses and may be considered normal operating expenses of the agency, or the
+24 agency may collect convenience fees from users to supplement agency costs of
+25 delivering services.
+26 (4) A state agency shall not, either directly or through any of the methods listed in
+27 subsection (2)(a), (b), (c), or (d) of this section or through another method, accept
+Page 3 of 21
+XXXX 2/3/2025 1:21 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1400
+1 central bank digital currency as payment to secure funds for deposit into the State
+2 Treasury or for any other purpose.
+3 SECTION 3. A NEW SECTION OF KRS CHAPTER 65 IS CREATED TO
+4 READ AS FOLLOWS:
+5 (1) As used in this section:
+6 (a) "Central bank digital currency" has the same meaning as Section 1 of this
+7 Act; and
+8 (b) "Local government authority":
+9 1. Means any city, county, charter county government, urban-county
+10 government, consolidated local government, unified local government,
+11 public school district, public institution of education, special district,
+12 or municipal corporation, of this state; and
+13 2. Includes any agency, authority, board, bureau, department,
+14 commission, council, committee, instrumentality, or other entity, of an
+15 entity referenced in subparagraph 1. of this paragraph.
+16 (2) A local government authority shall not:
+17 (a) Accept central bank digital currency as a method of payment to the local
+18 government authority; or
+19 (b) Require a payment be made to the local government authority using a
+20 central bank digital currency.
+21 SECTION 4. KRS CHAPTER 355A IS ESTABLISHED AND A NEW
+22 SECTION THEREOF IS CREATED TO READ AS FOLLOWS:
+23 (1) As used in this chapter, unless the context requires otherwise:
+24 (a) "Digital asset" means a representation of economic, proprietary, or access
+25 rights that is:
+26 1. Stored in a computer readable format; and
+27 2. Either:
+Page 4 of 21
+XXXX 2/3/2025 1:21 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1400
+1 a. A digital consumer asset;
+2 b. A digital security; or
+3 c. Virtual currency;
+4 (b) "Digital consumer asset":
+5 1. Means a digital asset that is used or bought primarily for consumptive,
+6 personal, or household purposes, except a digital security or virtual
+7 currency; and
+8 2. Includes an open blockchain token that is intangible personal
+9 property;
+10 (c) "Digital security" means a digital asset that is a security, as defined in KRS
+11 292.310; and
+12 (d) "Virtual currency":
+13 1. Means a digital asset, except an open blockchain token that is a digital
+14 consumer asset, that is:
+15 a. Used as a medium of exchange, unit of account, or store of
+16 value; and
+17 b. Except as provided in subparagraph 2. of this paragraph, not
+18 recognized as legal tender by the United States government or a
+19 foreign government; and
+20 2. Includes a virtual currency recognized as legal tender by a
+21 government if the virtual currency existed and operated as a medium
+22 of exchange before the currency was authorized or adopted by the
+23 government.
+24 (2) The definitions for "digital consumer asset," "digital security," and "virtual
+25 currency" shall be mutually exclusive.
+26 (3) For purposes of KRS 355.9-201(2), this chapter shall be considered an applicable
+27 statute that establishes a different rule for consumers.
+Page 5 of 21
+XXXX 2/3/2025 1:21 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1400
+1 (4) Notwithstanding any other law, nothing in this chapter shall apply to central
+2 bank digital currency as defined in Section 1 of this Act.
+3 SECTION 5. A NEW SECTION OF KRS CHAPTER 355A IS CREATED TO
+4 READ AS FOLLOWS:
+5 (1) Digital assets are classified in the following manner:
+6 (a) The following are intangible personal property:
+7 1. A digital consumer asset;
+8 2. A digital security; and
+9 3. Virtual currency;
+10 (b) For purposes of Article 9 of KRS Chapter 355 only:
+11 1. A digital consumer asset shall be considered a general intangible, as
+12 defined in KRS 355.9-102;
+13 2. A digital security shall be considered investment property, as defined
+14 in KRS 355.9-102; and
+15 3. Notwithstanding KRS 355.1-201, virtual currency shall be considered
+16 money; and
+17 (c) For purposes of Article 8 of KRS Chapter 355 only, a digital security shall
+18 be considered a security, as defined in KRS 355.8-102.
+19 (2) (a) Consistent with KRS 355.8-102(1)(i), a digital asset may be treated as a
+20 financial asset under that provision, in accordance with an agreement with
+21 the owner of the digital asset.
+22 (b) If a digital asset is treated as a financial asset under this subsection, the
+23 digital asset shall remain classified as intangible personal property.
+24 (3) A financial institution providing custodial services under Section 9 of this Act
+25 shall be considered to meet the requirements of a securities intermediary, as
+26 defined in KRS 355.8-102.
+27 (4) Classification of digital assets under this section shall be construed to give the
+Page 6 of 21
+XXXX 2/3/2025 1:21 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1400
+1 greatest effect to this chapter, but shall not apply to any other asset.
+2 SECTION 6. A NEW SECTION OF KRS CHAPTER 355A IS CREATED TO
+3 READ AS FOLLOWS:
+4 (1) (a) As used in this section and Article 9 of KRS Chapter 355:
+5 1. Consistent with KRS 355.9-314, "control" includes:
+6 a. A secured party, or an agent, custodian, fiduciary, or trustee of
+7 the secured party, that has complied with KRS 355.8-106,
+8 including by means of:
+9 i. A private key;
+10 ii. The use of a multi-signature arrangement exclusive to the
+11 secured party; or
+12 iii. Any means substantially similar to the means described in
+13 subpart i. or ii. of this subdivision; and
+14 b. Use of a smart contract created by a secured party to comply with
+15 KRS 355.8-106; and
+16 2. Consistent with KRS 355.9-313, "possession":
+17 a. Means the ability to exclude others from the use of property; and
+18 b. Includes:
+19 i. Use of a private key;
+20 ii. Use of a multi-signature arrangement exclusive to the
+21 secured party;
+22 iii. Use of a smart contract;
+23 iv. Use of a device that is substantially similar to a device
+24 referenced in subpart i., ii., or iii. of this subdivision; and
+25 v. Delivery of a certificated digital security, consistent with
+26 KRS 355.8-301(1).
+27 (b) As used in this section:
+Page 7 of 21
+XXXX 2/3/2025 1:21 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1400
+1 1. "Multi-signature arrangement" means:
+2 a. A system of access control relating to a digital asset for the
+3 purpose of preventing unauthorized transactions relating to the
+4 asset, in which two (2) or more private keys are required to
+5 conduct a transaction; or
+6 b. A system substantially similar to the system described in
+7 subdivision a. of this subparagraph;
+8 2. "Private key" means a unique element of cryptographic data, or any
+9 substantially similar analogue, that is:
+10 a. Held by a person;
+11 b. Paired with a unique, publicly available element of
+12 cryptographic data; and
+13 c. Associated with an algorithm that is necessary to carry out an
+14 encryption or decryption required to execute a transaction; and
+15 3. "Smart contract" means:
+16 a. An automated transaction, as defined in KRS 369.102; or
+17 b. Any other similar transaction that is comprised of code, script, or
+18 programming language that:
+19 i. Executes the terms of an agreement; and
+20 ii. May include taking custody of, and transferring, an asset
+21 or issuing executable instructions based on the occurrence
+22 or nonoccurrence of specified conditions.
+23 (2) (a) Notwithstanding the financing statement requirement in KRS 355.9-310 as
+24 otherwise applied to general intangibles or any other provision of law,
+25 perfection of a security interest:
+26 1. In virtual currency may be achieved through possession; and
+27 2. In a digital security may be achieved by control.
+Page 8 of 21
+XXXX 2/3/2025 1:21 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1400
+1 (b) A security interest held by a secured party having possession of virtual
+2 currency, or control of a digital security, has priority over a security interest
+3 held by a secured party that does not have possession or control, as
+4 applicable.
+5 (c) KRS 355.9-322(1)(a) and (2) shall not apply to the perfection and priority of
+6 a security interest under this subsection.
+7 (d) Except as otherwise provided in this subsection, all other provisions of law
+8 relating to perfection and priority of security interests, including KRS
+9 355.9-322(3) and 355.9-207 and laws relating to priority of control over
+10 delivery, shall apply to the perfection and priority of a security interest
+11 under this subsection.
+12 (3) (a) Before a secured party may take possession or control under this section,
+13 the secured party shall enter into a security agreement with:
+14 1. The debtor; and
+15 2. As necessary, other parties.
+16 (b) The security agreement may set forth the terms under which a secured party
+17 may pledge its security interests as collateral for another transaction.
+18 (c) Consistent with KRS 355.9-201(1), the security agreement shall be effective
+19 according to its terms between the parties, against purchasers of collateral,
+20 and against creditors.
+21 (4) If a debtor is located in Kentucky, a secured party may file a financing statement
+22 with the Secretary of State to perfect a security interest in a digital consumer
+23 asset or a digital security, including to perfect a security interest in proceeds in
+24 accordance with KRS 355.9-315(4).
+25 (5) Notwithstanding any other provision of law, including Article 9 of KRS Chapter
+26 355, a transferee takes a digital asset free of any security interest perfected by
+27 filing two (2) years after the transferee takes the asset for value if the transferee
+Page 9 of 21
+XXXX 2/3/2025 1:21 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1400
+1 does not have actual notice of an adverse claim at any time during the two (2)
+2 year period.
+3 (6) Perfection by possession creates a possessory security interest under KRS 355.9-
+4 301(2) in virtual currency or a certificated digital security, based on the
+5 possessory nature of a private key, or a device substantially similar to a private
+6 key, which may be tangible or electronic.
+7 (7) For purposes of Article 9 of KRS Chapter 355 and this subsection, if collateral is
+8 required to be "located in a jurisdiction," a digital asset shall be located in
+9 Kentucky if:
+10 (a) The asset is possessed or controlled by:
+11 1. A Kentucky financial institution; or
+12 2. Another custodian in Kentucky;
+13 (b) The debtor or secured party is physically located in Kentucky;
+14 (c) The debtor or secured party is incorporated or organized in Kentucky; or
+15 (d) A consideration of the following factors weighs in favor of finding that the
+16 digital asset is located in Kentucky:
+17 1. Whether a security agreement typically accompanying a possessory
+18 security interest or other secured transaction exists, consistent with
+19 KRS 355.9-201(1), including an agreement describing the possessory
+20 nature of a private key or any device substantially similar to a private
+21 key;
+22 2. The choice of law in a security agreement, evidencing the intent and
+23 understanding of the parties relating to a transaction, including
+24 waivers of litigation in jurisdictions other than Kentucky, access to
+25 Kentucky courts, and judicial economy; and
+26 3. The relative clarity of the laws of other jurisdictions relating to a
+27 digital asset, the consequences relating to unknown liens in those
+Page 10 of 21
+XXXX 2/3/2025 1:21 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1400
+1 jurisdictions, and the ability of a court to exercise jurisdiction over a
+2 particular digital asset.
+3 SECTION 7. A NEW SECTION OF KRS CHAPTER 355A IS CREATED TO
+4 READ AS FOLLOWS:
+5 (1) As used in this section:
+6 (a) "Blockchain" means a digital ledger or database that is chronological,
+7 consensus-based, decentralized, and mathematically verified in nature;
+8 (b) "Consumptive":
+9 1. Means a circumstance when a token is exchangeable for or provided
+10 for the receipt of:
+11 a. Services;
+12 b. Software;
+13 c. Content;
+14 d. Real property; or
+15 e. Tangible personal property; and
+16 2. Includes rights of access to:
+17 a. Services;
+18 b. Content;
+19 c. Real property; or
+20 d. Tangible personal property;
+21 (c) "Developer" means the person primarily responsible for:
+22 1. Creating an open blockchain token, including by executing the
+23 technological processes necessary to create the token; or
+24 2. Otherwise designing an open blockchain token;
+25 (d) "Facilitator" means a person who, as a business, makes open blockchain
+26 tokens described in subsection (2) of this section available for resale to the
+27 public after a token has been purchased by an initial buyer;
+Page 11 of 21
+XXXX 2/3/2025 1:21 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1400
+1 (e) "Financial investment" means a contract, transaction, or arrangement
+2 where a person invests money in a common enterprise and is led to expect
+3 profits solely from the efforts of a promoter or a third party;
+4 (f) "Open blockchain token":
+5 1. Means a digital unit that is:
+6 a. Created:
+7 i. In response to the verification or collection of a specified
+8 number of transactions relating to a digital ledger or
+9 database;
+10 ii. By deploying computer code to a digital ledger or database,
+11 which may include a blockchain, that allows for the
+12 creation of digital tokens or other units; or
+13 iii. Using a combination of the methods specified in subparts i.
+14 and ii. of this subdivision;
+15 b. Recorded to a digital ledger or database, which may include a
+16 blockchain; and
+17 c. Capable of being traded or transferred between persons without
+18 an intermediary or custodian of value; and
+19 2. Does not include virtual currency or a digital security; and
+20 (g) "Seller" means a person that makes an open blockchain token available for
+21 purchase to an initial buyer.
+22 (2) An open blockchain token with the following characteristics is intangible
+23 personal property:
+24 (a) The predominant purpose of the token is consumptive;
+25 (b) The developer or seller did not market the token to the initial buyer as a
+26 financial investment; and
+27 (c) At least one (1) of the following is satisfied:
+Page 12 of 21
+XXXX 2/3/2025 1:21 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1400
+1 1. The developer or seller reasonably believed that it sold the token to the
+2 initial buyer for a consumptive purpose;
+3 2. The token:
+4 a. Has a consumptive purpose that is available at, or near, the time
+5 of sale; and
+6 b. Can be used at, or near, the time of sale for a consumptive
+7 purpose;
+8 3. The initial buyer of the token is prohibited by the developer or seller
+9 from reselling the token until the token is available to be used for a
+10 consumptive purpose; or
+11 4. The developer or seller takes other reasonable precautions to prevent
+12 an initial buyer from purchasing the token as a financial investment.
+13 (3) (a) Before making an open blockchain token described in subsection (2) of this
+14 section available for sale in this state, the developer or seller of the token, or
+15 the registered agent of the developer or seller, shall:
+16 1. Electronically file a notice of intent with the Secretary of State; and
+17 2. Pay a filing fee of one thousand dollars ($1,000) to the Secretary of
+18 State to offset the costs of administering this subsection.
+19 (b) The notice of intent shall contain:
+20 1. The name of the person acting as a developer or seller;
+21 2. The contact information of the person filing the notice; and
+22 3. Comprehensive details on the open blockchain token being made
+23 available for sale, as required by the Secretary of State.
+24 (c) Any forms required or promulgated under this subsection shall be:
+25 1. Accessible to filers in a secure electronic format; and
+26 2. Conspicuously posted on the Secretary of State's website.
+27 (d) A developer, seller, and the registered agents of these persons, if applicable,
+Page 13 of 21
+XXXX 2/3/2025 1:21 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1400
+1 shall have a continuing duty to update the contact information provided on
+2 a notice of intent filed with the Secretary of State under this subsection as
+3 long as the open blockchain token associated with the notice is actively
+4 being sold.
+5 (e) The Secretary of State shall prescribe, by administrative regulation
+6 promulgated in accordance with KRS Chapter 13A:
+7 1. The details required under paragraph (b)3. of this subsection;
+8 2. The form in which a notice of intent under this subsection shall be
+9 made and updated; and
+10 3. The procedures applicable to filings made under this subsection.
+11 (4) A facilitator shall:
+12 (a) Before making any token available for resale to the public in this state,
+13 confirm with the Secretary of State that a notice of intent has been filed for
+14 the token in accordance with subsection (3) of this section;
+15 (b) At all times, have a reasonable and good faith belief that a token subject to
+16 resale by the facilitator conforms to the requirements of subsection (2) of
+17 this section; and
+18 (c) Take reasonably prompt action to terminate the resale of a token that does
+19 not conform to the requirements of this section.
+20 (5) (a) A willful failure by a developer, seller, or facilitator to comply with the
+21 duties imposed under this section shall be deemed an act or practice in
+22 violation of KRS 367.170.
+23 (b) All of the remedies, powers, and duties delegated to the Attorney General by
+24 KRS 367.110 to 367.300, and the penalties provided in KRS 367.990,
+25 pertaining to acts and practices declared unlawful by KRS 367.170, shall be
+26 applicable to a willful failure referenced in paragraph (a) of this subsection.
+27 (c) A developer, seller, or facilitator is subject to all applicable criminal
+Page 14 of 21
+XXXX 2/3/2025 1:21 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1400
+1 statutes, including the fraud provisions of KRS Chapter 434.
+2 (6) The Secretary of State may refer the following to appropriate state or federal
+3 agencies for investigation, criminal prosecution, civil penalties, and other
+4 appropriate enforcement actions:
+5 (a) Suspected violations of this section; and
+6 (b) The developer, seller, or facilitator of an open blockchain token, or another
+7 digital asset that substantially resembles an open blockchain token, which,
+8 in the determination of the Secretary of State, is being sold for any
+9 fraudulent purposes.
+10 (7) This section may be cited as the Kentucky Utility Token Act.
+11 SECTION 8. A NEW SECTION OF KRS CHAPTER 355A IS CREATED TO
+12 READ AS FOLLOWS:
+13 Subject to other jurisdictional limits placed on specific courts under Kentucky law, the
+14 courts of Kentucky shall have jurisdiction to hear claims in both law and equity
+15 relating to digital assets, including those arising under this chapter, KRS Chapter 355,
+16 and Section 9 of this Act.
+17 SECTION 9. A NEW SECTION OF SUBTITLE 2 OF KRS CHAPTER 286 IS
+18 CREATED TO READ AS FOLLOWS:
+19 (1) As used in this section:
+20 (a) "Custodial services":
+21 1. Means the safekeeping, servicing, and management of customer
+22 currency and digital assets; and
+23 2. Includes:
+24 a. The exercise of fiduciary and trust powers involving the exercise
+25 of discretion;
+26 b. Fund administration; and
+27 c. The execution of customer instructions;
+Page 15 of 21
+XXXX 2/3/2025 1:21 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1400
+1 (b) "Digital asset" has the same meaning as in Section 4 of this Act; and
+2 (c) "Financial institution" means any bank, trust company, credit union, or
+3 special purpose depository institution that is:
+4 1. Chartered under this chapter; and
+5 2. Authorized to act as a fiduciary and engage in trust business.
+6 (2) (a) A financial institution may provide custodial services in accordance with
+7 this section upon providing sixty (60) days written notice to the
+8 commissioner.
+9 (b) This section shall not be deemed exclusive, but shall be construed as an
+10 optional framework for enhanced supervision of digital asset custody.
+11 (c) If a financial institution elects to provide custodial services under this
+12 section, it shall comply with all provisions of this section.
+13 (3) A financial institution may serve:
+14 (a) As a qualified custodian, as specified in 17 C.F.R. sec. 275.206(4)-2;
+15 (b) As a custodian authorized by the United States Commodity Futures Trading
+16 Commission; or
+17 (c) As a custodian authorized under any other law.
+18 (4) In performing custodial services under this section, a financial institution shall:
+19 (a) Implement all accounting, account statement, internal control, notice, and
+20 other standards specified by applicable state and federal law and
+21 regulations for custodial services;
+22 (b) 1. Maintain information technology best practices relating to digital
+23 assets held in custody.
+24 2. The commissioner may specify required best practices under this
+25 paragraph through the promulgation of an administrative regulation;
+26 (c) Fully comply with applicable state and federal anti-money laundering,
+27 customer identification, and beneficial ownership requirements; and
+Page 16 of 21
+XXXX 2/3/2025 1:21 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1400
+1 (d) Take other actions necessary to carry out this section, which may include:
+2 1. Exercising fiduciary powers; and
+3 2. Ensuring compliance with federal law governing digital assets
+4 classified as commodities.
+5 (5) (a) A financial institution providing custodial services under this section shall
+6 conform to the audit, accounting, and related requirements specified by the
+7 commissioner and applicable law, which may include entering into an
+8 agreement with an independent public accountant to conduct an
+9 examination conforming to the requirements of 17 C.F.R. sec. 275.206(4)-
+10 2(a)(4) and (6), at the cost of the financial institution.
+11 (b) Except as provided in paragraph (c) of this subsection, an accountant shall
+12 transmit the results of any examination conducted under this subsection to
+13 the commissioner within one hundred twenty (120) days of the examination
+14 and may file the results with other regulatory agencies as their rules may
+15 provide.
+16 (c) Material discrepancies in an examination shall be reported to the
+17 commissioner within one (1) day.
+18 (d) The commissioner shall review examination results within a reasonable
+19 time of receipt and during any regular examination.
+20 (6) Digital assets held in custody under this section are not depository liabilities or
+21 assets of the financial institution.
+22 (7) A financial institution, or a subsidiary, may register as an investment adviser,
+23 investment company, or broker dealer, as necessary.
+24 (8) A financial institution shall:
+25 (a) Maintain possession or control, as applicable, over a digital asset while in
+26 custody; and
+27 (b) Require each customer to elect, pursuant to a written agreement with the
+Page 17 of 21
+XXXX 2/3/2025 1:21 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1400
+1 financial institution, one (1) of the following relationships for each digital
+2 asset in custody:
+3 1. Custody under a bailment as a nonfungible or fungible asset. Assets
+4 held under this subparagraph shall be strictly segregated from other
+5 assets; or
+6 2. Custody as provided in subsection (9) of this section.
+7 (9) (a) If a customer so elects, the financial institution may, based only on the
+8 customer's instructions, undertake transactions with the digital asset.
+9 (b) A financial institution is deemed to maintain possession or control in
+10 accordance with subsection (8)(a) of this section by entering into an
+11 agreement with the counterparty to a transaction that contains a time for
+12 return of the asset and other customary terms in securities or commodities
+13 transactions.
+14 (c) The financial institution shall not be liable for any loss suffered with
+15 respect to a transaction under this subsection, except for liability consistent
+16 with fiduciary and trust powers.
+17 (10) (a) A financial institution and a customer shall agree to the following, in
+18 writing:
+19 1. The source code version the financial institution will use for each
+20 digital asset; and
+21 2. The treatment of each asset under the Uniform Commercial Code,
+22 KRS Chapter 355, if applicable.
+23 (b) Any ambiguity as to the agreement reached under paragraph (a) of this
+24 subsection shall be resolved in favor of the customer.
+25 (11) A financial institution shall provide clear, written notice to each customer, and
+26 require written acknowledgment, of the following:
+27 (a) Prior to implementation, any material source code updates relating to
+Page 18 of 21
+XXXX 2/3/2025 1:21 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1400
+1 digital assets held in custody, except in emergencies that may include
+2 security vulnerabilities;
+3 (b) The heightened risk of loss from transactions referred to in subsection (9)
+4 of this section;
+5 (c) That some risk of loss as a pro rata creditor exists as the result of custody:
+6 1. Under a bailment as a fungible asset; or
+7 2. As provided in subsection (9) of this section;
+8 (d) That custody as provided in subsection (9) of this section may not result in
+9 the digital assets of the customer being strictly segregated from other
+10 customer assets; and
+11 (e) That the financial institution is not liable for losses suffered with respect to
+12 a transaction referred to in subsection (9) of this section, except for liability
+13 consistent with fiduciary and trust powers.
+14 (12) (a) A financial institution and a customer shall agree in writing to a time period
+15 within which the financial institution will return a digital asset held in
+16 custody under this section.
+17 (b) If a customer makes an election under subsection (9) of this section, the
+18 financial institution and the customer may also agree in writing to the form
+19 in which the digital asset shall be returned.
+20 (13) (a) All ancillary or subsidiary proceeds relating to digital assets held in custody
+21 under this section shall accrue to the benefit of the customer, except as
+22 specified by a written agreement with the customer.
+23 (b) The financial institution may elect not to collect certain ancillary or
+24 subsidiary proceeds, as long as the election is disclosed in writing.
+25 (c) A customer that elects custody under a bailment as a nonfungible or
+26 fungible asset may withdraw the digital asset in a form that permits the
+27 collection of the ancillary or subsidiary proceeds.
+Page 19 of 21
+XXXX 2/3/2025 1:21 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1400
+1 (14) For digital assets held in custody under this section, a financial institution shall
+2 not:
+3 (a) Authorize, or permit, rehypothecation of the digital assets; or
+4 (b) Engage in any activity to use, or exercise, discretionary authority relating to
+5 a digital asset, except based on customer instructions.
+6 (15) A financial institution shall not take any action that may be authorized under this
+7 section if that action would likely impair the solvency, or the safety and
+8 soundness, of the financial institution, as determined by the commissioner after
+9 considering the nature of custodial services customary in the banking and
+10 finance industry.
+11 (16) To offset the costs of supervision and administration under this section, a
+12 financial institution that elects to provide custodial services in accordance with
+13 this section shall pay a supervision fee established by the commissioner through
+14 the promulgation of an administrative regulation in accordance with KRS
+15 Chapter 13A.
+16 SECTION 10. A NEW SECTION OF ARTICLE 1 OF KRS CHAPTER 355 IS
+17 CREATED TO READ AS FOLLOWS:
+18 KRS Chapter 355A and Section 9 of this Act shall be construed as supplemental to the
+19 provisions of this chapter. In the event of a conflict, the provisions of KRS Chapter
+20 355A and Section 9 of this Act shall control.
+21 Section 11. KRS 369.103 is amended to read as follows:
+22 (1) Except as otherwise provided in subsection (2) of this section, KRS 369.101 to
+23 369.120 applies to electronic records and electronic signatures relating to a
+24 transaction, including transactions involving digital assets, as defined in Section 4
+25 of this Act.
+26 (2) KRS 369.101 to 369.120 does not apply to a transaction to the extent it is governed
+27 by:
+Page 20 of 21
+XXXX 2/3/2025 1:21 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1400
+1 (a) A law governing the creation and execution of wills, codicils, or testamentary
+2 trusts;
+3 (b) KRS Chapter 355 other than KRS 355.1-107 and 355.1-206, and Articles 2
+4 and 2A of KRS Chapter 355; and
+5 (c) A law governing the creation or transfer of any negotiable instrument or any
+6 instrument establishing title or an interest in title to a motor vehicle and
+7 governed by KRS Chapter 186 or 186A.
+8 (3) KRS 369.101 to 369.120 applies to an electronic record or electronic signature
+9 otherwise excluded from the application of KRS 369.101 to 369.120 under
+10 subsection (2) of this section to the extent it is governed by a law other than those
+11 specified in subsection (2) of this section.
+12 (4) A transaction subject to KRS 369.101 to 369.120 is also subject to other applicable
+13 substantive law.
+14 Section 12. KRS 355.1-102 is amended to read as follows:
+15 (1) Except as provided in subsection (2) of this section, this article applies to a
+16 transaction to the extent that it is governed by another article of the Uniform
+17 Commercial Code.
+18 (2) Notwithstanding any other law, nothing in KRS Chapter 355 shall apply to
+19 central bank digital currency as defined in Section 1 of this Act.
+20 Section 13. The Secretary of State and the commissioner of financial
+21 institutions shall promulgate administrative regulations to implement the provisions of
+22 Section 7 and 9 of this Act, as applicable, on or before October 1, 2025.
+23 Section 14. Sections 4 to 11 of this Act take effect on October 1, 2025.
+Page 21 of 21
+XXXX 2/3/2025 1:21 PM Jacketed
+[DELETED:   2  J A B S ( ( A 1 M a d c d m o e o d m a I b P  b f 2 D a B b I ( A e 1 T 2 A 3 A 4 A 1 ( U m i e ( ( A t d]
+[DELETED:   2  J ( H i t c o s d o a l o F m a d o i i a s d f a p n t e S T a t t a i t m a f p b t c ( [ i ] s s n b c a a a r o a a d o t e o e f t p o a d a c o o i o v p ( E s d ( ( T S f ( 1 T S T w t a o t F a A d T t 2 T r ( E d a o o b u w r f t b d a]
+[DELETED:   2  J e ( A n ( A c b d c a a m o p t t d ( R T S ( A i ( I s o t A a s a m a t f m o p t s ( C ( D ( E ( A ( A t ( A l i s ( o t s s b d t r c e a m c c f f u t s a c o d ( A s]
+[DELETED:   2  J c T S R ( A ( " A ( " 1 M a c c c c g u g p o 2 I a a a b b d c e ( A ( A g ( R a p b m t t l g a u a c S 4   K C 3 I E A A N S ( A ( " r 1 S 2 E]
+[DELETED:   2  J a A b A c V ( " 1 M p c 2 I a o b t t i i p p ( " 2 ( " 1 M c a U a a m o e u o a o s o v b E a p i s 2 o t p n r f 2 I a v c r a l t b a g o e b t c w a o a b t g ( T d f " c a " s a " c ( F s]
+[DELETED:   2  J ( N a o l n i t c s a t c b S R ( D ( T 1 A 2 A 3 V ( F 1 A d 2 A i 3 N m ( F b ( ( C w K 3 a d a m b t a a f t ( I d ( A s b c t m t r o a s i a d ( C]
+[DELETED:   2  J g S R ( ( A 1 C a A t s p t h c w K 3 i i A i T s i A s b U K 2 C a M b I i U i U o a m a e t t s i U i U o a d t i s s t a d r v D o a c d s c w K ( A]
+[DELETED:   2  J 1 " a A s o a c r t a d a f t p a i w t ( o m p k a r t c b A s s s t t s d i s 2 " s a H b P w a u p a e o c c A e 3 " a A b A p i E i M o o ( ( N o a t g i o a o p o l p 1 I 2 I]
+[DELETED:   2  J ( A s i h b a s p h p o v c h b a s p t d n h p o c a a ( K a ( E r t p a p o s i i K 3 a 3 a l r t p o c o d s a t t p a p o a s i u ( ( B t 1 T 2 A ( T m ( C a a ( I w t S o t p a s i i a d c a a ( N 3 f]
+[DELETED:   2  J d y ( P 3 i v c o a c d s b o t p k ( F r t b " i a j a d a s b l i K ( T 1 A 2 A ( T ( T ( A d 1 W a s a t a a p s i o o s t e c w K n k 2 T u o t p r t a t i w o l i j o t K a t K 3 T r c o t l o o j r t a d a t c r t u l i t]
+[DELETED:   2  J j p S R ( A ( " m a d l o d t i c c ( " 1 M f a S b S c C d R e T 2 I a S b C c R d T ( " 1 C a o b t i b e t t 2 O ( " t p]
+[DELETED:   2  J ( " i m a c t o a w p ( " 1 M a C i I n o t r t a d l o d i B w m i a b t a f t c i U a b R b c C a 2 D ( " p ( A o b t w t f c i i p ( T ( T f ( A]
+[DELETED:   2  J 1 T i 2 T a H o b C b u a o n t t o s f a c p 3 T f c 4 T a ( ( B s t 1 E 2 P S ( T 1 T 2 T 3 C d o t o b t b m a ( A 1 A 2 C ( A]
+[DELETED:   2  J s a l a t o b t a w t n i a b ( T S o S s p b a r p 1 T 2 T m 3 T ( A ( B m a t a f r t t p i t s c t ( A r t ( T n ( ( A w f b a d s o f t c w t d i u t s s b d a a o p i v ( A K 3 t 3 a t p p i K 3 p a ( A d s o f i s t a a c]
+[DELETED:   2  J s ( T S o S m r t f t a s o f a f i c p c p a o a ( S ( T d i t d o t S o S i b s f a f ( T S R S c o K s h j t h c i b l a e r a S C ( A ( " 1 M t s s a m o c c 2 I a T o b F c T]
+[DELETED:   2  J ( " ( " i m a b t c c u o s 1 C 2 A ( ( A f i p c s i a w t s u p s ( d w n t t c ( T s s n b d e b s b c a o ( I a f i e t p c s u t s ( A ( A ( A C ( A ( I ( I o s s b a s a f l a r ( 1 M i t b p r t d a 2 T c m s r b p u t p ( F c w a s a f a l c]
+[DELETED:   2  J ( T 1 E 2 E c w f l g d a c ( ( A c c a a l w m i e i a a w a i p a t c a e 2 ( E t t a p ( M d i a e s b r t t c ( T c s r e r w a r t ( D a ( A f i a s m r a a i a i ( A ( M c ( R]
+[DELETED:   2  J f a 1 C h a 2 C ( ( I a c s e t f i m b o o t c ( A f i i d t m p o c i a w s ( o t s b e i a a r t ( T f i s n b l f a l s w r w ( ( A f i a a c s a t t f i w 1 T s c v t f i w u f e d 2 T t o e a u t U C C K ( A a a t t a r u p ( o t s ( A r ( P t i a m s c u r t]
+[DELETED:   2  J d a h i c e i e t m i s ( T o ( T 1 U 2 A ( T t d a o t c b s s f o c ( T a c ( ( A w w t f i w r a d a h i c ( I f i ( ( A u t s s a t t b o t c e a s ( T f i m e n t c c a o s ( A c t e c u a b a a n o f a m w t d a i a f t p t c]
+[DELETED:   2  J ( F n ( A ( E a ( A s i t a w l i t s o t s a s c t n o c s c i t b a f ( T o t c o s a a u t s a f t t p o a a r i a w K C S C K p 3 S ( E a o p i s ( o t s K 3 t 3 a t e r a e s r t a t o ( K b]
+[DELETED:   2  J ( A t ( K a ( A i e t o a i i t t a m v a g ( K 3 t 3 a t a e r o e s o e f t a o K 3 t 3 u s s ( A s S ( E a p i s ( o t s t a a t a t t t e t i i g b a a o t U C ( N a o l n i K C 3 s a t c S 1   T S o S a t c o f i S S]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS BR 1400
+1 AN ACT relating to digital assets.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 41.070 is amended to read as follows:
+4 (1) (a) As used in this section, "central bank digital currency":
+5 1. Means a digital currency, digital medium of exchange, or digital
+6 monetary unit of account that is:
+7 a. Issued and made directly available to the public; or
+8 b. Processed and validated;
+9 by the United States Federal Reserve System, a federal agency, or a
+10 foreign government; and
+11 2. Does not include a digital asset that is:
+12 a. Backed by legal tender or government treasuries; and
+13 b. Issued by a qualified entity.
+14 (b) As used in paragraph (a) of this subsection, "qualified entity" means an
+15 entity that is not:
+16 1. The United States Federal Reserve System;
+17 2. A federal agency;
+18 3. A foreign government; or
+19 4. An instrumentality or agent of an entity referenced in subparagraph
+20 1., 2., or 3. of this paragraph.
+21 (2) Unless otherwise expressly provided by law, no receipts from any source of state
+22 money or money for which the state is responsible shall be held, used, or deposited
+23 in any personal or special bank account, temporarily or otherwise, by any agent or
+24 employee of any budget unit, to meet expenditures or for any other purpose.
+25 (3)[(2)] (a) All receipts of any character of any budget unit, all revenue collected for
+26 the state, and all public money and dues to the state shall be deposited in state
+27 depositories in the most prompt and cost-efficient manner available.
+Page 1 of 21
+XXXX 2/3/2025 1:21 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1400
+1 (b) However, in the case of state departments or agencies located outside
+2 Frankfort, and all state institutions, the Finance and Administration Cabinet
+3 may permit temporary deposits to be made to the accounts maintained by the
+4 agency, department, or institution in a state depository for a period not to
+5 exceed thirty (30) days, and may require that the money be forwarded to the
+6 State Treasury at the time and in the manner and form prescribed by the
+7 cabinet.
+8 (c) [Nothing in ]This section shall not be construed as authorizing any
+9 representative of any agency, department, or institution to enforce or cash,
+10 even for the purpose of a deposit, any check or other instrument of value
+11 payable to the Commonwealth or any agency thereof.
+12 (4)[(3)] Each agency depositing its receipts directly with the State Treasurer shall do
+13 so in the manner approved by the State Treasurer as agent in charge of public fund
+14 deposits.
+15 (5)[(4)] (a) The Department of Revenue may deposit receipts to the credit of the
+16 State Treasury directly with a state depository utilized by the Commonwealth
+17 for its primary banking services.
+18 (b) 1. The State Treasurer, with the approval of the Finance and
+19 Administration Cabinet, may authorize other agencies to deposit receipts
+20 directly with a state depository to the credit of the State Treasury if the
+21 Treasurer prescribes the manner in which the deposit is to be made, and
+22 the forms and reports to be filed with the Treasury Department.
+23 2. The Finance and Administration Cabinet shall prescribe the forms and
+24 reports to be filed with it when this type of deposit is made.
+25 (6)[(5)] Each department, agency, or other budget unit which receives funds to be
+26 deposited into the State Treasury shall maintain records to report adequately each
+27 amount received, from whom received, and date received. Agency records shall be
+Page 2 of 21
+XXXX 2/3/2025 1:21 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1400
+1 easily reconcilable with the information forwarded to the State Treasurer.
+2 (7) A department, agency, or other budget unit, including the State Treasurer, shall
+3 not:
+4 (a) Accept central bank digital currency as a method of payment to the
+5 department, agency, budget unit, or State Treasury; or
+6 (b) Require a payment be made to the department, agency, budget unit, or State
+7 Treasury using a central bank digital currency.
+8 Section 2. KRS 45.345 is amended to read as follows:
+9 (1) As used in this section, "central bank digital currency" has the same meaning as
+10 in Section 1 of this Act.
+11 (2) In addition to any payment method authorized by law[,] and notwithstanding any
+12 statute to the contrary, except as otherwise provided in this section and Section 1
+13 of this Act, any state agency may accept the following methods of payment to
+14 secure funds for deposit into the State Treasury:
+15 (a) Credit card;
+16 (b) Debit card;
+17 (c) Electronic check;
+18 (d) Automated clearinghouse (ACH) debit; or
+19 (e) Any other electronic payment method upon the prior written approval of both
+20 the Finance and Administration Cabinet and the Office of the State Treasurer.
+21 (3)[(2)] Any fees charged to a state agency by the provider of the payment services
+22 listed in subsection (1) of this section shall be deemed to represent collection
+23 expenses and may be considered normal operating expenses of the agency, or the
+24 agency may collect convenience fees from users to supplement agency costs of
+25 delivering services.
+26 (4) A state agency shall not, either directly or through any of the methods listed in
+27 subsection (2)(a), (b), (c), or (d) of this section or through another method, accept
+Page 3 of 21
+XXXX 2/3/2025 1:21 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1400
+1 central bank digital currency as payment to secure funds for deposit into the State
+2 Treasury or for any other purpose.
+3 SECTION 3. A NEW SECTION OF KRS CHAPTER 65 IS CREATED TO
+4 READ AS FOLLOWS:
+5 (1) As used in this section:
+6 (a) "Central bank digital currency" has the same meaning as Section 1 of this
+7 Act; and
+8 (b) "Local government authority":
+9 1. Means any city, county, charter county government, urban-county
+10 government, consolidated local government, unified local government,
+11 public school district, public institution of education, special district,
+12 or municipal corporation, of this state; and
+13 2. Includes any agency, authority, board, bureau, department,
+14 commission, council, committee, instrumentality, or other entity, of an
+15 entity referenced in subparagraph 1. of this paragraph.
+16 (2) A local government authority shall not:
+17 (a) Accept central bank digital currency as a method of payment to the local
+18 government authority; or
+19 (b) Require a payment be made to the local government authority using a
+20 central bank digital currency.
+21 SECTION 4. KRS CHAPTER 355A IS ESTABLISHED AND A NEW
+22 SECTION THEREOF IS CREATED TO READ AS FOLLOWS:
+23 (1) As used in this chapter, unless the context requires otherwise:
+24 (a) "Digital asset" means a representation of economic, proprietary, or access
+25 rights that is:
+26 1. Stored in a computer readable format; and
+27 2. Either:
+Page 4 of 21
+XXXX 2/3/2025 1:21 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1400
+1 a. A digital consumer asset;
+2 b. A digital security; or
+3 c. Virtual currency;
+4 (b) "Digital consumer asset":
+5 1. Means a digital asset that is used or bought primarily for consumptive,
+6 personal, or household purposes, except a digital security or virtual
+7 currency; and
+8 2. Includes an open blockchain token that is intangible personal
+9 property;
+10 (c) "Digital security" means a digital asset that is a security, as defined in KRS
+11 292.310; and
+12 (d) "Virtual currency":
+13 1. Means a digital asset, except an open blockchain token that is a digital
+14 consumer asset, that is:
+15 a. Used as a medium of exchange, unit of account, or store of
+16 value; and
+17 b. Except as provided in subparagraph 2. of this paragraph, not
+18 recognized as legal tender by the United States government or a
+19 foreign government; and
+20 2. Includes a virtual currency recognized as legal tender by a
+21 government if the virtual currency existed and operated as a medium
+22 of exchange before the currency was authorized or adopted by the
+23 government.
+24 (2) The definitions for "digital consumer asset," "digital security," and "virtual
+25 currency" shall be mutually exclusive.
+26 (3) For purposes of KRS 355.9-201(2), this chapter shall be considered an applicable
+27 statute that establishes a different rule for consumers.
+Page 5 of 21
+XXXX 2/3/2025 1:21 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1400
+1 (4) Notwithstanding any other law, nothing in this chapter shall apply to central
+2 bank digital currency as defined in Section 1 of this Act.
+3 SECTION 5. A NEW SECTION OF KRS CHAPTER 355A IS CREATED TO
+4 READ AS FOLLOWS:
+5 (1) Digital assets are classified in the following manner:
+6 (a) The following are intangible personal property:
+7 1. A digital consumer asset;
+8 2. A digital security; and
+9 3. Virtual currency;
+10 (b) For purposes of Article 9 of KRS Chapter 355 only:
+11 1. A digital consumer asset shall be considered a general intangible, as
+12 defined in KRS 355.9-102;
+13 2. A digital security shall be considered investment property, as defined
+14 in KRS 355.9-102; and
+15 3. Notwithstanding KRS 355.1-201, virtual currency shall be considered
+16 money; and
+17 (c) For purposes of Article 8 of KRS Chapter 355 only, a digital security shall
+18 be considered a security, as defined in KRS 355.8-102.
+19 (2) (a) Consistent with KRS 355.8-102(1)(i), a digital asset may be treated as a
+20 financial asset under that provision, in accordance with an agreement with
+21 the owner of the digital asset.
+22 (b) If a digital asset is treated as a financial asset under this subsection, the
+23 digital asset shall remain classified as intangible personal property.
+24 (3) A financial institution providing custodial services under Section 9 of this Act
+25 shall be considered to meet the requirements of a securities intermediary, as
+26 defined in KRS 355.8-102.
+27 (4) Classification of digital assets under this section shall be construed to give the
+Page 6 of 21
+XXXX 2/3/2025 1:21 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1400
+1 greatest effect to this chapter, but shall not apply to any other asset.
+2 SECTION 6. A NEW SECTION OF KRS CHAPTER 355A IS CREATED TO
+3 READ AS FOLLOWS:
+4 (1) (a) As used in this section and Article 9 of KRS Chapter 355:
+5 1. Consistent with KRS 355.9-314, "control" includes:
+6 a. A secured party, or an agent, custodian, fiduciary, or trustee of
+7 the secured party, that has complied with KRS 355.8-106,
+8 including by means of:
+9 i. A private key;
+10 ii. The use of a multi-signature arrangement exclusive to the
+11 secured party; or
+12 iii. Any means substantially similar to the means described in
+13 subpart i. or ii. of this subdivision; and
+14 b. Use of a smart contract created by a secured party to comply with
+15 KRS 355.8-106; and
+16 2. Consistent with KRS 355.9-313, "possession":
+17 a. Means the ability to exclude others from the use of property; and
+18 b. Includes:
+19 i. Use of a private key;
+20 ii. Use of a multi-signature arrangement exclusive to the
+21 secured party;
+22 iii. Use of a smart contract;
+23 iv. Use of a device that is substantially similar to a device
+24 referenced in subpart i., ii., or iii. of this subdivision; and
+25 v. Delivery of a certificated digital security, consistent with
+26 KRS 355.8-301(1).
+27 (b) As used in this section:
+Page 7 of 21
+XXXX 2/3/2025 1:21 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1400
+1 1. "Multi-signature arrangement" means:
+2 a. A system of access control relating to a digital asset for the
+3 purpose of preventing unauthorized transactions relating to the
+4 asset, in which two (2) or more private keys are required to
+5 conduct a transaction; or
+6 b. A system substantially similar to the system described in
+7 subdivision a. of this subparagraph;
+8 2. "Private key" means a unique element of cryptographic data, or any
+9 substantially similar analogue, that is:
+10 a. Held by a person;
+11 b. Paired with a unique, publicly available element of
+12 cryptographic data; and
+13 c. Associated with an algorithm that is necessary to carry out an
+14 encryption or decryption required to execute a transaction; and
+15 3. "Smart contract" means:
+16 a. An automated transaction, as defined in KRS 369.102; or
+17 b. Any other similar transaction that is comprised of code, script, or
+18 programming language that:
+19 i. Executes the terms of an agreement; and
+20 ii. May include taking custody of, and transferring, an asset
+21 or issuing executable instructions based on the occurrence
+22 or nonoccurrence of specified conditions.
+23 (2) (a) Notwithstanding the financing statement requirement in KRS 355.9-310 as
+24 otherwise applied to general intangibles or any other provision of law,
+25 perfection of a security interest:
+26 1. In virtual currency may be achieved through possession; and
+27 2. In a digital security may be achieved by control.
+Page 8 of 21
+XXXX 2/3/2025 1:21 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1400
+1 (b) A security interest held by a secured party having possession of virtual
+2 currency, or control of a digital security, has priority over a security interest
+3 held by a secured party that does not have possession or control, as
+4 applicable.
+5 (c) KRS 355.9-322(1)(a) and (2) shall not apply to the perfection and priority of
+6 a security interest under this subsection.
+7 (d) Except as otherwise provided in this subsection, all other provisions of law
+8 relating to perfection and priority of security interests, including KRS
+9 355.9-322(3) and 355.9-207 and laws relating to priority of control over
+10 delivery, shall apply to the perfection and priority of a security interest
+11 under this subsection.
+12 (3) (a) Before a secured party may take possession or control under this section,
+13 the secured party shall enter into a security agreement with:
+14 1. The debtor; and
+15 2. As necessary, other parties.
+16 (b) The security agreement may set forth the terms under which a secured party
+17 may pledge its security interests as collateral for another transaction.
+18 (c) Consistent with KRS 355.9-201(1), the security agreement shall be effective
+19 according to its terms between the parties, against purchasers of collateral,
+20 and against creditors.
+21 (4) If a debtor is located in Kentucky, a secured party may file a financing statement
+22 with the Secretary of State to perfect a security interest in a digital consumer
+23 asset or a digital security, including to perfect a security interest in proceeds in
+24 accordance with KRS 355.9-315(4).
+25 (5) Notwithstanding any other provision of law, including Article 9 of KRS Chapter
+26 355, a transferee takes a digital asset free of any security interest perfected by
+27 filing two (2) years after the transferee takes the asset for value if the transferee
+Page 9 of 21
+XXXX 2/3/2025 1:21 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1400
+1 does not have actual notice of an adverse claim at any time during the two (2)
+2 year period.
+3 (6) Perfection by possession creates a possessory security interest under KRS 355.9-
+4 301(2) in virtual currency or a certificated digital security, based on the
+5 possessory nature of a private key, or a device substantially similar to a private
+6 key, which may be tangible or electronic.
+7 (7) For purposes of Article 9 of KRS Chapter 355 and this subsection, if collateral is
+8 required to be "located in a jurisdiction," a digital asset shall be located in
+9 Kentucky if:
+10 (a) The asset is possessed or controlled by:
+11 1. A Kentucky financial institution; or
+12 2. Another custodian in Kentucky;
+13 (b) The debtor or secured party is physically located in Kentucky;
+14 (c) The debtor or secured party is incorporated or organized in Kentucky; or
+15 (d) A consideration of the following factors weighs in favor of finding that the
+16 digital asset is located in Kentucky:
+17 1. Whether a security agreement typically accompanying a possessory
+18 security interest or other secured transaction exists, consistent with
+19 KRS 355.9-201(1), including an agreement describing the possessory
+20 nature of a private key or any device substantially similar to a private
+21 key;
+22 2. The choice of law in a security agreement, evidencing the intent and
+23 understanding of the parties relating to a transaction, including
+24 waivers of litigation in jurisdictions other than Kentucky, access to
+25 Kentucky courts, and judicial economy; and
+26 3. The relative clarity of the laws of other jurisdictions relating to a
+27 digital asset, the consequences relating to unknown liens in those
+Page 10 of 21
+XXXX 2/3/2025 1:21 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1400
+1 jurisdictions, and the ability of a court to exercise jurisdiction over a
+2 particular digital asset.
+3 SECTION 7. A NEW SECTION OF KRS CHAPTER 355A IS CREATED TO
+4 READ AS FOLLOWS:
+5 (1) As used in this section:
+6 (a) "Blockchain" means a digital ledger or database that is chronological,
+7 consensus-based, decentralized, and mathematically verified in nature;
+8 (b) "Consumptive":
+9 1. Means a circumstance when a token is exchangeable for or provided
+10 for the receipt of:
+11 a. Services;
+12 b. Software;
+13 c. Content;
+14 d. Real property; or
+15 e. Tangible personal property; and
+16 2. Includes rights of access to:
+17 a. Services;
+18 b. Content;
+19 c. Real property; or
+20 d. Tangible personal property;
+21 (c) "Developer" means the person primarily responsible for:
+22 1. Creating an open blockchain token, including by executing the
+23 technological processes necessary to create the token; or
+24 2. Otherwise designing an open blockchain token;
+25 (d) "Facilitator" means a person who, as a business, makes open blockchain
+26 tokens described in subsection (2) of this section available for resale to the
+27 public after a token has been purchased by an initial buyer;
+Page 11 of 21
+XXXX 2/3/2025 1:21 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1400
+1 (e) "Financial investment" means a contract, transaction, or arrangement
+2 where a person invests money in a common enterprise and is led to expect
+3 profits solely from the efforts of a promoter or a third party;
+4 (f) "Open blockchain token":
+5 1. Means a digital unit that is:
+6 a. Created:
+7 i. In response to the verification or collection of a specified
+8 number of transactions relating to a digital ledger or
+9 database;
+10 ii. By deploying computer code to a digital ledger or database,
+11 which may include a blockchain, that allows for the
+12 creation of digital tokens or other units; or
+13 iii. Using a combination of the methods specified in subparts i.
+14 and ii. of this subdivision;
+15 b. Recorded to a digital ledger or database, which may include a
+16 blockchain; and
+17 c. Capable of being traded or transferred between persons without
+18 an intermediary or custodian of value; and
+19 2. Does not include virtual currency or a digital security; and
+20 (g) "Seller" means a person that makes an open blockchain token available for
+21 purchase to an initial buyer.
+22 (2) An open blockchain token with the following characteristics is intangible
+23 personal property:
+24 (a) The predominant purpose of the token is consumptive;
+25 (b) The developer or seller did not market the token to the initial buyer as a
+26 financial investment; and
+27 (c) At least one (1) of the following is satisfied:
+Page 12 of 21
+XXXX 2/3/2025 1:21 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1400
+1 1. The developer or seller reasonably believed that it sold the token to the
+2 initial buyer for a consumptive purpose;
+3 2. The token:
+4 a. Has a consumptive purpose that is available at, or near, the time
+5 of sale; and
+6 b. Can be used at, or near, the time of sale for a consumptive
+7 purpose;
+8 3. The initial buyer of the token is prohibited by the developer or seller
+9 from reselling the token until the token is available to be used for a
+10 consumptive purpose; or
+11 4. The developer or seller takes other reasonable precautions to prevent
+12 an initial buyer from purchasing the token as a financial investment.
+13 (3) (a) Before making an open blockchain token described in subsection (2) of this
+14 section available for sale in this state, the developer or seller of the token, or
+15 the registered agent of the developer or seller, shall:
+16 1. Electronically file a notice of intent with the Secretary of State; and
+17 2. Pay a filing fee of one thousand dollars ($1,000) to the Secretary of
+18 State to offset the costs of administering this subsection.
+19 (b) The notice of intent shall contain:
+20 1. The name of the person acting as a developer or seller;
+21 2. The contact information of the person filing the notice; and
+22 3. Comprehensive details on the open blockchain token being made
+23 available for sale, as required by the Secretary of State.
+24 (c) Any forms required or promulgated under this subsection shall be:
+25 1. Accessible to filers in a secure electronic format; and
+26 2. Conspicuously posted on the Secretary of State's website.
+27 (d) A developer, seller, and the registered agents of these persons, if applicable,
+Page 13 of 21
+XXXX 2/3/2025 1:21 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1400
+1 shall have a continuing duty to update the contact information provided on
+2 a notice of intent filed with the Secretary of State under this subsection as
+3 long as the open blockchain token associated with the notice is actively
+4 being sold.
+5 (e) The Secretary of State shall prescribe, by administrative regulation
+6 promulgated in accordance with KRS Chapter 13A:
+7 1. The details required under paragraph (b)3. of this subsection;
+8 2. The form in which a notice of intent under this subsection shall be
+9 made and updated; and
+10 3. The procedures applicable to filings made under this subsection.
+11 (4) A facilitator shall:
+12 (a) Before making any token available for resale to the public in this state,
+13 confirm with the Secretary of State that a notice of intent has been filed for
+14 the token in accordance with subsection (3) of this section;
+15 (b) At all times, have a reasonable and good faith belief that a token subject to
+16 resale by the facilitator conforms to the requirements of subsection (2) of
+17 this section; and
+18 (c) Take reasonably prompt action to terminate the resale of a token that does
+19 not conform to the requirements of this section.
+20 (5) (a) A willful failure by a developer, seller, or facilitator to comply with the
+21 duties imposed under this section shall be deemed an act or practice in
+22 violation of KRS 367.170.
+23 (b) All of the remedies, powers, and duties delegated to the Attorney General by
+24 KRS 367.110 to 367.300, and the penalties provided in KRS 367.990,
+25 pertaining to acts and practices declared unlawful by KRS 367.170, shall be
+26 applicable to a willful failure referenced in paragraph (a) of this subsection.
+27 (c) A developer, seller, or facilitator is subject to all applicable criminal
+Page 14 of 21
+XXXX 2/3/2025 1:21 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1400
+1 statutes, including the fraud provisions of KRS Chapter 434.
+2 (6) The Secretary of State may refer the following to appropriate state or federal
+3 agencies for investigation, criminal prosecution, civil penalties, and other
+4 appropriate enforcement actions:
+5 (a) Suspected violations of this section; and
+6 (b) The developer, seller, or facilitator of an open blockchain token, or another
+7 digital asset that substantially resembles an open blockchain token, which,
+8 in the determination of the Secretary of State, is being sold for any
+9 fraudulent purposes.
+10 (7) This section may be cited as the Kentucky Utility Token Act.
+11 SECTION 8. A NEW SECTION OF KRS CHAPTER 355A IS CREATED TO
+12 READ AS FOLLOWS:
+13 Subject to other jurisdictional limits placed on specific courts under Kentucky law, the
+14 courts of Kentucky shall have jurisdiction to hear claims in both law and equity
+15 relating to digital assets, including those arising under this chapter, KRS Chapter 355,
+16 and Section 9 of this Act.
+17 SECTION 9. A NEW SECTION OF SUBTITLE 2 OF KRS CHAPTER 286 IS
+18 CREATED TO READ AS FOLLOWS:
+19 (1) As used in this section:
+20 (a) "Custodial services":
+21 1. Means the safekeeping, servicing, and management of customer
+22 currency and digital assets; and
+23 2. Includes:
+24 a. The exercise of fiduciary and trust powers involving the exercise
+25 of discretion;
+26 b. Fund administration; and
+27 c. The execution of customer instructions;
+Page 15 of 21
+XXXX 2/3/2025 1:21 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1400
+1 (b) "Digital asset" has the same meaning as in Section 4 of this Act; and
+2 (c) "Financial institution" means any bank, trust company, credit union, or
+3 special purpose depository institution that is:
+4 1. Chartered under this chapter; and
+5 2. Authorized to act as a fiduciary and engage in trust business.
+6 (2) (a) A financial institution may provide custodial services in accordance with
+7 this section upon providing sixty (60) days written notice to the
+8 commissioner.
+9 (b) This section shall not be deemed exclusive, but shall be construed as an
+10 optional framework for enhanced supervision of digital asset custody.
+11 (c) If a financial institution elects to provide custodial services under this
+12 section, it shall comply with all provisions of this section.
+13 (3) A financial institution may serve:
+14 (a) As a qualified custodian, as specified in 17 C.F.R. sec. 275.206(4)-2;
+15 (b) As a custodian authorized by the United States Commodity Futures Trading
+16 Commission; or
+17 (c) As a custodian authorized under any other law.
+18 (4) In performing custodial services under this section, a financial institution shall:
+19 (a) Implement all accounting, account statement, internal control, notice, and
+20 other standards specified by applicable state and federal law and
+21 regulations for custodial services;
+22 (b) 1. Maintain information technology best practices relating to digital
+23 assets held in custody.
+24 2. The commissioner may specify required best practices under this
+25 paragraph through the promulgation of an administrative regulation;
+26 (c) Fully comply with applicable state and federal anti-money laundering,
+27 customer identification, and beneficial ownership requirements; and
+Page 16 of 21
+XXXX 2/3/2025 1:21 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1400
+1 (d) Take other actions necessary to carry out this section, which may include:
+2 1. Exercising fiduciary powers; and
+3 2. Ensuring compliance with federal law governing digital assets
+4 classified as commodities.
+5 (5) (a) A financial institution providing custodial services under this section shall
+6 conform to the audit, accounting, and related requirements specified by the
+7 commissioner and applicable law, which may include entering into an
+8 agreement with an independent public accountant to conduct an
+9 examination conforming to the requirements of 17 C.F.R. sec. 275.206(4)-
+10 2(a)(4) and (6), at the cost of the financial institution.
+11 (b) Except as provided in paragraph (c) of this subsection, an accountant shall
+12 transmit the results of any examination conducted under this subsection to
+13 the commissioner within one hundred twenty (120) days of the examination
+14 and may file the results with other regulatory agencies as their rules may
+15 provide.
+16 (c) Material discrepancies in an examination shall be reported to the
+17 commissioner within one (1) day.
+18 (d) The commissioner shall review examination results within a reasonable
+19 time of receipt and during any regular examination.
+20 (6) Digital assets held in custody under this section are not depository liabilities or
+21 assets of the financial institution.
+22 (7) A financial institution, or a subsidiary, may register as an investment adviser,
+23 investment company, or broker dealer, as necessary.
+24 (8) A financial institution shall:
+25 (a) Maintain possession or control, as applicable, over a digital asset while in
+26 custody; and
+27 (b) Require each customer to elect, pursuant to a written agreement with the
+Page 17 of 21
+XXXX 2/3/2025 1:21 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1400
+1 financial institution, one (1) of the following relationships for each digital
+2 asset in custody:
+3 1. Custody under a bailment as a nonfungible or fungible asset. Assets
+4 held under this subparagraph shall be strictly segregated from other
+5 assets; or
+6 2. Custody as provided in subsection (9) of this section.
+7 (9) (a) If a customer so elects, the financial institution may, based only on the
+8 customer's instructions, undertake transactions with the digital asset.
+9 (b) A financial institution is deemed to maintain possession or control in
+10 accordance with subsection (8)(a) of this section by entering into an
+11 agreement with the counterparty to a transaction that contains a time for
+12 return of the asset and other customary terms in securities or commodities
+13 transactions.
+14 (c) The financial institution shall not be liable for any loss suffered with
+15 respect to a transaction under this subsection, except for liability consistent
+16 with fiduciary and trust powers.
+17 (10) (a) A financial institution and a customer shall agree to the following, in
+18 writing:
+19 1. The source code version the financial institution will use for each
+20 digital asset; and
+21 2. The treatment of each asset under the Uniform Commercial Code,
+22 KRS Chapter 355, if applicable.
+23 (b) Any ambiguity as to the agreement reached under paragraph (a) of this
+24 subsection shall be resolved in favor of the customer.
+25 (11) A financial institution shall provide clear, written notice to each customer, and
+26 require written acknowledgment, of the following:
+27 (a) Prior to implementation, any material source code updates relating to
+Page 18 of 21
+XXXX 2/3/2025 1:21 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1400
+1 digital assets held in custody, except in emergencies that may include
+2 security vulnerabilities;
+3 (b) The heightened risk of loss from transactions referred to in subsection (9)
+4 of this section;
+5 (c) That some risk of loss as a pro rata creditor exists as the result of custody:
+6 1. Under a bailment as a fungible asset; or
+7 2. As provided in subsection (9) of this section;
+8 (d) That custody as provided in subsection (9) of this section may not result in
+9 the digital assets of the customer being strictly segregated from other
+10 customer assets; and
+11 (e) That the financial institution is not liable for losses suffered with respect to
+12 a transaction referred to in subsection (9) of this section, except for liability
+13 consistent with fiduciary and trust powers.
+14 (12) (a) A financial institution and a customer shall agree in writing to a time period
+15 within which the financial institution will return a digital asset held in
+16 custody under this section.
+17 (b) If a customer makes an election under subsection (9) of this section, the
+18 financial institution and the customer may also agree in writing to the form
+19 in which the digital asset shall be returned.
+20 (13) (a) All ancillary or subsidiary proceeds relating to digital assets held in custody
+21 under this section shall accrue to the benefit of the customer, except as
+22 specified by a written agreement with the customer.
+23 (b) The financial institution may elect not to collect certain ancillary or
+24 subsidiary proceeds, as long as the election is disclosed in writing.
+25 (c) A customer that elects custody under a bailment as a nonfungible or
+26 fungible asset may withdraw the digital asset in a form that permits the
+27 collection of the ancillary or subsidiary proceeds.
+Page 19 of 21
+XXXX 2/3/2025 1:21 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1400
+1 (14) For digital assets held in custody under this section, a financial institution shall
+2 not:
+3 (a) Authorize, or permit, rehypothecation of the digital assets; or
+4 (b) Engage in any activity to use, or exercise, discretionary authority relating to
+5 a digital asset, except based on customer instructions.
+6 (15) A financial institution shall not take any action that may be authorized under this
+7 section if that action would likely impair the solvency, or the safety and
+8 soundness, of the financial institution, as determined by the commissioner after
+9 considering the nature of custodial services customary in the banking and
+10 finance industry.
+11 (16) To offset the costs of supervision and administration under this section, a
+12 financial institution that elects to provide custodial services in accordance with
+13 this section shall pay a supervision fee established by the commissioner through
+14 the promulgation of an administrative regulation in accordance with KRS
+15 Chapter 13A.
+16 SECTION 10. A NEW SECTION OF ARTICLE 1 OF KRS CHAPTER 355 IS
+17 CREATED TO READ AS FOLLOWS:
+18 KRS Chapter 355A and Section 9 of this Act shall be construed as supplemental to the
+19 provisions of this chapter. In the event of a conflict, the provisions of KRS Chapter
+20 355A and Section 9 of this Act shall control.
+21 Section 11. KRS 369.103 is amended to read as follows:
+22 (1) Except as otherwise provided in subsection (2) of this section, KRS 369.101 to
+23 369.120 applies to electronic records and electronic signatures relating to a
+24 transaction, including transactions involving digital assets, as defined in Section 4
+25 of this Act.
+26 (2) KRS 369.101 to 369.120 does not apply to a transaction to the extent it is governed
+27 by:
+Page 20 of 21
+XXXX 2/3/2025 1:21 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1400
+1 (a) A law governing the creation and execution of wills, codicils, or testamentary
+2 trusts;
+3 (b) KRS Chapter 355 other than KRS 355.1-107 and 355.1-206, and Articles 2
+4 and 2A of KRS Chapter 355; and
+5 (c) A law governing the creation or transfer of any negotiable instrument or any
+6 instrument establishing title or an interest in title to a motor vehicle and
+7 governed by KRS Chapter 186 or 186A.
+8 (3) KRS 369.101 to 369.120 applies to an electronic record or electronic signature
+9 otherwise excluded from the application of KRS 369.101 to 369.120 under
+10 subsection (2) of this section to the extent it is governed by a law other than those
+11 specified in subsection (2) of this section.
+12 (4) A transaction subject to KRS 369.101 to 369.120 is also subject to other applicable
+13 substantive law.
+14 Section 12. KRS 355.1-102 is amended to read as follows:
+15 (1) Except as provided in subsection (2) of this section, this article applies to a
+16 transaction to the extent that it is governed by another article of the Uniform
+17 Commercial Code.
+18 (2) Notwithstanding any other law, nothing in KRS Chapter 355 shall apply to
+19 central bank digital currency as defined in Section 1 of this Act.
+20 Section 13. The Secretary of State and the commissioner of financial
+21 institutions shall promulgate administrative regulations to implement the provisions of
+22 Section 7 and 9 of this Act, as applicable, on or before October 1, 2025.
+23 Section 14. Sections 4 to 11 of this Act take effect on October 1, 2025.
+Page 21 of 21
+XXXX 2/3/2025 1:21 PM Jacketed
+
+[DELETED:   2  J A B S ( ( A 1 M a d c d m o e o d m a I b P  b f 2 D a B b I ( A e 1 T 2 A 3 A 4 A 1 ( U m i e ( ( A t d]
+[DELETED:   2  J ( H i t c o s d o a l o F m a d o i i a s d f a p n t e S T a t t a i t m a f p b t c ( [ i ] s s n b c a a a r o a a d o t e o e f t p o a d a c o o i o v p ( E s d ( ( T S f ( 1 T S T w t a o t F a A d T t 2 T r ( E d a o o b u w r f t b d a]
+[DELETED:   2  J e ( A n ( A c b d c a a m o p t t d ( R T S ( A i ( I s o t A a s a m a t f m o p t s ( C ( D ( E ( A ( A t ( A l i s ( o t s s b d t r c e a m c c f f u t s a c o d ( A s]
+[DELETED:   2  J c T S R ( A ( " A ( " 1 M a c c c c g u g p o 2 I a a a b b d c e ( A ( A g ( R a p b m t t l g a u a c S 4   K C 3 I E A A N S ( A ( " r 1 S 2 E]
+[DELETED:   2  J a A b A c V ( " 1 M p c 2 I a o b t t i i p p ( " 2 ( " 1 M c a U a a m o e u o a o s o v b E a p i s 2 o t p n r f 2 I a v c r a l t b a g o e b t c w a o a b t g ( T d f " c a " s a " c ( F s]
+[DELETED:   2  J ( N a o l n i t c s a t c b S R ( D ( T 1 A 2 A 3 V ( F 1 A d 2 A i 3 N m ( F b ( ( C w K 3 a d a m b t a a f t ( I d ( A s b c t m t r o a s i a d ( C]
+[DELETED:   2  J g S R ( ( A 1 C a A t s p t h c w K 3 i i A i T s i A s b U K 2 C a M b I i U i U o a m a e t t s i U i U o a d t i s s t a d r v D o a c d s c w K ( A]
+[DELETED:   2  J 1 " a A s o a c r t a d a f t p a i w t ( o m p k a r t c b A s s s t t s d i s 2 " s a H b P w a u p a e o c c A e 3 " a A b A p i E i M o o ( ( N o a t g i o a o p o l p 1 I 2 I]
+[DELETED:   2  J ( A s i h b a s p h p o v c h b a s p t d n h p o c a a ( K a ( E r t p a p o s i i K 3 a 3 a l r t p o c o d s a t t p a p o a s i u ( ( B t 1 T 2 A ( T m ( C a a ( I w t S o t p a s i i a d c a a ( N 3 f]
+[DELETED:   2  J d y ( P 3 i v c o a c d s b o t p k ( F r t b " i a j a d a s b l i K ( T 1 A 2 A ( T ( T ( A d 1 W a s a t a a p s i o o s t e c w K n k 2 T u o t p r t a t i w o l i j o t K a t K 3 T r c o t l o o j r t a d a t c r t u l i t]
+[DELETED:   2  J j p S R ( A ( " m a d l o d t i c c ( " 1 M f a S b S c C d R e T 2 I a S b C c R d T ( " 1 C a o b t i b e t t 2 O ( " t p]
+[DELETED:   2  J ( " i m a c t o a w p ( " 1 M a C i I n o t r t a d l o d i B w m i a b t a f t c i U a b R b c C a 2 D ( " p ( A o b t w t f c i i p ( T ( T f ( A]
+[DELETED:   2  J 1 T i 2 T a H o b C b u a o n t t o s f a c p 3 T f c 4 T a ( ( B s t 1 E 2 P S ( T 1 T 2 T 3 C d o t o b t b m a ( A 1 A 2 C ( A]
+[DELETED:   2  J s a l a t o b t a w t n i a b ( T S o S s p b a r p 1 T 2 T m 3 T ( A ( B m a t a f r t t p i t s c t ( A r t ( T n ( ( A w f b a d s o f t c w t d i u t s s b d a a o p i v ( A K 3 t 3 a t p p i K 3 p a ( A d s o f i s t a a c]
+[DELETED:   2  J s ( T S o S m r t f t a s o f a f i c p c p a o a ( S ( T d i t d o t S o S i b s f a f ( T S R S c o K s h j t h c i b l a e r a S C ( A ( " 1 M t s s a m o c c 2 I a T o b F c T]
+[DELETED:   2  J ( " ( " i m a b t c c u o s 1 C 2 A ( ( A f i p c s i a w t s u p s ( d w n t t c ( T s s n b d e b s b c a o ( I a f i e t p c s u t s ( A ( A ( A C ( A ( I ( I o s s b a s a f l a r ( 1 M i t b p r t d a 2 T c m s r b p u t p ( F c w a s a f a l c]
+[DELETED:   2  J ( T 1 E 2 E c w f l g d a c ( ( A c c a a l w m i e i a a w a i p a t c a e 2 ( E t t a p ( M d i a e s b r t t c ( T c s r e r w a r t ( D a ( A f i a s m r a a i a i ( A ( M c ( R]
+[DELETED:   2  J f a 1 C h a 2 C ( ( I a c s e t f i m b o o t c ( A f i i d t m p o c i a w s ( o t s b e i a a r t ( T f i s n b l f a l s w r w ( ( A f i a a c s a t t f i w 1 T s c v t f i w u f e d 2 T t o e a u t U C C K ( A a a t t a r u p ( o t s ( A r ( P t i a m s c u r t]
+[DELETED:   2  J d a h i c e i e t m i s ( T o ( T 1 U 2 A ( T t d a o t c b s s f o c ( T a c ( ( A w w t f i w r a d a h i c ( I f i ( ( A u t s s a t t b o t c e a s ( T f i m e n t c c a o s ( A c t e c u a b a a n o f a m w t d a i a f t p t c]
+[DELETED:   2  J ( F n ( A ( E a ( A s i t a w l i t s o t s a s c t n o c s c i t b a f ( T o t c o s a a u t s a f t t p o a a r i a w K C S C K p 3 S ( E a o p i s ( o t s K 3 t 3 a t e r a e s r t a t o ( K b]
+[DELETED:   2  J ( A t ( K a ( A i e t o a i i t t a m v a g ( K 3 t 3 a t a e r o e s o e f t a o K 3 t 3 u s s ( A s S ( E a p i s ( o t s t a a t a t t t e t i i g b a a o t U C ( N a o l n i K C 3 s a t c S 1   T S o S a t c o f i S S]
