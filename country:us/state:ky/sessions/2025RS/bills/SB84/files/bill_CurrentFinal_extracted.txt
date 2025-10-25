@@ -1,0 +1,161 @@
+Title: 1 AN ACT relating to judicial review of state agency action.
+Official Title: 1 AN ACT relating to judicial review of state agency action.
+Number of Sections: 1
+Source: versions - Current/Final
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS SB 84/VO
+2 WHEREAS, in Loper Bright Enterprises v. Raimondo, 603 U.S. 369 (2024), the
+3 United States Supreme Court ruled that the federal judiciary's deference to the
+4 interpretation of statutes by federal agencies as articulated in Chevron U.S.A., Inc. v.
+5 Natural Resources Defense Council, Inc., 487 U.S. 837 (1984), and its progeny was
+6 unlawful; and
+7 WHEREAS, the opinions in several cases decided by the Kentucky Supreme Court,
+8 including without limitation, Metzinger v. Kentucky Retirement Systems, 299 S.W. 3d
+9 541 (Ky. 2009), and Kentucky Occupational Safety and Health Review Commission v.
+10 Estill County Fiscal Court, 503 S.W. 3d 924 (Ky. 2016), appeared to adopt the deference
+11 articulated in the Chevron decision as a model for the review by the Kentucky Court of
+12 Justice of a state agency's interpretation of statutes; and
+13 WHEREAS, the General Assembly does not create state agencies with an
+14 expectation that those agencies will possess a proficiency in interpreting a statute that is
+15 superior to that of the Court of Justice; and
+16 WHEREAS, the General Assembly does not believe that any state agency possesses
+17 a proficiency in interpreting a statute that is superior to that of the Court of Justice; and
+18 WHEREAS, the General Assembly believes that judicial deference to a state
+19 agency's interpretation of a statute is inconsistent with the role of the Court of Justice
+20 within the separation of powers provisions of the Constitution of Kentucky; and
+21 WHEREAS, the General Assembly declares that de novo review is the only
+22 appropriate standard for judicial review of a state agency's interpretation of a statute or
+23 regulation;
+24 NOW, THEREFORE,
+25 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+26 SECTION 1. A NEW SECTION OF KRS CHAPTER 13A IS CREATED TO
+27 READ AS FOLLOWS:
+Page 1 of 3
+SB008490.100 - 209 - XXXX 3/27/2025 6:56 PM Vetoed and Overridden
+UNOFFICIAL COPY 25 RS SB 84/VO
+1 (1) An administrative body shall not interpret a statute or administrative regulation
+2 with the expectation that the interpretation of the administrative body is entitled
+3 to deference from a reviewing court.
+4 (2) The interpretation of a statute or administrative regulation by an administrative
+5 body shall not be entitled to deference from a reviewing court.
+6 SECTION 2. A NEW SECTION OF KRS CHAPTER 446 IS CREATED TO
+7 READ AS FOLLOWS:
+8 A court reviewing an administrative body's action, including without limitation a
+9 petition for judicial review of an administrative body's rulemaking or adjudicatory
+10 actions, shall apply de novo review to the administrative body's interpretation of
+11 statutes, administrative regulations, and other questions of law.
+12 Section 3. KRS 13B.150 is amended to read as follows:
+13 (1) Except as provided in KRS 452.005, review of a final order shall be conducted by
+14 the court without a jury and shall be confined to the record, unless there is fraud or
+15 misconduct involving a party engaged in administration of this chapter. The court,
+16 upon request, may hear oral argument and receive written briefs. Challenges to the
+17 constitutionality of a final order shall be reviewed in accordance with KRS 452.005.
+18 (2) The court shall not substitute its judgment for that of the agency as to the weight of
+19 the evidence on questions of fact. The court may affirm the final order or it may
+20 reverse the final order, in whole or in part, and remand the case for further
+21 proceedings if it finds the agency's final order is:
+22 (a) In violation of constitutional or statutory provisions;
+23 (b) In excess of the statutory authority of the agency;
+24 (c) Without support of substantial evidence on the whole record;
+25 (d) Arbitrary, capricious, or characterized by abuse of discretion;
+26 (e) Based on an ex parte communication which substantially prejudiced the rights
+27 of any party and likely affected the outcome of the hearing;
+Page 2 of 3
+SB008490.100 - 209 - XXXX 3/27/2025 6:56 PM Vetoed and Overridden
+UNOFFICIAL COPY 25 RS SB 84/VO
+1 (f) Prejudiced by a failure of the person conducting a proceeding to be
+2 disqualified pursuant to KRS 13B.040(2); or
+3 (g) Deficient as otherwise provided by law.
+4 (3) The court shall apply de novo review of the agency's final order on questions of
+5 law. An agency's interpretation of a statute or administrative regulation shall not
+6 be entitled to deference from a reviewing court.
+Page 3 of 3
+SB008490.100 - 209 - XXXX 3/27/2025 6:56 PM Vetoed and Overridden
+[DELETED:   2  V A W U S S C r t t f j d t t i o b f a a a i C I v N R D C I 4 U 8 ( a i p w u W i 5 E a J W t G A d n c s a w a e s W a W t G A b t j d t a s a w W t G A d t d n r i t o a r N B S R]
+[DELETED:   2  V ( A w t ( T b S R A c r a a b a i w l a p f j r o a a b r o a a s a d n r t t a b i o s S ( E t m u c ( T t r t f o i w o i p a r t c f f p ( I ( I ( W ( A ( B o]
+[DELETED:   2  V ( P b a f o t p c a p t b d ( D ( T l b]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS SB 84/VO
+1 AN ACT relating to judicial review of state agency action.
+2 WHEREAS, in Loper Bright Enterprises v. Raimondo, 603 U.S. 369 (2024), the
+3 United States Supreme Court ruled that the federal judiciary's deference to the
+4 interpretation of statutes by federal agencies as articulated in Chevron U.S.A., Inc. v.
+5 Natural Resources Defense Council, Inc., 487 U.S. 837 (1984), and its progeny was
+6 unlawful; and
+7 WHEREAS, the opinions in several cases decided by the Kentucky Supreme Court,
+8 including without limitation, Metzinger v. Kentucky Retirement Systems, 299 S.W. 3d
+9 541 (Ky. 2009), and Kentucky Occupational Safety and Health Review Commission v.
+10 Estill County Fiscal Court, 503 S.W. 3d 924 (Ky. 2016), appeared to adopt the deference
+11 articulated in the Chevron decision as a model for the review by the Kentucky Court of
+12 Justice of a state agency's interpretation of statutes; and
+13 WHEREAS, the General Assembly does not create state agencies with an
+14 expectation that those agencies will possess a proficiency in interpreting a statute that is
+15 superior to that of the Court of Justice; and
+16 WHEREAS, the General Assembly does not believe that any state agency possesses
+17 a proficiency in interpreting a statute that is superior to that of the Court of Justice; and
+18 WHEREAS, the General Assembly believes that judicial deference to a state
+19 agency's interpretation of a statute is inconsistent with the role of the Court of Justice
+20 within the separation of powers provisions of the Constitution of Kentucky; and
+21 WHEREAS, the General Assembly declares that de novo review is the only
+22 appropriate standard for judicial review of a state agency's interpretation of a statute or
+23 regulation;
+24 NOW, THEREFORE,
+25 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+26 SECTION 1. A NEW SECTION OF KRS CHAPTER 13A IS CREATED TO
+27 READ AS FOLLOWS:
+Page 1 of 3
+SB008490.100 - 209 - XXXX 3/27/2025 6:56 PM Vetoed and Overridden
+
+UNOFFICIAL COPY 25 RS SB 84/VO
+1 (1) An administrative body shall not interpret a statute or administrative regulation
+2 with the expectation that the interpretation of the administrative body is entitled
+3 to deference from a reviewing court.
+4 (2) The interpretation of a statute or administrative regulation by an administrative
+5 body shall not be entitled to deference from a reviewing court.
+6 SECTION 2. A NEW SECTION OF KRS CHAPTER 446 IS CREATED TO
+7 READ AS FOLLOWS:
+8 A court reviewing an administrative body's action, including without limitation a
+9 petition for judicial review of an administrative body's rulemaking or adjudicatory
+10 actions, shall apply de novo review to the administrative body's interpretation of
+11 statutes, administrative regulations, and other questions of law.
+12 Section 3. KRS 13B.150 is amended to read as follows:
+13 (1) Except as provided in KRS 452.005, review of a final order shall be conducted by
+14 the court without a jury and shall be confined to the record, unless there is fraud or
+15 misconduct involving a party engaged in administration of this chapter. The court,
+16 upon request, may hear oral argument and receive written briefs. Challenges to the
+17 constitutionality of a final order shall be reviewed in accordance with KRS 452.005.
+18 (2) The court shall not substitute its judgment for that of the agency as to the weight of
+19 the evidence on questions of fact. The court may affirm the final order or it may
+20 reverse the final order, in whole or in part, and remand the case for further
+21 proceedings if it finds the agency's final order is:
+22 (a) In violation of constitutional or statutory provisions;
+23 (b) In excess of the statutory authority of the agency;
+24 (c) Without support of substantial evidence on the whole record;
+25 (d) Arbitrary, capricious, or characterized by abuse of discretion;
+26 (e) Based on an ex parte communication which substantially prejudiced the rights
+27 of any party and likely affected the outcome of the hearing;
+Page 2 of 3
+SB008490.100 - 209 - XXXX 3/27/2025 6:56 PM Vetoed and Overridden
+
+UNOFFICIAL COPY 25 RS SB 84/VO
+1 (f) Prejudiced by a failure of the person conducting a proceeding to be
+2 disqualified pursuant to KRS 13B.040(2); or
+3 (g) Deficient as otherwise provided by law.
+4 (3) The court shall apply de novo review of the agency's final order on questions of
+5 law. An agency's interpretation of a statute or administrative regulation shall not
+6 be entitled to deference from a reviewing court.
+Page 3 of 3
+SB008490.100 - 209 - XXXX 3/27/2025 6:56 PM Vetoed and Overridden
+
+[DELETED:   2  V A W U S S C r t t f j d t t i o b f a a a i C I v N R D C I 4 U 8 ( a i p w u W i 5 E a J W t G A d n c s a w a e s W a W t G A b t j d t a s a w W t G A d t d n r i t o a r N B S R]
+[DELETED:   2  V ( A w t ( T b S R A c r a a b a i w l a p f j r o a a b r o a a s a d n r t t a b i o s S ( E t m u c ( T t r t f o i w o i p a r t c f f p ( I ( I ( W ( A ( B o]
+[DELETED:   2  V ( P b a f o t p c a p t b d ( D ( T l b]

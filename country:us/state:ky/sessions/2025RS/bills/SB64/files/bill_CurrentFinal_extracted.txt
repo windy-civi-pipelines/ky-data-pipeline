@@ -1,0 +1,315 @@
+Title: 1 AN ACT relating to key infrastructure assets and declaring an emergency.
+Official Title: 1 AN ACT relating to key infrastructure assets and declaring an emergency.
+Number of Sections: 1
+Source: versions - Current/Final
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS SB 64/EN
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 511.100 is amended to read as follows:
+4 (1) As used in this section:
+5 (a) "Key infrastructure assets" means:
+6 1. Any critical node of a system used in the production or generation of
+7 electrical energy;
+8 2. A petroleum refinery;
+9 3. A rubber or hazardous chemical manufacturing facility;
+10 4. A petroleum or hazardous chemical storage facility or terminal;
+11 5. Natural gas processing, fractionation, stabilization, and compressor
+12 station facilities, as well as above-ground natural gas or petroleum
+13 pipelines and related facilities;
+14 6. Railroad yards and railroad tunnel portals;
+15 7. A drinking water collection, treatment, or storage facility;
+16 8. Grounds or property of a state prison, juvenile justice facility, jail, or
+17 other facility for the detention of persons charged with or convicted of
+18 crimes;
+19 9. A facility used for research, development, design, production, delivery,
+20 or maintenance of military weapons systems, subsystems, and
+21 components or parts to meet military requirements of the United States;
+22 10. A wireless communications facility, including the tower, antennae,
+23 support structures and all associated ground-based equipment, and a
+24 telecommunications central switching office;
+25 11. A facility, equipment, or communication line used in the delivery of
+26 cable television, telephony, or broadband service[ headend];
+27 12. A commercial food manufacturing or processing facility in which food
+Page 1 of 5
+SB006420.100 - 1112 - XXXX 3/13/2025 3:30 PM Engrossed
+UNOFFICIAL COPY 25 RS SB 64/EN
+1 is manufactured, processed, or packaged, commercially, for human
+2 consumption, but not including retail food establishments, home-based
+3 processors, or home-based microprocessors as those terms are defined in
+4 KRS 217.015;
+5 13. An animal feeding operation as defined in 40 C.F.R. sec. 122.23;[ or]
+6 14. A concentrated animal feeding operation as defined in 40 C.F.R. sec.
+7 122.23; or
+8 15. Electrical highway infrastructure; and
+9 (b) "Unmanned aircraft system" means an aircraft that is operated without the
+10 possibility of direct human interaction from within or on the aircraft and
+11 includes everything that is on board or otherwise attached to the aircraft and
+12 all associated elements, including communication links and the components
+13 that control the small unmanned aircraft, that are required for the safe and
+14 efficient operation of the unmanned aircraft in the national airspace system.
+15 (2) (a) A person commits the offense of trespass upon key infrastructure assets if he
+16 or she knowingly enters or remains unlawfully in or upon real property on
+17 which key infrastructure assets are located.
+18 (b) A person commits the offense of trespass upon key infrastructure assets if he
+19 or she knowingly uses, or retains or authorizes a person to use, an unmanned
+20 aircraft system to fly above real property on which key infrastructure assets
+21 are located with the intent to cause harm or damage to or conduct surveillance
+22 of the key infrastructure asset without the prior consent of the owner, tenant,
+23 or lessee of the real property.
+24 (c) A person commits the offense of trespass upon key infrastructure assets if he
+25 or she knowingly, without consent of the owner or authorized representative:
+26 1. Operates an unmanned aircraft system, video recording device, audio
+27 recording device, or photography equipment on or above property
+Page 2 of 5
+SB006420.100 - 1112 - XXXX 3/13/2025 3:30 PM Engrossed
+UNOFFICIAL COPY 25 RS SB 64/EN
+1 containing a key infrastructure asset referenced in subsection (1)(a)12.,
+2 13., or 14. of this section; or
+3 2. Records or distributes, photographically, electronically, or otherwise,
+4 any part, procedure, or action of a key infrastructure asset referenced in
+5 subsection (1)(a)12., 13., or 14. of this section.
+6 (3) Trespass upon key infrastructure assets is a Class B misdemeanor for the first
+7 offense, and a Class A misdemeanor for a second or subsequent offense.
+8 (4) This section does not apply to:
+9 (a) An unmanned aircraft system used by the federal government or by the
+10 Commonwealth, or by a person acting pursuant to a contract with the federal
+11 government or the Commonwealth;
+12 (b) An unmanned aircraft system used by:
+13 1. The owner of the real property or key infrastructure asset;
+14 2. A person under a valid lease, servitude, right-of-way, right of use,
+15 permit, license, or other right granted by the owner of the real property
+16 or key infrastructure asset; or
+17 3. A third party who is retained or authorized by a person specified in
+18 subparagraph 1. or 2. of this paragraph;
+19 (c) An unmanned aircraft system used by a law enforcement agency, emergency
+20 medical service agency, hazardous material response team, disaster
+21 management agency, or other emergency management agency for the purpose
+22 of incident command, area reconnaissance, personnel and equipment
+23 deployment monitoring, training, or a related purpose;
+24 (d) Operation of an unmanned aircraft system by a person or entity for a
+25 commercial purpose in compliance with applicable Federal Aviation
+26 Administration authorization, regulations, or exemptions;
+27 (e) A satellite orbiting the earth;
+Page 3 of 5
+SB006420.100 - 1112 - XXXX 3/13/2025 3:30 PM Engrossed
+UNOFFICIAL COPY 25 RS SB 64/EN
+1 (f) An unmanned aircraft system used by an insurance company or a person
+2 acting on behalf of an insurance company for purposes of underwriting an
+3 insurance risk or investigating damage to insured property;
+4 (g) An unmanned aircraft system used strictly in accordance with an order of a
+5 court of competent jurisdiction;
+6 (h) Any electric, water, or natural gas utility company or a person acting on
+7 behalf of any electric, water, or natural gas utility company for legitimate
+8 business purposes; or
+9 (i) Any federal, state, or local government law enforcement or regulatory officer
+10 or employee while the officer or employee is engaged in the performance of
+11 his or her official duties.
+12 Section 2. KRS 512.020 is amended to read as follows:
+13 (1) A person is guilty of criminal mischief in the first degree when, having no right to
+14 do so or any reasonable ground to believe that he or she has such right, he or she
+15 intentionally or wantonly:
+16 (a) Defaces, destroys, or damages any property causing pecuniary loss of five
+17 hundred dollars ($500) or more;
+18 (b) Damages, possesses, or tampers with the operations of a key infrastructure
+19 asset, as defined in KRS 511.100, in a manner that renders the asset
+20 inoperable, in whole or in part, or renders the operation of the
+21 asset[operations] harmful or dangerous; or
+22 (c) As a tenant, intentionally or wantonly defaces, destroys, or damages
+23 residential rental property causing pecuniary loss of five hundred dollars
+24 ($500) or more.
+25 (2) Criminal mischief in the first degree is a Class D felony, unless:
+26 (a) The offense occurs during a declared emergency as defined by KRS 39A.020
+27 arising from a natural or man-made disaster, within the area covered by the
+Page 4 of 5
+SB006420.100 - 1112 - XXXX 3/13/2025 3:30 PM Engrossed
+UNOFFICIAL COPY 25 RS SB 64/EN
+1 emergency declaration, and within the area impacted by the disaster, in which
+2 case it is a Class C felony;
+3 (b) For the first offense, if the defendant at any time prior to trial effects repair or
+4 replacement of the defaced, destroyed, or damaged property, makes complete
+5 restitution in the amount of the damage, or performs community service as
+6 required by the court, in which case it is a Class B misdemeanor. The court
+7 shall determine the number of hours of community service commensurate
+8 with the total amount of monetary damage caused by or incidental to the
+9 commission of the crime, of not less than sixty (60) hours; or
+10 (c) For the second or subsequent offense, if the defendant at any time prior to trial
+11 effects repair or replacement of the defaced, destroyed, or damaged property,
+12 makes complete restitution in the amount of the damage, or performs
+13 community service as required by the court, in which case it is a Class A
+14 misdemeanor. The court shall determine the number of hours of community
+15 service commensurate with the total amount of monetary damage caused by
+16 or incidental to the commission of the crime, of not less than sixty (60) hours.
+17 Section 3. Whereas threats to key infrastructure assets represent an ongoing
+18 danger to communities in the Commonwealth, an emergency is declared to exist, and this
+19 Act takes effect upon its passage and approval by the Governor or upon its otherwise
+20 becoming a law.
+Page 5 of 5
+SB006420.100 - 1112 - XXXX 3/13/2025 3:30 PM Engrossed
+[DELETED:   2  E A B S ( A ( " 1 A e 2 A 3 A 4 A 5 N g p f s a c s f a w a a n g o p p 6 R 7 A 8 G o c 9 A o m o m w s s a c 1 A w c f i t t a s s a a a g e a a t 1 A c 1 A]
+[DELETED:   2  E i m p o p c f h c p K 1 A 1 A 1 1 E ( " a s m a a t i o w t p o d h i f w o o t a a i a t a e ( ( A o w ( A o a a o o ( A o 1 O a u a s v r d a r d o p e o o a p]
+[DELETED:   2  E c 1 2 R o d p e o o a s ( T u k i a i a C B m f t f o ( T ( A u a s u b t f g o b t C g ( A 1 T 2 A p u a v l s r r o u p o 3 A t p w i r o a b a p s i s ( A m s a h m r t d m o i c a r p a e d ( O o a u a s b a p o e f a c p i c w a F A A ( A]
+[DELETED:   2  E ( A u a s u b a i c o a p a i ( A c ( A e w o n g u c o a p a o b o a e w o n g u c f l b ( A o h S ( A d i ( D d o d a p c p l o f h ( D a a d i K 5 i a m t r t a i i w o i p o r t o o t a ( A a t i o w d d o d r r p c p l o f h d ( ( C ( T a]
+[DELETED:   2  E e c ( F r r r s d t n o h o c s c w t t a o m d c b o i t t c ( F e m c r i t a o t d o p c s a r b t c i w c i i a C A m s o S d A b]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS SB 64/EN
+1 AN ACT relating to key infrastructure assets and declaring an emergency.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 511.100 is amended to read as follows:
+4 (1) As used in this section:
+5 (a) "Key infrastructure assets" means:
+6 1. Any critical node of a system used in the production or generation of
+7 electrical energy;
+8 2. A petroleum refinery;
+9 3. A rubber or hazardous chemical manufacturing facility;
+10 4. A petroleum or hazardous chemical storage facility or terminal;
+11 5. Natural gas processing, fractionation, stabilization, and compressor
+12 station facilities, as well as above-ground natural gas or petroleum
+13 pipelines and related facilities;
+14 6. Railroad yards and railroad tunnel portals;
+15 7. A drinking water collection, treatment, or storage facility;
+16 8. Grounds or property of a state prison, juvenile justice facility, jail, or
+17 other facility for the detention of persons charged with or convicted of
+18 crimes;
+19 9. A facility used for research, development, design, production, delivery,
+20 or maintenance of military weapons systems, subsystems, and
+21 components or parts to meet military requirements of the United States;
+22 10. A wireless communications facility, including the tower, antennae,
+23 support structures and all associated ground-based equipment, and a
+24 telecommunications central switching office;
+25 11. A facility, equipment, or communication line used in the delivery of
+26 cable television, telephony, or broadband service[ headend];
+27 12. A commercial food manufacturing or processing facility in which food
+Page 1 of 5
+SB006420.100 - 1112 - XXXX 3/13/2025 3:30 PM Engrossed
+
+UNOFFICIAL COPY 25 RS SB 64/EN
+1 is manufactured, processed, or packaged, commercially, for human
+2 consumption, but not including retail food establishments, home-based
+3 processors, or home-based microprocessors as those terms are defined in
+4 KRS 217.015;
+5 13. An animal feeding operation as defined in 40 C.F.R. sec. 122.23;[ or]
+6 14. A concentrated animal feeding operation as defined in 40 C.F.R. sec.
+7 122.23; or
+8 15. Electrical highway infrastructure; and
+9 (b) "Unmanned aircraft system" means an aircraft that is operated without the
+10 possibility of direct human interaction from within or on the aircraft and
+11 includes everything that is on board or otherwise attached to the aircraft and
+12 all associated elements, including communication links and the components
+13 that control the small unmanned aircraft, that are required for the safe and
+14 efficient operation of the unmanned aircraft in the national airspace system.
+15 (2) (a) A person commits the offense of trespass upon key infrastructure assets if he
+16 or she knowingly enters or remains unlawfully in or upon real property on
+17 which key infrastructure assets are located.
+18 (b) A person commits the offense of trespass upon key infrastructure assets if he
+19 or she knowingly uses, or retains or authorizes a person to use, an unmanned
+20 aircraft system to fly above real property on which key infrastructure assets
+21 are located with the intent to cause harm or damage to or conduct surveillance
+22 of the key infrastructure asset without the prior consent of the owner, tenant,
+23 or lessee of the real property.
+24 (c) A person commits the offense of trespass upon key infrastructure assets if he
+25 or she knowingly, without consent of the owner or authorized representative:
+26 1. Operates an unmanned aircraft system, video recording device, audio
+27 recording device, or photography equipment on or above property
+Page 2 of 5
+SB006420.100 - 1112 - XXXX 3/13/2025 3:30 PM Engrossed
+
+UNOFFICIAL COPY 25 RS SB 64/EN
+1 containing a key infrastructure asset referenced in subsection (1)(a)12.,
+2 13., or 14. of this section; or
+3 2. Records or distributes, photographically, electronically, or otherwise,
+4 any part, procedure, or action of a key infrastructure asset referenced in
+5 subsection (1)(a)12., 13., or 14. of this section.
+6 (3) Trespass upon key infrastructure assets is a Class B misdemeanor for the first
+7 offense, and a Class A misdemeanor for a second or subsequent offense.
+8 (4) This section does not apply to:
+9 (a) An unmanned aircraft system used by the federal government or by the
+10 Commonwealth, or by a person acting pursuant to a contract with the federal
+11 government or the Commonwealth;
+12 (b) An unmanned aircraft system used by:
+13 1. The owner of the real property or key infrastructure asset;
+14 2. A person under a valid lease, servitude, right-of-way, right of use,
+15 permit, license, or other right granted by the owner of the real property
+16 or key infrastructure asset; or
+17 3. A third party who is retained or authorized by a person specified in
+18 subparagraph 1. or 2. of this paragraph;
+19 (c) An unmanned aircraft system used by a law enforcement agency, emergency
+20 medical service agency, hazardous material response team, disaster
+21 management agency, or other emergency management agency for the purpose
+22 of incident command, area reconnaissance, personnel and equipment
+23 deployment monitoring, training, or a related purpose;
+24 (d) Operation of an unmanned aircraft system by a person or entity for a
+25 commercial purpose in compliance with applicable Federal Aviation
+26 Administration authorization, regulations, or exemptions;
+27 (e) A satellite orbiting the earth;
+Page 3 of 5
+SB006420.100 - 1112 - XXXX 3/13/2025 3:30 PM Engrossed
+
+UNOFFICIAL COPY 25 RS SB 64/EN
+1 (f) An unmanned aircraft system used by an insurance company or a person
+2 acting on behalf of an insurance company for purposes of underwriting an
+3 insurance risk or investigating damage to insured property;
+4 (g) An unmanned aircraft system used strictly in accordance with an order of a
+5 court of competent jurisdiction;
+6 (h) Any electric, water, or natural gas utility company or a person acting on
+7 behalf of any electric, water, or natural gas utility company for legitimate
+8 business purposes; or
+9 (i) Any federal, state, or local government law enforcement or regulatory officer
+10 or employee while the officer or employee is engaged in the performance of
+11 his or her official duties.
+12 Section 2. KRS 512.020 is amended to read as follows:
+13 (1) A person is guilty of criminal mischief in the first degree when, having no right to
+14 do so or any reasonable ground to believe that he or she has such right, he or she
+15 intentionally or wantonly:
+16 (a) Defaces, destroys, or damages any property causing pecuniary loss of five
+17 hundred dollars ($500) or more;
+18 (b) Damages, possesses, or tampers with the operations of a key infrastructure
+19 asset, as defined in KRS 511.100, in a manner that renders the asset
+20 inoperable, in whole or in part, or renders the operation of the
+21 asset[operations] harmful or dangerous; or
+22 (c) As a tenant, intentionally or wantonly defaces, destroys, or damages
+23 residential rental property causing pecuniary loss of five hundred dollars
+24 ($500) or more.
+25 (2) Criminal mischief in the first degree is a Class D felony, unless:
+26 (a) The offense occurs during a declared emergency as defined by KRS 39A.020
+27 arising from a natural or man-made disaster, within the area covered by the
+Page 4 of 5
+SB006420.100 - 1112 - XXXX 3/13/2025 3:30 PM Engrossed
+
+UNOFFICIAL COPY 25 RS SB 64/EN
+1 emergency declaration, and within the area impacted by the disaster, in which
+2 case it is a Class C felony;
+3 (b) For the first offense, if the defendant at any time prior to trial effects repair or
+4 replacement of the defaced, destroyed, or damaged property, makes complete
+5 restitution in the amount of the damage, or performs community service as
+6 required by the court, in which case it is a Class B misdemeanor. The court
+7 shall determine the number of hours of community service commensurate
+8 with the total amount of monetary damage caused by or incidental to the
+9 commission of the crime, of not less than sixty (60) hours; or
+10 (c) For the second or subsequent offense, if the defendant at any time prior to trial
+11 effects repair or replacement of the defaced, destroyed, or damaged property,
+12 makes complete restitution in the amount of the damage, or performs
+13 community service as required by the court, in which case it is a Class A
+14 misdemeanor. The court shall determine the number of hours of community
+15 service commensurate with the total amount of monetary damage caused by
+16 or incidental to the commission of the crime, of not less than sixty (60) hours.
+17 Section 3. Whereas threats to key infrastructure assets represent an ongoing
+18 danger to communities in the Commonwealth, an emergency is declared to exist, and this
+19 Act takes effect upon its passage and approval by the Governor or upon its otherwise
+20 becoming a law.
+Page 5 of 5
+SB006420.100 - 1112 - XXXX 3/13/2025 3:30 PM Engrossed
+
+[DELETED:   2  E A B S ( A ( " 1 A e 2 A 3 A 4 A 5 N g p f s a c s f a w a a n g o p p 6 R 7 A 8 G o c 9 A o m o m w s s a c 1 A w c f i t t a s s a a a g e a a t 1 A c 1 A]
+[DELETED:   2  E i m p o p c f h c p K 1 A 1 A 1 1 E ( " a s m a a t i o w t p o d h i f w o o t a a i a t a e ( ( A o w ( A o a a o o ( A o 1 O a u a s v r d a r d o p e o o a p]
+[DELETED:   2  E c 1 2 R o d p e o o a s ( T u k i a i a C B m f t f o ( T ( A u a s u b t f g o b t C g ( A 1 T 2 A p u a v l s r r o u p o 3 A t p w i r o a b a p s i s ( A m s a h m r t d m o i c a r p a e d ( O o a u a s b a p o e f a c p i c w a F A A ( A]
+[DELETED:   2  E ( A u a s u b a i c o a p a i ( A c ( A e w o n g u c o a p a o b o a e w o n g u c f l b ( A o h S ( A d i ( D d o d a p c p l o f h ( D a a d i K 5 i a m t r t a i i w o i p o r t o o t a ( A a t i o w d d o d r r p c p l o f h d ( ( C ( T a]
+[DELETED:   2  E e c ( F r r r s d t n o h o c s c w t t a o m d c b o i t t c ( F e m c r i t a o t d o p c s a r b t c i w c i i a C A m s o S d A b]

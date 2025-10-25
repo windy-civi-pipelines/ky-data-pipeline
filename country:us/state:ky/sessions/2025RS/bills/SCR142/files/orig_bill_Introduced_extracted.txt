@@ -1,0 +1,173 @@
+Title: 1 A CONCURRENT RESOLUTION directing the establishment of the
+Official Title: 1 A CONCURRENT RESOLUTION directing the establishment of the
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS BR 2001
+2 Commonwealth Artificial Intelligence Consortium Task Force.
+3 WHEREAS, artificial intelligence is rapidly reshaping our world; and
+4 WHEREAS, artificial intelligence has the potential to revolutionize industries and
+5 immensely improve the lives of Kentuckians; and
+6 WHEREAS, artificial intelligence has the power to drive economic growth,
+7 enhance efficiency, and personalize services; and
+8 WHEREAS, artificial intelligence is expected to attract investment, foster
+9 innovation, and create new industries and jobs; and
+10 WHEREAS, the growth and effectiveness of artificial intelligence will depend on
+11 its alignment with local needs and values, and must be developed and deployed with the
+12 Commonwealth's unique characteristics in mind; and
+13 WHEREAS, the deployment of artificial intelligence in Kentucky must consider the
+14 Commonwealth's diverse demographics; address specific challenges such as rural
+15 healthcare, educational disparities, economic development; and leverage data relevant to
+16 and representative of Kentucky; and
+17 WHEREAS, in order to maximize the benefits of artificial intelligence, the General
+18 Assembly should establish the Commonwealth Artificial Intelligence Consortium Task
+19 Force; and
+20 WHEREAS, the Commonwealth Artificial Intelligence Consortium Task Force will
+21 serve as a collaborative platform to bring together state and local governments,
+22 educational institutions, healthcare providers, industry, and citizens to identify needs,
+23 collect data, develop artificial intelligence solutions, foster innovation and
+24 competitiveness, promote artificial intelligence literacy, and ensure trusted artificial
+25 intelligence development and governance;
+26 NOW, THEREFORE,
+27 Be it resolved by the Senate of the General Assembly of the Commonwealth of
+Page 1 of 3
+XXXX 3/5/2025 6:05 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 2001
+1 Kentucky, the House of Representatives concurring therein:
+2 Section 1. The Legislative Research Commission shall establish the
+3 Commonwealth Artificial Intelligence Consortium Task Force to serve as a collaborative
+4 platform to bring together state and local governments, educational institutions,
+5 healthcare providers, industry, and citizens to identify needs, collect data, develop
+6 artificial intelligence solutions, foster innovation and competitiveness, promote artificial
+7 intelligence literacy, and ensure trusted artificial intelligence development and
+8 governance.
+9 Section 2. The task force shall be composed of the following members with
+10 final membership of the task force being subject to the consideration and approval of the
+11 Legislative Research Commission:
+12 (1) Two members of the House of Representatives appointed by the Speaker of
+13 the House of Representatives, one of whom shall be designated as co-chair;
+14 (2) One member of the House of Representatives appointed by the Minority Floor
+15 Leader of the House of Representatives;
+16 (3) Two members of the Senate appointed by the President of the Senate, one of
+17 whom shall be designated as co-chair;
+18 (4) One member of the Senate appointed by the Minority Floor Leader of the
+19 Senate;
+20 (5) The president of the Council on Postsecondary Education or designee;
+21 (6) The executive director of the Kentucky League of Cities or designee;
+22 (7) The executive director of the Kentucky Association of Counties or designee;
+23 (8) The deputy chief information officer of the Commonwealth Office of
+24 Technology or designee;
+25 (9) The secretary of the Cabinet for Health and Family Services or designee;
+26 (10) Two representatives from the Artificial Intelligence and Machine Learning
+27 Hub at the University of Kentucky; and
+Page 2 of 3
+XXXX 3/5/2025 6:05 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 2001
+1 (11) Two representatives from the J.B. Speed School of Engineering at the
+2 University of Louisville.
+3 Section 3. The task force shall meet as needed during the 2025 Interim of the
+4 General Assembly. The task force shall submit its findings and legislative
+5 recommendations to the Legislative Research Commission by November 21, 2025. If
+6 legislative recommendations are submitted, the Legislative Research Commission may
+7 refer the recommendations to the appropriate committee or committees of jurisdiction in
+8 advance of the 2026 Regular Session of the Kentucky General Assembly.
+9 Section 4. Provisions of this Resolution to the contrary notwithstanding, the
+10 Legislative Research Commission shall have the authority to alternatively assign the
+11 issues identified herein to an interim joint committee or subcommittee thereof and to
+12 designate a study completion date.
+Page 3 of 3
+XXXX 3/5/2025 6:05 PM Jacketed
+[DELETED:   2  J A C R d t e o t C W W i W a i h t p t d e g e W a i i e t a i f i W i C W C d d a s c s a r h a W A F W s a a c p t b t s a l g e i h p i a c t i n c d d a i s f i a c p a i l a e t a i N B i r b t S o t G A o t C o]
+[DELETED:   2  J K S 1   T L R C s e t C p t b t s a l g e i h p i a c t i n c d d a i l a e t a i d a g S f L ( T t ( O L ( T w ( O m o S a b t M F L S ( T ( T ( T ( T d c i o o t C O o T ( T ( T r f t A I a M L H]
+[DELETED:   2  J ( T r f t J S S o E a t U S G A T t f s s i f a l r t t L R C b N 2 2 I l r a S L R C s h t a t a a t i i h t a i j c o s t a t d]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS BR 2001
+1 A CONCURRENT RESOLUTION directing the establishment of the
+2 Commonwealth Artificial Intelligence Consortium Task Force.
+3 WHEREAS, artificial intelligence is rapidly reshaping our world; and
+4 WHEREAS, artificial intelligence has the potential to revolutionize industries and
+5 immensely improve the lives of Kentuckians; and
+6 WHEREAS, artificial intelligence has the power to drive economic growth,
+7 enhance efficiency, and personalize services; and
+8 WHEREAS, artificial intelligence is expected to attract investment, foster
+9 innovation, and create new industries and jobs; and
+10 WHEREAS, the growth and effectiveness of artificial intelligence will depend on
+11 its alignment with local needs and values, and must be developed and deployed with the
+12 Commonwealth's unique characteristics in mind; and
+13 WHEREAS, the deployment of artificial intelligence in Kentucky must consider the
+14 Commonwealth's diverse demographics; address specific challenges such as rural
+15 healthcare, educational disparities, economic development; and leverage data relevant to
+16 and representative of Kentucky; and
+17 WHEREAS, in order to maximize the benefits of artificial intelligence, the General
+18 Assembly should establish the Commonwealth Artificial Intelligence Consortium Task
+19 Force; and
+20 WHEREAS, the Commonwealth Artificial Intelligence Consortium Task Force will
+21 serve as a collaborative platform to bring together state and local governments,
+22 educational institutions, healthcare providers, industry, and citizens to identify needs,
+23 collect data, develop artificial intelligence solutions, foster innovation and
+24 competitiveness, promote artificial intelligence literacy, and ensure trusted artificial
+25 intelligence development and governance;
+26 NOW, THEREFORE,
+27 Be it resolved by the Senate of the General Assembly of the Commonwealth of
+Page 1 of 3
+XXXX 3/5/2025 6:05 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 2001
+1 Kentucky, the House of Representatives concurring therein:
+2 Section 1. The Legislative Research Commission shall establish the
+3 Commonwealth Artificial Intelligence Consortium Task Force to serve as a collaborative
+4 platform to bring together state and local governments, educational institutions,
+5 healthcare providers, industry, and citizens to identify needs, collect data, develop
+6 artificial intelligence solutions, foster innovation and competitiveness, promote artificial
+7 intelligence literacy, and ensure trusted artificial intelligence development and
+8 governance.
+9 Section 2. The task force shall be composed of the following members with
+10 final membership of the task force being subject to the consideration and approval of the
+11 Legislative Research Commission:
+12 (1) Two members of the House of Representatives appointed by the Speaker of
+13 the House of Representatives, one of whom shall be designated as co-chair;
+14 (2) One member of the House of Representatives appointed by the Minority Floor
+15 Leader of the House of Representatives;
+16 (3) Two members of the Senate appointed by the President of the Senate, one of
+17 whom shall be designated as co-chair;
+18 (4) One member of the Senate appointed by the Minority Floor Leader of the
+19 Senate;
+20 (5) The president of the Council on Postsecondary Education or designee;
+21 (6) The executive director of the Kentucky League of Cities or designee;
+22 (7) The executive director of the Kentucky Association of Counties or designee;
+23 (8) The deputy chief information officer of the Commonwealth Office of
+24 Technology or designee;
+25 (9) The secretary of the Cabinet for Health and Family Services or designee;
+26 (10) Two representatives from the Artificial Intelligence and Machine Learning
+27 Hub at the University of Kentucky; and
+Page 2 of 3
+XXXX 3/5/2025 6:05 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 2001
+1 (11) Two representatives from the J.B. Speed School of Engineering at the
+2 University of Louisville.
+3 Section 3. The task force shall meet as needed during the 2025 Interim of the
+4 General Assembly. The task force shall submit its findings and legislative
+5 recommendations to the Legislative Research Commission by November 21, 2025. If
+6 legislative recommendations are submitted, the Legislative Research Commission may
+7 refer the recommendations to the appropriate committee or committees of jurisdiction in
+8 advance of the 2026 Regular Session of the Kentucky General Assembly.
+9 Section 4. Provisions of this Resolution to the contrary notwithstanding, the
+10 Legislative Research Commission shall have the authority to alternatively assign the
+11 issues identified herein to an interim joint committee or subcommittee thereof and to
+12 designate a study completion date.
+Page 3 of 3
+XXXX 3/5/2025 6:05 PM Jacketed
+
+[DELETED:   2  J A C R d t e o t C W W i W a i h t p t d e g e W a i i e t a i f i W i C W C d d a s c s a r h a W A F W s a a c p t b t s a l g e i h p i a c t i n c d d a i s f i a c p a i l a e t a i N B i r b t S o t G A o t C o]
+[DELETED:   2  J K S 1   T L R C s e t C p t b t s a l g e i h p i a c t i n c d d a i l a e t a i d a g S f L ( T t ( O L ( T w ( O m o S a b t M F L S ( T ( T ( T ( T d c i o o t C O o T ( T ( T r f t A I a M L H]
+[DELETED:   2  J ( T r f t J S S o E a t U S G A T t f s s i f a l r t t L R C b N 2 2 I l r a S L R C s h t a t a a t i i h t a i j c o s t a t d]

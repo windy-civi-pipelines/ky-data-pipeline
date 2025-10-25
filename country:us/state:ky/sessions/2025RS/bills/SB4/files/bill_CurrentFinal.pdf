@@ -1,0 +1,700 @@
+UNOFFICIAL COPY 25 RS SB 4/EN
+1 AN ACT relating to protection of information and declaring an emergency.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 42.722 is amended to read as follows:
+4 As used in KRS 42.720 to 42.742:
+5 (1) "Artificial intelligence" means the use of machine learning and related
+6 technologies that uses data to train statistical models for the purpose of enabling
+7 computer systems to perform tasks normally associated with human intelligence
+8 or perception;
+9 (2) "Artificial intelligence system":
+10 (a) Means any machine-based computing system that, for any explicit or
+11 implicit objective, infers from the inputs such system receives how to
+12 generate outputs, including but not limited to content, decisions,
+13 predictions, or recommendations, that can influence physical or virtual
+14 environments; and
+15 (b) Does not include an artificial intelligence system that is used for
+16 development, prototyping, and research activities before such artificial
+17 intelligence system;
+18 (3) "Communications" or "telecommunications" means any transmission, emission, or
+19 reception of signs, signals, writings, images, and sounds of intelligence of any
+20 nature by wire, radio, optical, or other electromagnetic systems, and includes all
+21 facilities and equipment performing these functions;
+22 (4) "Consequential decision" means any decision that has a material legal or
+23 similarly significant effect on the provision or denial of services, cost, or terms to
+24 any citizen or business;
+25 (5) "Deployer" means any state department, state agency, or state administrative
+26 body in the Commonwealth that puts into use a high-risk artificial intelligence
+27 system;
+Page 1 of 22
+SB000420.100 - 384 - XXXX 3/13/2025 3:10 PM Engrossed
+
+UNOFFICIAL COPY 25 RS SB 4/EN
+1 (6) "Developer" means any department, agency, or administrative body that develops
+2 or intentionally and substantially modifies a high-risk artificial intelligence
+3 system that is offered, purchased, sold, leased, given, or otherwise provided to
+4 citizens and businesses in the Commonwealth;
+5 (7) "Foundation model" means a machine learning model that is trained on broad
+6 data at scale, designed for generality of output, and can be adapted to a wide
+7 range of distinctive tasks;
+8 (8) "General-purpose artificial intelligence model":
+9 (a) Means a model used by any form of artificial intelligence system that
+10 displays significant generality, is capable of performing a wide range of
+11 distinct tasks, and can be integrated into a variety of subsequent
+12 applications or systems; and
+13 (b) Does not include any artificial intelligence model that is used for
+14 development, prototyping, and research activities before such artificial
+15 intelligence model is released on the market;
+16 (9) "Generative artificial intelligence" means an artificial intelligence system that is
+17 capable of producing and used to produce synthetic content, including audio,
+18 images, text, and videos;
+19 (10) "Generative artificial intelligence system" means any artificial intelligence
+20 system or service that incorporates generative artificial intelligence;
+21 (11)[(2)] "Geographic information system" or "GIS" means a computerized database
+22 management system for the capture, storage, retrieval, analysis, and display of
+23 spatial or locationally defined data;
+24 (12) "High-risk artificial intelligence system":
+25 (a) Means any artificial intelligence system that is a substantial factor in the
+26 decision-making process or specifically intended to autonomously make, or
+27 be a substantial factor in making, a consequential decision; and
+Page 2 of 22
+SB000420.100 - 384 - XXXX 3/13/2025 3:10 PM Engrossed
+
+UNOFFICIAL COPY 25 RS SB 4/EN
+1 (b) Does not include a system or service intended to perform a narrow
+2 procedural task, improve the result of a completed human activity, or detect
+3 decision-making patterns or deviations from previous decision-making
+4 patterns and is not meant to replace or influence human assessment without
+5 human review, or perform a preparatory task in an assessment relevant to a
+6 consequential decision;
+7 (13)[(3)] "Information resources" means the procedures, equipment, and software that
+8 are designed, built, operated, and maintained to collect, record, process, store,
+9 retrieve, display, and transmit information, and associated personnel;
+10 (14)[(4)] "Information technology" means data processing and telecommunications
+11 hardware, software, services, supplies, facilities, maintenance, and training that are
+12 used to support information processing and telecommunications systems to include
+13 geographic information systems;
+14 (15) "Machine learning" means the development of algorithms to build data-derived
+15 statistical models that are capable of drawing inferences from previously unseen
+16 data without explicit human instruction;
+17 (16)[(5)] "Personal information" has the same meaning as in KRS 61.931;
+18 (17)[(6)] "Project" means a program to provide information technologies support to
+19 functions within an executive branch state agency, which should be characterized
+20 by well-defined parameters, specific objectives, common benefits, planned
+21 activities, expected outcomes and completion dates, and an established budget with
+22 a specified source of funding;
+23 (18)[(7)] "Security breach" has the same meaning as in KRS 61.931; and
+24 (19)[(8)] "Technology infrastructure" means any computing equipment, servers,
+25 networks, storage, desktop support, telephony, enterprise shared systems,
+26 information technology security, disaster recovery, business continuity, database
+27 administration, and software licensing.
+Page 3 of 22
+SB000420.100 - 384 - XXXX 3/13/2025 3:10 PM Engrossed
+
+UNOFFICIAL COPY 25 RS SB 4/EN
+1 Section 2. KRS 42.726 is amended to read as follows:
+2 (1) The Commonwealth Office of Technology shall be the lead organizational entity
+3 within the executive branch regarding delivery of information technology services,
+4 including application development and delivery, and shall serve as the single
+5 information technology authority for the Commonwealth.
+6 (2) The roles and duties of the Commonwealth Office of Technology shall include but
+7 not be limited to:
+8 (a) Providing technical support and services to all executive agencies of state
+9 government in the application of information technology;
+10 (b) Assuring compatibility and connectivity of Kentucky's information systems;
+11 (c) Developing strategies and policies to support and promote the effective
+12 applications of information technology within state government as a means of
+13 saving money, increasing employee productivity, and improving state services
+14 to the public, including electronic public access to information of the
+15 Commonwealth;
+16 (d) Developing, implementing, and managing strategic information technology
+17 directions, standards, and enterprise architecture, including implementing
+18 necessary management processes to ensure full compliance with those
+19 directions, standards, and architecture;
+20 (e) Promoting effective and efficient design and operation of all major
+21 information resources management processes for executive branch agencies,
+22 including improvements to work processes;
+23 (f) Developing, implementing, and maintaining the technology infrastructure of
+24 the Commonwealth and all related support staff, planning, administration,
+25 asset management, and procurement for all executive branch cabinets and
+26 agencies except:
+27 1. Agencies led by a statewide elected official;
+Page 4 of 22
+SB000420.100 - 384 - XXXX 3/13/2025 3:10 PM Engrossed
+
+UNOFFICIAL COPY 25 RS SB 4/EN
+1 2. The nine (9) public institutions of postsecondary education;
+2 3. The Department of Education's services provided to local school
+3 districts;
+4 4. The Kentucky Retirement Systems, the County Employees Retirement
+5 System, the Kentucky Public Pensions Authority, and the Teachers'
+6 Retirement System;
+7 5. The Kentucky Housing Corporation;
+8 6. The Kentucky Lottery Corporation;
+9 7. The Kentucky Higher Education Student Loan Corporation; and
+10 8. The Kentucky Higher Education Assistance Authority;
+11 (g) Facilitating and fostering applied research in emerging technologies that offer
+12 the Commonwealth innovative business solutions;
+13 (h) Reviewing and overseeing large or complex information technology projects
+14 and systems for compliance with statewide strategies, policies, and standards,
+15 including alignment with the Commonwealth's business goals, investment,
+16 and other risk management policies. The executive director is authorized to
+17 grant or withhold approval to initiate these projects;
+18 (i) Integrating information technology resources to provide effective and
+19 supportable information technology applications in the Commonwealth;
+20 (j) Establishing the central statewide geographic information clearinghouse to
+21 maintain map inventories, information on current and planned geographic
+22 information systems applications, information on grants available for the
+23 acquisition or enhancement of geographic information resources, and a
+24 directory of geographic information resources available within the state or
+25 from the federal government;
+26 (k) Coordinating multiagency information technology projects, including
+27 overseeing the development and maintenance of statewide base maps and
+Page 5 of 22
+SB000420.100 - 384 - XXXX 3/13/2025 3:10 PM Engrossed
+
+UNOFFICIAL COPY 25 RS SB 4/EN
+1 geographic information systems;
+2 (l) Providing access to both consulting and technical assistance, and education
+3 and training, on the application and use of information technologies to state
+4 and local agencies;
+5 (m) In cooperation with other agencies, evaluating, participating in pilot studies,
+6 and making recommendations on information technology hardware and
+7 software;
+8 (n) Providing staff support and technical assistance to the Geographic
+9 Information Advisory Council and the Kentucky Information Technology
+10 Advisory Council;
+11 (o) Overseeing the development of a statewide geographic information plan with
+12 input from the Geographic Information Advisory Council;
+13 (p) Developing for state executive branch agencies a coordinated security
+14 framework and model governance structure relating to the privacy and
+15 confidentiality of personal information collected and stored by state executive
+16 branch agencies, including but not limited to:
+17 1. Identification of key infrastructure components and how to secure them;
+18 2. Establishment of a common benchmark that measures the effectiveness
+19 of security, including continuous monitoring and automation of
+20 defenses;
+21 3. Implementation of vulnerability scanning and other security
+22 assessments;
+23 4. Provision of training, orientation programs, and other communications
+24 that increase awareness of the importance of security among agency
+25 employees responsible for personal information; and
+26 5. Development of and making available a cyber security incident response
+27 plan and procedure;[ and]
+Page 6 of 22
+SB000420.100 - 384 - XXXX 3/13/2025 3:10 PM Engrossed
+
+UNOFFICIAL COPY 25 RS SB 4/EN
+1 (q) Establishing, publishing, maintaining, and implementing comprehensive
+2 policy standards and procedures for the responsible, ethical, and
+3 transparent use of generative artificial intelligence systems and high-risk
+4 artificial intelligence systems by departments, agencies, and administrative
+5 bodies, including but not limited to policy standards and procedures that:
+6 1. Govern their procurement, implementation, and ongoing assessment;
+7 2. Address and provide resources for security of data and privacy; and
+8 3. Create guidelines for acceptable use policies for integrating high-risk
+9 artificial intelligence systems; and
+10 (r) Preparing proposed legislation and funding proposals for the General
+11 Assembly that will further solidify coordination and expedite implementation
+12 of information technology systems.
+13 (3) The Commonwealth Office of Technology may:
+14 (a) Provide general consulting services, technical training, and support for
+15 generic software applications, upon request from a local government, if the
+16 executive director finds that the requested services can be rendered within the
+17 established terms of the federally approved cost allocation plan;
+18 (b) Promulgate administrative regulations in accordance with KRS Chapter 13A
+19 necessary for the implementation of KRS 42.720 to 42.742, 45.253, 171.420,
+20 186A.040, and 186A.285;
+21 (c) Solicit, receive, and consider proposals from any state agency, federal agency,
+22 local government, university, nonprofit organization, private person, or
+23 corporation;
+24 (d) Solicit and accept money by grant, gift, donation, bequest, legislative
+25 appropriation, or other conveyance to be held, used, and applied in accordance
+26 with KRS 42.720 to 42.742, 45.253, 171.420, 186A.040, and 186A.285;
+27 (e) Make and enter into memoranda of agreement and contracts necessary or
+Page 7 of 22
+SB000420.100 - 384 - XXXX 3/13/2025 3:10 PM Engrossed
+
+UNOFFICIAL COPY 25 RS SB 4/EN
+1 incidental to the performance of duties and execution of its powers, including
+2 but not limited to agreements or contracts with the United States, other state
+3 agencies, and any governmental subdivision of the Commonwealth;
+4 (f) Accept grants from the United States government and its agencies and
+5 instrumentalities, and from any source, other than any person, firm, or
+6 corporation, or any director, officer, or agent thereof that manufactures or
+7 sells information resources technology equipment, goods, or services. To
+8 these ends, the Commonwealth Office of Technology shall have the power to
+9 comply with those conditions and execute those agreements that are
+10 necessary, convenient, or desirable; and
+11 (g) Purchase interest in contractual services, rentals of all types, supplies,
+12 materials, equipment, and other services to be used in the research and
+13 development of beneficial applications of information resources technologies.
+14 Competitive bids may not be required for:
+15 1. New and emerging technologies as approved by the executive director
+16 or her or his designee; or
+17 2. Related professional, technical, or scientific services, but contracts shall
+18 be submitted in accordance with KRS 45A.690 to 45A.725.
+19 (4) Nothing in this section shall be construed to alter or diminish the provisions of KRS
+20 171.410 to 171.740 or the authority conveyed by these statutes to the Archives and
+21 Records Commission and the Department for Libraries and Archives.
+22 (5) The Commonwealth Office of Technology shall, on or before October 1 of each
+23 year, submit to the Legislative Research Commission a report in accordance with
+24 KRS 57.390 detailing:
+25 (a) Any security breaches that occurred within organizational units of the
+26 executive branch of state government during the prior fiscal year that required
+27 notification to the Commonwealth Office of Technology under KRS 61.932;
+Page 8 of 22
+SB000420.100 - 384 - XXXX 3/13/2025 3:10 PM Engrossed
+
+UNOFFICIAL COPY 25 RS SB 4/EN
+1 (b) Actions taken to resolve the security breach, and to prevent additional security
+2 breaches in the future;
+3 (c) A general description of what actions are taken as a matter of course to protect
+4 personal data from security breaches; and
+5 (d) Any quantifiable financial impact to the agency reporting a security breach.
+6 SECTION 3. A NEW SECTION OF KRS 42.720 TO 42.742 IS CREATED TO
+7 READ AS FOLLOWS:
+8 (1) The Commonwealth Office of Technology shall create an Artificial Intelligence
+9 Governance Committee to govern the use of artificial intelligence systems by state
+10 departments, state agencies, and state administrative bodies by:
+11 (a) Developing policy standards and guiding principles to mitigate risks and
+12 protect data and privacy of Kentucky citizens and businesses that adhere to
+13 the latest version of Standard ISO/IEC 42001 of the International
+14 Organization for Standardization;
+15 (b) Establishing technology standards to provide protocols and requirements
+16 for the use of generative artificial intelligence and high-risk artificial
+17 intelligence systems;
+18 (c) Ensuring transparency in the use of artificial intelligence systems;
+19 (d) Maintaining a centralized registry to include current inventory of generative
+20 artificial intelligence systems and high-risk artificial intelligence systems;
+21 and
+22 (e) Developing an approval process to include a registry of application, use
+23 case, and decision rationale aimed at mitigation of risks.
+24 (2) The Artificial Intelligence Governance Committee shall develop policies and
+25 procedures to ensure that any department, program, cabinet, agency, or
+26 administrative body that utilizes and accesses the Commonwealth's information
+27 technology and technology infrastructure shall:
+Page 9 of 22
+SB000420.100 - 384 - XXXX 3/13/2025 3:10 PM Engrossed
+
+UNOFFICIAL COPY 25 RS SB 4/EN
+1 (a) Verify the use and development of generative artificial intelligence systems
+2 and high-risk artificial intelligence systems; and
+3 (b) Act in compliance with responsible, ethical, and transparent procedures to
+4 implement the use of artificial intelligence technologies by:
+5 1. Ensuring artificial intelligence models have comprehensive and
+6 complete documentation that is available for review and inspection;
+7 2. Requiring review and intervention by humans dependent on the use
+8 case and potential risk for all outcomes from generative and high-risk
+9 artificial intelligence systems; and
+10 3. Ensuring the use of generative artificial intelligence and high-risk
+11 artificial intelligence systems are resilient, accountable, and
+12 explainable.
+13 (3) The Commonwealth Office of Technology shall prioritize personal privacy and
+14 the protection of the data of individuals and businesses as the state develops,
+15 implements, employs, and procures artificial intelligence systems, generative
+16 artificial intelligence systems, and high-risk artificial intelligence systems by
+17 ensuring all departments, agencies, and administrative bodies:
+18 (a) Allow only the use of necessary data in artificial intelligence systems;
+19 (b) Do not allow unrestricted access to personal data controlled by the
+20 Commonwealth; and
+21 (c) Secure all data and implement a timeframe for data retention.
+22 (4) To maintain and secure the technology infrastructure, information technology,
+23 information resources, and personal information, all departments, agencies, and
+24 administrative bodies shall be subject to review of generative artificial intelligence
+25 systems or high-risk artificial intelligence systems.
+26 (5) At a minimum, the executive director of the Commonwealth Office of Technology
+27 shall consider and document:
+Page 10 of 22
+SB000420.100 - 384 - XXXX 3/13/2025 3:10 PM Engrossed
+
+UNOFFICIAL COPY 25 RS SB 4/EN
+1 (a) How the artificial intelligence system will not result in unlawful
+2 discrimination against any individual or group of individuals;
+3 (b) How the use of generative artificial intelligence or other artificial
+4 intelligence capabilities will benefit the citizens of the Commonwealth and
+5 serve the objectives of the department or agency;
+6 (c) To what extent oversight and human interaction of the artificial intelligence
+7 system should be required;
+8 (d) The potential risks, including cybersecurity, data protection and privacy,
+9 and health and safety of individuals and businesses, and a mitigation
+10 strategy to any identified or potential risk; and
+11 (e) The proper control and management for all data possessed by the
+12 Commonwealth to maintain security and data quality.
+13 (6) (a) A department, agency, or administrative body shall disclose to the public,
+14 through a clear and conspicuous disclaimer, when generative artificial
+15 intelligence, artificial intelligence systems, or other artificial intelligence-
+16 related capabilities are used:
+17 1. To render any decision regarding individual citizens or businesses
+18 within the state;
+19 2. In any process, or to produce materials used by the system or humans,
+20 to inform a decision or create an output; or
+21 3. To produce information or outputs accessible by citizens and
+22 businesses.
+23 (b) When an artificial intelligence system makes external decisions related to
+24 citizens of the Commonwealth, a department, agency, or administrative
+25 body shall:
+26 1. Disclose how artificial intelligence is used in the decision-making
+27 process;
+Page 11 of 22
+SB000420.100 - 384 - XXXX 3/13/2025 3:10 PM Engrossed
+
+UNOFFICIAL COPY 25 RS SB 4/EN
+1 2. Provide the extent of human involvement in validating and oversight
+2 of any decision made; and
+3 3. Make readily available options for individuals to appeal a
+4 consequential decision that involves artificial intelligence.
+5 (c) Any disclaimer under paragraph (a) of this subsection shall also provide
+6 information regarding third-party artificial intelligence products or
+7 programs, including but not limited to information as to how the high-risk
+8 artificial intelligence system or generative artificial intelligence system
+9 works, such as system cards or other documented information provided by
+10 developers.
+11 (7) The Commonwealth Office of Technology shall establish policies to encompass
+12 legal and ethical frameworks to ensure that any artificial intelligence systems
+13 shall align with existing laws, administrative regulations, and guidelines, which
+14 shall be updated at least annually to maintain compliance as technology and
+15 industry best practices evolve.
+16 (8) (a) Operating standards for utilization of high-risk artificial intelligence
+17 systems shall prohibit the use of a high-risk artificial intelligence system to
+18 render a consequential decision without the design and implementation of a
+19 risk management policy and program for high-risk artificial intelligence
+20 systems. The risk management policy shall:
+21 1. Specify principles, process, and personnel that shall be utilized to
+22 maintain the risk management program; and
+23 2. Identify, mitigate, and document any bias or potential bias that is a
+24 potential consequence of use in making a consequential decision.
+25 (b) Each risk management policy designed and implemented shall at a
+26 minimum adhere to the latest version of Standard ISO/IEC 42001 of the
+27 International Organization for Standardization, or another national or
+Page 12 of 22
+SB000420.100 - 384 - XXXX 3/13/2025 3:10 PM Engrossed
+
+UNOFFICIAL COPY 25 RS SB 4/EN
+1 internationally recognized risk management framework for artificial
+2 intelligence systems, and consider the:
+3 1. Size and complexity of the deployer;
+4 2. Nature, scope, and intended use of the high-risk artificial intelligence
+5 system and its deployer; and
+6 3. Sensitivity and volume of data processed.
+7 (9) Sections 1 to 3 of this Act shall not be construed to require the disclosure of trade
+8 secrets, confidential or proprietary information about the design or use of an
+9 artificial intelligence system, or any information which would create a security
+10 risk.
+11 (10) The Commonwealth Office of Technology shall provide education and training of
+12 employees about the benefits and risks of artificial intelligence and allowable use
+13 policies.
+14 (11) (a) The Commonwealth Office of Technology shall transmit reports to the
+15 Legislative Research Commission and the Interim Joint Committee on State
+16 Government by December 1, 2025, and annually every year thereafter. The
+17 reports shall include:
+18 1. The artificial intelligence registry, which shall include the current
+19 inventory and use case of artificial intelligence utilized in state
+20 government;
+21 2. Applications received for use of artificial intelligence, including the
+22 decision and rationale in approving or disapproving a request in
+23 compliance with subsection (5)(c) of this section; and
+24 3. Third-party artificial intelligence developers, system administrators,
+25 providers, and contractors submitted for review in compliance with
+26 subsection (5) of this section.
+27 (b) To facilitate the report in paragraph (a) of this subsection, the
+Page 13 of 22
+SB000420.100 - 384 - XXXX 3/13/2025 3:10 PM Engrossed
+
+UNOFFICIAL COPY 25 RS SB 4/EN
+1 Commonwealth Office of Technology shall receive from each department,
+2 agency, and administrative body a report examining and identifying
+3 potential use cases for the deployment of generative artificial intelligence
+4 systems and high-risk artificial intelligence systems, including a description
+5 of the benefits and risks to individuals, communities, government, and
+6 government employees.
+7 (12) The Commonwealth Office of Technology shall promulgate administrative
+8 regulations in accordance with KRS Chapter 13A to implement this section and
+9 Section 2 of this Act by December 1, 2025.
+10 Section 4. KRS 117.001 is amended to read as follows:
+11 As used in this chapter[, unless the context otherwise requires]:
+12 (1) "Audit log" means a detailed record of all actions and events that have occurred on
+13 the voting system, including:
+14 (a) Log-in attempts with username and time stamp;
+15 (b) Election definition and setup;
+16 (c) Ballot preparation and results processing;
+17 (d) Diagnostics of any type; and
+18 (e) Error and warning messages and operator response;
+19 (2) "Automatic tabulating equipment" means apparatus necessary to automatically
+20 examine and count votes as designated on ballots and data processing machines
+21 which can be used for counting ballots and tabulating results;
+22 (3) "Ballot" or "official ballot" means the official presentation of offices and candidates
+23 to be voted for, including write-in candidates, and all public questions submitted for
+24 determination, and shall include a voting machine ballot, a paper ballot, an absentee
+25 ballot, a federal provisional ballot, a federal provisional absentee ballot, or a
+26 supplemental paper ballot which has been authorized for the use of voters in any
+27 primary, regular election, or special election by the Secretary of State or the county
+Page 14 of 22
+SB000420.100 - 384 - XXXX 3/13/2025 3:10 PM Engrossed
+
+UNOFFICIAL COPY 25 RS SB 4/EN
+1 clerk;
+2 (4) "Ballot box" means any box, bag, or other container that can be locked, sealed, or
+3 otherwise rendered tamper-resistant, for receiving ballots;
+4 (5) "Ballot marking device" means any approved device for marking a ballot which
+5 will enable the ballot to be tabulated manually or by means of automatic tabulating
+6 equipment;
+7 (6) "Election" or "elections" means any primary, regular election, or special election;
+8 (7) "Election officer" has the same meaning as in KRS 118.015;
+9 (8) (a) "Electioneering communication" means any communication broadcast by
+10 cable, internet, television, or radio, presented on an electronic billboard,
+11 made in telephone calls to personal residences, or otherwise electronically
+12 distributed that:
+13 1. Unambiguously refers to any candidate for any state, county, city, or
+14 district office, or to any ballot measure;
+15 2. Is broadcast, printed, mailed, delivered, made, or distributed within
+16 forty-five (45) days before a primary or regular election; and
+17 3. Is broadcast to, distributed to, in telephone calls made to, or otherwise
+18 distributed to an audience that includes members of the electorate for
+19 such public office or the electorate associated with the ballot
+20 containing the ballot measure.
+21 (b) "Electioneering communication" does not include:
+22 1. Any news articles, editorial endorsements, opinions or commentary,
+23 writings, or letters to the editor printed in a newspaper, magazine, or
+24 other periodical not owned or controlled by a candidate, committee, or
+25 political party;
+26 2. Any editorial endorsements or opinions aired by a broadcast facility
+27 not owned or controlled by a candidate, committee, or political party;
+Page 15 of 22
+SB000420.100 - 384 - XXXX 3/13/2025 3:10 PM Engrossed
+
+UNOFFICIAL COPY 25 RS SB 4/EN
+1 3. Any communication by persons made in the regular course and scope
+2 of their business or any communication made by a membership
+3 organization solely to members of such an organization and their
+4 families;
+5 4. Any communication that refers to any candidate only as part of the
+6 popular name of a bill or statute;
+7 5. A communication that constitutes a contribution or independent
+8 expenditure as defined in KRS 121.015; or
+9 6. A bona fide newscast, news interview, news documentary, or on-the-
+10 spot coverage of a bona fide news event broadcast on any radio or
+11 television broadcasting station, including a cable or satellite television
+12 operator, programmer, or producer, that is not owned or controlled by
+13 a candidate, committee, or political party, provided that the entity does
+14 not remove or modify any disclaimer provided by the sponsor of the
+15 communication;
+16 (9) "E-poll book" means an electronic device capable of holding a file of voter data and
+17 related information for use in identifying registered voters prior to a voter's
+18 receiving or casting a ballot, and allowing a voter to electronically sign in on an
+19 electronic registered voter roster in lieu of signing a paper registered voter roster;
+20 (10)[(9)] "Federal provisional voter" means a person:
+21 (a) Who does not appear to be registered to vote;
+22 (b) Whose name does not appear on the precinct roster;
+23 (c) Who has not provided proof of identification to the precinct election officer
+24 before voting in a federal election; and
+25 (d) Who elects to proceed with voting a federal provisional ballot under KRS
+26 117.229;
+27 (11)[(10)] "Federal provisional ballot" or "federal provisional absentee ballot" means
+Page 16 of 22
+SB000420.100 - 384 - XXXX 3/13/2025 3:10 PM Engrossed
+
+UNOFFICIAL COPY 25 RS SB 4/EN
+1 ballots which have been authorized by the Secretary of State or the county clerk to
+2 be used by federal provisional voters in any federal primary or election;
+3 (12)[(11)] "Information content provider" means any person or entity that is
+4 responsible, in whole or in part, for the creation or development of information
+5 provided through the internet or any other interactive computer service;
+6 (13) "Inner envelope" or "secrecy envelope" means the envelope provided to the voter
+7 with a ballot into which the voter shall place his or her voted ballot;
+8 (14) "Interactive computer service":
+9 (a)_ Means any information service, system, or access software provider that
+10 provides or enables computer access by multiple users to a computer server,
+11 including specifically a service or system that provides access to the internet
+12 and such services offered or systems operated by libraries or educational
+13 institutions; and
+14 (b) Does not include exemptions in the Communication Decency Act of 1996,
+15 as amended, 47 U.S.C. sec. 230;
+16 (15)[(12)] "Political group" has the same meaning as in KRS 118.015;
+17 (16)[(13)] "Political organization" has the same meaning as in KRS 118.015;
+18 (17)[(14)] "Precinct ballot counter" means an automatic tabulating device used at the
+19 precinct to tabulate and process ballots;
+20 (18)[(15)] "Proof of identification" means a document that was issued by:
+21 (a) The United States or the Commonwealth of Kentucky, and the document
+22 contains:
+23 1. The name of the individual to whom the document was issued; and
+24 2. A photograph of the individual to whom the document was issued;
+25 (b) The United States Department of Defense, a branch of the uniformed services,
+26 the Merchant Marine, or the Kentucky National Guard, and the document
+27 contains:
+Page 17 of 22
+SB000420.100 - 384 - XXXX 3/13/2025 3:10 PM Engrossed
+
+UNOFFICIAL COPY 25 RS SB 4/EN
+1 1. The name of the individual to whom the document was issued; and
+2 2. A photograph of the individual to whom the document was issued;
+3 (c) A public or private college, university, or postgraduate technical or
+4 professional school located within the United States, and the document
+5 contains:
+6 1. The name of the individual to whom the document was issued; and
+7 2. A photograph of the individual to whom the document was issued; or
+8 (d) Any city government, county government, urban-county government, charter
+9 county government, consolidated local government, or unified local
+10 government, which is located within this state, and the document contains:
+11 1. The name of the individual to whom the document was issued; and
+12 2. A photograph of the individual to whom the document was issued;
+13 (19) "Sponsor" means the person or entity paying for the electioneering
+14 communication. If a person or entity acts as an agent for another or is
+15 reimbursed by another for the payment, the original source of the payment is the
+16 sponsor;
+17 (20) (a) 1. "Synthetic media" means an audio recording or video recording of an
+18 identifiable natural individual's appearance, action, or speech that has
+19 been intentionally manipulated with the use of generative adversarial
+20 network techniques in a manner to create a realistic but false audio or
+21 video that produces:
+22 a. A depiction that, to a reasonable individual, is of an identifiable
+23 natural individual in appearance, action, or speech that did not
+24 actually occur in reality and that was created without the consent
+25 of such individual; and
+26 b. A fundamentally different understanding or impression of the
+27 appearance, action, or speech than a reasonable person would
+Page 18 of 22
+SB000420.100 - 384 - XXXX 3/13/2025 3:10 PM Engrossed
+
+UNOFFICIAL COPY 25 RS SB 4/EN
+1 have from the unaltered, original version of the audio recording
+2 or video recording.
+3 2. As used in this paragraph:
+4 a. "Generative adversarial network" means a machine learning
+5 model that uses neural networks to develop new data and make
+6 more accurate predictions; and
+7 b. "Neural network" means a machine learning algorithm modeled
+8 on the human brain and nervous system.
+9 (b) "Synthetic media" does not include content that contains a disclosure
+10 under subsection (1) of Section 5 of this Act.
+11 (21)[(16)] "Voting booth" or "ballot completion area" means an area in which a voter
+12 casts his or her vote or completes his or her ballot which is designed to ensure the
+13 secrecy of the vote;
+14 (22)[(17)] "Vote center" means a consolidated precinct of the county;
+15 (23)[(18)] "Voting equipment" means any physical component of a voting system and
+16 includes voting machines where voting machines are in operation;
+17 (24)[(19)] "Voting machine" or "machine":
+18 (a) Means a part of a voting system that consists of one (1) or more electronic
+19 devices that operate independently or as a combination of a ballot marking
+20 device and an electronic or automatic vote tabulation device; and
+21 (b) Does not include an e-poll book;
+22 (25)[(20)] "Voting system":
+23 (a) Means the total combination of physical, mechanical, electromechanical, or
+24 electronic equipment, including the software, hardware, firmware, and
+25 documentation required to program, control, and support that equipment, that
+26 is used to:
+27 1. Define ballots;
+Page 19 of 22
+SB000420.100 - 384 - XXXX 3/13/2025 3:10 PM Engrossed
+
+UNOFFICIAL COPY 25 RS SB 4/EN
+1 2. Cast and count votes;
+2 3. Report or display election results; and
+3 4. Maintain and produce any audit trail information;
+4 (b) Includes the practices and associated documentation used to:
+5 1. Identify system components and versions of those components;
+6 2. Test the system during its development and maintenance;
+7 3. Maintain records of system errors and defects;
+8 4. Determine specific system changes to be made to a system after the
+9 initial qualification of the system;
+10 5. Make available any materials to the voter, such as notices, instructions,
+11 forms, or paper ballots; and
+12 (c) Does not include an e-poll book; and
+13 (26)[(21)] "Voter-verified paper audit trail" means a contemporaneous paper record of a
+14 ballot printed for the voter to confirm his or her votes before the voter casts his or
+15 her ballot that:
+16 (a) Allows the voter to verify the voter's ballot choices before the casting of the
+17 voter's ballot;
+18 (b) Is not retained by the voter;
+19 (c) Does not contain individual voter information;
+20 (d) Is produced on paper that is sturdy, clean, and resistant to degradation; and
+21 (e) Is readable in a manner that makes the voter's ballot choices obvious to the
+22 voter or any person without the use of computer or electronic code.
+23 SECTION 5. A NEW SECTION OF KRS CHAPTER 117 IS CREATED TO
+24 READ AS FOLLOWS:
+25 (1) (a) Any candidate for any elected office whose appearance, action, or speech is
+26 altered through the use of synthetic media in an electioneering
+27 communication may seek injunctive or other equitable relief against the
+Page 20 of 22
+SB000420.100 - 384 - XXXX 3/13/2025 3:10 PM Engrossed
+
+UNOFFICIAL COPY 25 RS SB 4/EN
+1 sponsor of the electioneering communication requiring that the
+2 communication includes a disclosure that is clear and conspicuous and
+3 included in, or alongside and associated with, the content in a manner that
+4 is likely to be noticed by the user.
+5 (b) The court may award a prevailing party reasonable attorney's fees and
+6 costs. This paragraph does not limit or preclude a plaintiff from securing or
+7 recovering any other available remedy.
+8 (2) In any action brought under subsection (1) of this section:
+9 (a) The plaintiff shall:
+10 1. File in Circuit Court of the county in which he or she resides; and
+11 2. Bear the burden of establishing the use of synthetic media by clear
+12 and convincing evidence.
+13 (b) The following shall not be liable except as provided in subsection (3) of this
+14 section:
+15 1. The medium disseminating the electioneering communication; and
+16 2. An advertising sales representative of such medium.
+17 (3) Failure to comply with an order of the court to include the required disclosure
+18 herein shall be subject to the penalties set for KRS 121.990(3) for violation of
+19 KRS 121.190(1).
+20 (4) It is an affirmative defense for any action brought under subsection (1) of this
+21 section that the electioneering communication containing synthetic media
+22 includes a disclosure that is clear and conspicuous and included in, or alongside
+23 and associated with, the content in a manner that is likely to be noticed by the
+24 user.
+25 (5) Except when a licensee, programmer, or operator of a federally licensed
+26 broadcasting station transmits an electioneering communication that is subject to
+27 47 U.S.C. sec. 315, a medium or its advertising sales representative may be held
+Page 21 of 22
+SB000420.100 - 384 - XXXX 3/13/2025 3:10 PM Engrossed
+
+UNOFFICIAL COPY 25 RS SB 4/EN
+1 liable in a cause of action brought under subsection (1) of this section if:
+2 (a) The person intentionally removes any disclosure described in subsection (4)
+3 of this section from the electioneering communication it disseminates and
+4 does not remove the electioneering communication or replace the disclosure
+5 when notified; or
+6 (b) Subject to affirmative defenses described in subsection (4) of this section,
+7 the person changes the content of an electioneering communication in a
+8 manner that results in it qualifying as synthetic media.
+9 (6) (a) A provider or user of an interactive computer service shall not be treated as
+10 the publisher or speaker of any information provided by another
+11 information content provider.
+12 (b) An interactive computer service may be held liable in accordance with
+13 subsection (3) of this section.
+14 (c) An interactive computer service shall be exempt as provided by the
+15 Communications and Decency Act of 1996, as amended, 47 U.S.C. sec. 230.
+16 (7) Courts are encouraged to determine matters under this section expediently.
+17 Section 6. Whereas implementing governance to maximize the opportunities for
+18 the responsible and ethical use of artificial intelligence is vitally important to combat the
+19 critical impact artificial intelligence can have on the security of data and information in
+20 the Commonwealth and it is critically important to protect candidates and election
+21 officers from fraudulent misrepresentations of themselves and their issues, an emergency
+22 is declared to exist, and this Act takes effect upon its passage and approval by the
+23 Governor or upon its otherwise becoming a law.
+Page 22 of 22
+SB000420.100 - 384 - XXXX 3/13/2025 3:10 PM Engrossed
+
+[DELETED:   2  E A B S A ( " i m t u o m l a r t c o ( " ( M a m c s t f a e o i o i f t i s s r h t g o i b n l t c d p o r t c i p o v e ( D n i a a i s t i u f d p a r a b s a i ( " r o s s w i a s o i o a n f ( " d m a d t h a m l o s a ( " m a s d s a o s a b s]
+[DELETED:   2  E ( " o i a s m a h a i s t i o p s l g o o p t c ( " d f a r ( " ( M a m u b a f o a i s t d s g i c o p a w r o d t a c b i i a v o s a ( D n i a a i m t i u f d p a r a b s a i ( " c o p a u t p s c i a i ( " a i s m a a i s ( " c m s f t c s r a a d o s ( " ( M d b]
+[DELETED:   2  E ( D n i a s o s i t p a n p d p o d f p d p h c ( " a d b o a m t c r p s r ( " t m d p a t h u g ( " s d ( " ( " m a p t p i t s t f b w p s o c b p a a ( " ( " i m a c e s n s d s t e s s i t s d r b c d a]
+[DELETED:   2  E S ( T w i a d a d a s s a t s i ( T n ( P t s a s t a e a o s g ( A ( D s a p t s a p t e a s t t p i e p a t i o t C ( D i a m s i t d s a e a i i n m p t e f c w t d ( P e a e d a o o a m i i ( D t C a a r s s p a a m a p f a e b c a a 1 A]
+[DELETED:   2  E 2 T 3 T D o E s p t l s d 4 T S t K P P A a t T R 5 T 6 T 7 T 8 T ( F t ( R a i a w t C b g i a g ( I i t r t p e a s ( E t c s g i c t m m i i o c a p g i s a i o g a f t a o e o g i r a a d o g i r a w t s o f ( C m i t p i o t d a m o s b m a]
+[DELETED:   2  E g ( P a a ( I a m r o i t h a s ( P s s a t a t t G I A C a t K I T A ( O i ( D f s e b a a c s f a m g s r t t p a c b 1 I 2 E o s i c m a a o d 3 I o v s a o s a 4 P t i a o t i o s a a e 5 D p]
+[DELETED:   2  E ( E p m a i c p s a p f t r e a t u o a i s a h a b 1 G 2 A 3 C a ( P p l a f p f t G A o ( T ( P g c s t t a s f g e e ( P n 1 ( S l g u n o p p o c ( S a a m b g g d b l a w ( M a e i m o a a c n o]
+[DELETED:   2  E i b a ( A g f t U S g a i a a i a f a s o t a p f o c o a d o o a t t m o s i r t e g o s T t c w t c a e t a t a n ( P i i c s r o a t s m e a o s t b u i t r a d C 1 N o 2 R b ( N 1 R ( T y K ( A s b t o w o u o t e n]
+[DELETED:   2  E ( A b ( A p ( A S R ( T G d ( D p s a g p t m r a p t l v o S I 4 o t I O ( E t s t p p a r f t u o g a i a h a i ( E ( M a a ( D a a p t i a r o a u c ( T A I G C s d p a p t e t a d p c a o a t]
+[DELETED:   2  E ( V a ( A i 1 E a i m h c a c 2 R c a 3 E t u o g a i a h a i s a r a a e ( T t p o t d o i a b a t s d i e a p a i s g a i s a h a i s b e ( A ( D n a u a t p d c b t C ( S ( T i a s ( A s]
+[DELETED:   2  E ( H t a i s w n r i u d ( H t u o g a i o o a i s ( T s ( T p r i c d p a p a h a s o i a b a a m s ( T p c a m f a d p b t C ( ( A t a c a c d w g a i a i s o o a i r 1 T r a d r i c o b w 2 I t 3 T p i o o a b c a b ( W c o t C a d a o a b 1 D h a i i u i t d p]
+[DELETED:   2  E 2 P o 3 M r a o f i t a a c ( A d p ( o s s a p i r t a i p o p a i s o g a i s w d ( T l a e f t e t a a i s s s b u a l a t m c a t a i ( ( O s f u o h a i s r r m p a p f h a i s 1 S p p a p t s b u t m 2 I p ( E r m p d a i s a a m I O f S o a n o]
+[DELETED:   2  E i r r m f f a i 1 S 2 N s 3 S ( S s c o p i a t d o u o a a r ( T e p ( ( T C O o T s t r t t L G r 1 T a i r w s i t c i a u c o a i u i s g 2 A r f u o i i t d a r i a o d a r i c 3 T a i d s a p a c s f r i c w s ( T f t r i p ( o t s t]
+[DELETED:   2  E C a a a b a r e a i p s o t b a r t i c g a g ( T C O o T s p a r S S A ( " t ( L ( E ( B ( D ( E ( " t e m a n t a e a c v a d o b a d p m w ( " t d b a f p b a f p a b o a s p]
+[DELETED:   2  E c ( " o ( " a a w e ( " ( " ( ( " c i t o r p o a e b m d 1 U d 2 I b p m d m o d w f 3 I d s p o o t e a w t b c ( " 1 A n a e e o o c w o p 2 A n]
+[DELETED:   2  E 3 A o t b o a c m b a m o s t m o s a o a t f 4 A p 5 A c t c a c o i e 6 A s c o b f n e b o a r o t o a n c ( " r i f u i i r v p t a v r e ( " ( W ( W ( W b ( W e t p w v a f p b u K 1 ( " p b o " p a b m]
+[DELETED:   2  E b b ( " c p m a p o e t i r p ( " w ( " ( M a i s s o a s p t p i a b i ( D a ( " ( " ( " b c m a a t d u a t p ( " ( T U S o t C o K a t d c 1 T 2 A ( T t M M o t K N G a t d c]
+[DELETED:   2  E 1 T 2 A ( A p o p c u o p t o p s l w t U S a t d c 1 T 2 A ( A c g c l g o u l g 1 T 2 A ( " m t p o e p f t e c I a p o e a a a a f a o i r s ( ( 1 " i b n v a A n a o b A f d u o i o t a]
+[DELETED:   2  E h o 2 A a " a n m a m l m m b " o ( " m d n i c t c a d u ( " c s ( " ( " i ( " ( M d d ( D ( " ( M e e i t s h f a d i 1 D]
+[DELETED:   2  E 2 C 3 R 4 M ( I 1 I 2 T 3 M 4 D s s c t b m t a s a t i 5 M f ( D ( " b h ( A v ( I ( D ( I ( I v S R ( ( A a t t u o s m i a e c m s i o o e r a t]
+[DELETED:   2  E s o t e c r t t c i a d t i c a c a i i ( T c m a a p p r a f a c r ( I ( T 1 F 2 B a ( T s 1 T 2 A ( F h K ( I s t t e c c s m i a u ( E w a l p o o o a f l b 4]
+[DELETED:   2  E l ( T o d w ( S t p c t c o e c i a m ( ( A t p o s o a i p b a i ( A i c s m b h l i a w s ( A i c s s b e a p b t C ( C S t c t C a i i c i t p c a e o i d t e a t A t e u i p a a b t G]

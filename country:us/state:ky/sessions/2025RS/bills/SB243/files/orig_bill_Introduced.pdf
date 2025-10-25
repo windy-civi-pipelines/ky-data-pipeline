@@ -1,0 +1,436 @@
+UNOFFICIAL COPY 25 RS BR 976
+1 AN ACT relating to hospital price transparency.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF KRS CHAPTER 216B IS CREATED TO
+4 READ AS FOLLOWS:
+5 As used in Sections 1 to 7 of this Act, unless context requires otherwise:
+6 (1) "Ancillary service" means a facility item or service that a facility customarily
+7 provides as part of a shoppable service;
+8 (2) "Cabinet" means the Cabinet for Health and Family Services;
+9 (3) "Chargemaster" means the list of all facility items or services maintained by a
+10 facility for which the facility has established a charge;
+11 (4) "De-identified maximum negotiated charge" means the highest charge that a
+12 facility has negotiated with all third-party payors for a facility item or service;
+13 (5) "De-identified minimum negotiated charge" means the lowest charge that a
+14 facility has negotiated with all third-party payors for a facility item or service;
+15 (6) "Discounted cash price" means the charge that applies to an individual who pays
+16 cash, or a cash equivalent, for a facility item or service;
+17 (7) "Facility" means a hospital licensed under this chapter;
+18 (8) "Facility items or services":
+19 (a) Means all items and services, including individual items and services and
+20 service packages, that may be provided by a facility to a patient in
+21 connection with an inpatient admission or an outpatient department visit, as
+22 applicable, for which the facility has established a standard charge; and
+23 (b) Includes:
+24 1. Supplies and procedures;
+25 2. Room and board;
+26 3. Use of the facility and other areas, the charges for which are generally
+27 referred to as facility fees;
+Page 1 of 14
+XXXX 1/3/2025 10:36 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 976
+1 4. Services of physicians and nonphysician practitioners employed by the
+2 facility, the charges for which are generally referred to as professional
+3 charges; and
+4 5. Any other item or service for which a facility has established a
+5 standard charge;
+6 (9) "Gross charge" means the charge for a facility item or service that is reflected on
+7 a facility’s chargemaster, absent any discounts;
+8 (10) "Machine-readable format" means a digital representation of information in a
+9 file that can be imported or read into a computer system for further processing,
+10 and includes .XML, .JSON, and .CSV formats;
+11 (11) "Payor-specific negotiated charge" means the charge that a facility has
+12 negotiated with a specific third-party payor for a facility item or service;
+13 (12) "Service package" means an aggregation of individual facility items or services
+14 into a single service with a single charge;
+15 (13) "Shoppable service" means a service that may be scheduled by a health care
+16 consumer in advance;
+17 (14) "Standard charge" means the regular rate established by the facility for a facility
+18 item or service provided to a specific group of paying patients, and includes all of
+19 the following as defined in this section:
+20 (a) The gross charge;
+21 (b) The payor-specific negotiated charge;
+22 (c) The de-identified minimum negotiated charge;
+23 (d) The de-identified maximum negotiated charge; and
+24 (e) The discounted cash price; and
+25 (15) "Third-party payor" means an entity that is, by statute, contract, or agreement,
+26 legally responsible for payment of a claim for a facility item or service.
+27 SECTION 2. A NEW SECTION OF KRS CHAPTER 216B IS CREATED TO
+Page 2 of 14
+XXXX 1/3/2025 10:36 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 976
+1 READ AS FOLLOWS:
+2 Notwithstanding any other law to the contrary, a facility shall make public:
+3 (1) A digital file in a machine-readable format that contains a list of all standard
+4 charges for all facility items or services as described in Section 3 of this Act; and
+5 (2) A consumer-friendly list of standard charges for a limited set of shoppable
+6 services as provided in Section 4 of this Act.
+7 SECTION 3. A NEW SECTION OF KRS CHAPTER 216B IS CREATED TO
+8 READ AS FOLLOWS:
+9 (1) A facility shall maintain a chargemaster of all standard charges for all facility
+10 items or services in accordance with this section.
+11 (2) The standard charges contained in the chargemaster shall reflect the standard
+12 charges applicable to that location of the facility, regardless of whether the
+13 facility operates in more than one (1) location or operates under the same license
+14 as another facility.
+15 (3) The chargemaster shall include the following items, as applicable:
+16 (a) A description of each facility item or service provided by the facility;
+17 (b) The following standard charges for each individual facility item or service
+18 when provided in either an inpatient setting or an outpatient department
+19 setting, as applicable:
+20 1. The gross charge;
+21 2. The de-identified minimum negotiated charge;
+22 3. The de-identified maximum negotiated charge;
+23 4. The discounted cash price; and
+24 5. The payor-specific negotiated charge, listed by the name of the third-
+25 party payor and plan associated with the charge and displayed in a
+26 manner that clearly associates the charge with each third-party payor
+27 and plan; and
+Page 3 of 14
+XXXX 1/3/2025 10:36 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 976
+1 (c) Any code used by the facility for purposes of accounting or billing for the
+2 facility item or service, including the current procedural terminology (CPT)
+3 code, healthcare common procedure coding system (HCPCS) code,
+4 diagnosis related group (DRG) code, national drug code (NDC), or other
+5 common identifier.
+6 (4) The information contained in the chargemaster shall be published in a single
+7 digital file that is in a machine-readable format.
+8 (5) The chargemaster required under subsection (1) of this section shall be displayed
+9 in a prominent location on the home page of the facility’s publicly accessible
+10 website or accessible by selecting a dedicated link that is prominently displayed on
+11 the home page of the facility’s publicly accessible website. If the facility operates
+12 multiple locations and maintains a single website, the chargemaster required
+13 under subsection (1) of this section shall be posted for each location the facility
+14 operates in a manner that clearly associates the chargemaster with the applicable
+15 location of the facility.
+16 (6) The chargemaster required under subsection (1) of this section shall:
+17 (a) Be available:
+18 1. Free of charge;
+19 2. Without having to register or establish a user account or password;
+20 3. Without having to submit personal identifying information; and
+21 4. Without having to overcome any other impediment, including entering
+22 a code to access the list;
+23 (b) Be accessible to a common commercial operator of an internet search
+24 engine to the extent necessary for the search engine to index the list and
+25 display the list as a result in response to a search query of a user of the
+26 search engine;
+27 (c) Be formatted in a manner prescribed by the cabinet;
+Page 4 of 14
+XXXX 1/3/2025 10:36 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 976
+1 (d) Be digitally searchable; and
+2 (e) Use the naming convention specified by the Centers for Medicare and
+3 Medicaid Services on its website.
+4 (7) The facility shall update the chargemaster at least one (1) time each year. The
+5 facility shall clearly indicate the date on which the list was most recently updated,
+6 either on the chargemaster or in a manner that is clearly associated with the
+7 chargemaster.
+8 (8) The cabinet shall promulgate administrative regulations in accordance with KRS
+9 Chapter 13A to establish a template for each facility to use to create the
+10 chargemaster. When promulgating administrative regulations under this
+11 subsection the cabinet shall:
+12 (a) Consider any applicable federal guidelines for formatting similar
+13 chargemasters required by federal law or rule and ensure that the design of
+14 the template enables health care researchers to compare the charges
+15 contained in the chargemasters maintained by each facility; and
+16 (b) Design the template to be substantially similar to the template used by the
+17 Centers for Medicare and Medicaid Services for purposes similar to those of
+18 this section.
+19 SECTION 4. A NEW SECTION OF KRS CHAPTER 216B IS CREATED TO
+20 READ AS FOLLOWS:
+21 (1) (a) A facility shall maintain and make publicly available a chargemaster of the
+22 standard charges described by subsection (3)(b) of Section 3 of this Act for
+23 each of at least three hundred (300) shoppable services provided by the
+24 facility. The facility may select the shoppable services to be included in the
+25 chargemaster, except that the chargemaster shall include:
+26 1. The services specified as shoppable services by the Centers for
+27 Medicare and Medicaid Services; or
+Page 5 of 14
+XXXX 1/3/2025 10:36 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 976
+1 2. If the facility does not provide all of the shoppable services described
+2 by subparagraph 1. of this paragraph, as many of those shoppable
+3 services as the facility does provide.
+4 (b) If a facility does not provide three hundred (300) shoppable services, the
+5 facility shall maintain a chargemaster of the total number of shoppable
+6 services that the facility provides in a manner that otherwise complies with
+7 the requirements of paragraph (a) of this subsection.
+8 (2) In selecting a shoppable service for purposes of inclusion in the chargemaster
+9 required under subsection (1) of this section, a facility shall:
+10 (a) Consider how frequently the facility provides the service and the facility’s
+11 billing rate for that service; and
+12 (b) Prioritize the selection of services that are among the services most
+13 frequently provided by the facility.
+14 (3) The chargemaster required under subsection (1) of this section shall:
+15 (a) Include:
+16 1. A plain-language description of each shoppable service included;
+17 2. All payor-specific negotiated charges that apply to each shoppable
+18 service included and any ancillary service, listed by the name of the
+19 third-party payor and plan associated with the charge and displayed in
+20 a manner that clearly associates the charge with the third-party payor
+21 and plan;
+22 3. The discounted cash price that applies to each shoppable service
+23 included and any ancillary service or, if the facility does not offer a
+24 discounted cash price for one (1) or more of the shoppable or ancillary
+25 services, the gross charge for the shoppable service or ancillary
+26 service, as applicable;
+27 4. The de-identified minimum negotiated charge that applies to each
+Page 6 of 14
+XXXX 1/3/2025 10:36 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 976
+1 shoppable service included and any ancillary service;
+2 5. The de-identified maximum negotiated charge that applies to each
+3 shoppable service included and any ancillary service; and
+4 6. Any code used by the facility for purposes of accounting or billing for
+5 each shoppable service included and any ancillary service, including
+6 the CPT, HCPCS, DRG, or NDC code, or other common identifier;
+7 and
+8 (b) If applicable:
+9 (1) State each location at which the facility provides the shoppable service
+10 and whether the standard charges included apply at that location to
+11 the provision of that shoppable service in an inpatient setting, an
+12 outpatient department setting, or both of those settings, as applicable;
+13 and
+14 (2) Indicate if one (1) or more of the shoppable services specified by the
+15 Centers for Medicare and Medicaid Services is not provided by the
+16 facility.
+17 (4) The chargemaster required under subsection (1) of this section, as applicable,
+18 shall be:
+19 (a) Displayed in the manner prescribed in subsection (5) of Section 3 of this
+20 Act, for the chargemaster required under that section;
+21 (b) Available:
+22 1. Free of charge;
+23 2. Without having to register or establish a user account or password;
+24 3. Without having to submit personal identifying information; and
+25 4. Without having to overcome any other impediment, including entering
+26 a code to access the chargemaster;
+27 (c) Searchable by service description, billing code, and payor;
+Page 7 of 14
+XXXX 1/3/2025 10:36 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 976
+1 (d) Updated in the manner prescribed in Section 3 of this Act for the
+2 chargemaster required under that section;
+3 (e) Accessible to a common commercial operator of an internet search engine
+4 to the extent necessary for the search engine to index the list and display the
+5 chargemaster as a result in response to a search query of a user of the
+6 search engine; and
+7 (f) Formatted in a manner that is consistent with the format prescribed by the
+8 cabinet in Section 3 of this Act.
+9 SECTION 5. A NEW SECTION OF KRS CHAPTER 216B IS CREATED TO
+10 READ AS FOLLOWS:
+11 (1) The cabinet shall monitor each facility's compliance with the requirements of
+12 Sections 2, 3, and 4 of this Act using any of the following methods:
+13 (a) Evaluating complaints made by persons to the cabinet regarding
+14 noncompliance;
+15 (b) Reviewing any analysis prepared regarding noncompliance; and
+16 (c) Auditing the websites of facilities for compliance with this section.
+17 (2) If the cabinet determines that a facility is not in compliance with a provision of
+18 Sections 2, 3, and 4 of this Act the cabinet shall take the following actions:
+19 (a) Provide a written notice to the facility that clearly explains the manner in
+20 which the facility is not in compliance;
+21 (b) Request a corrective action plan from the facility if the facility has
+22 materially violated a provision of Section 2, 3, or 4 of this Act; and
+23 (c) Impose an administrative penalty, as determined under Section 7 of this Act,
+24 on the facility and publicize the penalty on the cabinet's internet website if
+25 the facility fails to:
+26 1. Respond to the cabinet's request to submit a correction action plan; or
+27 2. Comply with the requirements of a corrective action plan submitted to
+Page 8 of 14
+XXXX 1/3/2025 10:36 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 976
+1 the cabinet.
+2 (3) Beginning no later than ninety (90) days after the effective date of this Act, the
+3 cabinet shall create and maintain a publicly available list on its website of
+4 hospitals that have been found to have violated Section 2, 3, or 4 of this Act, or
+5 that have been issued an administrative penalty or sent a warning notice, a
+6 request for a corrective action plan, or any other written communication from the
+7 cabinet related to the requirements of Section 2, 3, or 4 of this Act. Such
+8 penalties, notices, and communications shall be subject to public disclosure
+9 under 5 U.S.C. sec. 552, notwithstanding any exemptions or exclusions to the
+10 contrary, in full without redaction. This list shall be updated at least every thirty
+11 (30) days thereafter.
+12 (4) Notwithstanding any provision of law to the contrary, in considering an
+13 application for renewal of a hospital’s license or certification, the cabinet shall
+14 consider whether the hospital is or has been in compliance with Section 2, 3, or 4
+15 of this Act.
+16 SECTION 6. A NEW SECTION OF KRS CHAPTER 216B IS CREATED TO
+17 READ AS FOLLOWS:
+18 (1) A facility materially violates Section 2, 3, or 4 of this Act if the facility fails to:
+19 (a) Comply with the requirements; or
+20 (b) Publicize the facility's standard charges in the form and manner required.
+21 (2) If the cabinet determines that a facility has materially violated Section 2, 3, or 4
+22 of this Act, the cabinet shall issue a notice of material violation to the facility and
+23 request that the facility submit a corrective action plan. The notice shall indicate
+24 the form and manner in which the corrective action plan shall be submitted to the
+25 cabinet, and clearly state the date by which the facility shall submit the plan.
+26 (3) A facility that receives a notice under subsection (2) of this section shall:
+27 (a) Submit a corrective action plan in the form and manner and by the specified
+Page 9 of 14
+XXXX 1/3/2025 10:36 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 976
+1 date prescribed in the notice of violation; and
+2 (b) As soon as practicable after submission of a corrective action plan to the
+3 cabinet, comply with the plan.
+4 (4) A corrective action plan submitted to the cabinet shall:
+5 (a) Describe in detail the corrective action the facility will take to address any
+6 violation identified by the cabinet in the notice provided under subsection
+7 (2) of this section; and
+8 (b) Provide a date by which the facility will complete the corrective action.
+9 (5) A corrective action plan shall be subject to review and approval by the cabinet.
+10 After the cabinet reviews and approves a facility’s corrective action plan, the
+11 cabinet shall monitor and evaluate the facility’s compliance with the plan.
+12 (6) A facility is considered to have failed to respond to the cabinet's request to submit
+13 a corrective action plan if the facility fails to submit a corrective action plan:
+14 (a) In the form and manner specified in the notice provided; or
+15 (b) By the date specified in the notice provided.
+16 (7) A facility is considered to have failed to comply with a corrective action plan if
+17 the facility fails to address a violation within the specified period of time
+18 contained in the plan.
+19 SECTION 7. A NEW SECTION OF KRS CHAPTER 216B IS CREATED TO
+20 READ AS FOLLOWS:
+21 (1) The cabinet shall impose an administrative penalty on a facility in accordance
+22 with this chapter if the facility fails to:
+23 (a) Respond to the cabinet's request to submit a corrective action plan; or
+24 (b) Comply with the requirements of a corrective action plan submitted to the
+25 cabinet.
+26 (2) The cabinet shall impose an administrative penalty on a facility for a violation of
+27 each requirement of this chapter. The cabinet shall set the penalty in an amount
+Page 10 of 14
+XXXX 1/3/2025 10:36 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 976
+1 sufficient to ensure compliance by a facility with the provisions of Sections 2, 3,
+2 and 4 of this Act subject to the limitations in subsection (3) of this section.
+3 (3) The penalty imposed by the cabinet shall not be lower than:
+4 (a) In the case of a hospital with a bed count of thirty (30) or fewer, six
+5 hundred dollars ($600) for each day in which the hospital fails to comply
+6 with the requirements;
+7 (b) In the case of a hospital with a bed count that is greater than thirty (30) and
+8 equal to or fewer than five hundred fifty (550), twenty dollars ($20) per bed
+9 for each day in which the hospital fails to comply with the requirements; or
+10 (c) In the case of a hospital with a bed count that is greater than five hundred
+11 fifty (550), eleven thousand dollars ($11,000) for each day in which the
+12 hospital fails to comply with the requirements.
+13 (4) Each day a violation continues shall be considered a separate violation.
+14 (5) In determining the amount of the penalty, the cabinet shall consider:
+15 (a) Previous violations by the facility's operator;
+16 (b) The seriousness of the violation;
+17 (c) The demonstrated good faith of the facility's operator; and
+18 (d) Any other matters the cabinet finds appropriate.
+19 SECTION 8. A NEW SECTION OF KRS CHAPTER 216B IS CREATED TO
+20 READ AS FOLLOWS:
+21 (1) As used in this section, unless the context requires:
+22 (a) "Collection action" means any of the following actions taken with respect
+23 to a debt for items and services that were purchased from or provided to a
+24 patient by a hospital on a date during which the hospital was not in material
+25 compliance with hospital price transparency laws:
+26 1. Attempting to collect a debt from a patient or patient guarantor by
+27 referring the debt, directly or indirectly, to a debt collector, a collection
+Page 11 of 14
+XXXX 1/3/2025 10:36 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 976
+1 agency, or other third party retained by or on behalf of the hospital;
+2 2. Suing the patient or patient guarantor, or enforcing an arbitration or
+3 mediation clause in any hospital documents including contracts,
+4 agreements, statements, or bills; or
+5 3. Directly or indirectly causing a report to be made to a consumer
+6 reporting agency;
+7 (b) "Collection agency" means any:
+8 1. Person who engages in a business the principal purpose of which is
+9 the collection of debts; or
+10 2. Person who:
+11 a. Regularly collects or attempts to collect, directly or indirectly,
+12 debts owed or due or asserted to be owed or due to another;
+13 b. Takes assignment of debts for collection purposes; or
+14 c. Directly or indirectly solicits for collection debts owed or due or
+15 asserted to be owed or due to another;
+16 (c) 1. "Consumer reporting agency" means any person that, for monetary
+17 fees, dues, or on a cooperative nonprofit basis, regularly engages, in
+18 whole or in part, in the practice of assembling or evaluating consumer
+19 credit information or other information on consumers for the purpose
+20 of furnishing consumer reports to third parties. "Consumer reporting
+21 agency" includes any person defined in 15 U.S.C. sec. 1681a(f).
+22 2. "Consumer reporting agency" does not include any business entity
+23 that provides check verification or check guarantee services only;
+24 (d) "Debt" means any obligation or alleged obligation of a consumer to pay
+25 money arising out of a transaction, whether or not the obligation has been
+26 reduced to judgment, and does not include a debt for business, investment,
+27 commercial, or agricultural purposes or a debt incurred by a business;
+Page 12 of 14
+XXXX 1/3/2025 10:36 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 976
+1 (e) "Debt collector" means any person employed or engaged by a collection
+2 agency to perform the collection of debts owed or due or asserted to be owed
+3 or due to another;
+4 (f) "Hospital" means a hospital as defined in 45 C.F.R. sec. 180.20 that is
+5 licensed by the cabinet;
+6 (g) "Hospital price transparency laws" means Section 2718(e) of the Public
+7 Health Service Act, Pub. L. No. 78-410, as amended, and rules adopted by
+8 the United States Department of Health and Human Services implementing
+9 Section 2718(e); and
+10 (h) "Items and services" or "items or services" means "items and services" as
+11 defined in 45 C.F.R. sec. 180.20.
+12 (2) On and after the effective date of this Act, a hospital that is not in material
+13 compliance with federal hospital price transparency laws on the date that items or
+14 services are purchased from or provided to a patient by the hospital shall not
+15 initiate or pursue a collection action against the patient or patient guarantor for a
+16 debt owed for the items or services.
+17 (3) If a patient believes that a hospital was not in material compliance with federal
+18 hospital price transparency laws on a date on or after the effective date of this
+19 Act, for items or services that were purchased by or provided to the patient, and
+20 for which the hospital takes a collection action against the patient or patient
+21 guarantor, the patient or patient guarantor may file suit to determine if the
+22 hospital was materially out of compliance with the hospital price transparency
+23 laws on the date of service. The hospital shall not take a collection action against
+24 the patient or patient guarantor while the lawsuit is pending.
+25 (4) A hospital that has been found to be materially out of compliance with federal
+26 hospital price transparency laws shall:
+27 (a) Refund the payer any amount of the debt the payer has paid and shall pay a
+Page 13 of 14
+XXXX 1/3/2025 10:36 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 976
+1 penalty to the patient or patient guarantor in an amount equal to the total
+2 amount of the debt;
+3 (b) Dismiss or cause to be dismissed any court action with prejudice and pay
+4 any attorney fees and costs incurred by the patient or patient guarantor
+5 relating to the action; and
+6 (c) Remove or cause to be removed from the patient’s or patient guarantor’s
+7 credit report any report made to a consumer reporting agency relating to the
+8 debt.
+9 (5) Nothing in this section:
+10 (a) Prohibits a hospital from billing a patient, patient guarantor, or third-party
+11 payor, including a health insurer, for items or services provided to the
+12 patient; or
+13 (b) Requires a hospital to refund any payment made to the hospital for items or
+14 services provided to the patient, so long as no collection action is taken in
+15 violation of this section.
+Page 14 of 14
+XXXX 1/3/2025 10:36 AM Jacketed
+
+[DELETED:   2  J A B S R A ( " s m a f i o s t a f c p ( " ( " f ( " m n c m t h c t a f ( " m n c m t l c t a f ( " c ( " ( " (   s p t m b p b a f t a p i c a ( I 1 S 2 R 3 U r]
+[DELETED:   2  J 4 S f c 5 A o i o s f w a f h e a s ( " a ( " f a ( " n c m t c t a f h n ( " i ( " s m a s t m b s b a h c c ( " i t ( T ( T ( T ( T ( T ( " l S]
+[DELETED:   2  J R N ( A c ( A c l o s c f a l s o s s S R ( A i ( T c a t t l o t f r o w t f a ( T ( A ( T w p i e a i s o a o d s 1 T 2 T 3 T 4 T 5 T p m a]
+[DELETED:   2  J ( A f c h c p c s ( c d o c ( T i c i t c s b p i a s d ( T i a p l o t h p o t f p a w t m l a m a s w t c r u o l ( T ( B 1 F 2 W 3 W 4 W a ( B a t a c c o o a i s e d s ( B]
+[DELETED:   2  J ( B ( U t n c s b t C f M a M ( T f e o t c o i a m t i c a w t c ( T C 1 t e a t f e f t u t c t c W p a r u t s ( C a a f g f f s c t t e h c r t c t c c ( D C t S R ( ( A s e o a l t h ( s s p b t f c 1 T s s a s s b t C f M]
+[DELETED:   2  J 2 I b s 1 o t p a m o t s s ( I f s m a c o t t n o s s t ( I r ( C b ( P t s o s t a a t s m f ( T ( I 1 A 2 A p n c t a t e s s t a a 3 T d c p t a t e s s i d s t g c f t s s o a s 4 T d m n c t a t e]
+[DELETED:   2  J s 5 T d m n c t a t e s 6 A e t a ( I ( S a t p o t s s i a i s a o a ( I C f M a M S i n p b t f ( T c r u s ( o s a a s ( D A ( A 1 F 2 W 3 W 4 W a ( S]
+[DELETED:   2  J ( U i t m p i S 3 o t A f t c ( A t c a a r i r t a s q o a u o t s ( F c S R ( T c s m e f c w t r o S ( E c m b p t t c r n ( R ( A ( I S ( P w ( R a c a p f t f i t f h m ( I o t 1 R 2 C]
+[DELETED:   2  J t ( B c s c a m a p a l o i w o h t h b i a a p o s a w n a r c r t t r o S 2 3 o 4 o t A S p n a c s b s t p d u 5 U s 5 n a e o e t t c ( ( N a p o l t t c i c a a c o S R ( A ( C ( P ( I o r t c ( A ( S]
+[DELETED:   2  J d ( A c ( A ( D v ( ( P ( A A t c r a a a f c a p t c ( A a ( I ( B ( A t f f t a a v w t s p o t c S R ( T w ( R ( C c ( T e]
+[DELETED:   2  J s a ( T ( I t c o a h w a b c o t ( o f s h w ( I e f ( I f ( e t d ( f e d i w t h ( E ( I ( P ( T ( T ( A S R ( A ( " t p c 1 A t c a d f a p o p g b r]
+[DELETED:   2  J a 2 S m c i a h d i c a 3 D o i c a r t b m t a c r ( " 1 P t 2 P a R c o a t c d o i d b T c D a ( 1 " f w c o a 2 " r a d n i a b e t ( " m r c]
+[DELETED:   2  J ( " c m a p e o e b a c a o ( " m a h a d i 4 C s 1 t i l ( " p t l m S 2 o t P H t S ( " d ( O a a t e d o t A a h t i n i m c s a p f o p t a p b t h s n i d ( I h A f w t h t a c a a t p o p g t p o p g m f s t d i t h l t ( A h ( R]
+[DELETED:   2  J p a ( D a a f a c i b t p o p g r ( R c d ( N ( P p i a h i f i o s p t t p ( R s v]

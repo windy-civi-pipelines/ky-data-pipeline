@@ -1,0 +1,915 @@
+Title: 1 AN ACT relating to coverage for substance use disorder.
+Official Title: 1 AN ACT relating to coverage for substance use disorder.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 15 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS BR 1358
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF SUBTITLE 17A OF KRS CHAPTER 304
+4 IS CREATED TO READ AS FOLLOWS:
+5 (1) As used in this section:
+6 (a) 1. "Comprehensive supervised substance use disorder treatment"
+7 includes but is not limited to treatment for substance use disorder
+8 through:
+9 a. An inpatient facility;
+10 b. A partial hospitalization program; and
+11 c. An in-home program.
+12 2. As used in subparagraph 1. of this paragraph, "in-home program"
+13 means a program offered by a health care facility or health care
+14 professional for the treatment of substance use disorder which the
+15 insured accesses through telehealth as defined in KRS 211.332; and
+16 (b) "Health plan":
+17 1. Means any health insurance policy, certificate, contract, or plan that
+18 offers or provides substance use disorder coverage:
+19 a. By direct payment, reimbursement, or otherwise; and
+20 b. On a fully insured or self-insured basis or any combination
+21 thereof; and
+22 2. Includes a health benefit plan;
+23 (2) A health plan shall provide coverage for comprehensive supervised substance use
+24 disorder treatment.
+25 (3) (a) The coverage required under subsection (2) of this section shall not be
+26 limited to a duration of less than six (6) months.
+27 (b) Any prior authorization granted for coverage required under subsection (2)
+Page 1 of 15
+XXXX 1/30/2025 8:59 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1358
+1 of this section shall not be limited to a specific health care professional or
+2 facility, except that, if the underlying coverage is limited to in-network
+3 health care professionals or facilities, a prior authorization may also be
+4 limited to in-network health care professionals or facilities.
+5 (4) Nothing in this section shall be construed to limit the coverage required by:
+6 (a) KRS 304.17A-138;
+7 (b) KRS 304.17A-145; or
+8 (c) Any other law.
+9 Section 2. KRS 304.17C-125 is amended to read as follows:
+10 The following shall apply to limited health service benefit plans, including any limited
+11 health service contract, as defined in KRS 304.38A-010:
+12 (1) KRS 304.17A-129;
+13 (2) KRS 304.17A-262;[ and]
+14 (3) KRS 304.17A-591 to 304.17A-599; and
+15 (4) Section 1 of this Act.
+16 Section 3. KRS 18A.225 is amended to read as follows:
+17 (1) (a) The term "employee" for purposes of this section means:
+18 1. Any person, including an elected public official, who is regularly
+19 employed by any department, office, board, agency, or branch of state
+20 government; or by a public postsecondary educational institution; or by
+21 any city, urban-county, charter county, county, or consolidated local
+22 government, whose legislative body has opted to participate in the state-
+23 sponsored health insurance program pursuant to KRS 79.080; and who
+24 is either a contributing member to any one (1) of the retirement systems
+25 administered by the state, including but not limited to the Kentucky
+26 Retirement Systems, County Employees Retirement System, Kentucky
+27 Teachers' Retirement System, the Legislators' Retirement Plan, or the
+Page 2 of 15
+XXXX 1/30/2025 8:59 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1358
+1 Judicial Retirement Plan; or is receiving a contractual contribution from
+2 the state toward a retirement plan; or, in the case of a public
+3 postsecondary education institution, is an individual participating in an
+4 optional retirement plan authorized by KRS 161.567; or is eligible to
+5 participate in a retirement plan established by an employer who ceases
+6 participating in the Kentucky Employees Retirement System pursuant to
+7 KRS 61.522 whose employees participated in the health insurance plans
+8 administered by the Personnel Cabinet prior to the employer's effective
+9 cessation date in the Kentucky Employees Retirement System;
+10 2. Any certified or classified employee of a local board of education or a
+11 public charter school as defined in KRS 160.1590;
+12 3. Any elected member of a local board of education;
+13 4. Any person who is a present or future recipient of a retirement
+14 allowance from the Kentucky Retirement Systems, County Employees
+15 Retirement System, Kentucky Teachers' Retirement System, the
+16 Legislators' Retirement Plan, the Judicial Retirement Plan, or the
+17 Kentucky Community and Technical College System's optional
+18 retirement plan authorized by KRS 161.567, except that a person who is
+19 receiving a retirement allowance and who is age sixty-five (65) or older
+20 shall not be included, with the exception of persons covered under KRS
+21 61.702(2)(b)3. and 78.5536(2)(b)3., unless he or she is actively
+22 employed pursuant to subparagraph 1. of this paragraph; and
+23 5. Any eligible dependents and beneficiaries of participating employees
+24 and retirees who are entitled to participate in the state-sponsored health
+25 insurance program;
+26 (b) The term "health benefit plan" for the purposes of this section means a health
+27 benefit plan as defined in KRS 304.17A-005;
+Page 3 of 15
+XXXX 1/30/2025 8:59 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1358
+1 (c) The term "insurer" for the purposes of this section means an insurer as defined
+2 in KRS 304.17A-005; and
+3 (d) The term "managed care plan" for the purposes of this section means a
+4 managed care plan as defined in KRS 304.17A-500.
+5 (2) (a) The secretary of the Finance and Administration Cabinet, upon the
+6 recommendation of the secretary of the Personnel Cabinet, shall procure, in
+7 compliance with the provisions of KRS 45A.080, 45A.085, and 45A.090,
+8 from one (1) or more insurers authorized to do business in this state, a group
+9 health benefit plan that may include but not be limited to health maintenance
+10 organization (HMO), preferred provider organization (PPO), point of service
+11 (POS), and exclusive provider organization (EPO) benefit plans
+12 encompassing all or any class or classes of employees. With the exception of
+13 employers governed by the provisions of KRS Chapters 16, 18A, and 151B,
+14 all employers of any class of employees or former employees shall enter into
+15 a contract with the Personnel Cabinet prior to including that group in the state
+16 health insurance group. The contracts shall include but not be limited to
+17 designating the entity responsible for filing any federal forms, adoption of
+18 policies required for proper plan administration, acceptance of the contractual
+19 provisions with health insurance carriers or third-party administrators, and
+20 adoption of the payment and reimbursement methods necessary for efficient
+21 administration of the health insurance program. Health insurance coverage
+22 provided to state employees under this section shall, at a minimum, contain
+23 the same benefits as provided under Kentucky Kare Standard as of January 1,
+24 1994, and shall include a mail-order drug option as provided in subsection
+25 (13) of this section. All employees and other persons for whom the health care
+26 coverage is provided or made available shall annually be given an option to
+27 elect health care coverage through a self-funded plan offered by the
+Page 4 of 15
+XXXX 1/30/2025 8:59 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1358
+1 Commonwealth or, if a self-funded plan is not available, from a list of
+2 coverage options determined by the competitive bid process under the
+3 provisions of KRS 45A.080, 45A.085, and 45A.090 and made available
+4 during annual open enrollment.
+5 (b) The policy or policies shall be approved by the commissioner of insurance
+6 and may contain the provisions the commissioner of insurance approves,
+7 whether or not otherwise permitted by the insurance laws.
+8 (c) Any carrier bidding to offer health care coverage to employees shall agree to
+9 provide coverage to all members of the state group, including active
+10 employees and retirees and their eligible covered dependents and
+11 beneficiaries, within the county or counties specified in its bid. Except as
+12 provided in subsection (20) of this section, any carrier bidding to offer health
+13 care coverage to employees shall also agree to rate all employees as a single
+14 entity, except for those retirees whose former employers insure their active
+15 employees outside the state-sponsored health insurance program and as
+16 otherwise provided in KRS 61.702(2)(b)3.b. and 78.5536(2)(b)3.b.
+17 (d) Any carrier bidding to offer health care coverage to employees shall agree to
+18 provide enrollment, claims, and utilization data to the Commonwealth in a
+19 format specified by the Personnel Cabinet with the understanding that the data
+20 shall be owned by the Commonwealth; to provide data in an electronic form
+21 and within a time frame specified by the Personnel Cabinet; and to be subject
+22 to penalties for noncompliance with data reporting requirements as specified
+23 by the Personnel Cabinet. The Personnel Cabinet shall take strict precautions
+24 to protect the confidentiality of each individual employee; however,
+25 confidentiality assertions shall not relieve a carrier from the requirement of
+26 providing stipulated data to the Commonwealth.
+27 (e) The Personnel Cabinet shall develop the necessary techniques and capabilities
+Page 5 of 15
+XXXX 1/30/2025 8:59 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1358
+1 for timely analysis of data received from carriers and, to the extent possible,
+2 provide in the request-for-proposal specifics relating to data requirements,
+3 electronic reporting, and penalties for noncompliance. The Commonwealth
+4 shall own the enrollment, claims, and utilization data provided by each carrier
+5 and shall develop methods to protect the confidentiality of the individual. The
+6 Personnel Cabinet shall include in the October annual report submitted
+7 pursuant to the provisions of KRS 18A.226 to the Governor, the General
+8 Assembly, and the Chief Justice of the Supreme Court, an analysis of the
+9 financial stability of the program, which shall include but not be limited to
+10 loss ratios, methods of risk adjustment, measurements of carrier quality of
+11 service, prescription coverage and cost management, and statutorily required
+12 mandates. If state self-insurance was available as a carrier option, the report
+13 also shall provide a detailed financial analysis of the self-insurance fund
+14 including but not limited to loss ratios, reserves, and reinsurance agreements.
+15 (f) If any agency participating in the state-sponsored employee health insurance
+16 program for its active employees terminates participation and there is a state
+17 appropriation for the employer's contribution for active employees' health
+18 insurance coverage, then neither the agency nor the employees shall receive
+19 the state-funded contribution after termination from the state-sponsored
+20 employee health insurance program.
+21 (g) Any funds in flexible spending accounts that remain after all reimbursements
+22 have been processed shall be transferred to the credit of the state-sponsored
+23 health insurance plan's appropriation account.
+24 (h) Each entity participating in the state-sponsored health insurance program shall
+25 provide an amount at least equal to the state contribution rate for the employer
+26 portion of the health insurance premium. For any participating entity that used
+27 the state payroll system, the employer contribution amount shall be equal to
+Page 6 of 15
+XXXX 1/30/2025 8:59 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1358
+1 but not greater than the state contribution rate.
+2 (3) The premiums may be paid by the policyholder:
+3 (a) Wholly from funds contributed by the employee, by payroll deduction or
+4 otherwise;
+5 (b) Wholly from funds contributed by any department, board, agency, public
+6 postsecondary education institution, or branch of state, city, urban-county,
+7 charter county, county, or consolidated local government; or
+8 (c) Partly from each, except that any premium due for health care coverage or
+9 dental coverage, if any, in excess of the premium amount contributed by any
+10 department, board, agency, postsecondary education institution, or branch of
+11 state, city, urban-county, charter county, county, or consolidated local
+12 government for any other health care coverage shall be paid by the employee.
+13 (4) If an employee moves his or her place of residence or employment out of the
+14 service area of an insurer offering a managed health care plan, under which he or
+15 she has elected coverage, into either the service area of another managed health care
+16 plan or into an area of the Commonwealth not within a managed health care plan
+17 service area, the employee shall be given an option, at the time of the move or
+18 transfer, to change his or her coverage to another health benefit plan.
+19 (5) No payment of premium by any department, board, agency, public postsecondary
+20 educational institution, or branch of state, city, urban-county, charter county,
+21 county, or consolidated local government shall constitute compensation to an
+22 insured employee for the purposes of any statute fixing or limiting the
+23 compensation of such an employee. Any premium or other expense incurred by any
+24 department, board, agency, public postsecondary educational institution, or branch
+25 of state, city, urban-county, charter county, county, or consolidated local
+26 government shall be considered a proper cost of administration.
+27 (6) The policy or policies may contain the provisions with respect to the class or classes
+Page 7 of 15
+XXXX 1/30/2025 8:59 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1358
+1 of employees covered, amounts of insurance or coverage for designated classes or
+2 groups of employees, policy options, terms of eligibility, and continuation of
+3 insurance or coverage after retirement.
+4 (7) Group rates under this section shall be made available to the disabled child of an
+5 employee regardless of the child's age if the entire premium for the disabled child's
+6 coverage is paid by the state employee. A child shall be considered disabled if he or
+7 she has been determined to be eligible for federal Social Security disability benefits.
+8 (8) The health care contract or contracts for employees shall be entered into for a
+9 period of not less than one (1) year.
+10 (9) The secretary shall appoint thirty-two (32) persons to an Advisory Committee of
+11 State Health Insurance Subscribers to advise the secretary or the secretary's
+12 designee regarding the state-sponsored health insurance program for employees.
+13 The secretary shall appoint, from a list of names submitted by appointing
+14 authorities, members representing school districts from each of the seven (7)
+15 Supreme Court districts, members representing state government from each of the
+16 seven (7) Supreme Court districts, two (2) members representing retirees under age
+17 sixty-five (65), one (1) member representing local health departments, two (2)
+18 members representing the Kentucky Teachers' Retirement System, and three (3)
+19 members at large. The secretary shall also appoint two (2) members from a list of
+20 five (5) names submitted by the Kentucky Education Association, two (2) members
+21 from a list of five (5) names submitted by the largest state employee organization of
+22 nonschool state employees, two (2) members from a list of five (5) names submitted
+23 by the Kentucky Association of Counties, two (2) members from a list of five (5)
+24 names submitted by the Kentucky League of Cities, and two (2) members from a
+25 list of names consisting of five (5) names submitted by each state employee
+26 organization that has two thousand (2,000) or more members on state payroll
+27 deduction. The advisory committee shall be appointed in January of each year and
+Page 8 of 15
+XXXX 1/30/2025 8:59 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1358
+1 shall meet quarterly.
+2 (10) Notwithstanding any other provision of law to the contrary, the policy or policies
+3 provided to employees pursuant to this section shall not provide coverage for
+4 obtaining or performing an abortion, nor shall any state funds be used for the
+5 purpose of obtaining or performing an abortion on behalf of employees or their
+6 dependents.
+7 (11) Interruption of an established treatment regime with maintenance drugs shall be
+8 grounds for an insured to appeal a formulary change through the established appeal
+9 procedures approved by the Department of Insurance, if the physician supervising
+10 the treatment certifies that the change is not in the best interests of the patient.
+11 (12) Any employee who is eligible for and elects to participate in the state health
+12 insurance program as a retiree, or the spouse or beneficiary of a retiree, under any
+13 one (1) of the state-sponsored retirement systems shall not be eligible to receive the
+14 state health insurance contribution toward health care coverage as a result of any
+15 other employment for which there is a public employer contribution. This does not
+16 preclude a retiree and an active employee spouse from using both contributions to
+17 the extent needed for purchase of one (1) state sponsored health insurance policy
+18 for that plan year.
+19 (13) (a) The policies of health insurance coverage procured under subsection (2) of
+20 this section shall include a mail-order drug option for maintenance drugs for
+21 state employees. Maintenance drugs may be dispensed by mail order in
+22 accordance with Kentucky law.
+23 (b) A health insurer shall not discriminate against any retail pharmacy located
+24 within the geographic coverage area of the health benefit plan and that meets
+25 the terms and conditions for participation established by the insurer, including
+26 price, dispensing fee, and copay requirements of a mail-order option. The
+27 retail pharmacy shall not be required to dispense by mail.
+Page 9 of 15
+XXXX 1/30/2025 8:59 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1358
+1 (c) The mail-order option shall not permit the dispensing of a controlled
+2 substance classified in Schedule II.
+3 (14) The policy or policies provided to state employees or their dependents pursuant to
+4 this section shall provide coverage for obtaining a hearing aid and acquiring hearing
+5 aid-related services for insured individuals under eighteen (18) years of age, subject
+6 to a cap of one thousand four hundred dollars ($1,400) every thirty-six (36) months
+7 pursuant to KRS 304.17A-132.
+8 (15) Any policy provided to state employees or their dependents pursuant to this section
+9 shall provide coverage for the diagnosis and treatment of autism spectrum disorders
+10 consistent with KRS 304.17A-142.
+11 (16) Any policy provided to state employees or their dependents pursuant to this section
+12 shall provide coverage for obtaining amino acid-based elemental formula pursuant
+13 to KRS 304.17A-258.
+14 (17) If a state employee's residence and place of employment are in the same county,
+15 and if the hospital located within that county does not offer surgical services,
+16 intensive care services, obstetrical services, level II neonatal services, diagnostic
+17 cardiac catheterization services, and magnetic resonance imaging services, the
+18 employee may select a plan available in a contiguous county that does provide
+19 those services, and the state contribution for the plan shall be the amount available
+20 in the county where the plan selected is located.
+21 (18) If a state employee's residence and place of employment are each located in
+22 counties in which the hospitals do not offer surgical services, intensive care
+23 services, obstetrical services, level II neonatal services, diagnostic cardiac
+24 catheterization services, and magnetic resonance imaging services, the employee
+25 may select a plan available in a county contiguous to the county of residence that
+26 does provide those services, and the state contribution for the plan shall be the
+27 amount available in the county where the plan selected is located.
+Page 10 of 15
+XXXX 1/30/2025 8:59 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1358
+1 (19) The Personnel Cabinet is encouraged to study whether it is fair and reasonable and
+2 in the best interests of the state group to allow any carrier bidding to offer health
+3 care coverage under this section to submit bids that may vary county by county or
+4 by larger geographic areas.
+5 (20) Notwithstanding any other provision of this section, the bid for proposals for health
+6 insurance coverage for calendar year 2004 shall include a bid scenario that reflects
+7 the statewide rating structure provided in calendar year 2003 and a bid scenario that
+8 allows for a regional rating structure that allows carriers to submit bids that may
+9 vary by region for a given product offering as described in this subsection:
+10 (a) The regional rating bid scenario shall not include a request for bid on a
+11 statewide option;
+12 (b) The Personnel Cabinet shall divide the state into geographical regions which
+13 shall be the same as the partnership regions designated by the Department for
+14 Medicaid Services for purposes of the Kentucky Health Care Partnership
+15 Program established pursuant to 907 KAR 1:705;
+16 (c) The request for proposal shall require a carrier's bid to include every county
+17 within the region or regions for which the bid is submitted and include but not
+18 be restricted to a preferred provider organization (PPO) option;
+19 (d) If the Personnel Cabinet accepts a carrier's bid, the cabinet shall award the
+20 carrier all of the counties included in its bid within the region. If the Personnel
+21 Cabinet deems the bids submitted in accordance with this subsection to be in
+22 the best interests of state employees in a region, the cabinet may award the
+23 contract for that region to no more than two (2) carriers; and
+24 (e) Nothing in this subsection shall prohibit the Personnel Cabinet from including
+25 other requirements or criteria in the request for proposal.
+26 (21) Any fully insured health benefit plan or self-insured plan issued or renewed on or
+27 after July 12, 2006, to public employees pursuant to this section which provides
+Page 11 of 15
+XXXX 1/30/2025 8:59 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1358
+1 coverage for services rendered by a physician or osteopath duly licensed under KRS
+2 Chapter 311 that are within the scope of practice of an optometrist duly licensed
+3 under the provisions of KRS Chapter 320 shall provide the same payment of
+4 coverage to optometrists as allowed for those services rendered by physicians or
+5 osteopaths.
+6 (22) Any fully insured health benefit plan or self-insured plan issued or renewed to
+7 public employees pursuant to this section shall comply with:
+8 (a) KRS 304.12-237;
+9 (b) KRS 304.17A-270 and 304.17A-525;
+10 (c) KRS 304.17A-600 to 304.17A-633;
+11 (d) KRS 205.593;
+12 (e) KRS 304.17A-700 to 304.17A-730;
+13 (f) KRS 304.14-135;
+14 (g) KRS 304.17A-580 and 304.17A-641;
+15 (h) KRS 304.99-123;
+16 (i) KRS 304.17A-138;
+17 (j) KRS 304.17A-148;
+18 (k) KRS 304.17A-163 and 304.17A-1631;
+19 (l) KRS 304.17A-265;
+20 (m) KRS 304.17A-261;
+21 (n) KRS 304.17A-262;
+22 (o) KRS 304.17A-145;
+23 (p) KRS 304.17A-129;
+24 (q) KRS 304.17A-133;
+25 (r) KRS 304.17A-264;[ and]
+26 (s) Section 1 of this Act; and
+27 (t) Administrative regulations promulgated pursuant to statutes listed in this
+Page 12 of 15
+XXXX 1/30/2025 8:59 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1358
+1 subsection.
+2 (23) (a) Any fully insured health benefit plan or self-insured plan issued or renewed to
+3 public employees pursuant to this section shall provide a special enrollment
+4 period to pregnant women who are eligible for coverage in accordance with
+5 the requirements set forth in KRS 304.17-182.
+6 (b) The Department of Employee Insurance shall, at or before the time a public
+7 employee is initially offered the opportunity to enroll in the plan or coverage,
+8 provide the employee a notice of the special enrollment rights under this
+9 subsection.
+10 Section 4. KRS 164.2871 is amended to read as follows:
+11 (1) The governing board of each state postsecondary educational institution is
+12 authorized to purchase liability insurance for the protection of the individual
+13 members of the governing board, faculty, and staff of such institutions from liability
+14 for acts and omissions committed in the course and scope of the individual's
+15 employment or service. Each institution may purchase the type and amount of
+16 liability coverage deemed to best serve the interest of such institution.
+17 (2) All retirement annuity allowances accrued or accruing to any employee of a state
+18 postsecondary educational institution through a retirement program sponsored by
+19 the state postsecondary educational institution are hereby exempt from any state,
+20 county, or municipal tax, and shall not be subject to execution, attachment,
+21 garnishment, or any other process whatsoever, nor shall any assignment thereof be
+22 enforceable in any court. Except retirement benefits accrued or accruing to any
+23 employee of a state postsecondary educational institution through a retirement
+24 program sponsored by the state postsecondary educational institution on or after
+25 January 1, 1998, shall be subject to the tax imposed by KRS 141.020, to the extent
+26 provided in KRS 141.010 and 141.0215.
+27 (3) Except as provided in KRS Chapter 44, the purchase of liability insurance for
+Page 13 of 15
+XXXX 1/30/2025 8:59 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1358
+1 members of governing boards, faculty and staff of institutions of higher education
+2 in this state shall not be construed to be a waiver of sovereign immunity or any
+3 other immunity or privilege.
+4 (4) The governing board of each state postsecondary education institution is authorized
+5 to provide a self-insured employer group health plan to its employees, which plan
+6 shall:
+7 (a) Conform to the requirements of Subtitle 32 of KRS Chapter 304; and
+8 (b) Except as provided in subsection (5) of this section, be exempt from
+9 conformity with Subtitle 17A of KRS Chapter 304.
+10 (5) A self-insured employer group health plan provided by the governing board of a
+11 state postsecondary education institution to its employees shall comply with:
+12 (a) KRS 304.17A-129;
+13 (b) KRS 304.17A-133;
+14 (c) KRS 304.17A-145;
+15 (d) KRS 304.17A-163 and 304.17A-1631;
+16 (e) KRS 304.17A-261;
+17 (f) KRS 304.17A-262;
+18 (g) KRS 304.17A-264;[ and]
+19 (h) KRS 304.17A-265; and
+20 (i) Section 1 of this Act.
+21 (6) (a) A self-insured employer group health plan provided by the governing board of
+22 a state postsecondary education institution to its employees shall provide a
+23 special enrollment period to pregnant women who are eligible for coverage in
+24 accordance with the requirements set forth in KRS 304.17-182.
+25 (b) The governing board of a state postsecondary education institution shall, at or
+26 before the time an employee is initially offered the opportunity to enroll in the
+27 plan or coverage, provide the employee a notice of the special enrollment
+Page 14 of 15
+XXXX 1/30/2025 8:59 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1358
+1 rights under this subsection.
+2 Section 5. Section 1 of this Act may be cited as Braxton's Law.
+3 Section 6. Sections 1 to 4 of this Act apply to health plans issued or renewed on
+4 or after January 1, 2026.
+5 Section 7. This Act takes effect January 1, 2026.
+Page 15 of 15
+XXXX 1/30/2025 8:59 AM Jacketed
+[DELETED:   2  J A B S I ( A ( 1 " s s u d t i b i n l t t f s u d t a A b A c A 2 A u i s 1 o p " p m a p o b a h c f o h c p f t t o s u d w t i ( " 1 M o a B b O a f i o s b o a c t 2 I ( A d ( ( T c r u s ( o t s s n b l ( A]
+[DELETED:   2  J o f e t i t u c i l t i h c p o f a p a m a b l ( N ( K ( K ( A S T h ( K ( K ( K ( S S ( ( T 1 A p i a e p o w i r e g a c u c c c o c l g s i a b t s i b n l t t K R T R S t L R P o]
+[DELETED:   2  J J t s t a r p o i t c o a p p o p p K a c 2 A p 3 A 4 A p w i a p o f r o a r a R S K T R S t L R P t J R P o t K C a T C S o r r s 6 a 7 u h o s i a e 5 A e d a b o p e a i ( T b]
+[DELETED:   2  J ( T i ( T t " c p f t p o t s m a m ( ( T s o t F a A C u t r c w t p o K 4 4 a 4 f h o ( a e p o ( b p e e a a h i g T c s i b n b l t d t e r f f a f f a o p p w h i c o t a a a a o t h i p H i c p t 1 ( c e h c c t a s p o b t]
+[DELETED:   2  J C o i a s p i n a f a l o c o d b t c b p u t p o K 4 4 a 4 a m a d ( T a m c t p t c o i a w ( A p c t a m o t s g i a e a r a t e c d a b w t c o c s i i b E a p c e e o t s h i p a a o ( A p e c a u d t t C i a f s a t b t p t c o e i e h c p ( T]
+[DELETED:   2  J f p i t r s r t d r e r a p f n T C s a P C s i i t O a r s p t t p o K 1 t t G t G A a t C J o t S C a a o t f l r m o a m o c q o s m a s p a d f a o t s f i ( I p a f t e c f a e h i t s c a t f t s e ( A h h ( E p p t]
+[DELETED:   2  J b ( T ( W f f c b t e b p d o o ( W f f c b a d b a p p e i o b o s c u c ( P d d s c u c c c o c l g ( I a e m h o h p o r o e o o t s s p s a t e s b g a o a t o o t ( N e i o b o s c u c c c o c l g s c c t a i e f t p o a s f o l t c d o s c u c c c o c l g ( T]
+[DELETED:   2  J o g o e p o t o e a c o i ( G e c s ( T h c c o c f e s b e i f a p ( T S H I S t a t s o t s d r t s h i p f e T s s a f a l o n s b a a m r s d f e o t s ( S s s ( o ( m r l h d t ( m r t K T R S a t ( m f f n b n l o n c o f ( n s b e s e o t h t t ( o m m o s p d]
+[DELETED:   2  J s ( N p t e p t t s s n p c f o o p a a n s a s f b u f t p o o p a a o b o o d ( I o a e t r w m d s b g p t ( A e w i e f a e t p i t s h i o s o p t f ( ( T t s e M d m b d b m o i a ( A h i n d a a r p l w t p d f a c r o a m o T r]
+[DELETED:   2  J ( T m o s n p t d o a c s ( T t a t p ( A s c ( A s t ( I a i t h l w t c d n o s s i c s o s l I n s d c c s a m r i s t e m s a p a i a c c t d p t i ( I a s e r a p o e a e l i c i w t h d n o s s i c s o s l I n s d c c s a m r i s t e m d p t s a t s c f t p s b t a]
+[DELETED:   2  J ( T i c b ( N i t a v ( T r r b s s n i a r f b o a s ( T s M S f p o t K H C P P ( T w b ( I c C t c ( N o ( A a]
+[DELETED:   2  J c C u t p o K C 3 s p t s p o c o ( A f i h b p o s p i o r t p ( K ( K ( K ( K ( K ( K ( K ( K ( K ( K ( K ( K ( K ( K ( K ( K ( K ( K ( S ( A r p p t s l i t]
+[DELETED:   2  J s ( ( A p p t ( T e p t e a n o t s e r u t s S ( T g b o e s p e i i a t p l i f t p o t i m f a a o c i t c a s o t i e o s E i m p t t a a o l ( A p t c o m t a s n b s t e a g e i a c E r b a o a t a e o a s p e i t a r p s b t s p i o o J p ( E a p i K C 4 t p o l i f]
+[DELETED:   2  J m i o ( T t s ( C ( E a p i s ( o t s b e f c ( A s ( K ( K ( K ( K ( K ( K ( K ( K ( S ( ( A a s a ( T b p o c p t e a n o t s e]
+[DELETED:   2  J r S S o S]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS BR 1358
+1 AN ACT relating to coverage for substance use disorder.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF SUBTITLE 17A OF KRS CHAPTER 304
+4 IS CREATED TO READ AS FOLLOWS:
+5 (1) As used in this section:
+6 (a) 1. "Comprehensive supervised substance use disorder treatment"
+7 includes but is not limited to treatment for substance use disorder
+8 through:
+9 a. An inpatient facility;
+10 b. A partial hospitalization program; and
+11 c. An in-home program.
+12 2. As used in subparagraph 1. of this paragraph, "in-home program"
+13 means a program offered by a health care facility or health care
+14 professional for the treatment of substance use disorder which the
+15 insured accesses through telehealth as defined in KRS 211.332; and
+16 (b) "Health plan":
+17 1. Means any health insurance policy, certificate, contract, or plan that
+18 offers or provides substance use disorder coverage:
+19 a. By direct payment, reimbursement, or otherwise; and
+20 b. On a fully insured or self-insured basis or any combination
+21 thereof; and
+22 2. Includes a health benefit plan;
+23 (2) A health plan shall provide coverage for comprehensive supervised substance use
+24 disorder treatment.
+25 (3) (a) The coverage required under subsection (2) of this section shall not be
+26 limited to a duration of less than six (6) months.
+27 (b) Any prior authorization granted for coverage required under subsection (2)
+Page 1 of 15
+XXXX 1/30/2025 8:59 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1358
+1 of this section shall not be limited to a specific health care professional or
+2 facility, except that, if the underlying coverage is limited to in-network
+3 health care professionals or facilities, a prior authorization may also be
+4 limited to in-network health care professionals or facilities.
+5 (4) Nothing in this section shall be construed to limit the coverage required by:
+6 (a) KRS 304.17A-138;
+7 (b) KRS 304.17A-145; or
+8 (c) Any other law.
+9 Section 2. KRS 304.17C-125 is amended to read as follows:
+10 The following shall apply to limited health service benefit plans, including any limited
+11 health service contract, as defined in KRS 304.38A-010:
+12 (1) KRS 304.17A-129;
+13 (2) KRS 304.17A-262;[ and]
+14 (3) KRS 304.17A-591 to 304.17A-599; and
+15 (4) Section 1 of this Act.
+16 Section 3. KRS 18A.225 is amended to read as follows:
+17 (1) (a) The term "employee" for purposes of this section means:
+18 1. Any person, including an elected public official, who is regularly
+19 employed by any department, office, board, agency, or branch of state
+20 government; or by a public postsecondary educational institution; or by
+21 any city, urban-county, charter county, county, or consolidated local
+22 government, whose legislative body has opted to participate in the state-
+23 sponsored health insurance program pursuant to KRS 79.080; and who
+24 is either a contributing member to any one (1) of the retirement systems
+25 administered by the state, including but not limited to the Kentucky
+26 Retirement Systems, County Employees Retirement System, Kentucky
+27 Teachers' Retirement System, the Legislators' Retirement Plan, or the
+Page 2 of 15
+XXXX 1/30/2025 8:59 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1358
+1 Judicial Retirement Plan; or is receiving a contractual contribution from
+2 the state toward a retirement plan; or, in the case of a public
+3 postsecondary education institution, is an individual participating in an
+4 optional retirement plan authorized by KRS 161.567; or is eligible to
+5 participate in a retirement plan established by an employer who ceases
+6 participating in the Kentucky Employees Retirement System pursuant to
+7 KRS 61.522 whose employees participated in the health insurance plans
+8 administered by the Personnel Cabinet prior to the employer's effective
+9 cessation date in the Kentucky Employees Retirement System;
+10 2. Any certified or classified employee of a local board of education or a
+11 public charter school as defined in KRS 160.1590;
+12 3. Any elected member of a local board of education;
+13 4. Any person who is a present or future recipient of a retirement
+14 allowance from the Kentucky Retirement Systems, County Employees
+15 Retirement System, Kentucky Teachers' Retirement System, the
+16 Legislators' Retirement Plan, the Judicial Retirement Plan, or the
+17 Kentucky Community and Technical College System's optional
+18 retirement plan authorized by KRS 161.567, except that a person who is
+19 receiving a retirement allowance and who is age sixty-five (65) or older
+20 shall not be included, with the exception of persons covered under KRS
+21 61.702(2)(b)3. and 78.5536(2)(b)3., unless he or she is actively
+22 employed pursuant to subparagraph 1. of this paragraph; and
+23 5. Any eligible dependents and beneficiaries of participating employees
+24 and retirees who are entitled to participate in the state-sponsored health
+25 insurance program;
+26 (b) The term "health benefit plan" for the purposes of this section means a health
+27 benefit plan as defined in KRS 304.17A-005;
+Page 3 of 15
+XXXX 1/30/2025 8:59 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1358
+1 (c) The term "insurer" for the purposes of this section means an insurer as defined
+2 in KRS 304.17A-005; and
+3 (d) The term "managed care plan" for the purposes of this section means a
+4 managed care plan as defined in KRS 304.17A-500.
+5 (2) (a) The secretary of the Finance and Administration Cabinet, upon the
+6 recommendation of the secretary of the Personnel Cabinet, shall procure, in
+7 compliance with the provisions of KRS 45A.080, 45A.085, and 45A.090,
+8 from one (1) or more insurers authorized to do business in this state, a group
+9 health benefit plan that may include but not be limited to health maintenance
+10 organization (HMO), preferred provider organization (PPO), point of service
+11 (POS), and exclusive provider organization (EPO) benefit plans
+12 encompassing all or any class or classes of employees. With the exception of
+13 employers governed by the provisions of KRS Chapters 16, 18A, and 151B,
+14 all employers of any class of employees or former employees shall enter into
+15 a contract with the Personnel Cabinet prior to including that group in the state
+16 health insurance group. The contracts shall include but not be limited to
+17 designating the entity responsible for filing any federal forms, adoption of
+18 policies required for proper plan administration, acceptance of the contractual
+19 provisions with health insurance carriers or third-party administrators, and
+20 adoption of the payment and reimbursement methods necessary for efficient
+21 administration of the health insurance program. Health insurance coverage
+22 provided to state employees under this section shall, at a minimum, contain
+23 the same benefits as provided under Kentucky Kare Standard as of January 1,
+24 1994, and shall include a mail-order drug option as provided in subsection
+25 (13) of this section. All employees and other persons for whom the health care
+26 coverage is provided or made available shall annually be given an option to
+27 elect health care coverage through a self-funded plan offered by the
+Page 4 of 15
+XXXX 1/30/2025 8:59 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1358
+1 Commonwealth or, if a self-funded plan is not available, from a list of
+2 coverage options determined by the competitive bid process under the
+3 provisions of KRS 45A.080, 45A.085, and 45A.090 and made available
+4 during annual open enrollment.
+5 (b) The policy or policies shall be approved by the commissioner of insurance
+6 and may contain the provisions the commissioner of insurance approves,
+7 whether or not otherwise permitted by the insurance laws.
+8 (c) Any carrier bidding to offer health care coverage to employees shall agree to
+9 provide coverage to all members of the state group, including active
+10 employees and retirees and their eligible covered dependents and
+11 beneficiaries, within the county or counties specified in its bid. Except as
+12 provided in subsection (20) of this section, any carrier bidding to offer health
+13 care coverage to employees shall also agree to rate all employees as a single
+14 entity, except for those retirees whose former employers insure their active
+15 employees outside the state-sponsored health insurance program and as
+16 otherwise provided in KRS 61.702(2)(b)3.b. and 78.5536(2)(b)3.b.
+17 (d) Any carrier bidding to offer health care coverage to employees shall agree to
+18 provide enrollment, claims, and utilization data to the Commonwealth in a
+19 format specified by the Personnel Cabinet with the understanding that the data
+20 shall be owned by the Commonwealth; to provide data in an electronic form
+21 and within a time frame specified by the Personnel Cabinet; and to be subject
+22 to penalties for noncompliance with data reporting requirements as specified
+23 by the Personnel Cabinet. The Personnel Cabinet shall take strict precautions
+24 to protect the confidentiality of each individual employee; however,
+25 confidentiality assertions shall not relieve a carrier from the requirement of
+26 providing stipulated data to the Commonwealth.
+27 (e) The Personnel Cabinet shall develop the necessary techniques and capabilities
+Page 5 of 15
+XXXX 1/30/2025 8:59 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1358
+1 for timely analysis of data received from carriers and, to the extent possible,
+2 provide in the request-for-proposal specifics relating to data requirements,
+3 electronic reporting, and penalties for noncompliance. The Commonwealth
+4 shall own the enrollment, claims, and utilization data provided by each carrier
+5 and shall develop methods to protect the confidentiality of the individual. The
+6 Personnel Cabinet shall include in the October annual report submitted
+7 pursuant to the provisions of KRS 18A.226 to the Governor, the General
+8 Assembly, and the Chief Justice of the Supreme Court, an analysis of the
+9 financial stability of the program, which shall include but not be limited to
+10 loss ratios, methods of risk adjustment, measurements of carrier quality of
+11 service, prescription coverage and cost management, and statutorily required
+12 mandates. If state self-insurance was available as a carrier option, the report
+13 also shall provide a detailed financial analysis of the self-insurance fund
+14 including but not limited to loss ratios, reserves, and reinsurance agreements.
+15 (f) If any agency participating in the state-sponsored employee health insurance
+16 program for its active employees terminates participation and there is a state
+17 appropriation for the employer's contribution for active employees' health
+18 insurance coverage, then neither the agency nor the employees shall receive
+19 the state-funded contribution after termination from the state-sponsored
+20 employee health insurance program.
+21 (g) Any funds in flexible spending accounts that remain after all reimbursements
+22 have been processed shall be transferred to the credit of the state-sponsored
+23 health insurance plan's appropriation account.
+24 (h) Each entity participating in the state-sponsored health insurance program shall
+25 provide an amount at least equal to the state contribution rate for the employer
+26 portion of the health insurance premium. For any participating entity that used
+27 the state payroll system, the employer contribution amount shall be equal to
+Page 6 of 15
+XXXX 1/30/2025 8:59 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1358
+1 but not greater than the state contribution rate.
+2 (3) The premiums may be paid by the policyholder:
+3 (a) Wholly from funds contributed by the employee, by payroll deduction or
+4 otherwise;
+5 (b) Wholly from funds contributed by any department, board, agency, public
+6 postsecondary education institution, or branch of state, city, urban-county,
+7 charter county, county, or consolidated local government; or
+8 (c) Partly from each, except that any premium due for health care coverage or
+9 dental coverage, if any, in excess of the premium amount contributed by any
+10 department, board, agency, postsecondary education institution, or branch of
+11 state, city, urban-county, charter county, county, or consolidated local
+12 government for any other health care coverage shall be paid by the employee.
+13 (4) If an employee moves his or her place of residence or employment out of the
+14 service area of an insurer offering a managed health care plan, under which he or
+15 she has elected coverage, into either the service area of another managed health care
+16 plan or into an area of the Commonwealth not within a managed health care plan
+17 service area, the employee shall be given an option, at the time of the move or
+18 transfer, to change his or her coverage to another health benefit plan.
+19 (5) No payment of premium by any department, board, agency, public postsecondary
+20 educational institution, or branch of state, city, urban-county, charter county,
+21 county, or consolidated local government shall constitute compensation to an
+22 insured employee for the purposes of any statute fixing or limiting the
+23 compensation of such an employee. Any premium or other expense incurred by any
+24 department, board, agency, public postsecondary educational institution, or branch
+25 of state, city, urban-county, charter county, county, or consolidated local
+26 government shall be considered a proper cost of administration.
+27 (6) The policy or policies may contain the provisions with respect to the class or classes
+Page 7 of 15
+XXXX 1/30/2025 8:59 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1358
+1 of employees covered, amounts of insurance or coverage for designated classes or
+2 groups of employees, policy options, terms of eligibility, and continuation of
+3 insurance or coverage after retirement.
+4 (7) Group rates under this section shall be made available to the disabled child of an
+5 employee regardless of the child's age if the entire premium for the disabled child's
+6 coverage is paid by the state employee. A child shall be considered disabled if he or
+7 she has been determined to be eligible for federal Social Security disability benefits.
+8 (8) The health care contract or contracts for employees shall be entered into for a
+9 period of not less than one (1) year.
+10 (9) The secretary shall appoint thirty-two (32) persons to an Advisory Committee of
+11 State Health Insurance Subscribers to advise the secretary or the secretary's
+12 designee regarding the state-sponsored health insurance program for employees.
+13 The secretary shall appoint, from a list of names submitted by appointing
+14 authorities, members representing school districts from each of the seven (7)
+15 Supreme Court districts, members representing state government from each of the
+16 seven (7) Supreme Court districts, two (2) members representing retirees under age
+17 sixty-five (65), one (1) member representing local health departments, two (2)
+18 members representing the Kentucky Teachers' Retirement System, and three (3)
+19 members at large. The secretary shall also appoint two (2) members from a list of
+20 five (5) names submitted by the Kentucky Education Association, two (2) members
+21 from a list of five (5) names submitted by the largest state employee organization of
+22 nonschool state employees, two (2) members from a list of five (5) names submitted
+23 by the Kentucky Association of Counties, two (2) members from a list of five (5)
+24 names submitted by the Kentucky League of Cities, and two (2) members from a
+25 list of names consisting of five (5) names submitted by each state employee
+26 organization that has two thousand (2,000) or more members on state payroll
+27 deduction. The advisory committee shall be appointed in January of each year and
+Page 8 of 15
+XXXX 1/30/2025 8:59 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1358
+1 shall meet quarterly.
+2 (10) Notwithstanding any other provision of law to the contrary, the policy or policies
+3 provided to employees pursuant to this section shall not provide coverage for
+4 obtaining or performing an abortion, nor shall any state funds be used for the
+5 purpose of obtaining or performing an abortion on behalf of employees or their
+6 dependents.
+7 (11) Interruption of an established treatment regime with maintenance drugs shall be
+8 grounds for an insured to appeal a formulary change through the established appeal
+9 procedures approved by the Department of Insurance, if the physician supervising
+10 the treatment certifies that the change is not in the best interests of the patient.
+11 (12) Any employee who is eligible for and elects to participate in the state health
+12 insurance program as a retiree, or the spouse or beneficiary of a retiree, under any
+13 one (1) of the state-sponsored retirement systems shall not be eligible to receive the
+14 state health insurance contribution toward health care coverage as a result of any
+15 other employment for which there is a public employer contribution. This does not
+16 preclude a retiree and an active employee spouse from using both contributions to
+17 the extent needed for purchase of one (1) state sponsored health insurance policy
+18 for that plan year.
+19 (13) (a) The policies of health insurance coverage procured under subsection (2) of
+20 this section shall include a mail-order drug option for maintenance drugs for
+21 state employees. Maintenance drugs may be dispensed by mail order in
+22 accordance with Kentucky law.
+23 (b) A health insurer shall not discriminate against any retail pharmacy located
+24 within the geographic coverage area of the health benefit plan and that meets
+25 the terms and conditions for participation established by the insurer, including
+26 price, dispensing fee, and copay requirements of a mail-order option. The
+27 retail pharmacy shall not be required to dispense by mail.
+Page 9 of 15
+XXXX 1/30/2025 8:59 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1358
+1 (c) The mail-order option shall not permit the dispensing of a controlled
+2 substance classified in Schedule II.
+3 (14) The policy or policies provided to state employees or their dependents pursuant to
+4 this section shall provide coverage for obtaining a hearing aid and acquiring hearing
+5 aid-related services for insured individuals under eighteen (18) years of age, subject
+6 to a cap of one thousand four hundred dollars ($1,400) every thirty-six (36) months
+7 pursuant to KRS 304.17A-132.
+8 (15) Any policy provided to state employees or their dependents pursuant to this section
+9 shall provide coverage for the diagnosis and treatment of autism spectrum disorders
+10 consistent with KRS 304.17A-142.
+11 (16) Any policy provided to state employees or their dependents pursuant to this section
+12 shall provide coverage for obtaining amino acid-based elemental formula pursuant
+13 to KRS 304.17A-258.
+14 (17) If a state employee's residence and place of employment are in the same county,
+15 and if the hospital located within that county does not offer surgical services,
+16 intensive care services, obstetrical services, level II neonatal services, diagnostic
+17 cardiac catheterization services, and magnetic resonance imaging services, the
+18 employee may select a plan available in a contiguous county that does provide
+19 those services, and the state contribution for the plan shall be the amount available
+20 in the county where the plan selected is located.
+21 (18) If a state employee's residence and place of employment are each located in
+22 counties in which the hospitals do not offer surgical services, intensive care
+23 services, obstetrical services, level II neonatal services, diagnostic cardiac
+24 catheterization services, and magnetic resonance imaging services, the employee
+25 may select a plan available in a county contiguous to the county of residence that
+26 does provide those services, and the state contribution for the plan shall be the
+27 amount available in the county where the plan selected is located.
+Page 10 of 15
+XXXX 1/30/2025 8:59 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1358
+1 (19) The Personnel Cabinet is encouraged to study whether it is fair and reasonable and
+2 in the best interests of the state group to allow any carrier bidding to offer health
+3 care coverage under this section to submit bids that may vary county by county or
+4 by larger geographic areas.
+5 (20) Notwithstanding any other provision of this section, the bid for proposals for health
+6 insurance coverage for calendar year 2004 shall include a bid scenario that reflects
+7 the statewide rating structure provided in calendar year 2003 and a bid scenario that
+8 allows for a regional rating structure that allows carriers to submit bids that may
+9 vary by region for a given product offering as described in this subsection:
+10 (a) The regional rating bid scenario shall not include a request for bid on a
+11 statewide option;
+12 (b) The Personnel Cabinet shall divide the state into geographical regions which
+13 shall be the same as the partnership regions designated by the Department for
+14 Medicaid Services for purposes of the Kentucky Health Care Partnership
+15 Program established pursuant to 907 KAR 1:705;
+16 (c) The request for proposal shall require a carrier's bid to include every county
+17 within the region or regions for which the bid is submitted and include but not
+18 be restricted to a preferred provider organization (PPO) option;
+19 (d) If the Personnel Cabinet accepts a carrier's bid, the cabinet shall award the
+20 carrier all of the counties included in its bid within the region. If the Personnel
+21 Cabinet deems the bids submitted in accordance with this subsection to be in
+22 the best interests of state employees in a region, the cabinet may award the
+23 contract for that region to no more than two (2) carriers; and
+24 (e) Nothing in this subsection shall prohibit the Personnel Cabinet from including
+25 other requirements or criteria in the request for proposal.
+26 (21) Any fully insured health benefit plan or self-insured plan issued or renewed on or
+27 after July 12, 2006, to public employees pursuant to this section which provides
+Page 11 of 15
+XXXX 1/30/2025 8:59 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1358
+1 coverage for services rendered by a physician or osteopath duly licensed under KRS
+2 Chapter 311 that are within the scope of practice of an optometrist duly licensed
+3 under the provisions of KRS Chapter 320 shall provide the same payment of
+4 coverage to optometrists as allowed for those services rendered by physicians or
+5 osteopaths.
+6 (22) Any fully insured health benefit plan or self-insured plan issued or renewed to
+7 public employees pursuant to this section shall comply with:
+8 (a) KRS 304.12-237;
+9 (b) KRS 304.17A-270 and 304.17A-525;
+10 (c) KRS 304.17A-600 to 304.17A-633;
+11 (d) KRS 205.593;
+12 (e) KRS 304.17A-700 to 304.17A-730;
+13 (f) KRS 304.14-135;
+14 (g) KRS 304.17A-580 and 304.17A-641;
+15 (h) KRS 304.99-123;
+16 (i) KRS 304.17A-138;
+17 (j) KRS 304.17A-148;
+18 (k) KRS 304.17A-163 and 304.17A-1631;
+19 (l) KRS 304.17A-265;
+20 (m) KRS 304.17A-261;
+21 (n) KRS 304.17A-262;
+22 (o) KRS 304.17A-145;
+23 (p) KRS 304.17A-129;
+24 (q) KRS 304.17A-133;
+25 (r) KRS 304.17A-264;[ and]
+26 (s) Section 1 of this Act; and
+27 (t) Administrative regulations promulgated pursuant to statutes listed in this
+Page 12 of 15
+XXXX 1/30/2025 8:59 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1358
+1 subsection.
+2 (23) (a) Any fully insured health benefit plan or self-insured plan issued or renewed to
+3 public employees pursuant to this section shall provide a special enrollment
+4 period to pregnant women who are eligible for coverage in accordance with
+5 the requirements set forth in KRS 304.17-182.
+6 (b) The Department of Employee Insurance shall, at or before the time a public
+7 employee is initially offered the opportunity to enroll in the plan or coverage,
+8 provide the employee a notice of the special enrollment rights under this
+9 subsection.
+10 Section 4. KRS 164.2871 is amended to read as follows:
+11 (1) The governing board of each state postsecondary educational institution is
+12 authorized to purchase liability insurance for the protection of the individual
+13 members of the governing board, faculty, and staff of such institutions from liability
+14 for acts and omissions committed in the course and scope of the individual's
+15 employment or service. Each institution may purchase the type and amount of
+16 liability coverage deemed to best serve the interest of such institution.
+17 (2) All retirement annuity allowances accrued or accruing to any employee of a state
+18 postsecondary educational institution through a retirement program sponsored by
+19 the state postsecondary educational institution are hereby exempt from any state,
+20 county, or municipal tax, and shall not be subject to execution, attachment,
+21 garnishment, or any other process whatsoever, nor shall any assignment thereof be
+22 enforceable in any court. Except retirement benefits accrued or accruing to any
+23 employee of a state postsecondary educational institution through a retirement
+24 program sponsored by the state postsecondary educational institution on or after
+25 January 1, 1998, shall be subject to the tax imposed by KRS 141.020, to the extent
+26 provided in KRS 141.010 and 141.0215.
+27 (3) Except as provided in KRS Chapter 44, the purchase of liability insurance for
+Page 13 of 15
+XXXX 1/30/2025 8:59 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1358
+1 members of governing boards, faculty and staff of institutions of higher education
+2 in this state shall not be construed to be a waiver of sovereign immunity or any
+3 other immunity or privilege.
+4 (4) The governing board of each state postsecondary education institution is authorized
+5 to provide a self-insured employer group health plan to its employees, which plan
+6 shall:
+7 (a) Conform to the requirements of Subtitle 32 of KRS Chapter 304; and
+8 (b) Except as provided in subsection (5) of this section, be exempt from
+9 conformity with Subtitle 17A of KRS Chapter 304.
+10 (5) A self-insured employer group health plan provided by the governing board of a
+11 state postsecondary education institution to its employees shall comply with:
+12 (a) KRS 304.17A-129;
+13 (b) KRS 304.17A-133;
+14 (c) KRS 304.17A-145;
+15 (d) KRS 304.17A-163 and 304.17A-1631;
+16 (e) KRS 304.17A-261;
+17 (f) KRS 304.17A-262;
+18 (g) KRS 304.17A-264;[ and]
+19 (h) KRS 304.17A-265; and
+20 (i) Section 1 of this Act.
+21 (6) (a) A self-insured employer group health plan provided by the governing board of
+22 a state postsecondary education institution to its employees shall provide a
+23 special enrollment period to pregnant women who are eligible for coverage in
+24 accordance with the requirements set forth in KRS 304.17-182.
+25 (b) The governing board of a state postsecondary education institution shall, at or
+26 before the time an employee is initially offered the opportunity to enroll in the
+27 plan or coverage, provide the employee a notice of the special enrollment
+Page 14 of 15
+XXXX 1/30/2025 8:59 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1358
+1 rights under this subsection.
+2 Section 5. Section 1 of this Act may be cited as Braxton's Law.
+3 Section 6. Sections 1 to 4 of this Act apply to health plans issued or renewed on
+4 or after January 1, 2026.
+5 Section 7. This Act takes effect January 1, 2026.
+Page 15 of 15
+XXXX 1/30/2025 8:59 AM Jacketed
+
+[DELETED:   2  J A B S I ( A ( 1 " s s u d t i b i n l t t f s u d t a A b A c A 2 A u i s 1 o p " p m a p o b a h c f o h c p f t t o s u d w t i ( " 1 M o a B b O a f i o s b o a c t 2 I ( A d ( ( T c r u s ( o t s s n b l ( A]
+[DELETED:   2  J o f e t i t u c i l t i h c p o f a p a m a b l ( N ( K ( K ( A S T h ( K ( K ( K ( S S ( ( T 1 A p i a e p o w i r e g a c u c c c o c l g s i a b t s i b n l t t K R T R S t L R P o]
+[DELETED:   2  J J t s t a r p o i t c o a p p o p p K a c 2 A p 3 A 4 A p w i a p o f r o a r a R S K T R S t L R P t J R P o t K C a T C S o r r s 6 a 7 u h o s i a e 5 A e d a b o p e a i ( T b]
+[DELETED:   2  J ( T i ( T t " c p f t p o t s m a m ( ( T s o t F a A C u t r c w t p o K 4 4 a 4 f h o ( a e p o ( b p e e a a h i g T c s i b n b l t d t e r f f a f f a o p p w h i c o t a a a a o t h i p H i c p t 1 ( c e h c c t a s p o b t]
+[DELETED:   2  J C o i a s p i n a f a l o c o d b t c b p u t p o K 4 4 a 4 a m a d ( T a m c t p t c o i a w ( A p c t a m o t s g i a e a r a t e c d a b w t c o c s i i b E a p c e e o t s h i p a a o ( A p e c a u d t t C i a f s a t b t p t c o e i e h c p ( T]
+[DELETED:   2  J f p i t r s r t d r e r a p f n T C s a P C s i i t O a r s p t t p o K 1 t t G t G A a t C J o t S C a a o t f l r m o a m o c q o s m a s p a d f a o t s f i ( I p a f t e c f a e h i t s c a t f t s e ( A h h ( E p p t]
+[DELETED:   2  J b ( T ( W f f c b t e b p d o o ( W f f c b a d b a p p e i o b o s c u c ( P d d s c u c c c o c l g ( I a e m h o h p o r o e o o t s s p s a t e s b g a o a t o o t ( N e i o b o s c u c c c o c l g s c c t a i e f t p o a s f o l t c d o s c u c c c o c l g ( T]
+[DELETED:   2  J o g o e p o t o e a c o i ( G e c s ( T h c c o c f e s b e i f a p ( T S H I S t a t s o t s d r t s h i p f e T s s a f a l o n s b a a m r s d f e o t s ( S s s ( o ( m r l h d t ( m r t K T R S a t ( m f f n b n l o n c o f ( n s b e s e o t h t t ( o m m o s p d]
+[DELETED:   2  J s ( N p t e p t t s s n p c f o o p a a n s a s f b u f t p o o p a a o b o o d ( I o a e t r w m d s b g p t ( A e w i e f a e t p i t s h i o s o p t f ( ( T t s e M d m b d b m o i a ( A h i n d a a r p l w t p d f a c r o a m o T r]
+[DELETED:   2  J ( T m o s n p t d o a c s ( T t a t p ( A s c ( A s t ( I a i t h l w t c d n o s s i c s o s l I n s d c c s a m r i s t e m s a p a i a c c t d p t i ( I a s e r a p o e a e l i c i w t h d n o s s i c s o s l I n s d c c s a m r i s t e m d p t s a t s c f t p s b t a]
+[DELETED:   2  J ( T i c b ( N i t a v ( T r r b s s n i a r f b o a s ( T s M S f p o t K H C P P ( T w b ( I c C t c ( N o ( A a]
+[DELETED:   2  J c C u t p o K C 3 s p t s p o c o ( A f i h b p o s p i o r t p ( K ( K ( K ( K ( K ( K ( K ( K ( K ( K ( K ( K ( K ( K ( K ( K ( K ( K ( S ( A r p p t s l i t]
+[DELETED:   2  J s ( ( A p p t ( T e p t e a n o t s e r u t s S ( T g b o e s p e i i a t p l i f t p o t i m f a a o c i t c a s o t i e o s E i m p t t a a o l ( A p t c o m t a s n b s t e a g e i a c E r b a o a t a e o a s p e i t a r p s b t s p i o o J p ( E a p i K C 4 t p o l i f]
+[DELETED:   2  J m i o ( T t s ( C ( E a p i s ( o t s b e f c ( A s ( K ( K ( K ( K ( K ( K ( K ( K ( S ( ( A a s a ( T b p o c p t e a n o t s e]
+[DELETED:   2  J r S S o S]

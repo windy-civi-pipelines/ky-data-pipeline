@@ -1,0 +1,287 @@
+Title: AN ACT relating to the operation of a motor vehicle and declaring an emergency.
+Official Title: AN ACT relating to the operation of a motor vehicle and declaring an emergency.
+Number of Sections: 6
+Source: versions - Acts Chapter 160
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+CHAPTER 160 1
+CHAPTER 160
+( HB 664 )
+Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+SECTION 1. A NEW SECTION OF KRS CHAPTER 189 IS CREATED TO READ AS FOLLOWS:
+(1) As used in this section:
+(a) "Automated speed enforcement device" means a photographic, radar, lidar, laser, or other device
+with one (1) or more vehicle sensors that transmits a vehicle's speed and an image of the rear license
+plate of a vehicle exceeding the speed limit; and
+(b) "Images" means images transmitted by an automated speed enforcement device showing the speed
+and rear license plate of a motor vehicle.
+(2) A peace officer may issue a citation at the time of an offense in a highway work zone based on images
+transmitted by an automated speed enforcement device if:
+(a) A motor vehicle is detected traveling in excess of ten (10) miles per hour over the posted speed limit;
+(b) At least one (1) bona fide worker is present in the highway work zone; and
+(c) There is a peace officer certified under KRS 15.380 to 15.404 present in or near the end of the
+highway work zone in a marked vehicle.
+(3) The cabinet shall:
+(a) 1. Install signage in highway work zones notifying the public that vehicle speed within the work
+zone may be enforced by an automated speed enforcement device; and
+
+Section 2:
+2. Require the signage to be affixed with lights that shall be flashing at all times when the
+automated speed enforcement device is active; and
+(b) Calibrate the automated speed enforcement device on an annual basis.
+(4) An image transmitted by an automated speed enforcement device under this section shall not be disclosed to
+anyone other than the driver of the vehicle.
+(5) The cabinet shall promulgate administrative regulations in accordance with KRS Chapter 13A relating to
+any matters necessary for the efficient administration of automated speed enforcement under this section.
+Section 2. KRS 189.2327 is amended to read as follows:
+(1) Subject to the requirements of subsection (2) of this section, if a violation of KRS 189.290 to 189.575,[ or]
+
+Section 3:
+189.910 to 189.960, or Section 1 of this Act occurred in a highway work zone, the fine shall be:
+(a) 1. Five hundred dollars ($500) if no person is physically injured or dies as a result of the violation.
+Notwithstanding the provisions of KRS 189.999, the fine under this paragraph is prepayable; and
+
+Section 4:
+2. A driver may attend a state traffic school or a county attorney-operated traffic safety program
+established pursuant to KRS 186.574 for a violation of Section 1 of this Act; and
+(b) Not less than five hundred dollars ($500) nor more than ten thousand dollars ($10,000) if the violation
+results in physical injury to or death of any person.
+(2) (a) In order for an increased fine to be imposed under this section, the highway work zone must have:
+
+Section 5:
+1. Signs displayed informing drivers of the existence of a highway work zone and that fines are
+increased in it; and
+
+Section 6:
+2. At least one (1) bona fide worker is present in the highway work zone[present].
+(b) If a violation of any of the offenses identified in subsection (1) of this section can be classified as a
+misdemeanor, those penalties shall apply in addition to the penalties in subsection (1) of this section.
+Legislative Research Commission PDF Version
+2 ACTS OF THE GENERAL ASSEMBLY
+(3) All fines collected for violations in a highway work zone under this section shall be deposited into a separate
+trust and agency account within the Transportation Cabinet known as the "highway work zone safety fund."
+The highway work zone safety fund shall be used exclusively by the Transportation Cabinet to hire or pay for
+enhanced law enforcement of traffic laws within highway work zones.
+Section 3. KRS 610.010 is amended to read as follows:
+(1) Unless otherwise exempted by KRS Chapters 600 to 645, the juvenile session of the District Court of each
+county shall have exclusive jurisdiction in proceedings concerning any child living or found within the county
+who has not reached his or her eighteenth birthday or of any person who at the time of committing a public
+offense was under the age of eighteen (18) years, who allegedly has committed a public offense prior to his or
+her eighteenth birthday, except a motor vehicle offense involving a child fifteen (15)[sixteen (16)] years of age
+or older. A child fifteen (15)[sixteen (16)] years of age or older taken into custody upon the allegation that the
+child has committed a motor vehicle offense shall be treated as an adult and shall have the same conditions of
+release applied to him or her as an adult. A child taken into custody upon the allegation that he or she has
+committed a motor vehicle offense who is not released under conditions of release applicable to adults shall be
+held, pending his or her appearance before the District Court, in a facility as defined in KRS 15A.067.
+Children fifteen (15)[sixteen (16)] years of age or older who are convicted of, or plead guilty to, a motor
+vehicle offense shall, if sentenced to a term of confinement, be placed in a facility for that period of
+confinement preceding their eighteenth birthday and an adult detention facility for that period of confinement
+subsequent to their eighteenth birthday. The term "motor vehicle offense" shall not be deemed to include the
+offense of stealing or converting a motor vehicle nor operating the same without the owner's consent nor any
+offense which constitutes a felony;
+(2) Unless otherwise exempted by KRS Chapters 600 to 645, the juvenile session of the District Court of each
+county or the family division of the Circuit Court shall have exclusive jurisdiction in proceedings concerning
+any child living or found within the county who has not reached his or her eighteenth birthday and who
+allegedly:
+(a) Is beyond the control of the school or beyond the control of parents as defined in KRS 600.020;
+(b) Is an habitual truant from school;
+(c) Is an habitual runaway from his or her parent or other person exercising custodial control or supervision
+of the child;
+(d) Is dependent, neglected, or abused;
+(e) Has committed an alcohol offense in violation of KRS 244.085; or
+(f) Is mentally ill.
+(3) Actions brought under subsection (1) of this section shall be considered to be public offense actions.
+(4) Actions brought under subsection (2)(a), (b), (c), and (e) of this section shall be considered to be status offense
+actions.
+(5) Actions brought under subsection (2)(d) of this section shall be considered to be nonoffender actions.
+(6) Actions brought under subsection (2)(f) of this section shall be considered to be mental health actions.
+(7) Nothing in this chapter shall deprive other courts of the jurisdiction to determine the custody or guardianship
+of children upon writs of habeas corpus or to determine the custody or guardianship of children when such
+custody or guardianship is incidental to the determination of other causes pending in such other courts; nor
+shall anything in this chapter affect the jurisdiction of Circuit Courts over adoptions and proceedings for
+termination of parental rights.
+(8) The court shall have no jurisdiction to make permanent awards of custody of a child except as provided by
+KRS 620.027.
+(9) If the court finds an emergency to exist affecting the welfare of a child, or if the child is eligible for the relative
+or fictive kin caregiver assistance as established in KRS 620.142, it may make temporary orders for the child's
+custody; however, if the case involves allegations of dependency, neglect, or abuse, no emergency removal or
+temporary custody orders shall be effective unless the provisions of KRS Chapter 620 are followed. Such
+orders shall be entirely without prejudice to the proceedings for permanent custody of the child and shall
+remain in effect until modified or set aside by the court. Upon the entry of a temporary or final judgment in the
+Circuit Court awarding custody of such child, all prior orders of the juvenile session of the District Court in
+CHAPTER 160 3
+conflict therewith shall be deemed canceled. This section shall not work to deprive the Circuit Court of
+jurisdiction over cases filed in Circuit Court.
+(10) The court of each county wherein a public offense, as defined in subsection (1) of this section, is committed by
+a child who is a resident of another county of this state shall have concurrent jurisdiction over such child with
+the court of the county wherein the child resides or the court of the county where the child is found. Whichever
+court first acquires jurisdiction of such child may proceed to final disposition of the case, or in its discretion
+may make an order transferring the case to the court of the county of the child's residence or the county
+wherein the offense was committed, as the case may be.
+(11) Nothing in this chapter shall prevent the court from holding a child in contempt of court to enforce valid court
+orders previously issued by the court, subject to the requirements contained in KRS 610.265 and 630.080.
+(12) Except as provided in KRS 635.060(4), 630.120(5), or 635.090, nothing in this chapter shall confer upon the
+District Court or the family division of the Circuit Court, as appropriate, jurisdiction over the actions of the
+Department of Juvenile Justice or the cabinet in the placement, care, or treatment of a child committed to the
+Department of Juvenile Justice or committed to or in the custody of the cabinet; or to require the department or
+the cabinet to perform, or to refrain from performing, any specific act in the placement, care, or treatment of
+any child committed to the department or committed to or in the custody of the cabinet.
+(13) Unless precluded by KRS Chapter 635 or 640, in addition to informal adjustment, the court shall have the
+discretion to amend the petition to reflect jurisdiction pursuant to the proper chapter of the Kentucky Unified
+Juvenile Code.
+(14) The court shall have continuing jurisdiction over a child pursuant to subsection (1) of this section, to review
+dispositional orders, and to conduct permanency hearings under 42 U.S.C. sec. 675(5)(c) until the child is
+placed for adoption, returned home to his or her parents with all the court imposed conditions terminated,
+completes a disposition pursuant to KRS 635.060, or reaches the age of eighteen (18) years.
+Section 4. Sections 1 and 2 of this Act may be cited as the Jared Lee Helton Act of 2025.
+Section 5. Whereas portions of this Act relate to the effective implementation of 2025 RS HB 15, 2025
+Ky. Acts ch. 81, which took effect March 25, 2025, an emergency is declared to exist, and Section 3 of this Act takes
+effect upon its passage and approval by the Governor or upon its otherwise becoming a law.
+Section 6. This Act may be cited as the Jared Lee Helton Act of 2025.
+Signed by Governor April 4, 2025.
+Legislative Research Commission PDF Version
+[DELETED:  A " " A A A T T 1 I R t s t b a w l t s b a t w t C A T S 1 F A N ( I S A I]
+[DELETED:  A U p h o h a b t D C i a f a d i K 1 o s i s t a t o c b p i a f f t p o U I I I I H I A A A A N T I]
+[DELETED:  t s b c T s s n w t C C o T N E U T]
+
+
+================================================================================
+
+Raw Text:
+CHAPTER 160 1
+CHAPTER 160
+( HB 664 )
+AN ACT relating to the operation of a motor vehicle and declaring an emergency.
+Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+SECTION 1. A NEW SECTION OF KRS CHAPTER 189 IS CREATED TO READ AS FOLLOWS:
+(1) As used in this section:
+(a) "Automated speed enforcement device" means a photographic, radar, lidar, laser, or other device
+with one (1) or more vehicle sensors that transmits a vehicle's speed and an image of the rear license
+plate of a vehicle exceeding the speed limit; and
+(b) "Images" means images transmitted by an automated speed enforcement device showing the speed
+and rear license plate of a motor vehicle.
+(2) A peace officer may issue a citation at the time of an offense in a highway work zone based on images
+transmitted by an automated speed enforcement device if:
+(a) A motor vehicle is detected traveling in excess of ten (10) miles per hour over the posted speed limit;
+(b) At least one (1) bona fide worker is present in the highway work zone; and
+(c) There is a peace officer certified under KRS 15.380 to 15.404 present in or near the end of the
+highway work zone in a marked vehicle.
+(3) The cabinet shall:
+(a) 1. Install signage in highway work zones notifying the public that vehicle speed within the work
+zone may be enforced by an automated speed enforcement device; and
+2. Require the signage to be affixed with lights that shall be flashing at all times when the
+automated speed enforcement device is active; and
+(b) Calibrate the automated speed enforcement device on an annual basis.
+(4) An image transmitted by an automated speed enforcement device under this section shall not be disclosed to
+anyone other than the driver of the vehicle.
+(5) The cabinet shall promulgate administrative regulations in accordance with KRS Chapter 13A relating to
+any matters necessary for the efficient administration of automated speed enforcement under this section.
+Section 2. KRS 189.2327 is amended to read as follows:
+(1) Subject to the requirements of subsection (2) of this section, if a violation of KRS 189.290 to 189.575,[ or]
+189.910 to 189.960, or Section 1 of this Act occurred in a highway work zone, the fine shall be:
+(a) 1. Five hundred dollars ($500) if no person is physically injured or dies as a result of the violation.
+Notwithstanding the provisions of KRS 189.999, the fine under this paragraph is prepayable; and
+2. A driver may attend a state traffic school or a county attorney-operated traffic safety program
+established pursuant to KRS 186.574 for a violation of Section 1 of this Act; and
+(b) Not less than five hundred dollars ($500) nor more than ten thousand dollars ($10,000) if the violation
+results in physical injury to or death of any person.
+(2) (a) In order for an increased fine to be imposed under this section, the highway work zone must have:
+1. Signs displayed informing drivers of the existence of a highway work zone and that fines are
+increased in it; and
+2. At least one (1) bona fide worker is present in the highway work zone[present].
+(b) If a violation of any of the offenses identified in subsection (1) of this section can be classified as a
+misdemeanor, those penalties shall apply in addition to the penalties in subsection (1) of this section.
+Legislative Research Commission PDF Version
+
+2 ACTS OF THE GENERAL ASSEMBLY
+(3) All fines collected for violations in a highway work zone under this section shall be deposited into a separate
+trust and agency account within the Transportation Cabinet known as the "highway work zone safety fund."
+The highway work zone safety fund shall be used exclusively by the Transportation Cabinet to hire or pay for
+enhanced law enforcement of traffic laws within highway work zones.
+Section 3. KRS 610.010 is amended to read as follows:
+(1) Unless otherwise exempted by KRS Chapters 600 to 645, the juvenile session of the District Court of each
+county shall have exclusive jurisdiction in proceedings concerning any child living or found within the county
+who has not reached his or her eighteenth birthday or of any person who at the time of committing a public
+offense was under the age of eighteen (18) years, who allegedly has committed a public offense prior to his or
+her eighteenth birthday, except a motor vehicle offense involving a child fifteen (15)[sixteen (16)] years of age
+or older. A child fifteen (15)[sixteen (16)] years of age or older taken into custody upon the allegation that the
+child has committed a motor vehicle offense shall be treated as an adult and shall have the same conditions of
+release applied to him or her as an adult. A child taken into custody upon the allegation that he or she has
+committed a motor vehicle offense who is not released under conditions of release applicable to adults shall be
+held, pending his or her appearance before the District Court, in a facility as defined in KRS 15A.067.
+Children fifteen (15)[sixteen (16)] years of age or older who are convicted of, or plead guilty to, a motor
+vehicle offense shall, if sentenced to a term of confinement, be placed in a facility for that period of
+confinement preceding their eighteenth birthday and an adult detention facility for that period of confinement
+subsequent to their eighteenth birthday. The term "motor vehicle offense" shall not be deemed to include the
+offense of stealing or converting a motor vehicle nor operating the same without the owner's consent nor any
+offense which constitutes a felony;
+(2) Unless otherwise exempted by KRS Chapters 600 to 645, the juvenile session of the District Court of each
+county or the family division of the Circuit Court shall have exclusive jurisdiction in proceedings concerning
+any child living or found within the county who has not reached his or her eighteenth birthday and who
+allegedly:
+(a) Is beyond the control of the school or beyond the control of parents as defined in KRS 600.020;
+(b) Is an habitual truant from school;
+(c) Is an habitual runaway from his or her parent or other person exercising custodial control or supervision
+of the child;
+(d) Is dependent, neglected, or abused;
+(e) Has committed an alcohol offense in violation of KRS 244.085; or
+(f) Is mentally ill.
+(3) Actions brought under subsection (1) of this section shall be considered to be public offense actions.
+(4) Actions brought under subsection (2)(a), (b), (c), and (e) of this section shall be considered to be status offense
+actions.
+(5) Actions brought under subsection (2)(d) of this section shall be considered to be nonoffender actions.
+(6) Actions brought under subsection (2)(f) of this section shall be considered to be mental health actions.
+(7) Nothing in this chapter shall deprive other courts of the jurisdiction to determine the custody or guardianship
+of children upon writs of habeas corpus or to determine the custody or guardianship of children when such
+custody or guardianship is incidental to the determination of other causes pending in such other courts; nor
+shall anything in this chapter affect the jurisdiction of Circuit Courts over adoptions and proceedings for
+termination of parental rights.
+(8) The court shall have no jurisdiction to make permanent awards of custody of a child except as provided by
+KRS 620.027.
+(9) If the court finds an emergency to exist affecting the welfare of a child, or if the child is eligible for the relative
+or fictive kin caregiver assistance as established in KRS 620.142, it may make temporary orders for the child's
+custody; however, if the case involves allegations of dependency, neglect, or abuse, no emergency removal or
+temporary custody orders shall be effective unless the provisions of KRS Chapter 620 are followed. Such
+orders shall be entirely without prejudice to the proceedings for permanent custody of the child and shall
+remain in effect until modified or set aside by the court. Upon the entry of a temporary or final judgment in the
+Circuit Court awarding custody of such child, all prior orders of the juvenile session of the District Court in
+
+CHAPTER 160 3
+conflict therewith shall be deemed canceled. This section shall not work to deprive the Circuit Court of
+jurisdiction over cases filed in Circuit Court.
+(10) The court of each county wherein a public offense, as defined in subsection (1) of this section, is committed by
+a child who is a resident of another county of this state shall have concurrent jurisdiction over such child with
+the court of the county wherein the child resides or the court of the county where the child is found. Whichever
+court first acquires jurisdiction of such child may proceed to final disposition of the case, or in its discretion
+may make an order transferring the case to the court of the county of the child's residence or the county
+wherein the offense was committed, as the case may be.
+(11) Nothing in this chapter shall prevent the court from holding a child in contempt of court to enforce valid court
+orders previously issued by the court, subject to the requirements contained in KRS 610.265 and 630.080.
+(12) Except as provided in KRS 635.060(4), 630.120(5), or 635.090, nothing in this chapter shall confer upon the
+District Court or the family division of the Circuit Court, as appropriate, jurisdiction over the actions of the
+Department of Juvenile Justice or the cabinet in the placement, care, or treatment of a child committed to the
+Department of Juvenile Justice or committed to or in the custody of the cabinet; or to require the department or
+the cabinet to perform, or to refrain from performing, any specific act in the placement, care, or treatment of
+any child committed to the department or committed to or in the custody of the cabinet.
+(13) Unless precluded by KRS Chapter 635 or 640, in addition to informal adjustment, the court shall have the
+discretion to amend the petition to reflect jurisdiction pursuant to the proper chapter of the Kentucky Unified
+Juvenile Code.
+(14) The court shall have continuing jurisdiction over a child pursuant to subsection (1) of this section, to review
+dispositional orders, and to conduct permanency hearings under 42 U.S.C. sec. 675(5)(c) until the child is
+placed for adoption, returned home to his or her parents with all the court imposed conditions terminated,
+completes a disposition pursuant to KRS 635.060, or reaches the age of eighteen (18) years.
+Section 4. Sections 1 and 2 of this Act may be cited as the Jared Lee Helton Act of 2025.
+Section 5. Whereas portions of this Act relate to the effective implementation of 2025 RS HB 15, 2025
+Ky. Acts ch. 81, which took effect March 25, 2025, an emergency is declared to exist, and Section 3 of this Act takes
+effect upon its passage and approval by the Governor or upon its otherwise becoming a law.
+Section 6. This Act may be cited as the Jared Lee Helton Act of 2025.
+Signed by Governor April 4, 2025.
+Legislative Research Commission PDF Version
+
+[DELETED:  A " " A A A T T 1 I R t s t b a w l t s b a t w t C A T S 1 F A N ( I S A I]
+[DELETED:  A U p h o h a b t D C i a f a d i K 1 o s i s t a t o c b p i a f f t p o U I I I I H I A A A A N T I]
+[DELETED:  t s b c T s s n w t C C o T N E U T]

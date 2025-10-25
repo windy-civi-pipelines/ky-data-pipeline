@@ -1,0 +1,819 @@
+Title: 1 AN ACT relating to school bus safety.
+Official Title: 1 AN ACT relating to school bus safety.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 13 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS BR 298
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF KRS CHAPTER 158 IS CREATED TO
+4 READ AS FOLLOWS:
+5 As used in Sections 1 to 6 of this Act:
+6 (1) "Camera monitoring system" means a system with one (1) or more camera
+7 sensors or computers installed and operated on a school bus that:
+8 (a) Produce recorded images; and
+9 (b) Record the activation status of the stop arm and the time, date, and location
+10 of the school bus when the recorded images are captured;
+11 (2) "Owner" has the same meaning as in KRS 186.010;
+12 (3) "Recorded images" means two (2) or more photographic images or a segment of
+13 any video medium recorded by a camera monitoring system which show on at
+14 least one (1) image or portion of video the registration plate number of a motor
+15 vehicle being operated in violation of Section 8 of this Act;
+16 (4) "School district" means a county school district as described in KRS 160.010 or
+17 an independent school district as described in KRS 160.020; and
+18 (5) "Stop arm camera violation" means a violation of Section 8 of this Act that is
+19 recorded by a camera monitoring system and enforced in accordance with
+20 Sections 1 to 6 of this Act.
+21 SECTION 2. A NEW SECTION OF KRS CHAPTER 158 IS CREATED TO
+22 READ AS FOLLOWS:
+23 (1) A school district may install and maintain a camera monitoring system on any
+24 school bus operated by the school district for the enforcement of a civil penalty
+25 against the owner of a motor vehicle for a stop arm camera violation.
+26 (2) A school district may contract with a private vendor or manufacturer to install,
+27 operate, and maintain camera monitoring systems on school buses operated by
+Page 1 of 13
+XXXX 12/20/2024 1:56 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 298
+1 the school district.
+2 (3) A stop arm camera violation may be enforced by a law enforcement agency, a
+3 certified peace officer, or a school resource officer as defined in KRS 158.441,
+4 upon review of the recorded images produced by a camera monitoring system.
+5 (4) A school bus with a camera monitoring system installed and maintained in
+6 accordance with this section shall display a warning sign notifying the public of
+7 the camera monitoring system.
+8 (5) Recorded images and other records related to a specific stop arm camera
+9 violation are private information and shall only be accessible to authorized
+10 personnel for the purpose of enforcing stop arm camera violations, traffic
+11 violations, and any other incidents captured by the camera monitoring system in
+12 the course of normal operation that could result in civil or criminal liability.
+13 SECTION 3. A NEW SECTION OF KRS CHAPTER 158 IS CREATED TO
+14 READ AS FOLLOWS:
+15 (1) The amount of a civil penalty for a stop arm camera violation shall be:
+16 (a) Three hundred dollars ($300) for the first civil penalty; and
+17 (b) Five hundred dollars ($500) for each subsequent civil penalty issued to an
+18 owner within a three (3) year period.
+19 (2) All revenue generated from a civil penalty for a stop arm camera violation shall
+20 be collected and retained by the school district operating the camera monitoring
+21 system, unless the penalty is collected as a result of action taken in the Court of
+22 Justice in which case court costs may be deducted from the amount paid to the
+23 school district.
+24 (3) A law enforcement agency may charge and collect from the school district a fee
+25 of twenty-five dollars ($25) from every civil penalty collected by the school district
+26 under this section for a violation that was enforced by the law enforcement
+27 agency.
+Page 2 of 13
+XXXX 12/20/2024 1:56 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 298
+1 (4) A stop arm camera violation shall not result in points being assessed against the
+2 driving record of the owner or operator of the vehicle in violation.
+3 SECTION 4. A NEW SECTION OF KRS CHAPTER 158 IS CREATED TO
+4 READ AS FOLLOWS:
+5 (1) Upon a determination to issue a stop arm camera violation notice, the following
+6 documents shall be sent, either by the law enforcement agency or the school
+7 district's agent, by first class mail to the owner of a motor vehicle within thirty
+8 (30) days of a stop arm camera violation:
+9 (a) The stop arm camera violation notice form as described in subsection (2) of
+10 this section;
+11 (b) A copy of the recorded images for the stop arm camera violation; and
+12 (c) A signed, sworn statement from a law enforcement officer that, based on
+13 inspection of the recorded images, the motor vehicle was being operated in
+14 violation of Section 8 of this Act. This statement may be signed
+15 electronically and is admissible in any proceeding challenging a stop arm
+16 camera violation.
+17 (2) The stop arm camera violation notice form shall contain in substance the
+18 following information:
+19 (a) The name and address of the registered owner of the vehicle;
+20 (b) A statement that the notice represents a determination that a stop arm
+21 camera violation has been committed by the owner of the vehicle and that
+22 the determination shall be final unless contested in accordance with Section
+23 5 of this Act;
+24 (c) The date and time of the violation;
+25 (d) The location of the violation;
+26 (e) The amount of the civil penalty imposed and the date by which the civil
+27 penalty shall be paid;
+Page 3 of 13
+XXXX 12/20/2024 1:56 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 298
+1 (f) Instructions on how to pay the civil penalty to the school district or its
+2 designated agent;
+3 (g) Information advising the owner as to the manner and time in which the civil
+4 penalty may be contested; and
+5 (h) A warning that failure to pay the civil penalty imposed or to contest the
+6 matter in a timely manner is an admission of liability and shall result in the
+7 suspension of the motor vehicle's registration.
+8 (3) A recorded image produced by a camera monitoring system shall be destroyed:
+9 (a) No later than thirty-one (31) days from the date the recorded image is
+10 captured if the recorded image does not result in a stop arm camera
+11 violation notice form issued under this section; or
+12 (b) Upon final disposition of the stop arm camera violation if the recorded
+13 image results in a stop arm camera violation notice form issued under this
+14 section.
+15 SECTION 5. A NEW SECTION OF KRS CHAPTER 158 IS CREATED TO
+16 READ AS FOLLOWS:
+17 (1) A recorded image produced by a camera monitoring system shall be sufficient
+18 evidence of a violation of Section 8 of this Act and shall be admitted without
+19 further authentication for the purposes of enforcement. There shall be a
+20 rebuttable presumption that when any school bus is stopped with its stop arm
+21 activated it is for the purpose of receiving or discharging passengers, and that the
+22 school bus signal lights are activated and operational when a recorded image
+23 includes an electronic indicator signifying activation of signal lights.
+24 (2) In a contest to a stop arm camera violation, liability shall be determined by a
+25 preponderance of the evidence and it shall be a defense that:
+26 (a) The motor vehicle or the motor vehicle registration plates were stolen before
+27 the violation occurred and were not under the control or possession of the
+Page 4 of 13
+XXXX 12/20/2024 1:56 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 298
+1 owner at the time of the violation;
+2 (b) The civil penalty is not enforceable because at the time and location of the
+3 violation the stop arm was not activated;
+4 (c) The owner was not operating the vehicle at the time of the violation. An
+5 owner who raises this defense shall identify, under penalty of perjury, the
+6 person who was operating the vehicle at the time of the violation, including
+7 at a minimum the operator's name and address;
+8 (d) The person operating the motor vehicle received a citation from a law
+9 enforcement officer for a violation of Section 8 of this Act at the date and
+10 approximate time listed on the stop arm camera violation form;
+11 (e) The violation was necessary to allow the passage of an emergency vehicle;
+12 or
+13 (f) The violation occurred while the operator was participating in a funeral
+14 procession.
+15 (3) A contest to a stop arm camera violation shall be heard by the District Court, and
+16 the school district and applicable law enforcement agency shall defend the stop
+17 arm camera violation.
+18 (4) A school district may contract for legal services to fulfill the obligations in
+19 subsection (3) of this section.
+20 SECTION 6. A NEW SECTION OF KRS CHAPTER 158 IS CREATED TO
+21 READ AS FOLLOWS:
+22 (1) If a stop arm camera violation civil penalty is not paid or contested in accordance
+23 with Section 5 of this Act within sixty (60) days, the applicable law enforcement
+24 agency or officer may notify the Transportation Cabinet of the nonpayment.
+25 Upon notice of nonpayment, the cabinet shall suspend the registration of the
+26 motor vehicle until the civil penalty is paid.
+27 (2) The applicable law enforcement agency or officer shall notify the cabinet of the
+Page 5 of 13
+XXXX 12/20/2024 1:56 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 298
+1 need to release a suspension levied under this section within one (1) business day
+2 of collecting the funds to satisfy the civil penalty.
+3 Section 7. KRS 189.990 is amended to read as follows:
+4 (1) Any person who violates any of the provisions of KRS 189.020 to 189.040,
+5 subsection (1) or (4) of KRS 189.050, KRS 189.060 to 189.080, subsections (1) to
+6 (3) of KRS 189.090, KRS 189.100, 189.110, 189.130 to 189.160, subsections (2) to
+7 (4) of KRS 189.190, KRS 189.200, 189.285, subsection (1) or (2) of KRS 189.290,
+8 189.300 to 189.360, KRS 189.380, KRS 189.400 to 189.430, KRS 189.450 to
+9 189.458, KRS 189.4595 to 189.480, subsection (1) of KRS 189.520, KRS 189.540,
+10 KRS 189.570 to 189.590, except subsection (1)(b) or (6)(b) of KRS 189.580, KRS
+11 189.345, subsection (6) of KRS 189.456, and 189.960 shall be fined not less than
+12 twenty dollars ($20) nor more than one hundred dollars ($100) for each offense.
+13 Any person who violates subsection (1)(a) of KRS 189.580 shall be fined not less
+14 than twenty dollars ($20) nor more than two thousand dollars ($2,000) or
+15 imprisoned in the county jail for not more than one (1) year, or both, unless the
+16 accident involved death or serious physical injury and the person knew or should
+17 have known of the death or serious physical injury, in which case the person shall
+18 be guilty of a Class D felony. Any person who violates paragraph (c) of subsection
+19 (5) of KRS 189.390 shall be fined not less than eleven dollars ($11) nor more than
+20 thirty dollars ($30). Neither court costs nor fees shall be taxed against any person
+21 violating paragraph (c) of subsection (5) of KRS 189.390.
+22 (2) (a) 1. Except as provided in subparagraph 2. of this paragraph, any person
+23 who violates the weight provisions of KRS 189.212, 189.221, 189.222,
+24 189.226, 189.230, 189.270, or 189.2713 shall be fined two cents ($0.02)
+25 per pound for each pound of excess load when the excess is five
+26 thousand (5,000) pounds or less. When the excess exceeds five thousand
+27 (5,000) pounds the fine shall be two cents ($0.02) per pound for each
+Page 6 of 13
+XXXX 12/20/2024 1:56 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 298
+1 pound of excess load, but the fine levied shall not be less than one
+2 hundred dollars ($100) and shall not be more than five hundred dollars
+3 ($500).
+4 2. Any person who violates a posted bridge weight limit on a state-
+5 maintained bridge that is more than seventy-five (75) years old shall be
+6 fined:
+7 a. Five hundred dollars ($500) for the first offense;
+8 b. One thousand dollars ($1,000) for the second offense within a one
+9 (1) year period; and
+10 c. Two thousand dollars ($2,000) for any subsequent offense within a
+11 one (1) year period.
+12 The Transportation Cabinet shall erect signs warning drivers of the
+13 increased fines in this subparagraph. Signs erected under this
+14 subparagraph shall be placed in such a manner that drivers are given
+15 adequate warning in order to exit the road prior to crossing the bridge. If
+16 warning signs are not erected in accordance with this subparagraph, the
+17 fines in this subparagraph shall not apply and violators shall be fined
+18 under subparagraph 1. of this paragraph.
+19 (b) Any person who violates the provisions of KRS 189.271 and is operating on a
+20 route designated on the permit shall be fined one hundred dollars ($100);
+21 otherwise, the penalties in paragraph (a) of this subsection shall apply.
+22 (c) Any person who violates any provision of subsection (2) or (3) of KRS
+23 189.050, subsection (4) of KRS 189.090, KRS 189.221 to 189.230, 189.270,
+24 189.2713, 189.280, or the dimension provisions of KRS 189.212, for which
+25 another penalty is not specifically provided shall be fined not less than ten
+26 dollars ($10) nor more than five hundred dollars ($500).
+27 (d) 1. Any person who violates the provisions of KRS 177.985 while operating
+Page 7 of 13
+XXXX 12/20/2024 1:56 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 298
+1 on a route designated in KRS 177.986 shall be fined one hundred dollars
+2 ($100).
+3 2. Any person who operates a vehicle with a permit under KRS 177.985 in
+4 excess of eighty thousand (80,000) pounds while operating on a route
+5 not designated in KRS 177.986 shall be fined one thousand dollars
+6 ($1,000).
+7 (e) Nothing in this subsection or in KRS 189.221 to 189.228 shall be deemed to
+8 prejudice or affect the authority of the Department of Vehicle Regulation to
+9 suspend or revoke certificates of common carriers, permits of contract
+10 carriers, or drivers' or chauffeurs' licenses, for any violation of KRS 189.221
+11 to 189.228 or any other act applicable to motor vehicles, as provided by law.
+12 (3) (a) Any person who violates subsection (1) of KRS 189.190 shall be fined not
+13 more than fifteen dollars ($15).
+14 (b) Any person who violates subsection (5) of KRS 189.190 shall be fined not
+15 less than thirty-five dollars ($35) nor more than two hundred dollars ($200).
+16 (4) (a) Any person who violates subsection (1) of KRS 189.210 shall be fined not
+17 less than twenty-five dollars ($25) nor more than one hundred dollars ($100).
+18 (b) Any peace officer who fails, when properly informed, to enforce KRS
+19 189.210 shall be fined not less than twenty-five dollars ($25) nor more than
+20 one hundred dollars ($100).
+21 (c) All fines collected under this subsection, after payment of commissions to
+22 officers entitled thereto, shall go to the county road fund if the offense is
+23 committed in the county, or to the city street fund if committed in the city.
+24 (5) Any person who violates KRS 189.370 shall for the first offense be fined not less
+25 than two[one] hundred dollars ($200)[($100)] nor more than five[two] hundred
+26 dollars ($500)[($200)] or imprisoned not less than thirty (30) days nor more than
+27 sixty (60) days, or both. For each subsequent offense occurring within three (3)
+Page 8 of 13
+XXXX 12/20/2024 1:56 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 298
+1 years, the person shall be fined not less than three hundred dollars ($300) nor more
+2 than one thousand[five hundred] dollars ($1,000)[($500)] or imprisoned not less
+3 than sixty (60) days nor more than six (6) months, or both. The minimum fine for
+4 this violation shall not be subject to suspension. A minimum of six (6) points shall
+5 be assessed against the driving record of any person convicted.
+6 (6) Any person who violates KRS 189.500 shall be fined not more than fifteen dollars
+7 ($15) in excess of the cost of the repair of the road.
+8 (7) Any person who violates KRS 189.510 or KRS 189.515 shall be fined not less than
+9 twenty dollars ($20) nor more than fifty dollars ($50).
+10 (8) Any peace officer who violates subsection (2) of KRS 189.520 shall be fined not
+11 less than thirty-five dollars ($35) nor more than one hundred dollars ($100).
+12 (9) (a) Any person who violates KRS 189.530(1) shall be fined not less than thirty-
+13 five dollars ($35) nor more than one hundred dollars ($100), or imprisoned
+14 not less than thirty (30) days nor more than twelve (12) months, or both.
+15 (b) Any person who violates KRS 189.530(2) shall be fined not less than thirty-
+16 five dollars ($35) nor more than one hundred dollars ($100).
+17 (10) Any person who violates any of the provisions of KRS 189.550 shall be guilty of a
+18 Class B misdemeanor.
+19 (11) Any person who violates subsection (3) of KRS 189.560 shall be fined not less than
+20 thirty dollars ($30) nor more than one hundred dollars ($100) for each offense.
+21 (12) The fines imposed by paragraph (a) of subsection (3) and subsections (6) and (7) of
+22 this section shall, in the case of a public highway, be paid into the county road fund,
+23 and, in the case of a privately owned road or bridge, be paid to the owner. These
+24 fines shall not bar an action for damages for breach of contract.
+25 (13) Any person who violates any of the provisions of KRS 189.120 shall be fined not
+26 less than twenty dollars ($20) nor more than one hundred dollars ($100) for each
+27 offense.
+Page 9 of 13
+XXXX 12/20/2024 1:56 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 298
+1 (14) Any person who violates any provision of KRS 189.575 shall be fined not less than
+2 twenty dollars ($20) nor more than twenty-five dollars ($25).
+3 (15) Any person who violates subsection (2) of KRS 189.231 shall be fined not less than
+4 twenty dollars ($20) nor more than one hundred dollars ($100) for each offense.
+5 (16) Any person who violates restrictions or regulations established by the secretary of
+6 transportation pursuant to subsection (3) of KRS 189.231 shall, upon first offense,
+7 be fined one hundred dollars ($100) and, upon subsequent convictions, be fined not
+8 less than one hundred dollars ($100) nor more than five hundred dollars ($500) or
+9 imprisoned for thirty (30) days, or both.
+10 (17) (a) Any person who violates any of the provisions of KRS 189.565 shall be guilty
+11 of a Class B misdemeanor.
+12 (b) In addition to the penalties prescribed in paragraph (a) of this subsection, in
+13 case of violation by any person in whose name the vehicle used in the
+14 transportation of inflammable liquids or explosives is licensed, the person
+15 shall be fined not less than one hundred dollars ($100) nor more than five
+16 hundred dollars ($500). Each violation shall constitute a separate offense.
+17 (18) Any person who abandons a vehicle upon the right-of-way of a state highway for
+18 three (3) consecutive days shall be fined not less than thirty-five dollars ($35) nor
+19 more than one hundred dollars ($100), or imprisoned for not less than ten (10) days
+20 nor more than thirty (30) days.
+21 (19) Every person violating KRS 189.393 shall be guilty of a Class B misdemeanor,
+22 unless the offense is being committed by a defendant fleeing the commission of a
+23 felony offense which the defendant was also charged with violating and was
+24 subsequently convicted of that felony, in which case it is a Class A misdemeanor.
+25 (20) Any law enforcement agency which fails or refuses to forward the reports required
+26 by KRS 189.635 shall be subject to the penalties prescribed in KRS 17.157.
+27 (21) A person who operates a bicycle in violation of the administrative regulations
+Page 10 of 13
+XXXX 12/20/2024 1:56 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 298
+1 promulgated pursuant to KRS 189.287 shall be fined not less than ten dollars ($10)
+2 nor more than one hundred dollars ($100).
+3 (22) Any person who violates KRS 189.860 shall be fined not more than five hundred
+4 dollars ($500) or imprisoned for not more than six (6) months, or both.
+5 (23) Any person who violates KRS 189.754 shall be fined not less than twenty-five
+6 dollars ($25) nor more than three hundred dollars ($300).
+7 (24) Any person who violates the provisions of KRS 189.125(3)(a) shall be fined fifty
+8 dollars ($50). This fine shall be subject to prepayment. A fine imposed under this
+9 subsection shall not be subject to court costs pursuant to KRS 24A.175, additional
+10 court costs pursuant to KRS 24A.176, the fee imposed pursuant to KRS 24A.1765,
+11 or any other additional fees or costs.
+12 (25) Any person who violates the provisions of KRS 189.125(3)(b) shall [not be issued a
+13 uniform citation, but shall instead receive a courtesy warning up until July 1, 2009.
+14 For a violation on or after July 1, 2009, the person shall ]be fined thirty dollars
+15 ($30). This fine shall be subject to prepayment. A fine imposed under this
+16 subsection shall not be subject to court costs pursuant to KRS 24A.175, additional
+17 court costs pursuant to KRS 24A.176, a fee imposed pursuant to KRS 24A.1765, or
+18 any other additional fees or costs. A person who has not been previously charged
+19 with a violation of KRS 189.125(3)(b) may elect to acquire a booster seat meeting
+20 the requirements of KRS 189.125. Upon presentation of sufficient proof of the
+21 acquisition, the charge shall be dismissed and no fees or costs shall be imposed.
+22 (26) Any person who violates the provisions of KRS 189.125(6) shall be fined an
+23 amount not to exceed twenty-five dollars ($25). This fine shall be subject to
+24 prepayment. A fine imposed under this subsection shall not be subject to court costs
+25 pursuant to KRS 24A.175, additional court costs pursuant to KRS 24A.176, the fee
+26 imposed pursuant to KRS 24A.1765, or any other additional fees or costs.
+27 (27) Fines levied pursuant to this chapter shall be assessed in the manner required by
+Page 11 of 13
+XXXX 12/20/2024 1:56 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 298
+1 KRS 534.020, in amounts consistent with this chapter. Nonpayment of fines shall
+2 be governed by KRS 534.020 and 534.060.
+3 (28) A licensed driver under the age of eighteen (18) charged with a moving violation
+4 pursuant to this chapter as the driver of a motor vehicle may be referred, prior to
+5 trial, by the court to a diversionary program. The diversionary program under this
+6 subsection shall consist of one (1) or both of the following:
+7 (a) Execution of a diversion agreement which prohibits the driver from operating
+8 a vehicle for a period not to exceed forty-five (45) days and which allows the
+9 court to retain the driver's operator's license during this period; and
+10 (b) Attendance at a driver improvement clinic established pursuant to KRS
+11 186.574. If the person completes the terms of this diversionary program
+12 satisfactorily the violation shall be dismissed.
+13 (29) A person who violates the provisions of subsection (2) or (3) of KRS 189.459 shall
+14 be fined two hundred fifty dollars ($250). The fines and costs for a violation of
+15 subsection (2) or (3) of KRS 189.459 shall be collected and disposed of in
+16 accordance with KRS 24A.180. Once deposited into the State Treasury, ninety
+17 percent (90%) of the fine collected under this subsection shall immediately be
+18 forwarded to the personal care assistance program under KRS 205.900 to 205.920.
+19 Ten percent (10%) of the fine collected under this subsection shall annually be
+20 returned to the county where the violation occurred and distributed equally to all
+21 law enforcement agencies within the county.
+22 (30) Any person who violates KRS 189.292 or 189.294 shall be fined twenty-five dollars
+23 ($25) for the first offense and fifty dollars ($50) for each subsequent offense.
+24 (31) Any person who violates KRS 189.281(5) or (7)(b) shall be subject to a fine of two
+25 hundred fifty dollars ($250). This fine shall be subject to prepayment. A fine
+26 imposed under this subsection shall not be subject to court costs pursuant to KRS
+27 24A.175, additional costs pursuant to KRS 24A.176, the fee imposed pursuant to
+Page 12 of 13
+XXXX 12/20/2024 1:56 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 298
+1 KRS 24A.1765, or any other additional fees or costs.
+2 (32) Any person who violates subsection (3) or (4) of KRS 189.290 and causes physical
+3 injury to a person shall be fined five hundred dollars ($500).
+4 Section 8. KRS 189.370 is amended to read as follows:
+5 (1) If any school or church bus used in the transportation of children is stopped upon a
+6 highway for the purpose of receiving or discharging passengers, with the stop arm
+7 and signal lights activated, the operator of a vehicle approaching from any direction
+8 shall bring the[his] vehicle to a stop and shall not proceed until the bus has
+9 completed receiving or discharging passengers and has been put into motion. The
+10 stop requirement provided for in this section shall not apply to vehicles approaching
+11 a stopped bus from the opposite direction upon a highway of four (4) or more lanes
+12 divided by an elevated barrier or unpaved median.
+13 (2) [Subsection (1) of ]This section shall be applicable only when the bus displays the
+14 markings and equipment required by Kentucky minimum specifications for school
+15 buses.
+16 (3) If any vehicle is witnessed to be in violation of[ subsection (1) of] this section and
+17 the identity of the operator is not otherwise apparent, it shall be a rebuttable
+18 presumption that the person in whose name the vehicle is registered or leased was
+19 the operator of the vehicle at the time of the alleged violation and is subject to the
+20 penalties as provided for in KRS 189.990(5).
+Page 13 of 13
+XXXX 12/20/2024 1:56 PM Jacketed
+[DELETED:   2  J A B S R A ( " m s m a s w o ( o m c s ( P ( R o ( " ( " a l v ( " a ( " r b a c m s a e i a w S S R ( A s a ( A o]
+[DELETED:   2  J t ( A c u ( A s b w a c m s i a m i a t ( R i a o r r t a s s a c v a p i a s o b a t a p f t p o e s a c v t v t S R ( T ( T ( F o ( A b s J s ( A o u t s f a v t w e b t l e a]
+[DELETED:   2  J ( A d S R ( U d s b s e b t l e a o t s d ( ( T t ( A ( A i v o S 8 o t A T s m b s e c ( T s a c v n f s c i s t f ( T ( A s t t n r a d t a s a c t 5 ( T ( T ( T a o c p i a t d b w t c p]
+[DELETED:   2  J ( I o h t p t c p t t s d o i d ( I p ( A w t f p t c p i o t c t m s ( A ( N l t t ( d f t d t r i i c i t r i d n r i a s a c v ( U f d o t s a c v i t r i s S R ( A e o a v o 8 o A a s b a w f a f t p o e T s b a r p t w a s b i s w i s a a s b s l a a a o w a r i i ( I p ( T t]
+[DELETED:   2  J o ( T v ( T o p a ( T p o t m v r a c f a l e a ( T o ( T v o w t o w p i a f p ( A t a ( A s d m c f l s t f t o i s S R ( I w a o o m n t T C o t n U n o n t c s s t r o t m ( T]
+[DELETED:   2  J n o S ( A p w v a o t p o K 1 t 1 s ( ( 1 t 1 K 1 K 1 t 1 K 1 t 1 K 1 t A t t d ( n m t t t d ( o i a h b ( t v ( ( 1 E a p i s 2 o t p a p w 1 p p f e p o e l w t e i f t (]
+[DELETED:   2  J p o e l b t f l s n b l t o h ( 2 A p w v a p b w l o a s m f a F b O ( c T o  T T C s e s w d o t i f i t s S e u t s a a w f u ( A r d o t p s b f o h d ( o ( A p w v a p o s ( o ( o K 1 1 a d ( 1 A]
+[DELETED:   2  J o ( 2 A e n d i K 1 s b f o t d ( ( N p s o r c o c c p o c c t ( ( A m ( A l ( ( A l ( A p o w f w p i t e K 1 o ( A f c u t s a p o c t o e t s g t t c r f i t o i c ( A t t h d ( n m t f h d s ( d o F s o o w t (]
+[DELETED:   2  J y t t t b ( A ( ( A t ( A l ( ( A f n ( A f ( A C ( A t ( T t a f ( A l o]
+[DELETED:   2  J ( A t ( A t ( A t b l i ( ( A o ( I c o v b a p i w n t v u i t t o i l o e i l t p s h ( A t m n ( E v K 1 s b g o C m u f o w t d w a c w v a w s ( A b ( A p w o a b i v o t a r]
+[DELETED:   2  J p n ( A d ( A p w v K 1 s b f n l t t d ( A d s c o ( A u F ( T f s b s t p A f i u t s c a w t r o K 1 U p o s p o t a ( A p w v t p o K 1 s b f a a n t e t d ( T f s b s t p p i ( F]
+[DELETED:   2  J K b ( A p t s ( E a c ( A a a d i c e p t K 1 I t p c t t o t d p s ( A b s ( o ( o K 1 s b c a d o i a w K 2 O d i t S T n p ( o t f c u t s s i b f T p ( o t f c u t s s a b r l ( A ( ( A h f d ( T f s b s t p A f i 2]
+[DELETED:   2  J K ( A i S ( I h a s b t v t a s a s n p u t b h c s a d ( [ m b ( I t i o t o i n o a i s b a r p t p]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS BR 298
+1 AN ACT relating to school bus safety.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF KRS CHAPTER 158 IS CREATED TO
+4 READ AS FOLLOWS:
+5 As used in Sections 1 to 6 of this Act:
+6 (1) "Camera monitoring system" means a system with one (1) or more camera
+7 sensors or computers installed and operated on a school bus that:
+8 (a) Produce recorded images; and
+9 (b) Record the activation status of the stop arm and the time, date, and location
+10 of the school bus when the recorded images are captured;
+11 (2) "Owner" has the same meaning as in KRS 186.010;
+12 (3) "Recorded images" means two (2) or more photographic images or a segment of
+13 any video medium recorded by a camera monitoring system which show on at
+14 least one (1) image or portion of video the registration plate number of a motor
+15 vehicle being operated in violation of Section 8 of this Act;
+16 (4) "School district" means a county school district as described in KRS 160.010 or
+17 an independent school district as described in KRS 160.020; and
+18 (5) "Stop arm camera violation" means a violation of Section 8 of this Act that is
+19 recorded by a camera monitoring system and enforced in accordance with
+20 Sections 1 to 6 of this Act.
+21 SECTION 2. A NEW SECTION OF KRS CHAPTER 158 IS CREATED TO
+22 READ AS FOLLOWS:
+23 (1) A school district may install and maintain a camera monitoring system on any
+24 school bus operated by the school district for the enforcement of a civil penalty
+25 against the owner of a motor vehicle for a stop arm camera violation.
+26 (2) A school district may contract with a private vendor or manufacturer to install,
+27 operate, and maintain camera monitoring systems on school buses operated by
+Page 1 of 13
+XXXX 12/20/2024 1:56 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 298
+1 the school district.
+2 (3) A stop arm camera violation may be enforced by a law enforcement agency, a
+3 certified peace officer, or a school resource officer as defined in KRS 158.441,
+4 upon review of the recorded images produced by a camera monitoring system.
+5 (4) A school bus with a camera monitoring system installed and maintained in
+6 accordance with this section shall display a warning sign notifying the public of
+7 the camera monitoring system.
+8 (5) Recorded images and other records related to a specific stop arm camera
+9 violation are private information and shall only be accessible to authorized
+10 personnel for the purpose of enforcing stop arm camera violations, traffic
+11 violations, and any other incidents captured by the camera monitoring system in
+12 the course of normal operation that could result in civil or criminal liability.
+13 SECTION 3. A NEW SECTION OF KRS CHAPTER 158 IS CREATED TO
+14 READ AS FOLLOWS:
+15 (1) The amount of a civil penalty for a stop arm camera violation shall be:
+16 (a) Three hundred dollars ($300) for the first civil penalty; and
+17 (b) Five hundred dollars ($500) for each subsequent civil penalty issued to an
+18 owner within a three (3) year period.
+19 (2) All revenue generated from a civil penalty for a stop arm camera violation shall
+20 be collected and retained by the school district operating the camera monitoring
+21 system, unless the penalty is collected as a result of action taken in the Court of
+22 Justice in which case court costs may be deducted from the amount paid to the
+23 school district.
+24 (3) A law enforcement agency may charge and collect from the school district a fee
+25 of twenty-five dollars ($25) from every civil penalty collected by the school district
+26 under this section for a violation that was enforced by the law enforcement
+27 agency.
+Page 2 of 13
+XXXX 12/20/2024 1:56 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 298
+1 (4) A stop arm camera violation shall not result in points being assessed against the
+2 driving record of the owner or operator of the vehicle in violation.
+3 SECTION 4. A NEW SECTION OF KRS CHAPTER 158 IS CREATED TO
+4 READ AS FOLLOWS:
+5 (1) Upon a determination to issue a stop arm camera violation notice, the following
+6 documents shall be sent, either by the law enforcement agency or the school
+7 district's agent, by first class mail to the owner of a motor vehicle within thirty
+8 (30) days of a stop arm camera violation:
+9 (a) The stop arm camera violation notice form as described in subsection (2) of
+10 this section;
+11 (b) A copy of the recorded images for the stop arm camera violation; and
+12 (c) A signed, sworn statement from a law enforcement officer that, based on
+13 inspection of the recorded images, the motor vehicle was being operated in
+14 violation of Section 8 of this Act. This statement may be signed
+15 electronically and is admissible in any proceeding challenging a stop arm
+16 camera violation.
+17 (2) The stop arm camera violation notice form shall contain in substance the
+18 following information:
+19 (a) The name and address of the registered owner of the vehicle;
+20 (b) A statement that the notice represents a determination that a stop arm
+21 camera violation has been committed by the owner of the vehicle and that
+22 the determination shall be final unless contested in accordance with Section
+23 5 of this Act;
+24 (c) The date and time of the violation;
+25 (d) The location of the violation;
+26 (e) The amount of the civil penalty imposed and the date by which the civil
+27 penalty shall be paid;
+Page 3 of 13
+XXXX 12/20/2024 1:56 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 298
+1 (f) Instructions on how to pay the civil penalty to the school district or its
+2 designated agent;
+3 (g) Information advising the owner as to the manner and time in which the civil
+4 penalty may be contested; and
+5 (h) A warning that failure to pay the civil penalty imposed or to contest the
+6 matter in a timely manner is an admission of liability and shall result in the
+7 suspension of the motor vehicle's registration.
+8 (3) A recorded image produced by a camera monitoring system shall be destroyed:
+9 (a) No later than thirty-one (31) days from the date the recorded image is
+10 captured if the recorded image does not result in a stop arm camera
+11 violation notice form issued under this section; or
+12 (b) Upon final disposition of the stop arm camera violation if the recorded
+13 image results in a stop arm camera violation notice form issued under this
+14 section.
+15 SECTION 5. A NEW SECTION OF KRS CHAPTER 158 IS CREATED TO
+16 READ AS FOLLOWS:
+17 (1) A recorded image produced by a camera monitoring system shall be sufficient
+18 evidence of a violation of Section 8 of this Act and shall be admitted without
+19 further authentication for the purposes of enforcement. There shall be a
+20 rebuttable presumption that when any school bus is stopped with its stop arm
+21 activated it is for the purpose of receiving or discharging passengers, and that the
+22 school bus signal lights are activated and operational when a recorded image
+23 includes an electronic indicator signifying activation of signal lights.
+24 (2) In a contest to a stop arm camera violation, liability shall be determined by a
+25 preponderance of the evidence and it shall be a defense that:
+26 (a) The motor vehicle or the motor vehicle registration plates were stolen before
+27 the violation occurred and were not under the control or possession of the
+Page 4 of 13
+XXXX 12/20/2024 1:56 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 298
+1 owner at the time of the violation;
+2 (b) The civil penalty is not enforceable because at the time and location of the
+3 violation the stop arm was not activated;
+4 (c) The owner was not operating the vehicle at the time of the violation. An
+5 owner who raises this defense shall identify, under penalty of perjury, the
+6 person who was operating the vehicle at the time of the violation, including
+7 at a minimum the operator's name and address;
+8 (d) The person operating the motor vehicle received a citation from a law
+9 enforcement officer for a violation of Section 8 of this Act at the date and
+10 approximate time listed on the stop arm camera violation form;
+11 (e) The violation was necessary to allow the passage of an emergency vehicle;
+12 or
+13 (f) The violation occurred while the operator was participating in a funeral
+14 procession.
+15 (3) A contest to a stop arm camera violation shall be heard by the District Court, and
+16 the school district and applicable law enforcement agency shall defend the stop
+17 arm camera violation.
+18 (4) A school district may contract for legal services to fulfill the obligations in
+19 subsection (3) of this section.
+20 SECTION 6. A NEW SECTION OF KRS CHAPTER 158 IS CREATED TO
+21 READ AS FOLLOWS:
+22 (1) If a stop arm camera violation civil penalty is not paid or contested in accordance
+23 with Section 5 of this Act within sixty (60) days, the applicable law enforcement
+24 agency or officer may notify the Transportation Cabinet of the nonpayment.
+25 Upon notice of nonpayment, the cabinet shall suspend the registration of the
+26 motor vehicle until the civil penalty is paid.
+27 (2) The applicable law enforcement agency or officer shall notify the cabinet of the
+Page 5 of 13
+XXXX 12/20/2024 1:56 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 298
+1 need to release a suspension levied under this section within one (1) business day
+2 of collecting the funds to satisfy the civil penalty.
+3 Section 7. KRS 189.990 is amended to read as follows:
+4 (1) Any person who violates any of the provisions of KRS 189.020 to 189.040,
+5 subsection (1) or (4) of KRS 189.050, KRS 189.060 to 189.080, subsections (1) to
+6 (3) of KRS 189.090, KRS 189.100, 189.110, 189.130 to 189.160, subsections (2) to
+7 (4) of KRS 189.190, KRS 189.200, 189.285, subsection (1) or (2) of KRS 189.290,
+8 189.300 to 189.360, KRS 189.380, KRS 189.400 to 189.430, KRS 189.450 to
+9 189.458, KRS 189.4595 to 189.480, subsection (1) of KRS 189.520, KRS 189.540,
+10 KRS 189.570 to 189.590, except subsection (1)(b) or (6)(b) of KRS 189.580, KRS
+11 189.345, subsection (6) of KRS 189.456, and 189.960 shall be fined not less than
+12 twenty dollars ($20) nor more than one hundred dollars ($100) for each offense.
+13 Any person who violates subsection (1)(a) of KRS 189.580 shall be fined not less
+14 than twenty dollars ($20) nor more than two thousand dollars ($2,000) or
+15 imprisoned in the county jail for not more than one (1) year, or both, unless the
+16 accident involved death or serious physical injury and the person knew or should
+17 have known of the death or serious physical injury, in which case the person shall
+18 be guilty of a Class D felony. Any person who violates paragraph (c) of subsection
+19 (5) of KRS 189.390 shall be fined not less than eleven dollars ($11) nor more than
+20 thirty dollars ($30). Neither court costs nor fees shall be taxed against any person
+21 violating paragraph (c) of subsection (5) of KRS 189.390.
+22 (2) (a) 1. Except as provided in subparagraph 2. of this paragraph, any person
+23 who violates the weight provisions of KRS 189.212, 189.221, 189.222,
+24 189.226, 189.230, 189.270, or 189.2713 shall be fined two cents ($0.02)
+25 per pound for each pound of excess load when the excess is five
+26 thousand (5,000) pounds or less. When the excess exceeds five thousand
+27 (5,000) pounds the fine shall be two cents ($0.02) per pound for each
+Page 6 of 13
+XXXX 12/20/2024 1:56 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 298
+1 pound of excess load, but the fine levied shall not be less than one
+2 hundred dollars ($100) and shall not be more than five hundred dollars
+3 ($500).
+4 2. Any person who violates a posted bridge weight limit on a state-
+5 maintained bridge that is more than seventy-five (75) years old shall be
+6 fined:
+7 a. Five hundred dollars ($500) for the first offense;
+8 b. One thousand dollars ($1,000) for the second offense within a one
+9 (1) year period; and
+10 c. Two thousand dollars ($2,000) for any subsequent offense within a
+11 one (1) year period.
+12 The Transportation Cabinet shall erect signs warning drivers of the
+13 increased fines in this subparagraph. Signs erected under this
+14 subparagraph shall be placed in such a manner that drivers are given
+15 adequate warning in order to exit the road prior to crossing the bridge. If
+16 warning signs are not erected in accordance with this subparagraph, the
+17 fines in this subparagraph shall not apply and violators shall be fined
+18 under subparagraph 1. of this paragraph.
+19 (b) Any person who violates the provisions of KRS 189.271 and is operating on a
+20 route designated on the permit shall be fined one hundred dollars ($100);
+21 otherwise, the penalties in paragraph (a) of this subsection shall apply.
+22 (c) Any person who violates any provision of subsection (2) or (3) of KRS
+23 189.050, subsection (4) of KRS 189.090, KRS 189.221 to 189.230, 189.270,
+24 189.2713, 189.280, or the dimension provisions of KRS 189.212, for which
+25 another penalty is not specifically provided shall be fined not less than ten
+26 dollars ($10) nor more than five hundred dollars ($500).
+27 (d) 1. Any person who violates the provisions of KRS 177.985 while operating
+Page 7 of 13
+XXXX 12/20/2024 1:56 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 298
+1 on a route designated in KRS 177.986 shall be fined one hundred dollars
+2 ($100).
+3 2. Any person who operates a vehicle with a permit under KRS 177.985 in
+4 excess of eighty thousand (80,000) pounds while operating on a route
+5 not designated in KRS 177.986 shall be fined one thousand dollars
+6 ($1,000).
+7 (e) Nothing in this subsection or in KRS 189.221 to 189.228 shall be deemed to
+8 prejudice or affect the authority of the Department of Vehicle Regulation to
+9 suspend or revoke certificates of common carriers, permits of contract
+10 carriers, or drivers' or chauffeurs' licenses, for any violation of KRS 189.221
+11 to 189.228 or any other act applicable to motor vehicles, as provided by law.
+12 (3) (a) Any person who violates subsection (1) of KRS 189.190 shall be fined not
+13 more than fifteen dollars ($15).
+14 (b) Any person who violates subsection (5) of KRS 189.190 shall be fined not
+15 less than thirty-five dollars ($35) nor more than two hundred dollars ($200).
+16 (4) (a) Any person who violates subsection (1) of KRS 189.210 shall be fined not
+17 less than twenty-five dollars ($25) nor more than one hundred dollars ($100).
+18 (b) Any peace officer who fails, when properly informed, to enforce KRS
+19 189.210 shall be fined not less than twenty-five dollars ($25) nor more than
+20 one hundred dollars ($100).
+21 (c) All fines collected under this subsection, after payment of commissions to
+22 officers entitled thereto, shall go to the county road fund if the offense is
+23 committed in the county, or to the city street fund if committed in the city.
+24 (5) Any person who violates KRS 189.370 shall for the first offense be fined not less
+25 than two[one] hundred dollars ($200)[($100)] nor more than five[two] hundred
+26 dollars ($500)[($200)] or imprisoned not less than thirty (30) days nor more than
+27 sixty (60) days, or both. For each subsequent offense occurring within three (3)
+Page 8 of 13
+XXXX 12/20/2024 1:56 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 298
+1 years, the person shall be fined not less than three hundred dollars ($300) nor more
+2 than one thousand[five hundred] dollars ($1,000)[($500)] or imprisoned not less
+3 than sixty (60) days nor more than six (6) months, or both. The minimum fine for
+4 this violation shall not be subject to suspension. A minimum of six (6) points shall
+5 be assessed against the driving record of any person convicted.
+6 (6) Any person who violates KRS 189.500 shall be fined not more than fifteen dollars
+7 ($15) in excess of the cost of the repair of the road.
+8 (7) Any person who violates KRS 189.510 or KRS 189.515 shall be fined not less than
+9 twenty dollars ($20) nor more than fifty dollars ($50).
+10 (8) Any peace officer who violates subsection (2) of KRS 189.520 shall be fined not
+11 less than thirty-five dollars ($35) nor more than one hundred dollars ($100).
+12 (9) (a) Any person who violates KRS 189.530(1) shall be fined not less than thirty-
+13 five dollars ($35) nor more than one hundred dollars ($100), or imprisoned
+14 not less than thirty (30) days nor more than twelve (12) months, or both.
+15 (b) Any person who violates KRS 189.530(2) shall be fined not less than thirty-
+16 five dollars ($35) nor more than one hundred dollars ($100).
+17 (10) Any person who violates any of the provisions of KRS 189.550 shall be guilty of a
+18 Class B misdemeanor.
+19 (11) Any person who violates subsection (3) of KRS 189.560 shall be fined not less than
+20 thirty dollars ($30) nor more than one hundred dollars ($100) for each offense.
+21 (12) The fines imposed by paragraph (a) of subsection (3) and subsections (6) and (7) of
+22 this section shall, in the case of a public highway, be paid into the county road fund,
+23 and, in the case of a privately owned road or bridge, be paid to the owner. These
+24 fines shall not bar an action for damages for breach of contract.
+25 (13) Any person who violates any of the provisions of KRS 189.120 shall be fined not
+26 less than twenty dollars ($20) nor more than one hundred dollars ($100) for each
+27 offense.
+Page 9 of 13
+XXXX 12/20/2024 1:56 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 298
+1 (14) Any person who violates any provision of KRS 189.575 shall be fined not less than
+2 twenty dollars ($20) nor more than twenty-five dollars ($25).
+3 (15) Any person who violates subsection (2) of KRS 189.231 shall be fined not less than
+4 twenty dollars ($20) nor more than one hundred dollars ($100) for each offense.
+5 (16) Any person who violates restrictions or regulations established by the secretary of
+6 transportation pursuant to subsection (3) of KRS 189.231 shall, upon first offense,
+7 be fined one hundred dollars ($100) and, upon subsequent convictions, be fined not
+8 less than one hundred dollars ($100) nor more than five hundred dollars ($500) or
+9 imprisoned for thirty (30) days, or both.
+10 (17) (a) Any person who violates any of the provisions of KRS 189.565 shall be guilty
+11 of a Class B misdemeanor.
+12 (b) In addition to the penalties prescribed in paragraph (a) of this subsection, in
+13 case of violation by any person in whose name the vehicle used in the
+14 transportation of inflammable liquids or explosives is licensed, the person
+15 shall be fined not less than one hundred dollars ($100) nor more than five
+16 hundred dollars ($500). Each violation shall constitute a separate offense.
+17 (18) Any person who abandons a vehicle upon the right-of-way of a state highway for
+18 three (3) consecutive days shall be fined not less than thirty-five dollars ($35) nor
+19 more than one hundred dollars ($100), or imprisoned for not less than ten (10) days
+20 nor more than thirty (30) days.
+21 (19) Every person violating KRS 189.393 shall be guilty of a Class B misdemeanor,
+22 unless the offense is being committed by a defendant fleeing the commission of a
+23 felony offense which the defendant was also charged with violating and was
+24 subsequently convicted of that felony, in which case it is a Class A misdemeanor.
+25 (20) Any law enforcement agency which fails or refuses to forward the reports required
+26 by KRS 189.635 shall be subject to the penalties prescribed in KRS 17.157.
+27 (21) A person who operates a bicycle in violation of the administrative regulations
+Page 10 of 13
+XXXX 12/20/2024 1:56 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 298
+1 promulgated pursuant to KRS 189.287 shall be fined not less than ten dollars ($10)
+2 nor more than one hundred dollars ($100).
+3 (22) Any person who violates KRS 189.860 shall be fined not more than five hundred
+4 dollars ($500) or imprisoned for not more than six (6) months, or both.
+5 (23) Any person who violates KRS 189.754 shall be fined not less than twenty-five
+6 dollars ($25) nor more than three hundred dollars ($300).
+7 (24) Any person who violates the provisions of KRS 189.125(3)(a) shall be fined fifty
+8 dollars ($50). This fine shall be subject to prepayment. A fine imposed under this
+9 subsection shall not be subject to court costs pursuant to KRS 24A.175, additional
+10 court costs pursuant to KRS 24A.176, the fee imposed pursuant to KRS 24A.1765,
+11 or any other additional fees or costs.
+12 (25) Any person who violates the provisions of KRS 189.125(3)(b) shall [not be issued a
+13 uniform citation, but shall instead receive a courtesy warning up until July 1, 2009.
+14 For a violation on or after July 1, 2009, the person shall ]be fined thirty dollars
+15 ($30). This fine shall be subject to prepayment. A fine imposed under this
+16 subsection shall not be subject to court costs pursuant to KRS 24A.175, additional
+17 court costs pursuant to KRS 24A.176, a fee imposed pursuant to KRS 24A.1765, or
+18 any other additional fees or costs. A person who has not been previously charged
+19 with a violation of KRS 189.125(3)(b) may elect to acquire a booster seat meeting
+20 the requirements of KRS 189.125. Upon presentation of sufficient proof of the
+21 acquisition, the charge shall be dismissed and no fees or costs shall be imposed.
+22 (26) Any person who violates the provisions of KRS 189.125(6) shall be fined an
+23 amount not to exceed twenty-five dollars ($25). This fine shall be subject to
+24 prepayment. A fine imposed under this subsection shall not be subject to court costs
+25 pursuant to KRS 24A.175, additional court costs pursuant to KRS 24A.176, the fee
+26 imposed pursuant to KRS 24A.1765, or any other additional fees or costs.
+27 (27) Fines levied pursuant to this chapter shall be assessed in the manner required by
+Page 11 of 13
+XXXX 12/20/2024 1:56 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 298
+1 KRS 534.020, in amounts consistent with this chapter. Nonpayment of fines shall
+2 be governed by KRS 534.020 and 534.060.
+3 (28) A licensed driver under the age of eighteen (18) charged with a moving violation
+4 pursuant to this chapter as the driver of a motor vehicle may be referred, prior to
+5 trial, by the court to a diversionary program. The diversionary program under this
+6 subsection shall consist of one (1) or both of the following:
+7 (a) Execution of a diversion agreement which prohibits the driver from operating
+8 a vehicle for a period not to exceed forty-five (45) days and which allows the
+9 court to retain the driver's operator's license during this period; and
+10 (b) Attendance at a driver improvement clinic established pursuant to KRS
+11 186.574. If the person completes the terms of this diversionary program
+12 satisfactorily the violation shall be dismissed.
+13 (29) A person who violates the provisions of subsection (2) or (3) of KRS 189.459 shall
+14 be fined two hundred fifty dollars ($250). The fines and costs for a violation of
+15 subsection (2) or (3) of KRS 189.459 shall be collected and disposed of in
+16 accordance with KRS 24A.180. Once deposited into the State Treasury, ninety
+17 percent (90%) of the fine collected under this subsection shall immediately be
+18 forwarded to the personal care assistance program under KRS 205.900 to 205.920.
+19 Ten percent (10%) of the fine collected under this subsection shall annually be
+20 returned to the county where the violation occurred and distributed equally to all
+21 law enforcement agencies within the county.
+22 (30) Any person who violates KRS 189.292 or 189.294 shall be fined twenty-five dollars
+23 ($25) for the first offense and fifty dollars ($50) for each subsequent offense.
+24 (31) Any person who violates KRS 189.281(5) or (7)(b) shall be subject to a fine of two
+25 hundred fifty dollars ($250). This fine shall be subject to prepayment. A fine
+26 imposed under this subsection shall not be subject to court costs pursuant to KRS
+27 24A.175, additional costs pursuant to KRS 24A.176, the fee imposed pursuant to
+Page 12 of 13
+XXXX 12/20/2024 1:56 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 298
+1 KRS 24A.1765, or any other additional fees or costs.
+2 (32) Any person who violates subsection (3) or (4) of KRS 189.290 and causes physical
+3 injury to a person shall be fined five hundred dollars ($500).
+4 Section 8. KRS 189.370 is amended to read as follows:
+5 (1) If any school or church bus used in the transportation of children is stopped upon a
+6 highway for the purpose of receiving or discharging passengers, with the stop arm
+7 and signal lights activated, the operator of a vehicle approaching from any direction
+8 shall bring the[his] vehicle to a stop and shall not proceed until the bus has
+9 completed receiving or discharging passengers and has been put into motion. The
+10 stop requirement provided for in this section shall not apply to vehicles approaching
+11 a stopped bus from the opposite direction upon a highway of four (4) or more lanes
+12 divided by an elevated barrier or unpaved median.
+13 (2) [Subsection (1) of ]This section shall be applicable only when the bus displays the
+14 markings and equipment required by Kentucky minimum specifications for school
+15 buses.
+16 (3) If any vehicle is witnessed to be in violation of[ subsection (1) of] this section and
+17 the identity of the operator is not otherwise apparent, it shall be a rebuttable
+18 presumption that the person in whose name the vehicle is registered or leased was
+19 the operator of the vehicle at the time of the alleged violation and is subject to the
+20 penalties as provided for in KRS 189.990(5).
+Page 13 of 13
+XXXX 12/20/2024 1:56 PM Jacketed
+
+[DELETED:   2  J A B S R A ( " m s m a s w o ( o m c s ( P ( R o ( " ( " a l v ( " a ( " r b a c m s a e i a w S S R ( A s a ( A o]
+[DELETED:   2  J t ( A c u ( A s b w a c m s i a m i a t ( R i a o r r t a s s a c v a p i a s o b a t a p f t p o e s a c v t v t S R ( T ( T ( F o ( A b s J s ( A o u t s f a v t w e b t l e a]
+[DELETED:   2  J ( A d S R ( U d s b s e b t l e a o t s d ( ( T t ( A ( A i v o S 8 o t A T s m b s e c ( T s a c v n f s c i s t f ( T ( A s t t n r a d t a s a c t 5 ( T ( T ( T a o c p i a t d b w t c p]
+[DELETED:   2  J ( I o h t p t c p t t s d o i d ( I p ( A w t f p t c p i o t c t m s ( A ( N l t t ( d f t d t r i i c i t r i d n r i a s a c v ( U f d o t s a c v i t r i s S R ( A e o a v o 8 o A a s b a w f a f t p o e T s b a r p t w a s b i s w i s a a s b s l a a a o w a r i i ( I p ( T t]
+[DELETED:   2  J o ( T v ( T o p a ( T p o t m v r a c f a l e a ( T o ( T v o w t o w p i a f p ( A t a ( A s d m c f l s t f t o i s S R ( I w a o o m n t T C o t n U n o n t c s s t r o t m ( T]
+[DELETED:   2  J n o S ( A p w v a o t p o K 1 t 1 s ( ( 1 t 1 K 1 K 1 t 1 K 1 t 1 K 1 t A t t d ( n m t t t d ( o i a h b ( t v ( ( 1 E a p i s 2 o t p a p w 1 p p f e p o e l w t e i f t (]
+[DELETED:   2  J p o e l b t f l s n b l t o h ( 2 A p w v a p b w l o a s m f a F b O ( c T o  T T C s e s w d o t i f i t s S e u t s a a w f u ( A r d o t p s b f o h d ( o ( A p w v a p o s ( o ( o K 1 1 a d ( 1 A]
+[DELETED:   2  J o ( 2 A e n d i K 1 s b f o t d ( ( N p s o r c o c c p o c c t ( ( A m ( A l ( ( A l ( A p o w f w p i t e K 1 o ( A f c u t s a p o c t o e t s g t t c r f i t o i c ( A t t h d ( n m t f h d s ( d o F s o o w t (]
+[DELETED:   2  J y t t t b ( A ( ( A t ( A l ( ( A f n ( A f ( A C ( A t ( T t a f ( A l o]
+[DELETED:   2  J ( A t ( A t ( A t b l i ( ( A o ( I c o v b a p i w n t v u i t t o i l o e i l t p s h ( A t m n ( E v K 1 s b g o C m u f o w t d w a c w v a w s ( A b ( A p w o a b i v o t a r]
+[DELETED:   2  J p n ( A d ( A p w v K 1 s b f n l t t d ( A d s c o ( A u F ( T f s b s t p A f i u t s c a w t r o K 1 U p o s p o t a ( A p w v t p o K 1 s b f a a n t e t d ( T f s b s t p p i ( F]
+[DELETED:   2  J K b ( A p t s ( E a c ( A a a d i c e p t K 1 I t p c t t o t d p s ( A b s ( o ( o K 1 s b c a d o i a w K 2 O d i t S T n p ( o t f c u t s s i b f T p ( o t f c u t s s a b r l ( A ( ( A h f d ( T f s b s t p A f i 2]
+[DELETED:   2  J K ( A i S ( I h a s b t v t a s a s n p u t b h c s a d ( [ m b ( I t i o t o i n o a i s b a r p t p]

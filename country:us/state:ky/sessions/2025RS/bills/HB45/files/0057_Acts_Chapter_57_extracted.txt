@@ -1,0 +1,1588 @@
+Title: AN ACT relating to campaign finance.
+Official Title: AN ACT relating to campaign finance.
+Number of Sections: 51
+Source: versions - Acts Chapter 57
+Media Type: application/pdf
+Strikethrough Detection: 14 sections found
+
+================================================================================
+
+Section 1:
+CHAPTER 57 1
+CHAPTER 57
+( HB 45 )
+Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+Section 1. KRS 121.015 is amended to read as follows:
+As used in this chapter:
+(1) "Registry" means the Kentucky Registry of Election Finance;
+(2) "Election" means any primary, regular, or special election to fill vacancies regardless of whether a candidate or
+slate of candidates is opposed or unopposed in an election. Each primary, regular, or special election shall be
+considered a separate election;
+(3) "Committee" includes the following:
+(a) "Campaign committee," which means one (1) or more persons who receive contributions and make
+expenditures to support or oppose one (1) or more specific candidates or slates of candidates for
+nomination or election to any state, county, city, or district office, that is authorized by the candidate or
+slate of candidates to receive contributions, make expenditures, and generally conduct a campaign for
+the candidate or slate of candidates, but does not include an entity established solely by a candidate
+which is managed solely by a candidate and a campaign treasurer and whose name is generic in nature,
+such as "Friends of (the candidate)," and does not reflect that other persons have structured themselves
+as a committee, designated officers of the committee, and assigned responsibilities and duties to each
+officer with the purpose of managing a campaign to support or oppose a candidate in an election;
+(b) "Independent expenditure-only committee," which means one (1) or more persons who receive
+unlimited contributions for the purpose of making only independent expenditures to support or oppose
+one (1) or more specific candidates or slates of candidates for nomination or election to any state,
+county, city, or district office;
+(c) "Caucus campaign committee," which means members of one (1) of the following caucus groups who
+receive contributions and make expenditures to support or oppose one (1) or more specific candidates or
+slates of candidates for nomination or election, or a committee:
+
+Section 2:
+1. House Democratic caucus campaign committee;
+
+Section 3:
+2. House Republican caucus campaign committee;
+
+Section 4:
+3. Senate Democratic caucus campaign committee;
+
+Section 5:
+4. Senate Republican caucus campaign committee; or
+
+Section 6:
+5. Subdivisions of the state executive committee of a minor political party, which serve the same
+function as the above-named committees, as determined by regulations promulgated by the
+registry;
+(d) "Political issues committee," which means three (3) or more persons joining together to advocate or
+oppose a[ constitutional amendment or public question which appears on the] ballot measure if that
+committee receives or expends money in excess of one thousand dollars ($1,000);
+(e) "Permanent committee," which means a group of individuals, including an association, committee, or
+organization, other than a campaign committee, independent expenditure-only committee, federally
+registered political committee, political issues committee, inaugural committee, caucus campaign
+committee, or party executive committee, which is established as, or intended to be, a permanent
+organization having as a primary purpose expressly advocating the election or defeat of one (1) or more
+clearly identified candidates, slates of candidates, or political parties, which functions on a regular basis
+throughout the year;
+(f) An executive committee of a political party; and
+Legislative Research Commission PDF Version
+2 ACTS OF THE GENERAL ASSEMBLY
+(g) "Inaugural committee," which means one (1) or more persons who receive contributions and make
+expenditures in support of inauguration activities for any candidate or slate of candidates elected to any
+state, county, city, or district office;
+(4) "Contributing organization" means a group which merely contributes to candidates, slates of candidates,
+campaign committees, caucus campaign committees, or executive committees from time to time from funds
+derived solely from within the group, and which does not solicit or receive funds from sources outside the
+group itself. Any contributions made by the groups in excess of one hundred dollars ($100) shall be reported to
+the registry;
+(5) "Testimonial affair" means an affair held in honor of a person who holds or who is or was a candidate for
+nomination or election to a political office in this state designed to raise funds for any purpose not charitable,
+religious, or educational;
+(6) "Contribution" means any:
+(a) Payment, distribution, loan, deposit, or gift of money or other thing of value, to a candidate, his or her
+agent, a slate of candidates, its authorized agent, a committee, or contributing organization. As used in
+this subsection, "loan" shall include a guarantee, endorsement, or other form of security where the risk
+of nonpayment rests with the surety, guarantor, or endorser, as well as with a committee, contributing
+organization, candidate, slate of candidates, or other primary obligor. No person shall become liable as
+surety, endorser, or guarantor for any sum in any one (1) election which, when combined with all other
+contributions the individual makes to a candidate, his or her agent, a slate of candidates, its agent, a
+committee, or a contributing organization, exceeds the contribution limits provided in KRS 121.150;
+(b) Payment by any person other than the candidate, his or her authorized treasurer, a slate of candidates, its
+authorized treasurer, a committee, or a contributing organization, of compensation for the personal
+services of another person which are rendered to a candidate, slate of candidates, committee, or
+contributing organization, or for inauguration activities;
+(c) Goods, advertising, or services with a value of more than one hundred dollars ($100) in the aggregate in
+any one (1) election which are furnished to a candidate, slate of candidates, committee, or contributing
+organization or for inauguration activities without charge, or at a rate which is less than the rate
+normally charged for the goods or services; or
+(d) Payment by any person other than a candidate, his or her authorized treasurer, a slate of candidates, its
+authorized treasurer, a committee, or contributing organization for any goods or services with a value of
+more than one hundred dollars ($100) in the aggregate in any one (1) election which are utilized by a
+candidate, slate of candidates, committee, or contributing organization, or for inauguration activities;
+(7) Notwithstanding the foregoing meanings of "contribution," the word shall not be construed to include:
+(a) Services provided without compensation by individuals volunteering a portion or all of their time on
+behalf of a candidate, a slate of candidates, committee, or contributing organization;
+(b) A loan of money by any financial institution doing business in Kentucky made in accordance with
+applicable banking laws and regulations and in the ordinary course of business; or
+(c) An independent expenditure by any individual or permanent committee;
+(8) "Candidate" means any person who has received contributions or made expenditures, has appointed a
+campaign treasurer, or has given his or her consent for any other person to receive contributions or make
+expenditures with a view to bringing about his or her nomination or election to a nonfederal public office,
+except as provided in subsection (10)(b) of Section 8 of this Act[federal office];
+(9) "Slate of candidates" means:
+(a) Between the time a certificate or petition of nomination has been filed for a candidate for the office of
+Governor under KRS 118.365 and the time the candidate designates a running mate for the office of
+Lieutenant Governor under KRS 118.126, a slate of candidates consists of the candidate for the office
+of Governor; and
+(b) After that candidate has designated a running mate under KRS 118.126, that same slate of candidates
+consists of that same candidate for the office of Governor and the candidate's running mate for the
+office of Lieutenant Governor. Unless the context requires otherwise, any provision of law that
+applies to a candidate shall also apply to a slate of candidates;
+CHAPTER 57 3
+(10) "Knowingly" means, with respect to conduct or to a circumstance described by a statute defining an offense,
+that a person is aware or should have been aware that his or her conduct is of that nature or that the
+circumstance exists;
+(11) "Fundraiser" means an individual who directly solicits and secures contributions on behalf of a candidate or
+slate of candidates for a statewide-elected state office or an office in a jurisdiction with a population in excess
+of two hundred thousand (200,000) residents;
+(12) "Independent expenditure" means:
+(a) The expenditure of money or other things of value for a communication which expressly advocates the
+election or defeat of a clearly identified candidate or slate of candidates, and which:
+
+Section 7:
+1. Is made without any coordination, consultation, or cooperation with any candidate, slate of
+candidates, campaign committee, or any authorized person acting on behalf of any of them[,];
+and[ which ]
+
+Section 8:
+2. Is not made in concert with, or at the request or suggestion of any candidate, slate of candidates,
+campaign committee, or any authorized person acting on behalf of any of them; or
+(b) The expenditure of money or other things of value for a communication which expressly advocates
+or opposes a ballot measure, and which:
+
+Section 9:
+1. Is made without any coordination, consultation, or cooperation with any political issues
+committee, or any authorized person acting on behalf of a political issues committee; and
+
+Section 10:
+2. Is not made in concert with, or at the request or suggestion of, any political issues committee,
+or any authorized person acting on behalf of a political issues committee;
+(13) "Electronic reporting" means the use of technology, having electrical, digital, magnetic, wireless, optical,
+electromagnetic, or similar capabilities, by which an individual or other entity submits, compiles, or transmits
+campaign finance reports to the registry, or by which the registry receives, stores, analyzes, or discloses the
+reports;
+(14) "Security procedure" means a procedure employed for the purpose of verifying that an electronic signature,
+record, or performance is that of a specific person or for detecting changes or errors in the information in an
+electronic record. The term includes a procedure that requires the use of algorithms or other codes, identifying
+words or numbers, encryption, or callback or other acknowledgment procedures;
+(15) "Electronic signature" means an electronic sound, symbol, or process attached to or logically associated with a
+record and executed or adopted by a person with the intent to sign the record;
+(16) "Filer" means any candidate, a slate of candidates, committee, or other individual or entity required to submit
+financial disclosure reports to the registry;
+(17) "Filer-side software" means software provided to or used by the filer that enables transmittal of financial
+reports to the registry;
+(18) "Form" means an online web page or an electronic document designed to capture, validate, and submit data for
+processing to the registry, unless the context otherwise prescribes;[ and]
+(19) "Reasonable cause" means an event, happening, or circumstance entirely beyond the knowledge or control of
+the candidate, slate of candidates, or committee, which has exercised due care and prudence in maintaining the
+records of the campaign or committee pursuant to statute or administrative regulation;
+(20) "Foreign national" means:
+(a) An individual who is not a citizen or lawful permanent resident of the United States;
+(b) A government, political subdivision, or municipality of a foreign country;
+(c) A foreign political party;
+(d) Any entity, including but not limited to a partnership, association, corporation, organization, or other
+combination of persons, that is organized under the laws of or has its principal place of business in a
+foreign country; or
+Legislative Research Commission PDF Version
+4 ACTS OF THE GENERAL ASSEMBLY
+(e) Any entity in the United States, including but not limited to a partnership, association, corporation,
+or organization that is wholly or majority owned by any foreign national, unless:
+
+Section 11:
+1. Any contribution or expenditure the entity makes derives entirely from funds generated by the
+entity's United States operations; and
+
+Section 12:
+2. All decisions concerning the contribution or expenditure, except for setting overall budget
+amounts, are made by individuals who are United States citizens or permanent residents;
+(21) "Ballot measure" means a question, other than the nomination or election of a candidate for public office,
+which has been:
+(a) Approved by a political subdivision or the General Assembly and is required by law to be placed
+before the voters of the territory affected; or
+(b) Initiated or referred by citizen petition as authorized by KRS 242.020 and placed before the voters of
+the territory affected;
+(22) "Preliminary activity" includes but is not limited to:
+(a) Participating in focus groups;
+(b) Making telephone calls;
+(c) Traveling;
+(d) Conducting polls; and
+(e) Drafting ballot measure language; and
+(23) "Tax-exempt organization" means an organization described in 26 U.S.C. sec. 501(c) and exempt from
+federal taxation under 26 U.S.C. sec. 501(a). This subsection shall not be construed to treat a political
+organization under 26 U.S.C. sec. 527 as a tax-exempt organization for purposes of this chapter.
+SECTION 2. A NEW SECTION OF KRS CHAPTER 121 IS CREATED TO READ AS FOLLOWS:
+(1) Upon registering a political issues committee, the treasurer shall file an accompanying certification that no
+preliminary activity was directly or indirectly funded by a foreign national.
+(2) After a political issues committee has been registered, the committee shall not knowingly or willfully
+receive, solicit, or accept contributions or expenditures that are directly or indirectly funded by a foreign
+national.
+(3) A political issues committee shall affirm in its report that it has not knowingly or willfully received,
+solicited, or accepted contributions or expenditures from a foreign national.
+(4) Any person who makes an independent expenditure in support or opposition of a ballot measure shall keep
+records of any contribution or independent expenditure and retain those records for six (6) years following
+the date the contribution or expenditure was made.
+(5) A political issues committee that receives a contribution or makes expenditures shall keep records of any
+contribution received or expenditure made and retain those records for six (6) years following the date the
+contribution was received or the expenditure was made.
+SECTION 3. A NEW SECTION OF KRS CHAPTER 121 IS CREATED TO READ AS FOLLOWS:
+(1) Upon a political issues committee's receipt of a contribution, the treasurer shall obtain from the donor an
+affirmation that the donor is not a foreign national and has not knowingly or willfully accepted funds
+aggregating in excess of one hundred thousand dollars ($100,000) from a foreign national during the four
+(4) years immediately preceding the date the contribution was made.
+(2) The treasurer of a political issues committee shall affirm in its report that the donor associated with each
+contribution is not a foreign national and has not knowingly or willfully received, solicited, or accepted,
+whether directly or indirectly, contributions or expenditures aggregating in excess of one hundred thousand
+dollars ($100,000) from a foreign national during the four (4) years immediately preceding the date the
+contribution was made.
+(3) Within forty-eight (48) hours of making an independent expenditure supporting or opposing a ballot
+measure, the person or entity making the expenditure shall:
+CHAPTER 57 5
+(a) Certify to the registry that the person or entity has not knowingly or willfully accepted funds
+aggregating in excess of one hundred thousand dollars ($100,000) from a foreign national for four
+(4) years immediately preceding the date the expenditure was made, and that it will not do so through
+the remainder of the calendar year in which the ballot measure will appear on the ballot; and
+(b) Affirm in the person's or entity's report that the person or entity has not knowingly or willfully
+accepted funds aggregating in excess of one hundred thousand dollars ($100,000) from a foreign
+national during the four (4) years immediately preceding the date the expenditure was made.
+(4) Any determination that an entity required to file one (1) or more certifications under subsection (1) or (3)(a)
+of this section has accepted funds aggregating in excess of one hundred thousand dollars ($100,000) from
+one (1) or more foreign nationals during the four (4) years immediately preceding the date the contribution
+or independent expenditure at issue was made shall create a presumption that the person or political issues
+committee has violated this section.
+SECTION 4. A NEW SECTION OF KRS CHAPTER 121 IS CREATED TO READ AS FOLLOWS:
+(1) A foreign national shall not, directly or indirectly:
+(a) Make a donation, contribution, or expenditure in support or opposition of a ballot measure;
+(b) Solicit another person to make a donation, contribution, or expenditure to influence a ballot
+measure; or
+(c) Direct, dictate, control, or participate in another person's decision to influence a ballot measure.
+(2) Nothing in this section shall be deemed to create or eliminate any donor disclosure rights or duties beyond
+those specifically enumerated in Section 6 of this Act.
+SECTION 5. A NEW SECTION OF KRS CHAPTER 121 IS CREATED TO READ AS FOLLOWS:
+(1) The registry may bring a civil action to enforce Sections 2 and 3 of this Act and a committee, person, or
+entity alleged to have violated Section 2 or 3 of this Act shall be provided full opportunity of notice,
+discovery, and an opportunity to be heard before being found liable for a violation of Section 2 or 3 of this
+Act.
+(2) In all actions brought under subsection (1) of this section, the registry bears the burden of proof and the
+action shall proceed as follows:
+(a) Prior to discovery, the court shall set a hearing to determine whether there is probable cause that a
+committee or person has violated Section 2 or 3 of this Act;
+(b) If, after the hearing in paragraph (a) of this subsection, the court determines that no probable cause
+exists to believe that a violation of Section 2 or 3 of this Act has occurred, the court shall enter an
+order of dismissal with prejudice;
+(c) If, after the hearing in paragraph (a) of this subsection, the court determines that probable cause
+does exist to believe that a violation of Section 2 or 3 of this Act has occurred, the court shall enter
+an order to that effect and the case shall proceed to trial on an expedited basis. Subject to Section 6
+of this Act, the entity alleged to have violated Section 2 or 3 of this Act may, prior to the scheduling of
+trial, present evidence sufficient to rebut the finding of probable cause by making an ex parte
+presentation of records to the court for in camera review; and
+(d) The losing party under paragraph (c) of this subsection has the right to:
+
+Section 13:
+1. An interlocutory expedited appeal; and
+
+Section 14:
+2. A stay of proceedings in the trial court.
+(3) Within thirty (30) days of a finding that a committee has violated Section 2 or 3 of this Act, the committee
+shall refund the contribution to the original contributor. In the event of an appeal, the contribution shall be
+placed in escrow, after which the funds shall be disbursed in accordance with the final order. If the
+committee is unable to return the funds, the directors, officers, or executive members of the committee shall
+be liable in their personal capacity, jointly and severally, for the refund of said funds.
+(4) Within thirty (30) days of a finding that any person or entity required to report independent expenditures
+has violated Section 2 or 3 of this Act, the person or entity making the independent expenditure shall
+Legislative Research Commission PDF Version
+6 ACTS OF THE GENERAL ASSEMBLY
+disgorge funds in an amount equal to the reported cost of the independent expenditure to the registry. If the
+entity is unable to disgorge the requisite funds, the directors, officers, or executive members of the entity
+shall be liable in their personal capacities, jointly and severally, for the payment of the amount due. In the
+event of an appeal, the funds subject to disgorgement shall be placed in escrow, after which they shall be
+disbursed in accordance with the final order.
+(5) If any lobbyist, as defined in KRS 11A.010, violates Section 2 or 3 of this Act, the lobbyist's registration may
+be revoked or suspended and the lobbyist may be enjoined from receiving compensation or making
+expenditures for lobbying.
+(6) If the registry prevails in an action brought under this section, the court may award:
+(a) Injunctive relief sufficient to prevent the defendant from violating or engaging in acts that aid or
+abet violations of Sections 2 and 3 of this Act; and
+(b) Statutory damages up to two (2) times the amount of the prohibited contribution or expenditure.
+(7) In addition to the penalties in subsection (6) of this section, and any other remedies provided by law, if the
+court finds a knowing or willful violation of Section 2 or 3 of this Act, the court may assess a penalty of up
+to three (3) times the statutory damages.
+SECTION 6. A NEW SECTION OF KRS CHAPTER 121 IS CREATED TO READ AS FOLLOWS:
+(1) A lawful donor to a tax-exempt organization possesses a right of privacy in his or her donations. Any
+investigation of an alleged violation of Section 2 or 3 of this Act, or lawful court order in an action brought
+under Section 5 of this Act, shall shield the identity of lawful donors as far as possible. A state or local
+governmental entity, court, or officer of the court shall not collect or require the submission of information
+on the identity of any donor to a tax-exempt organization other than those directly related to an alleged
+violation of Section 2 or 3 of this Act.
+(2) A state or local governmental entity, court, or officer of the court shall not disclose to the public, or to
+another government official not directly involved in the investigation, information revealing the identity of
+any donor to a tax-exempt organization, unless the information is regarding the identity of a donor that
+engaged in conduct prohibited by Section 2 or 3 of this Act after a final determination has been made that
+the donor violated Section 2 or 3 of this Act.
+(3) Any state or local governmental entity, court, or officer of the court who knowingly or willfully violates
+subsection (2) of this section shall be guilty of a Class A misdemeanor.
+Section 7. KRS 121.175 is amended to read as follows:
+(1) No candidate, committee, or contributing organization shall permit funds in a campaign account to be
+expended for any purpose other than for allowable campaign expenditures. "Allowable campaign
+expenditures" means expenditures including reimbursement for actual expenses, made directly and primarily
+in support of or opposition to a candidate, constitutional amendment, or public question which will appear on
+the ballot and includes, but is not limited to, expenditures for staff salaries, gifts and meals for volunteer
+campaign workers and fundraisers, food and beverages provided at a campaign rally, advertising, office
+space, necessary travel if reported, campaign paraphernalia, purchases of advertisements in athletic and
+scholastic publications, communications with constituents or prospective voters, polling and consulting,
+printing, graphic arts, or advertising services, postage, office supplies, stationery, newsletters, and equipment
+which is used primarily for the administration of the campaign, or for fees incurred from legal services while
+defending a matter before the Kentucky Legislative Ethics Commission in which the final adjudication is
+rendered in favor of the candidate. "Allowable campaign expenditures" does not include necessary travel
+unless reported, expenditures of funds in a campaign account for any purpose made unlawful by other
+provisions of the Kentucky Revised Statutes or which would bestow a private pecuniary benefit, except for
+payment of the reasonable value of goods and services provided upon a candidate, member of the candidate's
+family, committee, or contributing organization, or any of their employees, paid or unpaid, including: tickets to
+an event which is unrelated to a political campaign or candidacy; items of personal property for distribution to
+prospective voters except items bearing the name, likeness, or logo of a candidate or a campaign-related
+communication; expenditures to promote or oppose a candidacy for a leadership position in a governmental,
+professional, or political organization, or other entity; and equipment or appliances the primary use of which is
+for purposes outside of the campaign. The provisions of KRS 121.190 notwithstanding, a candidate shall not
+be required to include a disclaimer on campaign stationery purchased with funds from his campaign account.
+(2) A member of the General Assembly may utilize funds in his or her campaign account to:
+CHAPTER 57 7
+(a) Contribute up to five thousand dollars ($5,000) per year to a political party or caucus campaign
+committee;
+(b) Contribute directly to another candidate, slate of candidates, political party, or caucus campaign
+committee until his or her campaign funds have been exhausted and the account has been closed, if
+the amount of the contribution does not exceed the contribution limits contained in KRS 121.150(6)
+and (11);
+(c) Make allowable campaign expenditures in both election years and nonelection years;
+(d)[(c)] Upon approval by the President of the Senate or the Speaker of the House of Representatives,
+depending on the member's chamber:
+
+Section 15:
+1. Attend a conference, meeting, reception, or similar event; or
+
+Section 16:
+2. Attend an educational course or seminar that maintains or improves skills employed by the
+member in carrying out the duties of his or her elective office; and
+(e)[(d)] Pay for fees incurred from legal services while defending a matter arising from his or her
+campaign or election or the performance of his or her official duties.
+(3) [By December 31, 1993, ]The registry shall promulgate administrative regulations to implement and enforce
+the provisions of subsection (1) of this section.
+(4) In lieu of the penalties provided in KRS 121.140 and 121.990 for a violation of this section, the registry may,
+after hearing:
+(a) For a violation which was not committed knowingly, order the violator to repay the amount of
+campaign funds which were expended for other than allowable campaign expenditures, and if not repaid
+within thirty (30) days, may impose a fine of up to one hundred dollars ($100) for each day the amount
+is not repaid, up to a maximum fine of one thousand dollars ($1,000); and
+(b) For a violation which was committed knowingly, in addition to referring the matter for criminal
+prosecution, order the violator to repay the amount of campaign funds which were expended for other
+than allowable campaign expenditures, and if not repaid within thirty (30) days, may impose a fine of
+up to one hundred dollars ($100) for each day the amount is not repaid, up to a maximum fine of one
+thousand dollars ($1,000).
+Section 8. KRS 121.180 is amended to read as follows:
+(1) (a) 1. Persons becoming a candidate as defined in KRS 121.015(8) or slate of candidates as defined in
+KRS 121.015(9), or a political issues committee as defined in KRS 121.015(3)(d), shall submit a
+form prescribed and furnished by the registry indicating whether they intend to raise or spend in
+excess of five thousand dollars ($5,000) in any one (1) election, or that contributions will not be
+accepted or expended in excess of five thousand dollars ($5,000) in any one (1) election.
+Candidates and slates of candidates shall submit this form to the registry within five (5) days of
+receiving contributions or making expenditures with a view to bringing about his or her
+nomination or election to public office, or within five (5) days of filing papers to run for public
+office, whichever is sooner. Candidates and slates of candidates who advance to a regular
+election following a primary shall submit this form to the registry within five (5) days after the
+date of the primary. Political issues committees shall submit the form to the registry within five
+(5) days of meeting the definition of political issues committee in KRS 121.015(3)(d).
+
+Section 17:
+2. Each candidate, slate of candidates, or political issues committee indicating that contributions
+will not be accepted or expended in excess of five thousand dollars ($5,000) in any one (1)
+election shall be exempt from filing any campaign finance reports required by subsection (3) of
+this section.
+
+Section 18:
+3. A separate form shall be required for each primary, regular, or special election in which the
+candidate or slate of candidates participates or in which the public question appears on the ballot.
+The form shall be submitted by means of electronic filing with the registry.
+
+Section 19:
+4. Any person acting as a candidate or slate of candidates by receiving contributions or making
+expenditures with a view to bringing about his or her nomination or election to public office, or
+filing papers to run for public office, or group of persons acting as a political issues committee,
+Legislative Research Commission PDF Version
+8 ACTS OF THE GENERAL ASSEMBLY
+who fails to file this form as required, or who fails to remedy a deficiency within five (5) days,
+may be fined by the registry an amount not to exceed two hundred dollars ($200) per day, up to a
+maximum total fine of five thousand dollars ($5,000).
+(b) For a primary, a candidate or slate of candidates shall file a request for exemption not later than the
+deadline described in paragraph (a) of this subsection for filing nomination papers and, except as
+provided in subparagraph 2. of paragraph (c) of this subsection, shall be bound by its terms unless it is
+rescinded in writing not later than thirty (30) days preceding the primary. For a regular election, a
+candidate or slate of candidates shall file or rescind in writing a request for exemption not later than
+sixty (60) days preceding the regular election, except as provided in subparagraph 2. of paragraph (c) of
+this subsection. For a special election, a candidate or slate of candidates shall file a request for
+exemption not later than ten (10) days after the candidate or slate of candidates is nominated for a
+special election and shall be bound by its terms unless it is rescinded in writing not later than thirty (30)
+days preceding the special election. A political issues committee chair shall file a request for exemption
+when the committee registers with the registry and shall be bound by its terms unless it is rescinded in
+writing not later than thirty (30) days preceding the date the issue appears on the ballot.
+(c) 1. A candidate or slate of candidates that revokes a request for exemption in a timely manner shall
+file all reports required of a candidate intending to raise or spend in excess of five thousand
+dollars ($5,000) in an election. To revoke the request for an exemption, the candidate or slate of
+candidates shall file the appropriate form with the registry not later than the deadline for filing a
+revocation.
+
+Section 20:
+2. A candidate or slate of candidates that is exempted from campaign finance reporting
+requirements pursuant to paragraph (a) of this subsection but who accepts contributions or makes
+expenditures in excess of the exempted amount in an election, shall file all applicable reports
+required for the remainder of that election, based upon the amount of contributions or
+expenditures the candidate or slate of candidates accepts or receives in that election.
+(d) Any candidate or slate of candidates that is subject to a June or August filing deadline and that intends
+to execute a request for exemption shall file the appropriate request for exemption not later than the
+deadline described in paragraph (a) of this subsection and, except as provided in subparagraph 2. of
+paragraph (c) of this subsection, shall be bound by its terms unless it is rescinded in writing not later
+than sixty (60) days preceding the regular election. A candidate or slate of candidates that is covered by
+this paragraph shall have the same reversion rights as those provided in subparagraph 1. of paragraph
+(c) of this subsection.
+(e) Any candidate or slate of candidates that will appear on the ballot in a regular election that has signed a
+request for exemption for that election may exercise the reversion rights provided in subparagraph 1. of
+paragraph (c) of this subsection if a candidate or slate of candidates that is subject to a June or August
+filing deadline subsequently files in opposition to the candidate or slate of candidates. Except as
+provided in subparagraph 2. of paragraph (c) of this subsection, a candidate or slate of candidates
+covered by this paragraph shall comply with the deadline for rescission provided in subparagraph 1. of
+paragraph (c) of this subsection.
+(f) Except as provided in subparagraph 2. of paragraph (c) of this subsection, any candidate or slate of
+candidates that has filed a request for exemption for a regular election that later is opposed by a person
+who has filed a declaration of intent to receive write-in votes may rescind the request for exemption and
+exercise the reversion rights provided in subparagraph 1. of paragraph (c) of this subsection.
+(g) Any candidate or slate of candidates that has filed a request for exemption may petition the registry to
+determine whether another person is campaigning as a write-in candidate prior to having filed a
+declaration of intent to receive write-in votes, and, if the registry determines upon a preponderance of
+the evidence that a person who may later be a write-in candidate is conducting a campaign, the
+candidate or slate of candidates, except as provided in subparagraph 2. of paragraph (c) of this
+subsection, may petition the registry to permit the candidate or slate of candidates to exercise the
+reversion rights provided in subparagraph 1. of paragraph (c) of this subsection.
+(h) If the opponent of a candidate or slate of candidates is replaced due to his or her withdrawal because of
+death, disability, or disqualification, the candidate or slate of candidates, except as provided in
+subparagraph 2. of paragraph (c) of this subsection, may exercise the reversion rights provided in
+subparagraph 1. of paragraph (c) of this subsection not later than fifteen (15) days after the party
+executive committee nominates a replacement for the withdrawn candidate or slate of candidates.
+CHAPTER 57 9
+(i) A person intending to be a write-in candidate for any office in a regular or special election may execute
+a request for exemption under paragraph (a) of this subsection and shall be bound by its terms unless it
+is rescinded in writing not later than fifteen (15) days preceding the regular or special election. A person
+intending to be a write-in candidate who revokes a request for exemption in a timely manner shall file
+all reports required of a candidate intending to raise or spend in excess of five thousand dollars ($5,000)
+in an election. Except as provided in subparagraph 2. of paragraph (c) of this subsection, a person
+intending to be a write-in candidate who revokes a request for exemption shall file the appropriate form
+with the registry.
+(j) Except as provided in subparagraph 2. of paragraph (c) of this subsection, the campaign committee of
+any candidate or slate of candidates that has filed a request for exemption or a political issues
+committee whose chair has filed a request for exemption shall be bound by its terms unless it is
+rescinded in a timely manner.
+(k) 1. Except as provided in subparagraph 2. of paragraph (c) of this subsection, any candidate, slate of
+candidates, or political issues committee that is exempt from filing campaign finance reports
+pursuant to paragraph (a), (d), or (i) of this subsection that accepts contributions or makes
+expenditures, or whose campaign treasurer accepts contributions or makes expenditures, in
+excess of the applicable limit in any one (1) election without rescinding the request for
+exemption in a timely manner shall comply with all applicable reporting requirements and, in
+lieu of other penalties prescribed by law, pay a fine of not less than five hundred dollars ($500).
+
+Section 21:
+2. Except as provided in subparagraph 2. of paragraph (c) of this subsection, a candidate, slate of
+candidates, campaign committee, or political issues committee that is exempt from filing
+campaign finance reports pursuant to paragraph (a), (d), or (i) of this subsection that knowingly
+accepts contributions or makes expenditures in excess of the applicable spending limit in any one
+(1) election without rescinding the request for exemption in a timely manner shall comply with
+all applicable reporting requirements and shall be guilty of a Class D felony.
+(l) 1. Any candidate exempt from filing under this subsection for a primary shall file a report described
+in subsection (4) of this section.
+
+Section 22:
+2. Any candidate exempt from filing under this subsection for a primary who advances to the
+regular election shall file for an additional exemption under this section for the regular election
+or the candidate shall no longer be exempt from the filing requirements.
+
+Section 23:
+3. In the event a candidate exempt from filing under this subsection is no longer eligible for the
+exemption, he or she shall immediately file for a revocation of the exemption under paragraph
+(c) of this subsection.
+(2) (a) State and county executive committees, and caucus campaign committees shall make a full report, upon
+a prescribed form, to the registry, of all money, loans, or other things of value, received from any
+source, and expenditures authorized, incurred, or made, since the date of the last report, including:
+
+Section 24:
+1. For each contribution of any amount made by a permanent committee, the name and business
+address of the permanent committee, the date of the contribution, the amount contributed, and a
+description of the major business, social, or political interest represented by the permanent
+committee;
+
+Section 25:
+2. For other contributions in excess of one hundred dollars ($100), the full name, address, age if
+less than the legal voting age, the date of the contribution, the amount of the contribution, and the
+employer and occupation of each contributor. If the contributor is self-employed, the name under
+which he or she is doing business shall be listed;
+
+Section 26:
+3. The total amount of cash contributions received during the reporting period; and
+
+Section 27:
+4. A complete statement of expenditures authorized, incurred, or made. The complete statement of
+expenditures shall include the name and address of each person to whom an expenditure is made
+in excess of twenty-five dollars ($25), and the amount, date, and purpose of each expenditure.
+(b) In addition to the reporting requirements in paragraph (a) of this subsection, the state executive
+committee of a political party that has established a building fund account under KRS 121.172 shall
+make a full report, upon a prescribed form, to the registry, of all contributions received from any source,
+Legislative Research Commission PDF Version
+10 ACTS OF THE GENERAL ASSEMBLY
+and expenditures authorized, incurred, or made, since the date of the last report for the separate building
+fund account, including:
+
+Section 28:
+1. For each contribution of any amount made by a corporation, the name and business address of
+the corporation, the date of the contribution, the amount contributed, and a description of the
+major business conducted by the corporation;
+
+Section 29:
+2. For other contributions in excess of one hundred dollars ($100), the full name and address of the
+contributor, the date of the contribution, the amount of the contribution, and the employer and
+occupation of each contributor. If the contributor is self-employed, the name under which he or
+she is doing business shall be listed;
+
+Section 30:
+3. The total amount of cash contributions received during the reporting period; and
+
+Section 31:
+4. A complete statement of expenditures authorized, incurred, or made. The complete statement of
+expenditures shall include the name and address of each person to whom an expenditure is made
+in excess of twenty-five dollars ($25), and the amount, date, and purpose of each expenditure.
+(c) The report required by paragraph (a) of this subsection shall be made on a semiannual basis if the
+committee has more than ten thousand dollars ($10,000) in its campaign fund account, and shall be
+received by the registry by January 31 and by July 31. The January report shall cover the period from
+July 1 to December 31. The July report shall cover the period from January 1 to June 30. If the
+committee has less than ten thousand dollars ($10,000) in its campaign fund account the report required
+by paragraph (a) of this subsection shall be made on an annual basis, and shall be received by the
+registry by January 31. If an individual gives a reportable contribution to a caucus campaign committee
+or to a state or county executive committee with the intention that the contribution or a portion of the
+contribution go to a candidate or slate of candidates, the name of the contributor and the sum shall be
+indicated on the committee report. The report required by paragraph (b) of this subsection relating to a
+state executive committee's building fund account shall be received by the registry within two (2)
+business days after the close of each calendar quarter. The receipts and expenditures of funds remitted
+to each political party under KRS 141.071 to 141.073 shall be separately accounted for and reported to
+the registry in the manner required by KRS 121.230. The separate report may be made a separate
+
+Section 32:
+section within the report required by this subsection to be received by the registry by January 31.
+(3) (a) Except for candidates or slates of candidates, campaign committees, or political issues committees
+exempted from reporting requirements pursuant to subsection (1) of this section, each campaign
+treasurer of a candidate, slate of candidates, campaign committee, or political issues committee who
+accepts contributions or expends, expects to accept contributions or expend, or contracts to expend
+more than five thousand dollars ($5,000) in any one (1) election, and each fundraiser who secures
+contributions in excess of five thousand dollars ($5,000) in any one (1) election, shall make a full report
+to the registry, on a form provided or using a format approved by the registry, of all money, loans, or
+other things of value, received from any source, and expenditures authorized, incurred, and made, since
+the date of the last report, including:
+
+Section 33:
+1. For each contribution of any amount made by a permanent committee, the name and business
+address of the permanent committee, the date of the contribution, the amount contributed, and a
+description of the major business, social, or political interest represented by the permanent
+committee;
+
+Section 34:
+2. For each contribution in excess of one hundred dollars ($100) made to any candidate or
+campaign committee or a political issues committee, the full name, address, age if less than the
+legal voting age, the date of the contribution, the amount of the contribution, and the employer
+and occupation of each other contributor. If the contributor is self-employed, the name under
+which he or she is doing business shall be listed;
+
+Section 35:
+3. The total amount of cash contributions received during the reporting period; and
+
+Section 36:
+4. A complete statement of all expenditures authorized, incurred, or made. The complete statement
+of expenditures shall include the name, address, and occupation of each person to whom an
+expenditure is made in excess of twenty-five dollars ($25), and the amount, date, and purpose of
+each expenditure.
+(b) Reports of all candidates, slates of candidates, campaign committees, independent expenditure-only
+committees, political issues committees, and registered fundraisers shall be made as follows:
+CHAPTER 57 11
+
+Section 37:
+1. a. Candidates seeking statewide office, slates of candidates, campaign committees for
+candidates seeking statewide office and for slates of candidates, independent expenditure-
+only committees, political issues committees, and fundraisers which file the form
+described in subsection (1)(a) of this section before the year of an election in which the
+candidate, a slate of candidates, or public question shall appear on the ballot, shall file
+financial reports with the registry at the end of the first calendar quarter after persons
+become statewide candidates or slates of candidates, or following registration of the
+committee or fundraiser, and each calendar quarter thereafter, ending with the last
+calendar quarter of that year. The provisions of this subparagraph shall be retroactive to
+January 1, 2021;
+b. All other candidates and campaign committees shall file annual financial reports to be
+received by the registry on or before December 1 for each year that a candidate is not yet
+on the ballot but has filed a form as described in subsection (1)(a) of this section with the
+registry for a future-year election; and
+c. Candidates, slate of candidates, or committees shall make all reports required by
+subparagraphs 2. to 5. of this paragraph during the year in which the election takes place;
+
+Section 38:
+2. All candidates, slates of candidates, campaign committees, independent expenditure-only
+committees, political issues committees, and registered fundraisers shall make reports on the
+sixtieth day preceding a regular election, including all previous contributions and expenditures;
+
+Section 39:
+3. All candidates, slates of candidates, campaign committees, independent expenditure-only
+committees, political issues committees, and registered fundraisers shall make reports on the
+thirtieth day preceding an election, including all previous contributions and expenditures;
+
+Section 40:
+4. All candidates, slates of candidates, campaign committees, independent expenditure-only
+committees, political issues committees, and registered fundraisers shall make reports on the
+fifteenth day preceding the date of the election; and
+
+Section 41:
+5. All reports to the registry shall cover campaign activity during the entire reporting period and
+must be received by the registry within two (2) business days after the date the reporting period
+ends to be deemed timely filed.
+(4) All candidates, regardless of funds received or expended, campaign committees, independent expenditure-only
+committees, political issues committees, and registered fundraisers shall make post-election reports within
+thirty (30) days after the election. All post-election reports to the registry shall cover campaign activity during
+the entire reporting period and must be received by the registry within two (2) business days after the date the
+reporting period ends to be deemed timely filed. For candidates, slates of candidates, and political issues
+committees otherwise exempt under subsection (1)(a) of this section, the reporting period begins the day the
+request for exemption is filed with the registry and continues through the thirtieth day after the election.
+(5) In making the preceding reports, the total gross receipts from each of the following categories shall be listed:
+proceeds from the sale of tickets for events such as testimonial affairs, dinners, luncheons, rallies, and similar
+fundraising events, mass collections made at the events, and sales of items such as campaign pins, buttons,
+hats, ties, literature, and similar materials. When any individual purchase or the aggregate purchases of any
+item enumerated above from a candidate or slate of candidates for a statewide-elected state office or a
+campaign committee for a candidate or slate of candidates for a statewide-elected state office exceeds one
+hundred dollars ($100), the purchaser shall be identified by name, address, age, if less than the legal voting
+age, occupation, and employer or, if the purchaser is self-employed, the name under which he or she is doing
+business, and the amount of the purchase. When any individual purchase or the aggregate purchases of any
+item enumerated above from any candidate or campaign committee other than a candidate or slate of
+candidates for a statewide-elected state office or campaign committee for a candidate or slate of candidates for
+a statewide-elected state office exceeds one hundred dollars ($100), the purchaser shall be identified by name,
+address, age if less than the legal voting age, occupation, and employer or, if the purchaser is self-employed,
+the name under which he or she is doing business, and the amount of the purchase. The lists shall be
+maintained by the campaign treasurer, political issues committee treasurer, registered fundraiser, or other
+sponsor for inspection by the registry for six (6) years following the date of the election.
+(6) Each permanent committee, except a federally registered political committee as defined in 52 U.S.C. sec.
+30101(4)(a), inaugural committee, or contributing organization shall make a full report to the registry, on a
+Legislative Research Commission PDF Version
+12 ACTS OF THE GENERAL ASSEMBLY
+form provided or using a format approved by the registry, of all money, loans, or other things of value,
+received by it from any source, and all expenditures authorized, incurred, or made, since the date of the last
+report, including:
+(a) For each contribution of any amount made by a permanent committee, the name and business address of
+the permanent committee, the date of the contribution, the amount contributed, and a description of the
+major business, social, or political interest represented by the permanent committee;
+(b) For other contributions in excess of one hundred dollars ($100), the full name, address, age if under the
+legal voting age, the date of the contribution, the amount of the contribution, and the employer and
+occupation of each contributor. If the contributor is self-employed, the name under which he or she is
+doing business shall be listed;
+(c) An aggregate amount of cash contributions, the amount contributed by each contributor, and the date of
+each contribution; and
+(d) A complete statement of all expenditures authorized, incurred, or made, including independent
+expenditures. This report shall be made by a permanent committee, inaugural committee, or
+contributing organization to the registry on the last day of the first calendar quarter following the
+registration of the committee with the registry and on the last day of each succeeding calendar quarter
+until such time as the committee terminates. A contributing organization shall file a report of
+contributions received and expenditures on a form provided or using a format approved by the registry
+not later than the last day of each calendar quarter in which contributions are received or expenditures
+are made. All reports to the registry shall be received on or before each filing deadline, and any report
+received by the registry within two (2) business days after each filing deadline shall be deemed timely
+filed.
+(7) If the final statement of a candidate, campaign committee, independent expenditure-only committee, or
+political issues committee shows an unexpended balance of contributions, continuing debts and obligations, or
+an expenditure deficit, the campaign treasurer shall file with the registry a supplemental statement of
+contributions and expenditures not more than thirty (30) days after the deadline for filing the final statement.
+Subsequent supplemental statements shall be filed annually, to be received by the registry by December 1 of
+each year, until the account shows no unexpended balance, continuing debts and obligations, expenditures, or
+deficit. All post-election reports to the registry shall cover campaign activity during the entire reporting period
+and must be received by the registry within two (2) business days after the date the reporting period ends to be
+deemed timely filed. All contributions shall be subject to KRS 121.150 as of the date of the election in which
+the candidate appeared on the ballot.
+(8) All reports filed under the provisions of this chapter shall be a matter of public record open to inspection by
+any member of the public immediately upon receipt of the report by the registry.
+(9) A candidate or slate of candidates is relieved of the duty personally to file reports and keep records of receipts
+and expenditures if the candidate or slate states in writing or on forms provided by the registry that:
+(a) Within five (5) business days after personally receiving any contributions, the candidate or slate of
+candidates shall surrender possession of the contributions to the treasurer of their campaign committee
+without expending any of the proceeds thereof. No contributions shall be commingled with the
+candidate's or slated candidates' personal funds or accounts. Contributions received by check, money
+order, or other written instrument shall be endorsed directly to the campaign committee and shall not be
+cashed or redeemed by the candidate;
+(b) The candidate or slate of candidates shall not make any unreimbursed expenditure for the campaign,
+except that this paragraph does not preclude a candidate or slate from making an expenditure from
+personal funds to the designated campaign committee, which shall be reported by the committee as a
+contribution received; and
+(c) The waiver shall continue in effect as long as the candidate or slate of candidates complies with the
+conditions under which it was granted.
+(10) (a) No candidate, slate of candidates, campaign committee, independent expenditure-only committee,
+political issues committee, or contributing organization shall use or permit the use of contributions or
+funds solicited or received for the person or in support of or opposition to a public issue which will
+appear on the ballot to:
+
+Section 42:
+1. Further the candidacy of the person for a different public office;
+CHAPTER 57 13
+
+Section 43:
+2. Support or oppose a different public issue; or
+
+Section 44:
+3. Further the candidacy of any other person for public office.
+(b) Nothing in this subsection shall be deemed to prohibit a candidate or slate of candidates from using
+funds in a campaign account to contribute directly to another candidate or slate of candidates for state
+or federal office, or to purchase admission tickets for[, or contribute to,] any fundraising event or
+testimonial affair for another candidate or slate of candidates for state or federal office, if the amount of
+the purchase or contribution does not exceed the individual contribution limit contained in KRS
+
+Section 45:
+121.150(6) or 52 U.S.C. sec. 30116 in any one (1) election.
+(c) Any funds or contributions solicited or received by or on behalf of a candidate, slate of candidates, or
+any committee, which has been organized in whole or in part to further any candidacy for the same
+person or to support or oppose the same public issue, shall be deemed to have been solicited or received
+for the current candidacy or for the election on the public issue if the funds or contributions are solicited
+or received at any time prior to the regular election for which the candidate, slate of candidates, or
+public issue is on the ballot.
+(d) Any unexpended balance of funds not otherwise obligated for the payment of expenses incurred to
+further a political issue or the candidacy of a person shall, in whole or in part, at the election of the
+candidate or committee:
+
+Section 46:
+1. Escheat to the State Treasury;
+
+Section 47:
+2. Be returned pro rata to all contributors;
+
+Section 48:
+3. In the case of a partisan candidate, be transferred to:
+a. A caucus campaign committee; or
+b. The state or county executive committee of the political party of which the candidate is a
+member;
+
+Section 49:
+4. Be retained to further the same public issue or to seek election to the same office; or
+
+Section 50:
+5. Be donated to any charitable, nonprofit, or educational institution recognized under Section
+501(c)(3) of the United States Internal Revenue Code of 1986, as amended, and any successor
+thereto, from which the candidate or committee receives no financial benefit.
+(11) If adequate and appropriate agency funds are available to implement this subsection, electronic reporting shall
+be made available by the registry to all candidates, slates of candidates, committees, contributing
+organizations, registered fundraisers, and persons making independent expenditures. The electronic report
+submitted to the registry shall be the official campaign finance report for audit and other legal purposes,
+whether mandated or filed by choice.
+(12) The date that an electronic or on-line report shall be deemed to have been filed with the registry shall be the
+date on which it is received by the registry.
+(13) All electronic or online filers shall affirm, under penalty of perjury, that the report filed with the registry is
+complete and accurate.
+(14) Filers who submit electronic campaign finance reports which are not readable, or cannot be copied shall be
+deemed to not be in compliance with the requirements set forth in this section.
+(15) Beginning with the primary scheduled in calendar year 2020, and for each subsequent election scheduled
+thereafter, reports required to be submitted to the registry involving candidates, slates of candidates,
+committees, contributing organizations, and independent expenditures shall be reported electronically.
+(16) (a) On each form that the registry supplies for the reports required under subsections (2), (3), and (6) of this
+
+Section 51:
+section, the registry shall include an entry reading, "No change since last report."
+(b) If a person or entity that is required to report under subsection (2), (3), or (6) of this section has received
+no money, loans, or other things of value from any source since the date of its last report and has not
+authorized, incurred, or made any expenditures since that date, the person or entity may check or
+otherwise designate the entry that reads, "No change since last report." A person or entity designating
+this entry in a report shall state the balance carried forward from the last report but need not specify
+receipts or expenditures in further detail.
+Legislative Research Commission PDF Version
+14 ACTS OF THE GENERAL ASSEMBLY
+Section 9. KRS 121.190 is amended to read as follows:
+(1) All newspaper or magazine advertising, posters, circulars, billboards, handbills, sample ballots, and paid-for
+television or radio announcements, or any other type of general public political advertising, which expressly
+advocate the election or defeat of a clearly identified candidate, slate of candidates, or group of candidates for
+nomination or election to any public office, or expressly advocate or oppose a ballot measure, shall be
+identified by the words "paid for by" followed by the name and address of the individual or committee which
+paid for the communication; except that if paid for by a candidate, slate of candidates, or campaign committee,
+it shall be identified only by the words "paid for by" followed by the name of the candidate, slate of
+candidates, or campaign committee, whichever is applicable. For television and radio broadcasts, compliance
+with Federal Communications Commission regulations regarding sponsored programs and broadcasts by
+candidates for public office shall be considered compliance with this section.
+(2) The disclaimer described in subsection (1) of this section shall appear and be presented in a clear and
+conspicuous manner to give the reader or observer adequate notice of the identity of the purchaser of the
+communication. A disclaimer does not comply with this section if the disclaimer is difficult to read or if the
+placement of the disclaimer is easily overlooked.
+(3) The provisions of subsection (1) of this section shall not apply to:
+(a) Any news articles, editorial endorsements, opinion, or commentary writings, or letter to the editor
+printed in a newspaper, magazine, flyer, pamphlet, or other periodical not owned or controlled by a
+candidate or committee;
+(b) Any editorial endorsements or opinions aired by a broadcast facility not owned or controlled by a
+candidate or committee;
+(c) Any communication by a person made in the regular course and scope of the person's business or any
+communication made by a membership organization solely to members of the organization and the
+members' families; and
+(d) Any communication that refers to any candidate only as part of the popular name of a bill or statute.
+(4) (a) A person shall not use, cause or permit to be used, or continue to use any published, distributed, or
+broadcast political advertising containing express advocacy that the person knows does not include the
+disclosure required by subsection (1) of this section. A person is presumed to know that the use of
+political advertising is prohibited by this subsection if the registry notifies the person in writing that the
+use is prohibited.
+(b) A person who learns that political advertising signs that have been distributed do not include the
+disclosure required by subsection (1) of this section or include a disclosure that does not comply with
+subsection (1) of this section does not commit a violation of this subsection if the person makes a good-
+faith attempt to remove or correct those signs within forty-eight (48) hours and provides the registry
+with proof of correction.
+(5) The management of newspapers and magazines shall keep a one (1) year record of all statements, articles, or
+advertisements referred to in subsection (1) of this section, that appear in their publications, however, nothing
+in subsection (1) of this section shall be construed to require editors or editorial writers of newspapers and
+magazines to identify themselves in the manner therein required with any article or editorial written by them as
+part of their duties as an employee or employer.
+Signed by Governor March 24, 2025.
+[DELETED:  " " " " t s o o o ( o m s c o s o c f " e c w m o ( o m p w r " H H S S S a t a c a d b r p b t " " o t a c c i e c f p c p i c i c c c o p e c w i e a o i t b a p A]
+[DELETED:  " r " o m a g w m c t c s o c " " P P o a p w a r t a c s o c c o G o f i a w c o a a r w i l t t r P N S A A " m a p w h r c o m e h a a " B A U t c r o a p o l t]
+[DELETED:  " a p i a o s h b a t h o h c i o t n o t t " " T I m w a c c o c w a c s o I T I m w a c c o c w a p i I " r m t u t e m w o " " " " " " " A A A A]
+[DELETED:  A A A " A I " P M T C D " b U A a p i c h b r t c s n k o w A p i c s a i i r t i h n k o w r A A U T W f ( h o m a i e s o o a b]
+[DELETED:  C t t r t t p o e h n k o w a f A A A M S a p t m a d c o e t i a b D N T a t h v S 2 o 3 o t A s b p f o o n I P I I p e s t r t f o p c b m a e p T A A W i e a w t f s b d i a w t f o I t W]
+[DELETED:  I r o s a t l m b e f r c o m I I S I A A A N c c o c o s p f i a c a t b f a p o t f a c e " c w a f f a b a a c r a o n t i r c p p o a i a a p c w c o p v p a c r e o f i a c a f a p m u b o A]
+[DELETED:  C u t f t d ( p y t a p p o c c C M U A A a e c o s t m o i s e t P f f i f l s w d a m a f h o h [ I F a v w w n c k o t v t r t a o F a v w w c k i a t r t m f c ( 1 P o e i e o f t d ( i a o ( e c o m e w a v t b a h o h w i s C a s o c w a t a r E A t A]
+[DELETED:  F d i p ( o t s f f n p a e a s F a s e a c o s o c s f a r f 1 A A c o s o c t i e f c f r f t r o t e b u t a o c o A A d s f i o t t c o s o c E a E A w a p i c a a w c p t h f a e t a p w m l b a w c i c a c t o s o c e a p i s 2 o p ( o t m t r t t c o s o t e t I d o d t c o s o c e a p i 2 o p ( o t s m e t r p i 1 o p ( o t s n t f ( t p]
+[DELETED:  A E c o s o c t h f a r f e o a p i w c h f a r f e s b b b i t u i i 1 E t p ( ( o ( o t s t a c o m o w c t a c o m e i o t a l i a o ( e w r t r f E c c o p i c t i e f f 1 A A c e f u t s f a w a t I ( S F o t m b s o p i r b t p F T A I a t t r r i p ( o t s t s e]
+[DELETED:  F F T A T 1 t D T J r s c t f J 1 t J 3 I t e c b f a s r b t r t ( ( E f c o s o c c c o p i c f r r p t s ( o t s e c F o t m b s o p i r b t p F e c i e o o h d ( m t a c o T A R]
+[DELETED:  a C s s o s o c c c f c p i c a f w f t f p s c o s o c o f r o t o f a e c q t e w t l A C s o c o c s m a r r b A c s o c c c i e A c s o c c c i e A c s o c c c i e A A I e a f a c o s o c f a s s o o a e a f a c o c c o t a c o s o n u w h o s i d b a t a o t p T l s b b t c t i c t r f o o E]
+[DELETED:  F F A A c s o a e a i o m i i T r s b m b a p c i c o o t r t l d t f c q t s t a t c t A c o s f a r o I t f s o a c c c i e c o e d t c t s f w t r a s s o A A W e a o t p t N c s b c w t T T ( N c s o c c c i e c F]
+[DELETED:  S F N p o c d n e t i c l c i K A A E B I A T B B d t a c n o e i r u S I m a b t r t a c s o c c c r f a p m i e T e r T A F B r r t b s t t r i c s o c ( O I i m a e s t d t p o e c o]
+[DELETED:  A o e t a p o o e a o a b m s b s b i o b t w " f b f b t n o t c s o F C C r r s p a b b T d d i s ( o t s s a a b p i a c a T A n a e o c w o l t e A A A ( A A p w l t p a s t h b d d n i t T]
+
+
+================================================================================
+
+Raw Text:
+CHAPTER 57 1
+CHAPTER 57
+( HB 45 )
+AN ACT relating to campaign finance.
+Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+Section 1. KRS 121.015 is amended to read as follows:
+As used in this chapter:
+(1) "Registry" means the Kentucky Registry of Election Finance;
+(2) "Election" means any primary, regular, or special election to fill vacancies regardless of whether a candidate or
+slate of candidates is opposed or unopposed in an election. Each primary, regular, or special election shall be
+considered a separate election;
+(3) "Committee" includes the following:
+(a) "Campaign committee," which means one (1) or more persons who receive contributions and make
+expenditures to support or oppose one (1) or more specific candidates or slates of candidates for
+nomination or election to any state, county, city, or district office, that is authorized by the candidate or
+slate of candidates to receive contributions, make expenditures, and generally conduct a campaign for
+the candidate or slate of candidates, but does not include an entity established solely by a candidate
+which is managed solely by a candidate and a campaign treasurer and whose name is generic in nature,
+such as "Friends of (the candidate)," and does not reflect that other persons have structured themselves
+as a committee, designated officers of the committee, and assigned responsibilities and duties to each
+officer with the purpose of managing a campaign to support or oppose a candidate in an election;
+(b) "Independent expenditure-only committee," which means one (1) or more persons who receive
+unlimited contributions for the purpose of making only independent expenditures to support or oppose
+one (1) or more specific candidates or slates of candidates for nomination or election to any state,
+county, city, or district office;
+(c) "Caucus campaign committee," which means members of one (1) of the following caucus groups who
+receive contributions and make expenditures to support or oppose one (1) or more specific candidates or
+slates of candidates for nomination or election, or a committee:
+1. House Democratic caucus campaign committee;
+2. House Republican caucus campaign committee;
+3. Senate Democratic caucus campaign committee;
+4. Senate Republican caucus campaign committee; or
+5. Subdivisions of the state executive committee of a minor political party, which serve the same
+function as the above-named committees, as determined by regulations promulgated by the
+registry;
+(d) "Political issues committee," which means three (3) or more persons joining together to advocate or
+oppose a[ constitutional amendment or public question which appears on the] ballot measure if that
+committee receives or expends money in excess of one thousand dollars ($1,000);
+(e) "Permanent committee," which means a group of individuals, including an association, committee, or
+organization, other than a campaign committee, independent expenditure-only committee, federally
+registered political committee, political issues committee, inaugural committee, caucus campaign
+committee, or party executive committee, which is established as, or intended to be, a permanent
+organization having as a primary purpose expressly advocating the election or defeat of one (1) or more
+clearly identified candidates, slates of candidates, or political parties, which functions on a regular basis
+throughout the year;
+(f) An executive committee of a political party; and
+Legislative Research Commission PDF Version
+
+2 ACTS OF THE GENERAL ASSEMBLY
+(g) "Inaugural committee," which means one (1) or more persons who receive contributions and make
+expenditures in support of inauguration activities for any candidate or slate of candidates elected to any
+state, county, city, or district office;
+(4) "Contributing organization" means a group which merely contributes to candidates, slates of candidates,
+campaign committees, caucus campaign committees, or executive committees from time to time from funds
+derived solely from within the group, and which does not solicit or receive funds from sources outside the
+group itself. Any contributions made by the groups in excess of one hundred dollars ($100) shall be reported to
+the registry;
+(5) "Testimonial affair" means an affair held in honor of a person who holds or who is or was a candidate for
+nomination or election to a political office in this state designed to raise funds for any purpose not charitable,
+religious, or educational;
+(6) "Contribution" means any:
+(a) Payment, distribution, loan, deposit, or gift of money or other thing of value, to a candidate, his or her
+agent, a slate of candidates, its authorized agent, a committee, or contributing organization. As used in
+this subsection, "loan" shall include a guarantee, endorsement, or other form of security where the risk
+of nonpayment rests with the surety, guarantor, or endorser, as well as with a committee, contributing
+organization, candidate, slate of candidates, or other primary obligor. No person shall become liable as
+surety, endorser, or guarantor for any sum in any one (1) election which, when combined with all other
+contributions the individual makes to a candidate, his or her agent, a slate of candidates, its agent, a
+committee, or a contributing organization, exceeds the contribution limits provided in KRS 121.150;
+(b) Payment by any person other than the candidate, his or her authorized treasurer, a slate of candidates, its
+authorized treasurer, a committee, or a contributing organization, of compensation for the personal
+services of another person which are rendered to a candidate, slate of candidates, committee, or
+contributing organization, or for inauguration activities;
+(c) Goods, advertising, or services with a value of more than one hundred dollars ($100) in the aggregate in
+any one (1) election which are furnished to a candidate, slate of candidates, committee, or contributing
+organization or for inauguration activities without charge, or at a rate which is less than the rate
+normally charged for the goods or services; or
+(d) Payment by any person other than a candidate, his or her authorized treasurer, a slate of candidates, its
+authorized treasurer, a committee, or contributing organization for any goods or services with a value of
+more than one hundred dollars ($100) in the aggregate in any one (1) election which are utilized by a
+candidate, slate of candidates, committee, or contributing organization, or for inauguration activities;
+(7) Notwithstanding the foregoing meanings of "contribution," the word shall not be construed to include:
+(a) Services provided without compensation by individuals volunteering a portion or all of their time on
+behalf of a candidate, a slate of candidates, committee, or contributing organization;
+(b) A loan of money by any financial institution doing business in Kentucky made in accordance with
+applicable banking laws and regulations and in the ordinary course of business; or
+(c) An independent expenditure by any individual or permanent committee;
+(8) "Candidate" means any person who has received contributions or made expenditures, has appointed a
+campaign treasurer, or has given his or her consent for any other person to receive contributions or make
+expenditures with a view to bringing about his or her nomination or election to a nonfederal public office,
+except as provided in subsection (10)(b) of Section 8 of this Act[federal office];
+(9) "Slate of candidates" means:
+(a) Between the time a certificate or petition of nomination has been filed for a candidate for the office of
+Governor under KRS 118.365 and the time the candidate designates a running mate for the office of
+Lieutenant Governor under KRS 118.126, a slate of candidates consists of the candidate for the office
+of Governor; and
+(b) After that candidate has designated a running mate under KRS 118.126, that same slate of candidates
+consists of that same candidate for the office of Governor and the candidate's running mate for the
+office of Lieutenant Governor. Unless the context requires otherwise, any provision of law that
+applies to a candidate shall also apply to a slate of candidates;
+
+CHAPTER 57 3
+(10) "Knowingly" means, with respect to conduct or to a circumstance described by a statute defining an offense,
+that a person is aware or should have been aware that his or her conduct is of that nature or that the
+circumstance exists;
+(11) "Fundraiser" means an individual who directly solicits and secures contributions on behalf of a candidate or
+slate of candidates for a statewide-elected state office or an office in a jurisdiction with a population in excess
+of two hundred thousand (200,000) residents;
+(12) "Independent expenditure" means:
+(a) The expenditure of money or other things of value for a communication which expressly advocates the
+election or defeat of a clearly identified candidate or slate of candidates, and which:
+1. Is made without any coordination, consultation, or cooperation with any candidate, slate of
+candidates, campaign committee, or any authorized person acting on behalf of any of them[,];
+and[ which ]
+2. Is not made in concert with, or at the request or suggestion of any candidate, slate of candidates,
+campaign committee, or any authorized person acting on behalf of any of them; or
+(b) The expenditure of money or other things of value for a communication which expressly advocates
+or opposes a ballot measure, and which:
+1. Is made without any coordination, consultation, or cooperation with any political issues
+committee, or any authorized person acting on behalf of a political issues committee; and
+2. Is not made in concert with, or at the request or suggestion of, any political issues committee,
+or any authorized person acting on behalf of a political issues committee;
+(13) "Electronic reporting" means the use of technology, having electrical, digital, magnetic, wireless, optical,
+electromagnetic, or similar capabilities, by which an individual or other entity submits, compiles, or transmits
+campaign finance reports to the registry, or by which the registry receives, stores, analyzes, or discloses the
+reports;
+(14) "Security procedure" means a procedure employed for the purpose of verifying that an electronic signature,
+record, or performance is that of a specific person or for detecting changes or errors in the information in an
+electronic record. The term includes a procedure that requires the use of algorithms or other codes, identifying
+words or numbers, encryption, or callback or other acknowledgment procedures;
+(15) "Electronic signature" means an electronic sound, symbol, or process attached to or logically associated with a
+record and executed or adopted by a person with the intent to sign the record;
+(16) "Filer" means any candidate, a slate of candidates, committee, or other individual or entity required to submit
+financial disclosure reports to the registry;
+(17) "Filer-side software" means software provided to or used by the filer that enables transmittal of financial
+reports to the registry;
+(18) "Form" means an online web page or an electronic document designed to capture, validate, and submit data for
+processing to the registry, unless the context otherwise prescribes;[ and]
+(19) "Reasonable cause" means an event, happening, or circumstance entirely beyond the knowledge or control of
+the candidate, slate of candidates, or committee, which has exercised due care and prudence in maintaining the
+records of the campaign or committee pursuant to statute or administrative regulation;
+(20) "Foreign national" means:
+(a) An individual who is not a citizen or lawful permanent resident of the United States;
+(b) A government, political subdivision, or municipality of a foreign country;
+(c) A foreign political party;
+(d) Any entity, including but not limited to a partnership, association, corporation, organization, or other
+combination of persons, that is organized under the laws of or has its principal place of business in a
+foreign country; or
+Legislative Research Commission PDF Version
+
+4 ACTS OF THE GENERAL ASSEMBLY
+(e) Any entity in the United States, including but not limited to a partnership, association, corporation,
+or organization that is wholly or majority owned by any foreign national, unless:
+1. Any contribution or expenditure the entity makes derives entirely from funds generated by the
+entity's United States operations; and
+2. All decisions concerning the contribution or expenditure, except for setting overall budget
+amounts, are made by individuals who are United States citizens or permanent residents;
+(21) "Ballot measure" means a question, other than the nomination or election of a candidate for public office,
+which has been:
+(a) Approved by a political subdivision or the General Assembly and is required by law to be placed
+before the voters of the territory affected; or
+(b) Initiated or referred by citizen petition as authorized by KRS 242.020 and placed before the voters of
+the territory affected;
+(22) "Preliminary activity" includes but is not limited to:
+(a) Participating in focus groups;
+(b) Making telephone calls;
+(c) Traveling;
+(d) Conducting polls; and
+(e) Drafting ballot measure language; and
+(23) "Tax-exempt organization" means an organization described in 26 U.S.C. sec. 501(c) and exempt from
+federal taxation under 26 U.S.C. sec. 501(a). This subsection shall not be construed to treat a political
+organization under 26 U.S.C. sec. 527 as a tax-exempt organization for purposes of this chapter.
+SECTION 2. A NEW SECTION OF KRS CHAPTER 121 IS CREATED TO READ AS FOLLOWS:
+(1) Upon registering a political issues committee, the treasurer shall file an accompanying certification that no
+preliminary activity was directly or indirectly funded by a foreign national.
+(2) After a political issues committee has been registered, the committee shall not knowingly or willfully
+receive, solicit, or accept contributions or expenditures that are directly or indirectly funded by a foreign
+national.
+(3) A political issues committee shall affirm in its report that it has not knowingly or willfully received,
+solicited, or accepted contributions or expenditures from a foreign national.
+(4) Any person who makes an independent expenditure in support or opposition of a ballot measure shall keep
+records of any contribution or independent expenditure and retain those records for six (6) years following
+the date the contribution or expenditure was made.
+(5) A political issues committee that receives a contribution or makes expenditures shall keep records of any
+contribution received or expenditure made and retain those records for six (6) years following the date the
+contribution was received or the expenditure was made.
+SECTION 3. A NEW SECTION OF KRS CHAPTER 121 IS CREATED TO READ AS FOLLOWS:
+(1) Upon a political issues committee's receipt of a contribution, the treasurer shall obtain from the donor an
+affirmation that the donor is not a foreign national and has not knowingly or willfully accepted funds
+aggregating in excess of one hundred thousand dollars ($100,000) from a foreign national during the four
+(4) years immediately preceding the date the contribution was made.
+(2) The treasurer of a political issues committee shall affirm in its report that the donor associated with each
+contribution is not a foreign national and has not knowingly or willfully received, solicited, or accepted,
+whether directly or indirectly, contributions or expenditures aggregating in excess of one hundred thousand
+dollars ($100,000) from a foreign national during the four (4) years immediately preceding the date the
+contribution was made.
+(3) Within forty-eight (48) hours of making an independent expenditure supporting or opposing a ballot
+measure, the person or entity making the expenditure shall:
+
+CHAPTER 57 5
+(a) Certify to the registry that the person or entity has not knowingly or willfully accepted funds
+aggregating in excess of one hundred thousand dollars ($100,000) from a foreign national for four
+(4) years immediately preceding the date the expenditure was made, and that it will not do so through
+the remainder of the calendar year in which the ballot measure will appear on the ballot; and
+(b) Affirm in the person's or entity's report that the person or entity has not knowingly or willfully
+accepted funds aggregating in excess of one hundred thousand dollars ($100,000) from a foreign
+national during the four (4) years immediately preceding the date the expenditure was made.
+(4) Any determination that an entity required to file one (1) or more certifications under subsection (1) or (3)(a)
+of this section has accepted funds aggregating in excess of one hundred thousand dollars ($100,000) from
+one (1) or more foreign nationals during the four (4) years immediately preceding the date the contribution
+or independent expenditure at issue was made shall create a presumption that the person or political issues
+committee has violated this section.
+SECTION 4. A NEW SECTION OF KRS CHAPTER 121 IS CREATED TO READ AS FOLLOWS:
+(1) A foreign national shall not, directly or indirectly:
+(a) Make a donation, contribution, or expenditure in support or opposition of a ballot measure;
+(b) Solicit another person to make a donation, contribution, or expenditure to influence a ballot
+measure; or
+(c) Direct, dictate, control, or participate in another person's decision to influence a ballot measure.
+(2) Nothing in this section shall be deemed to create or eliminate any donor disclosure rights or duties beyond
+those specifically enumerated in Section 6 of this Act.
+SECTION 5. A NEW SECTION OF KRS CHAPTER 121 IS CREATED TO READ AS FOLLOWS:
+(1) The registry may bring a civil action to enforce Sections 2 and 3 of this Act and a committee, person, or
+entity alleged to have violated Section 2 or 3 of this Act shall be provided full opportunity of notice,
+discovery, and an opportunity to be heard before being found liable for a violation of Section 2 or 3 of this
+Act.
+(2) In all actions brought under subsection (1) of this section, the registry bears the burden of proof and the
+action shall proceed as follows:
+(a) Prior to discovery, the court shall set a hearing to determine whether there is probable cause that a
+committee or person has violated Section 2 or 3 of this Act;
+(b) If, after the hearing in paragraph (a) of this subsection, the court determines that no probable cause
+exists to believe that a violation of Section 2 or 3 of this Act has occurred, the court shall enter an
+order of dismissal with prejudice;
+(c) If, after the hearing in paragraph (a) of this subsection, the court determines that probable cause
+does exist to believe that a violation of Section 2 or 3 of this Act has occurred, the court shall enter
+an order to that effect and the case shall proceed to trial on an expedited basis. Subject to Section 6
+of this Act, the entity alleged to have violated Section 2 or 3 of this Act may, prior to the scheduling of
+trial, present evidence sufficient to rebut the finding of probable cause by making an ex parte
+presentation of records to the court for in camera review; and
+(d) The losing party under paragraph (c) of this subsection has the right to:
+1. An interlocutory expedited appeal; and
+2. A stay of proceedings in the trial court.
+(3) Within thirty (30) days of a finding that a committee has violated Section 2 or 3 of this Act, the committee
+shall refund the contribution to the original contributor. In the event of an appeal, the contribution shall be
+placed in escrow, after which the funds shall be disbursed in accordance with the final order. If the
+committee is unable to return the funds, the directors, officers, or executive members of the committee shall
+be liable in their personal capacity, jointly and severally, for the refund of said funds.
+(4) Within thirty (30) days of a finding that any person or entity required to report independent expenditures
+has violated Section 2 or 3 of this Act, the person or entity making the independent expenditure shall
+Legislative Research Commission PDF Version
+
+6 ACTS OF THE GENERAL ASSEMBLY
+disgorge funds in an amount equal to the reported cost of the independent expenditure to the registry. If the
+entity is unable to disgorge the requisite funds, the directors, officers, or executive members of the entity
+shall be liable in their personal capacities, jointly and severally, for the payment of the amount due. In the
+event of an appeal, the funds subject to disgorgement shall be placed in escrow, after which they shall be
+disbursed in accordance with the final order.
+(5) If any lobbyist, as defined in KRS 11A.010, violates Section 2 or 3 of this Act, the lobbyist's registration may
+be revoked or suspended and the lobbyist may be enjoined from receiving compensation or making
+expenditures for lobbying.
+(6) If the registry prevails in an action brought under this section, the court may award:
+(a) Injunctive relief sufficient to prevent the defendant from violating or engaging in acts that aid or
+abet violations of Sections 2 and 3 of this Act; and
+(b) Statutory damages up to two (2) times the amount of the prohibited contribution or expenditure.
+(7) In addition to the penalties in subsection (6) of this section, and any other remedies provided by law, if the
+court finds a knowing or willful violation of Section 2 or 3 of this Act, the court may assess a penalty of up
+to three (3) times the statutory damages.
+SECTION 6. A NEW SECTION OF KRS CHAPTER 121 IS CREATED TO READ AS FOLLOWS:
+(1) A lawful donor to a tax-exempt organization possesses a right of privacy in his or her donations. Any
+investigation of an alleged violation of Section 2 or 3 of this Act, or lawful court order in an action brought
+under Section 5 of this Act, shall shield the identity of lawful donors as far as possible. A state or local
+governmental entity, court, or officer of the court shall not collect or require the submission of information
+on the identity of any donor to a tax-exempt organization other than those directly related to an alleged
+violation of Section 2 or 3 of this Act.
+(2) A state or local governmental entity, court, or officer of the court shall not disclose to the public, or to
+another government official not directly involved in the investigation, information revealing the identity of
+any donor to a tax-exempt organization, unless the information is regarding the identity of a donor that
+engaged in conduct prohibited by Section 2 or 3 of this Act after a final determination has been made that
+the donor violated Section 2 or 3 of this Act.
+(3) Any state or local governmental entity, court, or officer of the court who knowingly or willfully violates
+subsection (2) of this section shall be guilty of a Class A misdemeanor.
+Section 7. KRS 121.175 is amended to read as follows:
+(1) No candidate, committee, or contributing organization shall permit funds in a campaign account to be
+expended for any purpose other than for allowable campaign expenditures. "Allowable campaign
+expenditures" means expenditures including reimbursement for actual expenses, made directly and primarily
+in support of or opposition to a candidate, constitutional amendment, or public question which will appear on
+the ballot and includes, but is not limited to, expenditures for staff salaries, gifts and meals for volunteer
+campaign workers and fundraisers, food and beverages provided at a campaign rally, advertising, office
+space, necessary travel if reported, campaign paraphernalia, purchases of advertisements in athletic and
+scholastic publications, communications with constituents or prospective voters, polling and consulting,
+printing, graphic arts, or advertising services, postage, office supplies, stationery, newsletters, and equipment
+which is used primarily for the administration of the campaign, or for fees incurred from legal services while
+defending a matter before the Kentucky Legislative Ethics Commission in which the final adjudication is
+rendered in favor of the candidate. "Allowable campaign expenditures" does not include necessary travel
+unless reported, expenditures of funds in a campaign account for any purpose made unlawful by other
+provisions of the Kentucky Revised Statutes or which would bestow a private pecuniary benefit, except for
+payment of the reasonable value of goods and services provided upon a candidate, member of the candidate's
+family, committee, or contributing organization, or any of their employees, paid or unpaid, including: tickets to
+an event which is unrelated to a political campaign or candidacy; items of personal property for distribution to
+prospective voters except items bearing the name, likeness, or logo of a candidate or a campaign-related
+communication; expenditures to promote or oppose a candidacy for a leadership position in a governmental,
+professional, or political organization, or other entity; and equipment or appliances the primary use of which is
+for purposes outside of the campaign. The provisions of KRS 121.190 notwithstanding, a candidate shall not
+be required to include a disclaimer on campaign stationery purchased with funds from his campaign account.
+(2) A member of the General Assembly may utilize funds in his or her campaign account to:
+
+CHAPTER 57 7
+(a) Contribute up to five thousand dollars ($5,000) per year to a political party or caucus campaign
+committee;
+(b) Contribute directly to another candidate, slate of candidates, political party, or caucus campaign
+committee until his or her campaign funds have been exhausted and the account has been closed, if
+the amount of the contribution does not exceed the contribution limits contained in KRS 121.150(6)
+and (11);
+(c) Make allowable campaign expenditures in both election years and nonelection years;
+(d)[(c)] Upon approval by the President of the Senate or the Speaker of the House of Representatives,
+depending on the member's chamber:
+1. Attend a conference, meeting, reception, or similar event; or
+2. Attend an educational course or seminar that maintains or improves skills employed by the
+member in carrying out the duties of his or her elective office; and
+(e)[(d)] Pay for fees incurred from legal services while defending a matter arising from his or her
+campaign or election or the performance of his or her official duties.
+(3) [By December 31, 1993, ]The registry shall promulgate administrative regulations to implement and enforce
+the provisions of subsection (1) of this section.
+(4) In lieu of the penalties provided in KRS 121.140 and 121.990 for a violation of this section, the registry may,
+after hearing:
+(a) For a violation which was not committed knowingly, order the violator to repay the amount of
+campaign funds which were expended for other than allowable campaign expenditures, and if not repaid
+within thirty (30) days, may impose a fine of up to one hundred dollars ($100) for each day the amount
+is not repaid, up to a maximum fine of one thousand dollars ($1,000); and
+(b) For a violation which was committed knowingly, in addition to referring the matter for criminal
+prosecution, order the violator to repay the amount of campaign funds which were expended for other
+than allowable campaign expenditures, and if not repaid within thirty (30) days, may impose a fine of
+up to one hundred dollars ($100) for each day the amount is not repaid, up to a maximum fine of one
+thousand dollars ($1,000).
+Section 8. KRS 121.180 is amended to read as follows:
+(1) (a) 1. Persons becoming a candidate as defined in KRS 121.015(8) or slate of candidates as defined in
+KRS 121.015(9), or a political issues committee as defined in KRS 121.015(3)(d), shall submit a
+form prescribed and furnished by the registry indicating whether they intend to raise or spend in
+excess of five thousand dollars ($5,000) in any one (1) election, or that contributions will not be
+accepted or expended in excess of five thousand dollars ($5,000) in any one (1) election.
+Candidates and slates of candidates shall submit this form to the registry within five (5) days of
+receiving contributions or making expenditures with a view to bringing about his or her
+nomination or election to public office, or within five (5) days of filing papers to run for public
+office, whichever is sooner. Candidates and slates of candidates who advance to a regular
+election following a primary shall submit this form to the registry within five (5) days after the
+date of the primary. Political issues committees shall submit the form to the registry within five
+(5) days of meeting the definition of political issues committee in KRS 121.015(3)(d).
+2. Each candidate, slate of candidates, or political issues committee indicating that contributions
+will not be accepted or expended in excess of five thousand dollars ($5,000) in any one (1)
+election shall be exempt from filing any campaign finance reports required by subsection (3) of
+this section.
+3. A separate form shall be required for each primary, regular, or special election in which the
+candidate or slate of candidates participates or in which the public question appears on the ballot.
+The form shall be submitted by means of electronic filing with the registry.
+4. Any person acting as a candidate or slate of candidates by receiving contributions or making
+expenditures with a view to bringing about his or her nomination or election to public office, or
+filing papers to run for public office, or group of persons acting as a political issues committee,
+Legislative Research Commission PDF Version
+
+8 ACTS OF THE GENERAL ASSEMBLY
+who fails to file this form as required, or who fails to remedy a deficiency within five (5) days,
+may be fined by the registry an amount not to exceed two hundred dollars ($200) per day, up to a
+maximum total fine of five thousand dollars ($5,000).
+(b) For a primary, a candidate or slate of candidates shall file a request for exemption not later than the
+deadline described in paragraph (a) of this subsection for filing nomination papers and, except as
+provided in subparagraph 2. of paragraph (c) of this subsection, shall be bound by its terms unless it is
+rescinded in writing not later than thirty (30) days preceding the primary. For a regular election, a
+candidate or slate of candidates shall file or rescind in writing a request for exemption not later than
+sixty (60) days preceding the regular election, except as provided in subparagraph 2. of paragraph (c) of
+this subsection. For a special election, a candidate or slate of candidates shall file a request for
+exemption not later than ten (10) days after the candidate or slate of candidates is nominated for a
+special election and shall be bound by its terms unless it is rescinded in writing not later than thirty (30)
+days preceding the special election. A political issues committee chair shall file a request for exemption
+when the committee registers with the registry and shall be bound by its terms unless it is rescinded in
+writing not later than thirty (30) days preceding the date the issue appears on the ballot.
+(c) 1. A candidate or slate of candidates that revokes a request for exemption in a timely manner shall
+file all reports required of a candidate intending to raise or spend in excess of five thousand
+dollars ($5,000) in an election. To revoke the request for an exemption, the candidate or slate of
+candidates shall file the appropriate form with the registry not later than the deadline for filing a
+revocation.
+2. A candidate or slate of candidates that is exempted from campaign finance reporting
+requirements pursuant to paragraph (a) of this subsection but who accepts contributions or makes
+expenditures in excess of the exempted amount in an election, shall file all applicable reports
+required for the remainder of that election, based upon the amount of contributions or
+expenditures the candidate or slate of candidates accepts or receives in that election.
+(d) Any candidate or slate of candidates that is subject to a June or August filing deadline and that intends
+to execute a request for exemption shall file the appropriate request for exemption not later than the
+deadline described in paragraph (a) of this subsection and, except as provided in subparagraph 2. of
+paragraph (c) of this subsection, shall be bound by its terms unless it is rescinded in writing not later
+than sixty (60) days preceding the regular election. A candidate or slate of candidates that is covered by
+this paragraph shall have the same reversion rights as those provided in subparagraph 1. of paragraph
+(c) of this subsection.
+(e) Any candidate or slate of candidates that will appear on the ballot in a regular election that has signed a
+request for exemption for that election may exercise the reversion rights provided in subparagraph 1. of
+paragraph (c) of this subsection if a candidate or slate of candidates that is subject to a June or August
+filing deadline subsequently files in opposition to the candidate or slate of candidates. Except as
+provided in subparagraph 2. of paragraph (c) of this subsection, a candidate or slate of candidates
+covered by this paragraph shall comply with the deadline for rescission provided in subparagraph 1. of
+paragraph (c) of this subsection.
+(f) Except as provided in subparagraph 2. of paragraph (c) of this subsection, any candidate or slate of
+candidates that has filed a request for exemption for a regular election that later is opposed by a person
+who has filed a declaration of intent to receive write-in votes may rescind the request for exemption and
+exercise the reversion rights provided in subparagraph 1. of paragraph (c) of this subsection.
+(g) Any candidate or slate of candidates that has filed a request for exemption may petition the registry to
+determine whether another person is campaigning as a write-in candidate prior to having filed a
+declaration of intent to receive write-in votes, and, if the registry determines upon a preponderance of
+the evidence that a person who may later be a write-in candidate is conducting a campaign, the
+candidate or slate of candidates, except as provided in subparagraph 2. of paragraph (c) of this
+subsection, may petition the registry to permit the candidate or slate of candidates to exercise the
+reversion rights provided in subparagraph 1. of paragraph (c) of this subsection.
+(h) If the opponent of a candidate or slate of candidates is replaced due to his or her withdrawal because of
+death, disability, or disqualification, the candidate or slate of candidates, except as provided in
+subparagraph 2. of paragraph (c) of this subsection, may exercise the reversion rights provided in
+subparagraph 1. of paragraph (c) of this subsection not later than fifteen (15) days after the party
+executive committee nominates a replacement for the withdrawn candidate or slate of candidates.
+
+CHAPTER 57 9
+(i) A person intending to be a write-in candidate for any office in a regular or special election may execute
+a request for exemption under paragraph (a) of this subsection and shall be bound by its terms unless it
+is rescinded in writing not later than fifteen (15) days preceding the regular or special election. A person
+intending to be a write-in candidate who revokes a request for exemption in a timely manner shall file
+all reports required of a candidate intending to raise or spend in excess of five thousand dollars ($5,000)
+in an election. Except as provided in subparagraph 2. of paragraph (c) of this subsection, a person
+intending to be a write-in candidate who revokes a request for exemption shall file the appropriate form
+with the registry.
+(j) Except as provided in subparagraph 2. of paragraph (c) of this subsection, the campaign committee of
+any candidate or slate of candidates that has filed a request for exemption or a political issues
+committee whose chair has filed a request for exemption shall be bound by its terms unless it is
+rescinded in a timely manner.
+(k) 1. Except as provided in subparagraph 2. of paragraph (c) of this subsection, any candidate, slate of
+candidates, or political issues committee that is exempt from filing campaign finance reports
+pursuant to paragraph (a), (d), or (i) of this subsection that accepts contributions or makes
+expenditures, or whose campaign treasurer accepts contributions or makes expenditures, in
+excess of the applicable limit in any one (1) election without rescinding the request for
+exemption in a timely manner shall comply with all applicable reporting requirements and, in
+lieu of other penalties prescribed by law, pay a fine of not less than five hundred dollars ($500).
+2. Except as provided in subparagraph 2. of paragraph (c) of this subsection, a candidate, slate of
+candidates, campaign committee, or political issues committee that is exempt from filing
+campaign finance reports pursuant to paragraph (a), (d), or (i) of this subsection that knowingly
+accepts contributions or makes expenditures in excess of the applicable spending limit in any one
+(1) election without rescinding the request for exemption in a timely manner shall comply with
+all applicable reporting requirements and shall be guilty of a Class D felony.
+(l) 1. Any candidate exempt from filing under this subsection for a primary shall file a report described
+in subsection (4) of this section.
+2. Any candidate exempt from filing under this subsection for a primary who advances to the
+regular election shall file for an additional exemption under this section for the regular election
+or the candidate shall no longer be exempt from the filing requirements.
+3. In the event a candidate exempt from filing under this subsection is no longer eligible for the
+exemption, he or she shall immediately file for a revocation of the exemption under paragraph
+(c) of this subsection.
+(2) (a) State and county executive committees, and caucus campaign committees shall make a full report, upon
+a prescribed form, to the registry, of all money, loans, or other things of value, received from any
+source, and expenditures authorized, incurred, or made, since the date of the last report, including:
+1. For each contribution of any amount made by a permanent committee, the name and business
+address of the permanent committee, the date of the contribution, the amount contributed, and a
+description of the major business, social, or political interest represented by the permanent
+committee;
+2. For other contributions in excess of one hundred dollars ($100), the full name, address, age if
+less than the legal voting age, the date of the contribution, the amount of the contribution, and the
+employer and occupation of each contributor. If the contributor is self-employed, the name under
+which he or she is doing business shall be listed;
+3. The total amount of cash contributions received during the reporting period; and
+4. A complete statement of expenditures authorized, incurred, or made. The complete statement of
+expenditures shall include the name and address of each person to whom an expenditure is made
+in excess of twenty-five dollars ($25), and the amount, date, and purpose of each expenditure.
+(b) In addition to the reporting requirements in paragraph (a) of this subsection, the state executive
+committee of a political party that has established a building fund account under KRS 121.172 shall
+make a full report, upon a prescribed form, to the registry, of all contributions received from any source,
+Legislative Research Commission PDF Version
+
+10 ACTS OF THE GENERAL ASSEMBLY
+and expenditures authorized, incurred, or made, since the date of the last report for the separate building
+fund account, including:
+1. For each contribution of any amount made by a corporation, the name and business address of
+the corporation, the date of the contribution, the amount contributed, and a description of the
+major business conducted by the corporation;
+2. For other contributions in excess of one hundred dollars ($100), the full name and address of the
+contributor, the date of the contribution, the amount of the contribution, and the employer and
+occupation of each contributor. If the contributor is self-employed, the name under which he or
+she is doing business shall be listed;
+3. The total amount of cash contributions received during the reporting period; and
+4. A complete statement of expenditures authorized, incurred, or made. The complete statement of
+expenditures shall include the name and address of each person to whom an expenditure is made
+in excess of twenty-five dollars ($25), and the amount, date, and purpose of each expenditure.
+(c) The report required by paragraph (a) of this subsection shall be made on a semiannual basis if the
+committee has more than ten thousand dollars ($10,000) in its campaign fund account, and shall be
+received by the registry by January 31 and by July 31. The January report shall cover the period from
+July 1 to December 31. The July report shall cover the period from January 1 to June 30. If the
+committee has less than ten thousand dollars ($10,000) in its campaign fund account the report required
+by paragraph (a) of this subsection shall be made on an annual basis, and shall be received by the
+registry by January 31. If an individual gives a reportable contribution to a caucus campaign committee
+or to a state or county executive committee with the intention that the contribution or a portion of the
+contribution go to a candidate or slate of candidates, the name of the contributor and the sum shall be
+indicated on the committee report. The report required by paragraph (b) of this subsection relating to a
+state executive committee's building fund account shall be received by the registry within two (2)
+business days after the close of each calendar quarter. The receipts and expenditures of funds remitted
+to each political party under KRS 141.071 to 141.073 shall be separately accounted for and reported to
+the registry in the manner required by KRS 121.230. The separate report may be made a separate
+section within the report required by this subsection to be received by the registry by January 31.
+(3) (a) Except for candidates or slates of candidates, campaign committees, or political issues committees
+exempted from reporting requirements pursuant to subsection (1) of this section, each campaign
+treasurer of a candidate, slate of candidates, campaign committee, or political issues committee who
+accepts contributions or expends, expects to accept contributions or expend, or contracts to expend
+more than five thousand dollars ($5,000) in any one (1) election, and each fundraiser who secures
+contributions in excess of five thousand dollars ($5,000) in any one (1) election, shall make a full report
+to the registry, on a form provided or using a format approved by the registry, of all money, loans, or
+other things of value, received from any source, and expenditures authorized, incurred, and made, since
+the date of the last report, including:
+1. For each contribution of any amount made by a permanent committee, the name and business
+address of the permanent committee, the date of the contribution, the amount contributed, and a
+description of the major business, social, or political interest represented by the permanent
+committee;
+2. For each contribution in excess of one hundred dollars ($100) made to any candidate or
+campaign committee or a political issues committee, the full name, address, age if less than the
+legal voting age, the date of the contribution, the amount of the contribution, and the employer
+and occupation of each other contributor. If the contributor is self-employed, the name under
+which he or she is doing business shall be listed;
+3. The total amount of cash contributions received during the reporting period; and
+4. A complete statement of all expenditures authorized, incurred, or made. The complete statement
+of expenditures shall include the name, address, and occupation of each person to whom an
+expenditure is made in excess of twenty-five dollars ($25), and the amount, date, and purpose of
+each expenditure.
+(b) Reports of all candidates, slates of candidates, campaign committees, independent expenditure-only
+committees, political issues committees, and registered fundraisers shall be made as follows:
+
+CHAPTER 57 11
+1. a. Candidates seeking statewide office, slates of candidates, campaign committees for
+candidates seeking statewide office and for slates of candidates, independent expenditure-
+only committees, political issues committees, and fundraisers which file the form
+described in subsection (1)(a) of this section before the year of an election in which the
+candidate, a slate of candidates, or public question shall appear on the ballot, shall file
+financial reports with the registry at the end of the first calendar quarter after persons
+become statewide candidates or slates of candidates, or following registration of the
+committee or fundraiser, and each calendar quarter thereafter, ending with the last
+calendar quarter of that year. The provisions of this subparagraph shall be retroactive to
+January 1, 2021;
+b. All other candidates and campaign committees shall file annual financial reports to be
+received by the registry on or before December 1 for each year that a candidate is not yet
+on the ballot but has filed a form as described in subsection (1)(a) of this section with the
+registry for a future-year election; and
+c. Candidates, slate of candidates, or committees shall make all reports required by
+subparagraphs 2. to 5. of this paragraph during the year in which the election takes place;
+2. All candidates, slates of candidates, campaign committees, independent expenditure-only
+committees, political issues committees, and registered fundraisers shall make reports on the
+sixtieth day preceding a regular election, including all previous contributions and expenditures;
+3. All candidates, slates of candidates, campaign committees, independent expenditure-only
+committees, political issues committees, and registered fundraisers shall make reports on the
+thirtieth day preceding an election, including all previous contributions and expenditures;
+4. All candidates, slates of candidates, campaign committees, independent expenditure-only
+committees, political issues committees, and registered fundraisers shall make reports on the
+fifteenth day preceding the date of the election; and
+5. All reports to the registry shall cover campaign activity during the entire reporting period and
+must be received by the registry within two (2) business days after the date the reporting period
+ends to be deemed timely filed.
+(4) All candidates, regardless of funds received or expended, campaign committees, independent expenditure-only
+committees, political issues committees, and registered fundraisers shall make post-election reports within
+thirty (30) days after the election. All post-election reports to the registry shall cover campaign activity during
+the entire reporting period and must be received by the registry within two (2) business days after the date the
+reporting period ends to be deemed timely filed. For candidates, slates of candidates, and political issues
+committees otherwise exempt under subsection (1)(a) of this section, the reporting period begins the day the
+request for exemption is filed with the registry and continues through the thirtieth day after the election.
+(5) In making the preceding reports, the total gross receipts from each of the following categories shall be listed:
+proceeds from the sale of tickets for events such as testimonial affairs, dinners, luncheons, rallies, and similar
+fundraising events, mass collections made at the events, and sales of items such as campaign pins, buttons,
+hats, ties, literature, and similar materials. When any individual purchase or the aggregate purchases of any
+item enumerated above from a candidate or slate of candidates for a statewide-elected state office or a
+campaign committee for a candidate or slate of candidates for a statewide-elected state office exceeds one
+hundred dollars ($100), the purchaser shall be identified by name, address, age, if less than the legal voting
+age, occupation, and employer or, if the purchaser is self-employed, the name under which he or she is doing
+business, and the amount of the purchase. When any individual purchase or the aggregate purchases of any
+item enumerated above from any candidate or campaign committee other than a candidate or slate of
+candidates for a statewide-elected state office or campaign committee for a candidate or slate of candidates for
+a statewide-elected state office exceeds one hundred dollars ($100), the purchaser shall be identified by name,
+address, age if less than the legal voting age, occupation, and employer or, if the purchaser is self-employed,
+the name under which he or she is doing business, and the amount of the purchase. The lists shall be
+maintained by the campaign treasurer, political issues committee treasurer, registered fundraiser, or other
+sponsor for inspection by the registry for six (6) years following the date of the election.
+(6) Each permanent committee, except a federally registered political committee as defined in 52 U.S.C. sec.
+30101(4)(a), inaugural committee, or contributing organization shall make a full report to the registry, on a
+Legislative Research Commission PDF Version
+
+12 ACTS OF THE GENERAL ASSEMBLY
+form provided or using a format approved by the registry, of all money, loans, or other things of value,
+received by it from any source, and all expenditures authorized, incurred, or made, since the date of the last
+report, including:
+(a) For each contribution of any amount made by a permanent committee, the name and business address of
+the permanent committee, the date of the contribution, the amount contributed, and a description of the
+major business, social, or political interest represented by the permanent committee;
+(b) For other contributions in excess of one hundred dollars ($100), the full name, address, age if under the
+legal voting age, the date of the contribution, the amount of the contribution, and the employer and
+occupation of each contributor. If the contributor is self-employed, the name under which he or she is
+doing business shall be listed;
+(c) An aggregate amount of cash contributions, the amount contributed by each contributor, and the date of
+each contribution; and
+(d) A complete statement of all expenditures authorized, incurred, or made, including independent
+expenditures. This report shall be made by a permanent committee, inaugural committee, or
+contributing organization to the registry on the last day of the first calendar quarter following the
+registration of the committee with the registry and on the last day of each succeeding calendar quarter
+until such time as the committee terminates. A contributing organization shall file a report of
+contributions received and expenditures on a form provided or using a format approved by the registry
+not later than the last day of each calendar quarter in which contributions are received or expenditures
+are made. All reports to the registry shall be received on or before each filing deadline, and any report
+received by the registry within two (2) business days after each filing deadline shall be deemed timely
+filed.
+(7) If the final statement of a candidate, campaign committee, independent expenditure-only committee, or
+political issues committee shows an unexpended balance of contributions, continuing debts and obligations, or
+an expenditure deficit, the campaign treasurer shall file with the registry a supplemental statement of
+contributions and expenditures not more than thirty (30) days after the deadline for filing the final statement.
+Subsequent supplemental statements shall be filed annually, to be received by the registry by December 1 of
+each year, until the account shows no unexpended balance, continuing debts and obligations, expenditures, or
+deficit. All post-election reports to the registry shall cover campaign activity during the entire reporting period
+and must be received by the registry within two (2) business days after the date the reporting period ends to be
+deemed timely filed. All contributions shall be subject to KRS 121.150 as of the date of the election in which
+the candidate appeared on the ballot.
+(8) All reports filed under the provisions of this chapter shall be a matter of public record open to inspection by
+any member of the public immediately upon receipt of the report by the registry.
+(9) A candidate or slate of candidates is relieved of the duty personally to file reports and keep records of receipts
+and expenditures if the candidate or slate states in writing or on forms provided by the registry that:
+(a) Within five (5) business days after personally receiving any contributions, the candidate or slate of
+candidates shall surrender possession of the contributions to the treasurer of their campaign committee
+without expending any of the proceeds thereof. No contributions shall be commingled with the
+candidate's or slated candidates' personal funds or accounts. Contributions received by check, money
+order, or other written instrument shall be endorsed directly to the campaign committee and shall not be
+cashed or redeemed by the candidate;
+(b) The candidate or slate of candidates shall not make any unreimbursed expenditure for the campaign,
+except that this paragraph does not preclude a candidate or slate from making an expenditure from
+personal funds to the designated campaign committee, which shall be reported by the committee as a
+contribution received; and
+(c) The waiver shall continue in effect as long as the candidate or slate of candidates complies with the
+conditions under which it was granted.
+(10) (a) No candidate, slate of candidates, campaign committee, independent expenditure-only committee,
+political issues committee, or contributing organization shall use or permit the use of contributions or
+funds solicited or received for the person or in support of or opposition to a public issue which will
+appear on the ballot to:
+1. Further the candidacy of the person for a different public office;
+
+CHAPTER 57 13
+2. Support or oppose a different public issue; or
+3. Further the candidacy of any other person for public office.
+(b) Nothing in this subsection shall be deemed to prohibit a candidate or slate of candidates from using
+funds in a campaign account to contribute directly to another candidate or slate of candidates for state
+or federal office, or to purchase admission tickets for[, or contribute to,] any fundraising event or
+testimonial affair for another candidate or slate of candidates for state or federal office, if the amount of
+the purchase or contribution does not exceed the individual contribution limit contained in KRS
+121.150(6) or 52 U.S.C. sec. 30116 in any one (1) election.
+(c) Any funds or contributions solicited or received by or on behalf of a candidate, slate of candidates, or
+any committee, which has been organized in whole or in part to further any candidacy for the same
+person or to support or oppose the same public issue, shall be deemed to have been solicited or received
+for the current candidacy or for the election on the public issue if the funds or contributions are solicited
+or received at any time prior to the regular election for which the candidate, slate of candidates, or
+public issue is on the ballot.
+(d) Any unexpended balance of funds not otherwise obligated for the payment of expenses incurred to
+further a political issue or the candidacy of a person shall, in whole or in part, at the election of the
+candidate or committee:
+1. Escheat to the State Treasury;
+2. Be returned pro rata to all contributors;
+3. In the case of a partisan candidate, be transferred to:
+a. A caucus campaign committee; or
+b. The state or county executive committee of the political party of which the candidate is a
+member;
+4. Be retained to further the same public issue or to seek election to the same office; or
+5. Be donated to any charitable, nonprofit, or educational institution recognized under Section
+501(c)(3) of the United States Internal Revenue Code of 1986, as amended, and any successor
+thereto, from which the candidate or committee receives no financial benefit.
+(11) If adequate and appropriate agency funds are available to implement this subsection, electronic reporting shall
+be made available by the registry to all candidates, slates of candidates, committees, contributing
+organizations, registered fundraisers, and persons making independent expenditures. The electronic report
+submitted to the registry shall be the official campaign finance report for audit and other legal purposes,
+whether mandated or filed by choice.
+(12) The date that an electronic or on-line report shall be deemed to have been filed with the registry shall be the
+date on which it is received by the registry.
+(13) All electronic or online filers shall affirm, under penalty of perjury, that the report filed with the registry is
+complete and accurate.
+(14) Filers who submit electronic campaign finance reports which are not readable, or cannot be copied shall be
+deemed to not be in compliance with the requirements set forth in this section.
+(15) Beginning with the primary scheduled in calendar year 2020, and for each subsequent election scheduled
+thereafter, reports required to be submitted to the registry involving candidates, slates of candidates,
+committees, contributing organizations, and independent expenditures shall be reported electronically.
+(16) (a) On each form that the registry supplies for the reports required under subsections (2), (3), and (6) of this
+section, the registry shall include an entry reading, "No change since last report."
+(b) If a person or entity that is required to report under subsection (2), (3), or (6) of this section has received
+no money, loans, or other things of value from any source since the date of its last report and has not
+authorized, incurred, or made any expenditures since that date, the person or entity may check or
+otherwise designate the entry that reads, "No change since last report." A person or entity designating
+this entry in a report shall state the balance carried forward from the last report but need not specify
+receipts or expenditures in further detail.
+Legislative Research Commission PDF Version
+
+14 ACTS OF THE GENERAL ASSEMBLY
+Section 9. KRS 121.190 is amended to read as follows:
+(1) All newspaper or magazine advertising, posters, circulars, billboards, handbills, sample ballots, and paid-for
+television or radio announcements, or any other type of general public political advertising, which expressly
+advocate the election or defeat of a clearly identified candidate, slate of candidates, or group of candidates for
+nomination or election to any public office, or expressly advocate or oppose a ballot measure, shall be
+identified by the words "paid for by" followed by the name and address of the individual or committee which
+paid for the communication; except that if paid for by a candidate, slate of candidates, or campaign committee,
+it shall be identified only by the words "paid for by" followed by the name of the candidate, slate of
+candidates, or campaign committee, whichever is applicable. For television and radio broadcasts, compliance
+with Federal Communications Commission regulations regarding sponsored programs and broadcasts by
+candidates for public office shall be considered compliance with this section.
+(2) The disclaimer described in subsection (1) of this section shall appear and be presented in a clear and
+conspicuous manner to give the reader or observer adequate notice of the identity of the purchaser of the
+communication. A disclaimer does not comply with this section if the disclaimer is difficult to read or if the
+placement of the disclaimer is easily overlooked.
+(3) The provisions of subsection (1) of this section shall not apply to:
+(a) Any news articles, editorial endorsements, opinion, or commentary writings, or letter to the editor
+printed in a newspaper, magazine, flyer, pamphlet, or other periodical not owned or controlled by a
+candidate or committee;
+(b) Any editorial endorsements or opinions aired by a broadcast facility not owned or controlled by a
+candidate or committee;
+(c) Any communication by a person made in the regular course and scope of the person's business or any
+communication made by a membership organization solely to members of the organization and the
+members' families; and
+(d) Any communication that refers to any candidate only as part of the popular name of a bill or statute.
+(4) (a) A person shall not use, cause or permit to be used, or continue to use any published, distributed, or
+broadcast political advertising containing express advocacy that the person knows does not include the
+disclosure required by subsection (1) of this section. A person is presumed to know that the use of
+political advertising is prohibited by this subsection if the registry notifies the person in writing that the
+use is prohibited.
+(b) A person who learns that political advertising signs that have been distributed do not include the
+disclosure required by subsection (1) of this section or include a disclosure that does not comply with
+subsection (1) of this section does not commit a violation of this subsection if the person makes a good-
+faith attempt to remove or correct those signs within forty-eight (48) hours and provides the registry
+with proof of correction.
+(5) The management of newspapers and magazines shall keep a one (1) year record of all statements, articles, or
+advertisements referred to in subsection (1) of this section, that appear in their publications, however, nothing
+in subsection (1) of this section shall be construed to require editors or editorial writers of newspapers and
+magazines to identify themselves in the manner therein required with any article or editorial written by them as
+part of their duties as an employee or employer.
+Signed by Governor March 24, 2025.
+
+[DELETED:  " " " " t s o o o ( o m s c o s o c f " e c w m o ( o m p w r " H H S S S a t a c a d b r p b t " " o t a c c i e c f p c p i c i c c c o p e c w i e a o i t b a p A]
+[DELETED:  " r " o m a g w m c t c s o c " " P P o a p w a r t a c s o c c o G o f i a w c o a a r w i l t t r P N S A A " m a p w h r c o m e h a a " B A U t c r o a p o l t]
+[DELETED:  " a p i a o s h b a t h o h c i o t n o t t " " T I m w a c c o c w a c s o I T I m w a c c o c w a p i I " r m t u t e m w o " " " " " " " A A A A]
+[DELETED:  A A A " A I " P M T C D " b U A a p i c h b r t c s n k o w A p i c s a i i r t i h n k o w r A A U T W f ( h o m a i e s o o a b]
+[DELETED:  C t t r t t p o e h n k o w a f A A A M S a p t m a d c o e t i a b D N T a t h v S 2 o 3 o t A s b p f o o n I P I I p e s t r t f o p c b m a e p T A A W i e a w t f s b d i a w t f o I t W]
+[DELETED:  I r o s a t l m b e f r c o m I I S I A A A N c c o c o s p f i a c a t b f a p o t f a c e " c w a f f a b a a c r a o n t i r c p p o a i a a p c w c o p v p a c r e o f i a c a f a p m u b o A]
+[DELETED:  C u t f t d ( p y t a p p o c c C M U A A a e c o s t m o i s e t P f f i f l s w d a m a f h o h [ I F a v w w n c k o t v t r t a o F a v w w c k i a t r t m f c ( 1 P o e i e o f t d ( i a o ( e c o m e w a v t b a h o h w i s C a s o c w a t a r E A t A]
+[DELETED:  F d i p ( o t s f f n p a e a s F a s e a c o s o c s f a r f 1 A A c o s o c t i e f c f r f t r o t e b u t a o c o A A d s f i o t t c o s o c E a E A w a p i c a a w c p t h f a e t a p w m l b a w c i c a c t o s o c e a p i s 2 o p ( o t m t r t t c o s o t e t I d o d t c o s o c e a p i 2 o p ( o t s m e t r p i 1 o p ( o t s n t f ( t p]
+[DELETED:  A E c o s o c t h f a r f e o a p i w c h f a r f e s b b b i t u i i 1 E t p ( ( o ( o t s t a c o m o w c t a c o m e i o t a l i a o ( e w r t r f E c c o p i c t i e f f 1 A A c e f u t s f a w a t I ( S F o t m b s o p i r b t p F T A I a t t r r i p ( o t s t s e]
+[DELETED:  F F T A T 1 t D T J r s c t f J 1 t J 3 I t e c b f a s r b t r t ( ( E f c o s o c c c o p i c f r r p t s ( o t s e c F o t m b s o p i r b t p F e c i e o o h d ( m t a c o T A R]
+[DELETED:  a C s s o s o c c c f c p i c a f w f t f p s c o s o c o f r o t o f a e c q t e w t l A C s o c o c s m a r r b A c s o c c c i e A c s o c c c i e A c s o c c c i e A A I e a f a c o s o c f a s s o o a e a f a c o c c o t a c o s o n u w h o s i d b a t a o t p T l s b b t c t i c t r f o o E]
+[DELETED:  F F A A c s o a e a i o m i i T r s b m b a p c i c o o t r t l d t f c q t s t a t c t A c o s f a r o I t f s o a c c c i e c o e d t c t s f w t r a s s o A A W e a o t p t N c s b c w t T T ( N c s o c c c i e c F]
+[DELETED:  S F N p o c d n e t i c l c i K A A E B I A T B B d t a c n o e i r u S I m a b t r t a c s o c c c r f a p m i e T e r T A F B r r t b s t t r i c s o c ( O I i m a e s t d t p o e c o]
+[DELETED:  A o e t a p o o e a o a b m s b s b i o b t w " f b f b t n o t c s o F C C r r s p a b b T d d i s ( o t s s a a b p i a c a T A n a e o c w o l t e A A A ( A A p w l t p a s t h b d d n i t T]

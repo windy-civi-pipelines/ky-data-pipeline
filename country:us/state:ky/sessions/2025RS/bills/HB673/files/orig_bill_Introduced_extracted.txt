@@ -1,0 +1,970 @@
+Title: 1 AN ACT relating to employment of unauthorized aliens.
+Official Title: 1 AN ACT relating to employment of unauthorized aliens.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 16 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS BR 1270
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF KRS CHAPTER 336 IS CREATED TO
+4 READ AS FOLLOWS:
+5 As used in Sections 1 to 3 of this Act:
+6 (1) "Alien" means any person who is not a citizen or national of the United States,
+7 as described in 8 U.S.C. sec. 1101 et seq., as amended;
+8 (2) "Business entity":
+9 (a) Means any person or group of persons that employs one (1) or more persons
+10 performing or engaging in any activity, enterprise, profession, or
+11 occupation for gain, benefit, advantage, or livelihood, whether for profit or
+12 not for profit; and
+13 (b) Includes but is not limited to:
+14 1. A self-employed individual, business entity filing articles of
+15 incorporation, partnership, limited partnership, limited liability
+16 company, foreign corporation, foreign limited partnership, foreign
+17 limited liability company authorized to transact business in this state,
+18 business trusts, and any business entity that registers with the
+19 Secretary of State; and
+20 2. Any business entity that possesses a business license, permit,
+21 certificate, approval, registration, charter, or similar form of
+22 authorization issued by the state, any business entity that is exempt by
+23 law from obtaining such a business license, and any business entity
+24 that is operating unlawfully without a business license;
+25 (3) "Contractor":
+26 (a) Means a person, employer, or business entity that enters into an agreement
+27 to perform any service or work or to provide a certain product in exchange
+Page 1 of 16
+XXXX 2/18/2025 11:01 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1270
+1 for valuable consideration; and
+2 (b) Includes but is not limited to a general contractor, subcontractor,
+3 independent contractor, contract employee, project manager, or a recruiting
+4 or staffing entity;
+5 (4) "Employee":
+6 (a) Means any person directed, allowed, or permitted to perform labor or
+7 service of any kind by an employer, except that employees of an independent
+8 contractor working for a business entity shall not be regarded as the
+9 employees of the business entity for the purposes of Sections 1 to 3 and 4 of
+10 this Act; and
+11 (b) Does not include any inmate in the legal custody of the state, a county, or a
+12 municipality;
+13 (5) "Employer":
+14 (a) Means any person, firm, corporation, partnership, joint stock association,
+15 agent, manager, representative, foreman, or other person having control or
+16 custody of any employment, place of employment, or of any employee,
+17 including any person or entity employing any person for hire within the
+18 Commonwealth of Kentucky, including a public employer; and
+19 (b) Does not include the occupant of a household contracting with another
+20 person to perform casual domestic labor within the household;
+21 (6) "Employment":
+22 (a) Means the act of employing or state of being employed, engaged, or hired to
+23 perform work or service of any kind or character within the Commonwealth
+24 of Kentucky, including any job, task, work, labor, personal services, or any
+25 other activity for which compensation is provided, expected, or due;
+26 (b) Includes but is not limited to all activities conducted by a business entity or
+27 employer; and
+Page 2 of 16
+XXXX 2/18/2025 11:01 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1270
+1 (c) Does not include:
+2 1. Casual domestic labor performed in a household on behalf of the
+3 occupant of the household; or
+4 2. The relationship between a contractor and the employees of a
+5 subcontractor performing work for the contractor;
+6 (7) "E-Verify" or "E-Verify Program" means the electronic verification of federal
+7 employment authorization program of the Illegal Immigration Reform and
+8 Immigrant Responsibility Act of 1996, Pub. L. No. 104-208, in U.S.C. sec.
+9 1324(a), as amended, and operated by the United States Department of Homeland
+10 Security, or a successor program.
+11 (8) "Federal work authorization program" means any of the electronic verification
+12 of work authorization programs operated by the United States Department of
+13 Homeland Security, or an equivalent federal work authorization program
+14 operated by the United States Department of Homeland Security to verify
+15 information of newly hired employees, under the Immigration Reform and
+16 Control Act of 1986, Pub. L .No. 99-603, as amended, or the Illegal Immigration
+17 Reform and Immigrant Responsibility Act of 1996, Pub. L. No. 104-208, as
+18 amended, in U.S.C. sec. 1324(a);
+19 (9) "Knows" or "knowingly" means a person acts knowingly or with knowledge with
+20 respect to either:
+21 (a) The person's conduct or to attendant circumstances when the person is
+22 aware of the nature of the person's conduct or that those circumstances
+23 exist; or
+24 (b) A result of the person's conduct when the person is reasonably aware that
+25 the person's conduct is likely to cause that result;
+26 (10) "Policy or practice" means a guiding principle or rule that may be written or
+27 adopted through repeated actions or customs;
+Page 3 of 16
+XXXX 2/18/2025 11:01 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1270
+1 (11) "Public employer" means every department, agency, or instrumentality of the
+2 state or a political subdivision of the state, including every department, agency, or
+3 instrumentality of cities, counties, urban-county governments, charter county
+4 governments, consolidated local governments, unified local governments, and
+5 special districts;
+6 (12) "State-funded entity":
+7 (a) Means any governmental entity of the state or a political subdivision thereof
+8 or any other entity that receives any moneys from the state or a political
+9 subdivision thereof; and
+10 (b) Does not include an entity that only provides a service or a product to any
+11 governmental entity of the state or a political subdivision thereof, and
+12 receives compensation for the same;
+13 (13) "Subcontractor" means a person, business entity, or employer who is awarded a
+14 portion of an existing contract by a contractor, regardless of its tier; and
+15 (14) "Unauthorized alien" means an alien who is not authorized to work in the United
+16 States as defined in 8 U.S.C. sec. 1324a(h)(3).
+17 SECTION 2. A NEW SECTION OF KRS CHAPTER 336 IS CREATED TO
+18 READ AS FOLLOWS:
+19 (1) A business entity, employer, or public employer shall not knowingly employ, hire
+20 for employment, or continue to employ an unauthorized alien to perform work
+21 within the Commonwealth of Kentucky. As used in this subsection, "knowingly
+22 employ, hire for employment, or continue to employ an unauthorized alien"
+23 means the actions described in 8 U.S.C. sec. 1324a.
+24 (2) Every business entity or employer in this state shall enroll in E-Verify and
+25 thereafter verify the employment eligibility of the employee through E-Verify in
+26 accordance with the federal statutes and regulations governing the E-Verify
+27 Program. A business entity or employer that uses E-Verify to determine the work
+Page 4 of 16
+XXXX 2/18/2025 11:01 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1270
+1 authorization of an employee shall not be deemed to have violated this section
+2 with respect to the employment of that employee.
+3 (3) On a finding of a first violation by a court of competent jurisdiction that a
+4 business entity or employer knowingly violated subsection (1) of this section, the
+5 court shall do all of the following:
+6 (a) Order the business entity or employer to terminate the employment of every
+7 unauthorized alien;
+8 (b) Subject the business entity or employer to a three (3) year probationary
+9 period throughout the state. During the probationary period, the business
+10 entity or employer shall file quarterly reports with the local county attorney
+11 specifying each new employee who is hired by the business entity or
+12 employer in the state;
+13 (c) Order the business entity or employer to file a signed, sworn affidavit with
+14 the local county attorney within three (3) days after the order is issued by
+15 the court stating that the business entity or employer has terminated the
+16 employment of every unauthorized alien and the business entity or employer
+17 will not knowingly or intentionally employ an unauthorized alien in this
+18 state; and
+19 (d) Direct the applicable state, county, or municipal governing bodies to
+20 suspend all existing business licenses and permits of the business entity or
+21 employer for a period not to exceed ten (10) business days specific to the
+22 business location where the unauthorized alien performed work.
+23 (4) Before a business license or permit that has been suspended under subsection
+24 (3)(d) of this section is reinstated, a legal representative of the business entity or
+25 employer shall submit to the court:
+26 (a) A signed, sworn affidavit stating that the business entity or employer is in
+27 compliance with subsection (1) of this section; and
+Page 5 of 16
+XXXX 2/18/2025 11:01 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1270
+1 (b) A copy of the memorandum of understanding issued to the business entity
+2 or employer at the time of enrollment in E-Verify.
+3 (5) The suspension of a business license or permit under subsection (3)(d) of this
+4 section shall terminate one (1) business day after a legal representative of the
+5 business entity or employer submits a signed, sworn affidavit to the court, stating
+6 that the business entity or employer is in compliance with subsection (1) of this
+7 section.
+8 (6) For a second violation of subsection (1) of this section by a business entity or
+9 employer, the court shall direct the applicable state, county, or municipal
+10 governing body to permanently revoke all existing business licenses and permits,
+11 held by the business entity or employer specific to the business location where the
+12 unauthorized alien performed work. On receipt of the order, and notwithstanding
+13 any other law, the appropriate agencies shall immediately revoke the licenses and
+14 permits held by the business entity or employer.
+15 (7) For a subsequent violation of subsection (1) of this section, the court shall direct
+16 the applicable governing bodies to forever suspend all existing business licenses
+17 and permits of the business entity or employer throughout the state.
+18 (8) This section shall not be construed to deny any procedural mechanisms or legal
+19 defenses included in the E-Verify Program or any other federal work
+20 authorization program. A person or entity that establishes that it has complied in
+21 good faith with the requirements of 8 U.S.C. sec. 1324a(b) establishes an
+22 affirmative defense that the business entity or employer did not knowingly hire or
+23 employ an unauthorized alien.
+24 (9) In proceedings of the court, the determination of whether an employee is an
+25 unauthorized alien shall be made by the federal government pursuant to 8 U.S.C.
+26 sec. 1373(c). The court shall consider only the federal government's
+27 determination when deciding whether an employee is an unauthorized alien. The
+Page 6 of 16
+XXXX 2/18/2025 11:01 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1270
+1 court may take judicial notice of any verification of an individual's immigration
+2 status previously provided by the federal government and may request the federal
+3 government to provide further automated or testimonial verification.
+4 (10) Any business entity or employer that terminates an employee to comply with this
+5 section shall not be liable for any claims made against the business entity or
+6 employer by the terminated employee, provided that the termination is made
+7 without regard to the race, ethnicity, or national origin of the employee and is
+8 consistent with the antidiscrimination laws of this state and the United States.
+9 (11) (a) In addition to the county attorneys of this state, the Attorney General shall
+10 also have authority to bring a civil complaint in any court of competent
+11 jurisdiction to enforce the requirements of this section.
+12 (b) Any resident of this state may petition the Attorney General to bring an
+13 enforcement action against a specific business entity or employer by means
+14 of a written, signed petition. A valid petition shall include an allegation that
+15 describes the alleged violator or violators, as well as the action constituting
+16 the violation, and the date and location where the action occurred.
+17 (c) A petition that alleges a violation on the basis of national origin, ethnicity,
+18 or race shall be deemed invalid and shall not be acted upon.
+19 (d) The Attorney General shall respond to any petition under this subsection
+20 within sixty (60) days of receiving the petition, either by filing a civil
+21 complaint in a court of competent jurisdiction or by informing the petitioner
+22 in writing that the Attorney General has determined that filing a civil
+23 complaint is not warranted.
+24 (12) This section shall not apply to the relationship between a party and the employees
+25 of an independent contractor performing work for the party and does not apply to
+26 casual domestic labor performed within a household.
+27 (13) (a) It is an affirmative defense to a violation of subsection (1) of this section
+Page 7 of 16
+XXXX 2/18/2025 11:01 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1270
+1 that a business entity or employer was entrapped.
+2 (b) To claim entrapment, the business entity or employer shall admit by
+3 testimony or other evidence the substantial elements of the violation.
+4 (c) A business entity or employer who asserts an entrapment defense has the
+5 burden of proving by clear and convincing evidence the following:
+6 1. The idea of committing the violation started with law enforcement
+7 officers or their agents rather than with the business entity or
+8 employer;
+9 2. The law enforcement officers or their agents urged and induced the
+10 business entity or employer to commit the violation; and
+11 3. The business entity or employer was not already predisposed to
+12 commit the violation before the law enforcement officers or their
+13 agents urged and induced the employer to commit the violation.
+14 (14) In addition to actions taken by the state or political subdivisions thereof, the
+15 Attorney General or the county attorney may bring an action to enforce the
+16 requirements of this section in any District Court of a county in which the
+17 business entity or employer does business.
+18 (15) The terms of this section shall be interpreted consistently with 8 U.S.C. sec. 1324a
+19 and any applicable federal rules and regulations.
+20 SECTION 3. A NEW SECTION OF KRS CHAPTER 336 IS CREATED TO
+21 READ AS FOLLOWS:
+22 (1) The Kentucky Office of Homeland Security shall establish and maintain an E-
+23 Verify employer agent service for any business entity or employer in this state
+24 with twenty-five (25) or fewer employees to use the E-Verify Program to verify an
+25 employee's employment eligibility on behalf of the business entity or employer.
+26 (2) The Kentucky Office of Homeland Security shall:
+27 (a) Establish an E-Verify employer agent account with the United States
+Page 8 of 16
+XXXX 2/18/2025 11:01 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1270
+1 Department of Homeland Security;
+2 (b) Enroll a participating business entity or employer in the E-Verify Program
+3 on its behalf; and
+4 (c) Conform to all federal statutes and regulations governing E-Verify
+5 employer agents.
+6 (3) The Kentucky Office of Homeland Security shall not charge a fee to a
+7 participating business entity or employer for the E-Verify employer agent service.
+8 (4) The Kentucky Office of Homeland Security's E-Verify employer agent service
+9 shall accommodate a business entity or employer who wishes to communicate
+10 with the Kentucky Office of Homeland Security by internet, by electronic mail, by
+11 facsimile machine, by telephone, or in person, provided that the communication
+12 is consistent with federal statutes and regulations governing E-Verify employer
+13 agents.
+14 (5) Before receiving any contract, grant, or incentive by the state, any political
+15 subdivision thereof, or any state-funded entity, a business entity or employer shall
+16 provide proof to the state, political subdivision thereof, or state-funded entity that
+17 the business entity or employer is enrolled and is participating in the E-Verify
+18 Program, either independently or through the Kentucky Office of Homeland
+19 Security's E-Verify employer agent service.
+20 (6) Every three (3) months, the Kentucky Office of Homeland Security shall request
+21 from the United States Department of Homeland Security a list of every business
+22 entity or employer in this state that is enrolled in the E-Verify Program. On
+23 receipt of the list, the Kentucky Office of Homeland Security shall make the list
+24 available on its website.
+25 (7) A business entity or employer that is enrolled in the E-Verify Program, verifies
+26 the employment eligibility of an employee in good faith pursuant to this section,
+27 and acts in conformity with all applicable federal statutes and regulations is
+Page 9 of 16
+XXXX 2/18/2025 11:01 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1270
+1 immune from liability under Kentucky law for any action by an employee for
+2 wrongful discharge or retaliation based on a notification from the E-Verify
+3 Program that the employee is an unauthorized alien.
+4 SECTION 4. A NEW SECTION OF KRS CHAPTER 45A IS CREATED TO
+5 READ AS FOLLOWS:
+6 (1) As used in this section:
+7 (a) The following terms have the same meanings as in Section 1 of this Act:
+8 1. "Alien";
+9 2. "Business entity";
+10 3. "Contractor";
+11 4. "Employee";
+12 5. "Employer";
+13 6. "Employment";
+14 7. "E-Verify" or "E-Verify Program";
+15 8. "Federal work authorization program";
+16 9. "Knows" or "knowingly";
+17 10. "Policy or practice";
+18 11. "State-funded entity";
+19 12. "Subcontractor"; and
+20 13. "Unauthorized alien"; and
+21 (b) "Contract" means a contract awarded by the state, any political subdivision
+22 thereof, or any state-funded entity that was competitively bid.
+23 (2) As a condition for the award of any contract, grant, or incentive by the state, any
+24 political subdivision thereof, or any state-funded entity to a business entity or
+25 employer that employs one (1) or more employees, the business entity or employer
+26 shall not knowingly employ, hire for employment, or continue to employ an
+27 unauthorized alien within the Commonwealth of Kentucky.
+Page 10 of 16
+XXXX 2/18/2025 11:01 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1270
+1 (3) As a condition for the award of any contract, grant, or incentive by the state, any
+2 political subdivision thereof, or any state-funded entity to a business entity or
+3 employer that employs one (1) or more employees within the Commonwealth of
+4 Kentucky, the business entity or employer shall provide documentation
+5 establishing that the business entity or employer is enrolled in the E-Verify
+6 Program. During the performance of the contract, the business entity or employer
+7 shall participate in the E-Verify Program and shall verify every employee that is
+8 required to be verified according to the applicable federal rules and regulations.
+9 (4) Any subcontractor on a project paid for by contract, grant, or incentive by the
+10 state, any political subdivision thereof, or any state-funded entity shall not
+11 knowingly employ, hire for employment, or continue to employ an unauthorized
+12 alien within the Commonwealth of Kentucky and shall also enroll in the E-Verify
+13 Program prior to performing any work on the project. Furthermore, during the
+14 performance of the contract, the subcontractor shall participate in the E-Verify
+15 Program and shall verify every employee that is required to be verified according
+16 to the applicable federal rules and regulations. This subsection shall only apply to
+17 subcontractors performing work on a project subject to this section and not to
+18 collateral persons or business entities hired by the subcontractor.
+19 (5) A contractor of any tier shall not be liable under this section when the contractor
+20 contracts with its direct subcontractor who violates subsection (4) of this section
+21 unless it is shown that the contractor knew or should have known that the direct
+22 subcontractor was in violation of subsection (4) of this section.
+23 (6) Upon a finding by a court of competent jurisdiction of a first violation of
+24 subsection (2) of this section by any business entity or employer, including a
+25 subcontractor:
+26 (a) The business entity or employer shall be deemed in breach of contract and
+27 the state, political subdivision thereof, or state-funded entity may terminate
+Page 11 of 16
+XXXX 2/18/2025 11:01 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1270
+1 the contract after providing notice and an opportunity to be heard;
+2 (b) The court shall do all of the following:
+3 1. Order the business entity or employer to terminate the employment of
+4 every unauthorized alien;
+5 2. Subject the business entity or employer to a three (3) year
+6 probationary period throughout the state. During the probationary
+7 period, the business entity or employer shall file quarterly reports with
+8 the Finance and Administration Cabinet of each new employee who is
+9 hired by the business entity or employer in the state; and
+10 3. Order the business entity or employer to file, subject to the penalty of
+11 perjury, a signed, sworn affidavit with the Finance and Administration
+12 Cabinet within three (3) days after the order is issued by the court
+13 stating that the business entity or employer has terminated the
+14 employment of every unauthorized alien and the business entity or
+15 employer will not knowingly or intentionally employ an unauthorized
+16 alien in this state;
+17 (c) If the court determines that the business entity or employer has a policy or
+18 practice that violates this section, the court shall direct the applicable state,
+19 county, or municipal governing bodies to suspend the business licenses or
+20 permits of the business entity or employer for a period not to exceed sixty
+21 (60) days specific to the location or locations where the unauthorized alien
+22 performed work; and
+23 (d) Before a business license or permit that has been suspended under
+24 paragraph (c) of this subsection is reinstated, a legal representative of the
+25 business entity or employer shall submit to the court a signed, sworn
+26 affidavit stating that the business entity or employer is in compliance with
+27 subsection (2) of this section and a copy of the Memorandum of
+Page 12 of 16
+XXXX 2/18/2025 11:01 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1270
+1 Understanding issued to the business entity or employer at the time of
+2 enrollment in E-Verify.
+3 (7) Upon a finding by a court of competent jurisdiction of a second violation of
+4 subsection (2) of this section by a business entity or employer, including a
+5 subcontractor, awarded a contract by the state, any political subdivision thereof,
+6 or any state-funded entity that occurs within ten (10) years of a finding by a court
+7 of competent jurisdiction of a first violation by the business entity or employer:
+8 (a) The business entity or employer shall be deemed in breach of contract and
+9 the state, political subdivision thereof, or state-funded entity shall terminate
+10 the contract after providing notice and an opportunity to be heard;
+11 (b) The court shall do all of the following:
+12 1. Order the business entity or employer to terminate the employment of
+13 every unauthorized alien;
+14 2. Subject the business entity or employer to a five (5) year probationary
+15 period throughout the state. During the probationary period, the
+16 business entity or employer shall file quarterly reports with the
+17 Finance and Administration Cabinet specifying each new employee
+18 who is hired by the business entity or employer in the state; and
+19 3. Order the business entity or employer to file, subject to the penalty of
+20 perjury, a signed, sworn affidavit with the Finance and Administration
+21 Cabinet within three (3) days after the order is issued by the court
+22 stating that the business entity or employer has terminated the
+23 employment of every unauthorized alien and the business entity or
+24 employer will not knowingly or intentionally employ an unauthorized
+25 alien in this state;
+26 (c) If the court determines that the business entity or employer has a policy or
+27 practice that violates this section, the court shall direct the applicable state,
+Page 13 of 16
+XXXX 2/18/2025 11:01 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1270
+1 county, or municipal governing body to suspend the business licenses or
+2 permits of the business entity or employer for a period not less than sixty
+3 (60) days and not to exceed one hundred twenty (120) days specific to the
+4 location or locations where the unauthorized alien performed work;
+5 (d) Before a business license or permit that has been suspended under
+6 paragraph (c) of this subsection is reinstated, a legal representative of the
+7 business entity or employer shall submit to the court a signed, sworn
+8 affidavit stating that the business entity or employer is in compliance with
+9 the provisions of subsection (2) of this section and a copy of the
+10 Memorandum of Understanding issued to the business entity or employer at
+11 the time of enrollment in E-Verify; and
+12 (e) A finding by a court of competent jurisdiction of a second violation of
+13 subsection (2) of this section that does not occur within ten (10) years of a
+14 first violation shall:
+15 (a) Be considered a second violation of subsection (2) of this section by
+16 the business entity or employer; and
+17 (b) Be penalized in accordance with subsection (6) of this section.
+18 (8) Upon a finding by a court of competent jurisdiction of a third violation of
+19 subsection (2) of this section by a business entity or employer, including a
+20 subcontractor, awarded a contract by the state, any political subdivision thereof,
+21 or any state-funded entity:
+22 (a) The business entity or employer shall be deemed in breach of contract and
+23 the state, political subdivision thereof, or state-funded entity shall terminate
+24 the contract after providing notice and an opportunity to be heard; and
+25 (b) The court shall direct the applicable state, county, or municipal governing
+26 bodies to permanently revoke all business licenses or permits of the business
+27 entity or employer.
+Page 14 of 16
+XXXX 2/18/2025 11:01 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1270
+1 (9) This section shall not be construed to deny any procedural mechanisms or legal
+2 defenses included in the E-Verify Program or any other federal work
+3 authorization program.
+4 (10) A business entity or employer that has enrolled in the E-Verify Program and has
+5 used the program to verify the work authorization of an employee shall not be
+6 liable under this section for violations resulting from the hiring of that employee.
+7 (11) The Finance and Administration Cabinet shall promulgate administrative
+8 regulations in accordance with KRS Chapter 13A to administer this section.
+9 (12) Compliance with this section may be verified by the contracting authority or any
+10 state or local law enforcement agency at any time to ensure a contractual
+11 agreement as provided for in this section is being met.
+12 (13) Anything to the contrary notwithstanding, this section shall not apply to
+13 agreements by the state, any political subdivision thereof, or any state-funded
+14 entity relating to debt obligations by such entities.
+15 (14) Any business entity or employer found in violation of this section that has had its
+16 business license or permit suspended shall not, for the duration of the
+17 suspension, be allowed, directly or indirectly, to procure or execute a license or
+18 permit similar to those that have been suspended.
+19 (15) All contracts or agreements to which the state, a political subdivision, or state-
+20 funded entity are a party shall include the following clause: "By signing this
+21 contract, the contracting parties affirm, for the duration of the agreement, that
+22 they will not violate federal immigration law or knowingly employ, hire for
+23 employment, or continue to employ an unauthorized alien within the
+24 Commonwealth of Kentucky. Furthermore, a contracting party found to be in
+25 violation of this provision shall be deemed in breach of the agreement and shall
+26 be responsible for all damages resulting therefrom."
+27 (16) An action brought under this section shall be brought in Franklin Circuit Court.
+Page 15 of 16
+XXXX 2/18/2025 11:01 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1270
+1 Section 5. This Act takes effect January 1, 2026.
+Page 16 of 16
+XXXX 2/18/2025 11:01 AM Jacketed
+[DELETED:   2  J A B S R A ( " a ( " ( M p o e i a a e p o o n ( I 1 A s i b e f a o i p l p l l c f c f l p f l b t a a b e t r w t S 2 A b e t p a b l p c a r c o s f o a l t ( " ( M t]
+[DELETED:   2  J f ( I b i n l t a g c s i o ( " ( M a p d a o p t p l o s c w f a b e s n b r a t e t ( D m ( " ( M a c o a e p o e o o a e i a p o e e a p f h w t C ( D n i t o o a h c w a p ( " ( M p o o ( I e]
+[DELETED:   2  J ( D 1 C d l p i a h o b o t o 2 T r b a c a t e o a s ( " e a p o t I I R a I R A o 1 P L N 1 i U s 1 S ( " o w a p o b t U S D o H S o a e f w a p o b t U S D o H S t v i o n h e u t I R a C R a I R A o 1 P L N 1 a a ( " r ( T p c o t a c w t p i a o t n o t p c o t t c e ( A t ( " a]
+[DELETED:   2  J ( " e m e d a o i o t s i o c c u g c c g c l g u l g a s ( " ( M o t s o a p s ( D g e o t s o a p s t a r ( " p ( " S S R ( A f w e h f e o c t e a u a m ( E b e o e i t s s e i E a t a w t f s a r g t E P]
+[DELETED:   2  J a w ( O a f o a f v b a c o c j t a b c ( O u ( S t b e o e t a t ( y p p e s e n e w i h b t b e o e ( O t t c s t t b e o e h t t e w n k o i e a u a i t s ( D t a s c o m g b t s e b ( B ( e ( A c]
+[DELETED:   2  J ( A o ( T s b t s ( F e t c s d t a s c o m g h u a p ( F t a ( T d i i t E P o a o f w a g f w t r o 8 U s 1 e a a e ( I p o t c t d o w a e i a u s 1 T c s c o t f g d]
+[DELETED:   2  J c s g ( A s s n b l f a c m a t b e o e b t t e p t t t i m w c ( ( I a h a t b a c c i a c o c j ( A r o t s m p t A G t b a e o d t ( A o ( T w s ( d o r t p e b f a c c i w t t A G h d t f a c c ( T o c ( ( I]
+[DELETED:   2  J t ( T c e t b e o e s a b t ( A b 1 T i o c t v s w l e o o t a r t w t b e o e 2 T b 3 T b e o e w n a p t c t v b t l e o o t a ( I a t a t b t s o p s t t A G o t c a m b a a t e t r o t s i a D C o a c i w t b ( T a S R ( T V e w e ( T ( E a E e a a w t U S]
+[DELETED:   2  J D ( E o ( C t a f s a r g E e ( T K O o H S s n c a f t a p ( T K O o H S E e a s s a a b e o e w w t c w f i a ( B r a c g o i b t s a p s p t P e i o t t K O o H S ( E f e o e i t s t i e i t E P O r a ( A t a a i c w a a f s a r i]
+[DELETED:   2  J i f l u K l f a a b a e f w d o r b o a n f t E P S R ( A ( T 1 " 2 " 3 " 4 " 5 " 6 " 7 " 8 " 9 " 1 " 1 " 1 " 1 " ( " t ( A p s t o a s e t a b e o e s n k e h f e o c t e a u]
+[DELETED:   2  J ( A p s t o a s e t a b e o e K t b e o e s p d e t t b e o e i e i t E P s r ( A s a p s t o a s e s n k a P p P t s c ( A c u s ( U a f b a c o c j o a f v o s ( o t s b a b e o e i a s ( T t]
+[DELETED:   2  J t ( T 1 O e 2 S t b e o e t a t ( y p p t t s D t p p t h 3 O p C w t ( d a t o i i b t c s t t b e o e h t t e o e u a a t b e o e a ( I p c p ( p ( B a b l o p t h b s u p b e o e s s t t c a s s a s ( o t s a a c o t M o]
+[DELETED:   2  J U i t t b e o e a t t o e ( U a f b a c o c j o a s v o s ( o t s b a b e o e i a s o o ( T t t ( T 1 O e 2 S p t t s D t p p t b e o e s f q r w t F a A C s e n e w 3 O p C w t ( d a t o i i b t c s t t b e o e h t t e o e u a a t b e o e a ( I p]
+[DELETED:   2  J c o m g b t s t b l o p ( l ( B a b l o p t h b s u p b e o e s s t t c a s s a t p o s ( o t s a a c o t M t ( A f b a c o c j o a s v o s f ( B t ( B ( U a f b a c o c j o a t v o s ( o t s b a b e o e i a s o ( T t t ( T b e]
+[DELETED:   2  J ( T d i i t E P o a o f w a ( A u l ( T F a A C s p a r ( C s o l l e a a a t t e a c a ( A t t c n t s s n a t a b t s a p s t o a s e ( A b l o p s s n f t d o t s p ( A f e a a p s i t f c " s t c t w n v f i l o k e h f e o c t e a u a w t C o K F a c p f t b i v b ( A]
+[DELETED:   2  J S]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS BR 1270
+1 AN ACT relating to employment of unauthorized aliens.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF KRS CHAPTER 336 IS CREATED TO
+4 READ AS FOLLOWS:
+5 As used in Sections 1 to 3 of this Act:
+6 (1) "Alien" means any person who is not a citizen or national of the United States,
+7 as described in 8 U.S.C. sec. 1101 et seq., as amended;
+8 (2) "Business entity":
+9 (a) Means any person or group of persons that employs one (1) or more persons
+10 performing or engaging in any activity, enterprise, profession, or
+11 occupation for gain, benefit, advantage, or livelihood, whether for profit or
+12 not for profit; and
+13 (b) Includes but is not limited to:
+14 1. A self-employed individual, business entity filing articles of
+15 incorporation, partnership, limited partnership, limited liability
+16 company, foreign corporation, foreign limited partnership, foreign
+17 limited liability company authorized to transact business in this state,
+18 business trusts, and any business entity that registers with the
+19 Secretary of State; and
+20 2. Any business entity that possesses a business license, permit,
+21 certificate, approval, registration, charter, or similar form of
+22 authorization issued by the state, any business entity that is exempt by
+23 law from obtaining such a business license, and any business entity
+24 that is operating unlawfully without a business license;
+25 (3) "Contractor":
+26 (a) Means a person, employer, or business entity that enters into an agreement
+27 to perform any service or work or to provide a certain product in exchange
+Page 1 of 16
+XXXX 2/18/2025 11:01 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1270
+1 for valuable consideration; and
+2 (b) Includes but is not limited to a general contractor, subcontractor,
+3 independent contractor, contract employee, project manager, or a recruiting
+4 or staffing entity;
+5 (4) "Employee":
+6 (a) Means any person directed, allowed, or permitted to perform labor or
+7 service of any kind by an employer, except that employees of an independent
+8 contractor working for a business entity shall not be regarded as the
+9 employees of the business entity for the purposes of Sections 1 to 3 and 4 of
+10 this Act; and
+11 (b) Does not include any inmate in the legal custody of the state, a county, or a
+12 municipality;
+13 (5) "Employer":
+14 (a) Means any person, firm, corporation, partnership, joint stock association,
+15 agent, manager, representative, foreman, or other person having control or
+16 custody of any employment, place of employment, or of any employee,
+17 including any person or entity employing any person for hire within the
+18 Commonwealth of Kentucky, including a public employer; and
+19 (b) Does not include the occupant of a household contracting with another
+20 person to perform casual domestic labor within the household;
+21 (6) "Employment":
+22 (a) Means the act of employing or state of being employed, engaged, or hired to
+23 perform work or service of any kind or character within the Commonwealth
+24 of Kentucky, including any job, task, work, labor, personal services, or any
+25 other activity for which compensation is provided, expected, or due;
+26 (b) Includes but is not limited to all activities conducted by a business entity or
+27 employer; and
+Page 2 of 16
+XXXX 2/18/2025 11:01 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1270
+1 (c) Does not include:
+2 1. Casual domestic labor performed in a household on behalf of the
+3 occupant of the household; or
+4 2. The relationship between a contractor and the employees of a
+5 subcontractor performing work for the contractor;
+6 (7) "E-Verify" or "E-Verify Program" means the electronic verification of federal
+7 employment authorization program of the Illegal Immigration Reform and
+8 Immigrant Responsibility Act of 1996, Pub. L. No. 104-208, in U.S.C. sec.
+9 1324(a), as amended, and operated by the United States Department of Homeland
+10 Security, or a successor program.
+11 (8) "Federal work authorization program" means any of the electronic verification
+12 of work authorization programs operated by the United States Department of
+13 Homeland Security, or an equivalent federal work authorization program
+14 operated by the United States Department of Homeland Security to verify
+15 information of newly hired employees, under the Immigration Reform and
+16 Control Act of 1986, Pub. L .No. 99-603, as amended, or the Illegal Immigration
+17 Reform and Immigrant Responsibility Act of 1996, Pub. L. No. 104-208, as
+18 amended, in U.S.C. sec. 1324(a);
+19 (9) "Knows" or "knowingly" means a person acts knowingly or with knowledge with
+20 respect to either:
+21 (a) The person's conduct or to attendant circumstances when the person is
+22 aware of the nature of the person's conduct or that those circumstances
+23 exist; or
+24 (b) A result of the person's conduct when the person is reasonably aware that
+25 the person's conduct is likely to cause that result;
+26 (10) "Policy or practice" means a guiding principle or rule that may be written or
+27 adopted through repeated actions or customs;
+Page 3 of 16
+XXXX 2/18/2025 11:01 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1270
+1 (11) "Public employer" means every department, agency, or instrumentality of the
+2 state or a political subdivision of the state, including every department, agency, or
+3 instrumentality of cities, counties, urban-county governments, charter county
+4 governments, consolidated local governments, unified local governments, and
+5 special districts;
+6 (12) "State-funded entity":
+7 (a) Means any governmental entity of the state or a political subdivision thereof
+8 or any other entity that receives any moneys from the state or a political
+9 subdivision thereof; and
+10 (b) Does not include an entity that only provides a service or a product to any
+11 governmental entity of the state or a political subdivision thereof, and
+12 receives compensation for the same;
+13 (13) "Subcontractor" means a person, business entity, or employer who is awarded a
+14 portion of an existing contract by a contractor, regardless of its tier; and
+15 (14) "Unauthorized alien" means an alien who is not authorized to work in the United
+16 States as defined in 8 U.S.C. sec. 1324a(h)(3).
+17 SECTION 2. A NEW SECTION OF KRS CHAPTER 336 IS CREATED TO
+18 READ AS FOLLOWS:
+19 (1) A business entity, employer, or public employer shall not knowingly employ, hire
+20 for employment, or continue to employ an unauthorized alien to perform work
+21 within the Commonwealth of Kentucky. As used in this subsection, "knowingly
+22 employ, hire for employment, or continue to employ an unauthorized alien"
+23 means the actions described in 8 U.S.C. sec. 1324a.
+24 (2) Every business entity or employer in this state shall enroll in E-Verify and
+25 thereafter verify the employment eligibility of the employee through E-Verify in
+26 accordance with the federal statutes and regulations governing the E-Verify
+27 Program. A business entity or employer that uses E-Verify to determine the work
+Page 4 of 16
+XXXX 2/18/2025 11:01 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1270
+1 authorization of an employee shall not be deemed to have violated this section
+2 with respect to the employment of that employee.
+3 (3) On a finding of a first violation by a court of competent jurisdiction that a
+4 business entity or employer knowingly violated subsection (1) of this section, the
+5 court shall do all of the following:
+6 (a) Order the business entity or employer to terminate the employment of every
+7 unauthorized alien;
+8 (b) Subject the business entity or employer to a three (3) year probationary
+9 period throughout the state. During the probationary period, the business
+10 entity or employer shall file quarterly reports with the local county attorney
+11 specifying each new employee who is hired by the business entity or
+12 employer in the state;
+13 (c) Order the business entity or employer to file a signed, sworn affidavit with
+14 the local county attorney within three (3) days after the order is issued by
+15 the court stating that the business entity or employer has terminated the
+16 employment of every unauthorized alien and the business entity or employer
+17 will not knowingly or intentionally employ an unauthorized alien in this
+18 state; and
+19 (d) Direct the applicable state, county, or municipal governing bodies to
+20 suspend all existing business licenses and permits of the business entity or
+21 employer for a period not to exceed ten (10) business days specific to the
+22 business location where the unauthorized alien performed work.
+23 (4) Before a business license or permit that has been suspended under subsection
+24 (3)(d) of this section is reinstated, a legal representative of the business entity or
+25 employer shall submit to the court:
+26 (a) A signed, sworn affidavit stating that the business entity or employer is in
+27 compliance with subsection (1) of this section; and
+Page 5 of 16
+XXXX 2/18/2025 11:01 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1270
+1 (b) A copy of the memorandum of understanding issued to the business entity
+2 or employer at the time of enrollment in E-Verify.
+3 (5) The suspension of a business license or permit under subsection (3)(d) of this
+4 section shall terminate one (1) business day after a legal representative of the
+5 business entity or employer submits a signed, sworn affidavit to the court, stating
+6 that the business entity or employer is in compliance with subsection (1) of this
+7 section.
+8 (6) For a second violation of subsection (1) of this section by a business entity or
+9 employer, the court shall direct the applicable state, county, or municipal
+10 governing body to permanently revoke all existing business licenses and permits,
+11 held by the business entity or employer specific to the business location where the
+12 unauthorized alien performed work. On receipt of the order, and notwithstanding
+13 any other law, the appropriate agencies shall immediately revoke the licenses and
+14 permits held by the business entity or employer.
+15 (7) For a subsequent violation of subsection (1) of this section, the court shall direct
+16 the applicable governing bodies to forever suspend all existing business licenses
+17 and permits of the business entity or employer throughout the state.
+18 (8) This section shall not be construed to deny any procedural mechanisms or legal
+19 defenses included in the E-Verify Program or any other federal work
+20 authorization program. A person or entity that establishes that it has complied in
+21 good faith with the requirements of 8 U.S.C. sec. 1324a(b) establishes an
+22 affirmative defense that the business entity or employer did not knowingly hire or
+23 employ an unauthorized alien.
+24 (9) In proceedings of the court, the determination of whether an employee is an
+25 unauthorized alien shall be made by the federal government pursuant to 8 U.S.C.
+26 sec. 1373(c). The court shall consider only the federal government's
+27 determination when deciding whether an employee is an unauthorized alien. The
+Page 6 of 16
+XXXX 2/18/2025 11:01 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1270
+1 court may take judicial notice of any verification of an individual's immigration
+2 status previously provided by the federal government and may request the federal
+3 government to provide further automated or testimonial verification.
+4 (10) Any business entity or employer that terminates an employee to comply with this
+5 section shall not be liable for any claims made against the business entity or
+6 employer by the terminated employee, provided that the termination is made
+7 without regard to the race, ethnicity, or national origin of the employee and is
+8 consistent with the antidiscrimination laws of this state and the United States.
+9 (11) (a) In addition to the county attorneys of this state, the Attorney General shall
+10 also have authority to bring a civil complaint in any court of competent
+11 jurisdiction to enforce the requirements of this section.
+12 (b) Any resident of this state may petition the Attorney General to bring an
+13 enforcement action against a specific business entity or employer by means
+14 of a written, signed petition. A valid petition shall include an allegation that
+15 describes the alleged violator or violators, as well as the action constituting
+16 the violation, and the date and location where the action occurred.
+17 (c) A petition that alleges a violation on the basis of national origin, ethnicity,
+18 or race shall be deemed invalid and shall not be acted upon.
+19 (d) The Attorney General shall respond to any petition under this subsection
+20 within sixty (60) days of receiving the petition, either by filing a civil
+21 complaint in a court of competent jurisdiction or by informing the petitioner
+22 in writing that the Attorney General has determined that filing a civil
+23 complaint is not warranted.
+24 (12) This section shall not apply to the relationship between a party and the employees
+25 of an independent contractor performing work for the party and does not apply to
+26 casual domestic labor performed within a household.
+27 (13) (a) It is an affirmative defense to a violation of subsection (1) of this section
+Page 7 of 16
+XXXX 2/18/2025 11:01 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1270
+1 that a business entity or employer was entrapped.
+2 (b) To claim entrapment, the business entity or employer shall admit by
+3 testimony or other evidence the substantial elements of the violation.
+4 (c) A business entity or employer who asserts an entrapment defense has the
+5 burden of proving by clear and convincing evidence the following:
+6 1. The idea of committing the violation started with law enforcement
+7 officers or their agents rather than with the business entity or
+8 employer;
+9 2. The law enforcement officers or their agents urged and induced the
+10 business entity or employer to commit the violation; and
+11 3. The business entity or employer was not already predisposed to
+12 commit the violation before the law enforcement officers or their
+13 agents urged and induced the employer to commit the violation.
+14 (14) In addition to actions taken by the state or political subdivisions thereof, the
+15 Attorney General or the county attorney may bring an action to enforce the
+16 requirements of this section in any District Court of a county in which the
+17 business entity or employer does business.
+18 (15) The terms of this section shall be interpreted consistently with 8 U.S.C. sec. 1324a
+19 and any applicable federal rules and regulations.
+20 SECTION 3. A NEW SECTION OF KRS CHAPTER 336 IS CREATED TO
+21 READ AS FOLLOWS:
+22 (1) The Kentucky Office of Homeland Security shall establish and maintain an E-
+23 Verify employer agent service for any business entity or employer in this state
+24 with twenty-five (25) or fewer employees to use the E-Verify Program to verify an
+25 employee's employment eligibility on behalf of the business entity or employer.
+26 (2) The Kentucky Office of Homeland Security shall:
+27 (a) Establish an E-Verify employer agent account with the United States
+Page 8 of 16
+XXXX 2/18/2025 11:01 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1270
+1 Department of Homeland Security;
+2 (b) Enroll a participating business entity or employer in the E-Verify Program
+3 on its behalf; and
+4 (c) Conform to all federal statutes and regulations governing E-Verify
+5 employer agents.
+6 (3) The Kentucky Office of Homeland Security shall not charge a fee to a
+7 participating business entity or employer for the E-Verify employer agent service.
+8 (4) The Kentucky Office of Homeland Security's E-Verify employer agent service
+9 shall accommodate a business entity or employer who wishes to communicate
+10 with the Kentucky Office of Homeland Security by internet, by electronic mail, by
+11 facsimile machine, by telephone, or in person, provided that the communication
+12 is consistent with federal statutes and regulations governing E-Verify employer
+13 agents.
+14 (5) Before receiving any contract, grant, or incentive by the state, any political
+15 subdivision thereof, or any state-funded entity, a business entity or employer shall
+16 provide proof to the state, political subdivision thereof, or state-funded entity that
+17 the business entity or employer is enrolled and is participating in the E-Verify
+18 Program, either independently or through the Kentucky Office of Homeland
+19 Security's E-Verify employer agent service.
+20 (6) Every three (3) months, the Kentucky Office of Homeland Security shall request
+21 from the United States Department of Homeland Security a list of every business
+22 entity or employer in this state that is enrolled in the E-Verify Program. On
+23 receipt of the list, the Kentucky Office of Homeland Security shall make the list
+24 available on its website.
+25 (7) A business entity or employer that is enrolled in the E-Verify Program, verifies
+26 the employment eligibility of an employee in good faith pursuant to this section,
+27 and acts in conformity with all applicable federal statutes and regulations is
+Page 9 of 16
+XXXX 2/18/2025 11:01 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1270
+1 immune from liability under Kentucky law for any action by an employee for
+2 wrongful discharge or retaliation based on a notification from the E-Verify
+3 Program that the employee is an unauthorized alien.
+4 SECTION 4. A NEW SECTION OF KRS CHAPTER 45A IS CREATED TO
+5 READ AS FOLLOWS:
+6 (1) As used in this section:
+7 (a) The following terms have the same meanings as in Section 1 of this Act:
+8 1. "Alien";
+9 2. "Business entity";
+10 3. "Contractor";
+11 4. "Employee";
+12 5. "Employer";
+13 6. "Employment";
+14 7. "E-Verify" or "E-Verify Program";
+15 8. "Federal work authorization program";
+16 9. "Knows" or "knowingly";
+17 10. "Policy or practice";
+18 11. "State-funded entity";
+19 12. "Subcontractor"; and
+20 13. "Unauthorized alien"; and
+21 (b) "Contract" means a contract awarded by the state, any political subdivision
+22 thereof, or any state-funded entity that was competitively bid.
+23 (2) As a condition for the award of any contract, grant, or incentive by the state, any
+24 political subdivision thereof, or any state-funded entity to a business entity or
+25 employer that employs one (1) or more employees, the business entity or employer
+26 shall not knowingly employ, hire for employment, or continue to employ an
+27 unauthorized alien within the Commonwealth of Kentucky.
+Page 10 of 16
+XXXX 2/18/2025 11:01 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1270
+1 (3) As a condition for the award of any contract, grant, or incentive by the state, any
+2 political subdivision thereof, or any state-funded entity to a business entity or
+3 employer that employs one (1) or more employees within the Commonwealth of
+4 Kentucky, the business entity or employer shall provide documentation
+5 establishing that the business entity or employer is enrolled in the E-Verify
+6 Program. During the performance of the contract, the business entity or employer
+7 shall participate in the E-Verify Program and shall verify every employee that is
+8 required to be verified according to the applicable federal rules and regulations.
+9 (4) Any subcontractor on a project paid for by contract, grant, or incentive by the
+10 state, any political subdivision thereof, or any state-funded entity shall not
+11 knowingly employ, hire for employment, or continue to employ an unauthorized
+12 alien within the Commonwealth of Kentucky and shall also enroll in the E-Verify
+13 Program prior to performing any work on the project. Furthermore, during the
+14 performance of the contract, the subcontractor shall participate in the E-Verify
+15 Program and shall verify every employee that is required to be verified according
+16 to the applicable federal rules and regulations. This subsection shall only apply to
+17 subcontractors performing work on a project subject to this section and not to
+18 collateral persons or business entities hired by the subcontractor.
+19 (5) A contractor of any tier shall not be liable under this section when the contractor
+20 contracts with its direct subcontractor who violates subsection (4) of this section
+21 unless it is shown that the contractor knew or should have known that the direct
+22 subcontractor was in violation of subsection (4) of this section.
+23 (6) Upon a finding by a court of competent jurisdiction of a first violation of
+24 subsection (2) of this section by any business entity or employer, including a
+25 subcontractor:
+26 (a) The business entity or employer shall be deemed in breach of contract and
+27 the state, political subdivision thereof, or state-funded entity may terminate
+Page 11 of 16
+XXXX 2/18/2025 11:01 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1270
+1 the contract after providing notice and an opportunity to be heard;
+2 (b) The court shall do all of the following:
+3 1. Order the business entity or employer to terminate the employment of
+4 every unauthorized alien;
+5 2. Subject the business entity or employer to a three (3) year
+6 probationary period throughout the state. During the probationary
+7 period, the business entity or employer shall file quarterly reports with
+8 the Finance and Administration Cabinet of each new employee who is
+9 hired by the business entity or employer in the state; and
+10 3. Order the business entity or employer to file, subject to the penalty of
+11 perjury, a signed, sworn affidavit with the Finance and Administration
+12 Cabinet within three (3) days after the order is issued by the court
+13 stating that the business entity or employer has terminated the
+14 employment of every unauthorized alien and the business entity or
+15 employer will not knowingly or intentionally employ an unauthorized
+16 alien in this state;
+17 (c) If the court determines that the business entity or employer has a policy or
+18 practice that violates this section, the court shall direct the applicable state,
+19 county, or municipal governing bodies to suspend the business licenses or
+20 permits of the business entity or employer for a period not to exceed sixty
+21 (60) days specific to the location or locations where the unauthorized alien
+22 performed work; and
+23 (d) Before a business license or permit that has been suspended under
+24 paragraph (c) of this subsection is reinstated, a legal representative of the
+25 business entity or employer shall submit to the court a signed, sworn
+26 affidavit stating that the business entity or employer is in compliance with
+27 subsection (2) of this section and a copy of the Memorandum of
+Page 12 of 16
+XXXX 2/18/2025 11:01 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1270
+1 Understanding issued to the business entity or employer at the time of
+2 enrollment in E-Verify.
+3 (7) Upon a finding by a court of competent jurisdiction of a second violation of
+4 subsection (2) of this section by a business entity or employer, including a
+5 subcontractor, awarded a contract by the state, any political subdivision thereof,
+6 or any state-funded entity that occurs within ten (10) years of a finding by a court
+7 of competent jurisdiction of a first violation by the business entity or employer:
+8 (a) The business entity or employer shall be deemed in breach of contract and
+9 the state, political subdivision thereof, or state-funded entity shall terminate
+10 the contract after providing notice and an opportunity to be heard;
+11 (b) The court shall do all of the following:
+12 1. Order the business entity or employer to terminate the employment of
+13 every unauthorized alien;
+14 2. Subject the business entity or employer to a five (5) year probationary
+15 period throughout the state. During the probationary period, the
+16 business entity or employer shall file quarterly reports with the
+17 Finance and Administration Cabinet specifying each new employee
+18 who is hired by the business entity or employer in the state; and
+19 3. Order the business entity or employer to file, subject to the penalty of
+20 perjury, a signed, sworn affidavit with the Finance and Administration
+21 Cabinet within three (3) days after the order is issued by the court
+22 stating that the business entity or employer has terminated the
+23 employment of every unauthorized alien and the business entity or
+24 employer will not knowingly or intentionally employ an unauthorized
+25 alien in this state;
+26 (c) If the court determines that the business entity or employer has a policy or
+27 practice that violates this section, the court shall direct the applicable state,
+Page 13 of 16
+XXXX 2/18/2025 11:01 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1270
+1 county, or municipal governing body to suspend the business licenses or
+2 permits of the business entity or employer for a period not less than sixty
+3 (60) days and not to exceed one hundred twenty (120) days specific to the
+4 location or locations where the unauthorized alien performed work;
+5 (d) Before a business license or permit that has been suspended under
+6 paragraph (c) of this subsection is reinstated, a legal representative of the
+7 business entity or employer shall submit to the court a signed, sworn
+8 affidavit stating that the business entity or employer is in compliance with
+9 the provisions of subsection (2) of this section and a copy of the
+10 Memorandum of Understanding issued to the business entity or employer at
+11 the time of enrollment in E-Verify; and
+12 (e) A finding by a court of competent jurisdiction of a second violation of
+13 subsection (2) of this section that does not occur within ten (10) years of a
+14 first violation shall:
+15 (a) Be considered a second violation of subsection (2) of this section by
+16 the business entity or employer; and
+17 (b) Be penalized in accordance with subsection (6) of this section.
+18 (8) Upon a finding by a court of competent jurisdiction of a third violation of
+19 subsection (2) of this section by a business entity or employer, including a
+20 subcontractor, awarded a contract by the state, any political subdivision thereof,
+21 or any state-funded entity:
+22 (a) The business entity or employer shall be deemed in breach of contract and
+23 the state, political subdivision thereof, or state-funded entity shall terminate
+24 the contract after providing notice and an opportunity to be heard; and
+25 (b) The court shall direct the applicable state, county, or municipal governing
+26 bodies to permanently revoke all business licenses or permits of the business
+27 entity or employer.
+Page 14 of 16
+XXXX 2/18/2025 11:01 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1270
+1 (9) This section shall not be construed to deny any procedural mechanisms or legal
+2 defenses included in the E-Verify Program or any other federal work
+3 authorization program.
+4 (10) A business entity or employer that has enrolled in the E-Verify Program and has
+5 used the program to verify the work authorization of an employee shall not be
+6 liable under this section for violations resulting from the hiring of that employee.
+7 (11) The Finance and Administration Cabinet shall promulgate administrative
+8 regulations in accordance with KRS Chapter 13A to administer this section.
+9 (12) Compliance with this section may be verified by the contracting authority or any
+10 state or local law enforcement agency at any time to ensure a contractual
+11 agreement as provided for in this section is being met.
+12 (13) Anything to the contrary notwithstanding, this section shall not apply to
+13 agreements by the state, any political subdivision thereof, or any state-funded
+14 entity relating to debt obligations by such entities.
+15 (14) Any business entity or employer found in violation of this section that has had its
+16 business license or permit suspended shall not, for the duration of the
+17 suspension, be allowed, directly or indirectly, to procure or execute a license or
+18 permit similar to those that have been suspended.
+19 (15) All contracts or agreements to which the state, a political subdivision, or state-
+20 funded entity are a party shall include the following clause: "By signing this
+21 contract, the contracting parties affirm, for the duration of the agreement, that
+22 they will not violate federal immigration law or knowingly employ, hire for
+23 employment, or continue to employ an unauthorized alien within the
+24 Commonwealth of Kentucky. Furthermore, a contracting party found to be in
+25 violation of this provision shall be deemed in breach of the agreement and shall
+26 be responsible for all damages resulting therefrom."
+27 (16) An action brought under this section shall be brought in Franklin Circuit Court.
+Page 15 of 16
+XXXX 2/18/2025 11:01 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1270
+1 Section 5. This Act takes effect January 1, 2026.
+Page 16 of 16
+XXXX 2/18/2025 11:01 AM Jacketed
+
+[DELETED:   2  J A B S R A ( " a ( " ( M p o e i a a e p o o n ( I 1 A s i b e f a o i p l p l l c f c f l p f l b t a a b e t r w t S 2 A b e t p a b l p c a r c o s f o a l t ( " ( M t]
+[DELETED:   2  J f ( I b i n l t a g c s i o ( " ( M a p d a o p t p l o s c w f a b e s n b r a t e t ( D m ( " ( M a c o a e p o e o o a e i a p o e e a p f h w t C ( D n i t o o a h c w a p ( " ( M p o o ( I e]
+[DELETED:   2  J ( D 1 C d l p i a h o b o t o 2 T r b a c a t e o a s ( " e a p o t I I R a I R A o 1 P L N 1 i U s 1 S ( " o w a p o b t U S D o H S o a e f w a p o b t U S D o H S t v i o n h e u t I R a C R a I R A o 1 P L N 1 a a ( " r ( T p c o t a c w t p i a o t n o t p c o t t c e ( A t ( " a]
+[DELETED:   2  J ( " e m e d a o i o t s i o c c u g c c g c l g u l g a s ( " ( M o t s o a p s ( D g e o t s o a p s t a r ( " p ( " S S R ( A f w e h f e o c t e a u a m ( E b e o e i t s s e i E a t a w t f s a r g t E P]
+[DELETED:   2  J a w ( O a f o a f v b a c o c j t a b c ( O u ( S t b e o e t a t ( y p p e s e n e w i h b t b e o e ( O t t c s t t b e o e h t t e w n k o i e a u a i t s ( D t a s c o m g b t s e b ( B ( e ( A c]
+[DELETED:   2  J ( A o ( T s b t s ( F e t c s d t a s c o m g h u a p ( F t a ( T d i i t E P o a o f w a g f w t r o 8 U s 1 e a a e ( I p o t c t d o w a e i a u s 1 T c s c o t f g d]
+[DELETED:   2  J c s g ( A s s n b l f a c m a t b e o e b t t e p t t t i m w c ( ( I a h a t b a c c i a c o c j ( A r o t s m p t A G t b a e o d t ( A o ( T w s ( d o r t p e b f a c c i w t t A G h d t f a c c ( T o c ( ( I]
+[DELETED:   2  J t ( T c e t b e o e s a b t ( A b 1 T i o c t v s w l e o o t a r t w t b e o e 2 T b 3 T b e o e w n a p t c t v b t l e o o t a ( I a t a t b t s o p s t t A G o t c a m b a a t e t r o t s i a D C o a c i w t b ( T a S R ( T V e w e ( T ( E a E e a a w t U S]
+[DELETED:   2  J D ( E o ( C t a f s a r g E e ( T K O o H S s n c a f t a p ( T K O o H S E e a s s a a b e o e w w t c w f i a ( B r a c g o i b t s a p s p t P e i o t t K O o H S ( E f e o e i t s t i e i t E P O r a ( A t a a i c w a a f s a r i]
+[DELETED:   2  J i f l u K l f a a b a e f w d o r b o a n f t E P S R ( A ( T 1 " 2 " 3 " 4 " 5 " 6 " 7 " 8 " 9 " 1 " 1 " 1 " 1 " ( " t ( A p s t o a s e t a b e o e s n k e h f e o c t e a u]
+[DELETED:   2  J ( A p s t o a s e t a b e o e K t b e o e s p d e t t b e o e i e i t E P s r ( A s a p s t o a s e s n k a P p P t s c ( A c u s ( U a f b a c o c j o a f v o s ( o t s b a b e o e i a s ( T t]
+[DELETED:   2  J t ( T 1 O e 2 S t b e o e t a t ( y p p t t s D t p p t h 3 O p C w t ( d a t o i i b t c s t t b e o e h t t e o e u a a t b e o e a ( I p c p ( p ( B a b l o p t h b s u p b e o e s s t t c a s s a s ( o t s a a c o t M o]
+[DELETED:   2  J U i t t b e o e a t t o e ( U a f b a c o c j o a s v o s ( o t s b a b e o e i a s o o ( T t t ( T 1 O e 2 S p t t s D t p p t b e o e s f q r w t F a A C s e n e w 3 O p C w t ( d a t o i i b t c s t t b e o e h t t e o e u a a t b e o e a ( I p]
+[DELETED:   2  J c o m g b t s t b l o p ( l ( B a b l o p t h b s u p b e o e s s t t c a s s a t p o s ( o t s a a c o t M t ( A f b a c o c j o a s v o s f ( B t ( B ( U a f b a c o c j o a t v o s ( o t s b a b e o e i a s o ( T t t ( T b e]
+[DELETED:   2  J ( T d i i t E P o a o f w a ( A u l ( T F a A C s p a r ( C s o l l e a a a t t e a c a ( A t t c n t s s n a t a b t s a p s t o a s e ( A b l o p s s n f t d o t s p ( A f e a a p s i t f c " s t c t w n v f i l o k e h f e o c t e a u a w t C o K F a c p f t b i v b ( A]
+[DELETED:   2  J S]

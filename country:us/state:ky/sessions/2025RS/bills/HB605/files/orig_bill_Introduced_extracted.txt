@@ -1,0 +1,996 @@
+Title: 1 AN ACT relating to economic relief for local communities of the Commonwealth
+Official Title: 1 AN ACT relating to economic relief for local communities of the Commonwealth
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 16 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS BR 999
+2 and declaring an emergency.
+3 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+4 Section 1. KRS 154.14-020 is amended to read as follows:
+5 As used in this subchapter:
+6 (1) "Cabinet" means the Cabinet for Economic Development;
+7 (2) ["Commission" means the GRANT Commission established in KRS 154.14-080;
+8 (3) ]"County population ranking" means the score of each county determined by the
+9 cabinet under KRS 154.14-050(7);
+10 (3)[(4)] "Eligible grant applicant[recipient]" means[ a grant applicant that is] a county
+11 or city governing body, any entity organized in Kentucky providing law
+12 enforcement, fire, emergency medical, rescue, water utility, or waste water utility
+13 services to persons domiciled in Kentucky, or a nonprofit charitable organization
+14 organized under 26 U.S.C. sec. 501(c)(3) and engaged in public benefit
+15 improvements;
+16 (4)[(5)] "Eligible project" means a project that:
+17 (a) Meets the requirements for a federal grant offered or administered by a
+18 qualifying federal entity that:
+19 1. Requires a local match; or
+20 2. Is a Delta Regional Authority project that includes language explicitly
+21 stating that a local match will make an application more competitive;
+22 (b) Benefits the public or substantially benefits the public and satisfies the
+23 evaluation criteria in KRS 154.14-050 and that is initiated on:
+24 1. Publicly owned property;
+25 2. Property to be acquired, which comes with either a:
+26 a. Legally binding letter of intent or option for the sale to an eligible
+27 grant applicant[recipient]; or
+Page 1 of 16
+XXXX 2/17/2025 3:19 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 999
+1 b. Legally binding sale agreement for the sale to an eligible grant
+2 applicant[recipient]; or
+3 3. Private property on which a project is located that is in the public
+4 interest and for a public purpose and that benefits an eligible
+5 community; and
+6 (c)[(b)] Requires local matching funds based on the county population ranking
+7 as provided in KRS 154.14-050;
+8 (5)[(6)] "Eligible use" means the authorized purpose for which an awarded grant may
+9 be used depending on the source of funds from the federal
+10 government[Commonwealth];
+11 (6) "GRANT Program" means the Government Resources Accelerating Needed
+12 Transformation Program established in Section 2 of this Act;
+13 (7) "GRANT Program fund" means the fund established in Section 5 of this
+14 Act["Interagency Working Group" means the Interagency Working Group on Coal
+15 and Power Plant Communities and Economic Revitalization established by
+16 Presidential Executive Order 14008, issued on January 27, 2021];
+17 (8) "Population density":
+18 (a) Means the number of persons per square mile of a county;
+19 (b) Is calculated by dividing the total county population by the square miles in the
+20 county;
+21 (c) Is determined by using the population estimate from the most recent available
+22 five (5) year American Community Survey as published by the United States
+23 Census Bureau; and
+24 (d) Is used to rank each county in descending order, with the county having the
+25 largest population density receiving a rank of one (1) and the county with the
+26 smallest population density receiving a rank of one hundred twenty (120);
+27 (9) "Qualifying federal entity" includes the following:
+Page 2 of 16
+XXXX 2/17/2025 3:19 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 999
+1 (a) The Domestic Policy Council;
+2 (b) The Office of Management and Budget;
+3 (c) The United States Department of Energy;
+4 (d) The United States Department of the Treasury;
+5 (e) The United States Department of the Interior;
+6 (f) The United States Department of Agriculture;
+7 (g) The United States Department of Commerce;
+8 (h) The United States Department of Labor;
+9 (i) The United States Department of Health and Human Services;
+10 (j) The United States Department of Housing and Urban Development;
+11 (k) The United States Department of Transportation;
+12 (l) The United States Department of Education;
+13 (m) The United States Department of Homeland Security;
+14 (n) The United States Environmental Protection Agency;
+15 (o) The United States Department of the Army;
+16 (p) The Appalachian Regional Commission;
+17 (q) The Delta Regional Authority;
+18 (r) The National Science Foundation; and
+19 (s) Any federal agency, department, or entity that is the successor of an entity
+20 listed in paragraphs (a) to (r) of this subsection;
+21 (10) "Regional project" means an eligible project that is proposed by eligible grant
+22 applicants[recipients] residing or having a primary business address in different
+23 counties in this Commonwealth or by eligible grant subrecipients as part of a
+24 multistate project who submit a regional[single] grant application; and
+25 (11)[(10)] "Ten (10) year percentage change in population":
+26 (a) Means the percentage change in population within a county;
+27 (b) Is determined by comparing the population estimate from the most recent
+Page 3 of 16
+XXXX 2/17/2025 3:19 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 999
+1 available five (5) year American Community Survey as published by the
+2 United States Census Bureau to the same survey ten (10) years prior to the
+3 most recent available survey; and
+4 (c) Is used to rank each county in descending order, with the county having the
+5 largest positive percentage change in population receiving a rank of one (1)
+6 and the county with the largest negative percentage change receiving a rank of
+7 one hundred twenty (120).
+8 Section 2. KRS 154.14-030 is amended to read as follows:
+9 (1) The Government Resources Accelerating Needed Transformation Program[ of
+10 2024] is hereby established under the cabinet[, subject to the approval of the
+11 commission established in KRS 154.14-080]. The cabinet's administration of the
+12 program includes but is not limited to the following:
+13 (a) Creating and making available a standardized grant application and a regional
+14 grant application for the obligation of state funds under this subchapter to
+15 apply for matching federal funds;
+16 (b) Developing a standardized scoring system pursuant to this section and KRS
+17 154.14-050;
+18 (c) Reviewing and processing [the ]applications submitted to the cabinet by[ the
+19 proposed] eligible grant applicants[recipients to the cabinet];
+20 (d) Verifying that[and determining whether a match applicant is] an eligible grant
+21 applicant[recipient that] is seeking a federal grant for an eligible project;
+22 (e) Evaluating the project proposed by the match application in accordance with
+23 the evaluation criteria set forth in this section and KRS 154.14-050;[.]
+24 (f) Scoring each [match ]application pursuant to the scoring system described in
+25 KRS 154.14-050;
+26 (g) Ranking each match application:
+27 1. To prioritize the greatest return on investment and relative positive
+Page 4 of 16
+XXXX 2/17/2025 3:19 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 999
+1 impact of the eligible project; and
+2 2. Based on the project evaluation and the project score described in this
+3 section and KRS 154.14-050;[.]
+4 (h) Identifying eligible grant[Compiling a list of proposed match] applicants
+5 whose eligible project demonstrates a high level of investment potential if a
+6 match is provided, as revealed by the evaluation, scoring, and county
+7 population ranking process described in this section and KRS 154.14-050;
+8 (i) Providing detailed feedback to the eligible grant[match] applicants after the
+9 project evaluation and project score are completed and the [match ]application
+10 is approved or denied by the cabinet, unless otherwise prohibited by federal or
+11 state law;
+12 (j) Obligating matching funds to selected eligible grant applicants[recipients];
+13 and
+14 (k) Compiling the monthly and annual reports[report] to be submitted under
+15 KRS 154.14-070[; and
+16 (l) Compiling the annual report to be submitted under KRS 154.14-070].
+17 (2) The cabinet shall determine the terms, conditions, and requirements of grant
+18 awards from the GRANT Program[application for match funds awarded from the
+19 Government Resources Accelerating Needed Transformation Program of 2024]
+20 fund. The cabinet may establish procedures and standards for the review and
+21 approval of the obligation of match funds through the promulgation of
+22 administrative regulations in accordance with KRS Chapter 13A[. By December 1,
+23 2024, the cabinet shall submit recommended legislative changes to the Legislative
+24 Research Commission for referral to and for consideration by the Senate Standing
+25 Committee on Appropriations and Revenue and the House Standing Committee on
+26 Appropriations and Revenue or the Interim Joint Committee on Appropriations and
+27 Revenue].
+Page 5 of 16
+XXXX 2/17/2025 3:19 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 999
+1 (3) The secretary of the cabinet shall have the authority to hire staff, contract for
+2 services, expend funds, and operate the normal business activities of the GRANT
+3 Program[Government Resources Accelerating Needed Transformation Program of
+4 2024]. Notwithstanding KRS Chapter 45A, the cabinet may contract with a third
+5 party for implementation and administration of the program.
+6 (4) The GRANT Program[Government Resources Accelerating Needed
+7 Transformation Program of 2024 as provided in this subchapter] shall sunset on
+8 December 31, 2026, unless authorized by the General Assembly to continue its
+9 work for a specified period of time.
+10 (5) The Kentucky Council of Area Development Districts and local area development
+11 districts shall assist eligible grant applicants[recipients] in identifying available
+12 federal grant opportunities and preparing federal grant applications and GRANT
+13 Program[Government Resources Accelerating Needed Transformation Program of
+14 2024] applications. [Nothing in ]This subsection shall not prevent any public
+15 agency or nonprofit entity from assisting eligible grant applicants[recipients] in
+16 identifying available federal grant opportunities and preparing federal grant
+17 applications and GRANT Program[Government Resources Accelerating Needed
+18 Transformation Program of 2024] applications.
+19 (6) Upon request of the local area development districts, a local public institution in the
+20 postsecondary education system as defined in KRS 164.001 shall assist the eligible
+21 grant applicants[recipients] in their area by including but not limited to:
+22 (a) Identifying opportunities for federal grants;
+23 (b) Rendering supplemental support for federal grant applications on behalf of the
+24 communities including but not limited to providing data and analysis for the
+25 federal grant application; or
+26 (c) Acting as the contact person for the local public institution to the Kentucky
+27 Council of Area Development Districts and to the area development district in
+Page 6 of 16
+XXXX 2/17/2025 3:19 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 999
+1 which the local public institution is located and updating the contact person
+2 information.
+3 Section 3. KRS 154.14-040 is amended to read as follows:
+4 (1) (a) To participate in the GRANT Program[Government Resources Accelerating
+5 Needed Transformation Program of 2024], eligible grant applicants shall
+6 submit either a standardized or a regional grant application to the cabinet[ for
+7 consideration by the commission].
+8 (b) The cabinet shall review applications monthly. Each monthly review shall
+9 include all applications submitted but not yet reviewed by the first day of
+10 each month.
+11 (c) The cabinet shall provide a preliminary evaluation of each application
+12 submitted by the first day of the month[the application] within fourteen (14)
+13 calendar[five (5) business] days of the first day of the month[receipt of the
+14 application]. As part of the preliminary evaluation, the cabinet shall consider
+15 the applicant's eligibility and the application[the following:
+16 1. Applicant's eligibility when evaluated against the requirements of the
+17 federal grant; and
+18 2. Application] completeness when evaluated against the requirements of
+19 the federal grant.
+20 (d)[(c)] The cabinet shall provide a final decision of approval or denial on the
+21 application by the last day of the month in which the application was
+22 preliminarily reviewed. If an application is denied, the cabinet may provide
+23 feedback about any possible corrective action, in which case the applicant
+24 may resubmit the application for reconsideration after taking the
+25 recommended corrective action[within twenty-one (21) calendar days of
+26 receipt of the application].
+27 (2) If a grant application is approved, the recipient[selected as an eligible match
+Page 7 of 16
+XXXX 2/17/2025 3:19 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 999
+1 recipient approved under this subchapter, it] shall comply with any match
+2 [agreement ]and reporting requirements established[deemed necessary] by the
+3 cabinet to verify that the awarded funds will be or have been expended on[to go
+4 toward] an eligible use.
+5 (3) The obligation of funds for an approved project shall not remain obligated longer
+6 than twelve (12) months for that project until the grant recipient receives a
+7 decision. An approved project may receive a six (6) month extension of this
+8 deadline from the cabinet.
+9 (4) If the grant[selected match] recipient fails to comply with subsection (2) of this
+10 section or uses the awarded funds[match money] for any purpose other than an
+11 eligible use, the grant[selected eligible match] recipient shall forfeit and be liable to
+12 the cabinet for the full award amount.
+13 Section 4. KRS 154.14-050 is amended to read as follows:
+14 (1) [The cabinet shall identify and certify the areas for grant funding designated by the
+15 United States Department of Housing and Urban Development, Delta Regional
+16 Authority, or Interagency Working Group as a priority for obligation of match
+17 funds. Any area in Kentucky that is eligible for federal grant resources but is not a
+18 United States Department of Housing and Urban Development, a Delta Regional
+19 Authority, or an Interagency Working Group designated community, may be
+20 eligible for obligation of state funds under this section. ]The cabinet shall not
+21 approve a project unless it finds that the project is in the public interest and the
+22 grant funds will be used for a public purpose. For purposes of this subsection,
+23 projects that are in the public interest and for a public purpose can include a
+24 derivative private benefit, if the cabinet finds the following:
+25 (a) The project will enhance a community or region;
+26 (b) The granting entity for which the cabinet's matching grant is being used
+27 requires a public purpose for grant eligibility; or
+Page 8 of 16
+XXXX 2/17/2025 3:19 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 999
+1 (c) The cabinet in its judgment concludes the proposal will enhance the quality of
+2 life or services in a community or region.
+3 (2) The cabinet shall evaluate each applicant's eligible project according to the criteria
+4 described in this section for the purpose of compiling a [recommendation and ]score
+5 for the eligible project pursuant to this section.
+6 (3) If a match applicant is selected as an eligible grant applicant[recipient] approved
+7 under the GRANT Program[Government Resources Accelerating Needed
+8 Transformation Program of 2024], it shall comply with any incentive agreements
+9 and reporting requirements deemed necessary by the cabinet to verify that the
+10 awarded grant shall go toward an eligible use.
+11 (4) In the administration of the GRANT Program[Government Resources Accelerating
+12 Needed Transformation Program of 2024], the cabinet shall develop a scoring
+13 system for eligible grant applications[the project proposed by each match
+14 applicant] based on the total projected return on investment and the relative positive
+15 impact in the community.
+16 (5) The scoring system shall include a:
+17 (a) Score in each category as specified in subsection (6) of this section; and
+18 (b) Total weighted score, which is the average of the scores in each category.
+19 (6) The scoring categories shall include but are not limited to:
+20 (a) Projected return on investment the project will yield, which includes an
+21 assessment of the:
+22 1. Likelihood of project completion both with the match[cabinet's] funding
+23 and without;
+24 2. Application content when evaluated against the federal grant program's
+25 publicly available scoring rubric or evaluation criteria, if any;
+26 3. Projected gross economic impact of the proposed project on the
+27 community;
+Page 9 of 16
+XXXX 2/17/2025 3:19 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 999
+1 4. Projected number of jobs created by the proposed project and
+2 subsequent impact on the community;
+3 5. Determination of the cost of the project based on the amount[cost]
+4 expended by the cabinet if it obligates the requested grant amount to the
+5 applicant;
+6 6. Evidence of community support for the project submitted by:
+7 a. The eligible grant applicant; or
+8 b. A majority of eligible grant applicants for a regional project;
+9 7. Likelihood that the applicant can successfully manage the federal grant's
+10 administration requirements; and
+11 8. Likelihood of success based on a federal agency prioritization of a
+12 particular applicant; and
+13 (b) Overall positive impact the project will have on the surrounding community
+14 as evidenced by clear and feasible projected outcomes of the grant-funded
+15 project.
+16 (7) (a) On or before May 1, 2024, and not later than May 1 every two (2) years
+17 thereafter, the cabinet shall determine a county population ranking for each
+18 county by adding the following two (2) factors:
+19 1. The population density ranking; and
+20 2. The ten (10) year percentage change in population ranking.
+21 (b) The required local match for each county shall be as follows:
+22 1. Eligible projects in counties where the county population ranking is
+23 greater than or equal to one hundred ninety-three (193) shall provide a
+24 minimum amount of local matching funds equal to one percent (1%) of
+25 the state match;
+26 2. Eligible projects in counties where the county population ranking is less
+27 than one hundred ninety-three (193) but greater than or equal to one
+Page 10 of 16
+XXXX 2/17/2025 3:19 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 999
+1 hundred forty-five (145) shall provide a minimum amount of local
+2 matching funds equal to two percent (2%) of the state match;
+3 3. Eligible projects in counties where the county population ranking is less
+4 than one hundred forty-five (145) but greater than or equal to ninety-
+5 seven (97) shall provide a minimum amount of local matching funds
+6 equal to three percent (3%) of the state match;
+7 4. Eligible projects in counties where the county population ranking is less
+8 than ninety-seven (97) but greater than or equal to forty-nine (49) shall
+9 provide a minimum amount of local matching funds equal to four
+10 percent (4%) of the state match; and
+11 5. Eligible projects in counties where the county population ranking is less
+12 than forty-nine (49) shall provide a minimum amount of local matching
+13 funds equal to five percent (5%) of the state match.
+14 (c) On or before November 1, 2024, and no later than November 1 every two (2)
+15 years thereafter, the cabinet shall report to the Legislative Research
+16 Commission and the Interim Joint Committee on Appropriation and Revenue
+17 the following information for each county:
+18 1. The county name;
+19 2. The population density ranking for that county;
+20 3. The ten (10) year percentage change in population ranking for that
+21 county; and
+22 4. The county population ranking for that county.
+23 (8) (a) For selected eligible grant applicants[recipients] that are involved in a
+24 regional project, the cabinet may pool the potential allocation of funds
+25 available for each county represented by the eligible grant
+26 applicants[recipients] for the grant amount awarded.
+27 (b) A county that is an eligible grant applicant[recipient] involved in a regional
+Page 11 of 16
+XXXX 2/17/2025 3:19 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 999
+1 project shall provide that county's local matching funds based on the county
+2 population ranking determined under subsection (7) of this section and each
+3 county's local matching funds may be pooled as described in paragraph (a) of
+4 this subsection[.
+5 (9) Beginning no later than November 1, 2024, and annually thereafter until the
+6 authorized appropriation is spent or returned, the cabinet shall compile and submit a
+7 report for each application approved by the GRANT Commission established in
+8 KRS 154.14-080 for the Government Resources Accelerating Needed
+9 Transformation Program of 2024. The report shall be electronically delivered to the
+10 Legislative Research Commission and the Interim Joint Committee on
+11 Appropriations and Revenue and contain the following information:
+12 (a) The name of the applicant, a description of the eligible project, and the
+13 location of each proposed project for which an application was approved;
+14 (b) The date the application was approved by the GRANT Commission;
+15 (c) The amount of funding authorized for each project approved;
+16 (d) The total amount of funding disbursed for each project approved; and
+17 (e) The round of funding for which each project received approval.
+18 (10) The Government Resources Accelerating Needed Transformation Program of 2024
+19 shall begin April 15, 2024. The cabinet shall begin accepting applications for the
+20 program on May 15, 2024].
+21 Section 5. KRS 154.14-060 is amended to read as follows:
+22 (1) There is hereby established in the State Treasury a trust and agency account to be
+23 known as the GRANT Program[Government Resources Accelerating Needed
+24 Transformation Program of 2024] fund. The fund shall consist of moneys received
+25 from state appropriations, gifts, grants, and federal funds.
+26 (2) The fund shall be administered and maintained by the cabinet.
+27 (3) (a) Amounts deposited in the fund shall be used for awarding:
+Page 12 of 16
+XXXX 2/17/2025 3:19 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 999
+1 1.[(a)] Matching funds to successful applicants of the GRANT
+2 Program[Government Resources Accelerating Needed Transformation
+3 Program of 2024] upon notification of award of the federal grant
+4 requiring matching funds. Except as provided in paragraph (b) of this
+5 subsection, up to twenty percent (20%) of the amounts deposited in the
+6 fund shall be used for match awards for nonprofit charitable
+7 organizations organized under 26 U.S.C. sec. 501(c)(3); and
+8 2.[(b)] Matching funds to successful applicants of the GRANT
+9 Program[Government Resources Accelerating Needed Transformation
+10 Program of 2024] upon notification of award of the federal grant
+11 requiring matching funds. Except as provided in paragraph (b) of this
+12 subsection, up to eighty percent (80%) of the amounts deposited in the
+13 fund shall be used for match awards to county or city governing bodies.
+14 (b) The cabinet may transfer up to ten percent (10%) of funds remaining in one
+15 (1) of the categories listed in paragraph (a)1. or 2. of this subsection to the
+16 other category in that paragraph if:
+17 1. The upper limit established is reached within a category;
+18 2. There are eligible projects to be funded from the category that has
+19 reached the limit; and
+20 3. Funds remain available in the other category.
+21 If a transfer is made, the cabinet shall provide notice in writing to the
+22 Interim Joint Committee on Appropriations and Revenue if the transfer is
+23 made during an interim between legislative sessions, or the Senate Standing
+24 Committee on Appropriations and Revenue and the House Standing
+25 Committee on Appropriations and Revenue if the transfer is made during a
+26 legislative session.
+27 (4) Notwithstanding KRS 45.229, moneys in the account not expended at the close of a
+Page 13 of 16
+XXXX 2/17/2025 3:19 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 999
+1 fiscal year shall not lapse but shall be carried forward into the next fiscal year.
+2 (5) Any interest earnings of the fund shall become a part of the fund and shall not
+3 lapse.
+4 (6)[ Moneys deposited in the fund are hereby appropriated for the purposes set forth in
+5 this section and shall not be appropriated or transferred by the General Assembly
+6 for any other purposes.
+7 (7)] Any match funds awarded under subsection (3) of this section shall be canceled
+8 upon denial of the federal award[.
+9 (8) On or after June 30, 2024, any unencumbered moneys in the fund established in
+10 KRS 147A.158 shall be transferred to the Government Resources Accelerating
+11 Needed Transformation Program of 2024 fund administered by the Cabinet for
+12 Economic Development created in this section].
+13 Section 6. KRS 154.14-070 is amended to read as follows:
+14 (1) (a) By June 1, 2024, and the first day of each month thereafter, the cabinet shall
+15 submit a [monthly ]report on eligible project applications to the Governor and
+16 the Senate Standing Committee on Appropriations and Revenue and the
+17 House Standing Committee on Appropriations and Revenue, or the Interim
+18 Joint Committee on Appropriations and Revenue, and make the reports
+19 available on the cabinet's website.
+20 (b) The monthly report shall be a summary of the eligible project applications and
+21 shall include but not be limited to the following:
+22 1. A list of all eligible grant applications received[match applicants];
+23 2. The identity of applicants who were not selected for the obligation of
+24 [match ]funds;
+25 3. Trends found in feedback given to applicants who were not selected for
+26 the obligation of [match ]funds;
+27 4. For each submitted eligible grant application:
+Page 14 of 16
+XXXX 2/17/2025 3:19 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 999
+1 a. The eligible use of funds and project for which funds are
+2 requested[Eligible uses of the projects cited in the match
+3 applications];
+4 b.[5.] The date of submission[the application;
+5 6. The date of receipt of the application by the cabinet];
+6 c.[7.] A description of the federal grant funds applied for by the
+7 applicant;
+8 d.[8.] A description of the title, subject matter, preliminary evaluation,
+9 and scoring tally of the eligible grant application[project];
+10 e.[9.] The date of the cabinet's preliminary evaluation;
+11 f.[10.] The amount [of moneys ]requested, and the amount [of
+12 moneys ]approved or denied[ for each application]; and
+13 g.[11.] The date of the cabinet's final decision on obligation of the
+14 match funds, the date of the federal grant approval or denial, and
+15 whether the eligible project was approved or denied[; and
+16 12. Any other information requested by the cabinet].
+17 (2) By November 1, 2024, and annually thereafter until November 1, 2026, the cabinet
+18 shall prepare an annual report of the GRANT Program[Government Resources
+19 Accelerating Needed Transformation Program of 2024] to be submitted to the
+20 Governor and the Interim Joint Committee on Appropriations and Revenue and
+21 made available on the cabinet's website. The annual report shall include but not be
+22 limited to the following:
+23 (a) A summary of the monthly reports and the eligible grant[match] applications
+24 received and relevant statistics relating to actions taken by the cabinet and
+25 grants awarded, including the applicant, award amount, and the purpose of the
+26 funding;
+27 (b) The current balance of the GRANT Program[Government Resources
+Page 15 of 16
+XXXX 2/17/2025 3:19 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 999
+1 Accelerating Needed Transformation Program of 2024] fund;
+2 (c) Recommendations regarding appropriations to the GRANT
+3 Program[Government Resources Accelerating Needed Transformation
+4 Program of 2024] fund for the upcoming fiscal year; and
+5 (d) Recommendations for legislation or policy actions needed to facilitate greater
+6 receipt of grant funding to eligible grant applicants[recipients].
+7 Section 7. The following KRS sections are repealed:
+8 154.14-010 Purpose of Government Resources Accelerating Needed Transformation
+9 Program of 2024.
+10 154.14-080 GRANT Commission -- Membership -- Meetings -- Staffing.
+11 Section 8. Whereas the GRANT program is available for a limited time period
+12 and administrative efficiency requires that funding be allocated immediately, an
+13 emergency is declared to exist, and this Act takes effect upon its passage and approval by
+14 the Governor or upon its otherwise becoming a law.
+Page 16 of 16
+XXXX 2/17/2025 3:19 PM Jacketed
+[DELETED:   2  J A a B S A ( " ( [ ( ] c ( " o c g b a e o i K p l e s o u 2 U s 5 a e i p b i ( " ( M t r f a f g o o a b a q 1 R 2 I s ( B t p o s b t p a s t e 1 P 2 P a L g]
+[DELETED:   2  J b L b s a f t s t a e g a 3 P p o w a p i l t i i t p i a f a p p a t b a e c ( R a ( " b u d o t s o f f t f g ( " P m t G R A N T ( " P f m t f e i S 5 o t A a P P C a E R e b P ( " ( M ( I c ( I f C ( I l s ( "]
+[DELETED:   2  J ( T ( T ( T ( T ( T ( T ( T ( T ( T ( T ( T ( T ( T ( T ( T ( T ( T ( T ( A l ( " p m a e p t i p b e g a r o h a p b a i d c i t C o b e g s a p o a m ( " ( M ( I d b c t p e f t m r]
+[DELETED:   2  J a f ( y A C S a p b t U m ( I l a o S ( T G R A N T P o 2 i h e u t c s t t a o t c p ( C g a f t o o s f u t s t a ( D 1 ( R p ( V a ( E t ( S K ( R 1 T p t g r o i a r p]
+[DELETED:   2  J i 2 B s ( I e g a l o p m a w m i p a r b t e s a c p ( P p i s ( O m f t s e g a a ( C t m a a r t b s u K ( C ( T c s d t t c a r o g a G R A N T P o 2 f T c m e p a s f t r a a o t o o m f t t p o a 2 R C A R]
+[DELETED:   2  J ( T s o t c s h t a t h s c f s P 2 p ( T G P R A N T D 3 2 u a b t G A t c i w ( T d s a e g a i i a f g o a p f g a a G P 2 a [ i ] s s n p a p a o n e f a e g a i i a f g o a p f g a a G P R A N T ( U p g ( I ( R c f ( A C]
+[DELETED:   2  J w i S ( ( T N T P o 2 e g a s s c ( T i e ( T c s p a p e o e a s c a t 1 A e w e a t r o t f 2 A t ( T a b t l d o t m i w t a w p f m r t a f r a t t r c a t ( c d o r ( I a g a i a t r a a e m]
+[DELETED:   2  J r a u t s i s c w a m [ ] r r e n b t c t ( T t t ( m f t p u t g r r a d A a p m r a s ( m e o t d ( I s o t a f m f a p o a e t S ( [ U S D o H a U D D R A o I W G a a p f o o m f U A o a I W G d c m b e f o o s f u t s ] c s n a g f w b u f a p p F p o t s p t a i t p i a f a p p c i a d ( T ( T g e f w t c m g i b u r]
+[DELETED:   2  J ( T l ( T d f ( I u t G P R A N T a r r d n b t c t v t t a ( I N T P o 2 t c s d a s s f e g a p p b e m a i ( T ( S ( T ( T ( P r o i t p w y w i a a 1 L a 2 A p 3 P g e i o t p p o t c]
+[DELETED:   2  J 4 P n o j c b t p p a s 5 D o t c o t p b o t a e a 6 E a T b A 7 L a 8 L o s b o a f a p o a p ( O a e b c a f p o o t g p ( ( O o b M 1 2 a n l t M 1 e t ( y t c 1 T 2 T ( T 1 E p i c w t c p r i g m t 2 E t o h n ( b g t o e t o]
+[DELETED:   2  J h f ( s p a m a o l m 3 E t s ( p a m a o l m f e 4 E t p a m a o l m f e t f p 5 E t f ( O y t t c s r t t L R C t 1 T 2 T 3 T t ( y p c i p r f t c 4 T ( ( F s e g a t a i i a r p t c m p t p a o f a f e c r b t e g a ( A]
+[DELETED:   2  J p p c t ( B n l t N 1 2 a a t u t a r f a a b t G C e i K 1 f t G R A N T L R C a t I J C o A ( T n o t a a d o t e p a t l ( T ( T ( T ( T ( T s p S ( T k a t G P R A N T f ( T ( ( A]
+[DELETED:   2  J 1 M f t s a o t G P R A N T P o 2 u n o a o t f g r s f s b u f m a f n c o 2 M f t s a o t G P R A N T P o 2 u n o a o t f g r s f ( T ( o 1 T 2 T a e p t b f f t c t h r 3 F  I a t i m t c s p n i w t t I m C o A a R a t H S C l ( N]
+[DELETED:   2  J f ( A i e o t f b a p o f a s n l ( M t f ( A u ( O K 1 s b t t t G R A N T P o 2 f a b t C f E S ( ( B s t S S C o A a R a t H J C o A a R a m t r a ( T s 1 A 2 T [ 3 T t 4 F]
+[DELETED:   2  J a T e u o f a p f w f a r u o t p c i t m a b 6 T c d o t f g f a f b t a d a e f T a [ m ] a t a [ m g T m w 1 A ( B s p a a r o t G P R A N T P o 2 t b s t t G a t I J C o A a R a m l ( A r a a g f ( T c b o t G P R]
+[DELETED:   2  J A ( R r a t t G P R A N T P ( R r S 1 o G R A N T P 1 S a a e r t f b a i a e t]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS BR 999
+1 AN ACT relating to economic relief for local communities of the Commonwealth
+2 and declaring an emergency.
+3 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+4 Section 1. KRS 154.14-020 is amended to read as follows:
+5 As used in this subchapter:
+6 (1) "Cabinet" means the Cabinet for Economic Development;
+7 (2) ["Commission" means the GRANT Commission established in KRS 154.14-080;
+8 (3) ]"County population ranking" means the score of each county determined by the
+9 cabinet under KRS 154.14-050(7);
+10 (3)[(4)] "Eligible grant applicant[recipient]" means[ a grant applicant that is] a county
+11 or city governing body, any entity organized in Kentucky providing law
+12 enforcement, fire, emergency medical, rescue, water utility, or waste water utility
+13 services to persons domiciled in Kentucky, or a nonprofit charitable organization
+14 organized under 26 U.S.C. sec. 501(c)(3) and engaged in public benefit
+15 improvements;
+16 (4)[(5)] "Eligible project" means a project that:
+17 (a) Meets the requirements for a federal grant offered or administered by a
+18 qualifying federal entity that:
+19 1. Requires a local match; or
+20 2. Is a Delta Regional Authority project that includes language explicitly
+21 stating that a local match will make an application more competitive;
+22 (b) Benefits the public or substantially benefits the public and satisfies the
+23 evaluation criteria in KRS 154.14-050 and that is initiated on:
+24 1. Publicly owned property;
+25 2. Property to be acquired, which comes with either a:
+26 a. Legally binding letter of intent or option for the sale to an eligible
+27 grant applicant[recipient]; or
+Page 1 of 16
+XXXX 2/17/2025 3:19 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 999
+1 b. Legally binding sale agreement for the sale to an eligible grant
+2 applicant[recipient]; or
+3 3. Private property on which a project is located that is in the public
+4 interest and for a public purpose and that benefits an eligible
+5 community; and
+6 (c)[(b)] Requires local matching funds based on the county population ranking
+7 as provided in KRS 154.14-050;
+8 (5)[(6)] "Eligible use" means the authorized purpose for which an awarded grant may
+9 be used depending on the source of funds from the federal
+10 government[Commonwealth];
+11 (6) "GRANT Program" means the Government Resources Accelerating Needed
+12 Transformation Program established in Section 2 of this Act;
+13 (7) "GRANT Program fund" means the fund established in Section 5 of this
+14 Act["Interagency Working Group" means the Interagency Working Group on Coal
+15 and Power Plant Communities and Economic Revitalization established by
+16 Presidential Executive Order 14008, issued on January 27, 2021];
+17 (8) "Population density":
+18 (a) Means the number of persons per square mile of a county;
+19 (b) Is calculated by dividing the total county population by the square miles in the
+20 county;
+21 (c) Is determined by using the population estimate from the most recent available
+22 five (5) year American Community Survey as published by the United States
+23 Census Bureau; and
+24 (d) Is used to rank each county in descending order, with the county having the
+25 largest population density receiving a rank of one (1) and the county with the
+26 smallest population density receiving a rank of one hundred twenty (120);
+27 (9) "Qualifying federal entity" includes the following:
+Page 2 of 16
+XXXX 2/17/2025 3:19 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 999
+1 (a) The Domestic Policy Council;
+2 (b) The Office of Management and Budget;
+3 (c) The United States Department of Energy;
+4 (d) The United States Department of the Treasury;
+5 (e) The United States Department of the Interior;
+6 (f) The United States Department of Agriculture;
+7 (g) The United States Department of Commerce;
+8 (h) The United States Department of Labor;
+9 (i) The United States Department of Health and Human Services;
+10 (j) The United States Department of Housing and Urban Development;
+11 (k) The United States Department of Transportation;
+12 (l) The United States Department of Education;
+13 (m) The United States Department of Homeland Security;
+14 (n) The United States Environmental Protection Agency;
+15 (o) The United States Department of the Army;
+16 (p) The Appalachian Regional Commission;
+17 (q) The Delta Regional Authority;
+18 (r) The National Science Foundation; and
+19 (s) Any federal agency, department, or entity that is the successor of an entity
+20 listed in paragraphs (a) to (r) of this subsection;
+21 (10) "Regional project" means an eligible project that is proposed by eligible grant
+22 applicants[recipients] residing or having a primary business address in different
+23 counties in this Commonwealth or by eligible grant subrecipients as part of a
+24 multistate project who submit a regional[single] grant application; and
+25 (11)[(10)] "Ten (10) year percentage change in population":
+26 (a) Means the percentage change in population within a county;
+27 (b) Is determined by comparing the population estimate from the most recent
+Page 3 of 16
+XXXX 2/17/2025 3:19 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 999
+1 available five (5) year American Community Survey as published by the
+2 United States Census Bureau to the same survey ten (10) years prior to the
+3 most recent available survey; and
+4 (c) Is used to rank each county in descending order, with the county having the
+5 largest positive percentage change in population receiving a rank of one (1)
+6 and the county with the largest negative percentage change receiving a rank of
+7 one hundred twenty (120).
+8 Section 2. KRS 154.14-030 is amended to read as follows:
+9 (1) The Government Resources Accelerating Needed Transformation Program[ of
+10 2024] is hereby established under the cabinet[, subject to the approval of the
+11 commission established in KRS 154.14-080]. The cabinet's administration of the
+12 program includes but is not limited to the following:
+13 (a) Creating and making available a standardized grant application and a regional
+14 grant application for the obligation of state funds under this subchapter to
+15 apply for matching federal funds;
+16 (b) Developing a standardized scoring system pursuant to this section and KRS
+17 154.14-050;
+18 (c) Reviewing and processing [the ]applications submitted to the cabinet by[ the
+19 proposed] eligible grant applicants[recipients to the cabinet];
+20 (d) Verifying that[and determining whether a match applicant is] an eligible grant
+21 applicant[recipient that] is seeking a federal grant for an eligible project;
+22 (e) Evaluating the project proposed by the match application in accordance with
+23 the evaluation criteria set forth in this section and KRS 154.14-050;[.]
+24 (f) Scoring each [match ]application pursuant to the scoring system described in
+25 KRS 154.14-050;
+26 (g) Ranking each match application:
+27 1. To prioritize the greatest return on investment and relative positive
+Page 4 of 16
+XXXX 2/17/2025 3:19 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 999
+1 impact of the eligible project; and
+2 2. Based on the project evaluation and the project score described in this
+3 section and KRS 154.14-050;[.]
+4 (h) Identifying eligible grant[Compiling a list of proposed match] applicants
+5 whose eligible project demonstrates a high level of investment potential if a
+6 match is provided, as revealed by the evaluation, scoring, and county
+7 population ranking process described in this section and KRS 154.14-050;
+8 (i) Providing detailed feedback to the eligible grant[match] applicants after the
+9 project evaluation and project score are completed and the [match ]application
+10 is approved or denied by the cabinet, unless otherwise prohibited by federal or
+11 state law;
+12 (j) Obligating matching funds to selected eligible grant applicants[recipients];
+13 and
+14 (k) Compiling the monthly and annual reports[report] to be submitted under
+15 KRS 154.14-070[; and
+16 (l) Compiling the annual report to be submitted under KRS 154.14-070].
+17 (2) The cabinet shall determine the terms, conditions, and requirements of grant
+18 awards from the GRANT Program[application for match funds awarded from the
+19 Government Resources Accelerating Needed Transformation Program of 2024]
+20 fund. The cabinet may establish procedures and standards for the review and
+21 approval of the obligation of match funds through the promulgation of
+22 administrative regulations in accordance with KRS Chapter 13A[. By December 1,
+23 2024, the cabinet shall submit recommended legislative changes to the Legislative
+24 Research Commission for referral to and for consideration by the Senate Standing
+25 Committee on Appropriations and Revenue and the House Standing Committee on
+26 Appropriations and Revenue or the Interim Joint Committee on Appropriations and
+27 Revenue].
+Page 5 of 16
+XXXX 2/17/2025 3:19 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 999
+1 (3) The secretary of the cabinet shall have the authority to hire staff, contract for
+2 services, expend funds, and operate the normal business activities of the GRANT
+3 Program[Government Resources Accelerating Needed Transformation Program of
+4 2024]. Notwithstanding KRS Chapter 45A, the cabinet may contract with a third
+5 party for implementation and administration of the program.
+6 (4) The GRANT Program[Government Resources Accelerating Needed
+7 Transformation Program of 2024 as provided in this subchapter] shall sunset on
+8 December 31, 2026, unless authorized by the General Assembly to continue its
+9 work for a specified period of time.
+10 (5) The Kentucky Council of Area Development Districts and local area development
+11 districts shall assist eligible grant applicants[recipients] in identifying available
+12 federal grant opportunities and preparing federal grant applications and GRANT
+13 Program[Government Resources Accelerating Needed Transformation Program of
+14 2024] applications. [Nothing in ]This subsection shall not prevent any public
+15 agency or nonprofit entity from assisting eligible grant applicants[recipients] in
+16 identifying available federal grant opportunities and preparing federal grant
+17 applications and GRANT Program[Government Resources Accelerating Needed
+18 Transformation Program of 2024] applications.
+19 (6) Upon request of the local area development districts, a local public institution in the
+20 postsecondary education system as defined in KRS 164.001 shall assist the eligible
+21 grant applicants[recipients] in their area by including but not limited to:
+22 (a) Identifying opportunities for federal grants;
+23 (b) Rendering supplemental support for federal grant applications on behalf of the
+24 communities including but not limited to providing data and analysis for the
+25 federal grant application; or
+26 (c) Acting as the contact person for the local public institution to the Kentucky
+27 Council of Area Development Districts and to the area development district in
+Page 6 of 16
+XXXX 2/17/2025 3:19 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 999
+1 which the local public institution is located and updating the contact person
+2 information.
+3 Section 3. KRS 154.14-040 is amended to read as follows:
+4 (1) (a) To participate in the GRANT Program[Government Resources Accelerating
+5 Needed Transformation Program of 2024], eligible grant applicants shall
+6 submit either a standardized or a regional grant application to the cabinet[ for
+7 consideration by the commission].
+8 (b) The cabinet shall review applications monthly. Each monthly review shall
+9 include all applications submitted but not yet reviewed by the first day of
+10 each month.
+11 (c) The cabinet shall provide a preliminary evaluation of each application
+12 submitted by the first day of the month[the application] within fourteen (14)
+13 calendar[five (5) business] days of the first day of the month[receipt of the
+14 application]. As part of the preliminary evaluation, the cabinet shall consider
+15 the applicant's eligibility and the application[the following:
+16 1. Applicant's eligibility when evaluated against the requirements of the
+17 federal grant; and
+18 2. Application] completeness when evaluated against the requirements of
+19 the federal grant.
+20 (d)[(c)] The cabinet shall provide a final decision of approval or denial on the
+21 application by the last day of the month in which the application was
+22 preliminarily reviewed. If an application is denied, the cabinet may provide
+23 feedback about any possible corrective action, in which case the applicant
+24 may resubmit the application for reconsideration after taking the
+25 recommended corrective action[within twenty-one (21) calendar days of
+26 receipt of the application].
+27 (2) If a grant application is approved, the recipient[selected as an eligible match
+Page 7 of 16
+XXXX 2/17/2025 3:19 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 999
+1 recipient approved under this subchapter, it] shall comply with any match
+2 [agreement ]and reporting requirements established[deemed necessary] by the
+3 cabinet to verify that the awarded funds will be or have been expended on[to go
+4 toward] an eligible use.
+5 (3) The obligation of funds for an approved project shall not remain obligated longer
+6 than twelve (12) months for that project until the grant recipient receives a
+7 decision. An approved project may receive a six (6) month extension of this
+8 deadline from the cabinet.
+9 (4) If the grant[selected match] recipient fails to comply with subsection (2) of this
+10 section or uses the awarded funds[match money] for any purpose other than an
+11 eligible use, the grant[selected eligible match] recipient shall forfeit and be liable to
+12 the cabinet for the full award amount.
+13 Section 4. KRS 154.14-050 is amended to read as follows:
+14 (1) [The cabinet shall identify and certify the areas for grant funding designated by the
+15 United States Department of Housing and Urban Development, Delta Regional
+16 Authority, or Interagency Working Group as a priority for obligation of match
+17 funds. Any area in Kentucky that is eligible for federal grant resources but is not a
+18 United States Department of Housing and Urban Development, a Delta Regional
+19 Authority, or an Interagency Working Group designated community, may be
+20 eligible for obligation of state funds under this section. ]The cabinet shall not
+21 approve a project unless it finds that the project is in the public interest and the
+22 grant funds will be used for a public purpose. For purposes of this subsection,
+23 projects that are in the public interest and for a public purpose can include a
+24 derivative private benefit, if the cabinet finds the following:
+25 (a) The project will enhance a community or region;
+26 (b) The granting entity for which the cabinet's matching grant is being used
+27 requires a public purpose for grant eligibility; or
+Page 8 of 16
+XXXX 2/17/2025 3:19 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 999
+1 (c) The cabinet in its judgment concludes the proposal will enhance the quality of
+2 life or services in a community or region.
+3 (2) The cabinet shall evaluate each applicant's eligible project according to the criteria
+4 described in this section for the purpose of compiling a [recommendation and ]score
+5 for the eligible project pursuant to this section.
+6 (3) If a match applicant is selected as an eligible grant applicant[recipient] approved
+7 under the GRANT Program[Government Resources Accelerating Needed
+8 Transformation Program of 2024], it shall comply with any incentive agreements
+9 and reporting requirements deemed necessary by the cabinet to verify that the
+10 awarded grant shall go toward an eligible use.
+11 (4) In the administration of the GRANT Program[Government Resources Accelerating
+12 Needed Transformation Program of 2024], the cabinet shall develop a scoring
+13 system for eligible grant applications[the project proposed by each match
+14 applicant] based on the total projected return on investment and the relative positive
+15 impact in the community.
+16 (5) The scoring system shall include a:
+17 (a) Score in each category as specified in subsection (6) of this section; and
+18 (b) Total weighted score, which is the average of the scores in each category.
+19 (6) The scoring categories shall include but are not limited to:
+20 (a) Projected return on investment the project will yield, which includes an
+21 assessment of the:
+22 1. Likelihood of project completion both with the match[cabinet's] funding
+23 and without;
+24 2. Application content when evaluated against the federal grant program's
+25 publicly available scoring rubric or evaluation criteria, if any;
+26 3. Projected gross economic impact of the proposed project on the
+27 community;
+Page 9 of 16
+XXXX 2/17/2025 3:19 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 999
+1 4. Projected number of jobs created by the proposed project and
+2 subsequent impact on the community;
+3 5. Determination of the cost of the project based on the amount[cost]
+4 expended by the cabinet if it obligates the requested grant amount to the
+5 applicant;
+6 6. Evidence of community support for the project submitted by:
+7 a. The eligible grant applicant; or
+8 b. A majority of eligible grant applicants for a regional project;
+9 7. Likelihood that the applicant can successfully manage the federal grant's
+10 administration requirements; and
+11 8. Likelihood of success based on a federal agency prioritization of a
+12 particular applicant; and
+13 (b) Overall positive impact the project will have on the surrounding community
+14 as evidenced by clear and feasible projected outcomes of the grant-funded
+15 project.
+16 (7) (a) On or before May 1, 2024, and not later than May 1 every two (2) years
+17 thereafter, the cabinet shall determine a county population ranking for each
+18 county by adding the following two (2) factors:
+19 1. The population density ranking; and
+20 2. The ten (10) year percentage change in population ranking.
+21 (b) The required local match for each county shall be as follows:
+22 1. Eligible projects in counties where the county population ranking is
+23 greater than or equal to one hundred ninety-three (193) shall provide a
+24 minimum amount of local matching funds equal to one percent (1%) of
+25 the state match;
+26 2. Eligible projects in counties where the county population ranking is less
+27 than one hundred ninety-three (193) but greater than or equal to one
+Page 10 of 16
+XXXX 2/17/2025 3:19 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 999
+1 hundred forty-five (145) shall provide a minimum amount of local
+2 matching funds equal to two percent (2%) of the state match;
+3 3. Eligible projects in counties where the county population ranking is less
+4 than one hundred forty-five (145) but greater than or equal to ninety-
+5 seven (97) shall provide a minimum amount of local matching funds
+6 equal to three percent (3%) of the state match;
+7 4. Eligible projects in counties where the county population ranking is less
+8 than ninety-seven (97) but greater than or equal to forty-nine (49) shall
+9 provide a minimum amount of local matching funds equal to four
+10 percent (4%) of the state match; and
+11 5. Eligible projects in counties where the county population ranking is less
+12 than forty-nine (49) shall provide a minimum amount of local matching
+13 funds equal to five percent (5%) of the state match.
+14 (c) On or before November 1, 2024, and no later than November 1 every two (2)
+15 years thereafter, the cabinet shall report to the Legislative Research
+16 Commission and the Interim Joint Committee on Appropriation and Revenue
+17 the following information for each county:
+18 1. The county name;
+19 2. The population density ranking for that county;
+20 3. The ten (10) year percentage change in population ranking for that
+21 county; and
+22 4. The county population ranking for that county.
+23 (8) (a) For selected eligible grant applicants[recipients] that are involved in a
+24 regional project, the cabinet may pool the potential allocation of funds
+25 available for each county represented by the eligible grant
+26 applicants[recipients] for the grant amount awarded.
+27 (b) A county that is an eligible grant applicant[recipient] involved in a regional
+Page 11 of 16
+XXXX 2/17/2025 3:19 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 999
+1 project shall provide that county's local matching funds based on the county
+2 population ranking determined under subsection (7) of this section and each
+3 county's local matching funds may be pooled as described in paragraph (a) of
+4 this subsection[.
+5 (9) Beginning no later than November 1, 2024, and annually thereafter until the
+6 authorized appropriation is spent or returned, the cabinet shall compile and submit a
+7 report for each application approved by the GRANT Commission established in
+8 KRS 154.14-080 for the Government Resources Accelerating Needed
+9 Transformation Program of 2024. The report shall be electronically delivered to the
+10 Legislative Research Commission and the Interim Joint Committee on
+11 Appropriations and Revenue and contain the following information:
+12 (a) The name of the applicant, a description of the eligible project, and the
+13 location of each proposed project for which an application was approved;
+14 (b) The date the application was approved by the GRANT Commission;
+15 (c) The amount of funding authorized for each project approved;
+16 (d) The total amount of funding disbursed for each project approved; and
+17 (e) The round of funding for which each project received approval.
+18 (10) The Government Resources Accelerating Needed Transformation Program of 2024
+19 shall begin April 15, 2024. The cabinet shall begin accepting applications for the
+20 program on May 15, 2024].
+21 Section 5. KRS 154.14-060 is amended to read as follows:
+22 (1) There is hereby established in the State Treasury a trust and agency account to be
+23 known as the GRANT Program[Government Resources Accelerating Needed
+24 Transformation Program of 2024] fund. The fund shall consist of moneys received
+25 from state appropriations, gifts, grants, and federal funds.
+26 (2) The fund shall be administered and maintained by the cabinet.
+27 (3) (a) Amounts deposited in the fund shall be used for awarding:
+Page 12 of 16
+XXXX 2/17/2025 3:19 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 999
+1 1.[(a)] Matching funds to successful applicants of the GRANT
+2 Program[Government Resources Accelerating Needed Transformation
+3 Program of 2024] upon notification of award of the federal grant
+4 requiring matching funds. Except as provided in paragraph (b) of this
+5 subsection, up to twenty percent (20%) of the amounts deposited in the
+6 fund shall be used for match awards for nonprofit charitable
+7 organizations organized under 26 U.S.C. sec. 501(c)(3); and
+8 2.[(b)] Matching funds to successful applicants of the GRANT
+9 Program[Government Resources Accelerating Needed Transformation
+10 Program of 2024] upon notification of award of the federal grant
+11 requiring matching funds. Except as provided in paragraph (b) of this
+12 subsection, up to eighty percent (80%) of the amounts deposited in the
+13 fund shall be used for match awards to county or city governing bodies.
+14 (b) The cabinet may transfer up to ten percent (10%) of funds remaining in one
+15 (1) of the categories listed in paragraph (a)1. or 2. of this subsection to the
+16 other category in that paragraph if:
+17 1. The upper limit established is reached within a category;
+18 2. There are eligible projects to be funded from the category that has
+19 reached the limit; and
+20 3. Funds remain available in the other category.
+21 If a transfer is made, the cabinet shall provide notice in writing to the
+22 Interim Joint Committee on Appropriations and Revenue if the transfer is
+23 made during an interim between legislative sessions, or the Senate Standing
+24 Committee on Appropriations and Revenue and the House Standing
+25 Committee on Appropriations and Revenue if the transfer is made during a
+26 legislative session.
+27 (4) Notwithstanding KRS 45.229, moneys in the account not expended at the close of a
+Page 13 of 16
+XXXX 2/17/2025 3:19 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 999
+1 fiscal year shall not lapse but shall be carried forward into the next fiscal year.
+2 (5) Any interest earnings of the fund shall become a part of the fund and shall not
+3 lapse.
+4 (6)[ Moneys deposited in the fund are hereby appropriated for the purposes set forth in
+5 this section and shall not be appropriated or transferred by the General Assembly
+6 for any other purposes.
+7 (7)] Any match funds awarded under subsection (3) of this section shall be canceled
+8 upon denial of the federal award[.
+9 (8) On or after June 30, 2024, any unencumbered moneys in the fund established in
+10 KRS 147A.158 shall be transferred to the Government Resources Accelerating
+11 Needed Transformation Program of 2024 fund administered by the Cabinet for
+12 Economic Development created in this section].
+13 Section 6. KRS 154.14-070 is amended to read as follows:
+14 (1) (a) By June 1, 2024, and the first day of each month thereafter, the cabinet shall
+15 submit a [monthly ]report on eligible project applications to the Governor and
+16 the Senate Standing Committee on Appropriations and Revenue and the
+17 House Standing Committee on Appropriations and Revenue, or the Interim
+18 Joint Committee on Appropriations and Revenue, and make the reports
+19 available on the cabinet's website.
+20 (b) The monthly report shall be a summary of the eligible project applications and
+21 shall include but not be limited to the following:
+22 1. A list of all eligible grant applications received[match applicants];
+23 2. The identity of applicants who were not selected for the obligation of
+24 [match ]funds;
+25 3. Trends found in feedback given to applicants who were not selected for
+26 the obligation of [match ]funds;
+27 4. For each submitted eligible grant application:
+Page 14 of 16
+XXXX 2/17/2025 3:19 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 999
+1 a. The eligible use of funds and project for which funds are
+2 requested[Eligible uses of the projects cited in the match
+3 applications];
+4 b.[5.] The date of submission[the application;
+5 6. The date of receipt of the application by the cabinet];
+6 c.[7.] A description of the federal grant funds applied for by the
+7 applicant;
+8 d.[8.] A description of the title, subject matter, preliminary evaluation,
+9 and scoring tally of the eligible grant application[project];
+10 e.[9.] The date of the cabinet's preliminary evaluation;
+11 f.[10.] The amount [of moneys ]requested, and the amount [of
+12 moneys ]approved or denied[ for each application]; and
+13 g.[11.] The date of the cabinet's final decision on obligation of the
+14 match funds, the date of the federal grant approval or denial, and
+15 whether the eligible project was approved or denied[; and
+16 12. Any other information requested by the cabinet].
+17 (2) By November 1, 2024, and annually thereafter until November 1, 2026, the cabinet
+18 shall prepare an annual report of the GRANT Program[Government Resources
+19 Accelerating Needed Transformation Program of 2024] to be submitted to the
+20 Governor and the Interim Joint Committee on Appropriations and Revenue and
+21 made available on the cabinet's website. The annual report shall include but not be
+22 limited to the following:
+23 (a) A summary of the monthly reports and the eligible grant[match] applications
+24 received and relevant statistics relating to actions taken by the cabinet and
+25 grants awarded, including the applicant, award amount, and the purpose of the
+26 funding;
+27 (b) The current balance of the GRANT Program[Government Resources
+Page 15 of 16
+XXXX 2/17/2025 3:19 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 999
+1 Accelerating Needed Transformation Program of 2024] fund;
+2 (c) Recommendations regarding appropriations to the GRANT
+3 Program[Government Resources Accelerating Needed Transformation
+4 Program of 2024] fund for the upcoming fiscal year; and
+5 (d) Recommendations for legislation or policy actions needed to facilitate greater
+6 receipt of grant funding to eligible grant applicants[recipients].
+7 Section 7. The following KRS sections are repealed:
+8 154.14-010 Purpose of Government Resources Accelerating Needed Transformation
+9 Program of 2024.
+10 154.14-080 GRANT Commission -- Membership -- Meetings -- Staffing.
+11 Section 8. Whereas the GRANT program is available for a limited time period
+12 and administrative efficiency requires that funding be allocated immediately, an
+13 emergency is declared to exist, and this Act takes effect upon its passage and approval by
+14 the Governor or upon its otherwise becoming a law.
+Page 16 of 16
+XXXX 2/17/2025 3:19 PM Jacketed
+
+[DELETED:   2  J A a B S A ( " ( [ ( ] c ( " o c g b a e o i K p l e s o u 2 U s 5 a e i p b i ( " ( M t r f a f g o o a b a q 1 R 2 I s ( B t p o s b t p a s t e 1 P 2 P a L g]
+[DELETED:   2  J b L b s a f t s t a e g a 3 P p o w a p i l t i i t p i a f a p p a t b a e c ( R a ( " b u d o t s o f f t f g ( " P m t G R A N T ( " P f m t f e i S 5 o t A a P P C a E R e b P ( " ( M ( I c ( I f C ( I l s ( "]
+[DELETED:   2  J ( T ( T ( T ( T ( T ( T ( T ( T ( T ( T ( T ( T ( T ( T ( T ( T ( T ( T ( A l ( " p m a e p t i p b e g a r o h a p b a i d c i t C o b e g s a p o a m ( " ( M ( I d b c t p e f t m r]
+[DELETED:   2  J a f ( y A C S a p b t U m ( I l a o S ( T G R A N T P o 2 i h e u t c s t t a o t c p ( C g a f t o o s f u t s t a ( D 1 ( R p ( V a ( E t ( S K ( R 1 T p t g r o i a r p]
+[DELETED:   2  J i 2 B s ( I e g a l o p m a w m i p a r b t e s a c p ( P p i s ( O m f t s e g a a ( C t m a a r t b s u K ( C ( T c s d t t c a r o g a G R A N T P o 2 f T c m e p a s f t r a a o t o o m f t t p o a 2 R C A R]
+[DELETED:   2  J ( T s o t c s h t a t h s c f s P 2 p ( T G P R A N T D 3 2 u a b t G A t c i w ( T d s a e g a i i a f g o a p f g a a G P 2 a [ i ] s s n p a p a o n e f a e g a i i a f g o a p f g a a G P R A N T ( U p g ( I ( R c f ( A C]
+[DELETED:   2  J w i S ( ( T N T P o 2 e g a s s c ( T i e ( T c s p a p e o e a s c a t 1 A e w e a t r o t f 2 A t ( T a b t l d o t m i w t a w p f m r t a f r a t t r c a t ( c d o r ( I a g a i a t r a a e m]
+[DELETED:   2  J r a u t s i s c w a m [ ] r r e n b t c t ( T t t ( m f t p u t g r r a d A a p m r a s ( m e o t d ( I s o t a f m f a p o a e t S ( [ U S D o H a U D D R A o I W G a a p f o o m f U A o a I W G d c m b e f o o s f u t s ] c s n a g f w b u f a p p F p o t s p t a i t p i a f a p p c i a d ( T ( T g e f w t c m g i b u r]
+[DELETED:   2  J ( T l ( T d f ( I u t G P R A N T a r r d n b t c t v t t a ( I N T P o 2 t c s d a s s f e g a p p b e m a i ( T ( S ( T ( T ( P r o i t p w y w i a a 1 L a 2 A p 3 P g e i o t p p o t c]
+[DELETED:   2  J 4 P n o j c b t p p a s 5 D o t c o t p b o t a e a 6 E a T b A 7 L a 8 L o s b o a f a p o a p ( O a e b c a f p o o t g p ( ( O o b M 1 2 a n l t M 1 e t ( y t c 1 T 2 T ( T 1 E p i c w t c p r i g m t 2 E t o h n ( b g t o e t o]
+[DELETED:   2  J h f ( s p a m a o l m 3 E t s ( p a m a o l m f e 4 E t p a m a o l m f e t f p 5 E t f ( O y t t c s r t t L R C t 1 T 2 T 3 T t ( y p c i p r f t c 4 T ( ( F s e g a t a i i a r p t c m p t p a o f a f e c r b t e g a ( A]
+[DELETED:   2  J p p c t ( B n l t N 1 2 a a t u t a r f a a b t G C e i K 1 f t G R A N T L R C a t I J C o A ( T n o t a a d o t e p a t l ( T ( T ( T ( T ( T s p S ( T k a t G P R A N T f ( T ( ( A]
+[DELETED:   2  J 1 M f t s a o t G P R A N T P o 2 u n o a o t f g r s f s b u f m a f n c o 2 M f t s a o t G P R A N T P o 2 u n o a o t f g r s f ( T ( o 1 T 2 T a e p t b f f t c t h r 3 F  I a t i m t c s p n i w t t I m C o A a R a t H S C l ( N]
+[DELETED:   2  J f ( A i e o t f b a p o f a s n l ( M t f ( A u ( O K 1 s b t t t G R A N T P o 2 f a b t C f E S ( ( B s t S S C o A a R a t H J C o A a R a m t r a ( T s 1 A 2 T [ 3 T t 4 F]
+[DELETED:   2  J a T e u o f a p f w f a r u o t p c i t m a b 6 T c d o t f g f a f b t a d a e f T a [ m ] a t a [ m g T m w 1 A ( B s p a a r o t G P R A N T P o 2 t b s t t G a t I J C o A a R a m l ( A r a a g f ( T c b o t G P R]
+[DELETED:   2  J A ( R r a t t G P R A N T P ( R r S 1 o G R A N T P 1 S a a e r t f b a i a e t]

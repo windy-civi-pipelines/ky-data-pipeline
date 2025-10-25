@@ -1,0 +1,516 @@
+Title: 1 AN ACT relating to pharmaceutical manufacturers.
+Official Title: 1 AN ACT relating to pharmaceutical manufacturers.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS BR 1946
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 315.400 is amended to read as follows:
+4 As used in KRS 315.400 to 315.412:
+5 (1) "Authorized distributor of record" means a wholesale distributor that:
+6 (a) Has established an ongoing relationship with a manufacturer to distribute the
+7 manufacturer's prescription drug. An ongoing relationship exists between a
+8 wholesale distributor and a manufacturer if the wholesale distributor,
+9 including any affiliated group of the wholesale distributor as defined in
+10 Section 1504 of the Internal Revenue Code, has a written agreement for
+11 distribution in effect; and
+12 (b) Is listed on the manufacturer's current list of authorized distributors of record;
+13 (2) "Co-licensed product" means a prescription drug manufactured by two (2) or more
+14 co-licensed partners;
+15 (3) "Counterfeit prescription drug" means a drug which, or the container or labeling of
+16 which, without authorization, bears the trademark, trade name, or other identifying
+17 mark, imprint, or device, or any likeness thereof, of a drug manufacturer, processor,
+18 packer, or distributor other than the person or persons who in fact manufactured,
+19 processed, packed, or distributed the drug and which thereby falsely purports or is
+20 represented to be the product of, or to have been packed or distributed by, the other
+21 drug manufacturer, processor, packer, or distributor;
+22 (4) "Dispenser" means:
+23 (a) A retail pharmacy, hospital pharmacy, a group of chain pharmacies under
+24 common ownership and control that do not act as a wholesale distributor, or
+25 any other person authorized by law to dispense or administer prescription
+26 drugs, and the affiliated warehouse distribution centers of such entities under
+27 common ownership and control that do not act as a wholesale distributor; but
+Page 1 of 8
+XXXX 2/18/2025 5:21 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1946
+1 (b) Does not include a person who dispenses only products to be used in animals
+2 in accordance with 21 U.S.C. sec. 360b(a)(4) and (5);
+3 (5) "Distribution" or "distribute" means the sale, purchase, trade, delivery, handling,
+4 storage, or receipt of a product, and does not include the dispensing of a product
+5 pursuant to a prescription executed in accordance with Section 503(b)(1) of the
+6 federal Drug Quality and Security Act or the dispensing of a product approved
+7 under Section 512(b) of the federal Drug Quality and Security Act;
+8 (6) "Drop shipment" means a product not physically handled or stored by a wholesale
+9 distributor and that is exempt from Section 582 of the federal Drug Quality and
+10 Security Act, except the notification requirements under clauses (ii), (iii), and (iv)
+11 of subsection (c)(4)(B) of Section 582 of the federal Drug Quality and Security Act,
+12 provided that the manufacturer, repackager, or other wholesale distributor that
+13 distributes the product to the dispenser by means of a drop shipment for the
+14 wholesale distributor includes on the transaction information and transaction history
+15 to the dispenser the contact information of the wholesale distributor and provides
+16 the transaction information, transaction history, and transaction statement directly
+17 to the dispenser. Providing administrative services, including the processing of
+18 orders and payments, shall not by itself be construed as being involved in the
+19 handling, distribution, or storage of a product;
+20 (7) "Emergency medical reasons" includes but is not limited to:
+21 (a) Transfers of a prescription drug between health-care entities or between a
+22 health-care entity and a retail pharmacy to alleviate a temporary shortage of a
+23 prescription drug arising from delays in or interruptions of the regular
+24 distribution schedules;
+25 (b) Sales of drugs for use in the treatment of acutely ill or injured persons to
+26 nearby emergency medical services providers, firefighting organizations, or
+27 licensed health-care practitioners in the same marketing or service area;
+Page 2 of 8
+XXXX 2/18/2025 5:21 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1946
+1 (c) The provision of emergency supplies of drugs to nearby nursing homes, home
+2 health agencies, or hospice organizations for emergency use when necessary
+3 drugs cannot be obtained; or
+4 (d) Transfers of prescription drugs by a retail pharmacy to another retail
+5 pharmacy to alleviate a temporary shortage;
+6 (8) "End user" means a patient or consumer that uses a prescription drug as prescribed
+7 by an authorized health-care professional;
+8 (9) "Exclusive distributor" means the wholesale distributor that directly purchased the
+9 product from the manufacturer and is the sole distributor of that manufacturer's
+10 product to a subsequent repackager, wholesale distributor, or dispenser;
+11 (10) "FDA" means the United States Food and Drug Administration and any successor
+12 agency;
+13 (11) "Illegitimate product" means a product for which credible evidence shows that the
+14 product:
+15 (a) Is counterfeit, diverted, or stolen;
+16 (b) Is intentionally adulterated so that the product would result in serious adverse
+17 health consequences or death to humans;
+18 (c) Is the subject of a fraudulent transaction; or
+19 (d) Appears otherwise unfit for distribution so that the product would be
+20 reasonably likely to result in serious adverse health consequences or death to
+21 humans;
+22 (12) "Manufacturer" means the same as defined in KRS 315.010;
+23 (13) "Medical gas wholesaler" means a person licensed to distribute, transfer, wholesale,
+24 deliver, or sell medical gases on drug orders to suppliers or other entities licensed to
+25 use, administer, or distribute medical gas;
+26 (14) "Pharmacy warehouse" means a physical location for prescription drugs that acts as
+27 a central warehouse and performs intracompany sales or transfers of prescription
+Page 3 of 8
+XXXX 2/18/2025 5:21 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1946
+1 drugs to a group of pharmacies under common ownership and control;
+2 (15) "Prescription drug" means the same as defined in KRS 315.010;
+3 (16) "Repackager" means a person who owns or operates an establishment that repacks
+4 and relabels a product or package for further sale, or distribution without a further
+5 transaction;
+6 (17) "Reverse distributor" means every person who acts as an agent for pharmacies, drug
+7 wholesalers, manufacturers, or other entities by receiving, taking inventory, and
+8 managing the disposition of outdated or nonsalable drugs;
+9 (18) "Third-party logistics provider" means an entity that contracts with a manufacturer,
+10 wholesale distributor, repackager, or dispenser to provide and coordinate
+11 warehousing or other logistics services on behalf of a manufacturer, wholesale
+12 distributor, repackager, or dispenser, but does not take title to the drug or have
+13 responsibility to direct the sale of the drug. A third-party logistics provider shall be
+14 considered as part of the normal distribution channel;
+15 (19) "Transaction" means the transfer of product between persons in which a change of
+16 ownership occurs, with the following exemptions:
+17 (a) Intracompany distribution of any product between members of an affiliate or
+18 within a manufacturer;
+19 (b) The distribution of a product among hospitals or other health care entities that
+20 are under common control;
+21 (c) The distribution of a product for emergency medical reasons, including a
+22 public health emergency declaration pursuant to Section 319 of the federal
+23 Public Health Service Act, except that a drug shortage not caused by a public
+24 health emergency shall not constitute an emergency medical reason;
+25 (d) The dispensing of a product pursuant to a prescription executed in accordance
+26 with Section 503(b)(1) of the Federal Food, Drug, and Cosmetic Act;
+27 (e) The distribution of product samples by a manufacturer or a licensed wholesale
+Page 4 of 8
+XXXX 2/18/2025 5:21 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1946
+1 distributor in accordance with Section 503(d) of the Federal Food, Drug, and
+2 Cosmetic Act;
+3 (f) The distribution of blood or blood components intended for transfusion;
+4 (g) The distribution of minimal quantities of product by a licensed retail
+5 pharmacy to a licensed practitioner for office use;
+6 (h) The sale, purchase, or trade of a drug or an offer to sell, purchase, or trade a
+7 drug by a charitable organization described in Section 501(c)(3) of the
+8 Internal Revenue Code of 1986 to a nonprofit affiliate of the organization to
+9 the extent otherwise permitted by law;
+10 (i) The distribution of a product pursuant to the sale or merger of a pharmacy or
+11 pharmacies or a wholesale distributor or wholesale distributors, except that
+12 any records required to be maintained for the product shall be transferred to
+13 the new owner of the pharmacy or pharmacies or wholesale distributor or
+14 wholesale distributors;
+15 (j) The dispensing of a product approved under Section 512(c) of the Federal
+16 Food, Drug, and Cosmetic Act;
+17 (k) Products transferred to or from any facility that is licensed by the Nuclear
+18 Regulatory Commission or by the state pursuant to an agreement with the
+19 commission under Section 274 of the federal Atomic Energy Act, 42 U.S.C.
+20 sec. 2021;
+21 (l) A combination product that is not subject to approval under Section 505 of the
+22 federal Drug Quality and Security Act or licensure under Section 351 of the
+23 federal Public Health Service Act, and that is:
+24 1. A product composed of a device and one (1) or more other regulated
+25 components such as a drug or drug device, a biologic or biologic device,
+26 or a drug and biologic or drug and biologic device that are physically,
+27 chemically, or otherwise combined or mixed and produced as a single
+Page 5 of 8
+XXXX 2/18/2025 5:21 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1946
+1 entity;
+2 2. Two (2) or more separate products packaged together in a single
+3 package or as a unit and composed of a drug and device or device and
+4 biological product; or
+5 3. Two (2) or more finished medical devices plus one (1) or more drug or
+6 biological products that are packaged together in what is referred to as a
+7 medical convenience kit as described in paragraph (m) of this
+8 subsection;
+9 (m) The distribution of a medical convenience kit or collection of finished medical
+10 devices which may include a product or biological product, assembled in kit
+11 form strictly for the convenience of the purchaser or user, if:
+12 1. The medical convenience kit is assembled in an establishment that is
+13 registered with the federal Food and Drug Administration as a device
+14 manufacturer in accordance with Section 510(b)(2) of the Federal Food,
+15 Drug, and Cosmetic Act;
+16 2. The medical convenience kit does not contain a controlled substance
+17 that appears in a schedule contained in the federal Comprehensive Drug
+18 Abuse Prevention and Control Act of 1970;
+19 3. In the case of a medical convenience kit that includes a product, the
+20 person that manufacturers the kit:
+21 a. Purchased the product directly from the pharmaceutical
+22 manufacturers[manufacturer] or from a wholesale distributor that
+23 purchased the product directly from the pharmaceutical
+24 manufacturers[manufacturer]; and
+25 b. Does not alter the primary container or label of the product as
+26 purchased from the manufacturer or wholesale distributor; and
+27 4. In the case of a medical convenience kit that includes a product, the
+Page 6 of 8
+XXXX 2/18/2025 5:21 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1946
+1 product is:
+2 a. An intravenous solution intended for the replenishment of fluids
+3 and electrolytes;
+4 b. A product intended to maintain the equilibrium of water and
+5 minerals in the body;
+6 c. A product intended for irrigation or reconstitution;
+7 d. An anesthetic;
+8 e. An anticoagulant;
+9 f. A vasopressor; or
+10 g. A sympathomimetic;
+11 (n) The distribution of an intravenous product that, by its formulation, is intended
+12 for the replenishment of fluids and electrolytes such as sodium, chloride, and
+13 potassium, or calories such as dextrose and amino acids;
+14 (o) The distribution of an intravenous product used to maintain the equilibrium of
+15 water and minerals in the body, such as dialysis solutions;
+16 (p) The distribution of a product that is intended for irrigation, or sterile water,
+17 whether intended for such purposes or for injection;
+18 (q) The distribution of a medical gas as defined in Section 575 of the Federal
+19 Food, Drug, and Cosmetic Act; or
+20 (r) The distribution or sale of any licensed product under Section 351 of the
+21 federal Public Health Service Act that meets the definition of a device under
+22 Section 201(h) of the Federal Food, Drug, and Cosmetic Act;
+23 (20) "Wholesale distribution" means the distribution of a prescription drug to persons
+24 other than an end user or to the end user pursuant to KRS 315.0351(2), but does not
+25 include:
+26 (a) Intracompany sales or transfers;
+27 (b) The sale, purchase, distribution, trade, or transfer of a prescription drug for
+Page 7 of 8
+XXXX 2/18/2025 5:21 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1946
+1 emergency medical reasons;
+2 (c) The distribution of prescription drug samples by a manufacturer or authorized
+3 distributor;
+4 (d) Drug returns or transfers to the original manufacturer, original wholesale
+5 distributor, or transfers to a reverse distributor or third-party returns
+6 processor;
+7 (e) The sale, purchase, or trade of a drug pursuant to a prescription;
+8 (f) The delivery of a prescription drug by a common carrier;
+9 (g) The purchase or acquisition by a health-care entity or pharmacy that is a
+10 member of a group purchasing organization of a drug for its own use from the
+11 group purchasing organization, or health-care entities or pharmacies that are
+12 members of the group organization;
+13 (h) The sale, purchase, distribution, trade, or transfer of a drug by a charitable
+14 health-care entity to a nonprofit affiliate of the organization as otherwise
+15 permitted by law;
+16 (i) The sale, transfer, merger, or consolidation of all or part of the business of a
+17 pharmacy with another pharmacy or pharmacies; or
+18 (j) The distribution of a prescription drug to a health-care practitioner or to
+19 another pharmacy if the total number of units transferred during a twelve (12)
+20 month period does not exceed five percent (5%) of the total number of all
+21 units dispensed by the pharmacy during the immediate twelve (12) month
+22 period; and
+23 (21) "Wholesale distributor" or "virtual wholesale distributer" means a person other than
+24 a manufacturer, a manufacturer's co-licensed partner, a third-party logistics
+25 provider, or repackager engaged in wholesale distribution as defined by 21 U.S.C.
+26 sec. 353(e)(4) as amended by the federal Drug Supply Chain Security Act.
+Page 8 of 8
+XXXX 2/18/2025 5:21 PM Jacketed
+[DELETED:   2  J A B S A ( " ( H m p d A o r e b a w d a a m i t w d i a a g o t w d a d i S 1 o t I R C h a w a f d ( I ( " c ( " w m p p r d ( " ( A r p h p a g o c p u c a o p a b l t d o a p d c]
+[DELETED:   2  J ( D i ( " o " m t s p t d h s p t a p e i a w S 5 o t f D Q a S A o t d o a p a u ( " d S o p t t m r o o w d t d t p t t d b m o a d s f t w t t t t d P a s i t p o o a p s n b i b c a b i i t h ( " ( T o a p d b h e o b a h p d a f d i o i o t r d ( S o f i t t o i o p t n l]
+[DELETED:   2  J ( T h d ( T o p d b a r p t a r p ( " b ( " p f t m a i t s d o t m p ( " a ( " p ( I ( I h ( I ( A o u f d s t t p w b r h ( " ( " d u ( " a]
+[DELETED:   2  J d ( " ( " a t ( " w m o o e b r t i a m ( " w d r o d t p a c w o o l s o b o a m w d r o d b d n t t t t d o h r c ( " o ( I w ( T a ( T d o a p f e m r i a p f P h ( T w ( T]
+[DELETED:   2  J d C ( T ( T d o m q o p b a l r p ( T d b a c o d i S 5 o t I t ( T p w a t n o o t p o p o w d o w ( T d o p a u 5 F F ( P o a R C o b t s p t a a w t c s ( A f f 1 A c o c]
+[DELETED:   2  J e 2 T ( o m s p p t i a s p b 3 T b m c k a d i p ( o t s ( T d f 1 T m c k i a i a e t i r m D 2 T m c k d n c a c s t A 3 I t c o a m c k t i a p t p a P t p d f t p m p t p d f t p m b D n a t p c o l o t p a p 4 I t c o a m c k t i a p t]
+[DELETED:   2  J p a A a b A p i t m t e o w a m c A d A e A f A g A ( T f p ( T w ( T w ( T a F ( T d o s o a l p u S 3 o t f S ( " o i ( I ( T]
+[DELETED:   2  J e ( T d ( D r o t t t o m o w d o t t a r d o t r p ( T ( T ( T p o a b a h e o p t i a m g m ( T h e t a n a o t o a o p ( T p ( T d o a p d t a h p o t a m u d b t p d t i t ( m p ( " a m a m c p a t l p s]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS BR 1946
+1 AN ACT relating to pharmaceutical manufacturers.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 315.400 is amended to read as follows:
+4 As used in KRS 315.400 to 315.412:
+5 (1) "Authorized distributor of record" means a wholesale distributor that:
+6 (a) Has established an ongoing relationship with a manufacturer to distribute the
+7 manufacturer's prescription drug. An ongoing relationship exists between a
+8 wholesale distributor and a manufacturer if the wholesale distributor,
+9 including any affiliated group of the wholesale distributor as defined in
+10 Section 1504 of the Internal Revenue Code, has a written agreement for
+11 distribution in effect; and
+12 (b) Is listed on the manufacturer's current list of authorized distributors of record;
+13 (2) "Co-licensed product" means a prescription drug manufactured by two (2) or more
+14 co-licensed partners;
+15 (3) "Counterfeit prescription drug" means a drug which, or the container or labeling of
+16 which, without authorization, bears the trademark, trade name, or other identifying
+17 mark, imprint, or device, or any likeness thereof, of a drug manufacturer, processor,
+18 packer, or distributor other than the person or persons who in fact manufactured,
+19 processed, packed, or distributed the drug and which thereby falsely purports or is
+20 represented to be the product of, or to have been packed or distributed by, the other
+21 drug manufacturer, processor, packer, or distributor;
+22 (4) "Dispenser" means:
+23 (a) A retail pharmacy, hospital pharmacy, a group of chain pharmacies under
+24 common ownership and control that do not act as a wholesale distributor, or
+25 any other person authorized by law to dispense or administer prescription
+26 drugs, and the affiliated warehouse distribution centers of such entities under
+27 common ownership and control that do not act as a wholesale distributor; but
+Page 1 of 8
+XXXX 2/18/2025 5:21 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1946
+1 (b) Does not include a person who dispenses only products to be used in animals
+2 in accordance with 21 U.S.C. sec. 360b(a)(4) and (5);
+3 (5) "Distribution" or "distribute" means the sale, purchase, trade, delivery, handling,
+4 storage, or receipt of a product, and does not include the dispensing of a product
+5 pursuant to a prescription executed in accordance with Section 503(b)(1) of the
+6 federal Drug Quality and Security Act or the dispensing of a product approved
+7 under Section 512(b) of the federal Drug Quality and Security Act;
+8 (6) "Drop shipment" means a product not physically handled or stored by a wholesale
+9 distributor and that is exempt from Section 582 of the federal Drug Quality and
+10 Security Act, except the notification requirements under clauses (ii), (iii), and (iv)
+11 of subsection (c)(4)(B) of Section 582 of the federal Drug Quality and Security Act,
+12 provided that the manufacturer, repackager, or other wholesale distributor that
+13 distributes the product to the dispenser by means of a drop shipment for the
+14 wholesale distributor includes on the transaction information and transaction history
+15 to the dispenser the contact information of the wholesale distributor and provides
+16 the transaction information, transaction history, and transaction statement directly
+17 to the dispenser. Providing administrative services, including the processing of
+18 orders and payments, shall not by itself be construed as being involved in the
+19 handling, distribution, or storage of a product;
+20 (7) "Emergency medical reasons" includes but is not limited to:
+21 (a) Transfers of a prescription drug between health-care entities or between a
+22 health-care entity and a retail pharmacy to alleviate a temporary shortage of a
+23 prescription drug arising from delays in or interruptions of the regular
+24 distribution schedules;
+25 (b) Sales of drugs for use in the treatment of acutely ill or injured persons to
+26 nearby emergency medical services providers, firefighting organizations, or
+27 licensed health-care practitioners in the same marketing or service area;
+Page 2 of 8
+XXXX 2/18/2025 5:21 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1946
+1 (c) The provision of emergency supplies of drugs to nearby nursing homes, home
+2 health agencies, or hospice organizations for emergency use when necessary
+3 drugs cannot be obtained; or
+4 (d) Transfers of prescription drugs by a retail pharmacy to another retail
+5 pharmacy to alleviate a temporary shortage;
+6 (8) "End user" means a patient or consumer that uses a prescription drug as prescribed
+7 by an authorized health-care professional;
+8 (9) "Exclusive distributor" means the wholesale distributor that directly purchased the
+9 product from the manufacturer and is the sole distributor of that manufacturer's
+10 product to a subsequent repackager, wholesale distributor, or dispenser;
+11 (10) "FDA" means the United States Food and Drug Administration and any successor
+12 agency;
+13 (11) "Illegitimate product" means a product for which credible evidence shows that the
+14 product:
+15 (a) Is counterfeit, diverted, or stolen;
+16 (b) Is intentionally adulterated so that the product would result in serious adverse
+17 health consequences or death to humans;
+18 (c) Is the subject of a fraudulent transaction; or
+19 (d) Appears otherwise unfit for distribution so that the product would be
+20 reasonably likely to result in serious adverse health consequences or death to
+21 humans;
+22 (12) "Manufacturer" means the same as defined in KRS 315.010;
+23 (13) "Medical gas wholesaler" means a person licensed to distribute, transfer, wholesale,
+24 deliver, or sell medical gases on drug orders to suppliers or other entities licensed to
+25 use, administer, or distribute medical gas;
+26 (14) "Pharmacy warehouse" means a physical location for prescription drugs that acts as
+27 a central warehouse and performs intracompany sales or transfers of prescription
+Page 3 of 8
+XXXX 2/18/2025 5:21 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1946
+1 drugs to a group of pharmacies under common ownership and control;
+2 (15) "Prescription drug" means the same as defined in KRS 315.010;
+3 (16) "Repackager" means a person who owns or operates an establishment that repacks
+4 and relabels a product or package for further sale, or distribution without a further
+5 transaction;
+6 (17) "Reverse distributor" means every person who acts as an agent for pharmacies, drug
+7 wholesalers, manufacturers, or other entities by receiving, taking inventory, and
+8 managing the disposition of outdated or nonsalable drugs;
+9 (18) "Third-party logistics provider" means an entity that contracts with a manufacturer,
+10 wholesale distributor, repackager, or dispenser to provide and coordinate
+11 warehousing or other logistics services on behalf of a manufacturer, wholesale
+12 distributor, repackager, or dispenser, but does not take title to the drug or have
+13 responsibility to direct the sale of the drug. A third-party logistics provider shall be
+14 considered as part of the normal distribution channel;
+15 (19) "Transaction" means the transfer of product between persons in which a change of
+16 ownership occurs, with the following exemptions:
+17 (a) Intracompany distribution of any product between members of an affiliate or
+18 within a manufacturer;
+19 (b) The distribution of a product among hospitals or other health care entities that
+20 are under common control;
+21 (c) The distribution of a product for emergency medical reasons, including a
+22 public health emergency declaration pursuant to Section 319 of the federal
+23 Public Health Service Act, except that a drug shortage not caused by a public
+24 health emergency shall not constitute an emergency medical reason;
+25 (d) The dispensing of a product pursuant to a prescription executed in accordance
+26 with Section 503(b)(1) of the Federal Food, Drug, and Cosmetic Act;
+27 (e) The distribution of product samples by a manufacturer or a licensed wholesale
+Page 4 of 8
+XXXX 2/18/2025 5:21 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1946
+1 distributor in accordance with Section 503(d) of the Federal Food, Drug, and
+2 Cosmetic Act;
+3 (f) The distribution of blood or blood components intended for transfusion;
+4 (g) The distribution of minimal quantities of product by a licensed retail
+5 pharmacy to a licensed practitioner for office use;
+6 (h) The sale, purchase, or trade of a drug or an offer to sell, purchase, or trade a
+7 drug by a charitable organization described in Section 501(c)(3) of the
+8 Internal Revenue Code of 1986 to a nonprofit affiliate of the organization to
+9 the extent otherwise permitted by law;
+10 (i) The distribution of a product pursuant to the sale or merger of a pharmacy or
+11 pharmacies or a wholesale distributor or wholesale distributors, except that
+12 any records required to be maintained for the product shall be transferred to
+13 the new owner of the pharmacy or pharmacies or wholesale distributor or
+14 wholesale distributors;
+15 (j) The dispensing of a product approved under Section 512(c) of the Federal
+16 Food, Drug, and Cosmetic Act;
+17 (k) Products transferred to or from any facility that is licensed by the Nuclear
+18 Regulatory Commission or by the state pursuant to an agreement with the
+19 commission under Section 274 of the federal Atomic Energy Act, 42 U.S.C.
+20 sec. 2021;
+21 (l) A combination product that is not subject to approval under Section 505 of the
+22 federal Drug Quality and Security Act or licensure under Section 351 of the
+23 federal Public Health Service Act, and that is:
+24 1. A product composed of a device and one (1) or more other regulated
+25 components such as a drug or drug device, a biologic or biologic device,
+26 or a drug and biologic or drug and biologic device that are physically,
+27 chemically, or otherwise combined or mixed and produced as a single
+Page 5 of 8
+XXXX 2/18/2025 5:21 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1946
+1 entity;
+2 2. Two (2) or more separate products packaged together in a single
+3 package or as a unit and composed of a drug and device or device and
+4 biological product; or
+5 3. Two (2) or more finished medical devices plus one (1) or more drug or
+6 biological products that are packaged together in what is referred to as a
+7 medical convenience kit as described in paragraph (m) of this
+8 subsection;
+9 (m) The distribution of a medical convenience kit or collection of finished medical
+10 devices which may include a product or biological product, assembled in kit
+11 form strictly for the convenience of the purchaser or user, if:
+12 1. The medical convenience kit is assembled in an establishment that is
+13 registered with the federal Food and Drug Administration as a device
+14 manufacturer in accordance with Section 510(b)(2) of the Federal Food,
+15 Drug, and Cosmetic Act;
+16 2. The medical convenience kit does not contain a controlled substance
+17 that appears in a schedule contained in the federal Comprehensive Drug
+18 Abuse Prevention and Control Act of 1970;
+19 3. In the case of a medical convenience kit that includes a product, the
+20 person that manufacturers the kit:
+21 a. Purchased the product directly from the pharmaceutical
+22 manufacturers[manufacturer] or from a wholesale distributor that
+23 purchased the product directly from the pharmaceutical
+24 manufacturers[manufacturer]; and
+25 b. Does not alter the primary container or label of the product as
+26 purchased from the manufacturer or wholesale distributor; and
+27 4. In the case of a medical convenience kit that includes a product, the
+Page 6 of 8
+XXXX 2/18/2025 5:21 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1946
+1 product is:
+2 a. An intravenous solution intended for the replenishment of fluids
+3 and electrolytes;
+4 b. A product intended to maintain the equilibrium of water and
+5 minerals in the body;
+6 c. A product intended for irrigation or reconstitution;
+7 d. An anesthetic;
+8 e. An anticoagulant;
+9 f. A vasopressor; or
+10 g. A sympathomimetic;
+11 (n) The distribution of an intravenous product that, by its formulation, is intended
+12 for the replenishment of fluids and electrolytes such as sodium, chloride, and
+13 potassium, or calories such as dextrose and amino acids;
+14 (o) The distribution of an intravenous product used to maintain the equilibrium of
+15 water and minerals in the body, such as dialysis solutions;
+16 (p) The distribution of a product that is intended for irrigation, or sterile water,
+17 whether intended for such purposes or for injection;
+18 (q) The distribution of a medical gas as defined in Section 575 of the Federal
+19 Food, Drug, and Cosmetic Act; or
+20 (r) The distribution or sale of any licensed product under Section 351 of the
+21 federal Public Health Service Act that meets the definition of a device under
+22 Section 201(h) of the Federal Food, Drug, and Cosmetic Act;
+23 (20) "Wholesale distribution" means the distribution of a prescription drug to persons
+24 other than an end user or to the end user pursuant to KRS 315.0351(2), but does not
+25 include:
+26 (a) Intracompany sales or transfers;
+27 (b) The sale, purchase, distribution, trade, or transfer of a prescription drug for
+Page 7 of 8
+XXXX 2/18/2025 5:21 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1946
+1 emergency medical reasons;
+2 (c) The distribution of prescription drug samples by a manufacturer or authorized
+3 distributor;
+4 (d) Drug returns or transfers to the original manufacturer, original wholesale
+5 distributor, or transfers to a reverse distributor or third-party returns
+6 processor;
+7 (e) The sale, purchase, or trade of a drug pursuant to a prescription;
+8 (f) The delivery of a prescription drug by a common carrier;
+9 (g) The purchase or acquisition by a health-care entity or pharmacy that is a
+10 member of a group purchasing organization of a drug for its own use from the
+11 group purchasing organization, or health-care entities or pharmacies that are
+12 members of the group organization;
+13 (h) The sale, purchase, distribution, trade, or transfer of a drug by a charitable
+14 health-care entity to a nonprofit affiliate of the organization as otherwise
+15 permitted by law;
+16 (i) The sale, transfer, merger, or consolidation of all or part of the business of a
+17 pharmacy with another pharmacy or pharmacies; or
+18 (j) The distribution of a prescription drug to a health-care practitioner or to
+19 another pharmacy if the total number of units transferred during a twelve (12)
+20 month period does not exceed five percent (5%) of the total number of all
+21 units dispensed by the pharmacy during the immediate twelve (12) month
+22 period; and
+23 (21) "Wholesale distributor" or "virtual wholesale distributer" means a person other than
+24 a manufacturer, a manufacturer's co-licensed partner, a third-party logistics
+25 provider, or repackager engaged in wholesale distribution as defined by 21 U.S.C.
+26 sec. 353(e)(4) as amended by the federal Drug Supply Chain Security Act.
+Page 8 of 8
+XXXX 2/18/2025 5:21 PM Jacketed
+
+[DELETED:   2  J A B S A ( " ( H m p d A o r e b a w d a a m i t w d i a a g o t w d a d i S 1 o t I R C h a w a f d ( I ( " c ( " w m p p r d ( " ( A r p h p a g o c p u c a o p a b l t d o a p d c]
+[DELETED:   2  J ( D i ( " o " m t s p t d h s p t a p e i a w S 5 o t f D Q a S A o t d o a p a u ( " d S o p t t m r o o w d t d t p t t d b m o a d s f t w t t t t d P a s i t p o o a p s n b i b c a b i i t h ( " ( T o a p d b h e o b a h p d a f d i o i o t r d ( S o f i t t o i o p t n l]
+[DELETED:   2  J ( T h d ( T o p d b a r p t a r p ( " b ( " p f t m a i t s d o t m p ( " a ( " p ( I ( I h ( I ( A o u f d s t t p w b r h ( " ( " d u ( " a]
+[DELETED:   2  J d ( " ( " a t ( " w m o o e b r t i a m ( " w d r o d t p a c w o o l s o b o a m w d r o d b d n t t t t d o h r c ( " o ( I w ( T a ( T d o a p f e m r i a p f P h ( T w ( T]
+[DELETED:   2  J d C ( T ( T d o m q o p b a l r p ( T d b a c o d i S 5 o t I t ( T p w a t n o o t p o p o w d o w ( T d o p a u 5 F F ( P o a R C o b t s p t a a w t c s ( A f f 1 A c o c]
+[DELETED:   2  J e 2 T ( o m s p p t i a s p b 3 T b m c k a d i p ( o t s ( T d f 1 T m c k i a i a e t i r m D 2 T m c k d n c a c s t A 3 I t c o a m c k t i a p t p a P t p d f t p m p t p d f t p m b D n a t p c o l o t p a p 4 I t c o a m c k t i a p t]
+[DELETED:   2  J p a A a b A p i t m t e o w a m c A d A e A f A g A ( T f p ( T w ( T w ( T a F ( T d o s o a l p u S 3 o t f S ( " o i ( I ( T]
+[DELETED:   2  J e ( T d ( D r o t t t o m o w d o t t a r d o t r p ( T ( T ( T p o a b a h e o p t i a m g m ( T h e t a n a o t o a o p ( T p ( T d o a p d t a h p o t a m u d b t p d t i t ( m p ( " a m a m c p a t l p s]

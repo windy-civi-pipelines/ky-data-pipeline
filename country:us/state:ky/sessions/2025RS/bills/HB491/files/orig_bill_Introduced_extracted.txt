@@ -1,0 +1,1222 @@
+Title: 1 AN ACT relating to state government.
+Official Title: 1 AN ACT relating to state government.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 20 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS BR 1190
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 45.750 is amended to read as follows:
+4 (1) As used in KRS 45.760 to 45.810:
+5 (a) "Committee" means the Capital Projects and Bond Oversight Committee;
+6 (b) "Capital construction item" means:
+7 1. The construction, reconstruction, acquisition, and structural maintenance
+8 of buildings;
+9 2. The installation of utility services, including roads and sewers;
+10 3. The acquisition or improvement of real property;
+11 4. The purchase and installation initially or during major renovation of
+12 equipment, facilities, and furnishings of a permanent nature for
+13 buildings; or
+14 5. The acquisition of any building to be occupied by any:
+15 a. Subdivision of state government as defined in KRS 12.010 or
+16 enumerated in KRS 12.020;
+17 b. Municipal corporation which exercises its authority on a statewide
+18 basis including, but not limited to, the Kentucky Employees
+19 Retirement System, Teachers' Retirement System of the State of
+20 Kentucky, Kentucky Higher Education Student Loan Corporation,
+21 Kentucky Lottery Corporation, Kentucky Housing Corporation, or
+22 any entity with a governing body whose membership is
+23 substantially similar to the membership of the governing body of a
+24 municipal corporation which exercises its authority on a statewide
+25 basis; and
+26 c. Institution of higher education;
+27 (c) "Lease" means any lease, lease-purchase, or lease with an option to purchase
+Page 1 of 20
+XXXX 2/11/2025 12:51 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1190
+1 of any real property space occupied by:
+2 1. Any entity listed in paragraph (b)5. of this subsection;
+3 2. The legislative branch; or
+4 3. The judicial branch when leased from a private sector landlord;
+5 (d) "Equipment" means:
+6 1. Any major item of equipment, including aircraft;
+7 2. Electronic equipment that incorporates advanced computing,
+8 including smart medical, scientific, and research equipment;
+9 3. Any movable furnishing, appurtenance, or other equipment, necessary to
+10 make a building operable; and
+11 4.[3.] Equipment purchased or otherwise acquired, or equipment to be
+12 purchased or otherwise to be acquired, under a lease or lease-purchase
+13 contract or agreement or an arrangement equivalent to a lease or lease-
+14 purchase contract or agreement;
+15 (e) "Information technology system" means any related computer or
+16 telecommunications components that provide a functional system for a
+17 specific business purpose and contain one (1) or more of the following:
+18 1. Hardware;
+19 2. Software, including application software, systems management
+20 software, utility software, or communications software;
+21 3. Professional services for requirements analysis, system integration,
+22 installation, implementation, or data conversion services; or
+23 4. Digital data products, including acquisition and quality control;
+24 (f) "Capital projects" means, regardless of the source of cash or other
+25 consideration:
+26 1. Any capital construction item, or any combination of capital
+27 construction items necessary to make a building or utility installation
+Page 2 of 20
+XXXX 2/11/2025 12:51 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1190
+1 complete, estimated to cost one million dollars ($1,000,000) or more in
+2 cash or other consideration;
+3 2. Any lease of real property space with an annual rental cost exceeding
+4 five hundred thousand dollars ($500,000)[two hundred thousand
+5 dollars ($200,000)];
+6 3. The use allowance paid by the judicial branch for a real property space
+7 pursuant to KRS 26A.090(2) and 26A.115 when the use allowance for
+8 the space exceeds two hundred thousand dollars ($200,000) on an
+9 annual basis;
+10 4. Any item of equipment estimated to cost five hundred thousand dollars
+11 ($500,000)[two hundred thousand dollars ($200,000)] or more in cash or
+12 other consideration;
+13 5. Any lease of an item of movable equipment if the annual cost of the
+14 lease is five hundred thousand dollars ($500,000)[two hundred
+15 thousand dollars ($200,000)] or more or if the total cost of the lease-
+16 purchase or lease with an option to purchase is five hundred thousand
+17 dollars ($500,000)[two hundred thousand dollars ($200,000)] or more;
+18 and
+19 6. Any new acquisition, upgrade, or replacement of an information
+20 technology system estimated to cost five million dollars
+21 ($5,000,000)[one million dollars ($1,000,000)] or more in cash or other
+22 consideration;
+23 (g) "Emergency repair, maintenance, or replacement project" means the
+24 maintenance, repair, or reconstruction of a capital construction project or the
+25 maintenance, repair, or replacement of a major item of equipment that is:
+26 1. Necessitated by injury or damage resulting from a disaster;
+27 2. Necessary to maintain government operations or to prevent or minimize
+Page 3 of 20
+XXXX 2/11/2025 12:51 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1190
+1 injury or damage that could reasonably be expected to result from an
+2 impending disaster; or
+3 3. Necessitated by an unforeseen mechanical breakdown, electrical
+4 breakdown, or structural defect that must be corrected to make a facility
+5 or item of equipment usable;
+6 (h) "Disaster" means a fire, flood, tornado, other natural disaster, riot, enemy
+7 attack, sabotage, explosion, power failure, energy shortage, transportation
+8 emergency, or other man-caused disaster;
+9 (i) "Capital construction funds" means any funds used for capital construction,
+10 including, but not limited to, appropriated capital construction funds, agency
+11 funds, federal funds, private funds, or funds from any source held by an
+12 agency for management or investment purposes; and
+13 (j) "Entity head" means the Chief Justice of the Supreme Court, the President of
+14 the Senate and the Speaker of the House of Representatives, the secretary of
+15 the Finance and Administration Cabinet, the president of any university which
+16 complies with KRS 164A.585, 164A.595, and 164A.600, the board of trustees
+17 of the Kentucky Employees Retirement System, the board of trustees of the
+18 Teachers' Retirement System of the State of Kentucky, the board of directors
+19 of the Kentucky Higher Education Student Loan Corporation, the board of
+20 directors of the Kentucky Lottery Corporation, or the board of directors of the
+21 Kentucky Housing Corporation.
+22 (2) Except as provided in subsection (3) of this section, KRS 45.760 to 45.810 shall
+23 apply to capital projects and bonds for use by:
+24 (a) The state government;
+25 (b) One of its departments or agencies, as defined in KRS 12.010 or enumerated
+26 in KRS 12.020;
+27 (c) A municipal corporation which exercises its authority on a statewide basis,
+Page 4 of 20
+XXXX 2/11/2025 12:51 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1190
+1 including but not limited to the Kentucky Employees Retirement System,
+2 Teachers' Retirement System of the State of Kentucky, Kentucky Higher
+3 Education Student Loan Corporation, Kentucky Lottery Corporation, and
+4 Kentucky Housing Corporation; and
+5 (d) Institutions of higher education.
+6 (3) KRS 45.760 to 45.810 shall not apply to:
+7 (a) Capital projects or bonds used directly in or for the construction or
+8 maintenance of roads, including but not limited to bulldozers, graders, earth
+9 movers, and real estate purchased for rights-of-way; and
+10 (b) Political subdivisions, except for those defined in KRS 12.010, enumerated in
+11 KRS 12.020, or created as a municipal corporation which exercises its
+12 authority on a statewide basis including, but not limited to, the Kentucky
+13 Employees Retirement System, Teachers' Retirement System of the State of
+14 Kentucky, Kentucky Higher Education Student Loan Corporation, Kentucky
+15 Lottery Corporation, Kentucky Housing Corporation, or any entity with a
+16 governing body whose membership is substantially similar to the membership
+17 of the governing body of a municipal corporation which exercises its authority
+18 on a statewide basis. However, the provisions of KRS 45.750 to 45.810 shall
+19 not apply to acquisition or maintenance of any building or land which is
+20 purchased as a legal investment by any of the state retirement systems, which
+21 is not to be occupied by the retirement system, and which is financed solely
+22 with those assets of the retirement system used for investment purposes.
+23 Section 2. KRS 164A.585 is amended to read as follows:
+24 (1) Subject to authorization by the General Assembly and KRS 164A.580, the
+25 governing boards may make plans and specifications, advertise for bids, let
+26 contracts or incur any financing commitments, either in the way of a charge against
+27 institution funds or in the way of negotiations for issuance of revenue bonds, for
+Page 5 of 20
+XXXX 2/11/2025 12:51 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1190
+1 any capital construction projects involving the improvement of lands or the
+2 construction, alteration, reconstruction, or major repair of any building or other
+3 structure, or sewage disposal, water supply system or other utility system.
+4 (2) Review of construction plans for conformance with the uniform state building code
+5 shall be conducted by the Department of Housing, Buildings and Construction. The
+6 board shall not approve any such project requiring its approval in any instance
+7 where it finds that the project is not needed, or that the proposed method of
+8 financing is not sound, or in cases where the project will exceed the amount of the
+9 funds available therefor, or the work contemplated will be insufficient to
+10 accomplish the purpose of the project, or that after providing for the ordinary
+11 recurring expenses of administration and debt service and for payments under
+12 existing allotments for extraordinary expenses and capital outlay, cash will not be
+13 available in the Treasury to promptly pay for the work or that the work is to be done
+14 by employees of the institution.
+15 (3) Any capital construction project, except as provided in subsection (4) of this
+16 section, shall be contracted for on a competitive bid basis, and the execution of such
+17 contracts shall be approved and authorized by the board. When a capital
+18 construction project has been approved as provided in this section, in whole or in
+19 part, the board shall prepare the plans and specifications, advertise for bids, award
+20 the contracts, supervise the construction and handle the financial negotiations.
+21 (a) The governing board shall ensure that every invitation for bids or request for
+22 proposals shall provide that an item equal to that named or described in the
+23 specifications may be furnished.
+24 (b) The specifications may identify a sole brand in cases where, in the written
+25 opinion of the chief procurement officer, documented unique and valid
+26 conditions require compatibility, continuity, or conformity with established
+27 standards.
+Page 6 of 20
+XXXX 2/11/2025 12:51 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1190
+1 (c) An item shall be considered equal to the item named or described if, in the
+2 opinion of the governing board and the design professional responsible for the
+3 specifications:
+4 1. It is at least equal in quality, durability, strength, design, and other
+5 criteria deemed appropriate;
+6 2. It will perform at least equally the function imposed by the general
+7 design for the public work being contracted for or the material being
+8 purchased; and
+9 3. It conforms substantially to the detailed requirements for the item in the
+10 specifications.
+11 (4) A capital construction project, the total cost of completion of which will not exceed
+12 five hundred thousand dollars ($500,000)[two hundred fifty thousand dollars
+13 ($250,000)], may be performed by the employees of the institution or by individuals
+14 hired specifically for the project. Necessary materials and supplies shall be procured
+15 in accordance with the standard purchasing procedures and policies of the board as
+16 defined in KRS 164A.575.
+17 Section 3. KRS 45A.695 is amended to read as follows:
+18 (1) Except as provided in subsection (8) of this section, no one shall begin work on a
+19 personal service contract entered into by any contracting body or incur expenditures
+20 under a tax incentive agreement until notification of the personal service contract or
+21 tax incentive agreement is filed with the committee. Each personal service contract
+22 shall have a cancellation clause not to exceed thirty (30) days notice to the
+23 contractee.
+24 (2) Each personal service contract, tax incentive agreement, and memorandum of
+25 agreement shall be filed with the committee prior to the effective date and shall be
+26 accompanied by a completed proof of necessity form as established by the
+27 committee by promulgation of an administrative regulation, or equivalent
+Page 7 of 20
+XXXX 2/11/2025 12:51 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1190
+1 information if submitted electronically. The proof of necessity form shall
+2 document:
+3 (a) The need for the service or benefit to the Commonwealth of the tax incentive
+4 agreement;
+5 (b) For personal service contracts and memoranda of agreement, the
+6 unavailability of state personnel or the nonfeasibility of utilizing state
+7 personnel to perform the service;
+8 (c) The total projected cost of the contract or agreement and source of funding;
+9 (d) The total projected duration of the contract or tax incentive agreement;
+10 (e) Payment information, in detail;
+11 (f) In the case of memoranda of agreement or similar device, the reason for
+12 exchanging resources or responsibilities; and
+13 (g) Such other information as the committee deems appropriate.
+14 (3) Adequate notice of the need for a personal service contract shall be given by the
+15 contracting body through a request for proposals. The request for proposals shall
+16 describe the services required, list the type of information and data required of each
+17 offeror, state the relative importance of particular qualifications, and include the
+18 reciprocal preference for resident bidders required by KRS 45A.494.
+19 (4) The head of the contracting body or his or her designee may conduct discussions
+20 with any offeror who has submitted a proposal to determine the offeror's
+21 qualifications for further consideration. Discussions shall not disclose any
+22 information derived from proposals submitted by other offerors.
+23 (5) Award shall be made to the offeror determined by the head of the contracting body,
+24 or his or her designee, to be the best qualified of all offerors based on the evaluation
+25 factors set forth in the request for proposals and the negotiation of fair and
+26 reasonable compensation. If compensation cannot be agreed upon with the best
+27 qualified offeror and if proposals were submitted by one (1) or more other offerors
+Page 8 of 20
+XXXX 2/11/2025 12:51 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1190
+1 determined to be qualified, negotiations may be conducted with the other offeror or
+2 offerors in the order of their respective qualification ranking. In this case, the
+3 contract may be awarded to the next best ranked offeror for a fair and reasonable
+4 compensation. All determinations of the qualification rankings of offerors by the
+5 head of the contracting body or a designee of the officer based on evaluation factors
+6 set forth in the request for proposals shall be made in writing. Written
+7 documentation shall be maintained concerning the final results of negotiation with
+8 each vendor and reasoning as to why each vendor was chosen.
+9 (6) The committee shall maintain a record or have readily accessible records of the date
+10 on which each personal service contract, tax incentive agreement, and
+11 memorandum of agreement was received and shall maintain or have access to
+12 electronic or paper files on all personal service contracts, tax incentive agreements,
+13 and memoranda of agreement. Except for records exempt from inspection under
+14 KRS 61.870 to 61.884, all personal service contracts, tax incentive agreements, and
+15 memoranda of agreement shall be made available for public inspection.
+16 (7) Payment on personal service contracts, tax incentive agreements, and memoranda
+17 of agreement submitted to the committee for approval shall not be made for
+18 services rendered or projects undertaken after committee disapproval, unless the
+19 decision of the committee is overridden by the secretary of the Finance and
+20 Administration Cabinet or agency head, if the agency has been granted delegation
+21 authority by the secretary of the Finance and Administration Cabinet. All personal
+22 service contracts, tax incentive agreements, and memoranda of agreement shall
+23 contain a provision that stipulates that payments on personal service contracts and
+24 memoranda of agreement shall not be authorized for services rendered after
+25 committee disapproval, unless the decision of the committee is overridden by the
+26 secretary of the Finance and Administration Cabinet or agency head, if the agency
+27 has been granted delegation authority.
+Page 9 of 20
+XXXX 2/11/2025 12:51 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1190
+1 (8) In the event of a governmental emergency as defined under KRS 45A.690, work
+2 may begin prior to filing notification of the personal service contract with the
+3 committee, if the secretary of the Finance and Administration Cabinet or his or her
+4 designee determines that the time involved in the normal review process would be
+5 detrimental to the Commonwealth's ability to act or procure the services and the
+6 normal process will not accommodate the governmental emergency. Payment shall
+7 not be made until written notification and explanation of the reasons for this action
+8 are forwarded to the committee.
+9 (9) If a governmental emergency exists as defined under KRS 45A.690 and work is
+10 authorized to begin on a personal service contact immediately, a copy of a
+11 statement, approved by the secretary of the Finance and Administration Cabinet or
+12 his or her designee, setting forth in detail the nature of the emergency shall be filed
+13 with the committee, along with a copy of the personal service contract.
+14 (10) (a) No payment shall be made on any personal service contract unless the
+15 individual, firm, partnership, or corporation awarded the personal service
+16 contract submits an[its] invoice for payment that contains the information
+17 required by paragraph (d) of this subsection[ on a form established by the
+18 committee].
+19 (b) Invoices shall be submitted every ninety (90) days, unless the personal service
+20 contract specifies a different submission time period.
+21 (c) Separate invoices shall be submitted for each distinct matter covered by the
+22 personal service contract, and shall be signed by the individual responsible for
+23 that matter.
+24 (d) Each invoice shall contain the following information:
+25 1. A description of the matter covered by the invoice;
+26 2. The date each service was performed;
+27 3. A full description of each service;
+Page 10 of 20
+XXXX 2/11/2025 12:51 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1190
+1 4. The name and title of each individual who worked on the matter, and the
+2 time the individual spent on the matter;
+3 5. The subject matter and recipient of any correspondence;
+4 6. A full description of any work product produced, designating the way in
+5 which the work product is associated with the matter being invoiced;
+6 7. The hourly rate for each individual working on the matter, and the total
+7 charge for that individual for each matter invoiced;
+8 8. An itemized list of all disbursements to be reimbursed by the state for
+9 each matter invoiced;
+10 9. The total charge for each matter;
+11 10. The combined total for services and disbursements for the billing period;
+12 11. The tax identification number of the entity awarded the personal service
+13 contract; and
+14 12. An indication on each invoice of whether or not the invoice is final.
+15 (e) The issuance of an invoice to the Commonwealth constitutes an affirmation
+16 by the individual, firm, partnership, or corporation awarded the personal
+17 service contract that the invoice truly and accurately represents work actually
+18 performed and expenses actually incurred.
+19 (f) The head of the contracting body shall approve the invoice, indicating that the
+20 charges in the invoice reflect the value of the work performed, and all
+21 recorded costs and disbursements were reasonably and necessarily incurred in
+22 connection with the matter invoiced.
+23 Section 4. KRS 164.330 is amended to read as follows:
+24 [Each board of regents shall hold its first meeting within thirty (30) days after each
+25 appointment of new members. ]At the first meeting of the board of regents following an
+26 appointment of a new member, unless the member was appointed to serve the
+27 remainder of an unexpired term,[this meeting] there shall be elected a vice chairperson
+Page 11 of 20
+XXXX 2/11/2025 12:51 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1190
+1 and a secretary for the board. Each board shall appoint a treasurer, and such officers as it
+2 deems necessary, but no member of any of the boards shall be appointed treasurer. No
+3 member of any board shall draw any salary for his or her services, but shall be
+4 reimbursed for necessary expenditures made in going to and from each meeting of the
+5 board and for other legitimate expenses, except a member who resides outside the
+6 Commonwealth shall not be reimbursed for out-of-state travel. The expenses shall be
+7 paid out of the funds of the appropriate institution.
+8 Section 5. KRS 61.661 is amended to read as follows:
+9 (1) (a) Each current, former, or retired member's account shall be administered in a
+10 confidential manner, and specific data regarding a current, former, or retired
+11 member shall not be released for publication, except that:
+12 1. The member or recipient may authorize the release of his or her account
+13 information;
+14 2. The Kentucky Public Pensions Authority shall[may] release account
+15 information to the employer or to other state and federal agencies as it
+16 deems necessary or in response to a lawful subpoena or order issued by
+17 a court of law, except that the Kentucky Public Pensions Authority shall
+18 be required to release account information to the employer as required
+19 by KRS 61.565(1)(d)1.b.; or
+20 3. a. Upon request by any person, the systems shall release the
+21 following information from the accounts of any member or retired
+22 member of the Kentucky Employees Retirement System, the
+23 County Employees Retirement System, or the State Police
+24 Retirement System, if the member or retired member is a current
+25 or former officeholder in the Kentucky General Assembly:
+26 i. The first and last name of the member or retired member;
+27 ii. The system or systems in which the member has an account
+Page 12 of 20
+XXXX 2/11/2025 12:51 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1190
+1 or from which the retired member is receiving a monthly
+2 retirement allowance;
+3 iii. The status of the member or retired member, including but
+4 not limited to whether he or she is a contributing member, a
+5 member who is not currently contributing to the systems but
+6 has not retired, a retired member, or a retired member who
+7 has returned to work following retirement with an agency
+8 participating in the systems;
+9 iv. If the individual is a retired member, the monthly retirement
+10 allowance that he or she was receiving at the end of the most
+11 recently completed fiscal year;
+12 v. If the individual is a member who has not yet retired, the
+13 estimated monthly retirement allowance that he or she is
+14 eligible to receive at his or her normal retirement date based
+15 upon his or her service credit, final compensation, and
+16 accumulated account balance at the end of the most recently
+17 completed fiscal year; and
+18 vi. The current employer or last participating employer of the
+19 member or retired member, if applicable.
+20 b. No information shall be disclosed under this subparagraph from an
+21 account that is paying benefits to a beneficiary due to the death of
+22 a member or retired member.
+23 (b) A current, former, or retired member's account shall be exempt from the
+24 provisions of KRS 171.410 to 171.990.
+25 (c) The release of information under paragraph (a)3. of this subsection shall not
+26 constitute a violation of the Open Records Act, KRS 61.870 to 61.884.
+27 (2) (a) When a subpoena is served upon any employee of the Kentucky Retirement
+Page 13 of 20
+XXXX 2/11/2025 12:51 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1190
+1 Systems, the County Employees Retirement System, or the Kentucky Public
+2 Pensions Authority, requiring production of any specific data regarding a
+3 current, former, or retired member, it is sufficient if the employee of the
+4 Kentucky Public Pensions Authority charged with the responsibility of being
+5 custodian of the original delivers within five (5) working days, by certified
+6 mail or by personal delivery, legible and durable copies of records, certified
+7 by the employee, or an affidavit stating the information required by the
+8 subpoena to the person specified in the subpoena. The production of
+9 documents or an affidavit shall be in lieu of any personal testimony of any
+10 employee of the Kentucky Retirement Systems, the County Employees
+11 Retirement System, or the Kentucky Public Pensions Authority, unless, after
+12 the production of documents or affidavit, a separate subpoena is served upon
+13 the systems or the Authority specifically directing the testimony of an
+14 employee of the systems or of the Authority. When a subpoena is served on
+15 any employee of the systems or of the Authority requiring the employee to
+16 give deposition for any purpose, in the absence of a court order requiring the
+17 deposition of a specific employee, the systems or the Authority may designate
+18 an employee to be deposed upon the matter referred to in the subpoena.
+19 (b) The certification required by this subsection shall be signed before a notary
+20 public by the employee and shall include the full name of the member or
+21 recipient, the member's or recipient's Social Security number, and a legend
+22 substantially to the following effect: "The records are true and complete
+23 reproductions of the original or microfiched records which are housed in the
+24 retirement systems office. This certification is given in lieu of his or her
+25 personal appearance."
+26 (c) When an affidavit or copies of records are personally delivered, a receipt shall
+27 be presented to the person receiving the records for his or her signature and
+Page 14 of 20
+XXXX 2/11/2025 12:51 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1190
+1 shall be immediately signed and returned to the person delivering the records.
+2 When an affidavit or copies of records are sent via certified mail, the receipt
+3 used by the postal authorities shall be sufficient to prove delivery and receipt
+4 of the affidavit or copies of records.
+5 (d) When the affidavit or copies of records are delivered to a party for use in
+6 deposition, they shall, after termination of the deposition, be delivered
+7 personally or by certified mail to the clerk of the court or other body before
+8 which the action or proceeding is pending. It shall be the responsibility of the
+9 party or attorney to transmit the receipt obtained to the employee of the
+10 Kentucky Public Pensions Authority charged with responsibility of being
+11 custodian of the original. Upon issuance of a final order terminating the case
+12 and after the normal retention period for court records expires, the affidavit or
+13 copies of records shall be permanently disposed of by the clerk in a manner
+14 that protects the confidentiality of the information contained therein.
+15 (e) Records of the Kentucky Public Pensions Authority that are susceptible to
+16 photostatic reproduction may be proved as to foundation, identity, and
+17 authenticity without any preliminary testimony, by use of legible and durable
+18 copies, certified in accordance with the provisions of this subsection.
+19 Section 6. KRS 61.880 is amended to read as follows:
+20 (1) If a person enforces KRS 61.870 to 61.884 pursuant to this section, he or she shall
+21 begin enforcement under this subsection before proceeding to enforcement under
+22 subsection (2) of this section. Each public agency, upon any request for records
+23 made under KRS 61.870 to 61.884, shall determine within five (5) days, excepting
+24 Saturdays, Sundays, and legal holidays, after the receipt of any such request
+25 whether to comply with the request and shall notify in writing the person making
+26 the request, within the five (5) day period, of its decision. An agency response
+27 denying, in whole or in part, inspection of any record shall include a statement of
+Page 15 of 20
+XXXX 2/11/2025 12:51 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1190
+1 the specific exception authorizing the withholding of the record and a brief
+2 explanation of how the exception applies to the record withheld. The response shall
+3 be issued by the official custodian or under his or her authority, and it shall
+4 constitute final agency action.
+5 (2) (a) If a complaining party wishes the Attorney General to review a public
+6 agency's denial of a request to inspect a public record, the complaining party
+7 shall forward to the Attorney General a copy of the written request and a copy
+8 of the written response denying inspection within sixty (60) days from receipt
+9 by that party of the written response. If the public agency refuses to provide a
+10 written response, a complaining party shall provide a copy of the written
+11 request within sixty (60) days from the deadline for the public agency's
+12 written response under subsection (1) of this section. The Attorney General
+13 shall review the request and denial and issue within twenty (20) days,
+14 excepting Saturdays, Sundays and legal holidays, a written decision stating
+15 whether the agency violated provisions of KRS 61.870 to 61.884.
+16 (b) In unusual circumstances, the Attorney General may extend the twenty (20)
+17 day time limit by sending written notice to the complaining party and a copy
+18 to the denying agency, setting forth the reasons for the extension, and the day
+19 on which a decision is expected to be issued, which shall not exceed an
+20 additional thirty (30) work days, excepting Saturdays, Sundays, and legal
+21 holidays. As used in this section, "unusual circumstances" means, but only to
+22 the extent reasonably necessary to the proper resolution of an appeal:
+23 1. The need to obtain additional documentation from the agency or a copy
+24 of the records involved;
+25 2. The need to conduct extensive research on issues of first impression; or
+26 3. An unmanageable increase in the number of appeals received by the
+27 Attorney General.
+Page 16 of 20
+XXXX 2/11/2025 12:51 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1190
+1 (c) On the day that the Attorney General renders his or her decision, he or she
+2 shall mail a copy to the agency and a copy to the person who requested the
+3 record in question. The burden of proof in sustaining the action shall rest with
+4 the agency, and the Attorney General may request additional documentation
+5 from the agency for substantiation. The Attorney General may also request a
+6 copy of the records involved, but they shall not be disclosed.
+7 (3) Each agency shall notify the Attorney General of any actions filed against that
+8 agency in Circuit Court regarding the enforcement of KRS 61.870 to 61.884. The
+9 Attorney General shall not, however, be named as a party in any Circuit Court
+10 actions regarding the enforcement of KRS 61.870 to 61.884, nor shall he or she
+11 have any duty to defend his or her decision in Circuit Court or any subsequent
+12 proceedings.
+13 (4) If a person feels the intent of KRS 61.870 to 61.884 is being subverted by an
+14 agency short of denial of inspection, including but not limited to the imposition of
+15 excessive fees, delay past the five (5) day period described in subsection (1) of this
+16 section, excessive extensions of time, or the misdirection of the applicant, the
+17 person may complain in writing to the Attorney General, and the complaint shall be
+18 subject to the same adjudicatory process as if the record had been denied.
+19 (5) (a) A party shall have thirty (30) days from the day that the Attorney General
+20 renders his or her decision to appeal the decision. An appeal within the thirty
+21 (30) day time limit shall be treated as if it were an action brought under KRS
+22 61.882.
+23 (b) If an appeal is not filed within the thirty (30) day time limit, the Attorney
+24 General's decision shall have the force and effect of law and shall be
+25 enforceable in the Circuit Court of the county where the public agency has its
+26 principal place of business or the Circuit Court of the county where the public
+27 record is maintained.
+Page 17 of 20
+XXXX 2/11/2025 12:51 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1190
+1 Section 7. KRS 164.952 is amended to read as follows:
+2 (1) As used in this section:
+3 (a) "Police officer" has the same meaning as "police officer" in KRS 15.420, as
+4 "police officer" in KRS 164.950 to 164.980, and as "officer" in KRS 16.010;
+5 and
+6 (b) "Postsecondary institution" means any public institution of postsecondary
+7 education authorized to establish a police department pursuant to KRS
+8 164.950 to 164.980 that participates in the Kentucky Employees Retirement
+9 System.
+10 (2) [Subject to the limitations of subsection (7) of this section, ]A postsecondary
+11 institution may employ individuals as police officers under this section who have
+12 retired from the Kentucky Employees Retirement System, the County Employees
+13 Retirement System, or the State Police Retirement System.
+14 (3) To be eligible for employment under this section, an individual shall have:
+15 (a) Participated in the Law Enforcement Foundation Program fund under KRS
+16 15.410 to 15.510, retired as a commissioned officer pursuant to KRS Chapter
+17 16, or retired as a police officer from a postsecondary institution;
+18 (b) Retired with at least twenty (20) years of service credit;
+19 (c) Been separated from service for the period required by KRS 61.637 or
+20 78.5540 so that the member's retirement is not voided;
+21 (d) Retired with no administrative charges pending; and
+22 (e) Retired with no preexisting agreement between the individual and the
+23 postsecondary institution prior to the individual's retirement for the individual
+24 to return to work for the postsecondary institution.
+25 (4) Individuals employed under this section shall:
+26 (a) Serve for a term not to exceed one (1) year. The one (1) year employment
+27 term may be renewed annually at the discretion of the employing
+Page 18 of 20
+XXXX 2/11/2025 12:51 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1190
+1 postsecondary institution;
+2 (b) Receive compensation according to the standard procedures applicable to the
+3 employing postsecondary institution; and
+4 (c) Be employed based upon need as determined by the employing postsecondary
+5 institution.
+6 (5) Notwithstanding any provisions of KRS 16.505 to 16.652, 18A.225 to 18A.2287,
+7 61.510 to 61.705, or 78.510 to 78.852 to the contrary:
+8 (a) Individuals employed under this section shall continue to receive all
+9 retirement and health insurance benefits to which they were entitled upon
+10 retiring in the applicable system administered by Kentucky Retirement
+11 Systems;
+12 (b) Individuals employed under this section shall not be eligible to receive health
+13 insurance coverage through the employing postsecondary institution;
+14 (c) The postsecondary institution shall not pay any employer contributions or
+15 retiree health expense reimbursements to the Kentucky Retirement Systems
+16 required by KRS 61.637(17) for individuals employed under this section; and
+17 (d) The postsecondary institution shall not pay any insurance contributions to the
+18 state health insurance plan, as provided by KRS 18A.225 to 18A.2287, for
+19 individuals employed under this section.
+20 (6) Individuals employed under this section shall be subject to any legislative due
+21 process provisions applicable to police officers of the employing postsecondary
+22 institution. A decision not to renew a one (1) year appointment term under this
+23 section shall not be considered a disciplinary action or deprivation subject to due
+24 process.[
+25 (7) The number of retired police officers a postsecondary institution may hire under the
+26 provisions of this section shall be limited to five (5) retired police officers or a
+27 number equal to twenty-five percent (25%) of the police officers employed by the
+Page 19 of 20
+XXXX 2/11/2025 12:51 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1190
+1 postsecondary institution in calendar year 2018, whichever is greater.]
+Page 20 of 20
+XXXX 2/11/2025 12:51 PM Jacketed
+[DELETED:   2  J A B S ( A ( " ( " 1 T o 2 T 3 T 4 T p a i i o d m r o e f a f o a p n f b 5 T a S o s g a d i K 1 o e b M b i b n l t t K E R K K a e w a g b w m i s m b c I ( "]
+[DELETED:   2  J o 1 A 2 T 3 T ( " 1 A 2 E e t i a c i 3 A m 4 p o o a o e t b p c p ( " t s m a r c o t c t p a f s f a s 1 H 2 S i a s s m s 3 P s f r a s i i 4 D ( " p m r o t s o c o o c 1 A c c i o a c o c c i n m a b o i]
+[DELETED:   2  J c c 2 A f h t d ( h t d 3 T p t s e t h t d ( o a a 4 A ( o 5 A l i f h t d ( h t p d a 6 A n a u o r o a i t s e t c f m d ( c ( " r m o r p m t m m 1 N 2 N]
+[DELETED:   2  J i i 3 N b a u m b e b o ( " m a f f t o n d r e a s e p f e s t e ( " i f f f p f o f f a s h b a a ( " t t c o T o K d K ( E a ( T ( O i ( A]
+[DELETED:   2  J i b n l t t K E R S T R S o t S o K K H E S L C K L C a K ( I ( K ( C p o b u d i o f t c o m m ( P K 1 o c a a m c w e i a o a s b i b n l t t K E K L C K H C o a e w a g o o n a t a o m o a b o l w i p i w S ( S t a b t G A a K 1 t g b m m p a s a f b l c i]
+[DELETED:   2  J a c c p i t i o l o t c a r o m r o a b o o s ( R s b s n a a s p r i a i a i w i f t t p i n n o t t p m o f f a t o t w c w b i t a t p o t p o t a p f t o r e o a a d s a f p u e a b ( A c c p e a p i s ( o t s c s b a a a b t b W a c c p t ( T p s ( T o o t c p o d u a v c r c c o c w e s]
+[DELETED:   2  J ( A o s 1 I i a l e i q d s d a o c 2 I w p a l e t f i b t g d p 3 I s ( A f h t d ( h f t d ( h i d S ( E p u t s h a c c n t e t ( d n t t c ( E p s c t i a a m o a a b a c p o n f a e b t c b p o a a r o e]
+[DELETED:   2  J i i s e T p o n f s d ( T a ( F p s c a m o a t u o s p o t n o u s p ( T ( T ( P ( I t c o m o a o s d t r f e ( S ( A c d o t r i o q a i t r ( T w a o w h s a p t d t o q f f c D s n d a i ( A o f s f i t r f p a t n o f a r c I c c b a u w t b q]
+[DELETED:   2  J d o i t o o t r q r I t c t c c h s f i t r f p s b m i w W d e ( T o w e p s c t i a a m o a w r a s m o h a t e a m o E f r e f i u K m ( P o a s t t c f a s n b m f s r o p u a c d u t d o t c i o b t s o t F a A a s c t i a a m o a s c m o a s n b a f s r a c s h]
+[DELETED:   2  J ( I m b p t f n o t p s c w t c d d n n a ( I a t b o a p s c i a c o a s h w ( ( N p s b m o a p s c u t i f p o c a t p s c r c ( I c ( S p t ( E 1 A 2 T 3 A]
+[DELETED:   2  J 4 T t 5 T 6 A w 7 T c 8 A e 9 T 1 T 1 T c 1 A ( T b t i f p o c a t p s p ( T c i t i r t v o t w p a a r c S [ b o r s h i f m w t ( d a e a a o a n m u t m w a t s t r]
+[DELETED:   2  J a d m o a b s d a s f h o h s b s b r b a f o l e e a m w r o t C s n b r f o t T e s b p S ( ( E c m 1 T i 2 T K P P A s r a i d a b b 3 a U r b a p t s s r t f m o t K E R S t C E R S o t S P R o i T i T]
+[DELETED:   2  J o f w t r m i r a m r i T n m h h r t w f r w a a p i I a r v I t i i a m w h n y r t e m r a t h o s i e u h o h s c f c a a c v T c e p e m b N a a ( A c f o r m a s b e f t p ( T c ( ( W]
+[DELETED:   2  J S P A r p o a s d r a c f o r m i i s i t e o t K c m b t e o a a s t i r b t s t t p s i t s T p o d e o t K R S t C E R t t s o t A s d t t o a e a g d a ( T p b t e a s i t f n o t m o r s t t f e " r a t a c r r s o T c i g i l o h o h p ( W b]
+[DELETED:   2  J s W u o ( W a d t s a t o t d b d p w p o a t t t r o t t e o t K P P A c w r o b c a c t ( R o t K P P A t a s t p r m b p a t f i a a c S ( I b s m S S a l h a t r o a s r w t r w t f ( d p o i d A a r d]
+[DELETED:   2  J t s e a t w o t r a a b e b i b t o c o u h o h a a i s c ( ( I a c p w t A G t r a p a s o b w r a c p s p a c o t w r w s ( d f t d f t p a w s r t r a d a i w t ( d e w ( I d t o w a d i e t b i w s n e a a t ( w d e S S a l h t 1 T o 2 T 3 A u i i t n o a r b t A]
+[DELETED:   2  J ( O s r t f c ( E a s n t A G o a a f a t a A G s n h b n a a p i a C C a h a d t d h o h d i C C o a s p ( I a p f t i o K 6 t 6 i b s b a a e s e e o t o t m o t a t p s ( ( A r ( 6 ( I G d s h t f a e o l a s b e p r]
+[DELETED:   2  J S ( A ( " " a ( " i m a p i o p e a t e a p d p t K 1 S ( [ t t l o s ( o t s ] p i r R ( T ( P 1 1 ( R ( B s f s f t p r b K 6 o 7 ( R ( R w n p a b t i a t p t ( I ( S t m b r a a t d o t e]
+[DELETED:   2  J p ( R e ( B i ( N 6 ( I e u t s s c t r a r a h i b t w t w e u r i t a s a b K R S ( I i ( T p i s n p a e c o r r ( T s i ( I e u t s s b s t a l d p p a t p o o t e p i A d n t r a o ( y a t u t s p ( T p o s s b l t f ( r p o o a n]
+[DELETED:   2  J p]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS BR 1190
+1 AN ACT relating to state government.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 45.750 is amended to read as follows:
+4 (1) As used in KRS 45.760 to 45.810:
+5 (a) "Committee" means the Capital Projects and Bond Oversight Committee;
+6 (b) "Capital construction item" means:
+7 1. The construction, reconstruction, acquisition, and structural maintenance
+8 of buildings;
+9 2. The installation of utility services, including roads and sewers;
+10 3. The acquisition or improvement of real property;
+11 4. The purchase and installation initially or during major renovation of
+12 equipment, facilities, and furnishings of a permanent nature for
+13 buildings; or
+14 5. The acquisition of any building to be occupied by any:
+15 a. Subdivision of state government as defined in KRS 12.010 or
+16 enumerated in KRS 12.020;
+17 b. Municipal corporation which exercises its authority on a statewide
+18 basis including, but not limited to, the Kentucky Employees
+19 Retirement System, Teachers' Retirement System of the State of
+20 Kentucky, Kentucky Higher Education Student Loan Corporation,
+21 Kentucky Lottery Corporation, Kentucky Housing Corporation, or
+22 any entity with a governing body whose membership is
+23 substantially similar to the membership of the governing body of a
+24 municipal corporation which exercises its authority on a statewide
+25 basis; and
+26 c. Institution of higher education;
+27 (c) "Lease" means any lease, lease-purchase, or lease with an option to purchase
+Page 1 of 20
+XXXX 2/11/2025 12:51 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1190
+1 of any real property space occupied by:
+2 1. Any entity listed in paragraph (b)5. of this subsection;
+3 2. The legislative branch; or
+4 3. The judicial branch when leased from a private sector landlord;
+5 (d) "Equipment" means:
+6 1. Any major item of equipment, including aircraft;
+7 2. Electronic equipment that incorporates advanced computing,
+8 including smart medical, scientific, and research equipment;
+9 3. Any movable furnishing, appurtenance, or other equipment, necessary to
+10 make a building operable; and
+11 4.[3.] Equipment purchased or otherwise acquired, or equipment to be
+12 purchased or otherwise to be acquired, under a lease or lease-purchase
+13 contract or agreement or an arrangement equivalent to a lease or lease-
+14 purchase contract or agreement;
+15 (e) "Information technology system" means any related computer or
+16 telecommunications components that provide a functional system for a
+17 specific business purpose and contain one (1) or more of the following:
+18 1. Hardware;
+19 2. Software, including application software, systems management
+20 software, utility software, or communications software;
+21 3. Professional services for requirements analysis, system integration,
+22 installation, implementation, or data conversion services; or
+23 4. Digital data products, including acquisition and quality control;
+24 (f) "Capital projects" means, regardless of the source of cash or other
+25 consideration:
+26 1. Any capital construction item, or any combination of capital
+27 construction items necessary to make a building or utility installation
+Page 2 of 20
+XXXX 2/11/2025 12:51 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1190
+1 complete, estimated to cost one million dollars ($1,000,000) or more in
+2 cash or other consideration;
+3 2. Any lease of real property space with an annual rental cost exceeding
+4 five hundred thousand dollars ($500,000)[two hundred thousand
+5 dollars ($200,000)];
+6 3. The use allowance paid by the judicial branch for a real property space
+7 pursuant to KRS 26A.090(2) and 26A.115 when the use allowance for
+8 the space exceeds two hundred thousand dollars ($200,000) on an
+9 annual basis;
+10 4. Any item of equipment estimated to cost five hundred thousand dollars
+11 ($500,000)[two hundred thousand dollars ($200,000)] or more in cash or
+12 other consideration;
+13 5. Any lease of an item of movable equipment if the annual cost of the
+14 lease is five hundred thousand dollars ($500,000)[two hundred
+15 thousand dollars ($200,000)] or more or if the total cost of the lease-
+16 purchase or lease with an option to purchase is five hundred thousand
+17 dollars ($500,000)[two hundred thousand dollars ($200,000)] or more;
+18 and
+19 6. Any new acquisition, upgrade, or replacement of an information
+20 technology system estimated to cost five million dollars
+21 ($5,000,000)[one million dollars ($1,000,000)] or more in cash or other
+22 consideration;
+23 (g) "Emergency repair, maintenance, or replacement project" means the
+24 maintenance, repair, or reconstruction of a capital construction project or the
+25 maintenance, repair, or replacement of a major item of equipment that is:
+26 1. Necessitated by injury or damage resulting from a disaster;
+27 2. Necessary to maintain government operations or to prevent or minimize
+Page 3 of 20
+XXXX 2/11/2025 12:51 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1190
+1 injury or damage that could reasonably be expected to result from an
+2 impending disaster; or
+3 3. Necessitated by an unforeseen mechanical breakdown, electrical
+4 breakdown, or structural defect that must be corrected to make a facility
+5 or item of equipment usable;
+6 (h) "Disaster" means a fire, flood, tornado, other natural disaster, riot, enemy
+7 attack, sabotage, explosion, power failure, energy shortage, transportation
+8 emergency, or other man-caused disaster;
+9 (i) "Capital construction funds" means any funds used for capital construction,
+10 including, but not limited to, appropriated capital construction funds, agency
+11 funds, federal funds, private funds, or funds from any source held by an
+12 agency for management or investment purposes; and
+13 (j) "Entity head" means the Chief Justice of the Supreme Court, the President of
+14 the Senate and the Speaker of the House of Representatives, the secretary of
+15 the Finance and Administration Cabinet, the president of any university which
+16 complies with KRS 164A.585, 164A.595, and 164A.600, the board of trustees
+17 of the Kentucky Employees Retirement System, the board of trustees of the
+18 Teachers' Retirement System of the State of Kentucky, the board of directors
+19 of the Kentucky Higher Education Student Loan Corporation, the board of
+20 directors of the Kentucky Lottery Corporation, or the board of directors of the
+21 Kentucky Housing Corporation.
+22 (2) Except as provided in subsection (3) of this section, KRS 45.760 to 45.810 shall
+23 apply to capital projects and bonds for use by:
+24 (a) The state government;
+25 (b) One of its departments or agencies, as defined in KRS 12.010 or enumerated
+26 in KRS 12.020;
+27 (c) A municipal corporation which exercises its authority on a statewide basis,
+Page 4 of 20
+XXXX 2/11/2025 12:51 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1190
+1 including but not limited to the Kentucky Employees Retirement System,
+2 Teachers' Retirement System of the State of Kentucky, Kentucky Higher
+3 Education Student Loan Corporation, Kentucky Lottery Corporation, and
+4 Kentucky Housing Corporation; and
+5 (d) Institutions of higher education.
+6 (3) KRS 45.760 to 45.810 shall not apply to:
+7 (a) Capital projects or bonds used directly in or for the construction or
+8 maintenance of roads, including but not limited to bulldozers, graders, earth
+9 movers, and real estate purchased for rights-of-way; and
+10 (b) Political subdivisions, except for those defined in KRS 12.010, enumerated in
+11 KRS 12.020, or created as a municipal corporation which exercises its
+12 authority on a statewide basis including, but not limited to, the Kentucky
+13 Employees Retirement System, Teachers' Retirement System of the State of
+14 Kentucky, Kentucky Higher Education Student Loan Corporation, Kentucky
+15 Lottery Corporation, Kentucky Housing Corporation, or any entity with a
+16 governing body whose membership is substantially similar to the membership
+17 of the governing body of a municipal corporation which exercises its authority
+18 on a statewide basis. However, the provisions of KRS 45.750 to 45.810 shall
+19 not apply to acquisition or maintenance of any building or land which is
+20 purchased as a legal investment by any of the state retirement systems, which
+21 is not to be occupied by the retirement system, and which is financed solely
+22 with those assets of the retirement system used for investment purposes.
+23 Section 2. KRS 164A.585 is amended to read as follows:
+24 (1) Subject to authorization by the General Assembly and KRS 164A.580, the
+25 governing boards may make plans and specifications, advertise for bids, let
+26 contracts or incur any financing commitments, either in the way of a charge against
+27 institution funds or in the way of negotiations for issuance of revenue bonds, for
+Page 5 of 20
+XXXX 2/11/2025 12:51 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1190
+1 any capital construction projects involving the improvement of lands or the
+2 construction, alteration, reconstruction, or major repair of any building or other
+3 structure, or sewage disposal, water supply system or other utility system.
+4 (2) Review of construction plans for conformance with the uniform state building code
+5 shall be conducted by the Department of Housing, Buildings and Construction. The
+6 board shall not approve any such project requiring its approval in any instance
+7 where it finds that the project is not needed, or that the proposed method of
+8 financing is not sound, or in cases where the project will exceed the amount of the
+9 funds available therefor, or the work contemplated will be insufficient to
+10 accomplish the purpose of the project, or that after providing for the ordinary
+11 recurring expenses of administration and debt service and for payments under
+12 existing allotments for extraordinary expenses and capital outlay, cash will not be
+13 available in the Treasury to promptly pay for the work or that the work is to be done
+14 by employees of the institution.
+15 (3) Any capital construction project, except as provided in subsection (4) of this
+16 section, shall be contracted for on a competitive bid basis, and the execution of such
+17 contracts shall be approved and authorized by the board. When a capital
+18 construction project has been approved as provided in this section, in whole or in
+19 part, the board shall prepare the plans and specifications, advertise for bids, award
+20 the contracts, supervise the construction and handle the financial negotiations.
+21 (a) The governing board shall ensure that every invitation for bids or request for
+22 proposals shall provide that an item equal to that named or described in the
+23 specifications may be furnished.
+24 (b) The specifications may identify a sole brand in cases where, in the written
+25 opinion of the chief procurement officer, documented unique and valid
+26 conditions require compatibility, continuity, or conformity with established
+27 standards.
+Page 6 of 20
+XXXX 2/11/2025 12:51 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1190
+1 (c) An item shall be considered equal to the item named or described if, in the
+2 opinion of the governing board and the design professional responsible for the
+3 specifications:
+4 1. It is at least equal in quality, durability, strength, design, and other
+5 criteria deemed appropriate;
+6 2. It will perform at least equally the function imposed by the general
+7 design for the public work being contracted for or the material being
+8 purchased; and
+9 3. It conforms substantially to the detailed requirements for the item in the
+10 specifications.
+11 (4) A capital construction project, the total cost of completion of which will not exceed
+12 five hundred thousand dollars ($500,000)[two hundred fifty thousand dollars
+13 ($250,000)], may be performed by the employees of the institution or by individuals
+14 hired specifically for the project. Necessary materials and supplies shall be procured
+15 in accordance with the standard purchasing procedures and policies of the board as
+16 defined in KRS 164A.575.
+17 Section 3. KRS 45A.695 is amended to read as follows:
+18 (1) Except as provided in subsection (8) of this section, no one shall begin work on a
+19 personal service contract entered into by any contracting body or incur expenditures
+20 under a tax incentive agreement until notification of the personal service contract or
+21 tax incentive agreement is filed with the committee. Each personal service contract
+22 shall have a cancellation clause not to exceed thirty (30) days notice to the
+23 contractee.
+24 (2) Each personal service contract, tax incentive agreement, and memorandum of
+25 agreement shall be filed with the committee prior to the effective date and shall be
+26 accompanied by a completed proof of necessity form as established by the
+27 committee by promulgation of an administrative regulation, or equivalent
+Page 7 of 20
+XXXX 2/11/2025 12:51 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1190
+1 information if submitted electronically. The proof of necessity form shall
+2 document:
+3 (a) The need for the service or benefit to the Commonwealth of the tax incentive
+4 agreement;
+5 (b) For personal service contracts and memoranda of agreement, the
+6 unavailability of state personnel or the nonfeasibility of utilizing state
+7 personnel to perform the service;
+8 (c) The total projected cost of the contract or agreement and source of funding;
+9 (d) The total projected duration of the contract or tax incentive agreement;
+10 (e) Payment information, in detail;
+11 (f) In the case of memoranda of agreement or similar device, the reason for
+12 exchanging resources or responsibilities; and
+13 (g) Such other information as the committee deems appropriate.
+14 (3) Adequate notice of the need for a personal service contract shall be given by the
+15 contracting body through a request for proposals. The request for proposals shall
+16 describe the services required, list the type of information and data required of each
+17 offeror, state the relative importance of particular qualifications, and include the
+18 reciprocal preference for resident bidders required by KRS 45A.494.
+19 (4) The head of the contracting body or his or her designee may conduct discussions
+20 with any offeror who has submitted a proposal to determine the offeror's
+21 qualifications for further consideration. Discussions shall not disclose any
+22 information derived from proposals submitted by other offerors.
+23 (5) Award shall be made to the offeror determined by the head of the contracting body,
+24 or his or her designee, to be the best qualified of all offerors based on the evaluation
+25 factors set forth in the request for proposals and the negotiation of fair and
+26 reasonable compensation. If compensation cannot be agreed upon with the best
+27 qualified offeror and if proposals were submitted by one (1) or more other offerors
+Page 8 of 20
+XXXX 2/11/2025 12:51 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1190
+1 determined to be qualified, negotiations may be conducted with the other offeror or
+2 offerors in the order of their respective qualification ranking. In this case, the
+3 contract may be awarded to the next best ranked offeror for a fair and reasonable
+4 compensation. All determinations of the qualification rankings of offerors by the
+5 head of the contracting body or a designee of the officer based on evaluation factors
+6 set forth in the request for proposals shall be made in writing. Written
+7 documentation shall be maintained concerning the final results of negotiation with
+8 each vendor and reasoning as to why each vendor was chosen.
+9 (6) The committee shall maintain a record or have readily accessible records of the date
+10 on which each personal service contract, tax incentive agreement, and
+11 memorandum of agreement was received and shall maintain or have access to
+12 electronic or paper files on all personal service contracts, tax incentive agreements,
+13 and memoranda of agreement. Except for records exempt from inspection under
+14 KRS 61.870 to 61.884, all personal service contracts, tax incentive agreements, and
+15 memoranda of agreement shall be made available for public inspection.
+16 (7) Payment on personal service contracts, tax incentive agreements, and memoranda
+17 of agreement submitted to the committee for approval shall not be made for
+18 services rendered or projects undertaken after committee disapproval, unless the
+19 decision of the committee is overridden by the secretary of the Finance and
+20 Administration Cabinet or agency head, if the agency has been granted delegation
+21 authority by the secretary of the Finance and Administration Cabinet. All personal
+22 service contracts, tax incentive agreements, and memoranda of agreement shall
+23 contain a provision that stipulates that payments on personal service contracts and
+24 memoranda of agreement shall not be authorized for services rendered after
+25 committee disapproval, unless the decision of the committee is overridden by the
+26 secretary of the Finance and Administration Cabinet or agency head, if the agency
+27 has been granted delegation authority.
+Page 9 of 20
+XXXX 2/11/2025 12:51 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1190
+1 (8) In the event of a governmental emergency as defined under KRS 45A.690, work
+2 may begin prior to filing notification of the personal service contract with the
+3 committee, if the secretary of the Finance and Administration Cabinet or his or her
+4 designee determines that the time involved in the normal review process would be
+5 detrimental to the Commonwealth's ability to act or procure the services and the
+6 normal process will not accommodate the governmental emergency. Payment shall
+7 not be made until written notification and explanation of the reasons for this action
+8 are forwarded to the committee.
+9 (9) If a governmental emergency exists as defined under KRS 45A.690 and work is
+10 authorized to begin on a personal service contact immediately, a copy of a
+11 statement, approved by the secretary of the Finance and Administration Cabinet or
+12 his or her designee, setting forth in detail the nature of the emergency shall be filed
+13 with the committee, along with a copy of the personal service contract.
+14 (10) (a) No payment shall be made on any personal service contract unless the
+15 individual, firm, partnership, or corporation awarded the personal service
+16 contract submits an[its] invoice for payment that contains the information
+17 required by paragraph (d) of this subsection[ on a form established by the
+18 committee].
+19 (b) Invoices shall be submitted every ninety (90) days, unless the personal service
+20 contract specifies a different submission time period.
+21 (c) Separate invoices shall be submitted for each distinct matter covered by the
+22 personal service contract, and shall be signed by the individual responsible for
+23 that matter.
+24 (d) Each invoice shall contain the following information:
+25 1. A description of the matter covered by the invoice;
+26 2. The date each service was performed;
+27 3. A full description of each service;
+Page 10 of 20
+XXXX 2/11/2025 12:51 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1190
+1 4. The name and title of each individual who worked on the matter, and the
+2 time the individual spent on the matter;
+3 5. The subject matter and recipient of any correspondence;
+4 6. A full description of any work product produced, designating the way in
+5 which the work product is associated with the matter being invoiced;
+6 7. The hourly rate for each individual working on the matter, and the total
+7 charge for that individual for each matter invoiced;
+8 8. An itemized list of all disbursements to be reimbursed by the state for
+9 each matter invoiced;
+10 9. The total charge for each matter;
+11 10. The combined total for services and disbursements for the billing period;
+12 11. The tax identification number of the entity awarded the personal service
+13 contract; and
+14 12. An indication on each invoice of whether or not the invoice is final.
+15 (e) The issuance of an invoice to the Commonwealth constitutes an affirmation
+16 by the individual, firm, partnership, or corporation awarded the personal
+17 service contract that the invoice truly and accurately represents work actually
+18 performed and expenses actually incurred.
+19 (f) The head of the contracting body shall approve the invoice, indicating that the
+20 charges in the invoice reflect the value of the work performed, and all
+21 recorded costs and disbursements were reasonably and necessarily incurred in
+22 connection with the matter invoiced.
+23 Section 4. KRS 164.330 is amended to read as follows:
+24 [Each board of regents shall hold its first meeting within thirty (30) days after each
+25 appointment of new members. ]At the first meeting of the board of regents following an
+26 appointment of a new member, unless the member was appointed to serve the
+27 remainder of an unexpired term,[this meeting] there shall be elected a vice chairperson
+Page 11 of 20
+XXXX 2/11/2025 12:51 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1190
+1 and a secretary for the board. Each board shall appoint a treasurer, and such officers as it
+2 deems necessary, but no member of any of the boards shall be appointed treasurer. No
+3 member of any board shall draw any salary for his or her services, but shall be
+4 reimbursed for necessary expenditures made in going to and from each meeting of the
+5 board and for other legitimate expenses, except a member who resides outside the
+6 Commonwealth shall not be reimbursed for out-of-state travel. The expenses shall be
+7 paid out of the funds of the appropriate institution.
+8 Section 5. KRS 61.661 is amended to read as follows:
+9 (1) (a) Each current, former, or retired member's account shall be administered in a
+10 confidential manner, and specific data regarding a current, former, or retired
+11 member shall not be released for publication, except that:
+12 1. The member or recipient may authorize the release of his or her account
+13 information;
+14 2. The Kentucky Public Pensions Authority shall[may] release account
+15 information to the employer or to other state and federal agencies as it
+16 deems necessary or in response to a lawful subpoena or order issued by
+17 a court of law, except that the Kentucky Public Pensions Authority shall
+18 be required to release account information to the employer as required
+19 by KRS 61.565(1)(d)1.b.; or
+20 3. a. Upon request by any person, the systems shall release the
+21 following information from the accounts of any member or retired
+22 member of the Kentucky Employees Retirement System, the
+23 County Employees Retirement System, or the State Police
+24 Retirement System, if the member or retired member is a current
+25 or former officeholder in the Kentucky General Assembly:
+26 i. The first and last name of the member or retired member;
+27 ii. The system or systems in which the member has an account
+Page 12 of 20
+XXXX 2/11/2025 12:51 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1190
+1 or from which the retired member is receiving a monthly
+2 retirement allowance;
+3 iii. The status of the member or retired member, including but
+4 not limited to whether he or she is a contributing member, a
+5 member who is not currently contributing to the systems but
+6 has not retired, a retired member, or a retired member who
+7 has returned to work following retirement with an agency
+8 participating in the systems;
+9 iv. If the individual is a retired member, the monthly retirement
+10 allowance that he or she was receiving at the end of the most
+11 recently completed fiscal year;
+12 v. If the individual is a member who has not yet retired, the
+13 estimated monthly retirement allowance that he or she is
+14 eligible to receive at his or her normal retirement date based
+15 upon his or her service credit, final compensation, and
+16 accumulated account balance at the end of the most recently
+17 completed fiscal year; and
+18 vi. The current employer or last participating employer of the
+19 member or retired member, if applicable.
+20 b. No information shall be disclosed under this subparagraph from an
+21 account that is paying benefits to a beneficiary due to the death of
+22 a member or retired member.
+23 (b) A current, former, or retired member's account shall be exempt from the
+24 provisions of KRS 171.410 to 171.990.
+25 (c) The release of information under paragraph (a)3. of this subsection shall not
+26 constitute a violation of the Open Records Act, KRS 61.870 to 61.884.
+27 (2) (a) When a subpoena is served upon any employee of the Kentucky Retirement
+Page 13 of 20
+XXXX 2/11/2025 12:51 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1190
+1 Systems, the County Employees Retirement System, or the Kentucky Public
+2 Pensions Authority, requiring production of any specific data regarding a
+3 current, former, or retired member, it is sufficient if the employee of the
+4 Kentucky Public Pensions Authority charged with the responsibility of being
+5 custodian of the original delivers within five (5) working days, by certified
+6 mail or by personal delivery, legible and durable copies of records, certified
+7 by the employee, or an affidavit stating the information required by the
+8 subpoena to the person specified in the subpoena. The production of
+9 documents or an affidavit shall be in lieu of any personal testimony of any
+10 employee of the Kentucky Retirement Systems, the County Employees
+11 Retirement System, or the Kentucky Public Pensions Authority, unless, after
+12 the production of documents or affidavit, a separate subpoena is served upon
+13 the systems or the Authority specifically directing the testimony of an
+14 employee of the systems or of the Authority. When a subpoena is served on
+15 any employee of the systems or of the Authority requiring the employee to
+16 give deposition for any purpose, in the absence of a court order requiring the
+17 deposition of a specific employee, the systems or the Authority may designate
+18 an employee to be deposed upon the matter referred to in the subpoena.
+19 (b) The certification required by this subsection shall be signed before a notary
+20 public by the employee and shall include the full name of the member or
+21 recipient, the member's or recipient's Social Security number, and a legend
+22 substantially to the following effect: "The records are true and complete
+23 reproductions of the original or microfiched records which are housed in the
+24 retirement systems office. This certification is given in lieu of his or her
+25 personal appearance."
+26 (c) When an affidavit or copies of records are personally delivered, a receipt shall
+27 be presented to the person receiving the records for his or her signature and
+Page 14 of 20
+XXXX 2/11/2025 12:51 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1190
+1 shall be immediately signed and returned to the person delivering the records.
+2 When an affidavit or copies of records are sent via certified mail, the receipt
+3 used by the postal authorities shall be sufficient to prove delivery and receipt
+4 of the affidavit or copies of records.
+5 (d) When the affidavit or copies of records are delivered to a party for use in
+6 deposition, they shall, after termination of the deposition, be delivered
+7 personally or by certified mail to the clerk of the court or other body before
+8 which the action or proceeding is pending. It shall be the responsibility of the
+9 party or attorney to transmit the receipt obtained to the employee of the
+10 Kentucky Public Pensions Authority charged with responsibility of being
+11 custodian of the original. Upon issuance of a final order terminating the case
+12 and after the normal retention period for court records expires, the affidavit or
+13 copies of records shall be permanently disposed of by the clerk in a manner
+14 that protects the confidentiality of the information contained therein.
+15 (e) Records of the Kentucky Public Pensions Authority that are susceptible to
+16 photostatic reproduction may be proved as to foundation, identity, and
+17 authenticity without any preliminary testimony, by use of legible and durable
+18 copies, certified in accordance with the provisions of this subsection.
+19 Section 6. KRS 61.880 is amended to read as follows:
+20 (1) If a person enforces KRS 61.870 to 61.884 pursuant to this section, he or she shall
+21 begin enforcement under this subsection before proceeding to enforcement under
+22 subsection (2) of this section. Each public agency, upon any request for records
+23 made under KRS 61.870 to 61.884, shall determine within five (5) days, excepting
+24 Saturdays, Sundays, and legal holidays, after the receipt of any such request
+25 whether to comply with the request and shall notify in writing the person making
+26 the request, within the five (5) day period, of its decision. An agency response
+27 denying, in whole or in part, inspection of any record shall include a statement of
+Page 15 of 20
+XXXX 2/11/2025 12:51 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1190
+1 the specific exception authorizing the withholding of the record and a brief
+2 explanation of how the exception applies to the record withheld. The response shall
+3 be issued by the official custodian or under his or her authority, and it shall
+4 constitute final agency action.
+5 (2) (a) If a complaining party wishes the Attorney General to review a public
+6 agency's denial of a request to inspect a public record, the complaining party
+7 shall forward to the Attorney General a copy of the written request and a copy
+8 of the written response denying inspection within sixty (60) days from receipt
+9 by that party of the written response. If the public agency refuses to provide a
+10 written response, a complaining party shall provide a copy of the written
+11 request within sixty (60) days from the deadline for the public agency's
+12 written response under subsection (1) of this section. The Attorney General
+13 shall review the request and denial and issue within twenty (20) days,
+14 excepting Saturdays, Sundays and legal holidays, a written decision stating
+15 whether the agency violated provisions of KRS 61.870 to 61.884.
+16 (b) In unusual circumstances, the Attorney General may extend the twenty (20)
+17 day time limit by sending written notice to the complaining party and a copy
+18 to the denying agency, setting forth the reasons for the extension, and the day
+19 on which a decision is expected to be issued, which shall not exceed an
+20 additional thirty (30) work days, excepting Saturdays, Sundays, and legal
+21 holidays. As used in this section, "unusual circumstances" means, but only to
+22 the extent reasonably necessary to the proper resolution of an appeal:
+23 1. The need to obtain additional documentation from the agency or a copy
+24 of the records involved;
+25 2. The need to conduct extensive research on issues of first impression; or
+26 3. An unmanageable increase in the number of appeals received by the
+27 Attorney General.
+Page 16 of 20
+XXXX 2/11/2025 12:51 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1190
+1 (c) On the day that the Attorney General renders his or her decision, he or she
+2 shall mail a copy to the agency and a copy to the person who requested the
+3 record in question. The burden of proof in sustaining the action shall rest with
+4 the agency, and the Attorney General may request additional documentation
+5 from the agency for substantiation. The Attorney General may also request a
+6 copy of the records involved, but they shall not be disclosed.
+7 (3) Each agency shall notify the Attorney General of any actions filed against that
+8 agency in Circuit Court regarding the enforcement of KRS 61.870 to 61.884. The
+9 Attorney General shall not, however, be named as a party in any Circuit Court
+10 actions regarding the enforcement of KRS 61.870 to 61.884, nor shall he or she
+11 have any duty to defend his or her decision in Circuit Court or any subsequent
+12 proceedings.
+13 (4) If a person feels the intent of KRS 61.870 to 61.884 is being subverted by an
+14 agency short of denial of inspection, including but not limited to the imposition of
+15 excessive fees, delay past the five (5) day period described in subsection (1) of this
+16 section, excessive extensions of time, or the misdirection of the applicant, the
+17 person may complain in writing to the Attorney General, and the complaint shall be
+18 subject to the same adjudicatory process as if the record had been denied.
+19 (5) (a) A party shall have thirty (30) days from the day that the Attorney General
+20 renders his or her decision to appeal the decision. An appeal within the thirty
+21 (30) day time limit shall be treated as if it were an action brought under KRS
+22 61.882.
+23 (b) If an appeal is not filed within the thirty (30) day time limit, the Attorney
+24 General's decision shall have the force and effect of law and shall be
+25 enforceable in the Circuit Court of the county where the public agency has its
+26 principal place of business or the Circuit Court of the county where the public
+27 record is maintained.
+Page 17 of 20
+XXXX 2/11/2025 12:51 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1190
+1 Section 7. KRS 164.952 is amended to read as follows:
+2 (1) As used in this section:
+3 (a) "Police officer" has the same meaning as "police officer" in KRS 15.420, as
+4 "police officer" in KRS 164.950 to 164.980, and as "officer" in KRS 16.010;
+5 and
+6 (b) "Postsecondary institution" means any public institution of postsecondary
+7 education authorized to establish a police department pursuant to KRS
+8 164.950 to 164.980 that participates in the Kentucky Employees Retirement
+9 System.
+10 (2) [Subject to the limitations of subsection (7) of this section, ]A postsecondary
+11 institution may employ individuals as police officers under this section who have
+12 retired from the Kentucky Employees Retirement System, the County Employees
+13 Retirement System, or the State Police Retirement System.
+14 (3) To be eligible for employment under this section, an individual shall have:
+15 (a) Participated in the Law Enforcement Foundation Program fund under KRS
+16 15.410 to 15.510, retired as a commissioned officer pursuant to KRS Chapter
+17 16, or retired as a police officer from a postsecondary institution;
+18 (b) Retired with at least twenty (20) years of service credit;
+19 (c) Been separated from service for the period required by KRS 61.637 or
+20 78.5540 so that the member's retirement is not voided;
+21 (d) Retired with no administrative charges pending; and
+22 (e) Retired with no preexisting agreement between the individual and the
+23 postsecondary institution prior to the individual's retirement for the individual
+24 to return to work for the postsecondary institution.
+25 (4) Individuals employed under this section shall:
+26 (a) Serve for a term not to exceed one (1) year. The one (1) year employment
+27 term may be renewed annually at the discretion of the employing
+Page 18 of 20
+XXXX 2/11/2025 12:51 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1190
+1 postsecondary institution;
+2 (b) Receive compensation according to the standard procedures applicable to the
+3 employing postsecondary institution; and
+4 (c) Be employed based upon need as determined by the employing postsecondary
+5 institution.
+6 (5) Notwithstanding any provisions of KRS 16.505 to 16.652, 18A.225 to 18A.2287,
+7 61.510 to 61.705, or 78.510 to 78.852 to the contrary:
+8 (a) Individuals employed under this section shall continue to receive all
+9 retirement and health insurance benefits to which they were entitled upon
+10 retiring in the applicable system administered by Kentucky Retirement
+11 Systems;
+12 (b) Individuals employed under this section shall not be eligible to receive health
+13 insurance coverage through the employing postsecondary institution;
+14 (c) The postsecondary institution shall not pay any employer contributions or
+15 retiree health expense reimbursements to the Kentucky Retirement Systems
+16 required by KRS 61.637(17) for individuals employed under this section; and
+17 (d) The postsecondary institution shall not pay any insurance contributions to the
+18 state health insurance plan, as provided by KRS 18A.225 to 18A.2287, for
+19 individuals employed under this section.
+20 (6) Individuals employed under this section shall be subject to any legislative due
+21 process provisions applicable to police officers of the employing postsecondary
+22 institution. A decision not to renew a one (1) year appointment term under this
+23 section shall not be considered a disciplinary action or deprivation subject to due
+24 process.[
+25 (7) The number of retired police officers a postsecondary institution may hire under the
+26 provisions of this section shall be limited to five (5) retired police officers or a
+27 number equal to twenty-five percent (25%) of the police officers employed by the
+Page 19 of 20
+XXXX 2/11/2025 12:51 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1190
+1 postsecondary institution in calendar year 2018, whichever is greater.]
+Page 20 of 20
+XXXX 2/11/2025 12:51 PM Jacketed
+
+[DELETED:   2  J A B S ( A ( " ( " 1 T o 2 T 3 T 4 T p a i i o d m r o e f a f o a p n f b 5 T a S o s g a d i K 1 o e b M b i b n l t t K E R K K a e w a g b w m i s m b c I ( "]
+[DELETED:   2  J o 1 A 2 T 3 T ( " 1 A 2 E e t i a c i 3 A m 4 p o o a o e t b p c p ( " t s m a r c o t c t p a f s f a s 1 H 2 S i a s s m s 3 P s f r a s i i 4 D ( " p m r o t s o c o o c 1 A c c i o a c o c c i n m a b o i]
+[DELETED:   2  J c c 2 A f h t d ( h t d 3 T p t s e t h t d ( o a a 4 A ( o 5 A l i f h t d ( h t p d a 6 A n a u o r o a i t s e t c f m d ( c ( " r m o r p m t m m 1 N 2 N]
+[DELETED:   2  J i i 3 N b a u m b e b o ( " m a f f t o n d r e a s e p f e s t e ( " i f f f p f o f f a s h b a a ( " t t c o T o K d K ( E a ( T ( O i ( A]
+[DELETED:   2  J i b n l t t K E R S T R S o t S o K K H E S L C K L C a K ( I ( K ( C p o b u d i o f t c o m m ( P K 1 o c a a m c w e i a o a s b i b n l t t K E K L C K H C o a e w a g o o n a t a o m o a b o l w i p i w S ( S t a b t G A a K 1 t g b m m p a s a f b l c i]
+[DELETED:   2  J a c c p i t i o l o t c a r o m r o a b o o s ( R s b s n a a s p r i a i a i w i f t t p i n n o t t p m o f f a t o t w c w b i t a t p o t p o t a p f t o r e o a a d s a f p u e a b ( A c c p e a p i s ( o t s c s b a a a b t b W a c c p t ( T p s ( T o o t c p o d u a v c r c c o c w e s]
+[DELETED:   2  J ( A o s 1 I i a l e i q d s d a o c 2 I w p a l e t f i b t g d p 3 I s ( A f h t d ( h f t d ( h i d S ( E p u t s h a c c n t e t ( d n t t c ( E p s c t i a a m o a a b a c p o n f a e b t c b p o a a r o e]
+[DELETED:   2  J i i s e T p o n f s d ( T a ( F p s c a m o a t u o s p o t n o u s p ( T ( T ( P ( I t c o m o a o s d t r f e ( S ( A c d o t r i o q a i t r ( T w a o w h s a p t d t o q f f c D s n d a i ( A o f s f i t r f p a t n o f a r c I c c b a u w t b q]
+[DELETED:   2  J d o i t o o t r q r I t c t c c h s f i t r f p s b m i w W d e ( T o w e p s c t i a a m o a w r a s m o h a t e a m o E f r e f i u K m ( P o a s t t c f a s n b m f s r o p u a c d u t d o t c i o b t s o t F a A a s c t i a a m o a s c m o a s n b a f s r a c s h]
+[DELETED:   2  J ( I m b p t f n o t p s c w t c d d n n a ( I a t b o a p s c i a c o a s h w ( ( N p s b m o a p s c u t i f p o c a t p s c r c ( I c ( S p t ( E 1 A 2 T 3 A]
+[DELETED:   2  J 4 T t 5 T 6 A w 7 T c 8 A e 9 T 1 T 1 T c 1 A ( T b t i f p o c a t p s p ( T c i t i r t v o t w p a a r c S [ b o r s h i f m w t ( d a e a a o a n m u t m w a t s t r]
+[DELETED:   2  J a d m o a b s d a s f h o h s b s b r b a f o l e e a m w r o t C s n b r f o t T e s b p S ( ( E c m 1 T i 2 T K P P A s r a i d a b b 3 a U r b a p t s s r t f m o t K E R S t C E R S o t S P R o i T i T]
+[DELETED:   2  J o f w t r m i r a m r i T n m h h r t w f r w a a p i I a r v I t i i a m w h n y r t e m r a t h o s i e u h o h s c f c a a c v T c e p e m b N a a ( A c f o r m a s b e f t p ( T c ( ( W]
+[DELETED:   2  J S P A r p o a s d r a c f o r m i i s i t e o t K c m b t e o a a s t i r b t s t t p s i t s T p o d e o t K R S t C E R t t s o t A s d t t o a e a g d a ( T p b t e a s i t f n o t m o r s t t f e " r a t a c r r s o T c i g i l o h o h p ( W b]
+[DELETED:   2  J s W u o ( W a d t s a t o t d b d p w p o a t t t r o t t e o t K P P A c w r o b c a c t ( R o t K P P A t a s t p r m b p a t f i a a c S ( I b s m S S a l h a t r o a s r w t r w t f ( d p o i d A a r d]
+[DELETED:   2  J t s e a t w o t r a a b e b i b t o c o u h o h a a i s c ( ( I a c p w t A G t r a p a s o b w r a c p s p a c o t w r w s ( d f t d f t p a w s r t r a d a i w t ( d e w ( I d t o w a d i e t b i w s n e a a t ( w d e S S a l h t 1 T o 2 T 3 A u i i t n o a r b t A]
+[DELETED:   2  J ( O s r t f c ( E a s n t A G o a a f a t a A G s n h b n a a p i a C C a h a d t d h o h d i C C o a s p ( I a p f t i o K 6 t 6 i b s b a a e s e e o t o t m o t a t p s ( ( A r ( 6 ( I G d s h t f a e o l a s b e p r]
+[DELETED:   2  J S ( A ( " " a ( " i m a p i o p e a t e a p d p t K 1 S ( [ t t l o s ( o t s ] p i r R ( T ( P 1 1 ( R ( B s f s f t p r b K 6 o 7 ( R ( R w n p a b t i a t p t ( I ( S t m b r a a t d o t e]
+[DELETED:   2  J p ( R e ( B i ( N 6 ( I e u t s s c t r a r a h i b t w t w e u r i t a s a b K R S ( I i ( T p i s n p a e c o r r ( T s i ( I e u t s s b s t a l d p p a t p o o t e p i A d n t r a o ( y a t u t s p ( T p o s s b l t f ( r p o o a n]
+[DELETED:   2  J p]

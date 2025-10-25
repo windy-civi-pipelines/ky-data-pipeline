@@ -1,0 +1,305 @@
+Title: AN ACT relating to property and casualty insurance.
+Official Title: AN ACT relating to property and casualty insurance.
+Number of Sections: 12
+Source: versions - Acts Chapter 25
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+CHAPTER 25 1
+CHAPTER 25
+( SB 24 )
+Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+Section 1. KRS 304.47-010 is amended to read as follows:
+As used in this subtitle[ 47 of this chapter], unless the context requires otherwise:
+(1) "Criminal syndicate" means five (5) or more persons collaborating to promote or engage in any fraudulent
+insurance act, as set forth in subsection (1) of Section 2 of this Act, on a continuing basis;
+(2) "Division" means the Division of Insurance Fraud Investigation of the Kentucky Department of Insurance,
+its employees, or authorized representatives;
+(3) "Insurance policy" or "policy" means any individual or group policy, including those defined by KRS
+Chapter 342, certificate, or contract of an insurer, including reinsurance affecting the rights of any
+Kentucky resident or bearing a reasonable relation to Kentucky regardless of whether delivered or issued
+for delivery in Kentucky;
+(4) "Insured" means any person who is a named insured or beneficiary under an insurance policy or a person
+who is not a named insured or beneficiary under an insurance policy due to the fraudulent action of
+another, but who in good faith believes himself or herself to be an insured or beneficiary;
+(5) "Insurer" means any person, entity, organization, or reinsurer, including fraternal benefit societies as defined in
+Subtitle 29 of this chapter, nonprofit hospital, medical-surgical, dental, and health service corporation as
+defined in Subtitle 32 of this chapter, health maintenance organization as defined in Subtitle 38 of this chapter,
+prepaid dental plan organization as defined in Subtitle 43 of this chapter, or unauthorized insurer as defined in
+Subtitle 11 of this chapter, subject to regulation by or registration with the Department of Insurance under this
+chapter, and any "carrier," "self-insurer," or "insurance carrier" as defined by KRS Chapter 342;[
+(2) "Insurance policy" or "policy" means any individual or group policy, including those defined by KRS Chapter
+342, certificate, or contract of an insurer as defined in subsection (1) of this section including reinsurance
+affecting the rights of any Kentucky resident or bearing a reasonable relation to Kentucky regardless of
+whether delivered or issued for delivery in Kentucky;
+(3) "Insured" means any person who is a named insured or beneficiary under a policy as defined in subsection (2)
+of this section or a person who is not a named insured or beneficiary under a policy due to the fraudulent
+action of another, but who in good faith believes himself or herself to be an insured or beneficiary;]
+(6)[(4)] "Law enforcement agency" means any federal, state, county, or consolidated police or law enforcement
+department and any prosecuting official of the federal, state, county, local, or consolidated government; and
+(7)[(5)] "Statement" includes[,] but is not limited to[,] any notice, statement, proof of loss, bill of lading,
+invoice, account, estimate of property or casualty damages, bid or proposal relating to property or casualty
+damages, bill for services, diagnosis, prescription, hospital or physician record or report, X-ray, test result, or
+other evidence of loss, injury, or expense that is[. A statement may be] in any form, including oral, written,
+and electronic transmissions[;
+(6) "Division" means the Division of Insurance Fraud Investigation of the Kentucky Department of Insurance, its
+employees, or authorized representatives; and
+(7) "Criminal syndicate" means five (5) or more persons collaborating to promote or engage in any fraudulent
+insurance act, as set forth in KRS 304.47-020(1), on a continuing basis].
+Section 2. KRS 304.47-020 is amended to read as follows:
+(1) For the purposes of this subtitle, a person or entity commits a "fraudulent insurance act" if he or she engages in
+any of the following, including but not limited to matters relating to workers' compensation:
+(a) Knowingly and with intent to defraud or deceive presents, causes to be presented, or prepares with
+knowledge or belief that it will be presented to an insurer, Board of Claims, Special Fund, or any agent
+thereof:
+Legislative Research Commission PDF Version
+2 ACTS OF THE GENERAL ASSEMBLY
+
+Section 2:
+1. Any written or oral statement as part of, or in support of, a claim for payment or other benefit
+pursuant to an insurance policy or from a "self-insurer" as defined by KRS Chapter 342,
+knowing that the statement contains any false, incomplete, or misleading information concerning
+any fact or thing material to a claim;[ or]
+
+Section 3:
+2. To the extent not otherwise included under subparagraph 1. of this paragraph, any statement
+that misrepresents the scope of damages, including repair costs and other expenses, associated
+with a property, casualty, or property and casualty insurance claim, including any claim for
+towing or storage benefits under a property, casualty, or property and casualty insurance
+policy, except this subparagraph shall not apply to offers or counteroffers by legal counsel
+representing a plaintiff or defendant in a disputed claim involving bodily injury; or
+
+Section 4:
+3.[2.] Any statement as part of, or in support of, an application for an insurance policy, for renewal,
+reinstatement, or replacement of insurance, or in support of an application to a lender for money
+to pay a premium, knowing that the statement contains any false, incomplete, or misleading
+information concerning any fact or thing material to the application;
+(b) Knowingly and willfully transacts any contract, agreement, or instrument which violates this title;
+(c) Knowingly and with intent to defraud or deceive:
+
+Section 5:
+1. Receives money for the purpose of purchasing insurance, and fails to obtain insurance;
+
+Section 6:
+2. Fails to make payment or disposition of money or voucher as defined in KRS 304.17A-750, as
+required by agreement or legal obligation, that comes into his or her possession while acting as a
+licensee under this chapter;
+
+Section 7:
+3. Presents, causes to be presented, or prepares with knowledge or belief that it will be presented to
+or by an insurer, or to the commissioner, any statement, knowing that the statement contains any
+false, incomplete, or misleading information concerning any material fact or thing, as part of, or
+in support of one (1) or more of the following:
+a. The rating of an insurance policy;
+b. The financial condition of an insurer;
+c. The formation, acquisition, merger, reconsolidation, dissolution, or withdrawal from one
+(1) or more lines of insurance in all or part of this Commonwealth by an insurer; or
+d. A document filed with the commissioner; or
+
+Section 8:
+4. Engages in any of the following:
+a. Solicitation or acceptance of new or renewal insurance risks on behalf of an insolvent
+insurer; or
+b. Removal, concealment, alteration, tampering, or destruction of money, records, or any
+other property or assets of an insurer;
+(d) Issues or knowingly presents fake or counterfeit insurance policies, certificates of insurance, insurance
+identification cards, insurance binders, or any other documents that purport to evidence insurance;
+(e) Makes any false or fraudulent representation as to the death or disability of a policy or certificate holder
+in any written statement or certificate for the purpose of fraudulently obtaining money or benefit from
+an insurer;
+(f) Engages in unauthorized insurance, as set forth in KRS 304.11-030; or
+(g) Assists, abets, solicits, or conspires with another to commit a fraudulent insurance act in violation of
+this subtitle.
+(2) A person convicted of a violation of subsection (1) of this section shall be guilty of a Class A misdemeanor,
+unless the aggregate of the claim, benefit, or money referred to in subsection (1) of this section is:
+(a) Five hundred dollars ($500) or more but less than ten thousand dollars ($10,000), in which case it is a
+Class D felony;
+(b) Ten thousand dollars ($10,000) or more but less than one million dollars ($1,000,000), in which case it
+is a Class C felony; or
+CHAPTER 25 3
+(c) One million dollars ($1,000,000) or more, in which case it is a Class B felony.
+(3) A person, with the purpose to establish or maintain a criminal syndicate or to facilitate any of its activities,
+shall be guilty of engaging in organized crime, a Class B felony, if he or she engages in any of the activities set
+forth in KRS 506.120(1).
+(4) A person convicted of a crime established in this section shall be punished by:
+(a) Imprisonment for a term:
+
+Section 9:
+1. Not to exceed the period set forth in KRS 532.090 if the crime is a Class A misdemeanor; or
+
+Section 10:
+2. Within the periods set forth in KRS 532.060 if the crime is a Class D, C, or B felony;
+(b) A fine, per occurrence, of:
+
+Section 11:
+1. For a misdemeanor, not more than one thousand dollars ($1,000) per individual nor five
+thousand dollars ($5,000) per corporation or twice the amount of gain received as a result of the
+violation, whichever is greater; or
+
+Section 12:
+2. For a felony, not more than ten thousand dollars ($10,000) per individual nor one hundred
+thousand dollars ($100,000) per corporation, or twice the amount of gain received as a result of
+the violation; whichever is greater; or
+(c) Both imprisonment and a fine, as set forth in paragraphs (a) and (b) of this subsection.
+(5) (a) In addition to imprisonment, the assessment of a fine, or both, a person convicted of a crime established
+in this section may be ordered to make restitution to any victim who suffered a monetary loss due to any
+actions by that person which resulted in the adjudication of guilt, and to the division for the cost of any
+investigation.
+(b) The amount of restitution shall equal the monetary value of the actual loss or twice the amount of gain
+received as a result of the violation, whichever is greater.
+(6) Any person damaged as a result of a violation of any provision of this section shall have a cause of action to
+recover compensatory damages, plus all reasonable investigation and litigation expenses, including attorneys'
+fees, at the trial and appellate courts.
+(7) (a) The provisions of this section shall also apply to any agent, unauthorized insurer or its agents or
+representatives, or surplus lines carrier who, with intent, injures, defrauds, or deceives any claimant
+with regard to any claim.
+(b) The claimant shall have the right to recover the damages provided in subsection (6) of this section.
+Signed by Governor March 18, 2025.
+Legislative Research Commission PDF Version
+[DELETED:  " " " 3 c o c o a i i r a t r o a " " 2 o t c n h m d a h s c a " t r o a K r o b a r r t K r o " " " i b i n l t a n s p o l b o l " " F K]
+[DELETED:  A t a i p o f a " a d b K C 3 T o s b u a p c o p a c i A K K R F P T T T A E S R I M E A A F T]
+[DELETED:  O A A I N W A F a m n m t o t d ( p i n f F a f n m t t t d ( p i n o h B ( I T A ( T p o t s s a a t a a u i o i a o T]
+
+
+================================================================================
+
+Raw Text:
+CHAPTER 25 1
+CHAPTER 25
+( SB 24 )
+AN ACT relating to property and casualty insurance.
+Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+Section 1. KRS 304.47-010 is amended to read as follows:
+As used in this subtitle[ 47 of this chapter], unless the context requires otherwise:
+(1) "Criminal syndicate" means five (5) or more persons collaborating to promote or engage in any fraudulent
+insurance act, as set forth in subsection (1) of Section 2 of this Act, on a continuing basis;
+(2) "Division" means the Division of Insurance Fraud Investigation of the Kentucky Department of Insurance,
+its employees, or authorized representatives;
+(3) "Insurance policy" or "policy" means any individual or group policy, including those defined by KRS
+Chapter 342, certificate, or contract of an insurer, including reinsurance affecting the rights of any
+Kentucky resident or bearing a reasonable relation to Kentucky regardless of whether delivered or issued
+for delivery in Kentucky;
+(4) "Insured" means any person who is a named insured or beneficiary under an insurance policy or a person
+who is not a named insured or beneficiary under an insurance policy due to the fraudulent action of
+another, but who in good faith believes himself or herself to be an insured or beneficiary;
+(5) "Insurer" means any person, entity, organization, or reinsurer, including fraternal benefit societies as defined in
+Subtitle 29 of this chapter, nonprofit hospital, medical-surgical, dental, and health service corporation as
+defined in Subtitle 32 of this chapter, health maintenance organization as defined in Subtitle 38 of this chapter,
+prepaid dental plan organization as defined in Subtitle 43 of this chapter, or unauthorized insurer as defined in
+Subtitle 11 of this chapter, subject to regulation by or registration with the Department of Insurance under this
+chapter, and any "carrier," "self-insurer," or "insurance carrier" as defined by KRS Chapter 342;[
+(2) "Insurance policy" or "policy" means any individual or group policy, including those defined by KRS Chapter
+342, certificate, or contract of an insurer as defined in subsection (1) of this section including reinsurance
+affecting the rights of any Kentucky resident or bearing a reasonable relation to Kentucky regardless of
+whether delivered or issued for delivery in Kentucky;
+(3) "Insured" means any person who is a named insured or beneficiary under a policy as defined in subsection (2)
+of this section or a person who is not a named insured or beneficiary under a policy due to the fraudulent
+action of another, but who in good faith believes himself or herself to be an insured or beneficiary;]
+(6)[(4)] "Law enforcement agency" means any federal, state, county, or consolidated police or law enforcement
+department and any prosecuting official of the federal, state, county, local, or consolidated government; and
+(7)[(5)] "Statement" includes[,] but is not limited to[,] any notice, statement, proof of loss, bill of lading,
+invoice, account, estimate of property or casualty damages, bid or proposal relating to property or casualty
+damages, bill for services, diagnosis, prescription, hospital or physician record or report, X-ray, test result, or
+other evidence of loss, injury, or expense that is[. A statement may be] in any form, including oral, written,
+and electronic transmissions[;
+(6) "Division" means the Division of Insurance Fraud Investigation of the Kentucky Department of Insurance, its
+employees, or authorized representatives; and
+(7) "Criminal syndicate" means five (5) or more persons collaborating to promote or engage in any fraudulent
+insurance act, as set forth in KRS 304.47-020(1), on a continuing basis].
+Section 2. KRS 304.47-020 is amended to read as follows:
+(1) For the purposes of this subtitle, a person or entity commits a "fraudulent insurance act" if he or she engages in
+any of the following, including but not limited to matters relating to workers' compensation:
+(a) Knowingly and with intent to defraud or deceive presents, causes to be presented, or prepares with
+knowledge or belief that it will be presented to an insurer, Board of Claims, Special Fund, or any agent
+thereof:
+Legislative Research Commission PDF Version
+
+2 ACTS OF THE GENERAL ASSEMBLY
+1. Any written or oral statement as part of, or in support of, a claim for payment or other benefit
+pursuant to an insurance policy or from a "self-insurer" as defined by KRS Chapter 342,
+knowing that the statement contains any false, incomplete, or misleading information concerning
+any fact or thing material to a claim;[ or]
+2. To the extent not otherwise included under subparagraph 1. of this paragraph, any statement
+that misrepresents the scope of damages, including repair costs and other expenses, associated
+with a property, casualty, or property and casualty insurance claim, including any claim for
+towing or storage benefits under a property, casualty, or property and casualty insurance
+policy, except this subparagraph shall not apply to offers or counteroffers by legal counsel
+representing a plaintiff or defendant in a disputed claim involving bodily injury; or
+3.[2.] Any statement as part of, or in support of, an application for an insurance policy, for renewal,
+reinstatement, or replacement of insurance, or in support of an application to a lender for money
+to pay a premium, knowing that the statement contains any false, incomplete, or misleading
+information concerning any fact or thing material to the application;
+(b) Knowingly and willfully transacts any contract, agreement, or instrument which violates this title;
+(c) Knowingly and with intent to defraud or deceive:
+1. Receives money for the purpose of purchasing insurance, and fails to obtain insurance;
+2. Fails to make payment or disposition of money or voucher as defined in KRS 304.17A-750, as
+required by agreement or legal obligation, that comes into his or her possession while acting as a
+licensee under this chapter;
+3. Presents, causes to be presented, or prepares with knowledge or belief that it will be presented to
+or by an insurer, or to the commissioner, any statement, knowing that the statement contains any
+false, incomplete, or misleading information concerning any material fact or thing, as part of, or
+in support of one (1) or more of the following:
+a. The rating of an insurance policy;
+b. The financial condition of an insurer;
+c. The formation, acquisition, merger, reconsolidation, dissolution, or withdrawal from one
+(1) or more lines of insurance in all or part of this Commonwealth by an insurer; or
+d. A document filed with the commissioner; or
+4. Engages in any of the following:
+a. Solicitation or acceptance of new or renewal insurance risks on behalf of an insolvent
+insurer; or
+b. Removal, concealment, alteration, tampering, or destruction of money, records, or any
+other property or assets of an insurer;
+(d) Issues or knowingly presents fake or counterfeit insurance policies, certificates of insurance, insurance
+identification cards, insurance binders, or any other documents that purport to evidence insurance;
+(e) Makes any false or fraudulent representation as to the death or disability of a policy or certificate holder
+in any written statement or certificate for the purpose of fraudulently obtaining money or benefit from
+an insurer;
+(f) Engages in unauthorized insurance, as set forth in KRS 304.11-030; or
+(g) Assists, abets, solicits, or conspires with another to commit a fraudulent insurance act in violation of
+this subtitle.
+(2) A person convicted of a violation of subsection (1) of this section shall be guilty of a Class A misdemeanor,
+unless the aggregate of the claim, benefit, or money referred to in subsection (1) of this section is:
+(a) Five hundred dollars ($500) or more but less than ten thousand dollars ($10,000), in which case it is a
+Class D felony;
+(b) Ten thousand dollars ($10,000) or more but less than one million dollars ($1,000,000), in which case it
+is a Class C felony; or
+
+CHAPTER 25 3
+(c) One million dollars ($1,000,000) or more, in which case it is a Class B felony.
+(3) A person, with the purpose to establish or maintain a criminal syndicate or to facilitate any of its activities,
+shall be guilty of engaging in organized crime, a Class B felony, if he or she engages in any of the activities set
+forth in KRS 506.120(1).
+(4) A person convicted of a crime established in this section shall be punished by:
+(a) Imprisonment for a term:
+1. Not to exceed the period set forth in KRS 532.090 if the crime is a Class A misdemeanor; or
+2. Within the periods set forth in KRS 532.060 if the crime is a Class D, C, or B felony;
+(b) A fine, per occurrence, of:
+1. For a misdemeanor, not more than one thousand dollars ($1,000) per individual nor five
+thousand dollars ($5,000) per corporation or twice the amount of gain received as a result of the
+violation, whichever is greater; or
+2. For a felony, not more than ten thousand dollars ($10,000) per individual nor one hundred
+thousand dollars ($100,000) per corporation, or twice the amount of gain received as a result of
+the violation; whichever is greater; or
+(c) Both imprisonment and a fine, as set forth in paragraphs (a) and (b) of this subsection.
+(5) (a) In addition to imprisonment, the assessment of a fine, or both, a person convicted of a crime established
+in this section may be ordered to make restitution to any victim who suffered a monetary loss due to any
+actions by that person which resulted in the adjudication of guilt, and to the division for the cost of any
+investigation.
+(b) The amount of restitution shall equal the monetary value of the actual loss or twice the amount of gain
+received as a result of the violation, whichever is greater.
+(6) Any person damaged as a result of a violation of any provision of this section shall have a cause of action to
+recover compensatory damages, plus all reasonable investigation and litigation expenses, including attorneys'
+fees, at the trial and appellate courts.
+(7) (a) The provisions of this section shall also apply to any agent, unauthorized insurer or its agents or
+representatives, or surplus lines carrier who, with intent, injures, defrauds, or deceives any claimant
+with regard to any claim.
+(b) The claimant shall have the right to recover the damages provided in subsection (6) of this section.
+Signed by Governor March 18, 2025.
+Legislative Research Commission PDF Version
+
+[DELETED:  " " " 3 c o c o a i i r a t r o a " " 2 o t c n h m d a h s c a " t r o a K r o b a r r t K r o " " " i b i n l t a n s p o l b o l " " F K]
+[DELETED:  A t a i p o f a " a d b K C 3 T o s b u a p c o p a c i A K K R F P T T T A E S R I M E A A F T]
+[DELETED:  O A A I N W A F a m n m t o t d ( p i n f F a f n m t t t d ( p i n o h B ( I T A ( T p o t s s a a t a a u i o i a o T]

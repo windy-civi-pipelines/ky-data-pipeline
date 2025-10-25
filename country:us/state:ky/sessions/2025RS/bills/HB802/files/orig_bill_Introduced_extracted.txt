@@ -1,0 +1,667 @@
+Title: 1 AN ACT relating to an individual income tax credit for tolls.
+Official Title: 1 AN ACT relating to an individual income tax credit for tolls.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS BR 1857
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF KRS CHAPTER 141 IS CREATED TO
+4 READ AS FOLLOWS:
+5 (1) As used in this section:
+6 (a) "Authority" means the Louisville and Southern Indiana Bridges Authority;
+7 (b) "Bridges" means the following Louisville-Southern Indiana Ohio River
+8 bridges:
+9 1. The Interstate 65 Abraham Lincoln Bridge;
+10 2. The Interstate 65 John F. Kennedy Memorial Bridge; and
+11 3. The Indiana Highway 265/Kentucky Highway 841 Lewis and Clark
+12 Bridge connecting Jefferson County Kentucky, and Clark County
+13 Indiana;
+14 (c) "Department" means the Department of Revenue;
+15 (d) "Motor vehicle" has the same meaning as in KRS 186.010(4), limited to the
+16 following:
+17 1. Two (2) axle passenger vehicles up to seven and one-half (7.5) feet in
+18 height;
+19 2. Other two (2) axle vehicles more than seven and one-half (7.5) feet in
+20 height;
+21 3. All three (3) axle vehicles;
+22 4. All four (4) axle vehicles; and
+23 5. Large vehicles with five (5) or more axles;
+24 (e) "Resident motor vehicle owner" means a resident owner of a motor vehicle
+25 registered in this state under the provisions of KRS 186.020;
+26 (f) "Toll" means a payment made by a resident motor vehicle owner for travel
+27 on the bridges; and
+Page 1 of 11
+XXXX 2/16/2025 12:51 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1857
+1 (g) "Toll payments":
+2 1. Means the toll actually paid during the calendar year ending
+3 December 31, 2026; and
+4 2. Does not include any fines, fees, or penalties resulting from use of the
+5 bridges.
+6 (2) (a) A nonrefundable 2026 toll relief credit is hereby established to be claimed
+7 against the tax imposed under KRS 141.020 on resident individuals for the
+8 toll payments, with the ordering of credits as provided in Section 2 of this
+9 Act. The credit shall equal the toll payments made by a resident motor
+10 vehicle owner required to file an income tax return under KRS 141.160 for
+11 the taxable year ending on December 31, 2026.
+12 (b) The credit allowed in this section shall:
+13 1. Not be carried forward or backward to another taxable year; and
+14 2. Only apply to the period described in this subsection.
+15 (3) When claiming the credit on a return, a resident motor vehicle owner shall
+16 provide receipts, invoices, or other pertinent papers in the form as the department
+17 may require.
+18 (4) (a) The department shall report the following information to the Legislative
+19 Research Commission and the Interim Join Committee on Appropriations
+20 and Revenue no later than November 1, 2027, and on or before each
+21 November 1 thereafter as long as the exclusion is claimed on any return
+22 filed:
+23 1. The number of tax returns claiming the credit for each taxable year;
+24 2. The total amount of credits claimed and the total amount of the
+25 reduced liability; and
+26 3. Based on ranges of adjusted gross income of no larger than five
+27 thousand dollars ($5,000), the total amount of the reduced tax liability
+Page 2 of 11
+XXXX 2/16/2025 12:51 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1857
+1 for each adjusted gross income range for each taxable year.
+2 (b) The information required to be reported under this section shall not be
+3 considered confidential taxpayer information and shall not be subject to
+4 KRS Chapter 131 or any other provisions of the Kentucky Revised Statutes
+5 prohibiting disclosure or reporting of information.
+6 Section 2. KRS 141.0205 is amended to read as follows:
+7 If a taxpayer is entitled to more than one (1) of the tax credits allowed against the tax
+8 imposed by KRS 141.020, 141.040, and 141.0401, the priority of application and use of
+9 the credits shall be determined as follows:
+10 (1) The nonrefundable business incentive credits against the tax imposed by KRS
+11 141.020 shall be taken in the following order:
+12 (a) The limited liability entity tax credit permitted by KRS 141.0401;
+13 (b) The economic development credits computed under KRS 141.347, 141.381,
+14 141.384, 141.3841, 141.400, 141.403, 141.407, 141.415, 154.12-207, and
+15 154.12-2088;
+16 (c) The qualified farming operation credit permitted by KRS 141.412;
+17 (d) The certified rehabilitation credit permitted by KRS 171.397(1)(a);
+18 (e) The health insurance credit permitted by KRS 141.062;
+19 (f) The tax paid to other states credit permitted by KRS 141.070;
+20 (g) The credit for hiring the unemployed permitted by KRS 141.065;
+21 (h) The recycling or composting equipment credit permitted by KRS 141.390;
+22 (i) The [tax ]credit for cash contributions in investment funds permitted by KRS
+23 154.20-263 in effect prior to July 15, 2002, and the credit permitted by KRS
+24 154.20-258;
+25 (j) The research facilities credit permitted by KRS 141.395;
+26 (k) The employer High School Equivalency Diploma program incentive credit
+27 permitted under KRS 151B.402;
+Page 3 of 11
+XXXX 2/16/2025 12:51 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1857
+1 (l) The voluntary environmental remediation credit permitted by KRS 141.418;
+2 (m) The biodiesel and renewable diesel credit permitted by KRS 141.423;
+3 (n) The clean coal incentive credit permitted by KRS 141.428;
+4 (o) The ethanol credit permitted by KRS 141.4242;
+5 (p) The cellulosic ethanol credit permitted by KRS 141.4244;
+6 (q) The energy efficiency credits permitted by KRS 141.436;
+7 (r) The railroad maintenance and improvement credit permitted by KRS 141.385;
+8 (s) The Endow Kentucky credit permitted by KRS 141.438;
+9 (t) The New Markets Development Program credit permitted by KRS 141.434;
+10 (u) The distilled spirits credit permitted by KRS 141.389;
+11 (v) The angel investor credit permitted by KRS 141.396;
+12 (w) The film industry credit permitted by KRS 141.383 for applications approved
+13 on or after April 27, 2018, but before January 1, 2022;
+14 (x) The inventory credit permitted by KRS 141.408;
+15 (y) The renewable chemical production credit permitted by KRS 141.4231;[ and]
+16 (z) The qualified broadband investment[ tax] credit permitted by KRS 141.391;
+17 and
+18 (aa) The 2026 toll relief credit permitted by Section 1 of this Act;
+19 (2) After the application of the nonrefundable credits in subsection (1) of this section,
+20 the nonrefundable personal tax credits against the tax imposed by KRS 141.020
+21 shall be taken in the following order:
+22 (a) The individual credits permitted by KRS 141.020(3);
+23 (b) The credit permitted by KRS 141.066;
+24 (c) The tuition credit permitted by KRS 141.069;
+25 (d) The household and dependent care credit permitted by KRS 141.067;
+26 (e) The income gap credit permitted by KRS 141.066; and
+27 (f) The Education Opportunity Account Program [tax ]credit permitted by KRS
+Page 4 of 11
+XXXX 2/16/2025 12:51 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1857
+1 141.522;
+2 (3) After the application of the nonrefundable credits provided for in subsection (2) of
+3 this section, the refundable credits against the tax imposed by KRS 141.020 shall be
+4 taken in the following order:
+5 (a) The individual withholding tax credit permitted by KRS 141.350;
+6 (b) The individual estimated tax payment credit permitted by KRS 141.305;
+7 (c) The certified rehabilitation credit permitted by KRS 171.3961, 171.3963, and
+8 171.397(1)(b);
+9 (d) The film industry [tax ]credit permitted by KRS 141.383 for applications
+10 approved prior to April 27, 2018, or on or after January 1, 2022;
+11 (e) The development area [tax ]credit permitted by KRS 141.398;
+12 (f) The decontamination [tax ]credit permitted by KRS 141.419; and
+13 (g) The pass-through entity tax credit permitted by KRS 141.209;
+14 (4) The nonrefundable credit permitted by KRS 141.0401 shall be applied against the
+15 tax imposed by KRS 141.040;
+16 (5) The following nonrefundable credits shall be applied against the sum of the tax
+17 imposed by KRS 141.040 after subtracting the credit provided for in subsection (4)
+18 of this section, and the tax imposed by KRS 141.0401 in the following order:
+19 (a) The economic development credits computed under KRS 141.347, 141.381,
+20 141.384, 141.3841, 141.400, 141.403, 141.407, 141.415, 154.12-207, and
+21 154.12-2088;
+22 (b) The qualified farming operation credit permitted by KRS 141.412;
+23 (c) The certified rehabilitation credit permitted by KRS 171.397(1)(a);
+24 (d) The health insurance credit permitted by KRS 141.062;
+25 (e) The unemployment credit permitted by KRS 141.065;
+26 (f) The recycling or composting equipment credit permitted by KRS 141.390;
+27 (g) The coal conversion credit permitted by KRS 141.041;
+Page 5 of 11
+XXXX 2/16/2025 12:51 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1857
+1 (h) The enterprise zone credit permitted by KRS 154.45-090, for taxable periods
+2 ending prior to January 1, 2008;
+3 (i) The tax credit for cash contributions to investment funds permitted by KRS
+4 154.20-263 in effect prior to July 15, 2002, and the credit permitted by KRS
+5 154.20-258;
+6 (j) The research facilities credit permitted by KRS 141.395;
+7 (k) The employer High School Equivalency Diploma program incentive credit
+8 permitted by KRS 151B.402;
+9 (l) The voluntary environmental remediation credit permitted by KRS 141.418;
+10 (m) The biodiesel and renewable diesel credit permitted by KRS 141.423;
+11 (n) The clean coal incentive credit permitted by KRS 141.428;
+12 (o) The ethanol credit permitted by KRS 141.4242;
+13 (p) The cellulosic ethanol credit permitted by KRS 141.4244;
+14 (q) The energy efficiency credits permitted by KRS 141.436;
+15 (r) The ENERGY STAR home or ENERGY STAR manufactured home credit
+16 permitted by KRS 141.437;
+17 (s) The railroad maintenance and improvement credit permitted by KRS 141.385;
+18 (t) The railroad expansion credit permitted by KRS 141.386;
+19 (u) The Endow Kentucky credit permitted by KRS 141.438;
+20 (v) The New Markets Development Program credit permitted by KRS 141.434;
+21 (w) The distilled spirits credit permitted by KRS 141.389;
+22 (x) The film industry credit permitted by KRS 141.383 for applications approved
+23 on or after April 27, 2018, but before January 1, 2022;
+24 (y) The inventory credit permitted by KRS 141.408;
+25 (z) The renewable chemical production [tax ]credit permitted by KRS 141.4231;
+26 (aa) The Education Opportunity Account Program [tax ]credit permitted by KRS
+27 141.522; and
+Page 6 of 11
+XXXX 2/16/2025 12:51 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1857
+1 (ab) The qualified broadband investment [tax ]credit permitted by KRS 141.391;
+2 and
+3 (6) After the application of the nonrefundable credits in subsection (5) of this section,
+4 the refundable credits shall be taken in the following order:
+5 (a) The corporation estimated tax payment credit permitted by KRS 141.044;
+6 (b) The certified rehabilitation credit permitted by KRS 171.3961, 171.3963, and
+7 171.397(1)(b);
+8 (c) The film industry [tax ]credit permitted by KRS 141.383 for applications
+9 approved prior to April 27, 2018, or on or after January 1, 2022;
+10 (d) The decontamination [tax ]credit permitted by KRS 141.419; and
+11 (e) The pass-through entity tax credit permitted by KRS 141.209.
+12 Section 3. KRS 131.190 is amended to read as follows:
+13 (1) No present or former commissioner or employee of the department, present or
+14 former member of a county board of assessment appeals, present or former property
+15 valuation administrator or employee, present or former secretary or employee of the
+16 Finance and Administration Cabinet, former secretary or employee of the Revenue
+17 Cabinet, or any other person, shall intentionally and without authorization inspect
+18 or divulge any information acquired by him or her of the affairs of any person, or
+19 information regarding the tax schedules, returns, or reports required to be filed with
+20 the department or other proper officer, or any information produced by a hearing or
+21 investigation, insofar as the information may have to do with the affairs of the
+22 person's business.
+23 (2) The prohibition established by subsection (1) of this section shall not extend to:
+24 (a) Information required in prosecutions for making false reports or returns of
+25 property for taxation, or any other infraction of the tax laws;
+26 (b) Any matter properly entered upon any assessment record, or in any way made
+27 a matter of public record;
+Page 7 of 11
+XXXX 2/16/2025 12:51 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1857
+1 (c) Furnishing any taxpayer or his or her properly authorized agent with
+2 information respecting his or her own return;
+3 (d) Testimony provided by the commissioner or any employee of the department
+4 in any court, or the introduction as evidence of returns or reports filed with the
+5 department, in an action for violation of state or federal tax laws or in any
+6 action challenging state or federal tax laws;
+7 (e) Providing an owner of unmined coal, oil or gas reserves, and other mineral or
+8 energy resources assessed under KRS 132.820, or owners of surface land
+9 under which the unmined minerals lie, factual information about the owner's
+10 property derived from third-party returns filed for that owner's property, under
+11 the provisions of KRS 132.820, that is used to determine the owner's
+12 assessment. This information shall be provided to the owner on a confidential
+13 basis, and the owner shall be subject to the penalties provided in KRS
+14 131.990(2). The third-party filer shall be given prior notice of any disclosure
+15 of information to the owner that was provided by the third-party filer;
+16 (f) Providing to a third-party purchaser pursuant to an order entered in a
+17 foreclosure action filed in a court of competent jurisdiction, factual
+18 information related to the owner or lessee of coal, oil, gas reserves, or any
+19 other mineral resources assessed under KRS 132.820. The department may
+20 promulgate an administrative regulation establishing a fee schedule for the
+21 provision of the information described in this paragraph. Any fee imposed
+22 shall not exceed the greater of the actual cost of providing the information or
+23 ten dollars ($10);
+24 (g) Providing information to a licensing agency, the Transportation Cabinet, or
+25 the Kentucky Supreme Court under KRS 131.1817;
+26 (h) Statistics of gasoline and special fuels gallonage reported to the department
+27 under KRS 138.210 to 138.448;
+Page 8 of 11
+XXXX 2/16/2025 12:51 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1857
+1 (i) Providing any utility gross receipts license tax return information that is
+2 necessary to administer the provisions of KRS 160.613 to 160.617 to
+3 applicable school districts on a confidential basis;
+4 (j) Providing documents, data, or other information to a third party pursuant to an
+5 order issued by a court of competent jurisdiction;
+6 (k) Publishing administrative writings on its official website in accordance with
+7 KRS 131.020(1)(b); or
+8 (l) Providing information to the Legislative Research Commission under:
+9 1. KRS 139.519 for purposes of the sales and use tax refund on building
+10 materials used for disaster recovery;
+11 2. KRS 141.436 for purposes of the energy efficiency products credits;
+12 3. KRS 141.437 for purposes of the ENERGY STAR home and the
+13 ENERGY STAR manufactured home credits;
+14 4. KRS 141.383 for purposes of the film industry incentives;
+15 5. KRS 154.26-095 for purposes of the Kentucky industrial revitalization
+16 credit[tax credits] and the job assessment fees;
+17 6. KRS 141.068 for purposes of the Kentucky investment fund;
+18 7. KRS 141.396 for purposes of the angel investor [tax ]credit;
+19 8. KRS 141.389 for purposes of the distilled spirits credit;
+20 9. KRS 141.408 for purposes of the inventory credit;
+21 10. KRS 141.390 for purposes of the recycling and composting credit;
+22 11. KRS 141.3841 for purposes of the selling farmer [tax ]credit;
+23 12. KRS 141.4231 for purposes of the renewable chemical production [tax
+24 ]credit;
+25 13. KRS 141.524 for purposes of the Education Opportunity Account
+26 Program [tax ]credit;
+27 14. KRS 141.398 for purposes of the development area [tax ]credit;
+Page 9 of 11
+XXXX 2/16/2025 12:51 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1857
+1 15. KRS 139.516 for the purposes of the sales and use tax
+2 exemptions[exemption] on the commercial mining of cryptocurrency;
+3 16. KRS 141.419 for purposes of the decontamination [tax ]credit;
+4 17. KRS 141.391 for purposes of the qualified broadband investment [tax
+5 ]credit;[ and]
+6 18. KRS 139.499 for purposes of the sales and use tax
+7 exemptions[exemption] for a qualified data center project; and
+8 19. Section 1 of this Act for purposes of the 2026 toll relief credit.
+9 (3) The commissioner shall make available any information for official use only and on
+10 a confidential basis to the proper officer, agency, board or commission of this state,
+11 any Kentucky county, any Kentucky city, any other state, or the federal
+12 government, under reciprocal agreements whereby the department shall receive
+13 similar or useful information in return.
+14 (4) Access to and inspection of information received from the Internal Revenue Service
+15 is for department use only, and is restricted to tax administration purposes.
+16 Information received from the Internal Revenue Service shall not be made available
+17 to any other agency of state government, or any county, city, or other state, and
+18 shall not be inspected intentionally and without authorization by any present
+19 secretary or employee of the Finance and Administration Cabinet, commissioner or
+20 employee of the department, or any other person.
+21 (5) Statistics of crude oil as reported to the department under the crude oil excise tax
+22 requirements of KRS Chapter 137 and statistics of natural gas production as
+23 reported to the department under the natural resources severance tax requirements
+24 of KRS Chapter 143A may be made public by the department by release to the
+25 Energy and Environment Cabinet, Department for Natural Resources.
+26 (6) Notwithstanding any provision of law to the contrary, beginning with mine-map
+27 submissions for the 1989 tax year, the department may make public or divulge only
+Page 10 of 11
+XXXX 2/16/2025 12:51 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1857
+1 those portions of mine maps submitted by taxpayers to the department pursuant to
+2 KRS Chapter 132 for ad valorem tax purposes that depict the boundaries of mined-
+3 out parcel areas. These electronic maps shall not be relied upon to determine actual
+4 boundaries of mined-out parcel areas. Property boundaries contained in mine maps
+5 required under KRS Chapters 350 and 352 shall not be construed to constitute land
+6 surveying or boundary surveys as defined by KRS 322.010 and any administrative
+7 regulations promulgated thereto.
+Page 11 of 11
+XXXX 2/16/2025 12:51 PM Jacketed
+[DELETED:   2  J A B S R ( A ( " ( " m t f L I O R b 1 T 2 T 3 T I H H 8 L a C B c J C K a C C I ( " ( " f 1 T h 2 O h 3 A 4 A 5 L ( " r ( " o]
+[DELETED:   2  J ( " 1 M t t a p d t c y e D 2 D b ( ( A a t A T c s e t t p m b a r m v t ( T 1 N 2 O ( W c t c o a r a r m v o s p m ( ( T d s r t f i t t L R a R n l t N 1 2 a o o b e N f 1 T 2 T t a o c c a t t a o t r 3 B o r o a g i o n l t f t]
+[DELETED:   2  J f ( T i r t b r u t s s n b c c t i a s n b s t K p S I i t ( T n b i c a t t i b K 1 ( T ( T 1 1 1 1 1 1 1 a 1 ( T ( T ( T ( T ( T ( T ( T 1 1 ( T ( T e H S E D p i c p]
+[DELETED:   2  J ( T ( T ( T ( T ( T ( T ( T ( T ( T ( T ( T ( T o ( T ( T ( T a ( T ( A t n p t c a t t i b K 1 s ( T ( T ( T ( T ( T ( T]
+[DELETED:   2  J 1 ( A t t ( T ( T ( T 1 ( T f i [ ] p b K 1 f a a ( T ( T ( T ( T t ( T f n c s b a a t s o t i o ( T 1 1 1 1 1 1 1 a 1 ( T ( T ( T ( T ( T ( T]
+[DELETED:   2  J ( T e ( T 1 1 ( T ( T e H S E D p i c p ( T ( T ( T ( T ( T ( T ( T p ( T ( T ( T ( T ( T ( T o ( T ( T ( T 1]
+[DELETED:   2  J ( T a ( A t ( T ( T 1 ( T f i [ ] p b K 1 f a a ( T ( T S ( N p o f c o e o t d p o f v F C o i t i i a t i m h t d w t a o t p ( T ( I r i p f m f r o o p ( A a]
+[DELETED:   2  J ( F a t o h o h p a a w i ( T i d a ( P e r a u K 1 o o o s l u p t p o K 1 t i u t d t o a b a t o s b s t t p p i K 1 o ( P t a t p p t a o e i a f a f i a c o c j f i o a m p a a r e a f s f t p o t i d i t p A f i s t ( P t ( S u]
+[DELETED:   2  J ( P a u g r l t r i t i n t a t p o K 1 t 1 t a ( P o ( P K ( P 1 K m 2 K 3 K 1 f p o t E S h a t E 4 K 5 K c 6 K 7 K 8 K 9 K 1 K 1 K 1 K ] 1 K 1 f p o t E O A P 1 K]
+[DELETED:   2  J 1 K 1 f t p o t s a u t e 1 K 1 K ] 1 K 1 f p o t s a u t e 1 S ( T a a K c a K c a o s o t f g u r a w t d s r s ( A i f d u o a i r t t a p I t s n b i i a w a b a p s e ( S r o K C 1 a s o n g p a r o E ( N c m s]
+[DELETED:   2  J t K o b r s r]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS BR 1857
+1 AN ACT relating to an individual income tax credit for tolls.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF KRS CHAPTER 141 IS CREATED TO
+4 READ AS FOLLOWS:
+5 (1) As used in this section:
+6 (a) "Authority" means the Louisville and Southern Indiana Bridges Authority;
+7 (b) "Bridges" means the following Louisville-Southern Indiana Ohio River
+8 bridges:
+9 1. The Interstate 65 Abraham Lincoln Bridge;
+10 2. The Interstate 65 John F. Kennedy Memorial Bridge; and
+11 3. The Indiana Highway 265/Kentucky Highway 841 Lewis and Clark
+12 Bridge connecting Jefferson County Kentucky, and Clark County
+13 Indiana;
+14 (c) "Department" means the Department of Revenue;
+15 (d) "Motor vehicle" has the same meaning as in KRS 186.010(4), limited to the
+16 following:
+17 1. Two (2) axle passenger vehicles up to seven and one-half (7.5) feet in
+18 height;
+19 2. Other two (2) axle vehicles more than seven and one-half (7.5) feet in
+20 height;
+21 3. All three (3) axle vehicles;
+22 4. All four (4) axle vehicles; and
+23 5. Large vehicles with five (5) or more axles;
+24 (e) "Resident motor vehicle owner" means a resident owner of a motor vehicle
+25 registered in this state under the provisions of KRS 186.020;
+26 (f) "Toll" means a payment made by a resident motor vehicle owner for travel
+27 on the bridges; and
+Page 1 of 11
+XXXX 2/16/2025 12:51 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1857
+1 (g) "Toll payments":
+2 1. Means the toll actually paid during the calendar year ending
+3 December 31, 2026; and
+4 2. Does not include any fines, fees, or penalties resulting from use of the
+5 bridges.
+6 (2) (a) A nonrefundable 2026 toll relief credit is hereby established to be claimed
+7 against the tax imposed under KRS 141.020 on resident individuals for the
+8 toll payments, with the ordering of credits as provided in Section 2 of this
+9 Act. The credit shall equal the toll payments made by a resident motor
+10 vehicle owner required to file an income tax return under KRS 141.160 for
+11 the taxable year ending on December 31, 2026.
+12 (b) The credit allowed in this section shall:
+13 1. Not be carried forward or backward to another taxable year; and
+14 2. Only apply to the period described in this subsection.
+15 (3) When claiming the credit on a return, a resident motor vehicle owner shall
+16 provide receipts, invoices, or other pertinent papers in the form as the department
+17 may require.
+18 (4) (a) The department shall report the following information to the Legislative
+19 Research Commission and the Interim Join Committee on Appropriations
+20 and Revenue no later than November 1, 2027, and on or before each
+21 November 1 thereafter as long as the exclusion is claimed on any return
+22 filed:
+23 1. The number of tax returns claiming the credit for each taxable year;
+24 2. The total amount of credits claimed and the total amount of the
+25 reduced liability; and
+26 3. Based on ranges of adjusted gross income of no larger than five
+27 thousand dollars ($5,000), the total amount of the reduced tax liability
+Page 2 of 11
+XXXX 2/16/2025 12:51 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1857
+1 for each adjusted gross income range for each taxable year.
+2 (b) The information required to be reported under this section shall not be
+3 considered confidential taxpayer information and shall not be subject to
+4 KRS Chapter 131 or any other provisions of the Kentucky Revised Statutes
+5 prohibiting disclosure or reporting of information.
+6 Section 2. KRS 141.0205 is amended to read as follows:
+7 If a taxpayer is entitled to more than one (1) of the tax credits allowed against the tax
+8 imposed by KRS 141.020, 141.040, and 141.0401, the priority of application and use of
+9 the credits shall be determined as follows:
+10 (1) The nonrefundable business incentive credits against the tax imposed by KRS
+11 141.020 shall be taken in the following order:
+12 (a) The limited liability entity tax credit permitted by KRS 141.0401;
+13 (b) The economic development credits computed under KRS 141.347, 141.381,
+14 141.384, 141.3841, 141.400, 141.403, 141.407, 141.415, 154.12-207, and
+15 154.12-2088;
+16 (c) The qualified farming operation credit permitted by KRS 141.412;
+17 (d) The certified rehabilitation credit permitted by KRS 171.397(1)(a);
+18 (e) The health insurance credit permitted by KRS 141.062;
+19 (f) The tax paid to other states credit permitted by KRS 141.070;
+20 (g) The credit for hiring the unemployed permitted by KRS 141.065;
+21 (h) The recycling or composting equipment credit permitted by KRS 141.390;
+22 (i) The [tax ]credit for cash contributions in investment funds permitted by KRS
+23 154.20-263 in effect prior to July 15, 2002, and the credit permitted by KRS
+24 154.20-258;
+25 (j) The research facilities credit permitted by KRS 141.395;
+26 (k) The employer High School Equivalency Diploma program incentive credit
+27 permitted under KRS 151B.402;
+Page 3 of 11
+XXXX 2/16/2025 12:51 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1857
+1 (l) The voluntary environmental remediation credit permitted by KRS 141.418;
+2 (m) The biodiesel and renewable diesel credit permitted by KRS 141.423;
+3 (n) The clean coal incentive credit permitted by KRS 141.428;
+4 (o) The ethanol credit permitted by KRS 141.4242;
+5 (p) The cellulosic ethanol credit permitted by KRS 141.4244;
+6 (q) The energy efficiency credits permitted by KRS 141.436;
+7 (r) The railroad maintenance and improvement credit permitted by KRS 141.385;
+8 (s) The Endow Kentucky credit permitted by KRS 141.438;
+9 (t) The New Markets Development Program credit permitted by KRS 141.434;
+10 (u) The distilled spirits credit permitted by KRS 141.389;
+11 (v) The angel investor credit permitted by KRS 141.396;
+12 (w) The film industry credit permitted by KRS 141.383 for applications approved
+13 on or after April 27, 2018, but before January 1, 2022;
+14 (x) The inventory credit permitted by KRS 141.408;
+15 (y) The renewable chemical production credit permitted by KRS 141.4231;[ and]
+16 (z) The qualified broadband investment[ tax] credit permitted by KRS 141.391;
+17 and
+18 (aa) The 2026 toll relief credit permitted by Section 1 of this Act;
+19 (2) After the application of the nonrefundable credits in subsection (1) of this section,
+20 the nonrefundable personal tax credits against the tax imposed by KRS 141.020
+21 shall be taken in the following order:
+22 (a) The individual credits permitted by KRS 141.020(3);
+23 (b) The credit permitted by KRS 141.066;
+24 (c) The tuition credit permitted by KRS 141.069;
+25 (d) The household and dependent care credit permitted by KRS 141.067;
+26 (e) The income gap credit permitted by KRS 141.066; and
+27 (f) The Education Opportunity Account Program [tax ]credit permitted by KRS
+Page 4 of 11
+XXXX 2/16/2025 12:51 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1857
+1 141.522;
+2 (3) After the application of the nonrefundable credits provided for in subsection (2) of
+3 this section, the refundable credits against the tax imposed by KRS 141.020 shall be
+4 taken in the following order:
+5 (a) The individual withholding tax credit permitted by KRS 141.350;
+6 (b) The individual estimated tax payment credit permitted by KRS 141.305;
+7 (c) The certified rehabilitation credit permitted by KRS 171.3961, 171.3963, and
+8 171.397(1)(b);
+9 (d) The film industry [tax ]credit permitted by KRS 141.383 for applications
+10 approved prior to April 27, 2018, or on or after January 1, 2022;
+11 (e) The development area [tax ]credit permitted by KRS 141.398;
+12 (f) The decontamination [tax ]credit permitted by KRS 141.419; and
+13 (g) The pass-through entity tax credit permitted by KRS 141.209;
+14 (4) The nonrefundable credit permitted by KRS 141.0401 shall be applied against the
+15 tax imposed by KRS 141.040;
+16 (5) The following nonrefundable credits shall be applied against the sum of the tax
+17 imposed by KRS 141.040 after subtracting the credit provided for in subsection (4)
+18 of this section, and the tax imposed by KRS 141.0401 in the following order:
+19 (a) The economic development credits computed under KRS 141.347, 141.381,
+20 141.384, 141.3841, 141.400, 141.403, 141.407, 141.415, 154.12-207, and
+21 154.12-2088;
+22 (b) The qualified farming operation credit permitted by KRS 141.412;
+23 (c) The certified rehabilitation credit permitted by KRS 171.397(1)(a);
+24 (d) The health insurance credit permitted by KRS 141.062;
+25 (e) The unemployment credit permitted by KRS 141.065;
+26 (f) The recycling or composting equipment credit permitted by KRS 141.390;
+27 (g) The coal conversion credit permitted by KRS 141.041;
+Page 5 of 11
+XXXX 2/16/2025 12:51 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1857
+1 (h) The enterprise zone credit permitted by KRS 154.45-090, for taxable periods
+2 ending prior to January 1, 2008;
+3 (i) The tax credit for cash contributions to investment funds permitted by KRS
+4 154.20-263 in effect prior to July 15, 2002, and the credit permitted by KRS
+5 154.20-258;
+6 (j) The research facilities credit permitted by KRS 141.395;
+7 (k) The employer High School Equivalency Diploma program incentive credit
+8 permitted by KRS 151B.402;
+9 (l) The voluntary environmental remediation credit permitted by KRS 141.418;
+10 (m) The biodiesel and renewable diesel credit permitted by KRS 141.423;
+11 (n) The clean coal incentive credit permitted by KRS 141.428;
+12 (o) The ethanol credit permitted by KRS 141.4242;
+13 (p) The cellulosic ethanol credit permitted by KRS 141.4244;
+14 (q) The energy efficiency credits permitted by KRS 141.436;
+15 (r) The ENERGY STAR home or ENERGY STAR manufactured home credit
+16 permitted by KRS 141.437;
+17 (s) The railroad maintenance and improvement credit permitted by KRS 141.385;
+18 (t) The railroad expansion credit permitted by KRS 141.386;
+19 (u) The Endow Kentucky credit permitted by KRS 141.438;
+20 (v) The New Markets Development Program credit permitted by KRS 141.434;
+21 (w) The distilled spirits credit permitted by KRS 141.389;
+22 (x) The film industry credit permitted by KRS 141.383 for applications approved
+23 on or after April 27, 2018, but before January 1, 2022;
+24 (y) The inventory credit permitted by KRS 141.408;
+25 (z) The renewable chemical production [tax ]credit permitted by KRS 141.4231;
+26 (aa) The Education Opportunity Account Program [tax ]credit permitted by KRS
+27 141.522; and
+Page 6 of 11
+XXXX 2/16/2025 12:51 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1857
+1 (ab) The qualified broadband investment [tax ]credit permitted by KRS 141.391;
+2 and
+3 (6) After the application of the nonrefundable credits in subsection (5) of this section,
+4 the refundable credits shall be taken in the following order:
+5 (a) The corporation estimated tax payment credit permitted by KRS 141.044;
+6 (b) The certified rehabilitation credit permitted by KRS 171.3961, 171.3963, and
+7 171.397(1)(b);
+8 (c) The film industry [tax ]credit permitted by KRS 141.383 for applications
+9 approved prior to April 27, 2018, or on or after January 1, 2022;
+10 (d) The decontamination [tax ]credit permitted by KRS 141.419; and
+11 (e) The pass-through entity tax credit permitted by KRS 141.209.
+12 Section 3. KRS 131.190 is amended to read as follows:
+13 (1) No present or former commissioner or employee of the department, present or
+14 former member of a county board of assessment appeals, present or former property
+15 valuation administrator or employee, present or former secretary or employee of the
+16 Finance and Administration Cabinet, former secretary or employee of the Revenue
+17 Cabinet, or any other person, shall intentionally and without authorization inspect
+18 or divulge any information acquired by him or her of the affairs of any person, or
+19 information regarding the tax schedules, returns, or reports required to be filed with
+20 the department or other proper officer, or any information produced by a hearing or
+21 investigation, insofar as the information may have to do with the affairs of the
+22 person's business.
+23 (2) The prohibition established by subsection (1) of this section shall not extend to:
+24 (a) Information required in prosecutions for making false reports or returns of
+25 property for taxation, or any other infraction of the tax laws;
+26 (b) Any matter properly entered upon any assessment record, or in any way made
+27 a matter of public record;
+Page 7 of 11
+XXXX 2/16/2025 12:51 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1857
+1 (c) Furnishing any taxpayer or his or her properly authorized agent with
+2 information respecting his or her own return;
+3 (d) Testimony provided by the commissioner or any employee of the department
+4 in any court, or the introduction as evidence of returns or reports filed with the
+5 department, in an action for violation of state or federal tax laws or in any
+6 action challenging state or federal tax laws;
+7 (e) Providing an owner of unmined coal, oil or gas reserves, and other mineral or
+8 energy resources assessed under KRS 132.820, or owners of surface land
+9 under which the unmined minerals lie, factual information about the owner's
+10 property derived from third-party returns filed for that owner's property, under
+11 the provisions of KRS 132.820, that is used to determine the owner's
+12 assessment. This information shall be provided to the owner on a confidential
+13 basis, and the owner shall be subject to the penalties provided in KRS
+14 131.990(2). The third-party filer shall be given prior notice of any disclosure
+15 of information to the owner that was provided by the third-party filer;
+16 (f) Providing to a third-party purchaser pursuant to an order entered in a
+17 foreclosure action filed in a court of competent jurisdiction, factual
+18 information related to the owner or lessee of coal, oil, gas reserves, or any
+19 other mineral resources assessed under KRS 132.820. The department may
+20 promulgate an administrative regulation establishing a fee schedule for the
+21 provision of the information described in this paragraph. Any fee imposed
+22 shall not exceed the greater of the actual cost of providing the information or
+23 ten dollars ($10);
+24 (g) Providing information to a licensing agency, the Transportation Cabinet, or
+25 the Kentucky Supreme Court under KRS 131.1817;
+26 (h) Statistics of gasoline and special fuels gallonage reported to the department
+27 under KRS 138.210 to 138.448;
+Page 8 of 11
+XXXX 2/16/2025 12:51 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1857
+1 (i) Providing any utility gross receipts license tax return information that is
+2 necessary to administer the provisions of KRS 160.613 to 160.617 to
+3 applicable school districts on a confidential basis;
+4 (j) Providing documents, data, or other information to a third party pursuant to an
+5 order issued by a court of competent jurisdiction;
+6 (k) Publishing administrative writings on its official website in accordance with
+7 KRS 131.020(1)(b); or
+8 (l) Providing information to the Legislative Research Commission under:
+9 1. KRS 139.519 for purposes of the sales and use tax refund on building
+10 materials used for disaster recovery;
+11 2. KRS 141.436 for purposes of the energy efficiency products credits;
+12 3. KRS 141.437 for purposes of the ENERGY STAR home and the
+13 ENERGY STAR manufactured home credits;
+14 4. KRS 141.383 for purposes of the film industry incentives;
+15 5. KRS 154.26-095 for purposes of the Kentucky industrial revitalization
+16 credit[tax credits] and the job assessment fees;
+17 6. KRS 141.068 for purposes of the Kentucky investment fund;
+18 7. KRS 141.396 for purposes of the angel investor [tax ]credit;
+19 8. KRS 141.389 for purposes of the distilled spirits credit;
+20 9. KRS 141.408 for purposes of the inventory credit;
+21 10. KRS 141.390 for purposes of the recycling and composting credit;
+22 11. KRS 141.3841 for purposes of the selling farmer [tax ]credit;
+23 12. KRS 141.4231 for purposes of the renewable chemical production [tax
+24 ]credit;
+25 13. KRS 141.524 for purposes of the Education Opportunity Account
+26 Program [tax ]credit;
+27 14. KRS 141.398 for purposes of the development area [tax ]credit;
+Page 9 of 11
+XXXX 2/16/2025 12:51 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1857
+1 15. KRS 139.516 for the purposes of the sales and use tax
+2 exemptions[exemption] on the commercial mining of cryptocurrency;
+3 16. KRS 141.419 for purposes of the decontamination [tax ]credit;
+4 17. KRS 141.391 for purposes of the qualified broadband investment [tax
+5 ]credit;[ and]
+6 18. KRS 139.499 for purposes of the sales and use tax
+7 exemptions[exemption] for a qualified data center project; and
+8 19. Section 1 of this Act for purposes of the 2026 toll relief credit.
+9 (3) The commissioner shall make available any information for official use only and on
+10 a confidential basis to the proper officer, agency, board or commission of this state,
+11 any Kentucky county, any Kentucky city, any other state, or the federal
+12 government, under reciprocal agreements whereby the department shall receive
+13 similar or useful information in return.
+14 (4) Access to and inspection of information received from the Internal Revenue Service
+15 is for department use only, and is restricted to tax administration purposes.
+16 Information received from the Internal Revenue Service shall not be made available
+17 to any other agency of state government, or any county, city, or other state, and
+18 shall not be inspected intentionally and without authorization by any present
+19 secretary or employee of the Finance and Administration Cabinet, commissioner or
+20 employee of the department, or any other person.
+21 (5) Statistics of crude oil as reported to the department under the crude oil excise tax
+22 requirements of KRS Chapter 137 and statistics of natural gas production as
+23 reported to the department under the natural resources severance tax requirements
+24 of KRS Chapter 143A may be made public by the department by release to the
+25 Energy and Environment Cabinet, Department for Natural Resources.
+26 (6) Notwithstanding any provision of law to the contrary, beginning with mine-map
+27 submissions for the 1989 tax year, the department may make public or divulge only
+Page 10 of 11
+XXXX 2/16/2025 12:51 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1857
+1 those portions of mine maps submitted by taxpayers to the department pursuant to
+2 KRS Chapter 132 for ad valorem tax purposes that depict the boundaries of mined-
+3 out parcel areas. These electronic maps shall not be relied upon to determine actual
+4 boundaries of mined-out parcel areas. Property boundaries contained in mine maps
+5 required under KRS Chapters 350 and 352 shall not be construed to constitute land
+6 surveying or boundary surveys as defined by KRS 322.010 and any administrative
+7 regulations promulgated thereto.
+Page 11 of 11
+XXXX 2/16/2025 12:51 PM Jacketed
+
+[DELETED:   2  J A B S R ( A ( " ( " m t f L I O R b 1 T 2 T 3 T I H H 8 L a C B c J C K a C C I ( " ( " f 1 T h 2 O h 3 A 4 A 5 L ( " r ( " o]
+[DELETED:   2  J ( " 1 M t t a p d t c y e D 2 D b ( ( A a t A T c s e t t p m b a r m v t ( T 1 N 2 O ( W c t c o a r a r m v o s p m ( ( T d s r t f i t t L R a R n l t N 1 2 a o o b e N f 1 T 2 T t a o c c a t t a o t r 3 B o r o a g i o n l t f t]
+[DELETED:   2  J f ( T i r t b r u t s s n b c c t i a s n b s t K p S I i t ( T n b i c a t t i b K 1 ( T ( T 1 1 1 1 1 1 1 a 1 ( T ( T ( T ( T ( T ( T ( T 1 1 ( T ( T e H S E D p i c p]
+[DELETED:   2  J ( T ( T ( T ( T ( T ( T ( T ( T ( T ( T ( T ( T o ( T ( T ( T a ( T ( A t n p t c a t t i b K 1 s ( T ( T ( T ( T ( T ( T]
+[DELETED:   2  J 1 ( A t t ( T ( T ( T 1 ( T f i [ ] p b K 1 f a a ( T ( T ( T ( T t ( T f n c s b a a t s o t i o ( T 1 1 1 1 1 1 1 a 1 ( T ( T ( T ( T ( T ( T]
+[DELETED:   2  J ( T e ( T 1 1 ( T ( T e H S E D p i c p ( T ( T ( T ( T ( T ( T ( T p ( T ( T ( T ( T ( T ( T o ( T ( T ( T 1]
+[DELETED:   2  J ( T a ( A t ( T ( T 1 ( T f i [ ] p b K 1 f a a ( T ( T S ( N p o f c o e o t d p o f v F C o i t i i a t i m h t d w t a o t p ( T ( I r i p f m f r o o p ( A a]
+[DELETED:   2  J ( F a t o h o h p a a w i ( T i d a ( P e r a u K 1 o o o s l u p t p o K 1 t i u t d t o a b a t o s b s t t p p i K 1 o ( P t a t p p t a o e i a f a f i a c o c j f i o a m p a a r e a f s f t p o t i d i t p A f i s t ( P t ( S u]
+[DELETED:   2  J ( P a u g r l t r i t i n t a t p o K 1 t 1 t a ( P o ( P K ( P 1 K m 2 K 3 K 1 f p o t E S h a t E 4 K 5 K c 6 K 7 K 8 K 9 K 1 K 1 K 1 K ] 1 K 1 f p o t E O A P 1 K]
+[DELETED:   2  J 1 K 1 f t p o t s a u t e 1 K 1 K ] 1 K 1 f p o t s a u t e 1 S ( T a a K c a K c a o s o t f g u r a w t d s r s ( A i f d u o a i r t t a p I t s n b i i a w a b a p s e ( S r o K C 1 a s o n g p a r o E ( N c m s]
+[DELETED:   2  J t K o b r s r]

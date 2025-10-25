@@ -1,0 +1,1559 @@
+Title: 1 AN ACT relating to driving under the influence of marijuana.
+Official Title: 1 AN ACT relating to driving under the influence of marijuana.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 25 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS BR 884
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 189A.005 is amended to read as follows:
+4 As used in this chapter, unless the context requires otherwise:
+5 (1) "Alcohol concentration" means either grams of alcohol per 100 milliliters of blood
+6 or grams of alcohol per 210 liters of breath;
+7 (2) "Cabinet" means the Transportation Cabinet;
+8 (3) "Ignition interlock device" or "device" means a device, certified by the
+9 Transportation Cabinet for use in this Commonwealth under KRS 189A.350, that:
+10 (a) Connects a motor vehicle ignition system or motorcycle ignition system to a
+11 breath alcohol analyzer and prevents a motor vehicle ignition or motorcycle
+12 ignition from starting, and from continuing to operate, if a driver's breath
+13 alcohol concentration exceeds 0.02, as measured by the device; and
+14 (b) Has a fully functional camera that is equipped to record the date, time, and
+15 photo of all persons providing breath samples to the device;
+16 (4) "Ignition interlock certificate of installation" means a certificate providing that the
+17 installed ignition interlock device has been installed and is certified for use in the
+18 Commonwealth under KRS 189A.350;
+19 (5) "Ignition interlock device provider" or "provider" means any person or company
+20 certified by the Transportation Cabinet to engage in the business of manufacturing,
+21 selling, leasing, servicing, or monitoring ignition interlock devices within the
+22 Commonwealth;
+23 (6) "Ignition interlock license" means a motor vehicle or motorcycle operator's license
+24 issued or granted by the laws of the Commonwealth of Kentucky that, except for
+25 those with an employer exemption under KRS 189A.340, permits a person to drive
+26 only motor vehicles or motorcycles equipped with a functioning ignition interlock
+27 device;
+Page 1 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 884
+1 (7) "License" means any driver's or operator's license or any other license or permit to
+2 operate a motor vehicle issued under or granted by the laws of this state including:
+3 (a) Any temporary license or instruction permit;
+4 (b) The privilege of any person to obtain a valid license or instruction permit, or
+5 to drive a motor vehicle whether or not the person holds a valid license; and
+6 (c) Any nonresident's operating privilege as defined in KRS Chapter 186 or 189;
+7 (8) "Limited access highway" has the same meaning as "limited access facility" does in
+8 KRS 177.220;
+9 (9) "Marijuana concentration" means nanograms of tetrahydrocannabinol per
+10 milliliter of blood;
+11 (10) "Refusal" means declining to submit to any test or tests pursuant to KRS 189A.103.
+12 Declining may be either by word or by the act of refusal. If the breath testing
+13 instrument for any reason shows an insufficient breath sample and the alcohol
+14 concentration cannot be measured by the breath testing instrument, the law
+15 enforcement officer shall then request the defendant to take a blood or urine test in
+16 lieu of the breath test. If the defendant then declines either by word or by the act of
+17 refusal, he or she shall then be deemed to have refused if the refusal occurs at the
+18 site at which any alcohol concentration or substance test is to be administered; and
+19 (11)[(10)] When age is a factor, it shall mean age at the time of the commission of the
+20 offense.
+21 Section 2. KRS 189A.010 is amended to read as follows:
+22 (1) A person shall not operate or be in physical control of a motor vehicle anywhere in
+23 this state:
+24 (a) Having an alcohol concentration of 0.08 or more as measured by a
+25 scientifically reliable test or tests of a sample of the person's breath or blood
+26 taken within two (2) hours of cessation of operation or physical control of a
+27 motor vehicle;
+Page 2 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 884
+1 (b) While under the influence of alcohol;
+2 (c) While under the influence of any other substance or combination of
+3 substances which impairs one's driving ability;
+4 (d) While the presence of a controlled substance listed in subsection (12) of this
+5 section is detected in the blood, as measured by a scientifically reliable test, or
+6 tests, taken within two (2) hours of cessation of operation or physical control
+7 of a motor vehicle;
+8 (e) While under the combined influence of alcohol and any other substance which
+9 impairs one's driving ability; [or]
+10 (f) Having an alcohol concentration of 0.02 or more as measured by a
+11 scientifically reliable test or tests of a sample of the person's breath or blood
+12 taken within two (2) hours of cessation of operation or physical control of a
+13 motor vehicle, if the person is under the age of twenty-one (21); or
+14 (g) Having a marijuana concentration of 5 or more as measured by a
+15 scientifically reliable test or tests of a sample of the person's blood taken
+16 within two (2) hours of cessation of operation or physical control of a motor
+17 vehicle.
+18 (2) With the exception of the results of the tests administered pursuant to KRS
+19 189A.103(7):
+20 (a) If the sample of the person's blood or breath that is used to determine the
+21 alcohol concentration thereof was obtained more than two (2) hours after
+22 cessation of operation or physical control of a motor vehicle, the results of the
+23 test or tests shall be inadmissible as evidence in a prosecution under
+24 subsection (1)(a) or (f) of this section. The results of the test or tests, however,
+25 may be admissible in a prosecution under subsection (1)(b) or (e) of this
+26 section; or
+27 (b) If the sample of the person's blood that is used to determine the presence of a
+Page 3 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 884
+1 controlled substance was obtained more than two (2) hours after cessation of
+2 operation or physical control of a motor vehicle, the results of the test or tests
+3 shall be inadmissible as evidence in a prosecution under subsection (1)(d) of
+4 this section. The results of the test or tests, however, may be admissible in a
+5 prosecution under subsection (1)(c) or (e) of this section.
+6 (3) (a) In any prosecution for a violation of subsection (1)(b) or (e) of this section in
+7 which the defendant is charged with having operated or been in physical
+8 control of a motor vehicle while under the influence of alcohol, the alcohol
+9 concentration in the defendant's blood as determined at the time of making
+10 analysis of his or her blood or breath shall give rise to the following
+11 presumptions:
+12 1.[(a)] If there was an alcohol concentration of less than 0.04 based upon
+13 the definition of alcohol concentration in KRS 189A.005, it shall be
+14 presumed that the defendant was not under the influence of alcohol; and
+15 2.[(b)] If there was an alcohol concentration of 0.04 or greater but less
+16 than 0.08 based upon the definition of alcohol concentration in KRS
+17 189A.005, that fact shall not constitute a presumption that the defendant
+18 either was or was not under the influence of alcohol, but that fact may
+19 be considered, together with other competent evidence, in determining
+20 the guilt or innocence of the defendant.
+21 (b) In any prosecution for a violation of subsection (1)(c) or (e) of this section
+22 in which the defendant is charged with having operated or been in physical
+23 control of a motor vehicle while under the influence of marijuana, the
+24 marijuana concentration in the defendant's blood as determined at the time
+25 of making analysis of his or her blood shall give rise to the following
+26 presumptions:
+27 1. If there was a marijuana concentration of less than 4 based upon the
+Page 4 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 884
+1 definition of marijuana concentration in Section 1 of this Act, it shall
+2 be presumed that the defendant was not under the influence of
+3 marijuana; and
+4 2. If there was a marijuana concentration of 4 or greater but less than 5
+5 based upon the definition of marijuana concentration in Section 1 of
+6 this Act, that fact shall not constitute a presumption that the defendant
+7 either was or was not under the influence of marijuana, but that fact
+8 may be considered, together with other competent evidence, in
+9 determining the guilt or innocence of the defendant.
+10 The provisions of this subsection shall not be construed as limiting the introduction
+11 of any other competent evidence bearing upon the questions of whether the
+12 defendant was under the influence of alcohol, marijuana, or other substances, in
+13 any prosecution for a violation of subsection (1)(b),[ or] (e), or (g) of this section.
+14 (4) (a) Except as provided in paragraph (b) of this subsection, the fact that any person
+15 charged with violation of subsection (1) of this section is legally entitled to
+16 use any substance, including alcohol, shall not constitute a defense against
+17 any charge of violation of subsection (1) of this section.
+18 (b) A laboratory test or tests for a controlled substance shall be inadmissible as
+19 evidence in a prosecution under subsection (1)(d) of this section upon a
+20 finding by the court that the defendant consumed the substance under a valid
+21 prescription from a practitioner, as defined in KRS 218A.010, acting in the
+22 course of his or her professional practice. However, a laboratory test for a
+23 controlled substance may be admissible as evidence in a prosecution under
+24 subsection (1)(c) or (e) of this section.
+25 (5) Any person who violates the provisions of paragraph (a), (b), (c), (d),[ or] (e), or (g)
+26 of subsection (1) of this section shall:
+27 (a) For the first offense within a ten (10) year period, be fined not less than two
+Page 5 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 884
+1 hundred dollars ($200) nor more than five hundred dollars ($500), or be
+2 imprisoned in the county jail for not less than forty-eight (48) hours nor more
+3 than thirty (30) days, or both. Following sentencing, the defendant may apply
+4 to the judge for permission to enter a community labor program for not less
+5 than forty-eight (48) hours nor more than thirty (30) days in lieu of fine or
+6 imprisonment, or both. If any of the aggravating circumstances listed in
+7 subsection (11) of this section are present while the person was operating or in
+8 physical control of a motor vehicle, the mandatory minimum term of
+9 imprisonment shall be four (4) days, which term shall not be suspended,
+10 probated, conditionally discharged, or subject to any other form of early
+11 release;
+12 (b) For the second offense within a ten (10) year period, be fined not less than
+13 three hundred fifty dollars ($350) nor more than five hundred dollars ($500)
+14 and shall be imprisoned in the county jail for not less than seven (7) days nor
+15 more than six (6) months and, in addition to fine and imprisonment, may be
+16 sentenced to community labor for not less than ten (10) days nor more than
+17 six (6) months. If any of the aggravating circumstances listed in subsection
+18 (11) of this section are present, the mandatory minimum term of
+19 imprisonment shall be fourteen (14) days, which term shall not be suspended,
+20 probated, conditionally discharged, or subject to any other form of early
+21 release;
+22 (c) For a third offense within a ten (10) year period, be fined not less than five
+23 hundred dollars ($500) nor more than one thousand dollars ($1,000) and shall
+24 be imprisoned in the county jail for not less than thirty (30) days nor more
+25 than twelve (12) months and may, in addition to fine and imprisonment, be
+26 sentenced to community labor for not less than thirty (30) days nor more than
+27 twelve (12) months. If any of the aggravating circumstances listed in
+Page 6 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 884
+1 subsection (11) of this section are present, the mandatory minimum term of
+2 imprisonment shall be sixty (60) days, which term shall not be suspended,
+3 probated, conditionally discharged, or subject to any other form of early
+4 release;
+5 (d) For a fourth or subsequent offense within a ten (10) year period, be guilty of a
+6 Class D felony. If any of the aggravating circumstances listed in subsection
+7 (11) of this section are present, the mandatory minimum term of
+8 imprisonment shall be two hundred forty (240) days, which term shall not be
+9 suspended, probated, conditionally discharged, or subject to any other form of
+10 release; and
+11 (e) For purposes of this subsection, prior offenses shall include all convictions in
+12 this state, and any other state or jurisdiction, for operating or being in control
+13 of a motor vehicle while under the influence of alcohol or other substances
+14 that impair one's driving ability, or any combination of alcohol and such
+15 substances, or while having an unlawful alcohol concentration, or driving
+16 while intoxicated, but shall not include convictions for violating subsection
+17 (1)(f) of this section. A court shall receive as proof of a prior conviction a
+18 copy of that conviction, certified by the court ordering the conviction.
+19 (6) Any person who violates the provisions of subsection (1)(f) of this section shall be
+20 fined no less than one hundred dollars ($100) and no more than five hundred dollars
+21 ($500), or sentenced to twenty (20) hours of community service in lieu of a fine. A
+22 person subject to the penalties of this subsection shall not be subject to the penalties
+23 established in subsection (5) of this section or any other penalty established
+24 pursuant to KRS Chapter 189A, except those established in KRS 189A.040(1) and
+25 KRS 189A.070.
+26 (7) If the person is under the age of twenty-one (21) and there was an alcohol
+27 concentration of 0.08 or greater based on the definition of alcohol concentration in
+Page 7 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 884
+1 KRS 189A.005, the person shall be subject to the penalties established pursuant to
+2 subsection (5) of this section.
+3 (8) For a second or third offense within a ten (10) year period, the minimum sentence
+4 of imprisonment or community labor shall not be suspended, probated, or subject to
+5 conditional discharge or other form of early release. For a fourth or subsequent
+6 offense under this section, the minimum term of imprisonment shall be one hundred
+7 twenty (120) days, and this term shall not be suspended, probated, or subject to
+8 conditional discharge or other form of early release. For a second or subsequent
+9 offense, at least forty-eight (48) hours of the mandatory sentence shall be served
+10 consecutively.
+11 (9) When sentencing persons under subsection (5)(a) of this section, at least one (1) of
+12 the penalties shall be assessed and that penalty shall not be suspended, probated, or
+13 subject to conditional discharge or other form of early release.
+14 (10) In determining the ten (10) year period under this section, the period shall be
+15 measured from the dates on which the offenses occurred for which the judgments of
+16 conviction were entered.
+17 (11) For purposes of this section, aggravating circumstances are any one (1) or more of
+18 the following:
+19 (a) Operating a motor vehicle in excess of thirty (30) miles per hour above the
+20 speed limit;
+21 (b) Operating a motor vehicle in the wrong direction on a limited access highway;
+22 (c) Operating a motor vehicle that causes an accident resulting in death or serious
+23 physical injury as defined in KRS 500.080;
+24 (d) Operating a motor vehicle while the alcohol concentration in the operator's
+25 blood or breath is 0.15 or more as measured by a test or tests of a sample of
+26 the operator's blood or breath taken within two (2) hours of cessation of
+27 operation of the motor vehicle;
+Page 8 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 884
+1 (e) Refusing to submit to any test or tests of one's blood, breath, or urine
+2 requested by an officer having reasonable grounds to believe the person was
+3 operating or in physical control of a motor vehicle in violation of subsection
+4 (1) of this section, except it shall not be considered an aggravating
+5 circumstance for a first offense under subsection (5)(a) of this section; and
+6 (f) Operating a motor vehicle that is transporting a passenger under the age of
+7 twelve (12) years old.
+8 (12) The substances applicable to a prosecution under subsection (1)(d) of this section
+9 are:
+10 (a) Any Schedule I controlled substance except marijuana;
+11 (b) Alprazolam;
+12 (c) Amphetamine;
+13 (d) Buprenorphine;
+14 (e) Butalbital;
+15 (f) Carisoprodol;
+16 (g) Cocaine;
+17 (h) Diazepam;
+18 (i) Hydrocodone;
+19 (j) Meprobamate;
+20 (k) Methadone;
+21 (l) Methamphetamine;
+22 (m) Oxycodone;
+23 (n) Promethazine;
+24 (o) Propoxyphene; and
+25 (p) Zolpidem.
+26 Section 3. KRS 189A.050 is amended to read as follows:
+27 (1) All persons convicted of violation of KRS 189A.010(1)(a), (b), (c), (d),[ or] (e), or
+Page 9 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 884
+1 (g) shall be sentenced to pay a service fee of four hundred twenty-five dollars
+2 ($425), which shall be in addition to all other penalties authorized by law.
+3 (2) The fee shall be imposed in all cases but shall be subject to the provisions of KRS
+4 534.020 and KRS 534.060.
+5 (3) The first fifty dollars ($50) of each service fee imposed by this section shall be paid
+6 into the general fund, the second fifty dollars ($50) of each service fee imposed by
+7 this section shall be paid to the ignition interlock administration fund established in
+8 KRS 189A.380, and the remainder of the revenue collected from the service fee
+9 imposed by this section shall be utilized as follows:
+10 (a) Twelve percent (12%) shall be transferred to the Department of Kentucky
+11 State Police forensic laboratory for the acquisition, maintenance, testing, and
+12 calibration of alcohol concentration testing instruments and the training of
+13 laboratory personnel to perform these tasks;
+14 (b) Twenty percent (20%) shall be allocated to the Department of Public
+15 Advocacy;
+16 (c) One percent (1%) shall be transferred to the Prosecutors Advisory Council for
+17 training of prosecutors for the prosecution of persons charged with violations
+18 of this chapter and for obtaining expert witnesses in cases involving the
+19 prosecution of persons charged with violations of this chapter or any other
+20 offense in which driving under the influence is a factor in the commission of
+21 the offense charged;
+22 (d) Sixteen percent (16%) shall be transferred as follows:
+23 1. Fifty percent (50%) shall be credited to the traumatic brain injury trust
+24 fund established under KRS 211.476; and
+25 2. Fifty percent (50%) shall be credited to the Cabinet for Health and
+26 Family Services, Department for Behavioral Health, Developmental and
+27 Intellectual Disabilities, for the purposes of providing direct services to
+Page 10 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 884
+1 individuals with brain injuries that may include long-term supportive
+2 services and training and consultation to professionals working with
+3 individuals with brain injuries. As funding becomes available under this
+4 subparagraph, the cabinet may promulgate administrative regulations
+5 pursuant to KRS Chapter 13A to implement the services permitted by
+6 this subparagraph;
+7 (e) Any amount specified by a specific statute shall be transferred as provided in
+8 that statute;
+9 (f) Forty-six percent (46%) shall be transferred to be utilized to fund enforcement
+10 of this chapter and for the support of jails, recordkeeping, treatment, and
+11 educational programs authorized by this chapter and by the Department of
+12 Public Advocacy; and
+13 (g) The remainder shall be transferred to the general fund.
+14 (4) The amounts specified in subsection (3)(a), (b), (c), and (d) of this section shall be
+15 placed in trust and agency accounts that shall not lapse.
+16 Section 4. KRS 189A.070 is amended to read as follows:
+17 (1) (a) 1. Unless the person is under eighteen (18) years of age, in addition to the
+18 penalties specified in KRS 189A.010, the Transportation Cabinet shall
+19 suspend a person's license to operate a motor vehicle or motorcycle
+20 upon conviction of KRS 189A.010(1).
+21 2. Upon conviction of KRS 189A.010(1)(a), (b), (c), (d),[ or] (e), or (g),
+22 the Transportation Cabinet shall suspend a person's license to operate a
+23 motor vehicle or motorcycle as follows:
+24 a. For the first offense within a ten (10) year period:
+25 i. For a person who is issued an ignition interlock license under
+26 KRS 189A.340 and who meets the ninety (90) consecutive
+27 day requirement within the first four (4) months of the
+Page 11 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 884
+1 issuance of the ignition interlock license, four (4) months;
+2 ii. For a person who is issued an ignition interlock license under
+3 KRS 189A.340 but does not meet the ninety (90)
+4 consecutive day requirement within the first four (4) months
+5 of the issuance of the ignition interlock license, until the
+6 person meets the ninety (90) consecutive day requirement or
+7 six (6) months, whichever is shorter; or
+8 iii. For all others, six (6) months;
+9 b. For the second offense within a ten (10) year period:
+10 i. For a person who is issued an ignition interlock license under
+11 KRS 189A.340 and who meets the one hundred twenty (120)
+12 consecutive day requirement within the first twelve (12)
+13 months of the issuance of the ignition interlock license,
+14 twelve (12) months;
+15 ii. For a person who is issued an ignition interlock license under
+16 KRS 189A.340 but does not meet the one hundred twenty
+17 (120) consecutive day requirement within the first twelve
+18 (12) months of the issuance of the ignition interlock license,
+19 until the person meets the one hundred twenty (120)
+20 consecutive day requirement or eighteen (18) months,
+21 whichever is shorter; or
+22 iii. For all others, eighteen (18) months;
+23 c. For a third offense within a ten (10) year period:
+24 i. For a person who is issued an ignition interlock license under
+25 KRS 189A.340 and who meets the one hundred twenty (120)
+26 consecutive day requirement within the first eighteen (18)
+27 months of the issuance of the ignition interlock license,
+Page 12 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 884
+1 eighteen (18) months;
+2 ii. For a person who is issued an ignition interlock license under
+3 KRS 189A.340 but does not meet the one hundred twenty
+4 (120) consecutive day requirement within the first eighteen
+5 (18) months of the issuance of the ignition interlock license,
+6 until the person meets the one hundred twenty (120)
+7 consecutive day requirement or thirty-six (36) months,
+8 whichever is shorter; or
+9 iii. For all others, thirty-six (36) months;
+10 d. For a fourth or subsequent offense within a ten (10) year period:
+11 i. For a person who is issued an ignition interlock license under
+12 KRS 189A.340 and who meets the one hundred twenty (120)
+13 consecutive day requirement within the first thirty (30)
+14 months of the issuance of the ignition interlock license, thirty
+15 (30) months;
+16 ii. For a person who is issued an ignition interlock license under
+17 KRS 189A.340 but does not meet the one hundred twenty
+18 (120) consecutive day requirement within the first thirty (30)
+19 months of the issuance of the ignition interlock license, until
+20 the person meets the one hundred twenty (120) consecutive
+21 day requirement or sixty (60) months, whichever is shorter;
+22 or
+23 iii. For all others, sixty (60) months;
+24 e. If the conviction records transmitted to the Transportation Cabinet
+25 pursuant to subsection (3) of this section show that a person was
+26 convicted of a:
+27 i. First offense of KRS 189A.010, the person's license shall be
+Page 13 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 884
+1 suspended as provided in subdivision a. of this subparagraph;
+2 ii. Second offense of KRS 189A.010, the person's license shall
+3 be suspended as provided in subdivision b. of this
+4 subparagraph;
+5 iii. Third offense of KRS 189A.010, the person's license shall be
+6 suspended as provided in subdivision c. of this subparagraph;
+7 and
+8 iv. Fourth or subsequent offense of KRS 189A.010, the person's
+9 license shall be suspended as provided in subdivision d. of
+10 this subparagraph; and
+11 f. The license suspension shall be deemed effective on the date of
+12 entry of the court's order or judgement for a conviction of KRS
+13 189A.010.
+14 3. Upon conviction of KRS 189A.010(1)(f), the Transportation Cabinet
+15 shall suspend a person's license to operate a motor vehicle or motorcycle
+16 as follows:
+17 a. For a person who is issued an ignition interlock license under KRS
+18 189A.340 and who meets the ninety (90) consecutive day
+19 requirement within the first four (4) months of the issuance of the
+20 ignition interlock license, four (4) months;
+21 b. For a person who is issued an ignition interlock license under KRS
+22 189A.340 but does not meet the ninety (90) consecutive day
+23 requirement within the first four (4) months of the issuance of the
+24 ignition interlock license, until the person meets the ninety (90)
+25 consecutive day requirement or six (6) months, whichever is
+26 shorter; or
+27 c. For all others, six (6) months.
+Page 14 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 884
+1 4. For purposes of this paragraph, "ninety (90) consecutive day
+2 requirement" and "one hundred twenty (120) consecutive day
+3 requirement" mean the requirements established in KRS
+4 189A.340(4)(b)2.
+5 (b) For a person under the age of eighteen (18), in addition to the penalties
+6 specified in KRS 189A.010, the Transportation Cabinet shall suspend the
+7 person's license to operate a motor vehicle or motorcycle upon conviction of
+8 KRS 189A.010(1). The person shall have his or her license suspended until he
+9 or she reaches the age of eighteen (18) or as provided in paragraph (a) of this
+10 subsection, whichever penalty will result in the longer period of suspension.
+11 (2) In addition to the period of license suspension set forth in subsection (1) of this
+12 section, no person shall be eligible for reinstatement of his or her full privilege to
+13 operate a motor vehicle or motorcycle until he or she has completed the alcohol or
+14 substance abuse education or treatment program ordered pursuant to KRS
+15 189A.040.
+16 (3) Upon conviction of KRS 189A.010(1):
+17 (a) A person shall surrender his or her license to operate a motor vehicle or
+18 motorcycle to the court. Should the person fail to surrender his or her license
+19 to the court, the court shall issue an order directing the sheriff or any other
+20 peace officer to seize the license forthwith and deliver it to the court. The
+21 court shall then forward the license to the Transportation Cabinet. This
+22 paragraph shall not apply to a person who has previously surrendered his or
+23 her license pursuant to KRS 189A.200; and
+24 (b) The court shall immediately transmit the conviction records and other
+25 appropriate information to the Transportation Cabinet. A court shall not waive
+26 or stay this procedure.
+27 (4) In determining the ten (10) year period under this section, the period shall be
+Page 15 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 884
+1 measured from the dates on which the offenses occurred for which the judgments of
+2 conviction were entered.
+3 Section 5. KRS 189A.090 is amended to read as follows:
+4 (1) No person shall operate or be in physical control of a motor vehicle or motorcycle
+5 while his or her license is suspended under this chapter, unless the person has a
+6 valid:
+7 (a) Ignition interlock license in the person's possession and:
+8 1. The motor vehicle or motorcycle is equipped with a functioning ignition
+9 interlock device; or
+10 2. The person is operating or in physical control of an employer's motor
+11 vehicle or motorcycle in accordance with KRS 189A.340(6); or
+12 (b) Hardship license in the person's possession.
+13 (2) In addition to the period of license suspension imposed by KRS 189A.070, any
+14 person who violates subsection (1) of this section shall:
+15 (a) For a first offense within a ten (10) year period, be guilty of a Class B
+16 misdemeanor and have his or her license suspended by the Transportation
+17 Cabinet for six (6) months, unless at the time of the offense the person was
+18 also operating or in physical control of a motor vehicle in violation of KRS
+19 189A.010(1)(a), (b), (c), (d),[ or] (e), or (g), in which event the person shall
+20 be guilty of a Class A misdemeanor and have his or her license suspended by
+21 the Transportation Cabinet for a period of one (1) year;
+22 (b) For a second offense within a ten (10) year period, be guilty of a Class A
+23 misdemeanor and have his or her license suspended by the Transportation
+24 Cabinet for one (1) year, unless at the time of the offense the person was also
+25 operating or in physical control of a motor vehicle in violation of KRS
+26 189A.010(1)(a), (b), (c), (d),[ or] (e), or (g), in which event the person shall
+27 be guilty of a Class D felony and have his or her license suspended by the
+Page 16 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 884
+1 Transportation Cabinet for a period of two (2) years; and
+2 (c) For a third or subsequent offense within a ten (10) year period, be guilty of a
+3 Class D felony and have his or her license suspended by the Transportation
+4 Cabinet for two (2) years, unless at the time of the offense the person was also
+5 operating or in physical control of a motor vehicle in violation of KRS
+6 189A.010(1)(a), (b), (c), (d),[ or] (e), or (g), in which event the person shall
+7 be guilty of a Class D felony and have his or her license suspended by the
+8 Transportation Cabinet for a period of five (5) years.
+9 (3) Any person who violates subsection (1) of this section may apply for an ignition
+10 interlock license for the remainder of the original period of suspension under KRS
+11 189A.070 and for the entire period of the new suspension if the person is and
+12 remains otherwise eligible for such license pursuant to KRS 189A.340.
+13 (4) The ten (10) year period under this section shall be measured in the same manner as
+14 in KRS 189A.070.
+15 Section 6. KRS 189A.240 is amended to read as follows:
+16 In any judicial review of a pretrial suspension imposed under KRS 189A.200(1)(b), if the
+17 court determines by a preponderance of the evidence that:
+18 (1) The person was charged and arrested by a peace officer with a violation of KRS
+19 189A.010(1)(a), (b), (c), (d),[ or] (e), or (g);
+20 (2) The peace officer had reasonable grounds to believe that the person was operating a
+21 motor vehicle in violation of KRS 189A.010(1)(a), (b), (c), (d),[ or] (e), or (g);
+22 (3) There is probable cause to believe that the person committed the violation of KRS
+23 189A.010(1)(a), (b), (c), (d),[ or] (e), or (g) as charged; and
+24 (4) The person has been convicted of one (1) or more prior offenses as described in
+25 KRS 189A.010(5)(e) or has had his or her motor vehicle operator's license
+26 suspended on one (1) or more occasions for refusing to take an alcohol
+27 concentration or substance test, in the ten (10) year period immediately preceding
+Page 17 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 884
+1 his or her arrest;
+2 then the court shall continue to suspend the person's operator's license or privilege to
+3 operate a motor vehicle, but in no event for a period longer than the license suspension
+4 period applicable to the person under KRS 189A.070 and 189A.107. The provisions of
+5 this section shall not be construed as limiting the person's ability to challenge any prior
+6 convictions or license suspensions or refusals.
+7 Section 7. KRS 189A.410 is amended to read as follows:
+8 (1) At any time during the suspension periods enumerated in:
+9 (a) KRS 189A.070 for violation of KRS 189A.010(1)(c),[ or] (d), or (g); or
+10 (b) KRS 189A.090 relating to a violation of KRS 189A.010(1) (c),[ or] (d), or
+11 (g);
+12 the court may grant the person hardship driving privileges for the balance of the
+13 suspension period imposed by the Transportation Cabinet, if the court finds
+14 reasonable cause to believe that revocation would hinder the person's ability to
+15 continue his or her employment; continue attending school or an educational
+16 institution; obtain necessary medical care; attend driver improvement, alcohol, or
+17 substance abuse education programs; or attend court-ordered counseling or other
+18 programs.
+19 (2) Before granting hardship driving privileges, the court shall order the person to:
+20 (a) Provide the court with proof of motor vehicle insurance;
+21 (b) If necessary, provide the court with a written, sworn statement from his or her
+22 employer, on a form provided by the cabinet, detailing his or her job, hours of
+23 employment, and the necessity for the person to use the employer's motor
+24 vehicle either in his or her work at the direction of the employer during
+25 working hours, or in travel to and from work if the license is sought for
+26 employment purposes; and
+27 (c) If the person is self-employed, to provide the information required in
+Page 18 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 884
+1 paragraph (b) of this subsection together with a sworn statement as to its truth;
+2 (d) Provide the court with a written, sworn statement from the school or
+3 educational institution which he or she attends, of his or her class schedule,
+4 courses being undertaken, and the necessity for the person to use a motor
+5 vehicle in his or her travel to and from school or other educational institution
+6 if the license is sought for educational purposes. Licenses for educational
+7 purposes shall not include participation in sports, social, extracurricular,
+8 fraternal, or other noneducational activities;
+9 (e) Provide the court with a written, sworn statement from a physician, or other
+10 medical professional licensed but not certified under the laws of Kentucky,
+11 attesting to the person's normal hours of treatment, and the necessity to use a
+12 motor vehicle to travel to and from the treatment if the license is sought for
+13 medical purposes;
+14 (f) Provide the court with a written, sworn statement from the director of any
+15 alcohol or substance abuse education or treatment program as to the hours in
+16 which the person is expected to participate in the program, the nature of the
+17 program, and the necessity for the person to use a motor vehicle to travel to
+18 and from the program if the license is sought for alcohol or substance abuse
+19 education or treatment purposes;
+20 (g) Provide the court with a copy of any court order relating to treatment,
+21 participation in driver improvement programs, or other terms and conditions
+22 ordered by the court relating to the person which require him or her to use a
+23 motor vehicle in traveling to and from the court-ordered program. The judge
+24 shall include in the order the necessity for the use of the motor vehicle; and
+25 (h) Provide to the court any information as may be required by administrative
+26 regulation of the Transportation Cabinet.
+27 (3) The court shall not issue a hardship license to a person who has refused to take an
+Page 19 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 884
+1 alcohol concentration or substance test or tests offered by a law enforcement
+2 officer.
+3 Section 8. KRS 189A.340 is amended to read as follows:
+4 (1) (a) If a person's license is suspended pursuant to this chapter and the initial
+5 suspension was for a violation of KRS 189A.010(1)(a), (b), (e), or (f), the sole
+6 license the person shall be eligible for is an ignition interlock license pursuant
+7 to this section.
+8 (b) If a person's license is suspended pursuant to this chapter and the initial
+9 suspension was for a violation of KRS 189A.010(1)(c),[ or] (d), or (g), the
+10 person shall be eligible for an ignition interlock license pursuant to this
+11 section and may be eligible for a hardship license pursuant to KRS 189A.410.
+12 (2) (a) A person may apply for an ignition interlock license anytime, including after
+13 receiving the notices under KRS 189A.105 or after his or her license has been
+14 suspended pursuant to this chapter.
+15 (b) If at the time the person applies for an ignition interlock license, the person's
+16 license has been suspended pursuant to this chapter, the person shall be
+17 authorized to drive to:
+18 1. An ignition interlock device provider to have a functioning ignition
+19 interlock device installed in his or her motor vehicle or motorcycle; and
+20 2. The Transportation Cabinet to obtain an ignition interlock license;
+21 This paragraph shall only apply within fourteen (14) days of the date printed
+22 on the ignition interlock approval letter issued by the Transportation Cabinet
+23 and if the person has the ignition interlock approval letter in the motor vehicle
+24 or motorcycle.
+25 (3) Before the Transportation Cabinet shall issue an ignition interlock license, the
+26 person shall:
+27 (a) Submit an application for an ignition interlock license;
+Page 20 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 884
+1 (b) Provide proof of motor vehicle insurance;
+2 (c) Provide an ignition interlock certificate of installation issued by an ignition
+3 interlock device provider; and
+4 (d) Provide any other information required by administrative regulations
+5 promulgated by the Transportation Cabinet under KRS 189A.350.
+6 (4) An ignition interlock license shall restrict the person to operating only a motor
+7 vehicle or motorcycle equipped with a functioning ignition interlock device, unless
+8 the person qualifies for an employer exemption under subsection (6) of this section.
+9 This restriction shall remain in place for:
+10 (a) If a person's license was suspended pretrial pursuant to KRS 189A.200, the
+11 required suspension period under KRS 189A.200(6);
+12 (b) If a person's license was suspended pursuant to KRS 189A.070 or 189A.107:
+13 1. The required suspension period under KRS 189A.070(1); and
+14 2. a. If the maximum suspension period under KRS 189A.070(1)(a) has
+15 not yet been met, until the Transportation Cabinet has received a
+16 declaration from the person's ignition interlock device provider, in
+17 a form provided or approved by the cabinet, certifying that none of
+18 the violations outlined in subdivision b. of this subparagraph has
+19 occurred:
+20 i. For a first offense within a ten (10) year period of KRS
+21 189A.010(1)(a), (b), (c), (d),[ or] (e), or (g) or for any
+22 offense of KRS 189A.010(1)(f), in the ninety (90)
+23 consecutive days; and
+24 ii. For all subsequent offenses within a ten (10) year period of
+25 KRS 189A.010(1)(a), (b), (c), (d),[ or] (e), or (g), one
+26 hundred twenty (120) consecutive days;
+27 prior to the date of releasing the ignition interlock device
+Page 21 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 884
+1 restriction.
+2 b. If any of the following occur, it shall be a violation of the ninety
+3 (90) or one hundred twenty (120) consecutive day requirement:
+4 i. Failure to take any random breath alcohol concentration test
+5 unless a review of the digital image confirms that the motor
+6 vehicle or motorcycle was not occupied by a driver at the
+7 time of the missed test;
+8 ii. Failure to pass any random retest with a breath alcohol
+9 concentration of 0.02 or lower unless a subsequent test
+10 performed within ten (10) minutes registers a breath alcohol
+11 concentration lower than 0.02, and the digital image
+12 confirms the same person provided both samples;
+13 iii. Failure of the person, or his or her designee, to appear at the
+14 ignition interlock device provider when required for
+15 maintenance, repair, calibration, monitoring, inspection, or
+16 replacement of the device;
+17 iv. Failure of the person to pay fees established pursuant to
+18 subsection (7) of this section;
+19 v. Tampering with an installed ignition interlock device with
+20 the intent of rendering it defective; or
+21 vi. Altering, concealing, hiding, or attempting to alter, conceal,
+22 or hide, the person's identity from the ignition interlock
+23 device's camera while providing a breath sample;
+24 (c) If a person's license was suspended pursuant to KRS 189A.090, for the
+25 required suspension period under KRS 189A.090(2); or
+26 (d) If a person's license suspension was extended pursuant to KRS 189A.345, the
+27 required suspension period under KRS 189A.345(1).
+Page 22 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 884
+1 (5) (a) The time period a person:
+2 1. Holds a valid ignition interlock license pursuant to this section; or
+3 2. Receives alcohol or substance abuse treatment in an inpatient residential
+4 facility;
+5 shall apply on a day-for-day basis toward satisfying the suspension periods
+6 detailed in subsection (4) of this section.
+7 (b) Except as provided in paragraph (c) of this subsection, the Transportation
+8 Cabinet shall give the person a day-for-day credit for any time period the
+9 person:
+10 1. Held a valid ignition interlock license; or
+11 2. Received alcohol or substance abuse treatment in an inpatient residential
+12 facility.
+13 (c) A person shall not receive day-for-day credit for days the person utilized the
+14 employer exemption in accordance with subsection (6) of this section and
+15 drove an employer's motor vehicle or motorcycle not equipped with a
+16 functioning ignition interlock device.
+17 (6) (a) A person with an ignition interlock license may operate a motor vehicle or
+18 motorcycle not equipped with a functioning ignition interlock device if:
+19 1. The person is required to operate an employer's motor vehicle or
+20 motorcycle in the course and scope of employment; and
+21 2. The business entity that owns the motor vehicle or motorcycle is not
+22 owned or controlled by the person.
+23 (b) To qualify for the employer exemption, the person shall provide the
+24 Transportation Cabinet with a sworn statement from his or her employer
+25 stating that the person and business entity meet the requirements of paragraph
+26 (a) of this subsection.
+27 (7) (a) Except as provided in paragraph (c) of this subsection, an ignition interlock
+Page 23 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 884
+1 device provider may charge the following fees:
+2 1. An installation fee for an alternative fuel vehicle or a vehicle with a
+3 push button starter not to exceed one hundred thirty dollars ($130), an
+4 installation fee for all other vehicles not to exceed one hundred dollars
+5 ($100);
+6 2. A monthly fee not to exceed one hundred dollars ($100);
+7 3. A removal fee not to exceed thirty dollars ($30);
+8 4. A reset fee not to exceed fifty dollars ($50); or
+9 5. A missed appointment fee not to exceed thirty-five dollars ($35).
+10 (b) A person who is issued an ignition interlock license shall pay fees as
+11 established in his or her lease agreement with the ignition interlock device
+12 provider for any ignition interlock device installed in his or her motor vehicle
+13 or motorcycle. However, the fees shall never be more than allowed under
+14 paragraph (a) of this subsection and are subject to paragraph (c) of this
+15 subsection.
+16 (c) Any person who has an income:
+17 1. At or below two hundred percent (200%) but above one hundred fifty
+18 percent (150%) of the federal poverty guidelines, shall pay only
+19 seventy-five percent (75%) of fees established pursuant to paragraph (a)
+20 of this subsection;
+21 2. At or below one hundred fifty percent (150%) but above one hundred
+22 percent (100%) of the federal poverty guidelines, shall pay only fifty
+23 percent (50%) of fees established pursuant to paragraph (a) of this
+24 subsection; or
+25 3. At or below one hundred percent (100%) of the federal poverty
+26 guidelines, shall pay only twenty-five percent (25%) of fees established
+27 pursuant to paragraph (a) of this subsection;
+Page 24 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 884
+1 As used in this paragraph, "federal poverty guidelines" has the same meaning
+2 as in KRS 205.5621. The Transportation Cabinet shall determine the person's
+3 income and where that income places the person on the federal poverty
+4 guidelines.
+5 (d) Neither the Commonwealth, the Transportation Cabinet, nor any unit of state
+6 or local government shall be responsible for payment of any costs associated
+7 with an ignition interlock device.
+8 (8) For a person issued an ignition interlock license under this section who is residing
+9 outside of Kentucky, the Transportation Cabinet may accept an ignition interlock
+10 certificate of installation from an ignition interlock device provider authorized to do
+11 business in the state where the person resides if the ignition interlock device meets
+12 the requirements of that state.
+Page 25 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+[DELETED:   2  J A B S A ( " o ( " ( " i d o " m a d c b t T ( C b i f s a f c t o i a d b a ( H p ( " i C ( " c s l s o m i i d w t C ( " i t o d]
+[DELETED:   2  J ( " o ( A ( T t ( A ( " K ( " c m n o t p m ( " D m b e b w o b t a o r I t b t i f a r s a i b s a t a c c b m b t b t i t l e l r s ( W o S ( A t ( H a a c o 0 o m a m b a s t m]
+[DELETED:   2  J ( W ( W u t i o a o s o c o s ( W s t o ( W i ( H a a c o 0 o m a m b a s t m ( H a m c o 5 o m a m b a s w v ( W t e o t r o t t a p t K 1 ( I t s o p b o t i u t d t a c t w o m t t ( h a c t o t s b i a e i a p u s m b a i a p u s ( o ( o t s ( I]
+[DELETED:   2  J c o s t p ( ( I w t d i c w h o o b i p c c a o h o h b o b s g r t t f p 1 I t d o a c i K 1 i s b p 2 I t 0 b u t d o a c i K 1 e b t ( I i c o a m v w u t i o m t m o m a o h o h b s g r t t f p 1 I]
+[DELETED:   2  J d b p t t d w n u t i o m 2 I b t e m b c t w o c e i d  T o a o c e b u t q o w t d a ( ( E c u a s i a s n a d a a ( A e i a p u s ( o t s u a f p c H c s ( A o ( F]
+[DELETED:   2  J h d ( n m t f h d ( o b i t t t i o b I a o t a c l i s p c o a m v t m m t o i s b f ( d w t s n b s p c d o s t a o f o e r ( F t a m s s ( o t s a p t m m t o i p c d o s t a o f o e r ( F h b t s t ( m I a o t a c l i]
+[DELETED:   2  J s i p c d o s t a o f o e r ( F C ( o t s a p t m m t o i s r ( F t o t i o d a o a c o a a s s o w h a u a c o d w ( c ( A f ( p e i s ( o t s o a o p e p K ( I t p i u t a o t ( a t w a a c]
+[DELETED:   2  J K s ( F o c d o o f o e r F a f o s o t t c o c ( W t s ( I d t t ( y p u t s t p s b m c ( F t ( O s ( O ( O p ( O b t o b o b t w t ( h o c o o]
+[DELETED:   2  J ( R t s t a t o t o o b b o u r o ( o t s e i s n b c a a c ( O t ( T a ( A ( A ( A ( B ( B ( C ( C ( D ( H ( M ( M ( M ( O ( P ( P ( Z S ( A]
+[DELETED:   2  J ( s b s t p a s f o f h t d ( ( T 5 ( T i t K i ( T p ( s b t t t D o K S c o a c t i a t t o l ( T p ( s b a t t D o P A ( O t o t c a f o e w i c i t p o t ( S 1 F f 2 F p ( s b c t t C f H a F I]
+[DELETED:   2  J i w b i t m i l s s a t a c t p w w i s t c m p a r p t ( A t ( F o t c a f t s o j r t a e p a b t c a b t D o P ( T ( T p S ( ( 1 U p s a p l t o a m v o m u 2 U t m a F i F K d r w t f f ( m o t]
+[DELETED:   2  J i i F K 1 b d n m t n ( c o t i o t i i l u t p s i F b F i F K c d r w t f t ( m o t i o t i i l t i F K ( c d r w t f t ( u t p m t o h t ( c d r o e ( m w i F c F i F K c d r w t f e ( m o t i o t i i l]
+[DELETED:   2  J e i F K ( ( u t p m t o h t ( c d r o t ( m w i F d F i F K c d r w t f t ( m ( i F K ( m t d o i F e I p c i F]
+[DELETED:   2  J s i S b s a p i s b o t s i T s a i F l t f T e 1 3 U c o K 1 t T C s a a F 1 a w m t n ( c d r i b F 1 b d n m t n ( c d r i i l u t p m t n ( c d r o s ( m w i s c F]
+[DELETED:   2  J 4 F p o t p " ( c d r a " h t ( c d r m t r e i K 1 ( F a p u t a o e ( i a t t p s i K 1 t T C s s t p K o s ( I s o s a e o t p o p t K 1 ( U ( A p s s h o h l t o a m v o m t p a d c T c s t f t l t t T C T p h ( T c s i t t c r a o a o ( I d t t ( y p u t s t p s b]
+[DELETED:   2  J m c S ( N w v ( I 1 T i 2 T v ( H ( I a t t p o s i b K 1 a p ( F a f o w a t ( y p b g o a C B m a h h o h l s b t T C a 1 b t ( F m a h h o h l s b t T C o o i p c o a m v i v o K 1 b]
+[DELETED:   2  J T ( F C C o o i p c o a m v i v o K 1 b T ( A i 1 a f t e p o t n s i t p i a r ( T i S I c ( T 1 ( T m ( T 1 ( T K 1 o h h h o h m v o l s o o ( o m o f r t t a a c]
+[DELETED:   2  J h t o o p t c S ( A ( K ( K (  t s p i b t T C i t c f r c t b t r w h t p a t c h o h e c a s o a e i s e c p ( B ( P ( I e e a t n f t p t u t e m v e i h o h w a t d o t e d w h o i t t a f w i t l i s f e ( I t p i s t p t i r i]
+[DELETED:   2  J p ( P t c w a w s s f t s o e c b u a t n f t p t u a m v i t l i s f e p L f e p s n i p i s s e f ( P m a m m ( P a a w p a e ( P t c w a c o a c o r t t p o m s ( P c a b r ( T]
+[DELETED:   2  J a c o s t o t o b a l e o S ( ( I a p l i s p t t c a t i s l t ( I a p l i s p t t c a t i s p s b e f a i i l p t t s ( ( A r s ( I l h b s p t t c t p s b a 1 A i i d p t h a f i i 2 T  T o a o ( B t T C s i a i i l t p ( S]
+[DELETED:   2  J ( P ( P i ( P a o i r b a r p ( A i i l s r t p t o o a m v t T ( I r ( I 1 T 2 a I n d a t o i F a f o w a t ( y p o K 1 ( ( ( o ( o ( o f a o o K 1 i t n ( c i F K 1 ( ( ( o ( o ( o h  p t t d o r t i i d]
+[DELETED:   2  J r b I ( i F u v o w n o b a d t t i F t p a r r w a b a c o 0 o l u a s t p c l t 0 a t d i c i F i i d p w r f m r c m i o r i F o t p t p f e p t s v T w a i i i d w t v A o h t p i f t i i d ( I a p l w s p t K 1 f t r ( I r]
+[DELETED:   2  J ( ( T 1 H 2 R f  s d ( E a p i p ( o t s t T C s g t p a d c f a t p t p 1 H 2 R f ( A e e i a w s ( o t s a d a e m v o m n e w a f ( ( A m 1 T p i r t o a e m v o m 2 T e o ( T q f t e e t p s p t T C w a s s f h o h e s ( ( ( E]
+[DELETED:   2  J d 1 A i f f a a f v o a v w a p i ( 2 A 3 A 4 A 5 A ( A p w i i a i i l s p f a e p o m H t f s n b m t a u p ( o t s a a s t p ( o t s ( A 1 A p ( o t f p g s p o s o 2 A p f p ( o f e p t p ( o t s 3 A o b o h p ( o t f p g p]
+[DELETED:   2  J  A a i a w t i p t p o t f p g ( N o w ( F o c b t]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS BR 884
+1 AN ACT relating to driving under the influence of marijuana.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 189A.005 is amended to read as follows:
+4 As used in this chapter, unless the context requires otherwise:
+5 (1) "Alcohol concentration" means either grams of alcohol per 100 milliliters of blood
+6 or grams of alcohol per 210 liters of breath;
+7 (2) "Cabinet" means the Transportation Cabinet;
+8 (3) "Ignition interlock device" or "device" means a device, certified by the
+9 Transportation Cabinet for use in this Commonwealth under KRS 189A.350, that:
+10 (a) Connects a motor vehicle ignition system or motorcycle ignition system to a
+11 breath alcohol analyzer and prevents a motor vehicle ignition or motorcycle
+12 ignition from starting, and from continuing to operate, if a driver's breath
+13 alcohol concentration exceeds 0.02, as measured by the device; and
+14 (b) Has a fully functional camera that is equipped to record the date, time, and
+15 photo of all persons providing breath samples to the device;
+16 (4) "Ignition interlock certificate of installation" means a certificate providing that the
+17 installed ignition interlock device has been installed and is certified for use in the
+18 Commonwealth under KRS 189A.350;
+19 (5) "Ignition interlock device provider" or "provider" means any person or company
+20 certified by the Transportation Cabinet to engage in the business of manufacturing,
+21 selling, leasing, servicing, or monitoring ignition interlock devices within the
+22 Commonwealth;
+23 (6) "Ignition interlock license" means a motor vehicle or motorcycle operator's license
+24 issued or granted by the laws of the Commonwealth of Kentucky that, except for
+25 those with an employer exemption under KRS 189A.340, permits a person to drive
+26 only motor vehicles or motorcycles equipped with a functioning ignition interlock
+27 device;
+Page 1 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 884
+1 (7) "License" means any driver's or operator's license or any other license or permit to
+2 operate a motor vehicle issued under or granted by the laws of this state including:
+3 (a) Any temporary license or instruction permit;
+4 (b) The privilege of any person to obtain a valid license or instruction permit, or
+5 to drive a motor vehicle whether or not the person holds a valid license; and
+6 (c) Any nonresident's operating privilege as defined in KRS Chapter 186 or 189;
+7 (8) "Limited access highway" has the same meaning as "limited access facility" does in
+8 KRS 177.220;
+9 (9) "Marijuana concentration" means nanograms of tetrahydrocannabinol per
+10 milliliter of blood;
+11 (10) "Refusal" means declining to submit to any test or tests pursuant to KRS 189A.103.
+12 Declining may be either by word or by the act of refusal. If the breath testing
+13 instrument for any reason shows an insufficient breath sample and the alcohol
+14 concentration cannot be measured by the breath testing instrument, the law
+15 enforcement officer shall then request the defendant to take a blood or urine test in
+16 lieu of the breath test. If the defendant then declines either by word or by the act of
+17 refusal, he or she shall then be deemed to have refused if the refusal occurs at the
+18 site at which any alcohol concentration or substance test is to be administered; and
+19 (11)[(10)] When age is a factor, it shall mean age at the time of the commission of the
+20 offense.
+21 Section 2. KRS 189A.010 is amended to read as follows:
+22 (1) A person shall not operate or be in physical control of a motor vehicle anywhere in
+23 this state:
+24 (a) Having an alcohol concentration of 0.08 or more as measured by a
+25 scientifically reliable test or tests of a sample of the person's breath or blood
+26 taken within two (2) hours of cessation of operation or physical control of a
+27 motor vehicle;
+Page 2 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 884
+1 (b) While under the influence of alcohol;
+2 (c) While under the influence of any other substance or combination of
+3 substances which impairs one's driving ability;
+4 (d) While the presence of a controlled substance listed in subsection (12) of this
+5 section is detected in the blood, as measured by a scientifically reliable test, or
+6 tests, taken within two (2) hours of cessation of operation or physical control
+7 of a motor vehicle;
+8 (e) While under the combined influence of alcohol and any other substance which
+9 impairs one's driving ability; [or]
+10 (f) Having an alcohol concentration of 0.02 or more as measured by a
+11 scientifically reliable test or tests of a sample of the person's breath or blood
+12 taken within two (2) hours of cessation of operation or physical control of a
+13 motor vehicle, if the person is under the age of twenty-one (21); or
+14 (g) Having a marijuana concentration of 5 or more as measured by a
+15 scientifically reliable test or tests of a sample of the person's blood taken
+16 within two (2) hours of cessation of operation or physical control of a motor
+17 vehicle.
+18 (2) With the exception of the results of the tests administered pursuant to KRS
+19 189A.103(7):
+20 (a) If the sample of the person's blood or breath that is used to determine the
+21 alcohol concentration thereof was obtained more than two (2) hours after
+22 cessation of operation or physical control of a motor vehicle, the results of the
+23 test or tests shall be inadmissible as evidence in a prosecution under
+24 subsection (1)(a) or (f) of this section. The results of the test or tests, however,
+25 may be admissible in a prosecution under subsection (1)(b) or (e) of this
+26 section; or
+27 (b) If the sample of the person's blood that is used to determine the presence of a
+Page 3 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 884
+1 controlled substance was obtained more than two (2) hours after cessation of
+2 operation or physical control of a motor vehicle, the results of the test or tests
+3 shall be inadmissible as evidence in a prosecution under subsection (1)(d) of
+4 this section. The results of the test or tests, however, may be admissible in a
+5 prosecution under subsection (1)(c) or (e) of this section.
+6 (3) (a) In any prosecution for a violation of subsection (1)(b) or (e) of this section in
+7 which the defendant is charged with having operated or been in physical
+8 control of a motor vehicle while under the influence of alcohol, the alcohol
+9 concentration in the defendant's blood as determined at the time of making
+10 analysis of his or her blood or breath shall give rise to the following
+11 presumptions:
+12 1.[(a)] If there was an alcohol concentration of less than 0.04 based upon
+13 the definition of alcohol concentration in KRS 189A.005, it shall be
+14 presumed that the defendant was not under the influence of alcohol; and
+15 2.[(b)] If there was an alcohol concentration of 0.04 or greater but less
+16 than 0.08 based upon the definition of alcohol concentration in KRS
+17 189A.005, that fact shall not constitute a presumption that the defendant
+18 either was or was not under the influence of alcohol, but that fact may
+19 be considered, together with other competent evidence, in determining
+20 the guilt or innocence of the defendant.
+21 (b) In any prosecution for a violation of subsection (1)(c) or (e) of this section
+22 in which the defendant is charged with having operated or been in physical
+23 control of a motor vehicle while under the influence of marijuana, the
+24 marijuana concentration in the defendant's blood as determined at the time
+25 of making analysis of his or her blood shall give rise to the following
+26 presumptions:
+27 1. If there was a marijuana concentration of less than 4 based upon the
+Page 4 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 884
+1 definition of marijuana concentration in Section 1 of this Act, it shall
+2 be presumed that the defendant was not under the influence of
+3 marijuana; and
+4 2. If there was a marijuana concentration of 4 or greater but less than 5
+5 based upon the definition of marijuana concentration in Section 1 of
+6 this Act, that fact shall not constitute a presumption that the defendant
+7 either was or was not under the influence of marijuana, but that fact
+8 may be considered, together with other competent evidence, in
+9 determining the guilt or innocence of the defendant.
+10 The provisions of this subsection shall not be construed as limiting the introduction
+11 of any other competent evidence bearing upon the questions of whether the
+12 defendant was under the influence of alcohol, marijuana, or other substances, in
+13 any prosecution for a violation of subsection (1)(b),[ or] (e), or (g) of this section.
+14 (4) (a) Except as provided in paragraph (b) of this subsection, the fact that any person
+15 charged with violation of subsection (1) of this section is legally entitled to
+16 use any substance, including alcohol, shall not constitute a defense against
+17 any charge of violation of subsection (1) of this section.
+18 (b) A laboratory test or tests for a controlled substance shall be inadmissible as
+19 evidence in a prosecution under subsection (1)(d) of this section upon a
+20 finding by the court that the defendant consumed the substance under a valid
+21 prescription from a practitioner, as defined in KRS 218A.010, acting in the
+22 course of his or her professional practice. However, a laboratory test for a
+23 controlled substance may be admissible as evidence in a prosecution under
+24 subsection (1)(c) or (e) of this section.
+25 (5) Any person who violates the provisions of paragraph (a), (b), (c), (d),[ or] (e), or (g)
+26 of subsection (1) of this section shall:
+27 (a) For the first offense within a ten (10) year period, be fined not less than two
+Page 5 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 884
+1 hundred dollars ($200) nor more than five hundred dollars ($500), or be
+2 imprisoned in the county jail for not less than forty-eight (48) hours nor more
+3 than thirty (30) days, or both. Following sentencing, the defendant may apply
+4 to the judge for permission to enter a community labor program for not less
+5 than forty-eight (48) hours nor more than thirty (30) days in lieu of fine or
+6 imprisonment, or both. If any of the aggravating circumstances listed in
+7 subsection (11) of this section are present while the person was operating or in
+8 physical control of a motor vehicle, the mandatory minimum term of
+9 imprisonment shall be four (4) days, which term shall not be suspended,
+10 probated, conditionally discharged, or subject to any other form of early
+11 release;
+12 (b) For the second offense within a ten (10) year period, be fined not less than
+13 three hundred fifty dollars ($350) nor more than five hundred dollars ($500)
+14 and shall be imprisoned in the county jail for not less than seven (7) days nor
+15 more than six (6) months and, in addition to fine and imprisonment, may be
+16 sentenced to community labor for not less than ten (10) days nor more than
+17 six (6) months. If any of the aggravating circumstances listed in subsection
+18 (11) of this section are present, the mandatory minimum term of
+19 imprisonment shall be fourteen (14) days, which term shall not be suspended,
+20 probated, conditionally discharged, or subject to any other form of early
+21 release;
+22 (c) For a third offense within a ten (10) year period, be fined not less than five
+23 hundred dollars ($500) nor more than one thousand dollars ($1,000) and shall
+24 be imprisoned in the county jail for not less than thirty (30) days nor more
+25 than twelve (12) months and may, in addition to fine and imprisonment, be
+26 sentenced to community labor for not less than thirty (30) days nor more than
+27 twelve (12) months. If any of the aggravating circumstances listed in
+Page 6 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 884
+1 subsection (11) of this section are present, the mandatory minimum term of
+2 imprisonment shall be sixty (60) days, which term shall not be suspended,
+3 probated, conditionally discharged, or subject to any other form of early
+4 release;
+5 (d) For a fourth or subsequent offense within a ten (10) year period, be guilty of a
+6 Class D felony. If any of the aggravating circumstances listed in subsection
+7 (11) of this section are present, the mandatory minimum term of
+8 imprisonment shall be two hundred forty (240) days, which term shall not be
+9 suspended, probated, conditionally discharged, or subject to any other form of
+10 release; and
+11 (e) For purposes of this subsection, prior offenses shall include all convictions in
+12 this state, and any other state or jurisdiction, for operating or being in control
+13 of a motor vehicle while under the influence of alcohol or other substances
+14 that impair one's driving ability, or any combination of alcohol and such
+15 substances, or while having an unlawful alcohol concentration, or driving
+16 while intoxicated, but shall not include convictions for violating subsection
+17 (1)(f) of this section. A court shall receive as proof of a prior conviction a
+18 copy of that conviction, certified by the court ordering the conviction.
+19 (6) Any person who violates the provisions of subsection (1)(f) of this section shall be
+20 fined no less than one hundred dollars ($100) and no more than five hundred dollars
+21 ($500), or sentenced to twenty (20) hours of community service in lieu of a fine. A
+22 person subject to the penalties of this subsection shall not be subject to the penalties
+23 established in subsection (5) of this section or any other penalty established
+24 pursuant to KRS Chapter 189A, except those established in KRS 189A.040(1) and
+25 KRS 189A.070.
+26 (7) If the person is under the age of twenty-one (21) and there was an alcohol
+27 concentration of 0.08 or greater based on the definition of alcohol concentration in
+Page 7 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 884
+1 KRS 189A.005, the person shall be subject to the penalties established pursuant to
+2 subsection (5) of this section.
+3 (8) For a second or third offense within a ten (10) year period, the minimum sentence
+4 of imprisonment or community labor shall not be suspended, probated, or subject to
+5 conditional discharge or other form of early release. For a fourth or subsequent
+6 offense under this section, the minimum term of imprisonment shall be one hundred
+7 twenty (120) days, and this term shall not be suspended, probated, or subject to
+8 conditional discharge or other form of early release. For a second or subsequent
+9 offense, at least forty-eight (48) hours of the mandatory sentence shall be served
+10 consecutively.
+11 (9) When sentencing persons under subsection (5)(a) of this section, at least one (1) of
+12 the penalties shall be assessed and that penalty shall not be suspended, probated, or
+13 subject to conditional discharge or other form of early release.
+14 (10) In determining the ten (10) year period under this section, the period shall be
+15 measured from the dates on which the offenses occurred for which the judgments of
+16 conviction were entered.
+17 (11) For purposes of this section, aggravating circumstances are any one (1) or more of
+18 the following:
+19 (a) Operating a motor vehicle in excess of thirty (30) miles per hour above the
+20 speed limit;
+21 (b) Operating a motor vehicle in the wrong direction on a limited access highway;
+22 (c) Operating a motor vehicle that causes an accident resulting in death or serious
+23 physical injury as defined in KRS 500.080;
+24 (d) Operating a motor vehicle while the alcohol concentration in the operator's
+25 blood or breath is 0.15 or more as measured by a test or tests of a sample of
+26 the operator's blood or breath taken within two (2) hours of cessation of
+27 operation of the motor vehicle;
+Page 8 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 884
+1 (e) Refusing to submit to any test or tests of one's blood, breath, or urine
+2 requested by an officer having reasonable grounds to believe the person was
+3 operating or in physical control of a motor vehicle in violation of subsection
+4 (1) of this section, except it shall not be considered an aggravating
+5 circumstance for a first offense under subsection (5)(a) of this section; and
+6 (f) Operating a motor vehicle that is transporting a passenger under the age of
+7 twelve (12) years old.
+8 (12) The substances applicable to a prosecution under subsection (1)(d) of this section
+9 are:
+10 (a) Any Schedule I controlled substance except marijuana;
+11 (b) Alprazolam;
+12 (c) Amphetamine;
+13 (d) Buprenorphine;
+14 (e) Butalbital;
+15 (f) Carisoprodol;
+16 (g) Cocaine;
+17 (h) Diazepam;
+18 (i) Hydrocodone;
+19 (j) Meprobamate;
+20 (k) Methadone;
+21 (l) Methamphetamine;
+22 (m) Oxycodone;
+23 (n) Promethazine;
+24 (o) Propoxyphene; and
+25 (p) Zolpidem.
+26 Section 3. KRS 189A.050 is amended to read as follows:
+27 (1) All persons convicted of violation of KRS 189A.010(1)(a), (b), (c), (d),[ or] (e), or
+Page 9 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 884
+1 (g) shall be sentenced to pay a service fee of four hundred twenty-five dollars
+2 ($425), which shall be in addition to all other penalties authorized by law.
+3 (2) The fee shall be imposed in all cases but shall be subject to the provisions of KRS
+4 534.020 and KRS 534.060.
+5 (3) The first fifty dollars ($50) of each service fee imposed by this section shall be paid
+6 into the general fund, the second fifty dollars ($50) of each service fee imposed by
+7 this section shall be paid to the ignition interlock administration fund established in
+8 KRS 189A.380, and the remainder of the revenue collected from the service fee
+9 imposed by this section shall be utilized as follows:
+10 (a) Twelve percent (12%) shall be transferred to the Department of Kentucky
+11 State Police forensic laboratory for the acquisition, maintenance, testing, and
+12 calibration of alcohol concentration testing instruments and the training of
+13 laboratory personnel to perform these tasks;
+14 (b) Twenty percent (20%) shall be allocated to the Department of Public
+15 Advocacy;
+16 (c) One percent (1%) shall be transferred to the Prosecutors Advisory Council for
+17 training of prosecutors for the prosecution of persons charged with violations
+18 of this chapter and for obtaining expert witnesses in cases involving the
+19 prosecution of persons charged with violations of this chapter or any other
+20 offense in which driving under the influence is a factor in the commission of
+21 the offense charged;
+22 (d) Sixteen percent (16%) shall be transferred as follows:
+23 1. Fifty percent (50%) shall be credited to the traumatic brain injury trust
+24 fund established under KRS 211.476; and
+25 2. Fifty percent (50%) shall be credited to the Cabinet for Health and
+26 Family Services, Department for Behavioral Health, Developmental and
+27 Intellectual Disabilities, for the purposes of providing direct services to
+Page 10 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 884
+1 individuals with brain injuries that may include long-term supportive
+2 services and training and consultation to professionals working with
+3 individuals with brain injuries. As funding becomes available under this
+4 subparagraph, the cabinet may promulgate administrative regulations
+5 pursuant to KRS Chapter 13A to implement the services permitted by
+6 this subparagraph;
+7 (e) Any amount specified by a specific statute shall be transferred as provided in
+8 that statute;
+9 (f) Forty-six percent (46%) shall be transferred to be utilized to fund enforcement
+10 of this chapter and for the support of jails, recordkeeping, treatment, and
+11 educational programs authorized by this chapter and by the Department of
+12 Public Advocacy; and
+13 (g) The remainder shall be transferred to the general fund.
+14 (4) The amounts specified in subsection (3)(a), (b), (c), and (d) of this section shall be
+15 placed in trust and agency accounts that shall not lapse.
+16 Section 4. KRS 189A.070 is amended to read as follows:
+17 (1) (a) 1. Unless the person is under eighteen (18) years of age, in addition to the
+18 penalties specified in KRS 189A.010, the Transportation Cabinet shall
+19 suspend a person's license to operate a motor vehicle or motorcycle
+20 upon conviction of KRS 189A.010(1).
+21 2. Upon conviction of KRS 189A.010(1)(a), (b), (c), (d),[ or] (e), or (g),
+22 the Transportation Cabinet shall suspend a person's license to operate a
+23 motor vehicle or motorcycle as follows:
+24 a. For the first offense within a ten (10) year period:
+25 i. For a person who is issued an ignition interlock license under
+26 KRS 189A.340 and who meets the ninety (90) consecutive
+27 day requirement within the first four (4) months of the
+Page 11 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 884
+1 issuance of the ignition interlock license, four (4) months;
+2 ii. For a person who is issued an ignition interlock license under
+3 KRS 189A.340 but does not meet the ninety (90)
+4 consecutive day requirement within the first four (4) months
+5 of the issuance of the ignition interlock license, until the
+6 person meets the ninety (90) consecutive day requirement or
+7 six (6) months, whichever is shorter; or
+8 iii. For all others, six (6) months;
+9 b. For the second offense within a ten (10) year period:
+10 i. For a person who is issued an ignition interlock license under
+11 KRS 189A.340 and who meets the one hundred twenty (120)
+12 consecutive day requirement within the first twelve (12)
+13 months of the issuance of the ignition interlock license,
+14 twelve (12) months;
+15 ii. For a person who is issued an ignition interlock license under
+16 KRS 189A.340 but does not meet the one hundred twenty
+17 (120) consecutive day requirement within the first twelve
+18 (12) months of the issuance of the ignition interlock license,
+19 until the person meets the one hundred twenty (120)
+20 consecutive day requirement or eighteen (18) months,
+21 whichever is shorter; or
+22 iii. For all others, eighteen (18) months;
+23 c. For a third offense within a ten (10) year period:
+24 i. For a person who is issued an ignition interlock license under
+25 KRS 189A.340 and who meets the one hundred twenty (120)
+26 consecutive day requirement within the first eighteen (18)
+27 months of the issuance of the ignition interlock license,
+Page 12 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 884
+1 eighteen (18) months;
+2 ii. For a person who is issued an ignition interlock license under
+3 KRS 189A.340 but does not meet the one hundred twenty
+4 (120) consecutive day requirement within the first eighteen
+5 (18) months of the issuance of the ignition interlock license,
+6 until the person meets the one hundred twenty (120)
+7 consecutive day requirement or thirty-six (36) months,
+8 whichever is shorter; or
+9 iii. For all others, thirty-six (36) months;
+10 d. For a fourth or subsequent offense within a ten (10) year period:
+11 i. For a person who is issued an ignition interlock license under
+12 KRS 189A.340 and who meets the one hundred twenty (120)
+13 consecutive day requirement within the first thirty (30)
+14 months of the issuance of the ignition interlock license, thirty
+15 (30) months;
+16 ii. For a person who is issued an ignition interlock license under
+17 KRS 189A.340 but does not meet the one hundred twenty
+18 (120) consecutive day requirement within the first thirty (30)
+19 months of the issuance of the ignition interlock license, until
+20 the person meets the one hundred twenty (120) consecutive
+21 day requirement or sixty (60) months, whichever is shorter;
+22 or
+23 iii. For all others, sixty (60) months;
+24 e. If the conviction records transmitted to the Transportation Cabinet
+25 pursuant to subsection (3) of this section show that a person was
+26 convicted of a:
+27 i. First offense of KRS 189A.010, the person's license shall be
+Page 13 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 884
+1 suspended as provided in subdivision a. of this subparagraph;
+2 ii. Second offense of KRS 189A.010, the person's license shall
+3 be suspended as provided in subdivision b. of this
+4 subparagraph;
+5 iii. Third offense of KRS 189A.010, the person's license shall be
+6 suspended as provided in subdivision c. of this subparagraph;
+7 and
+8 iv. Fourth or subsequent offense of KRS 189A.010, the person's
+9 license shall be suspended as provided in subdivision d. of
+10 this subparagraph; and
+11 f. The license suspension shall be deemed effective on the date of
+12 entry of the court's order or judgement for a conviction of KRS
+13 189A.010.
+14 3. Upon conviction of KRS 189A.010(1)(f), the Transportation Cabinet
+15 shall suspend a person's license to operate a motor vehicle or motorcycle
+16 as follows:
+17 a. For a person who is issued an ignition interlock license under KRS
+18 189A.340 and who meets the ninety (90) consecutive day
+19 requirement within the first four (4) months of the issuance of the
+20 ignition interlock license, four (4) months;
+21 b. For a person who is issued an ignition interlock license under KRS
+22 189A.340 but does not meet the ninety (90) consecutive day
+23 requirement within the first four (4) months of the issuance of the
+24 ignition interlock license, until the person meets the ninety (90)
+25 consecutive day requirement or six (6) months, whichever is
+26 shorter; or
+27 c. For all others, six (6) months.
+Page 14 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 884
+1 4. For purposes of this paragraph, "ninety (90) consecutive day
+2 requirement" and "one hundred twenty (120) consecutive day
+3 requirement" mean the requirements established in KRS
+4 189A.340(4)(b)2.
+5 (b) For a person under the age of eighteen (18), in addition to the penalties
+6 specified in KRS 189A.010, the Transportation Cabinet shall suspend the
+7 person's license to operate a motor vehicle or motorcycle upon conviction of
+8 KRS 189A.010(1). The person shall have his or her license suspended until he
+9 or she reaches the age of eighteen (18) or as provided in paragraph (a) of this
+10 subsection, whichever penalty will result in the longer period of suspension.
+11 (2) In addition to the period of license suspension set forth in subsection (1) of this
+12 section, no person shall be eligible for reinstatement of his or her full privilege to
+13 operate a motor vehicle or motorcycle until he or she has completed the alcohol or
+14 substance abuse education or treatment program ordered pursuant to KRS
+15 189A.040.
+16 (3) Upon conviction of KRS 189A.010(1):
+17 (a) A person shall surrender his or her license to operate a motor vehicle or
+18 motorcycle to the court. Should the person fail to surrender his or her license
+19 to the court, the court shall issue an order directing the sheriff or any other
+20 peace officer to seize the license forthwith and deliver it to the court. The
+21 court shall then forward the license to the Transportation Cabinet. This
+22 paragraph shall not apply to a person who has previously surrendered his or
+23 her license pursuant to KRS 189A.200; and
+24 (b) The court shall immediately transmit the conviction records and other
+25 appropriate information to the Transportation Cabinet. A court shall not waive
+26 or stay this procedure.
+27 (4) In determining the ten (10) year period under this section, the period shall be
+Page 15 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 884
+1 measured from the dates on which the offenses occurred for which the judgments of
+2 conviction were entered.
+3 Section 5. KRS 189A.090 is amended to read as follows:
+4 (1) No person shall operate or be in physical control of a motor vehicle or motorcycle
+5 while his or her license is suspended under this chapter, unless the person has a
+6 valid:
+7 (a) Ignition interlock license in the person's possession and:
+8 1. The motor vehicle or motorcycle is equipped with a functioning ignition
+9 interlock device; or
+10 2. The person is operating or in physical control of an employer's motor
+11 vehicle or motorcycle in accordance with KRS 189A.340(6); or
+12 (b) Hardship license in the person's possession.
+13 (2) In addition to the period of license suspension imposed by KRS 189A.070, any
+14 person who violates subsection (1) of this section shall:
+15 (a) For a first offense within a ten (10) year period, be guilty of a Class B
+16 misdemeanor and have his or her license suspended by the Transportation
+17 Cabinet for six (6) months, unless at the time of the offense the person was
+18 also operating or in physical control of a motor vehicle in violation of KRS
+19 189A.010(1)(a), (b), (c), (d),[ or] (e), or (g), in which event the person shall
+20 be guilty of a Class A misdemeanor and have his or her license suspended by
+21 the Transportation Cabinet for a period of one (1) year;
+22 (b) For a second offense within a ten (10) year period, be guilty of a Class A
+23 misdemeanor and have his or her license suspended by the Transportation
+24 Cabinet for one (1) year, unless at the time of the offense the person was also
+25 operating or in physical control of a motor vehicle in violation of KRS
+26 189A.010(1)(a), (b), (c), (d),[ or] (e), or (g), in which event the person shall
+27 be guilty of a Class D felony and have his or her license suspended by the
+Page 16 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 884
+1 Transportation Cabinet for a period of two (2) years; and
+2 (c) For a third or subsequent offense within a ten (10) year period, be guilty of a
+3 Class D felony and have his or her license suspended by the Transportation
+4 Cabinet for two (2) years, unless at the time of the offense the person was also
+5 operating or in physical control of a motor vehicle in violation of KRS
+6 189A.010(1)(a), (b), (c), (d),[ or] (e), or (g), in which event the person shall
+7 be guilty of a Class D felony and have his or her license suspended by the
+8 Transportation Cabinet for a period of five (5) years.
+9 (3) Any person who violates subsection (1) of this section may apply for an ignition
+10 interlock license for the remainder of the original period of suspension under KRS
+11 189A.070 and for the entire period of the new suspension if the person is and
+12 remains otherwise eligible for such license pursuant to KRS 189A.340.
+13 (4) The ten (10) year period under this section shall be measured in the same manner as
+14 in KRS 189A.070.
+15 Section 6. KRS 189A.240 is amended to read as follows:
+16 In any judicial review of a pretrial suspension imposed under KRS 189A.200(1)(b), if the
+17 court determines by a preponderance of the evidence that:
+18 (1) The person was charged and arrested by a peace officer with a violation of KRS
+19 189A.010(1)(a), (b), (c), (d),[ or] (e), or (g);
+20 (2) The peace officer had reasonable grounds to believe that the person was operating a
+21 motor vehicle in violation of KRS 189A.010(1)(a), (b), (c), (d),[ or] (e), or (g);
+22 (3) There is probable cause to believe that the person committed the violation of KRS
+23 189A.010(1)(a), (b), (c), (d),[ or] (e), or (g) as charged; and
+24 (4) The person has been convicted of one (1) or more prior offenses as described in
+25 KRS 189A.010(5)(e) or has had his or her motor vehicle operator's license
+26 suspended on one (1) or more occasions for refusing to take an alcohol
+27 concentration or substance test, in the ten (10) year period immediately preceding
+Page 17 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 884
+1 his or her arrest;
+2 then the court shall continue to suspend the person's operator's license or privilege to
+3 operate a motor vehicle, but in no event for a period longer than the license suspension
+4 period applicable to the person under KRS 189A.070 and 189A.107. The provisions of
+5 this section shall not be construed as limiting the person's ability to challenge any prior
+6 convictions or license suspensions or refusals.
+7 Section 7. KRS 189A.410 is amended to read as follows:
+8 (1) At any time during the suspension periods enumerated in:
+9 (a) KRS 189A.070 for violation of KRS 189A.010(1)(c),[ or] (d), or (g); or
+10 (b) KRS 189A.090 relating to a violation of KRS 189A.010(1) (c),[ or] (d), or
+11 (g);
+12 the court may grant the person hardship driving privileges for the balance of the
+13 suspension period imposed by the Transportation Cabinet, if the court finds
+14 reasonable cause to believe that revocation would hinder the person's ability to
+15 continue his or her employment; continue attending school or an educational
+16 institution; obtain necessary medical care; attend driver improvement, alcohol, or
+17 substance abuse education programs; or attend court-ordered counseling or other
+18 programs.
+19 (2) Before granting hardship driving privileges, the court shall order the person to:
+20 (a) Provide the court with proof of motor vehicle insurance;
+21 (b) If necessary, provide the court with a written, sworn statement from his or her
+22 employer, on a form provided by the cabinet, detailing his or her job, hours of
+23 employment, and the necessity for the person to use the employer's motor
+24 vehicle either in his or her work at the direction of the employer during
+25 working hours, or in travel to and from work if the license is sought for
+26 employment purposes; and
+27 (c) If the person is self-employed, to provide the information required in
+Page 18 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 884
+1 paragraph (b) of this subsection together with a sworn statement as to its truth;
+2 (d) Provide the court with a written, sworn statement from the school or
+3 educational institution which he or she attends, of his or her class schedule,
+4 courses being undertaken, and the necessity for the person to use a motor
+5 vehicle in his or her travel to and from school or other educational institution
+6 if the license is sought for educational purposes. Licenses for educational
+7 purposes shall not include participation in sports, social, extracurricular,
+8 fraternal, or other noneducational activities;
+9 (e) Provide the court with a written, sworn statement from a physician, or other
+10 medical professional licensed but not certified under the laws of Kentucky,
+11 attesting to the person's normal hours of treatment, and the necessity to use a
+12 motor vehicle to travel to and from the treatment if the license is sought for
+13 medical purposes;
+14 (f) Provide the court with a written, sworn statement from the director of any
+15 alcohol or substance abuse education or treatment program as to the hours in
+16 which the person is expected to participate in the program, the nature of the
+17 program, and the necessity for the person to use a motor vehicle to travel to
+18 and from the program if the license is sought for alcohol or substance abuse
+19 education or treatment purposes;
+20 (g) Provide the court with a copy of any court order relating to treatment,
+21 participation in driver improvement programs, or other terms and conditions
+22 ordered by the court relating to the person which require him or her to use a
+23 motor vehicle in traveling to and from the court-ordered program. The judge
+24 shall include in the order the necessity for the use of the motor vehicle; and
+25 (h) Provide to the court any information as may be required by administrative
+26 regulation of the Transportation Cabinet.
+27 (3) The court shall not issue a hardship license to a person who has refused to take an
+Page 19 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 884
+1 alcohol concentration or substance test or tests offered by a law enforcement
+2 officer.
+3 Section 8. KRS 189A.340 is amended to read as follows:
+4 (1) (a) If a person's license is suspended pursuant to this chapter and the initial
+5 suspension was for a violation of KRS 189A.010(1)(a), (b), (e), or (f), the sole
+6 license the person shall be eligible for is an ignition interlock license pursuant
+7 to this section.
+8 (b) If a person's license is suspended pursuant to this chapter and the initial
+9 suspension was for a violation of KRS 189A.010(1)(c),[ or] (d), or (g), the
+10 person shall be eligible for an ignition interlock license pursuant to this
+11 section and may be eligible for a hardship license pursuant to KRS 189A.410.
+12 (2) (a) A person may apply for an ignition interlock license anytime, including after
+13 receiving the notices under KRS 189A.105 or after his or her license has been
+14 suspended pursuant to this chapter.
+15 (b) If at the time the person applies for an ignition interlock license, the person's
+16 license has been suspended pursuant to this chapter, the person shall be
+17 authorized to drive to:
+18 1. An ignition interlock device provider to have a functioning ignition
+19 interlock device installed in his or her motor vehicle or motorcycle; and
+20 2. The Transportation Cabinet to obtain an ignition interlock license;
+21 This paragraph shall only apply within fourteen (14) days of the date printed
+22 on the ignition interlock approval letter issued by the Transportation Cabinet
+23 and if the person has the ignition interlock approval letter in the motor vehicle
+24 or motorcycle.
+25 (3) Before the Transportation Cabinet shall issue an ignition interlock license, the
+26 person shall:
+27 (a) Submit an application for an ignition interlock license;
+Page 20 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 884
+1 (b) Provide proof of motor vehicle insurance;
+2 (c) Provide an ignition interlock certificate of installation issued by an ignition
+3 interlock device provider; and
+4 (d) Provide any other information required by administrative regulations
+5 promulgated by the Transportation Cabinet under KRS 189A.350.
+6 (4) An ignition interlock license shall restrict the person to operating only a motor
+7 vehicle or motorcycle equipped with a functioning ignition interlock device, unless
+8 the person qualifies for an employer exemption under subsection (6) of this section.
+9 This restriction shall remain in place for:
+10 (a) If a person's license was suspended pretrial pursuant to KRS 189A.200, the
+11 required suspension period under KRS 189A.200(6);
+12 (b) If a person's license was suspended pursuant to KRS 189A.070 or 189A.107:
+13 1. The required suspension period under KRS 189A.070(1); and
+14 2. a. If the maximum suspension period under KRS 189A.070(1)(a) has
+15 not yet been met, until the Transportation Cabinet has received a
+16 declaration from the person's ignition interlock device provider, in
+17 a form provided or approved by the cabinet, certifying that none of
+18 the violations outlined in subdivision b. of this subparagraph has
+19 occurred:
+20 i. For a first offense within a ten (10) year period of KRS
+21 189A.010(1)(a), (b), (c), (d),[ or] (e), or (g) or for any
+22 offense of KRS 189A.010(1)(f), in the ninety (90)
+23 consecutive days; and
+24 ii. For all subsequent offenses within a ten (10) year period of
+25 KRS 189A.010(1)(a), (b), (c), (d),[ or] (e), or (g), one
+26 hundred twenty (120) consecutive days;
+27 prior to the date of releasing the ignition interlock device
+Page 21 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 884
+1 restriction.
+2 b. If any of the following occur, it shall be a violation of the ninety
+3 (90) or one hundred twenty (120) consecutive day requirement:
+4 i. Failure to take any random breath alcohol concentration test
+5 unless a review of the digital image confirms that the motor
+6 vehicle or motorcycle was not occupied by a driver at the
+7 time of the missed test;
+8 ii. Failure to pass any random retest with a breath alcohol
+9 concentration of 0.02 or lower unless a subsequent test
+10 performed within ten (10) minutes registers a breath alcohol
+11 concentration lower than 0.02, and the digital image
+12 confirms the same person provided both samples;
+13 iii. Failure of the person, or his or her designee, to appear at the
+14 ignition interlock device provider when required for
+15 maintenance, repair, calibration, monitoring, inspection, or
+16 replacement of the device;
+17 iv. Failure of the person to pay fees established pursuant to
+18 subsection (7) of this section;
+19 v. Tampering with an installed ignition interlock device with
+20 the intent of rendering it defective; or
+21 vi. Altering, concealing, hiding, or attempting to alter, conceal,
+22 or hide, the person's identity from the ignition interlock
+23 device's camera while providing a breath sample;
+24 (c) If a person's license was suspended pursuant to KRS 189A.090, for the
+25 required suspension period under KRS 189A.090(2); or
+26 (d) If a person's license suspension was extended pursuant to KRS 189A.345, the
+27 required suspension period under KRS 189A.345(1).
+Page 22 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 884
+1 (5) (a) The time period a person:
+2 1. Holds a valid ignition interlock license pursuant to this section; or
+3 2. Receives alcohol or substance abuse treatment in an inpatient residential
+4 facility;
+5 shall apply on a day-for-day basis toward satisfying the suspension periods
+6 detailed in subsection (4) of this section.
+7 (b) Except as provided in paragraph (c) of this subsection, the Transportation
+8 Cabinet shall give the person a day-for-day credit for any time period the
+9 person:
+10 1. Held a valid ignition interlock license; or
+11 2. Received alcohol or substance abuse treatment in an inpatient residential
+12 facility.
+13 (c) A person shall not receive day-for-day credit for days the person utilized the
+14 employer exemption in accordance with subsection (6) of this section and
+15 drove an employer's motor vehicle or motorcycle not equipped with a
+16 functioning ignition interlock device.
+17 (6) (a) A person with an ignition interlock license may operate a motor vehicle or
+18 motorcycle not equipped with a functioning ignition interlock device if:
+19 1. The person is required to operate an employer's motor vehicle or
+20 motorcycle in the course and scope of employment; and
+21 2. The business entity that owns the motor vehicle or motorcycle is not
+22 owned or controlled by the person.
+23 (b) To qualify for the employer exemption, the person shall provide the
+24 Transportation Cabinet with a sworn statement from his or her employer
+25 stating that the person and business entity meet the requirements of paragraph
+26 (a) of this subsection.
+27 (7) (a) Except as provided in paragraph (c) of this subsection, an ignition interlock
+Page 23 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 884
+1 device provider may charge the following fees:
+2 1. An installation fee for an alternative fuel vehicle or a vehicle with a
+3 push button starter not to exceed one hundred thirty dollars ($130), an
+4 installation fee for all other vehicles not to exceed one hundred dollars
+5 ($100);
+6 2. A monthly fee not to exceed one hundred dollars ($100);
+7 3. A removal fee not to exceed thirty dollars ($30);
+8 4. A reset fee not to exceed fifty dollars ($50); or
+9 5. A missed appointment fee not to exceed thirty-five dollars ($35).
+10 (b) A person who is issued an ignition interlock license shall pay fees as
+11 established in his or her lease agreement with the ignition interlock device
+12 provider for any ignition interlock device installed in his or her motor vehicle
+13 or motorcycle. However, the fees shall never be more than allowed under
+14 paragraph (a) of this subsection and are subject to paragraph (c) of this
+15 subsection.
+16 (c) Any person who has an income:
+17 1. At or below two hundred percent (200%) but above one hundred fifty
+18 percent (150%) of the federal poverty guidelines, shall pay only
+19 seventy-five percent (75%) of fees established pursuant to paragraph (a)
+20 of this subsection;
+21 2. At or below one hundred fifty percent (150%) but above one hundred
+22 percent (100%) of the federal poverty guidelines, shall pay only fifty
+23 percent (50%) of fees established pursuant to paragraph (a) of this
+24 subsection; or
+25 3. At or below one hundred percent (100%) of the federal poverty
+26 guidelines, shall pay only twenty-five percent (25%) of fees established
+27 pursuant to paragraph (a) of this subsection;
+Page 24 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 884
+1 As used in this paragraph, "federal poverty guidelines" has the same meaning
+2 as in KRS 205.5621. The Transportation Cabinet shall determine the person's
+3 income and where that income places the person on the federal poverty
+4 guidelines.
+5 (d) Neither the Commonwealth, the Transportation Cabinet, nor any unit of state
+6 or local government shall be responsible for payment of any costs associated
+7 with an ignition interlock device.
+8 (8) For a person issued an ignition interlock license under this section who is residing
+9 outside of Kentucky, the Transportation Cabinet may accept an ignition interlock
+10 certificate of installation from an ignition interlock device provider authorized to do
+11 business in the state where the person resides if the ignition interlock device meets
+12 the requirements of that state.
+Page 25 of 25
+XXXX 12/13/2024 4:22 PM Jacketed
+
+[DELETED:   2  J A B S A ( " o ( " ( " i d o " m a d c b t T ( C b i f s a f c t o i a d b a ( H p ( " i C ( " c s l s o m i i d w t C ( " i t o d]
+[DELETED:   2  J ( " o ( A ( T t ( A ( " K ( " c m n o t p m ( " D m b e b w o b t a o r I t b t i f a r s a i b s a t a c c b m b t b t i t l e l r s ( W o S ( A t ( H a a c o 0 o m a m b a s t m]
+[DELETED:   2  J ( W ( W u t i o a o s o c o s ( W s t o ( W i ( H a a c o 0 o m a m b a s t m ( H a m c o 5 o m a m b a s w v ( W t e o t r o t t a p t K 1 ( I t s o p b o t i u t d t a c t w o m t t ( h a c t o t s b i a e i a p u s m b a i a p u s ( o ( o t s ( I]
+[DELETED:   2  J c o s t p ( ( I w t d i c w h o o b i p c c a o h o h b o b s g r t t f p 1 I t d o a c i K 1 i s b p 2 I t 0 b u t d o a c i K 1 e b t ( I i c o a m v w u t i o m t m o m a o h o h b s g r t t f p 1 I]
+[DELETED:   2  J d b p t t d w n u t i o m 2 I b t e m b c t w o c e i d  T o a o c e b u t q o w t d a ( ( E c u a s i a s n a d a a ( A e i a p u s ( o t s u a f p c H c s ( A o ( F]
+[DELETED:   2  J h d ( n m t f h d ( o b i t t t i o b I a o t a c l i s p c o a m v t m m t o i s b f ( d w t s n b s p c d o s t a o f o e r ( F t a m s s ( o t s a p t m m t o i p c d o s t a o f o e r ( F h b t s t ( m I a o t a c l i]
+[DELETED:   2  J s i p c d o s t a o f o e r ( F C ( o t s a p t m m t o i s r ( F t o t i o d a o a c o a a s s o w h a u a c o d w ( c ( A f ( p e i s ( o t s o a o p e p K ( I t p i u t a o t ( a t w a a c]
+[DELETED:   2  J K s ( F o c d o o f o e r F a f o s o t t c o c ( W t s ( I d t t ( y p u t s t p s b m c ( F t ( O s ( O ( O p ( O b t o b o b t w t ( h o c o o]
+[DELETED:   2  J ( R t s t a t o t o o b b o u r o ( o t s e i s n b c a a c ( O t ( T a ( A ( A ( A ( B ( B ( C ( C ( D ( H ( M ( M ( M ( O ( P ( P ( Z S ( A]
+[DELETED:   2  J ( s b s t p a s f o f h t d ( ( T 5 ( T i t K i ( T p ( s b t t t D o K S c o a c t i a t t o l ( T p ( s b a t t D o P A ( O t o t c a f o e w i c i t p o t ( S 1 F f 2 F p ( s b c t t C f H a F I]
+[DELETED:   2  J i w b i t m i l s s a t a c t p w w i s t c m p a r p t ( A t ( F o t c a f t s o j r t a e p a b t c a b t D o P ( T ( T p S ( ( 1 U p s a p l t o a m v o m u 2 U t m a F i F K d r w t f f ( m o t]
+[DELETED:   2  J i i F K 1 b d n m t n ( c o t i o t i i l u t p s i F b F i F K c d r w t f t ( m o t i o t i i l t i F K ( c d r w t f t ( u t p m t o h t ( c d r o e ( m w i F c F i F K c d r w t f e ( m o t i o t i i l]
+[DELETED:   2  J e i F K ( ( u t p m t o h t ( c d r o t ( m w i F d F i F K c d r w t f t ( m ( i F K ( m t d o i F e I p c i F]
+[DELETED:   2  J s i S b s a p i s b o t s i T s a i F l t f T e 1 3 U c o K 1 t T C s a a F 1 a w m t n ( c d r i b F 1 b d n m t n ( c d r i i l u t p m t n ( c d r o s ( m w i s c F]
+[DELETED:   2  J 4 F p o t p " ( c d r a " h t ( c d r m t r e i K 1 ( F a p u t a o e ( i a t t p s i K 1 t T C s s t p K o s ( I s o s a e o t p o p t K 1 ( U ( A p s s h o h l t o a m v o m t p a d c T c s t f t l t t T C T p h ( T c s i t t c r a o a o ( I d t t ( y p u t s t p s b]
+[DELETED:   2  J m c S ( N w v ( I 1 T i 2 T v ( H ( I a t t p o s i b K 1 a p ( F a f o w a t ( y p b g o a C B m a h h o h l s b t T C a 1 b t ( F m a h h o h l s b t T C o o i p c o a m v i v o K 1 b]
+[DELETED:   2  J T ( F C C o o i p c o a m v i v o K 1 b T ( A i 1 a f t e p o t n s i t p i a r ( T i S I c ( T 1 ( T m ( T 1 ( T K 1 o h h h o h m v o l s o o ( o m o f r t t a a c]
+[DELETED:   2  J h t o o p t c S ( A ( K ( K (  t s p i b t T C i t c f r c t b t r w h t p a t c h o h e c a s o a e i s e c p ( B ( P ( I e e a t n f t p t u t e m v e i h o h w a t d o t e d w h o i t t a f w i t l i s f e ( I t p i s t p t i r i]
+[DELETED:   2  J p ( P t c w a w s s f t s o e c b u a t n f t p t u a m v i t l i s f e p L f e p s n i p i s s e f ( P m a m m ( P a a w p a e ( P t c w a c o a c o r t t p o m s ( P c a b r ( T]
+[DELETED:   2  J a c o s t o t o b a l e o S ( ( I a p l i s p t t c a t i s l t ( I a p l i s p t t c a t i s p s b e f a i i l p t t s ( ( A r s ( I l h b s p t t c t p s b a 1 A i i d p t h a f i i 2 T  T o a o ( B t T C s i a i i l t p ( S]
+[DELETED:   2  J ( P ( P i ( P a o i r b a r p ( A i i l s r t p t o o a m v t T ( I r ( I 1 T 2 a I n d a t o i F a f o w a t ( y p o K 1 ( ( ( o ( o ( o f a o o K 1 i t n ( c i F K 1 ( ( ( o ( o ( o h  p t t d o r t i i d]
+[DELETED:   2  J r b I ( i F u v o w n o b a d t t i F t p a r r w a b a c o 0 o l u a s t p c l t 0 a t d i c i F i i d p w r f m r c m i o r i F o t p t p f e p t s v T w a i i i d w t v A o h t p i f t i i d ( I a p l w s p t K 1 f t r ( I r]
+[DELETED:   2  J ( ( T 1 H 2 R f  s d ( E a p i p ( o t s t T C s g t p a d c f a t p t p 1 H 2 R f ( A e e i a w s ( o t s a d a e m v o m n e w a f ( ( A m 1 T p i r t o a e m v o m 2 T e o ( T q f t e e t p s p t T C w a s s f h o h e s ( ( ( E]
+[DELETED:   2  J d 1 A i f f a a f v o a v w a p i ( 2 A 3 A 4 A 5 A ( A p w i i a i i l s p f a e p o m H t f s n b m t a u p ( o t s a a s t p ( o t s ( A 1 A p ( o t f p g s p o s o 2 A p f p ( o f e p t p ( o t s 3 A o b o h p ( o t f p g p]
+[DELETED:   2  J  A a i a w t i p t p o t f p g ( N o w ( F o c b t]

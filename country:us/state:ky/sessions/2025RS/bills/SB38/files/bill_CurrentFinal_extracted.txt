@@ -1,0 +1,691 @@
+Title: 1 AN ACT relating to school bus safety.
+Official Title: 1 AN ACT relating to school bus safety.
+Number of Sections: 1
+Source: versions - Current/Final
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS SB 38/GA
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF KRS CHAPTER 158 IS CREATED TO
+4 READ AS FOLLOWS:
+5 (1) As used in this section:
+6 (a) "Camera monitoring system" means a system with one (1) or more camera
+7 sensors or computers installed and operated on a school bus, which:
+8 1. Produce recorded images; and
+9 2. Record the activation status of the stop arm and the time, date, and
+10 location of the school bus when the recorded images are captured;
+11 (b) "Recorded images" means two (2) or more photographic images or a
+12 segment of any video medium recorded by a camera monitoring system
+13 which show on at least one (1) image or portion of video the registration
+14 plate number of a motor vehicle being operated in violation of Section 3 of
+15 this Act;
+16 (c) "School district" means a county school district as described in KRS
+17 160.010 or an independent school district as described in KRS 160.020; and
+18 (d) "Stop arm camera violation" means a violation of Section 3 of this Act that
+19 is recorded by a camera monitoring system.
+20 (2) A school district may install and maintain a camera monitoring system on any
+21 school bus operated by the school district for the enforcement of Section 3 of this
+22 Act.
+23 (3) A school district may contract with a private vendor or manufacturer to install,
+24 operate, and maintain camera monitoring systems on school buses operated by
+25 the school district.
+26 (4) A school bus with a camera monitoring system installed and maintained in
+27 accordance with this section shall display a warning sign notifying the public of
+Page 1 of 11
+SB003810.100 - 298 - XXXX 3/5/2025 3:05 PM GA
+UNOFFICIAL COPY 25 RS SB 38/GA
+1 the camera monitoring system.
+2 (5) Recorded images and other records related to a specific stop arm camera
+3 violation are private information and shall only be accessible to authorized
+4 personnel for the purpose of enforcing stop arm camera violations, traffic
+5 violations, and any other incidents captured by the camera monitoring system in
+6 the course of normal operation that could result in civil or criminal liability.
+7 (6) A recorded image produced by a camera monitoring system shall be destroyed no
+8 later than thirty-one (31) days from the date the recorded image is captured if the
+9 recorded image does not result in a stop arm camera violation under Section 3 of
+10 this Act.
+11 Section 2. KRS 189.990 is amended to read as follows:
+12 (1) Any person who violates any of the provisions of KRS 189.020 to 189.040,
+13 subsection (1) or (4) of KRS 189.050, KRS 189.060 to 189.080, subsections (1) to
+14 (3) of KRS 189.090, KRS 189.100, 189.110, 189.130 to 189.160, subsections (2) to
+15 (4) of KRS 189.190, KRS 189.200, 189.285, subsection (1) or (2) of KRS 189.290,
+16 189.300 to 189.360, KRS 189.380, KRS 189.400 to 189.430, KRS 189.450 to
+17 189.458, KRS 189.4595 to 189.480, subsection (1) of KRS 189.520, KRS 189.540,
+18 KRS 189.570 to 189.590, except subsection (1)(b) or (6)(b) of KRS 189.580, KRS
+19 189.345, subsection (6) of KRS 189.456, and 189.960 shall be fined not less than
+20 twenty dollars ($20) nor more than one hundred dollars ($100) for each offense.
+21 Any person who violates subsection (1)(a) of KRS 189.580 shall be fined not less
+22 than twenty dollars ($20) nor more than two thousand dollars ($2,000) or
+23 imprisoned in the county jail for not more than one (1) year, or both, unless the
+24 accident involved death or serious physical injury and the person knew or should
+25 have known of the death or serious physical injury, in which case the person shall
+26 be guilty of a Class D felony. Any person who violates paragraph (c) of subsection
+27 (5) of KRS 189.390 shall be fined not less than eleven dollars ($11) nor more than
+Page 2 of 11
+SB003810.100 - 298 - XXXX 3/5/2025 3:05 PM GA
+UNOFFICIAL COPY 25 RS SB 38/GA
+1 thirty dollars ($30). Neither court costs nor fees shall be taxed against any person
+2 violating paragraph (c) of subsection (5) of KRS 189.390.
+3 (2) (a) 1. Except as provided in subparagraph 2. of this paragraph, any person
+4 who violates the weight provisions of KRS 189.212, 189.221, 189.222,
+5 189.226, 189.230, 189.270, or 189.2713 shall be fined two cents ($0.02)
+6 per pound for each pound of excess load when the excess is five
+7 thousand (5,000) pounds or less. When the excess exceeds five thousand
+8 (5,000) pounds the fine shall be two cents ($0.02) per pound for each
+9 pound of excess load, but the fine levied shall not be less than one
+10 hundred dollars ($100) and shall not be more than five hundred dollars
+11 ($500).
+12 2. Any person who violates a posted bridge weight limit on a state-
+13 maintained bridge that is more than seventy-five (75) years old shall be
+14 fined:
+15 a. Five hundred dollars ($500) for the first offense;
+16 b. One thousand dollars ($1,000) for the second offense within a one
+17 (1) year period; and
+18 c. Two thousand dollars ($2,000) for any subsequent offense within a
+19 one (1) year period.
+20 The Transportation Cabinet shall erect signs warning drivers of the
+21 increased fines in this subparagraph. Signs erected under this
+22 subparagraph shall be placed in such a manner that drivers are given
+23 adequate warning in order to exit the road prior to crossing the bridge. If
+24 warning signs are not erected in accordance with this subparagraph, the
+25 fines in this subparagraph shall not apply and violators shall be fined
+26 under subparagraph 1. of this paragraph.
+27 (b) Any person who violates the provisions of KRS 189.271 and is operating on a
+Page 3 of 11
+SB003810.100 - 298 - XXXX 3/5/2025 3:05 PM GA
+UNOFFICIAL COPY 25 RS SB 38/GA
+1 route designated on the permit shall be fined one hundred dollars ($100);
+2 otherwise, the penalties in paragraph (a) of this subsection shall apply.
+3 (c) Any person who violates any provision of subsection (2) or (3) of KRS
+4 189.050, subsection (4) of KRS 189.090, KRS 189.221 to 189.230, 189.270,
+5 189.2713, 189.280, or the dimension provisions of KRS 189.212, for which
+6 another penalty is not specifically provided shall be fined not less than ten
+7 dollars ($10) nor more than five hundred dollars ($500).
+8 (d) 1. Any person who violates the provisions of KRS 177.985 while operating
+9 on a route designated in KRS 177.986 shall be fined one hundred dollars
+10 ($100).
+11 2. Any person who operates a vehicle with a permit under KRS 177.985 in
+12 excess of eighty thousand (80,000) pounds while operating on a route
+13 not designated in KRS 177.986 shall be fined one thousand dollars
+14 ($1,000).
+15 (e) Nothing in this subsection or in KRS 189.221 to 189.228 shall be deemed to
+16 prejudice or affect the authority of the Department of Vehicle Regulation to
+17 suspend or revoke certificates of common carriers, permits of contract
+18 carriers, or drivers' or chauffeurs' licenses, for any violation of KRS 189.221
+19 to 189.228 or any other act applicable to motor vehicles, as provided by law.
+20 (3) (a) Any person who violates subsection (1) of KRS 189.190 shall be fined not
+21 more than fifteen dollars ($15).
+22 (b) Any person who violates subsection (5) of KRS 189.190 shall be fined not
+23 less than thirty-five dollars ($35) nor more than two hundred dollars ($200).
+24 (4) (a) Any person who violates subsection (1) of KRS 189.210 shall be fined not
+25 less than twenty-five dollars ($25) nor more than one hundred dollars ($100).
+26 (b) Any peace officer who fails, when properly informed, to enforce KRS
+27 189.210 shall be fined not less than twenty-five dollars ($25) nor more than
+Page 4 of 11
+SB003810.100 - 298 - XXXX 3/5/2025 3:05 PM GA
+UNOFFICIAL COPY 25 RS SB 38/GA
+1 one hundred dollars ($100).
+2 (c) All fines collected under this subsection, after payment of commissions to
+3 officers entitled thereto, shall go to the county road fund if the offense is
+4 committed in the county, or to the city street fund if committed in the city.
+5 (5) Any person who violates KRS 189.370 shall for the first offense be fined not less
+6 than five[one] hundred dollars ($500)[($100)] nor more than one thousand[two
+7 hundred] dollars ($1,000)[($200)] or imprisoned not less than thirty (30) days nor
+8 more than sixty (60) days, or both. For each subsequent offense occurring within
+9 three (3) years, the person shall be fined not less than one thousand[three hundred]
+10 dollars ($1,000)[($300)] nor more than one thousand five hundred dollars
+11 ($1,500)[($500)] or imprisoned not less than sixty (60) days nor more than six (6)
+12 months, or both. The first three hundred dollars ($300) of each fine assessed
+13 under this subsection shall be transferred to the school district in the county
+14 where the offense occurred, for the express purpose of purchasing and
+15 maintaining camera monitoring systems on school buses operated by the school
+16 district. The minimum fine for this violation shall not be subject to suspension. A
+17 minimum of six (6) points shall be assessed against the driving record of any person
+18 convicted.
+19 (6) Any person who violates KRS 189.500 shall be fined not more than fifteen dollars
+20 ($15) in excess of the cost of the repair of the road.
+21 (7) Any person who violates KRS 189.510 or KRS 189.515 shall be fined not less than
+22 twenty dollars ($20) nor more than fifty dollars ($50).
+23 (8) Any peace officer who violates subsection (2) of KRS 189.520 shall be fined not
+24 less than thirty-five dollars ($35) nor more than one hundred dollars ($100).
+25 (9) (a) Any person who violates KRS 189.530(1) shall be fined not less than thirty-
+26 five dollars ($35) nor more than one hundred dollars ($100), or imprisoned
+27 not less than thirty (30) days nor more than twelve (12) months, or both.
+Page 5 of 11
+SB003810.100 - 298 - XXXX 3/5/2025 3:05 PM GA
+UNOFFICIAL COPY 25 RS SB 38/GA
+1 (b) Any person who violates KRS 189.530(2) shall be fined not less than thirty-
+2 five dollars ($35) nor more than one hundred dollars ($100).
+3 (10) Any person who violates any of the provisions of KRS 189.550 shall be guilty of a
+4 Class B misdemeanor.
+5 (11) Any person who violates subsection (3) of KRS 189.560 shall be fined not less than
+6 thirty dollars ($30) nor more than one hundred dollars ($100) for each offense.
+7 (12) The fines imposed by paragraph (a) of subsection (3) and subsections (6) and (7) of
+8 this section shall, in the case of a public highway, be paid into the county road fund,
+9 and, in the case of a privately owned road or bridge, be paid to the owner. These
+10 fines shall not bar an action for damages for breach of contract.
+11 (13) Any person who violates any of the provisions of KRS 189.120 shall be fined not
+12 less than twenty dollars ($20) nor more than one hundred dollars ($100) for each
+13 offense.
+14 (14) Any person who violates any provision of KRS 189.575 shall be fined not less than
+15 twenty dollars ($20) nor more than twenty-five dollars ($25).
+16 (15) Any person who violates subsection (2) of KRS 189.231 shall be fined not less than
+17 twenty dollars ($20) nor more than one hundred dollars ($100) for each offense.
+18 (16) Any person who violates restrictions or regulations established by the secretary of
+19 transportation pursuant to subsection (3) of KRS 189.231 shall, upon first offense,
+20 be fined one hundred dollars ($100) and, upon subsequent convictions, be fined not
+21 less than one hundred dollars ($100) nor more than five hundred dollars ($500) or
+22 imprisoned for thirty (30) days, or both.
+23 (17) (a) Any person who violates any of the provisions of KRS 189.565 shall be guilty
+24 of a Class B misdemeanor.
+25 (b) In addition to the penalties prescribed in paragraph (a) of this subsection, in
+26 case of violation by any person in whose name the vehicle used in the
+27 transportation of inflammable liquids or explosives is licensed, the person
+Page 6 of 11
+SB003810.100 - 298 - XXXX 3/5/2025 3:05 PM GA
+UNOFFICIAL COPY 25 RS SB 38/GA
+1 shall be fined not less than one hundred dollars ($100) nor more than five
+2 hundred dollars ($500). Each violation shall constitute a separate offense.
+3 (18) Any person who abandons a vehicle upon the right-of-way of a state highway for
+4 three (3) consecutive days shall be fined not less than thirty-five dollars ($35) nor
+5 more than one hundred dollars ($100), or imprisoned for not less than ten (10) days
+6 nor more than thirty (30) days.
+7 (19) Every person violating KRS 189.393 shall be guilty of a Class B misdemeanor,
+8 unless the offense is being committed by a defendant fleeing the commission of a
+9 felony offense which the defendant was also charged with violating and was
+10 subsequently convicted of that felony, in which case it is a Class A misdemeanor.
+11 (20) Any law enforcement agency which fails or refuses to forward the reports required
+12 by KRS 189.635 shall be subject to the penalties prescribed in KRS 17.157.
+13 (21) A person who operates a bicycle in violation of the administrative regulations
+14 promulgated pursuant to KRS 189.287 shall be fined not less than ten dollars ($10)
+15 nor more than one hundred dollars ($100).
+16 (22) Any person who violates KRS 189.860 shall be fined not more than five hundred
+17 dollars ($500) or imprisoned for not more than six (6) months, or both.
+18 (23) Any person who violates KRS 189.754 shall be fined not less than twenty-five
+19 dollars ($25) nor more than three hundred dollars ($300).
+20 (24) Any person who violates the provisions of KRS 189.125(3)(a) shall be fined fifty
+21 dollars ($50). This fine shall be subject to prepayment. A fine imposed under this
+22 subsection shall not be subject to court costs pursuant to KRS 24A.175, additional
+23 court costs pursuant to KRS 24A.176, the fee imposed pursuant to KRS 24A.1765,
+24 or any other additional fees or costs.
+25 (25) Any person who violates the provisions of KRS 189.125(3)(b) shall [not be issued a
+26 uniform citation, but shall instead receive a courtesy warning up until July 1, 2009.
+27 For a violation on or after July 1, 2009, the person shall ]be fined thirty dollars
+Page 7 of 11
+SB003810.100 - 298 - XXXX 3/5/2025 3:05 PM GA
+UNOFFICIAL COPY 25 RS SB 38/GA
+1 ($30). This fine shall be subject to prepayment. A fine imposed under this
+2 subsection shall not be subject to court costs pursuant to KRS 24A.175, additional
+3 court costs pursuant to KRS 24A.176, a fee imposed pursuant to KRS 24A.1765, or
+4 any other additional fees or costs. A person who has not been previously charged
+5 with a violation of KRS 189.125(3)(b) may elect to acquire a booster seat meeting
+6 the requirements of KRS 189.125. Upon presentation of sufficient proof of the
+7 acquisition, the charge shall be dismissed and no fees or costs shall be imposed.
+8 (26) Any person who violates the provisions of KRS 189.125(6) shall be fined an
+9 amount not to exceed twenty-five dollars ($25). This fine shall be subject to
+10 prepayment. A fine imposed under this subsection shall not be subject to court costs
+11 pursuant to KRS 24A.175, additional court costs pursuant to KRS 24A.176, the fee
+12 imposed pursuant to KRS 24A.1765, or any other additional fees or costs.
+13 (27) Fines levied pursuant to this chapter shall be assessed in the manner required by
+14 KRS 534.020, in amounts consistent with this chapter. Nonpayment of fines shall
+15 be governed by KRS 534.020 and 534.060.
+16 (28) A licensed driver under the age of eighteen (18) charged with a moving violation
+17 pursuant to this chapter as the driver of a motor vehicle may be referred, prior to
+18 trial, by the court to a diversionary program. The diversionary program under this
+19 subsection shall consist of one (1) or both of the following:
+20 (a) Execution of a diversion agreement which prohibits the driver from operating
+21 a vehicle for a period not to exceed forty-five (45) days and which allows the
+22 court to retain the driver's operator's license during this period; and
+23 (b) Attendance at a driver improvement clinic established pursuant to KRS
+24 186.574. If the person completes the terms of this diversionary program
+25 satisfactorily the violation shall be dismissed.
+26 (29) A person who violates the provisions of subsection (2) or (3) of KRS 189.459 shall
+27 be fined two hundred fifty dollars ($250). The fines and costs for a violation of
+Page 8 of 11
+SB003810.100 - 298 - XXXX 3/5/2025 3:05 PM GA
+UNOFFICIAL COPY 25 RS SB 38/GA
+1 subsection (2) or (3) of KRS 189.459 shall be collected and disposed of in
+2 accordance with KRS 24A.180. Once deposited into the State Treasury, ninety
+3 percent (90%) of the fine collected under this subsection shall immediately be
+4 forwarded to the personal care assistance program under KRS 205.900 to 205.920.
+5 Ten percent (10%) of the fine collected under this subsection shall annually be
+6 returned to the county where the violation occurred and distributed equally to all
+7 law enforcement agencies within the county.
+8 (30) Any person who violates KRS 189.292 or 189.294 shall be fined twenty-five dollars
+9 ($25) for the first offense and fifty dollars ($50) for each subsequent offense.
+10 (31) Any person who violates KRS 189.281(5) or (7)(b) shall be subject to a fine of two
+11 hundred fifty dollars ($250). This fine shall be subject to prepayment. A fine
+12 imposed under this subsection shall not be subject to court costs pursuant to KRS
+13 24A.175, additional costs pursuant to KRS 24A.176, the fee imposed pursuant to
+14 KRS 24A.1765, or any other additional fees or costs.
+15 (32) Any person who violates subsection (3) or (4) of KRS 189.290 and causes physical
+16 injury to a person shall be fined five hundred dollars ($500).
+17 Section 3. KRS 189.370 is amended to read as follows:
+18 (1) If any school or church bus used in the transportation of children is stopped upon a
+19 highway for the purpose of receiving or discharging passengers, with the stop arm
+20 and signal lights activated, the operator of a vehicle approaching from any direction
+21 shall bring the[his] vehicle to a stop and shall not proceed until the bus has
+22 completed receiving or discharging passengers and has been put into motion. The
+23 stop requirement provided for in this section shall not apply to vehicles approaching
+24 a stopped bus from the opposite direction upon a highway of four (4) or more lanes
+25 divided by an elevated barrier or unpaved median.
+26 (2) [Subsection (1) of ]This section shall be applicable only when the bus displays the
+27 markings and equipment required by Kentucky minimum specifications for school
+Page 9 of 11
+SB003810.100 - 298 - XXXX 3/5/2025 3:05 PM GA
+UNOFFICIAL COPY 25 RS SB 38/GA
+1 buses.
+2 (3) If any vehicle is witnessed to be in violation of[ subsection (1) of] this section and
+3 the identity of the operator is not otherwise apparent, it shall be a rebuttable
+4 presumption that the person in whose name the vehicle is registered or leased was
+5 the operator of the vehicle at the time of the alleged violation and is subject to the
+6 penalties as provided for in KRS 189.990(5).
+7 Section 4. KRS 186.763 is amended to read as follows:
+8 (1) Subject to the limitations in subsection (2) of this section, a person may operate a
+9 fully autonomous vehicle on the highways of this state without a human driver
+10 provided that the automated driving system is engaged and the vehicle meets the
+11 following conditions:
+12 (a) If a failure of the automated driving system occurs that renders that system
+13 unable to perform the entire dynamic driving task relevant to its intended
+14 operational design domain, the fully autonomous vehicle will achieve a
+15 minimal risk condition;
+16 (b) The fully autonomous vehicle is capable of operating in compliance with the
+17 applicable traffic and motor vehicle safety laws and regulations of this state
+18 when reasonable to do so, unless an exemption has been granted by the
+19 Transportation Cabinet; and
+20 (c) When required by federal law, the vehicle bears the required manufacturer's
+21 certification label indicating that at the time of its manufacture it has been
+22 certified to be in compliance with all applicable federal motor vehicle safety
+23 standards, including any exemptions granted by the National Highway Traffic
+24 Safety Administration.
+25 (2) From July 15, 2024, until July 31, 2026, a fully autonomous vehicle for which the
+26 declared gross weight of the vehicle and any towed unit is more than sixty-two
+27 thousand (62,000) pounds shall have a human driver, with the appropriate
+Page 10 of 11
+SB003810.100 - 298 - XXXX 3/5/2025 3:05 PM GA
+UNOFFICIAL COPY 25 RS SB 38/GA
+1 credentials to operate the vehicle, present in the vehicle to monitor the performance
+2 of the vehicle and intervene if necessary.
+3 (3) Prior to operating a fully autonomous vehicle on the highways of this state without
+4 a human driver, a person shall submit a law enforcement interaction plan to the
+5 Transportation Cabinet and the Department of Kentucky State Police that describes:
+6 (a) How to communicate with a fleet support specialist who is available during
+7 the times the vehicle is in operation;
+8 (b) How to safely remove the fully autonomous vehicle from the roadway and
+9 steps to safely tow the vehicle;
+10 (c) How to recognize whether the automated driving system is engaged on the
+11 fully autonomous vehicle; and
+12 (d) Any additional information the manufacturer or owner deems necessary
+13 regarding hazardous conditions or public safety risks associated with the
+14 operation of the fully autonomous vehicle.
+15 (4) A school district shall not:
+16 (a) Operate a fully autonomous vehicle as a school bus as defined in KRS
+17 156.153; or
+18 (b) Use any fully autonomous vehicle to transport students for any purpose.
+19 Section 5. Sections 1 to 3 of this Act take effect January 1, 2026.
+Page 11 of 11
+SB003810.100 - 298 - XXXX 3/5/2025 3:05 PM GA
+[DELETED:   2  G A B S R ( A ( " s 1 P 2 R l ( " i m t ( o m p i o a s o a v m r b a c m s w p t ( " d m a c s d a d i K 1 ( " i ( A s A ( A o t ( A s b w a c m s i a m i a]
+[DELETED:   2  G t ( R i a o r r t a s s a c v a p i a s o b a t a p f t p o e s a c v t v t ( A l r t S ( A p w v a o t p o K 1 t 1 s ( ( 1 t 1 K 1 K 1 t 1 K 1 t 1 K 1 t A t t d ( n m t t t d ( o i a h b (]
+[DELETED:   2  G t v ( ( 1 E a p i s 2 o t p a p w 1 p p f e p o e l w t e i f t ( p o e l b t f l s n b l t o h ( 2 A p w v a p b w l o a s m f a F b O ( c T o  T T C s e s w d o t i f i t s S e u t s a a w f u ( A]
+[DELETED:   2  G r d o t p s b f o h d ( o ( A p w v a p o s ( o ( o K 1 1 a d ( 1 A o ( 2 A e n d i K 1 s b f o t d ( ( N p s o r c o c c p o c c t ( ( A m ( A l ( ( A l ( A p o w f w p i t e K 1]
+[DELETED:   2  G o ( A f c u t s a p o c t o e t s g t t c r f i t o i c ( A t f h d ( n m t o t h m t d ( n m t o t f h d ( m o b T f t h d ( o e f a u t s s b t t t s d i t c w t o o f t e p o p a m d m c ( A ( ( A t ( A l ( ( A f n]
+[DELETED:   2  G ( A f ( A C ( A t ( T t a f ( A l o ( A t ( A t ( A t b l i ( ( A o ( I c o v b a p i w n t v u i t t o i l o e i l t p]
+[DELETED:   2  G s h ( A t m n ( E v K 1 s b g o C m u f o w t d w a c w v a w s ( A b ( A p w o a b i v o t a r p n ( A d ( A p w v K 1 s b f n l t t d ( A d s c o ( A u F]
+[DELETED:   2  G ( T f s b s t p A f i u t s c a w t r o K 1 U p o s p o t a ( A p w v t p o K 1 s b f a a n t e t d ( T f s b s t p p i ( F K b ( A p t s ( E a c ( A a a d i c e p t K 1 I t p c t t o t d p s ( A b]
+[DELETED:   2  G s ( o ( o K 1 s b c a d o i a w K 2 O d i t S T n p ( o t f c u t s s i b f T p ( o t f c u t s s a b r l ( A ( ( A h f d ( T f s b s t p A f i 2 K ( A i S ( I h a s b t v t a s a s n p u t b h c s a d ( [ m]
+[DELETED:   2  G b ( I t i o t o i n o a i s b a r p t p S ( S f a v o t h o t s w a h d p f ( I u t p t e d d t r t i i o d d t f a v w a a m ( T a w r t d s u a e h b g b t T ( W c c s S ( F d g w o v a a t u i m t s t ( p s h a h d w t a]
+[DELETED:   2  G c o ( P a T ( H t ( H s ( H f ( A a i t m o o d n r h c o p s r a w t o ( A ( O a f a v a a s b a d i K 1 ( U S]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS SB 38/GA
+1 AN ACT relating to school bus safety.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF KRS CHAPTER 158 IS CREATED TO
+4 READ AS FOLLOWS:
+5 (1) As used in this section:
+6 (a) "Camera monitoring system" means a system with one (1) or more camera
+7 sensors or computers installed and operated on a school bus, which:
+8 1. Produce recorded images; and
+9 2. Record the activation status of the stop arm and the time, date, and
+10 location of the school bus when the recorded images are captured;
+11 (b) "Recorded images" means two (2) or more photographic images or a
+12 segment of any video medium recorded by a camera monitoring system
+13 which show on at least one (1) image or portion of video the registration
+14 plate number of a motor vehicle being operated in violation of Section 3 of
+15 this Act;
+16 (c) "School district" means a county school district as described in KRS
+17 160.010 or an independent school district as described in KRS 160.020; and
+18 (d) "Stop arm camera violation" means a violation of Section 3 of this Act that
+19 is recorded by a camera monitoring system.
+20 (2) A school district may install and maintain a camera monitoring system on any
+21 school bus operated by the school district for the enforcement of Section 3 of this
+22 Act.
+23 (3) A school district may contract with a private vendor or manufacturer to install,
+24 operate, and maintain camera monitoring systems on school buses operated by
+25 the school district.
+26 (4) A school bus with a camera monitoring system installed and maintained in
+27 accordance with this section shall display a warning sign notifying the public of
+Page 1 of 11
+SB003810.100 - 298 - XXXX 3/5/2025 3:05 PM GA
+
+UNOFFICIAL COPY 25 RS SB 38/GA
+1 the camera monitoring system.
+2 (5) Recorded images and other records related to a specific stop arm camera
+3 violation are private information and shall only be accessible to authorized
+4 personnel for the purpose of enforcing stop arm camera violations, traffic
+5 violations, and any other incidents captured by the camera monitoring system in
+6 the course of normal operation that could result in civil or criminal liability.
+7 (6) A recorded image produced by a camera monitoring system shall be destroyed no
+8 later than thirty-one (31) days from the date the recorded image is captured if the
+9 recorded image does not result in a stop arm camera violation under Section 3 of
+10 this Act.
+11 Section 2. KRS 189.990 is amended to read as follows:
+12 (1) Any person who violates any of the provisions of KRS 189.020 to 189.040,
+13 subsection (1) or (4) of KRS 189.050, KRS 189.060 to 189.080, subsections (1) to
+14 (3) of KRS 189.090, KRS 189.100, 189.110, 189.130 to 189.160, subsections (2) to
+15 (4) of KRS 189.190, KRS 189.200, 189.285, subsection (1) or (2) of KRS 189.290,
+16 189.300 to 189.360, KRS 189.380, KRS 189.400 to 189.430, KRS 189.450 to
+17 189.458, KRS 189.4595 to 189.480, subsection (1) of KRS 189.520, KRS 189.540,
+18 KRS 189.570 to 189.590, except subsection (1)(b) or (6)(b) of KRS 189.580, KRS
+19 189.345, subsection (6) of KRS 189.456, and 189.960 shall be fined not less than
+20 twenty dollars ($20) nor more than one hundred dollars ($100) for each offense.
+21 Any person who violates subsection (1)(a) of KRS 189.580 shall be fined not less
+22 than twenty dollars ($20) nor more than two thousand dollars ($2,000) or
+23 imprisoned in the county jail for not more than one (1) year, or both, unless the
+24 accident involved death or serious physical injury and the person knew or should
+25 have known of the death or serious physical injury, in which case the person shall
+26 be guilty of a Class D felony. Any person who violates paragraph (c) of subsection
+27 (5) of KRS 189.390 shall be fined not less than eleven dollars ($11) nor more than
+Page 2 of 11
+SB003810.100 - 298 - XXXX 3/5/2025 3:05 PM GA
+
+UNOFFICIAL COPY 25 RS SB 38/GA
+1 thirty dollars ($30). Neither court costs nor fees shall be taxed against any person
+2 violating paragraph (c) of subsection (5) of KRS 189.390.
+3 (2) (a) 1. Except as provided in subparagraph 2. of this paragraph, any person
+4 who violates the weight provisions of KRS 189.212, 189.221, 189.222,
+5 189.226, 189.230, 189.270, or 189.2713 shall be fined two cents ($0.02)
+6 per pound for each pound of excess load when the excess is five
+7 thousand (5,000) pounds or less. When the excess exceeds five thousand
+8 (5,000) pounds the fine shall be two cents ($0.02) per pound for each
+9 pound of excess load, but the fine levied shall not be less than one
+10 hundred dollars ($100) and shall not be more than five hundred dollars
+11 ($500).
+12 2. Any person who violates a posted bridge weight limit on a state-
+13 maintained bridge that is more than seventy-five (75) years old shall be
+14 fined:
+15 a. Five hundred dollars ($500) for the first offense;
+16 b. One thousand dollars ($1,000) for the second offense within a one
+17 (1) year period; and
+18 c. Two thousand dollars ($2,000) for any subsequent offense within a
+19 one (1) year period.
+20 The Transportation Cabinet shall erect signs warning drivers of the
+21 increased fines in this subparagraph. Signs erected under this
+22 subparagraph shall be placed in such a manner that drivers are given
+23 adequate warning in order to exit the road prior to crossing the bridge. If
+24 warning signs are not erected in accordance with this subparagraph, the
+25 fines in this subparagraph shall not apply and violators shall be fined
+26 under subparagraph 1. of this paragraph.
+27 (b) Any person who violates the provisions of KRS 189.271 and is operating on a
+Page 3 of 11
+SB003810.100 - 298 - XXXX 3/5/2025 3:05 PM GA
+
+UNOFFICIAL COPY 25 RS SB 38/GA
+1 route designated on the permit shall be fined one hundred dollars ($100);
+2 otherwise, the penalties in paragraph (a) of this subsection shall apply.
+3 (c) Any person who violates any provision of subsection (2) or (3) of KRS
+4 189.050, subsection (4) of KRS 189.090, KRS 189.221 to 189.230, 189.270,
+5 189.2713, 189.280, or the dimension provisions of KRS 189.212, for which
+6 another penalty is not specifically provided shall be fined not less than ten
+7 dollars ($10) nor more than five hundred dollars ($500).
+8 (d) 1. Any person who violates the provisions of KRS 177.985 while operating
+9 on a route designated in KRS 177.986 shall be fined one hundred dollars
+10 ($100).
+11 2. Any person who operates a vehicle with a permit under KRS 177.985 in
+12 excess of eighty thousand (80,000) pounds while operating on a route
+13 not designated in KRS 177.986 shall be fined one thousand dollars
+14 ($1,000).
+15 (e) Nothing in this subsection or in KRS 189.221 to 189.228 shall be deemed to
+16 prejudice or affect the authority of the Department of Vehicle Regulation to
+17 suspend or revoke certificates of common carriers, permits of contract
+18 carriers, or drivers' or chauffeurs' licenses, for any violation of KRS 189.221
+19 to 189.228 or any other act applicable to motor vehicles, as provided by law.
+20 (3) (a) Any person who violates subsection (1) of KRS 189.190 shall be fined not
+21 more than fifteen dollars ($15).
+22 (b) Any person who violates subsection (5) of KRS 189.190 shall be fined not
+23 less than thirty-five dollars ($35) nor more than two hundred dollars ($200).
+24 (4) (a) Any person who violates subsection (1) of KRS 189.210 shall be fined not
+25 less than twenty-five dollars ($25) nor more than one hundred dollars ($100).
+26 (b) Any peace officer who fails, when properly informed, to enforce KRS
+27 189.210 shall be fined not less than twenty-five dollars ($25) nor more than
+Page 4 of 11
+SB003810.100 - 298 - XXXX 3/5/2025 3:05 PM GA
+
+UNOFFICIAL COPY 25 RS SB 38/GA
+1 one hundred dollars ($100).
+2 (c) All fines collected under this subsection, after payment of commissions to
+3 officers entitled thereto, shall go to the county road fund if the offense is
+4 committed in the county, or to the city street fund if committed in the city.
+5 (5) Any person who violates KRS 189.370 shall for the first offense be fined not less
+6 than five[one] hundred dollars ($500)[($100)] nor more than one thousand[two
+7 hundred] dollars ($1,000)[($200)] or imprisoned not less than thirty (30) days nor
+8 more than sixty (60) days, or both. For each subsequent offense occurring within
+9 three (3) years, the person shall be fined not less than one thousand[three hundred]
+10 dollars ($1,000)[($300)] nor more than one thousand five hundred dollars
+11 ($1,500)[($500)] or imprisoned not less than sixty (60) days nor more than six (6)
+12 months, or both. The first three hundred dollars ($300) of each fine assessed
+13 under this subsection shall be transferred to the school district in the county
+14 where the offense occurred, for the express purpose of purchasing and
+15 maintaining camera monitoring systems on school buses operated by the school
+16 district. The minimum fine for this violation shall not be subject to suspension. A
+17 minimum of six (6) points shall be assessed against the driving record of any person
+18 convicted.
+19 (6) Any person who violates KRS 189.500 shall be fined not more than fifteen dollars
+20 ($15) in excess of the cost of the repair of the road.
+21 (7) Any person who violates KRS 189.510 or KRS 189.515 shall be fined not less than
+22 twenty dollars ($20) nor more than fifty dollars ($50).
+23 (8) Any peace officer who violates subsection (2) of KRS 189.520 shall be fined not
+24 less than thirty-five dollars ($35) nor more than one hundred dollars ($100).
+25 (9) (a) Any person who violates KRS 189.530(1) shall be fined not less than thirty-
+26 five dollars ($35) nor more than one hundred dollars ($100), or imprisoned
+27 not less than thirty (30) days nor more than twelve (12) months, or both.
+Page 5 of 11
+SB003810.100 - 298 - XXXX 3/5/2025 3:05 PM GA
+
+UNOFFICIAL COPY 25 RS SB 38/GA
+1 (b) Any person who violates KRS 189.530(2) shall be fined not less than thirty-
+2 five dollars ($35) nor more than one hundred dollars ($100).
+3 (10) Any person who violates any of the provisions of KRS 189.550 shall be guilty of a
+4 Class B misdemeanor.
+5 (11) Any person who violates subsection (3) of KRS 189.560 shall be fined not less than
+6 thirty dollars ($30) nor more than one hundred dollars ($100) for each offense.
+7 (12) The fines imposed by paragraph (a) of subsection (3) and subsections (6) and (7) of
+8 this section shall, in the case of a public highway, be paid into the county road fund,
+9 and, in the case of a privately owned road or bridge, be paid to the owner. These
+10 fines shall not bar an action for damages for breach of contract.
+11 (13) Any person who violates any of the provisions of KRS 189.120 shall be fined not
+12 less than twenty dollars ($20) nor more than one hundred dollars ($100) for each
+13 offense.
+14 (14) Any person who violates any provision of KRS 189.575 shall be fined not less than
+15 twenty dollars ($20) nor more than twenty-five dollars ($25).
+16 (15) Any person who violates subsection (2) of KRS 189.231 shall be fined not less than
+17 twenty dollars ($20) nor more than one hundred dollars ($100) for each offense.
+18 (16) Any person who violates restrictions or regulations established by the secretary of
+19 transportation pursuant to subsection (3) of KRS 189.231 shall, upon first offense,
+20 be fined one hundred dollars ($100) and, upon subsequent convictions, be fined not
+21 less than one hundred dollars ($100) nor more than five hundred dollars ($500) or
+22 imprisoned for thirty (30) days, or both.
+23 (17) (a) Any person who violates any of the provisions of KRS 189.565 shall be guilty
+24 of a Class B misdemeanor.
+25 (b) In addition to the penalties prescribed in paragraph (a) of this subsection, in
+26 case of violation by any person in whose name the vehicle used in the
+27 transportation of inflammable liquids or explosives is licensed, the person
+Page 6 of 11
+SB003810.100 - 298 - XXXX 3/5/2025 3:05 PM GA
+
+UNOFFICIAL COPY 25 RS SB 38/GA
+1 shall be fined not less than one hundred dollars ($100) nor more than five
+2 hundred dollars ($500). Each violation shall constitute a separate offense.
+3 (18) Any person who abandons a vehicle upon the right-of-way of a state highway for
+4 three (3) consecutive days shall be fined not less than thirty-five dollars ($35) nor
+5 more than one hundred dollars ($100), or imprisoned for not less than ten (10) days
+6 nor more than thirty (30) days.
+7 (19) Every person violating KRS 189.393 shall be guilty of a Class B misdemeanor,
+8 unless the offense is being committed by a defendant fleeing the commission of a
+9 felony offense which the defendant was also charged with violating and was
+10 subsequently convicted of that felony, in which case it is a Class A misdemeanor.
+11 (20) Any law enforcement agency which fails or refuses to forward the reports required
+12 by KRS 189.635 shall be subject to the penalties prescribed in KRS 17.157.
+13 (21) A person who operates a bicycle in violation of the administrative regulations
+14 promulgated pursuant to KRS 189.287 shall be fined not less than ten dollars ($10)
+15 nor more than one hundred dollars ($100).
+16 (22) Any person who violates KRS 189.860 shall be fined not more than five hundred
+17 dollars ($500) or imprisoned for not more than six (6) months, or both.
+18 (23) Any person who violates KRS 189.754 shall be fined not less than twenty-five
+19 dollars ($25) nor more than three hundred dollars ($300).
+20 (24) Any person who violates the provisions of KRS 189.125(3)(a) shall be fined fifty
+21 dollars ($50). This fine shall be subject to prepayment. A fine imposed under this
+22 subsection shall not be subject to court costs pursuant to KRS 24A.175, additional
+23 court costs pursuant to KRS 24A.176, the fee imposed pursuant to KRS 24A.1765,
+24 or any other additional fees or costs.
+25 (25) Any person who violates the provisions of KRS 189.125(3)(b) shall [not be issued a
+26 uniform citation, but shall instead receive a courtesy warning up until July 1, 2009.
+27 For a violation on or after July 1, 2009, the person shall ]be fined thirty dollars
+Page 7 of 11
+SB003810.100 - 298 - XXXX 3/5/2025 3:05 PM GA
+
+UNOFFICIAL COPY 25 RS SB 38/GA
+1 ($30). This fine shall be subject to prepayment. A fine imposed under this
+2 subsection shall not be subject to court costs pursuant to KRS 24A.175, additional
+3 court costs pursuant to KRS 24A.176, a fee imposed pursuant to KRS 24A.1765, or
+4 any other additional fees or costs. A person who has not been previously charged
+5 with a violation of KRS 189.125(3)(b) may elect to acquire a booster seat meeting
+6 the requirements of KRS 189.125. Upon presentation of sufficient proof of the
+7 acquisition, the charge shall be dismissed and no fees or costs shall be imposed.
+8 (26) Any person who violates the provisions of KRS 189.125(6) shall be fined an
+9 amount not to exceed twenty-five dollars ($25). This fine shall be subject to
+10 prepayment. A fine imposed under this subsection shall not be subject to court costs
+11 pursuant to KRS 24A.175, additional court costs pursuant to KRS 24A.176, the fee
+12 imposed pursuant to KRS 24A.1765, or any other additional fees or costs.
+13 (27) Fines levied pursuant to this chapter shall be assessed in the manner required by
+14 KRS 534.020, in amounts consistent with this chapter. Nonpayment of fines shall
+15 be governed by KRS 534.020 and 534.060.
+16 (28) A licensed driver under the age of eighteen (18) charged with a moving violation
+17 pursuant to this chapter as the driver of a motor vehicle may be referred, prior to
+18 trial, by the court to a diversionary program. The diversionary program under this
+19 subsection shall consist of one (1) or both of the following:
+20 (a) Execution of a diversion agreement which prohibits the driver from operating
+21 a vehicle for a period not to exceed forty-five (45) days and which allows the
+22 court to retain the driver's operator's license during this period; and
+23 (b) Attendance at a driver improvement clinic established pursuant to KRS
+24 186.574. If the person completes the terms of this diversionary program
+25 satisfactorily the violation shall be dismissed.
+26 (29) A person who violates the provisions of subsection (2) or (3) of KRS 189.459 shall
+27 be fined two hundred fifty dollars ($250). The fines and costs for a violation of
+Page 8 of 11
+SB003810.100 - 298 - XXXX 3/5/2025 3:05 PM GA
+
+UNOFFICIAL COPY 25 RS SB 38/GA
+1 subsection (2) or (3) of KRS 189.459 shall be collected and disposed of in
+2 accordance with KRS 24A.180. Once deposited into the State Treasury, ninety
+3 percent (90%) of the fine collected under this subsection shall immediately be
+4 forwarded to the personal care assistance program under KRS 205.900 to 205.920.
+5 Ten percent (10%) of the fine collected under this subsection shall annually be
+6 returned to the county where the violation occurred and distributed equally to all
+7 law enforcement agencies within the county.
+8 (30) Any person who violates KRS 189.292 or 189.294 shall be fined twenty-five dollars
+9 ($25) for the first offense and fifty dollars ($50) for each subsequent offense.
+10 (31) Any person who violates KRS 189.281(5) or (7)(b) shall be subject to a fine of two
+11 hundred fifty dollars ($250). This fine shall be subject to prepayment. A fine
+12 imposed under this subsection shall not be subject to court costs pursuant to KRS
+13 24A.175, additional costs pursuant to KRS 24A.176, the fee imposed pursuant to
+14 KRS 24A.1765, or any other additional fees or costs.
+15 (32) Any person who violates subsection (3) or (4) of KRS 189.290 and causes physical
+16 injury to a person shall be fined five hundred dollars ($500).
+17 Section 3. KRS 189.370 is amended to read as follows:
+18 (1) If any school or church bus used in the transportation of children is stopped upon a
+19 highway for the purpose of receiving or discharging passengers, with the stop arm
+20 and signal lights activated, the operator of a vehicle approaching from any direction
+21 shall bring the[his] vehicle to a stop and shall not proceed until the bus has
+22 completed receiving or discharging passengers and has been put into motion. The
+23 stop requirement provided for in this section shall not apply to vehicles approaching
+24 a stopped bus from the opposite direction upon a highway of four (4) or more lanes
+25 divided by an elevated barrier or unpaved median.
+26 (2) [Subsection (1) of ]This section shall be applicable only when the bus displays the
+27 markings and equipment required by Kentucky minimum specifications for school
+Page 9 of 11
+SB003810.100 - 298 - XXXX 3/5/2025 3:05 PM GA
+
+UNOFFICIAL COPY 25 RS SB 38/GA
+1 buses.
+2 (3) If any vehicle is witnessed to be in violation of[ subsection (1) of] this section and
+3 the identity of the operator is not otherwise apparent, it shall be a rebuttable
+4 presumption that the person in whose name the vehicle is registered or leased was
+5 the operator of the vehicle at the time of the alleged violation and is subject to the
+6 penalties as provided for in KRS 189.990(5).
+7 Section 4. KRS 186.763 is amended to read as follows:
+8 (1) Subject to the limitations in subsection (2) of this section, a person may operate a
+9 fully autonomous vehicle on the highways of this state without a human driver
+10 provided that the automated driving system is engaged and the vehicle meets the
+11 following conditions:
+12 (a) If a failure of the automated driving system occurs that renders that system
+13 unable to perform the entire dynamic driving task relevant to its intended
+14 operational design domain, the fully autonomous vehicle will achieve a
+15 minimal risk condition;
+16 (b) The fully autonomous vehicle is capable of operating in compliance with the
+17 applicable traffic and motor vehicle safety laws and regulations of this state
+18 when reasonable to do so, unless an exemption has been granted by the
+19 Transportation Cabinet; and
+20 (c) When required by federal law, the vehicle bears the required manufacturer's
+21 certification label indicating that at the time of its manufacture it has been
+22 certified to be in compliance with all applicable federal motor vehicle safety
+23 standards, including any exemptions granted by the National Highway Traffic
+24 Safety Administration.
+25 (2) From July 15, 2024, until July 31, 2026, a fully autonomous vehicle for which the
+26 declared gross weight of the vehicle and any towed unit is more than sixty-two
+27 thousand (62,000) pounds shall have a human driver, with the appropriate
+Page 10 of 11
+SB003810.100 - 298 - XXXX 3/5/2025 3:05 PM GA
+
+UNOFFICIAL COPY 25 RS SB 38/GA
+1 credentials to operate the vehicle, present in the vehicle to monitor the performance
+2 of the vehicle and intervene if necessary.
+3 (3) Prior to operating a fully autonomous vehicle on the highways of this state without
+4 a human driver, a person shall submit a law enforcement interaction plan to the
+5 Transportation Cabinet and the Department of Kentucky State Police that describes:
+6 (a) How to communicate with a fleet support specialist who is available during
+7 the times the vehicle is in operation;
+8 (b) How to safely remove the fully autonomous vehicle from the roadway and
+9 steps to safely tow the vehicle;
+10 (c) How to recognize whether the automated driving system is engaged on the
+11 fully autonomous vehicle; and
+12 (d) Any additional information the manufacturer or owner deems necessary
+13 regarding hazardous conditions or public safety risks associated with the
+14 operation of the fully autonomous vehicle.
+15 (4) A school district shall not:
+16 (a) Operate a fully autonomous vehicle as a school bus as defined in KRS
+17 156.153; or
+18 (b) Use any fully autonomous vehicle to transport students for any purpose.
+19 Section 5. Sections 1 to 3 of this Act take effect January 1, 2026.
+Page 11 of 11
+SB003810.100 - 298 - XXXX 3/5/2025 3:05 PM GA
+
+[DELETED:   2  G A B S R ( A ( " s 1 P 2 R l ( " i m t ( o m p i o a s o a v m r b a c m s w p t ( " d m a c s d a d i K 1 ( " i ( A s A ( A o t ( A s b w a c m s i a m i a]
+[DELETED:   2  G t ( R i a o r r t a s s a c v a p i a s o b a t a p f t p o e s a c v t v t ( A l r t S ( A p w v a o t p o K 1 t 1 s ( ( 1 t 1 K 1 K 1 t 1 K 1 t 1 K 1 t A t t d ( n m t t t d ( o i a h b (]
+[DELETED:   2  G t v ( ( 1 E a p i s 2 o t p a p w 1 p p f e p o e l w t e i f t ( p o e l b t f l s n b l t o h ( 2 A p w v a p b w l o a s m f a F b O ( c T o  T T C s e s w d o t i f i t s S e u t s a a w f u ( A]
+[DELETED:   2  G r d o t p s b f o h d ( o ( A p w v a p o s ( o ( o K 1 1 a d ( 1 A o ( 2 A e n d i K 1 s b f o t d ( ( N p s o r c o c c p o c c t ( ( A m ( A l ( ( A l ( A p o w f w p i t e K 1]
+[DELETED:   2  G o ( A f c u t s a p o c t o e t s g t t c r f i t o i c ( A t f h d ( n m t o t h m t d ( n m t o t f h d ( m o b T f t h d ( o e f a u t s s b t t t s d i t c w t o o f t e p o p a m d m c ( A ( ( A t ( A l ( ( A f n]
+[DELETED:   2  G ( A f ( A C ( A t ( T t a f ( A l o ( A t ( A t ( A t b l i ( ( A o ( I c o v b a p i w n t v u i t t o i l o e i l t p]
+[DELETED:   2  G s h ( A t m n ( E v K 1 s b g o C m u f o w t d w a c w v a w s ( A b ( A p w o a b i v o t a r p n ( A d ( A p w v K 1 s b f n l t t d ( A d s c o ( A u F]
+[DELETED:   2  G ( T f s b s t p A f i u t s c a w t r o K 1 U p o s p o t a ( A p w v t p o K 1 s b f a a n t e t d ( T f s b s t p p i ( F K b ( A p t s ( E a c ( A a a d i c e p t K 1 I t p c t t o t d p s ( A b]
+[DELETED:   2  G s ( o ( o K 1 s b c a d o i a w K 2 O d i t S T n p ( o t f c u t s s i b f T p ( o t f c u t s s a b r l ( A ( ( A h f d ( T f s b s t p A f i 2 K ( A i S ( I h a s b t v t a s a s n p u t b h c s a d ( [ m]
+[DELETED:   2  G b ( I t i o t o i n o a i s b a r p t p S ( S f a v o t h o t s w a h d p f ( I u t p t e d d t r t i i o d d t f a v w a a m ( T a w r t d s u a e h b g b t T ( W c c s S ( F d g w o v a a t u i m t s t ( p s h a h d w t a]
+[DELETED:   2  G c o ( P a T ( H t ( H s ( H f ( A a i t m o o d n r h c o p s r a w t o ( A ( O a f a v a a s b a d i K 1 ( U S]

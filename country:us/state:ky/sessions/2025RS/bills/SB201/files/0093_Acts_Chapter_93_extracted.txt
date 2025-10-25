@@ -1,0 +1,1036 @@
+Title: AN ACT relating to workers' compensation.
+Official Title: AN ACT relating to workers' compensation.
+Number of Sections: 16
+Source: versions - Acts Chapter 93
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+CHAPTER 93 1
+CHAPTER 93
+( SB 201 )
+Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+Section 1. KRS 342.0011 is amended to read as follows:
+As used in this chapter, unless the context otherwise requires:
+(1) "Injury" means any work-related traumatic event or series of traumatic events, including cumulative trauma,
+arising out of and in the course of employment which is the proximate cause producing a harmful change in
+the human organism evidenced by objective medical findings. "Injury" does not include the effects of the
+natural aging process, and does not include any communicable disease unless the risk of contracting the
+disease is increased by the nature of the employment. "Injury" when used generally, unless the context
+indicates otherwise, shall include an occupational disease and damage to a prosthetic appliance, but shall not
+include a psychological, psychiatric, or stress-related change in the human organism, unless it is a direct result
+of a physical injury;
+(2) "Occupational disease" means a disease arising out of and in the course of the employment;
+(3) An occupational disease as defined in this chapter shall be deemed to arise out of the employment if there is
+apparent to the rational mind, upon consideration of all the circumstances, a causal connection between the
+conditions under which the work is performed and the occupational disease, and which can be seen to have
+followed as a natural incident to the work as a result of the exposure occasioned by the nature of the
+employment and which can be fairly traced to the employment as the proximate cause. The occupational
+disease shall be incidental to the character of the business and not independent of the relationship of employer
+and employee. An occupational disease need not have been foreseen or expected but, after its contraction, it
+must appear to be related to a risk connected with the employment and to have flowed from that source as a
+rational consequence;
+(4) "Injurious exposure" shall mean that exposure to occupational hazard which would, independently of any other
+cause whatsoever, produce or cause the disease for which the claim is made;
+(5) "Death" means death resulting from an injury or occupational disease;
+(6) "Carrier" means any insurer, or legal representative thereof, authorized to insure the liability of employers
+under this chapter and includes a self-insurer;
+(7) "Self-insurer" is an employer who has been authorized under the provisions of this chapter to carry his own
+liability on his employees covered by this chapter;
+(8) "Department" means the Department of Workers' Claims in the Education and Labor Cabinet;
+(9) "Commissioner" means the commissioner of the Department of Workers' Claims under the direction and
+supervision of the secretary of the Education and Labor Cabinet;
+(10) "Board" means the Workers' Compensation Board;
+(11) (a) "Temporary total disability" means the condition of an employee who has not reached maximum
+medical improvement from an injury and has not reached a level of improvement that would permit a
+return to employment;
+(b) "Permanent partial disability" means the condition of an employee who, due to an injury, has a
+permanent disability rating but retains the ability to work; and
+(c) "Permanent total disability" means the condition of an employee who, due to an injury, has a permanent
+disability rating and has a complete and permanent inability to perform any type of work as a result of
+an injury, except that total disability shall be irrebuttably presumed to exist for an injury that results in:
+
+Section 2:
+1. Total and permanent loss of sight in both eyes;
+
+Section 3:
+2. Loss of both feet at or above the ankle;
+
+Section 4:
+3. Loss of both hands at or above the wrist;
+Legislative Research Commission PDF Version
+2 ACTS OF THE GENERAL ASSEMBLY
+
+Section 5:
+4. Loss of one (1) foot at or above the ankle and the loss of one (1) hand at or above the wrist;
+
+Section 6:
+5. Permanent and complete paralysis of both arms, both legs, or one (1) arm and one (1) leg;
+
+Section 7:
+6. Incurable insanity or imbecility; or
+
+Section 8:
+7. Total loss of hearing;
+(12) "Income benefits" means payments made under the provisions of this chapter to the disabled worker or his
+dependents in case of death, excluding medical and related benefits;
+(13) "Medical and related benefits" means payments made for medical, hospital, burial, and other services as
+provided in this chapter, other than income benefits;
+(14) "Compensation" means all payments made under the provisions of this chapter representing the sum of income
+benefits and medical and related benefits;
+(15) "Medical services" means medical, surgical, dental, hospital, nursing, and medical rehabilitation services,
+medicines, and fittings for artificial or prosthetic devices;
+(16) "Person" means any individual, partnership, limited partnership, limited liability company, firm, association,
+trust, joint venture, corporation, or legal representative thereof;
+(17) "Wages" means, in addition to money payments for services rendered, the reasonable value of board, rent,
+housing, lodging, fuel, or similar advantages received from the employer, and gratuities received in the course
+of employment from persons other than the employer as evidenced by the employee's federal and state tax
+returns;
+(18) "Agriculture" means the operation of farm premises, including the planting, cultivation, producing, growing,
+harvesting, and preparation for market of agricultural or horticultural commodities thereon, the raising of
+livestock for food products and for racing purposes, and poultry thereon, and any work performed as an
+incident to or in conjunction with the farm operations, including the sale of produce at on-site markets and the
+processing of produce for sale at on-site markets. It shall not include the commercial processing, packing,
+drying, storing, or canning of such commodities for market, or making cheese or butter or other dairy products
+for market;
+(19) "Beneficiary" means any person who is entitled to income benefits or medical and related benefits under this
+chapter;
+(20) "United States," when used in a geographic sense, means the several states, the District of Columbia, the
+Commonwealth of Puerto Rico, the Canal Zone, and the territories of the United States;
+(21) "Alien" means a person who is not a citizen, a national, or a resident of the United States or Canada. Any
+person not a citizen or national of the United States who relinquishes or is about to relinquish his residence in
+the United States shall be regarded as an alien;
+(22) "Insurance carrier" means every insurance carrier or insurance company authorized to do business in the
+Commonwealth writing workers' compensation insurance coverage and includes the Kentucky Employers
+Mutual Insurance Authority and every self-insured group operating under the provisions of this chapter;
+(23) (a) "Severance or processing of coal" means all activities performed in the Commonwealth at underground,
+auger, and surface mining sites; all activities performed at tipple or processing plants that clean, break,
+size, or treat coal; and all activities performed at coal loading facilities for trucks, railroads, and barges.
+Severance or processing of coal shall not include acts performed by a final consumer if the acts are
+performed at the site of final consumption.
+(b) "Engaged in severance or processing of coal" shall include all individuals, partnerships, limited
+partnerships, limited liability companies, corporations, joint ventures, associations, or any other
+business entity in the Commonwealth which has employees on its payroll who perform any of the acts
+stated in paragraph (a) of this subsection, regardless of whether the acts are performed as owner of the
+coal or on a contract or fee basis for the actual owner of the coal. A business entity engaged in the
+severance or processing of coal, including but not limited to administrative or selling functions, shall be
+considered wholly engaged in the severance or processing of coal for the purpose of this chapter.
+However, a business entity which is engaged in a separate business activity not related to coal, for
+which a separate premium charge is not made, shall be deemed to be engaged in the severance or
+processing of coal only to the extent that the number of employees engaged in the severance or
+processing of coal bears to the total number of employees. Any employee who is involved in the
+CHAPTER 93 3
+business of severing or processing of coal and business activities not related to coal shall be prorated
+based on the time involved in severance or processing of coal bears to his total time;
+(24) "Premium" for every self-insured group means any and all assessments levied on its members by such group
+or contributed to it by the members thereof. For special fund assessment purposes, "premium" also includes
+any and all membership dues, fees, or other payments by members of the group to associations or other entities
+used for underwriting, claims handling, loss control, premium audit, actuarial, or other services associated with
+the maintenance or operation of the self-insurance group;
+(25) (a) "Premiums received" for policies effective on or after January 1, 1994, for insurance companies means
+direct written premiums as reported in the annual statement to the Department of Insurance by
+insurance companies, except that "premiums received" includes premiums charged off or deferred, and,
+on insurance policies or other evidence of coverage with provisions for deductibles, the calculated cost
+for coverage, including experience modification and premium surcharge or discount, prior to any
+reduction for deductibles. The rates, factors, and methods used to calculate the cost for coverage under
+this paragraph for insurance policies or other evidence of coverage with provisions for deductibles shall
+be the same rates, factors, and methods normally used by the insurance company in Kentucky to
+calculate the cost for coverage for insurance policies or other evidence of coverage without provisions
+for deductibles, except that, for insurance policies or other evidence of coverage with provisions for
+deductibles effective on or after January 1, 1995, the calculated cost for coverage shall not include any
+schedule rating modification, debits, or credits. For policies with provisions for deductibles with
+effective dates on or after January 1, 1995, assessments shall be imposed on premiums received as
+calculated by the deductible program adjustment. The cost for coverage calculated under this paragraph
+by insurance companies that issue only deductible insurance policies in Kentucky shall be actuarially
+adequate to cover the entire liability of the employer for compensation under this chapter, including all
+expenses and allowances normally used to calculate the cost for coverage. For policies with provisions
+for deductibles with effective dates of May 6, 1993, through December 31, 1993, for which the
+insurance company did not report premiums and remit special fund assessments based on the calculated
+cost for coverage prior to the reduction for deductibles, "premiums received" includes the initial
+premium plus any reimbursements invoiced for losses, expenses, and fees charged under the
+deductibles. The special fund assessment rates in effect for reimbursements invoiced for losses,
+expenses, or fees charged under the deductibles shall be those percentages in effect on the effective date
+of the insurance policy. For policies covering covered employees having a co-employment relationship
+with a professional employer organization and a client as defined in KRS Chapter 336, "premiums
+received" means premiums calculated using the experience modification factor of each client as defined
+in KRS Chapter 336 for each covered employee for that portion of the payroll pertaining to the covered
+employee.
+(b) "Direct written premium" for insurance companies means the gross premium written less return
+premiums and premiums on policies not taken but including policy and membership fees.
+(c) "Premium," for policies effective on or after January 1, 1994, for insurance companies means all
+consideration, whether designated as premium or otherwise, for workers' compensation insurance paid
+to an insurance company or its representative, including, on insurance policies with provisions for
+deductibles, the calculated cost for coverage, including experience modification and premium surcharge
+or discount, prior to any reduction for deductibles. The rates, factors, and methods used to calculate the
+cost for coverage under this paragraph for insurance policies or other evidence of coverage with
+provisions for deductibles shall be the same rates, factors, and methods normally used by the insurance
+company in Kentucky to calculate the cost for coverage for insurance policies or other evidence of
+coverage without provisions for deductibles, except that, for insurance policies or other evidence of
+coverage with provisions for deductibles effective on or after January 1, 1995, the calculated cost for
+coverage shall not include any schedule rating modifications, debits, or credits. For policies with
+provisions for deductibles with effective dates on or after January 1, 1995, assessments shall be
+imposed as calculated by the deductible program adjustment. The cost for coverage calculated under
+this paragraph by insurance companies that issue only deductible insurance policies in Kentucky shall
+be actuarially adequate to cover the entire liability of the employer for compensation under this chapter,
+including all expenses and allowances normally used to calculate the cost for coverage. For policies
+with provisions for deductibles with effective dates of May 6, 1993, through December 31, 1993, for
+which the insurance company did not report premiums and remit special fund assessments based on the
+calculated cost for coverage prior to the reduction for deductibles, "premium" includes the initial
+Legislative Research Commission PDF Version
+4 ACTS OF THE GENERAL ASSEMBLY
+consideration plus any reimbursements invoiced for losses, expenses, or fees charged under the
+deductibles.
+(d) "Return premiums" for insurance companies means amounts returned to insureds due to endorsements,
+retrospective adjustments, cancellations, dividends, or errors.
+(e) "Deductible program adjustment" means calculating premium and premiums received on a gross basis
+without regard to the following:
+
+Section 9:
+1. Schedule rating modifications, debits, or credits;
+
+Section 10:
+2. Deductible credits; or
+
+Section 11:
+3. Modifications to the cost of coverage from inception through and including any audit that are
+based on negotiated retrospective rating arrangements, including but not limited to large risk
+alternative rating options;
+(26) "Insurance policy" for an insurance company or self-insured group means the term of insurance coverage
+commencing from the date coverage is extended, whether a new policy or a renewal, through its expiration,
+not to exceed the anniversary date of the renewal for the following year;
+(27) "Self-insurance year" for a self-insured group means the annual period of certification of the group created
+pursuant to KRS 342.350(4) and 304.50-010;
+(28) "Premium" for each employer carrying his own risk pursuant to KRS 342.340(1) shall be the projected value
+of the employer's workers' compensation claims for the next calendar year as calculated by the commissioner
+using generally-accepted actuarial methods as follows:
+(a) The base period shall be the earliest three (3) calendar years of the five (5) calendar years immediately
+preceding the calendar year for which the calculation is made. The commissioner shall identify each
+claim of the employer which has an injury date or date of last injurious exposure to the cause of an
+occupational disease during each one (1) of the three (3) calendar years to be used as the base, and shall
+assign a value to each claim. The value shall be the total of the indemnity benefits paid to date and
+projected to be paid, adjusted to current benefit levels, plus the medical benefits paid to date and
+projected to be paid for the life of the claim, plus the cost of medical and vocational rehabilitation paid
+to date and projected to be paid. Adjustment to current benefit levels shall be done by multiplying the
+weekly indemnity benefit for each claim by the number obtained by dividing the statewide average
+weekly wage which will be in effect for the year for which the premium is being calculated by the
+statewide average weekly wage in effect during the year in which the injury or date of the last exposure
+occurred. The total value of the claims using the adjusted weekly benefit shall then be calculated by the
+commissioner. Values for claims in which awards have been made or settlements reached because of
+findings of permanent partial or permanent total disability shall be calculated using the mortality and
+interest discount assumptions used in the latest available statistical plan of the advisory rating
+organization defined in Subtitle 13 of KRS Chapter 304. The sum of all calculated values shall be
+computed for all claims in the base period;
+(b) The commissioner shall obtain the annual payroll for each of the three (3) years in the base period for
+each employer carrying his own risk from records of the department and from the records of the
+Department of Workforce Development, Education and Labor Cabinet. The commissioner shall
+multiply each of the three (3) years of payroll by the number obtained by dividing the statewide average
+weekly wage which will be in effect for the year in which the premium is being calculated by the
+statewide average weekly wage in effect in each of the years of the base period;
+(c) The commissioner shall divide the total of the adjusted claim values for the three (3) year base period
+by the total adjusted payroll for the same three (3) year period. The value so calculated shall be
+multiplied by 1.25 and shall then be multiplied by the employer's most recent annualized payroll,
+calculated using records of the department and the Department of Workforce Development data which
+shall be made available for this purpose on a quarterly basis as reported, to obtain the premium for the
+next calendar year for assessment purposes under KRS 342.122;
+(d) For November 1, 1987, through December 31, 1988, premium for each employer carrying its own risk
+shall be an amount calculated by the board pursuant to the provisions contained in this subsection and
+such premium shall be provided to each employer carrying its own risk and to the funding commission
+on or before January 1, 1988. Thereafter, the calculations set forth in this subsection shall be performed
+annually, at the time each employer applies or renews its application for certification to carry its own
+CHAPTER 93 5
+risk for the next twelve (12) month period and submits payroll and other data in support of the
+application. The employer and the funding commission shall be notified at the time of the certification
+or recertification of the premium calculated by the commissioner, which shall form the employer's basis
+for assessments pursuant to KRS 342.122 for the calendar year beginning on January 1 following the
+date of certification or recertification;
+(e) If an employer having fewer than five (5) years of doing business in this state applies to carry its own
+risk and is so certified, its premium for the purposes of KRS 342.122 shall be based on the lesser
+number of years of experience as may be available including the two (2) most recent years if necessary
+to create a three (3) year base period. If the employer has less than two (2) years of operation in this
+state available for the premium calculation, then its premium shall be the greater of the value obtained
+by the calculation called for in this subsection or the amount of security required by the commissioner
+pursuant to KRS 342.340(1);
+(f) If an employer is certified to carry its own risk after having previously insured the risk, its premium
+shall be calculated using values obtained from claims incurred while insured for as many of the years of
+the base period as may be necessary to create a full three (3) year base. After the employer is certified to
+carry its own risk and has paid all amounts due for assessments upon premiums paid while insured, the
+employer shall be assessed only upon the premium calculated under this subsection;
+(g) "Premium" for each employer defined in KRS 342.630(2) shall be calculated as set forth in this
+subsection; and
+(h) Notwithstanding any other provision of this subsection, the premium of any employer authorized to
+carry its own risk for purposes of assessments due under this chapter shall be no less than thirty cents
+($0.30) per one hundred dollars ($100) of the employer's most recent annualized payroll for employees
+covered by this chapter;
+(29) "SIC code" as used in this chapter means the Standard Industrial Classification Code contained in the latest
+edition of the Standard Industrial Classification Manual published by the Federal Office of Management and
+Budget;
+(30) "Investment interest" means any pecuniary or beneficial interest in a provider of medical services or treatment
+under this chapter, other than a provider in which that pecuniary or investment interest is obtained on terms
+equally available to the public through trading on a registered national securities exchange, such as the New
+York Stock Exchange or the American Stock Exchange, or on the National Association of Securities Dealers
+Automated Quotation System;
+(31) "Managed health care system" means a health care system that employs gatekeeper providers, performs
+utilization review, and does medical bill audits;
+(32) "Physician" means physicians and surgeons, audiologists holding a doctorate in audiology, psychologists,
+optometrists, dentists, podiatrists, and osteopathic and chiropractic practitioners acting within the scope of the
+license or other credentials required by his or her specialty of practice in the United States jurisdiction in
+which he or she is authorized to practice;
+(33) "Objective medical findings" means information gained through direct observation and testing of the patient
+applying objective or standardized methods;
+(34) "Work" means providing services to another in return for remuneration on a regular and sustained basis in a
+competitive economy;
+(35) "Permanent impairment rating" means percentage of whole body impairment caused by the injury or
+occupational disease as determined by the "Guides to the Evaluation of Permanent Impairment";
+(36) "Permanent disability rating" means the permanent impairment rating selected by an administrative law judge
+times the factor set forth in the table that appears at KRS 342.730(1)(b); and
+(37) "Guides to the Evaluation of Permanent Impairment" means, except as provided in KRS 342.262:
+(a) The fifth edition published by the American Medical Association; and
+(b) For psychological impairments, Chapter 12 of the second edition published by the American Medical
+Association.
+Section 2. KRS 342.213 is amended to read as follows:
+Legislative Research Commission PDF Version
+6 ACTS OF THE GENERAL ASSEMBLY
+(1) The Governor shall make all appointments to the board, and appoint the administrative law judges of the
+Department of Workers' Claims, subject to the consent of the Senate in accordance with KRS 11.160, and in
+accordance with this section and KRS 342.215 and 342.230 by choosing from names presented to him or her
+by the Workers' Compensation Nominating Committee.
+(2) The Workers' Compensation Nominating Committee shall consist of five (5) members appointed by the
+Governor as follows:
+(a) 1. One (1) member of the political party having the largest number of registered voters and one (1)
+member of the political party having the second largest number of registered voters shall serve a
+term of two (2) years;
+
+Section 12:
+2. One (1) member of the political party having the largest number of registered voters shall serve a
+term of three (3) years; and
+
+Section 13:
+3. Thereafter, upon the expiration of a term, the vacancy created shall be filled by an appointee
+from the same political party for a term of four (4) years;
+(b) 1. Two (2) members who shall be attorneys with experience in the practice of workers'
+compensation, one (1) who customarily represents claimants and one (1) who customarily
+represents employers, each of whom shall serve a term of four (4) years; and
+
+Section 14:
+2. Thereafter, upon expiration of a term, the vacancy shall be filled by an appointee who meets the
+same required qualifications or criteria and who shall serve a term of four (4) years;
+(c) Appointments to fill the unexpired term of a member due to the resignation of a member, removal of a
+member pursuant to KRS 63.080, or any other reason shall be for the remainder of the term, and the
+new appointee shall meet the same required qualifications or criteria as stated in this section; and
+(d) At the first meeting of each calendar year, the members shall select a chairman of the nominating
+committee who shall serve as chairman for the duration of that calendar year.
+(3) Notwithstanding the provisions of subsection (2) of this section, at least two (2) members of the Workers'
+Compensation Nominating Committee shall be individuals who directly derive no earned income from the
+workers' compensation program. In order to satisfy the requirement of this subsection, the Governor shall
+remove any existing member of the Workers' Compensation Nominating Committee who directly derives
+earned income from the workers' compensation program and replace that member with an individual who does
+not derive earned income from the workers' compensation program.
+(4) The commissioner shall monitor the workload of the administrative law judges and, whenever a vacancy
+occurs, determine whether filling the position is necessary to expeditious resolution of claims brought under
+this chapter. One hundred fifty (150) days[One hundred twenty (120) days] prior to the expiration of the terms
+of the administrative law judges, and when a vacancy occurs under other circumstances, the commissioner
+shall certify to the Workers' Compensation Nominating Committee that filling the position is necessary and the
+Workers' Compensation Nominating Committee shall act to fill only such positions as have been certified as
+necessary by the commissioner.
+(5) (a) The Workers' Compensation Nominating Committee shall consult with the commissioner, chief
+administrative law judge, and a member of the Workers' Compensation Board as to the performance in
+office of the administrative law judges. The Workers' Compensation Nominating Committee may
+recommend retention of any sitting administrative law judge or board member, or present to the
+Governor the names of three (3) qualified individuals nominated for the position. The Workers'
+Compensation Nominating Committee shall report its recommendation for retention to the Governor no
+later than thirty (30) days after receipt from the commissioner of certification of the necessity to fill the
+position and shall render to the Governor its list of nominees to fill vacancies within sixty (60) days of
+receipt of the commissioner's certification. The name of an individual who has been rejected by the
+Governor when recommended for retention shall not be presented thereafter as a nominee for the same
+position. No sitting administrative law judge shall be nominated to fill more than one (1) vacancy
+except for separate vacancies as an administrative law judge.
+(b) Within thirty (30) days of receipt of the recommendation, the Governor may reject recommendations of
+retention, in which event the Workers' Compensation Nominating Committee shall, within thirty (30)
+days, reconvene and present a list of the names of three (3) nominees for each position for which a
+recommendation for retention has been rejected by the Governor.
+CHAPTER 93 7
+(6) The commissioner shall be subject to Senate confirmation in accordance with KRS 11.160.
+(7) (a) The Governor shall appoint the members of the Workers' Compensation Board. If a sitting board
+member is not retained, the[The] nominating committee shall present to the Governor a list of three (3)
+candidates for appointment to the board no later than thirty (30) days prior to the expiration of a board
+member's term. For the purpose of filling vacancies on the board which occur for reasons other than an
+expiration of term, the nominating committee shall present a list of three (3) names to the Governor no
+later than sixty (60) days after a vacancy occurs.
+(b) If the Governor fails to appoint a member of the board within thirty (30) days following receipt of a list
+of names from the nominating committee, the previous appointee may remain in the position until
+adjournment of the Senate the year following the expiration of his or her term[the ninetieth day
+following the date the nominating committee provided the Governor with its list of names], at which
+time he or she shall vacate the position.
+(c) Each newly appointed member of the board shall not assume his or her office until thirty (30) days
+after confirmation by the Senate. Members who are reappointed shall continue to serve in their
+capacity until the reappointment is confirmed by the Senate or the Senate adjourns without
+confirming the appointment.
+(8) (a) The nominating committee shall meet as often as necessary to perform its statutory responsibilities,
+including but not limited to the mandates enumerated in this section, and a majority of the members
+shall constitute a quorum for the transaction of business; and
+(b) The members shall be reimbursed from funds collected pursuant to KRS 342.122 for necessary
+expenses in the manner and amounts prescribed for state employees by KRS 45.101 and the
+administrative regulations promulgated under the authority of that statute. Members of the nominating
+committee shall not be paid for their attendance at any meeting.
+Section 3. KRS 342.215 is amended to read as follows:
+(1) The Workers' Compensation Board is hereby created and established. The board shall rule on appeals of
+decisions rendered by administrative law judges under this chapter. The board shall rule on an appeal of a
+decision of an administrative law judge no later than sixty (60) days following the date on which the last
+appeal brief was filed.
+(2) The Workers' Compensation Board shall consist of three (3) members appointed by the Governor. Each
+member shall hold no other public office and shall devote his or her full time to the duties of his or her office.
+Each member shall be exempt from the classified service, and his or her support staff may be exempt from the
+classified service.
+(3) Of the members of the board appointed under this section, any member appointed to fill an unexpired term
+shall immediately assume the office subject to the confirmation by the Senate in accordance with KRS
+
+Section 15:
+11.160 for the remainder of the term. Any member not currently pending reappointment by the Senate with
+a term expiring on or before:
+(a) December 1, 2025, shall continue serving a term that shall expire on June 1, 2026;
+(b) December 1, 2026, shall continue serving a term that shall expire on June 1, 2027; or
+(c) December 1, 2027, shall continue serving a term that shall expire on June 1, 2028[one (1) shall serve
+a term that shall expire on January 4, 2002; one (1) shall serve a term that shall expire on January 4,
+2003; and one (1) shall serve a term that shall expire on January 4, 2004, as designated by the Governor
+at the time of appointment].
+Thereafter, each term of a board member shall run for four (4) years from the date of expiration of the term for
+which the member's predecessor was appointed, except that a person appointed to fill a vacancy prior to the
+expiration of a term shall be appointed for the remainder of the term. The Governor shall not appoint a
+member of the board to fill the unexpired term of another board member, nor shall the Governor reappoint a
+member of the board who has been removed from his or her position prior to the expiration of his or her term.
+The members of the board shall have the qualifications required of appeals court judges, except for residence
+in a district, and shall receive the same salary and shall be subject to the same standards of conduct. The
+Governor shall designate a member of the board to serve as chairman. Any vacancy in the chairmanship shall
+be filled by the Governor. The Governor may at any time remove any member for cause after furnishing the
+Legislative Research Commission PDF Version
+8 ACTS OF THE GENERAL ASSEMBLY
+member with a written copy of the charges against him or her and giving the member a public hearing if he or
+she requests it.
+(4) A decision concurred in by any two (2) of the three (3) members shall constitute a decision of the board.
+(5) Members of the Workers' Compensation Board and the administrative law judges shall be members of the
+Kentucky Employees Retirement System.
+(6) The Workers' Compensation Board shall be attached to the Department of Workers' Claims in the Education
+and Labor Cabinet.
+Section 4. KRS 342.230 is amended to read as follows:
+(1) The commissioner with the assistance of the board shall train and instruct the administrative law judges on an
+ongoing basis; assign cases; and monitor the caseloads of the administrative law judges and the Workers'
+Compensation Board to ensure timely disposition of cases; keep and be the custodian of the records of the
+board and the administrative law judges; annually report the activities of the board and the administrative law
+judges to the Governor; and devote his or her full time to the duties of his or her office. The commissioner
+shall be paid a salary not less than the salary of a member of the board.
+(2) The Governor shall appoint, with the consent of the Senate in accordance with KRS 11.160 for a term of four
+(4) years, not more than nineteen (19) administrative law judges, each of whom shall be an attorney and shall
+have five (5) years' experience in the Commonwealth in the practice of workers' compensation law or a related
+field, and extensive knowledge of workers' compensation law, and shall be paid the same salary as a Circuit
+Judge. Each newly appointed administrative law judge shall not assume his or her office until June 1
+following confirmation by the Senate. Administrative law judges who are reappointed shall continue to
+serve in their capacity until the reappointment is confirmed by the Senate or the Senate adjourns without
+confirming the appointment. Each administrative law judge shall be exempt from the classified service, and
+his or her support staff may be exempt from the classified service. Each administrative law judge may be
+employed for additional terms with the consent of the Senate in accordance with KRS 11.160. The Governor,
+at least thirty (30) days prior to the expiration of a term of an administrative law judge, shall provide the name
+of the individual whom he or she intends to appoint to the position to the chairman of the Senate Standing
+Committee on Economic Development, Tourism, and Labor[Senate Economic Development and Workforce
+Investment Committee]. These administrative law judges shall conduct hearings, and otherwise supervise the
+presentation of evidence and perform any other duties assigned to them by statute and shall render final
+decisions, orders, or awards. Administrative law judges may, in receiving evidence, make rulings affecting the
+competency, relevancy, and materiality of the evidence about to be presented and upon motions presented
+during the taking of evidence as will expedite the preparation of the case.
+(3) To ensure that the administrative law judges perform their responsibilities competently and issue decisions
+consistent with this chapter, the commissioner shall, at least twice annually, conduct training and education
+seminars in workers' compensation law; administrative law; and methods and procedures for writing well-
+reasoned, clear, correct, and concise opinions, orders, or awards.
+(4) The Governor may at any time remove the commissioner or any member of the board. The commissioner may
+remove any administrative law judge. A member of the board or an administrative law judge may be removed
+for good cause, including violation of the code of judicial ethics or the code of ethics applicable to the
+executive branch of the Commonwealth. In addition, an administrative law judge or a member of the board
+may be removed for the persistent or repeated failure to perform satisfactorily the specific duties assigned in
+this chapter, including the requirement of timely disposition of cases, review of attorney's fees, and failure to
+attend training and continuing education programs required by this section.
+(5) Any vacancy in the term of an administrative law judge, which occurs prior to the expiration of the term, shall
+be filled if necessary by appointment of the Governor in accordance with subsection (2) of this section within
+sixty (60) days from the date the vacancy occurs, with the consent of the Senate in accordance with KRS
+
+Section 16:
+11.160, for the remainder of the term. An administrative law judge appointed to fill an unexpired term shall
+immediately assume the office subject to the confirmation by the Senate in accordance with KRS 11.160 for
+the remainder of the term.
+(6) Any administrative law judge not currently pending confirmation by the Senate with a term expiring on or
+before:
+(a) December 1, 2025, shall continue serving a term that shall expire on June 1, 2026;
+(b) December 1, 2026, shall continue serving a term that shall expire on June 1, 2027;
+CHAPTER 93 9
+(c) December 1, 2027, shall continue serving a term that shall expire on June 1, 2028; or
+(d) December 1, 2028, shall continue serving a term that shall expire on June 1, 2029[(a) On January 1,
+1998, the Governor shall make four (4) year appointments to fill as many of these positions as are
+necessary to fulfill the duties assigned to administrative law judges under this chapter.
+(b) On January 1, 2000, the Governor shall make four (4) year appointments to fill as many of these
+positions as are necessary to fulfill the duties assigned to administrative law judges under this chapter].
+(7) One (1) of the administrative law judges appointed pursuant to this section shall be appointed as a chief
+administrative law judge, to have the same qualifications, powers, duties, and requirements as those of other
+administrative law judges. The chief administrative law judge shall not be assigned regular dockets but shall
+instead assist the commissioner by doing all scheduling of the administrative law judges, handling dockets
+assigned to the administrative law judges in case of an emergency, providing supervision of the administrative
+law judges, and providing educational opportunities for the administrative law judges. The chief administrative
+law judge shall be paid at the same rate as the administrative law judges plus an additional three thousand
+dollars ($3,000) per year. At any time the commissioner may replace the chief administrative law judge with
+one (1) of the other administrative law judges at which time the former chief administrative law judge shall
+resume the duties assigned to the other administrative law judges pursuant to this chapter. On January 1, 1998,
+the commissioner shall employ a person in this position for a four (4) year term.
+Section 5. KRS 342.315 is amended to read as follows:
+(1) For workers who have had injuries or occupational hearing loss, the commissioner shall contract with the
+University of Kentucky,[ and] the University of Louisville, and the University of Pikeville medical schools to
+evaluate workers. For workers who have become affected by occupational diseases, the commissioner shall
+contract with the University of Kentucky,[ and] the University of Louisville, and the University of Pikeville
+medical schools, or other physicians otherwise duly qualified as "B" readers who are licensed in the
+Commonwealth and are board-certified pulmonary specialists. Referral for evaluation may be made whenever
+a medical question is at issue.
+(2) The physicians and institutions performing evaluations pursuant to this section shall render reports
+encompassing their findings and opinions in the form prescribed by the commissioner. Except as otherwise
+provided in KRS 342.316, the clinical findings and opinions of the designated evaluator shall be afforded
+presumptive weight by administrative law judges and the burden to overcome such findings and opinions shall
+fall on the opponent of that evidence. When administrative law judges reject the clinical findings and opinions
+of the designated evaluator, they shall specifically state in the order the reasons for rejecting that evidence.
+(3) The commissioner or an administrative law judge may, upon the application of any party or upon his own
+motion, direct appointment by the commissioner, pursuant to subsection (1) of this section, of a medical
+evaluator to make any necessary medical examination of the employee. Such medical evaluator shall file with
+the commissioner within fifteen (15) days after such examination a written report. The medical evaluator
+appointed may charge a reasonable fee not exceeding fees established by the commissioner for those services.
+(4) Within thirty (30) days of the receipt of a statement for the evaluation, the employer or carrier shall pay the
+cost of the examination. Upon notice from the commissioner that an evaluation has been scheduled, the
+insurance carrier shall forward within seven (7) days to the employee the expenses of travel necessary to
+attend the evaluation at a rate equal to that paid to state employees for travel by private automobile while
+conducting state business.
+(5) Upon claims in which it is finally determined that the injured worker was not the employee at the time of
+injury of an employer covered by this chapter, the special fund shall reimburse the carrier for any evaluation
+performed pursuant to this section for which the carrier has been erroneously compelled to make payment.
+(6) Not less often than annually the designee of the secretary of the Cabinet for Health and Family Services shall
+assess the performance of the medical schools and render findings as to whether evaluations conducted under
+this section are being rendered in a timely manner, whether examinations are conducted in accordance with
+medically recognized techniques, whether impairment ratings are in conformity with standards prescribed by
+the "Guides to the Evaluation of Permanent Impairment," and whether coal workers' pneumoconiosis
+examinations are conducted in accordance with the standards prescribed in this chapter.
+(7) The General Assembly finds that good public policy mandates the realization of the potential advantages, both
+economic and effectual, of the use of telehealth. The commissioner may, to the extent that he or she finds it
+Legislative Research Commission PDF Version
+10 ACTS OF THE GENERAL ASSEMBLY
+feasible and appropriate, require the use of telehealth, as defined in KRS 211.332, in the independent medical
+evaluation process required by this chapter.
+Became law without Governor's signature March 27, 2025.
+[DELETED:  " a a n i a c d u t o c t i i b t n o t e " w u g u t c " A a a n i t t w a a r o t e o b t n o t t " " " " " " m t c o t D o W C u t d a " ( " t d m t c o a e w h n r m " p d m t c o a e w d t a i h a " T L L]
+[DELETED:  L P I T " " a r b m p m f m h b a o s a " " s m m s d h n a m r s " " " " " " " w w c i c a i t K E ( " " i s o p o c s i a i p l l l c c j v a o a o w e i t s o p o c f t p t c o c o t t e t t n o e e i t s o o c b t t t e A e w i i i t]
+[DELETED:  " ( " w p a r i t a s t t D o I b c i e m a p s o d p t a t s r f a m n u b t i c i K t r m d o c F p w p f d w d w e d o M 6 1 t D 3 1 f w t f c p t t r f d " r i t i p a r i f l e a f c u t T s f a r i e f r i f l " w p f i c m t g p w l r " f p e o o a J 1 1 f i c m a a i c i r i o i w f c u t p f i p o o e o c w s n i a s r m d o c F p w f d w e d o o a J 1 1 a s b c f c p t t r f d " i t i]
+[DELETED:  p a r i f l e o f c u t " " S D M " " " T t b p a t c b l p t m p t d a d a u i t l a s p o t a r T e c h o r f r o t d a f t r o t o W D E a L C T c s T t t a p f t s t ( y p T v s c s b b 1 a s t b m b t e m r a p F]
+[DELETED:  f t n t ( m p a s p a o d i s o t I I " f e e d i K 3 s b c a s f i t N " " " h c s m a h c s t e g p p " " " " i r m p o w b i c b t i o " " T F]
+[DELETED:  T t T W C N C s c o f ( m a b t 1 O O T 1 T ( m w s b a w e i t p o w o ( w c r c a o ( w c T A A N T ( T W C N C s c w t c c o t a l j T W C N C m r o a s a l j o b m o p t t t n o t ( q i n f t p T W W]
+[DELETED:  T ( T G s m o t W C B I b I E u t r i c b t S o t S a w ( T T m s b r f f c p t K 3 f n i t m a a p f s e b K 4 a t T T W C B s c o t ( m a b t G E O D D DT]
+[DELETED:  A M T T T T T g c i v o t c o j e o t c o e a t t A A D D]
+[DELETED:  D D J 1 p O O F s o o p o d q a " r w a l i t T p a i p e p t t s s r r T W o t e U n f t c t a e h b s t U N " t t E o P I a w c w p T]
+
+
+================================================================================
+
+Raw Text:
+CHAPTER 93 1
+CHAPTER 93
+( SB 201 )
+AN ACT relating to workers' compensation.
+Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+Section 1. KRS 342.0011 is amended to read as follows:
+As used in this chapter, unless the context otherwise requires:
+(1) "Injury" means any work-related traumatic event or series of traumatic events, including cumulative trauma,
+arising out of and in the course of employment which is the proximate cause producing a harmful change in
+the human organism evidenced by objective medical findings. "Injury" does not include the effects of the
+natural aging process, and does not include any communicable disease unless the risk of contracting the
+disease is increased by the nature of the employment. "Injury" when used generally, unless the context
+indicates otherwise, shall include an occupational disease and damage to a prosthetic appliance, but shall not
+include a psychological, psychiatric, or stress-related change in the human organism, unless it is a direct result
+of a physical injury;
+(2) "Occupational disease" means a disease arising out of and in the course of the employment;
+(3) An occupational disease as defined in this chapter shall be deemed to arise out of the employment if there is
+apparent to the rational mind, upon consideration of all the circumstances, a causal connection between the
+conditions under which the work is performed and the occupational disease, and which can be seen to have
+followed as a natural incident to the work as a result of the exposure occasioned by the nature of the
+employment and which can be fairly traced to the employment as the proximate cause. The occupational
+disease shall be incidental to the character of the business and not independent of the relationship of employer
+and employee. An occupational disease need not have been foreseen or expected but, after its contraction, it
+must appear to be related to a risk connected with the employment and to have flowed from that source as a
+rational consequence;
+(4) "Injurious exposure" shall mean that exposure to occupational hazard which would, independently of any other
+cause whatsoever, produce or cause the disease for which the claim is made;
+(5) "Death" means death resulting from an injury or occupational disease;
+(6) "Carrier" means any insurer, or legal representative thereof, authorized to insure the liability of employers
+under this chapter and includes a self-insurer;
+(7) "Self-insurer" is an employer who has been authorized under the provisions of this chapter to carry his own
+liability on his employees covered by this chapter;
+(8) "Department" means the Department of Workers' Claims in the Education and Labor Cabinet;
+(9) "Commissioner" means the commissioner of the Department of Workers' Claims under the direction and
+supervision of the secretary of the Education and Labor Cabinet;
+(10) "Board" means the Workers' Compensation Board;
+(11) (a) "Temporary total disability" means the condition of an employee who has not reached maximum
+medical improvement from an injury and has not reached a level of improvement that would permit a
+return to employment;
+(b) "Permanent partial disability" means the condition of an employee who, due to an injury, has a
+permanent disability rating but retains the ability to work; and
+(c) "Permanent total disability" means the condition of an employee who, due to an injury, has a permanent
+disability rating and has a complete and permanent inability to perform any type of work as a result of
+an injury, except that total disability shall be irrebuttably presumed to exist for an injury that results in:
+1. Total and permanent loss of sight in both eyes;
+2. Loss of both feet at or above the ankle;
+3. Loss of both hands at or above the wrist;
+Legislative Research Commission PDF Version
+
+2 ACTS OF THE GENERAL ASSEMBLY
+4. Loss of one (1) foot at or above the ankle and the loss of one (1) hand at or above the wrist;
+5. Permanent and complete paralysis of both arms, both legs, or one (1) arm and one (1) leg;
+6. Incurable insanity or imbecility; or
+7. Total loss of hearing;
+(12) "Income benefits" means payments made under the provisions of this chapter to the disabled worker or his
+dependents in case of death, excluding medical and related benefits;
+(13) "Medical and related benefits" means payments made for medical, hospital, burial, and other services as
+provided in this chapter, other than income benefits;
+(14) "Compensation" means all payments made under the provisions of this chapter representing the sum of income
+benefits and medical and related benefits;
+(15) "Medical services" means medical, surgical, dental, hospital, nursing, and medical rehabilitation services,
+medicines, and fittings for artificial or prosthetic devices;
+(16) "Person" means any individual, partnership, limited partnership, limited liability company, firm, association,
+trust, joint venture, corporation, or legal representative thereof;
+(17) "Wages" means, in addition to money payments for services rendered, the reasonable value of board, rent,
+housing, lodging, fuel, or similar advantages received from the employer, and gratuities received in the course
+of employment from persons other than the employer as evidenced by the employee's federal and state tax
+returns;
+(18) "Agriculture" means the operation of farm premises, including the planting, cultivation, producing, growing,
+harvesting, and preparation for market of agricultural or horticultural commodities thereon, the raising of
+livestock for food products and for racing purposes, and poultry thereon, and any work performed as an
+incident to or in conjunction with the farm operations, including the sale of produce at on-site markets and the
+processing of produce for sale at on-site markets. It shall not include the commercial processing, packing,
+drying, storing, or canning of such commodities for market, or making cheese or butter or other dairy products
+for market;
+(19) "Beneficiary" means any person who is entitled to income benefits or medical and related benefits under this
+chapter;
+(20) "United States," when used in a geographic sense, means the several states, the District of Columbia, the
+Commonwealth of Puerto Rico, the Canal Zone, and the territories of the United States;
+(21) "Alien" means a person who is not a citizen, a national, or a resident of the United States or Canada. Any
+person not a citizen or national of the United States who relinquishes or is about to relinquish his residence in
+the United States shall be regarded as an alien;
+(22) "Insurance carrier" means every insurance carrier or insurance company authorized to do business in the
+Commonwealth writing workers' compensation insurance coverage and includes the Kentucky Employers
+Mutual Insurance Authority and every self-insured group operating under the provisions of this chapter;
+(23) (a) "Severance or processing of coal" means all activities performed in the Commonwealth at underground,
+auger, and surface mining sites; all activities performed at tipple or processing plants that clean, break,
+size, or treat coal; and all activities performed at coal loading facilities for trucks, railroads, and barges.
+Severance or processing of coal shall not include acts performed by a final consumer if the acts are
+performed at the site of final consumption.
+(b) "Engaged in severance or processing of coal" shall include all individuals, partnerships, limited
+partnerships, limited liability companies, corporations, joint ventures, associations, or any other
+business entity in the Commonwealth which has employees on its payroll who perform any of the acts
+stated in paragraph (a) of this subsection, regardless of whether the acts are performed as owner of the
+coal or on a contract or fee basis for the actual owner of the coal. A business entity engaged in the
+severance or processing of coal, including but not limited to administrative or selling functions, shall be
+considered wholly engaged in the severance or processing of coal for the purpose of this chapter.
+However, a business entity which is engaged in a separate business activity not related to coal, for
+which a separate premium charge is not made, shall be deemed to be engaged in the severance or
+processing of coal only to the extent that the number of employees engaged in the severance or
+processing of coal bears to the total number of employees. Any employee who is involved in the
+
+CHAPTER 93 3
+business of severing or processing of coal and business activities not related to coal shall be prorated
+based on the time involved in severance or processing of coal bears to his total time;
+(24) "Premium" for every self-insured group means any and all assessments levied on its members by such group
+or contributed to it by the members thereof. For special fund assessment purposes, "premium" also includes
+any and all membership dues, fees, or other payments by members of the group to associations or other entities
+used for underwriting, claims handling, loss control, premium audit, actuarial, or other services associated with
+the maintenance or operation of the self-insurance group;
+(25) (a) "Premiums received" for policies effective on or after January 1, 1994, for insurance companies means
+direct written premiums as reported in the annual statement to the Department of Insurance by
+insurance companies, except that "premiums received" includes premiums charged off or deferred, and,
+on insurance policies or other evidence of coverage with provisions for deductibles, the calculated cost
+for coverage, including experience modification and premium surcharge or discount, prior to any
+reduction for deductibles. The rates, factors, and methods used to calculate the cost for coverage under
+this paragraph for insurance policies or other evidence of coverage with provisions for deductibles shall
+be the same rates, factors, and methods normally used by the insurance company in Kentucky to
+calculate the cost for coverage for insurance policies or other evidence of coverage without provisions
+for deductibles, except that, for insurance policies or other evidence of coverage with provisions for
+deductibles effective on or after January 1, 1995, the calculated cost for coverage shall not include any
+schedule rating modification, debits, or credits. For policies with provisions for deductibles with
+effective dates on or after January 1, 1995, assessments shall be imposed on premiums received as
+calculated by the deductible program adjustment. The cost for coverage calculated under this paragraph
+by insurance companies that issue only deductible insurance policies in Kentucky shall be actuarially
+adequate to cover the entire liability of the employer for compensation under this chapter, including all
+expenses and allowances normally used to calculate the cost for coverage. For policies with provisions
+for deductibles with effective dates of May 6, 1993, through December 31, 1993, for which the
+insurance company did not report premiums and remit special fund assessments based on the calculated
+cost for coverage prior to the reduction for deductibles, "premiums received" includes the initial
+premium plus any reimbursements invoiced for losses, expenses, and fees charged under the
+deductibles. The special fund assessment rates in effect for reimbursements invoiced for losses,
+expenses, or fees charged under the deductibles shall be those percentages in effect on the effective date
+of the insurance policy. For policies covering covered employees having a co-employment relationship
+with a professional employer organization and a client as defined in KRS Chapter 336, "premiums
+received" means premiums calculated using the experience modification factor of each client as defined
+in KRS Chapter 336 for each covered employee for that portion of the payroll pertaining to the covered
+employee.
+(b) "Direct written premium" for insurance companies means the gross premium written less return
+premiums and premiums on policies not taken but including policy and membership fees.
+(c) "Premium," for policies effective on or after January 1, 1994, for insurance companies means all
+consideration, whether designated as premium or otherwise, for workers' compensation insurance paid
+to an insurance company or its representative, including, on insurance policies with provisions for
+deductibles, the calculated cost for coverage, including experience modification and premium surcharge
+or discount, prior to any reduction for deductibles. The rates, factors, and methods used to calculate the
+cost for coverage under this paragraph for insurance policies or other evidence of coverage with
+provisions for deductibles shall be the same rates, factors, and methods normally used by the insurance
+company in Kentucky to calculate the cost for coverage for insurance policies or other evidence of
+coverage without provisions for deductibles, except that, for insurance policies or other evidence of
+coverage with provisions for deductibles effective on or after January 1, 1995, the calculated cost for
+coverage shall not include any schedule rating modifications, debits, or credits. For policies with
+provisions for deductibles with effective dates on or after January 1, 1995, assessments shall be
+imposed as calculated by the deductible program adjustment. The cost for coverage calculated under
+this paragraph by insurance companies that issue only deductible insurance policies in Kentucky shall
+be actuarially adequate to cover the entire liability of the employer for compensation under this chapter,
+including all expenses and allowances normally used to calculate the cost for coverage. For policies
+with provisions for deductibles with effective dates of May 6, 1993, through December 31, 1993, for
+which the insurance company did not report premiums and remit special fund assessments based on the
+calculated cost for coverage prior to the reduction for deductibles, "premium" includes the initial
+Legislative Research Commission PDF Version
+
+4 ACTS OF THE GENERAL ASSEMBLY
+consideration plus any reimbursements invoiced for losses, expenses, or fees charged under the
+deductibles.
+(d) "Return premiums" for insurance companies means amounts returned to insureds due to endorsements,
+retrospective adjustments, cancellations, dividends, or errors.
+(e) "Deductible program adjustment" means calculating premium and premiums received on a gross basis
+without regard to the following:
+1. Schedule rating modifications, debits, or credits;
+2. Deductible credits; or
+3. Modifications to the cost of coverage from inception through and including any audit that are
+based on negotiated retrospective rating arrangements, including but not limited to large risk
+alternative rating options;
+(26) "Insurance policy" for an insurance company or self-insured group means the term of insurance coverage
+commencing from the date coverage is extended, whether a new policy or a renewal, through its expiration,
+not to exceed the anniversary date of the renewal for the following year;
+(27) "Self-insurance year" for a self-insured group means the annual period of certification of the group created
+pursuant to KRS 342.350(4) and 304.50-010;
+(28) "Premium" for each employer carrying his own risk pursuant to KRS 342.340(1) shall be the projected value
+of the employer's workers' compensation claims for the next calendar year as calculated by the commissioner
+using generally-accepted actuarial methods as follows:
+(a) The base period shall be the earliest three (3) calendar years of the five (5) calendar years immediately
+preceding the calendar year for which the calculation is made. The commissioner shall identify each
+claim of the employer which has an injury date or date of last injurious exposure to the cause of an
+occupational disease during each one (1) of the three (3) calendar years to be used as the base, and shall
+assign a value to each claim. The value shall be the total of the indemnity benefits paid to date and
+projected to be paid, adjusted to current benefit levels, plus the medical benefits paid to date and
+projected to be paid for the life of the claim, plus the cost of medical and vocational rehabilitation paid
+to date and projected to be paid. Adjustment to current benefit levels shall be done by multiplying the
+weekly indemnity benefit for each claim by the number obtained by dividing the statewide average
+weekly wage which will be in effect for the year for which the premium is being calculated by the
+statewide average weekly wage in effect during the year in which the injury or date of the last exposure
+occurred. The total value of the claims using the adjusted weekly benefit shall then be calculated by the
+commissioner. Values for claims in which awards have been made or settlements reached because of
+findings of permanent partial or permanent total disability shall be calculated using the mortality and
+interest discount assumptions used in the latest available statistical plan of the advisory rating
+organization defined in Subtitle 13 of KRS Chapter 304. The sum of all calculated values shall be
+computed for all claims in the base period;
+(b) The commissioner shall obtain the annual payroll for each of the three (3) years in the base period for
+each employer carrying his own risk from records of the department and from the records of the
+Department of Workforce Development, Education and Labor Cabinet. The commissioner shall
+multiply each of the three (3) years of payroll by the number obtained by dividing the statewide average
+weekly wage which will be in effect for the year in which the premium is being calculated by the
+statewide average weekly wage in effect in each of the years of the base period;
+(c) The commissioner shall divide the total of the adjusted claim values for the three (3) year base period
+by the total adjusted payroll for the same three (3) year period. The value so calculated shall be
+multiplied by 1.25 and shall then be multiplied by the employer's most recent annualized payroll,
+calculated using records of the department and the Department of Workforce Development data which
+shall be made available for this purpose on a quarterly basis as reported, to obtain the premium for the
+next calendar year for assessment purposes under KRS 342.122;
+(d) For November 1, 1987, through December 31, 1988, premium for each employer carrying its own risk
+shall be an amount calculated by the board pursuant to the provisions contained in this subsection and
+such premium shall be provided to each employer carrying its own risk and to the funding commission
+on or before January 1, 1988. Thereafter, the calculations set forth in this subsection shall be performed
+annually, at the time each employer applies or renews its application for certification to carry its own
+
+CHAPTER 93 5
+risk for the next twelve (12) month period and submits payroll and other data in support of the
+application. The employer and the funding commission shall be notified at the time of the certification
+or recertification of the premium calculated by the commissioner, which shall form the employer's basis
+for assessments pursuant to KRS 342.122 for the calendar year beginning on January 1 following the
+date of certification or recertification;
+(e) If an employer having fewer than five (5) years of doing business in this state applies to carry its own
+risk and is so certified, its premium for the purposes of KRS 342.122 shall be based on the lesser
+number of years of experience as may be available including the two (2) most recent years if necessary
+to create a three (3) year base period. If the employer has less than two (2) years of operation in this
+state available for the premium calculation, then its premium shall be the greater of the value obtained
+by the calculation called for in this subsection or the amount of security required by the commissioner
+pursuant to KRS 342.340(1);
+(f) If an employer is certified to carry its own risk after having previously insured the risk, its premium
+shall be calculated using values obtained from claims incurred while insured for as many of the years of
+the base period as may be necessary to create a full three (3) year base. After the employer is certified to
+carry its own risk and has paid all amounts due for assessments upon premiums paid while insured, the
+employer shall be assessed only upon the premium calculated under this subsection;
+(g) "Premium" for each employer defined in KRS 342.630(2) shall be calculated as set forth in this
+subsection; and
+(h) Notwithstanding any other provision of this subsection, the premium of any employer authorized to
+carry its own risk for purposes of assessments due under this chapter shall be no less than thirty cents
+($0.30) per one hundred dollars ($100) of the employer's most recent annualized payroll for employees
+covered by this chapter;
+(29) "SIC code" as used in this chapter means the Standard Industrial Classification Code contained in the latest
+edition of the Standard Industrial Classification Manual published by the Federal Office of Management and
+Budget;
+(30) "Investment interest" means any pecuniary or beneficial interest in a provider of medical services or treatment
+under this chapter, other than a provider in which that pecuniary or investment interest is obtained on terms
+equally available to the public through trading on a registered national securities exchange, such as the New
+York Stock Exchange or the American Stock Exchange, or on the National Association of Securities Dealers
+Automated Quotation System;
+(31) "Managed health care system" means a health care system that employs gatekeeper providers, performs
+utilization review, and does medical bill audits;
+(32) "Physician" means physicians and surgeons, audiologists holding a doctorate in audiology, psychologists,
+optometrists, dentists, podiatrists, and osteopathic and chiropractic practitioners acting within the scope of the
+license or other credentials required by his or her specialty of practice in the United States jurisdiction in
+which he or she is authorized to practice;
+(33) "Objective medical findings" means information gained through direct observation and testing of the patient
+applying objective or standardized methods;
+(34) "Work" means providing services to another in return for remuneration on a regular and sustained basis in a
+competitive economy;
+(35) "Permanent impairment rating" means percentage of whole body impairment caused by the injury or
+occupational disease as determined by the "Guides to the Evaluation of Permanent Impairment";
+(36) "Permanent disability rating" means the permanent impairment rating selected by an administrative law judge
+times the factor set forth in the table that appears at KRS 342.730(1)(b); and
+(37) "Guides to the Evaluation of Permanent Impairment" means, except as provided in KRS 342.262:
+(a) The fifth edition published by the American Medical Association; and
+(b) For psychological impairments, Chapter 12 of the second edition published by the American Medical
+Association.
+Section 2. KRS 342.213 is amended to read as follows:
+Legislative Research Commission PDF Version
+
+6 ACTS OF THE GENERAL ASSEMBLY
+(1) The Governor shall make all appointments to the board, and appoint the administrative law judges of the
+Department of Workers' Claims, subject to the consent of the Senate in accordance with KRS 11.160, and in
+accordance with this section and KRS 342.215 and 342.230 by choosing from names presented to him or her
+by the Workers' Compensation Nominating Committee.
+(2) The Workers' Compensation Nominating Committee shall consist of five (5) members appointed by the
+Governor as follows:
+(a) 1. One (1) member of the political party having the largest number of registered voters and one (1)
+member of the political party having the second largest number of registered voters shall serve a
+term of two (2) years;
+2. One (1) member of the political party having the largest number of registered voters shall serve a
+term of three (3) years; and
+3. Thereafter, upon the expiration of a term, the vacancy created shall be filled by an appointee
+from the same political party for a term of four (4) years;
+(b) 1. Two (2) members who shall be attorneys with experience in the practice of workers'
+compensation, one (1) who customarily represents claimants and one (1) who customarily
+represents employers, each of whom shall serve a term of four (4) years; and
+2. Thereafter, upon expiration of a term, the vacancy shall be filled by an appointee who meets the
+same required qualifications or criteria and who shall serve a term of four (4) years;
+(c) Appointments to fill the unexpired term of a member due to the resignation of a member, removal of a
+member pursuant to KRS 63.080, or any other reason shall be for the remainder of the term, and the
+new appointee shall meet the same required qualifications or criteria as stated in this section; and
+(d) At the first meeting of each calendar year, the members shall select a chairman of the nominating
+committee who shall serve as chairman for the duration of that calendar year.
+(3) Notwithstanding the provisions of subsection (2) of this section, at least two (2) members of the Workers'
+Compensation Nominating Committee shall be individuals who directly derive no earned income from the
+workers' compensation program. In order to satisfy the requirement of this subsection, the Governor shall
+remove any existing member of the Workers' Compensation Nominating Committee who directly derives
+earned income from the workers' compensation program and replace that member with an individual who does
+not derive earned income from the workers' compensation program.
+(4) The commissioner shall monitor the workload of the administrative law judges and, whenever a vacancy
+occurs, determine whether filling the position is necessary to expeditious resolution of claims brought under
+this chapter. One hundred fifty (150) days[One hundred twenty (120) days] prior to the expiration of the terms
+of the administrative law judges, and when a vacancy occurs under other circumstances, the commissioner
+shall certify to the Workers' Compensation Nominating Committee that filling the position is necessary and the
+Workers' Compensation Nominating Committee shall act to fill only such positions as have been certified as
+necessary by the commissioner.
+(5) (a) The Workers' Compensation Nominating Committee shall consult with the commissioner, chief
+administrative law judge, and a member of the Workers' Compensation Board as to the performance in
+office of the administrative law judges. The Workers' Compensation Nominating Committee may
+recommend retention of any sitting administrative law judge or board member, or present to the
+Governor the names of three (3) qualified individuals nominated for the position. The Workers'
+Compensation Nominating Committee shall report its recommendation for retention to the Governor no
+later than thirty (30) days after receipt from the commissioner of certification of the necessity to fill the
+position and shall render to the Governor its list of nominees to fill vacancies within sixty (60) days of
+receipt of the commissioner's certification. The name of an individual who has been rejected by the
+Governor when recommended for retention shall not be presented thereafter as a nominee for the same
+position. No sitting administrative law judge shall be nominated to fill more than one (1) vacancy
+except for separate vacancies as an administrative law judge.
+(b) Within thirty (30) days of receipt of the recommendation, the Governor may reject recommendations of
+retention, in which event the Workers' Compensation Nominating Committee shall, within thirty (30)
+days, reconvene and present a list of the names of three (3) nominees for each position for which a
+recommendation for retention has been rejected by the Governor.
+
+CHAPTER 93 7
+(6) The commissioner shall be subject to Senate confirmation in accordance with KRS 11.160.
+(7) (a) The Governor shall appoint the members of the Workers' Compensation Board. If a sitting board
+member is not retained, the[The] nominating committee shall present to the Governor a list of three (3)
+candidates for appointment to the board no later than thirty (30) days prior to the expiration of a board
+member's term. For the purpose of filling vacancies on the board which occur for reasons other than an
+expiration of term, the nominating committee shall present a list of three (3) names to the Governor no
+later than sixty (60) days after a vacancy occurs.
+(b) If the Governor fails to appoint a member of the board within thirty (30) days following receipt of a list
+of names from the nominating committee, the previous appointee may remain in the position until
+adjournment of the Senate the year following the expiration of his or her term[the ninetieth day
+following the date the nominating committee provided the Governor with its list of names], at which
+time he or she shall vacate the position.
+(c) Each newly appointed member of the board shall not assume his or her office until thirty (30) days
+after confirmation by the Senate. Members who are reappointed shall continue to serve in their
+capacity until the reappointment is confirmed by the Senate or the Senate adjourns without
+confirming the appointment.
+(8) (a) The nominating committee shall meet as often as necessary to perform its statutory responsibilities,
+including but not limited to the mandates enumerated in this section, and a majority of the members
+shall constitute a quorum for the transaction of business; and
+(b) The members shall be reimbursed from funds collected pursuant to KRS 342.122 for necessary
+expenses in the manner and amounts prescribed for state employees by KRS 45.101 and the
+administrative regulations promulgated under the authority of that statute. Members of the nominating
+committee shall not be paid for their attendance at any meeting.
+Section 3. KRS 342.215 is amended to read as follows:
+(1) The Workers' Compensation Board is hereby created and established. The board shall rule on appeals of
+decisions rendered by administrative law judges under this chapter. The board shall rule on an appeal of a
+decision of an administrative law judge no later than sixty (60) days following the date on which the last
+appeal brief was filed.
+(2) The Workers' Compensation Board shall consist of three (3) members appointed by the Governor. Each
+member shall hold no other public office and shall devote his or her full time to the duties of his or her office.
+Each member shall be exempt from the classified service, and his or her support staff may be exempt from the
+classified service.
+(3) Of the members of the board appointed under this section, any member appointed to fill an unexpired term
+shall immediately assume the office subject to the confirmation by the Senate in accordance with KRS
+11.160 for the remainder of the term. Any member not currently pending reappointment by the Senate with
+a term expiring on or before:
+(a) December 1, 2025, shall continue serving a term that shall expire on June 1, 2026;
+(b) December 1, 2026, shall continue serving a term that shall expire on June 1, 2027; or
+(c) December 1, 2027, shall continue serving a term that shall expire on June 1, 2028[one (1) shall serve
+a term that shall expire on January 4, 2002; one (1) shall serve a term that shall expire on January 4,
+2003; and one (1) shall serve a term that shall expire on January 4, 2004, as designated by the Governor
+at the time of appointment].
+Thereafter, each term of a board member shall run for four (4) years from the date of expiration of the term for
+which the member's predecessor was appointed, except that a person appointed to fill a vacancy prior to the
+expiration of a term shall be appointed for the remainder of the term. The Governor shall not appoint a
+member of the board to fill the unexpired term of another board member, nor shall the Governor reappoint a
+member of the board who has been removed from his or her position prior to the expiration of his or her term.
+The members of the board shall have the qualifications required of appeals court judges, except for residence
+in a district, and shall receive the same salary and shall be subject to the same standards of conduct. The
+Governor shall designate a member of the board to serve as chairman. Any vacancy in the chairmanship shall
+be filled by the Governor. The Governor may at any time remove any member for cause after furnishing the
+Legislative Research Commission PDF Version
+
+8 ACTS OF THE GENERAL ASSEMBLY
+member with a written copy of the charges against him or her and giving the member a public hearing if he or
+she requests it.
+(4) A decision concurred in by any two (2) of the three (3) members shall constitute a decision of the board.
+(5) Members of the Workers' Compensation Board and the administrative law judges shall be members of the
+Kentucky Employees Retirement System.
+(6) The Workers' Compensation Board shall be attached to the Department of Workers' Claims in the Education
+and Labor Cabinet.
+Section 4. KRS 342.230 is amended to read as follows:
+(1) The commissioner with the assistance of the board shall train and instruct the administrative law judges on an
+ongoing basis; assign cases; and monitor the caseloads of the administrative law judges and the Workers'
+Compensation Board to ensure timely disposition of cases; keep and be the custodian of the records of the
+board and the administrative law judges; annually report the activities of the board and the administrative law
+judges to the Governor; and devote his or her full time to the duties of his or her office. The commissioner
+shall be paid a salary not less than the salary of a member of the board.
+(2) The Governor shall appoint, with the consent of the Senate in accordance with KRS 11.160 for a term of four
+(4) years, not more than nineteen (19) administrative law judges, each of whom shall be an attorney and shall
+have five (5) years' experience in the Commonwealth in the practice of workers' compensation law or a related
+field, and extensive knowledge of workers' compensation law, and shall be paid the same salary as a Circuit
+Judge. Each newly appointed administrative law judge shall not assume his or her office until June 1
+following confirmation by the Senate. Administrative law judges who are reappointed shall continue to
+serve in their capacity until the reappointment is confirmed by the Senate or the Senate adjourns without
+confirming the appointment. Each administrative law judge shall be exempt from the classified service, and
+his or her support staff may be exempt from the classified service. Each administrative law judge may be
+employed for additional terms with the consent of the Senate in accordance with KRS 11.160. The Governor,
+at least thirty (30) days prior to the expiration of a term of an administrative law judge, shall provide the name
+of the individual whom he or she intends to appoint to the position to the chairman of the Senate Standing
+Committee on Economic Development, Tourism, and Labor[Senate Economic Development and Workforce
+Investment Committee]. These administrative law judges shall conduct hearings, and otherwise supervise the
+presentation of evidence and perform any other duties assigned to them by statute and shall render final
+decisions, orders, or awards. Administrative law judges may, in receiving evidence, make rulings affecting the
+competency, relevancy, and materiality of the evidence about to be presented and upon motions presented
+during the taking of evidence as will expedite the preparation of the case.
+(3) To ensure that the administrative law judges perform their responsibilities competently and issue decisions
+consistent with this chapter, the commissioner shall, at least twice annually, conduct training and education
+seminars in workers' compensation law; administrative law; and methods and procedures for writing well-
+reasoned, clear, correct, and concise opinions, orders, or awards.
+(4) The Governor may at any time remove the commissioner or any member of the board. The commissioner may
+remove any administrative law judge. A member of the board or an administrative law judge may be removed
+for good cause, including violation of the code of judicial ethics or the code of ethics applicable to the
+executive branch of the Commonwealth. In addition, an administrative law judge or a member of the board
+may be removed for the persistent or repeated failure to perform satisfactorily the specific duties assigned in
+this chapter, including the requirement of timely disposition of cases, review of attorney's fees, and failure to
+attend training and continuing education programs required by this section.
+(5) Any vacancy in the term of an administrative law judge, which occurs prior to the expiration of the term, shall
+be filled if necessary by appointment of the Governor in accordance with subsection (2) of this section within
+sixty (60) days from the date the vacancy occurs, with the consent of the Senate in accordance with KRS
+11.160, for the remainder of the term. An administrative law judge appointed to fill an unexpired term shall
+immediately assume the office subject to the confirmation by the Senate in accordance with KRS 11.160 for
+the remainder of the term.
+(6) Any administrative law judge not currently pending confirmation by the Senate with a term expiring on or
+before:
+(a) December 1, 2025, shall continue serving a term that shall expire on June 1, 2026;
+(b) December 1, 2026, shall continue serving a term that shall expire on June 1, 2027;
+
+CHAPTER 93 9
+(c) December 1, 2027, shall continue serving a term that shall expire on June 1, 2028; or
+(d) December 1, 2028, shall continue serving a term that shall expire on June 1, 2029[(a) On January 1,
+1998, the Governor shall make four (4) year appointments to fill as many of these positions as are
+necessary to fulfill the duties assigned to administrative law judges under this chapter.
+(b) On January 1, 2000, the Governor shall make four (4) year appointments to fill as many of these
+positions as are necessary to fulfill the duties assigned to administrative law judges under this chapter].
+(7) One (1) of the administrative law judges appointed pursuant to this section shall be appointed as a chief
+administrative law judge, to have the same qualifications, powers, duties, and requirements as those of other
+administrative law judges. The chief administrative law judge shall not be assigned regular dockets but shall
+instead assist the commissioner by doing all scheduling of the administrative law judges, handling dockets
+assigned to the administrative law judges in case of an emergency, providing supervision of the administrative
+law judges, and providing educational opportunities for the administrative law judges. The chief administrative
+law judge shall be paid at the same rate as the administrative law judges plus an additional three thousand
+dollars ($3,000) per year. At any time the commissioner may replace the chief administrative law judge with
+one (1) of the other administrative law judges at which time the former chief administrative law judge shall
+resume the duties assigned to the other administrative law judges pursuant to this chapter. On January 1, 1998,
+the commissioner shall employ a person in this position for a four (4) year term.
+Section 5. KRS 342.315 is amended to read as follows:
+(1) For workers who have had injuries or occupational hearing loss, the commissioner shall contract with the
+University of Kentucky,[ and] the University of Louisville, and the University of Pikeville medical schools to
+evaluate workers. For workers who have become affected by occupational diseases, the commissioner shall
+contract with the University of Kentucky,[ and] the University of Louisville, and the University of Pikeville
+medical schools, or other physicians otherwise duly qualified as "B" readers who are licensed in the
+Commonwealth and are board-certified pulmonary specialists. Referral for evaluation may be made whenever
+a medical question is at issue.
+(2) The physicians and institutions performing evaluations pursuant to this section shall render reports
+encompassing their findings and opinions in the form prescribed by the commissioner. Except as otherwise
+provided in KRS 342.316, the clinical findings and opinions of the designated evaluator shall be afforded
+presumptive weight by administrative law judges and the burden to overcome such findings and opinions shall
+fall on the opponent of that evidence. When administrative law judges reject the clinical findings and opinions
+of the designated evaluator, they shall specifically state in the order the reasons for rejecting that evidence.
+(3) The commissioner or an administrative law judge may, upon the application of any party or upon his own
+motion, direct appointment by the commissioner, pursuant to subsection (1) of this section, of a medical
+evaluator to make any necessary medical examination of the employee. Such medical evaluator shall file with
+the commissioner within fifteen (15) days after such examination a written report. The medical evaluator
+appointed may charge a reasonable fee not exceeding fees established by the commissioner for those services.
+(4) Within thirty (30) days of the receipt of a statement for the evaluation, the employer or carrier shall pay the
+cost of the examination. Upon notice from the commissioner that an evaluation has been scheduled, the
+insurance carrier shall forward within seven (7) days to the employee the expenses of travel necessary to
+attend the evaluation at a rate equal to that paid to state employees for travel by private automobile while
+conducting state business.
+(5) Upon claims in which it is finally determined that the injured worker was not the employee at the time of
+injury of an employer covered by this chapter, the special fund shall reimburse the carrier for any evaluation
+performed pursuant to this section for which the carrier has been erroneously compelled to make payment.
+(6) Not less often than annually the designee of the secretary of the Cabinet for Health and Family Services shall
+assess the performance of the medical schools and render findings as to whether evaluations conducted under
+this section are being rendered in a timely manner, whether examinations are conducted in accordance with
+medically recognized techniques, whether impairment ratings are in conformity with standards prescribed by
+the "Guides to the Evaluation of Permanent Impairment," and whether coal workers' pneumoconiosis
+examinations are conducted in accordance with the standards prescribed in this chapter.
+(7) The General Assembly finds that good public policy mandates the realization of the potential advantages, both
+economic and effectual, of the use of telehealth. The commissioner may, to the extent that he or she finds it
+Legislative Research Commission PDF Version
+
+10 ACTS OF THE GENERAL ASSEMBLY
+feasible and appropriate, require the use of telehealth, as defined in KRS 211.332, in the independent medical
+evaluation process required by this chapter.
+Became law without Governor's signature March 27, 2025.
+
+[DELETED:  " a a n i a c d u t o c t i i b t n o t e " w u g u t c " A a a n i t t w a a r o t e o b t n o t t " " " " " " m t c o t D o W C u t d a " ( " t d m t c o a e w h n r m " p d m t c o a e w d t a i h a " T L L]
+[DELETED:  L P I T " " a r b m p m f m h b a o s a " " s m m s d h n a m r s " " " " " " " w w c i c a i t K E ( " " i s o p o c s i a i p l l l c c j v a o a o w e i t s o p o c f t p t c o c o t t e t t n o e e i t s o o c b t t t e A e w i i i t]
+[DELETED:  " ( " w p a r i t a s t t D o I b c i e m a p s o d p t a t s r f a m n u b t i c i K t r m d o c F p w p f d w d w e d o M 6 1 t D 3 1 f w t f c p t t r f d " r i t i p a r i f l e a f c u t T s f a r i e f r i f l " w p f i c m t g p w l r " f p e o o a J 1 1 f i c m a a i c i r i o i w f c u t p f i p o o e o c w s n i a s r m d o c F p w f d w e d o o a J 1 1 a s b c f c p t t r f d " i t i]
+[DELETED:  p a r i f l e o f c u t " " S D M " " " T t b p a t c b l p t m p t d a d a u i t l a s p o t a r T e c h o r f r o t d a f t r o t o W D E a L C T c s T t t a p f t s t ( y p T v s c s b b 1 a s t b m b t e m r a p F]
+[DELETED:  f t n t ( m p a s p a o d i s o t I I " f e e d i K 3 s b c a s f i t N " " " h c s m a h c s t e g p p " " " " i r m p o w b i c b t i o " " T F]
+[DELETED:  T t T W C N C s c o f ( m a b t 1 O O T 1 T ( m w s b a w e i t p o w o ( w c r c a o ( w c T A A N T ( T W C N C s c w t c c o t a l j T W C N C m r o a s a l j o b m o p t t t n o t ( q i n f t p T W W]
+[DELETED:  T ( T G s m o t W C B I b I E u t r i c b t S o t S a w ( T T m s b r f f c p t K 3 f n i t m a a p f s e b K 4 a t T T W C B s c o t ( m a b t G E O D D DT]
+[DELETED:  A M T T T T T g c i v o t c o j e o t c o e a t t A A D D]
+[DELETED:  D D J 1 p O O F s o o p o d q a " r w a l i t T p a i p e p t t s s r r T W o t e U n f t c t a e h b s t U N " t t E o P I a w c w p T]

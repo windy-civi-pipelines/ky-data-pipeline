@@ -1,0 +1,581 @@
+Title: 1 AN ACT relating to the calculation of square footage for the purposes of
+Official Title: 1 AN ACT relating to the calculation of square footage for the purposes of
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS BR 1226
+2 postsecondary funding.
+3 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+4 Section 1. KRS 164.092 is amended to read as follows:
+5 (1) For purposes of this section:
+6 (a) "Category I and Category II square feet" means square footage that falls under
+7 space categories as defined by the Postsecondary Education Facilities
+8 Inventory and Classification Manual published by the United States
+9 Department of Education, but does not include square footage that the
+10 institution leases to another entity for a commercial purpose or is otherwise
+11 privatized, including but not limited to privatized student housing facilities
+12 and office spaces;
+13 (b) "Comprehensive university" has the same meaning as in KRS 164.001;
+14 (c) "Council" means the Council on Postsecondary Education;
+15 (d) "Equilibrium" means a condition in which every institution has an
+16 appropriately proportionate level of resources as determined by the
+17 performance funding model established in this section given each institution's
+18 level of productivity in achieving student success outcomes, course
+19 completion outcomes, and other components included in the model;
+20 (e) "Formula base amount" means an institution's enacted general fund
+21 appropriation amount minus debt service on bonds and appropriations for
+22 mandated programs;
+23 (f) "Hold-harmless provision" means a provision included in the funding
+24 formulas as described in subsection (9) of this section that prevents a
+25 reduction of a designated portion of funding for an institution through
+26 operation of the funding formula;
+27 (g) "Institution" means a college in the Kentucky Community and Technical
+Page 1 of 9
+XXXX 2/7/2025 4:30 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1226
+1 College System or a public university;
+2 (h) "KCTCS" means the Kentucky Community and Technical College System;
+3 (i) "KCTCS institution allocable resources" means the formula base amount net
+4 of any equity adjustment as described in subsection (7)(b) of this section, any
+5 amount protected by a hold-harmless provision, and any applicable increase
+6 or decrease in general fund appropriations;
+7 (j) "Mandated program" means a research or public service activity that is not
+8 integral to the instructional mission of the institution and is identified by the
+9 General Assembly in the biennial budget;
+10 (k) "Nontraditional age students" means students between the ages of twenty-five
+11 (25) and sixty-four (64);
+12 (l) "Performance fund" means the postsecondary education performance fund
+13 established in subsection (13) of this section;
+14 (m) "Research universities" means the University of Kentucky and the University
+15 of Louisville;
+16 (n) "Stop-loss provision" means a provision included in the funding formulas as
+17 described in subsection (9) of this section to limit reduction of an institution's
+18 funding amount to a predetermined percentage, notwithstanding the amounts
+19 calculated by operation of the formula; and
+20 (o) "University allocable resources" means the formula base amount net of any
+21 small school adjustment as described in subsection (5)(c) of this section, any
+22 amount protected by a hold-harmless provision, and any applicable increase
+23 or decrease in general fund appropriations.
+24 (2) The General Assembly hereby finds that improving opportunity for the
+25 Commonwealth's citizens and building a stronger economy can be achieved by its
+26 public college and university system focusing its efforts and resources on the goals
+27 of:
+Page 2 of 9
+XXXX 2/7/2025 4:30 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1226
+1 (a) Increasing the retention and progression of students toward timely credential
+2 or degree completion;
+3 (b) Increasing the number and types of credentials and degrees earned by all types
+4 of students;
+5 (c) Increasing the number of credentials and degrees that garner higher salaries
+6 upon graduation, such as science, technology, engineering, math, and health,
+7 and in areas of industry demand;
+8 (d) Closing achievement gaps by increasing the number of credentials and
+9 degrees earned by low-income students, underprepared students,
+10 underrepresented students, and nontraditional age students; and
+11 (e) Facilitating credit hour accumulation and transfer of students from KCTCS to
+12 four (4) year postsecondary institutions.
+13 (3) (a) The General Assembly hereby declares these goals can best be accomplished
+14 by implementing a comprehensive funding model for the allocation of state
+15 general fund appropriations for postsecondary institution operations that
+16 aligns the Commonwealth's investments in postsecondary education with the
+17 Commonwealth's postsecondary education policy goals and objectives.
+18 (b) The General Assembly further recognizes that priority for state general fund
+19 appropriations for postsecondary institutions should be given to each
+20 institution's funding floor over appropriations to the performance fund. For
+21 purposes of this section, "funding floor" means an institution's fiscal year
+22 2020-2021 general fund appropriation included in 2020 Ky. Acts ch. 92, plus
+23 any fiscal year 2020-2021 distribution from the performance fund, and minus
+24 fiscal year 2020-2021 debt service on bonds and appropriations for mandated
+25 programs.
+26 (4) This section establishes a comprehensive funding model for the public
+27 postsecondary education system to be implemented by the Council on
+Page 3 of 9
+XXXX 2/7/2025 4:30 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1226
+1 Postsecondary Education. The funding model shall include a public university
+2 sector formula and a KCTCS sector formula, and shall not include any race-based
+3 metrics or targets in the formulas.
+4 (5) The funding formula for the public university sector shall:
+5 (a) Recognize differences in missions and cost structures between research
+6 universities and comprehensive universities to ensure that neither are
+7 advantaged or disadvantaged during the first full year of implementation;
+8 (b) Distribute one hundred percent (100%) of the university allocable resources
+9 for all universities in the sector, based on rational criteria, including student
+10 success, course completion, and operational support components, regardless
+11 of whether state funding for postsecondary institution operations increases,
+12 decreases, or remains stable;
+13 (c) Include an adjustment to minimize impact on smaller campuses as determined
+14 by the council; and
+15 (d) Be constructed to achieve equilibrium, at which point the funding formula
+16 rewards rates of improvement above the sector average rate.
+17 (6) Funding for the public university sector shall be distributed as follows:
+18 (a) Forty percent (40%) of total university allocable resources shall be distributed
+19 based on each university's share of total student success outcomes produced,
+20 including but not limited to:
+21 1. Bachelor's degree production;
+22 2. Numbers of students progressing beyond thirty (30), sixty (60), and
+23 ninety (90) credit hour thresholds;
+24 3. Science, technology, engineering, math, and health bachelor's degree
+25 production; and
+26 4. Bachelor's degrees earned by low-income students and underrepresented
+27 students;
+Page 4 of 9
+XXXX 2/7/2025 4:30 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1226
+1 (b) Thirty percent (30%) of total university allocable resources shall be
+2 distributed based on each university's share of sector total student credit hours
+3 earned, excluding dual credit enrollment, weighted to account for cost
+4 differences by academic discipline and course level, such as lower and upper
+5 division baccalaureate, master's, doctoral research, doctoral professional, and
+6 nontraditional age students; and
+7 (c) Thirty percent (30%) of total university allocable resources shall be
+8 distributed in support of vital campus operations as follows:
+9 1. Ten percent (10%) shall be distributed based on each university's share
+10 of Category I and Category II square feet, net of research, nonclass
+11 laboratory, and open laboratory space, to support maintenance and
+12 operation of campus facilities and may include a space utilization factor
+13 as determined by the council in collaboration with the working group
+14 established in subsection (11) of this section;
+15 2. Ten percent (10%) shall be distributed based on each university's share
+16 of total instruction and student services spending, net of maintenance
+17 and operation, to support campus administrative functions; and
+18 3. Ten percent (10%) shall be distributed based on each university's share
+19 of total full-time equivalent student enrollment to support academic
+20 support services such as libraries and academic computing.
+21 (7) The funding formula for the KCTCS sector:
+22 (a) Shall distribute one hundred percent (100%) of KCTCS institution allocable
+23 resources for all KCTCS colleges based on rational criteria, including student
+24 success, course completion, and operational support components, regardless
+25 of whether state funding for postsecondary institution operations increases,
+26 decreases, or remains stable;
+27 (b) May include an adjustment to account for community economic disadvantage
+Page 5 of 9
+XXXX 2/7/2025 4:30 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1226
+1 in some regions of the Commonwealth as determined by the council; and
+2 (c) Shall be constructed to achieve equilibrium, at which point the funding
+3 formula rewards rates of improvement above the sector average rate.
+4 (8) Funding for the KCTCS sector shall be distributed as follows:
+5 (a) Thirty-five percent (35%) of total KCTCS institution allocable resources shall
+6 be distributed based on each college's share of total student success outcomes
+7 produced, including but not limited to:
+8 1. Certificate, diploma, and associate degree production, weighted to
+9 provide a premium for credentials that are aligned with the economic
+10 needs of the state;
+11 2. Numbers of students progressing beyond fifteen (15), thirty (30), and
+12 forty-five (45) credit hour thresholds;
+13 3. Credentials earned by low-income students, underprepared students,
+14 underrepresented students, and nontraditional age students; and
+15 4. Transfers to four (4) year institutions;
+16 (b) Thirty-five percent (35%) of total KCTCS institution allocable resources shall
+17 be distributed based on each college's share of total student credit hours
+18 earned, weighted to account for cost differences by academic discipline; and
+19 (c) Thirty percent (30%) of total KCTCS institution allocable resources shall be
+20 distributed in support of vital campus operations as follows:
+21 1. Ten percent (10%) shall be distributed based on each college's share of
+22 Category I and Category II square feet, net of research, nonclass
+23 laboratory, and open laboratory space, to support maintenance and
+24 operation of campus facilities and may include a space utilization factor
+25 as determined by the council in collaboration with the postsecondary
+26 education working group established in subsection (11) of this section;
+27 2. Ten percent (10%) shall be distributed based on each college's share of
+Page 6 of 9
+XXXX 2/7/2025 4:30 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1226
+1 total instruction and student services spending, net of maintenance and
+2 operation, to support campus administrative functions; and
+3 3. Ten percent (10%) shall be distributed based on each college's share of
+4 total full-time equivalent student enrollment to support academic
+5 support services such as libraries and academic computing.
+6 (9) (a) The funding formula for both sectors shall include:
+7 1. A hold-harmless provision for fiscal year 2018-2019 preventing a
+8 reduction in an institution's funding amount based solely on the formula
+9 calculation, and allowing a hold-harmless amount determined by the
+10 formula in fiscal year 2018-2019 to be deducted from an institution's
+11 formula base amount in whole or in part in fiscal years 2019-2020 and
+12 2020-2021, as determined by the council;
+13 2. A hold-harmless provision for fiscal year 2021-2022, and every fiscal
+14 year thereafter, preventing a reduction in an institution's funding amount
+15 based solely on the formula calculation;
+16 3. A stop-loss provision for fiscal year 2019-2020 limiting the reduction in
+17 funding to any institution to one percent (1%) of that institution's
+18 formula base amount;
+19 4. A stop-loss provision for fiscal year 2020-2021 limiting the reduction in
+20 funding to any institution to two percent (2%) of that institution's
+21 formula base amount; and
+22 5. A stop-loss provision for fiscal year 2021-2022, and every fiscal year
+23 thereafter, limiting the reduction in funding to any institution to zero
+24 percent (0%) of that institution's formula base amount.
+25 (b) Paragraph (a) of this subsection shall not be construed to limit the level of a
+26 budget reduction that may be enacted by the General Assembly or
+27 implemented by the Governor.
+Page 7 of 9
+XXXX 2/7/2025 4:30 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1226
+1 (10) (a) By May 1 each year, the council shall certify to the Office of the State Budget
+2 Director the amount to be distributed to each of the public universities and
+3 KCTCS as determined by the comprehensive funding model created in this
+4 section, not to exceed the available balance in the performance fund.
+5 (b) The Office of the State Budget Director shall distribute the appropriations in
+6 the performance fund for that fiscal year to the institutions in the amounts the
+7 council has certified. The adjusted appropriations to each institution shall be
+8 allotted as provided in KRS 48.600, 48.605, 48.610, 48.620, and 48.630.
+9 (c) 1. The certified amounts distributed from the performance fund to the
+10 institutions are nonrecurring funds that shall not be included in the
+11 institutions' base budget amounts submitted in their biennial budget
+12 requests.
+13 2. The certified amounts distributed from the performance fund in the
+14 previous fiscal year shall be included in the performance fund's base
+15 budget amount submitted by the council in the biennial budget request.
+16 (d) For fiscal year 2017-2018, the Office of the State Budget Director shall
+17 distribute to the public postsecondary education institutions, except for
+18 Kentucky State University, those funds appropriated to the performance fund
+19 by the General Assembly in 2016 Ky. Acts ch. 149, Part I, K., 12., in
+20 accordance with the comprehensive funding model created in this section.
+21 (11) (a) The Council on Postsecondary Education is hereby directed to establish a
+22 postsecondary education working group composed of the following:
+23 1. The president of the council;
+24 2. The president or designee of each public postsecondary institution,
+25 including the president of KCTCS;
+26 3. The Governor or designee;
+27 4. The Speaker of the House or designee; and
+Page 8 of 9
+XXXX 2/7/2025 4:30 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1226
+1 5. The President of the Senate or designee.
+2 (b) Beginning in fiscal year 2020-2021 and every three (3) fiscal years thereafter,
+3 the postsecondary education working group shall convene to determine if the
+4 comprehensive funding model is functioning as expected, identify any
+5 unintended consequences of the model, and recommend any adjustments to
+6 the model. The council may call the working group to convene prior to the
+7 start of the required fiscal year to allow sufficient time for the group to
+8 complete its work.
+9 (c) The results of the review and recommendations of the working group shall be
+10 reported by the council to the Governor, the Interim Joint Committee on
+11 Appropriations and Revenue, and the Interim Joint Committee on Education
+12 by December 1 of each fiscal year the working group convenes.
+13 (12) The council shall promulgate administrative regulations under KRS Chapter 13A to
+14 implement the provisions of this section.
+15 (13) (a) The postsecondary education performance fund is hereby established as an
+16 appropriation unit to support improvement in the operations of the public
+17 postsecondary institutions and achievement of the Commonwealth's education
+18 policy goals and workforce development priorities. General fund moneys may
+19 be appropriated by the General Assembly to this fund for distribution to the
+20 public postsecondary institutions in amounts determined through the
+21 comprehensive funding model created in this section.
+22 (b) Any balance in the performance fund at the close of any fiscal year shall not
+23 lapse but shall be carried forward to the next fiscal year and be continuously
+24 appropriated for the purposes specified in this section. A general statement
+25 that all continuing appropriations are repealed, discontinued, or suspended
+26 shall not operate to repeal, discontinue, or suspend this fund or to repeal this
+27 action.
+Page 9 of 9
+XXXX 2/7/2025 4:30 PM Jacketed
+[DELETED:   2  J A A r t t c o s f f t p o p B S ( F ( " s c a d b t P E F I a C M p b t U S D o E b d n i s f t t i p a ( " ( " ( " m a c i w e i h a a p l o r a d b t p l o p i a s s o c c ( " b a m a i e g f a a m d s o b a a f m ( " p m a p i i t f f a d i s ( o t s t p a r o a d p o f f a i t o ( " m a c i t K C a T]
+[DELETED:   2  J C ( " ( " o a o ( " i G ( " ( ( " f m t p e p f e ( " o ( " d f c ( " s a o ( T G A h f t i o f t C p o]
+[DELETED:   2  J ( I o ( I o ( I u a ( C a g b i t n o c a d e b l s u s u ( F f ( ( T b g f a f p i o t a C ( T a f p i s b g t e i f F p o t s " f m a i f y 2 a f p ( T s e a c f m f t p p e s t b i b t C o]
+[DELETED:   2  J P E T f m s i a p u s m ( T ( R d i m a c s b r u a c u t e t n a a ( D f s o w s f f p i o i d ( I b ( B c t a e a w p t f f r ( F ( F b i 1 B 2 N o s p b t ( s ( a n 3 S t e m a h b d p 4 B s]
+[DELETED:   2  J ( T p ( o t u a r s b d e e d c e w t a f c d d n ( T p ( o t u a r s b d 1 T o C I a C I s f n o r n l a o l s t s m a o a e 2 T o i a s s n o a 3 T o t f e s e t s a s ( T ( S r s o w s f f p i o i d ( M]
+[DELETED:   2  J i ( S b c t a e a w p t f f ( F ( T b p 1 C d a a d p w t p n 2 N ( a f 3 C e b l s u s u 4 T ( T b d b o e c s o t s c h e ( T d 1 T C I a C I s f n o r n l a o l s t s m a o a d b t c i c w t p e 2 T]
+[DELETED:   2  J t o 3 T t f e s e t s a s ( ( T 1 A h p f f y 2 p a r c a a a h a d b t f i f y t b d f a i f 2 2 A y b 3 A f t a i t o p ( o t i f 4 A f t a i t t p ( o t i f 5 A t l t r i f t a i t z p ( P b r t m b e b t G A o i]
+[DELETED:   2  J ( ( B D K s ( T t c a ( 1 T c a d f t p f t t i a n f t s n b i i t i b b a s i t b b r 2 T c a d f t p f i t p f y s b i i t p f b b ( F f y 2 t O o t S B D s d t t p p e i e f K b t G A i 2 K A c 1 P I K 1 i a ( ( T C o P E i h d t e a p 1 T 2 T p o d o e p p i i 3 T 4 T]
+[DELETED:   2  J 5 T ( B t c f m i f a e i a u t s o t r f y t a s t f t g t c ( T r b t c t t G t I J C o A b ( T i ( ( T p p f i h e a a a u t s i i t o o t p p p b p p i i a d t t c ( A l a t a c a a r d o s s a]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS BR 1226
+1 AN ACT relating to the calculation of square footage for the purposes of
+2 postsecondary funding.
+3 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+4 Section 1. KRS 164.092 is amended to read as follows:
+5 (1) For purposes of this section:
+6 (a) "Category I and Category II square feet" means square footage that falls under
+7 space categories as defined by the Postsecondary Education Facilities
+8 Inventory and Classification Manual published by the United States
+9 Department of Education, but does not include square footage that the
+10 institution leases to another entity for a commercial purpose or is otherwise
+11 privatized, including but not limited to privatized student housing facilities
+12 and office spaces;
+13 (b) "Comprehensive university" has the same meaning as in KRS 164.001;
+14 (c) "Council" means the Council on Postsecondary Education;
+15 (d) "Equilibrium" means a condition in which every institution has an
+16 appropriately proportionate level of resources as determined by the
+17 performance funding model established in this section given each institution's
+18 level of productivity in achieving student success outcomes, course
+19 completion outcomes, and other components included in the model;
+20 (e) "Formula base amount" means an institution's enacted general fund
+21 appropriation amount minus debt service on bonds and appropriations for
+22 mandated programs;
+23 (f) "Hold-harmless provision" means a provision included in the funding
+24 formulas as described in subsection (9) of this section that prevents a
+25 reduction of a designated portion of funding for an institution through
+26 operation of the funding formula;
+27 (g) "Institution" means a college in the Kentucky Community and Technical
+Page 1 of 9
+XXXX 2/7/2025 4:30 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1226
+1 College System or a public university;
+2 (h) "KCTCS" means the Kentucky Community and Technical College System;
+3 (i) "KCTCS institution allocable resources" means the formula base amount net
+4 of any equity adjustment as described in subsection (7)(b) of this section, any
+5 amount protected by a hold-harmless provision, and any applicable increase
+6 or decrease in general fund appropriations;
+7 (j) "Mandated program" means a research or public service activity that is not
+8 integral to the instructional mission of the institution and is identified by the
+9 General Assembly in the biennial budget;
+10 (k) "Nontraditional age students" means students between the ages of twenty-five
+11 (25) and sixty-four (64);
+12 (l) "Performance fund" means the postsecondary education performance fund
+13 established in subsection (13) of this section;
+14 (m) "Research universities" means the University of Kentucky and the University
+15 of Louisville;
+16 (n) "Stop-loss provision" means a provision included in the funding formulas as
+17 described in subsection (9) of this section to limit reduction of an institution's
+18 funding amount to a predetermined percentage, notwithstanding the amounts
+19 calculated by operation of the formula; and
+20 (o) "University allocable resources" means the formula base amount net of any
+21 small school adjustment as described in subsection (5)(c) of this section, any
+22 amount protected by a hold-harmless provision, and any applicable increase
+23 or decrease in general fund appropriations.
+24 (2) The General Assembly hereby finds that improving opportunity for the
+25 Commonwealth's citizens and building a stronger economy can be achieved by its
+26 public college and university system focusing its efforts and resources on the goals
+27 of:
+Page 2 of 9
+XXXX 2/7/2025 4:30 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1226
+1 (a) Increasing the retention and progression of students toward timely credential
+2 or degree completion;
+3 (b) Increasing the number and types of credentials and degrees earned by all types
+4 of students;
+5 (c) Increasing the number of credentials and degrees that garner higher salaries
+6 upon graduation, such as science, technology, engineering, math, and health,
+7 and in areas of industry demand;
+8 (d) Closing achievement gaps by increasing the number of credentials and
+9 degrees earned by low-income students, underprepared students,
+10 underrepresented students, and nontraditional age students; and
+11 (e) Facilitating credit hour accumulation and transfer of students from KCTCS to
+12 four (4) year postsecondary institutions.
+13 (3) (a) The General Assembly hereby declares these goals can best be accomplished
+14 by implementing a comprehensive funding model for the allocation of state
+15 general fund appropriations for postsecondary institution operations that
+16 aligns the Commonwealth's investments in postsecondary education with the
+17 Commonwealth's postsecondary education policy goals and objectives.
+18 (b) The General Assembly further recognizes that priority for state general fund
+19 appropriations for postsecondary institutions should be given to each
+20 institution's funding floor over appropriations to the performance fund. For
+21 purposes of this section, "funding floor" means an institution's fiscal year
+22 2020-2021 general fund appropriation included in 2020 Ky. Acts ch. 92, plus
+23 any fiscal year 2020-2021 distribution from the performance fund, and minus
+24 fiscal year 2020-2021 debt service on bonds and appropriations for mandated
+25 programs.
+26 (4) This section establishes a comprehensive funding model for the public
+27 postsecondary education system to be implemented by the Council on
+Page 3 of 9
+XXXX 2/7/2025 4:30 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1226
+1 Postsecondary Education. The funding model shall include a public university
+2 sector formula and a KCTCS sector formula, and shall not include any race-based
+3 metrics or targets in the formulas.
+4 (5) The funding formula for the public university sector shall:
+5 (a) Recognize differences in missions and cost structures between research
+6 universities and comprehensive universities to ensure that neither are
+7 advantaged or disadvantaged during the first full year of implementation;
+8 (b) Distribute one hundred percent (100%) of the university allocable resources
+9 for all universities in the sector, based on rational criteria, including student
+10 success, course completion, and operational support components, regardless
+11 of whether state funding for postsecondary institution operations increases,
+12 decreases, or remains stable;
+13 (c) Include an adjustment to minimize impact on smaller campuses as determined
+14 by the council; and
+15 (d) Be constructed to achieve equilibrium, at which point the funding formula
+16 rewards rates of improvement above the sector average rate.
+17 (6) Funding for the public university sector shall be distributed as follows:
+18 (a) Forty percent (40%) of total university allocable resources shall be distributed
+19 based on each university's share of total student success outcomes produced,
+20 including but not limited to:
+21 1. Bachelor's degree production;
+22 2. Numbers of students progressing beyond thirty (30), sixty (60), and
+23 ninety (90) credit hour thresholds;
+24 3. Science, technology, engineering, math, and health bachelor's degree
+25 production; and
+26 4. Bachelor's degrees earned by low-income students and underrepresented
+27 students;
+Page 4 of 9
+XXXX 2/7/2025 4:30 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1226
+1 (b) Thirty percent (30%) of total university allocable resources shall be
+2 distributed based on each university's share of sector total student credit hours
+3 earned, excluding dual credit enrollment, weighted to account for cost
+4 differences by academic discipline and course level, such as lower and upper
+5 division baccalaureate, master's, doctoral research, doctoral professional, and
+6 nontraditional age students; and
+7 (c) Thirty percent (30%) of total university allocable resources shall be
+8 distributed in support of vital campus operations as follows:
+9 1. Ten percent (10%) shall be distributed based on each university's share
+10 of Category I and Category II square feet, net of research, nonclass
+11 laboratory, and open laboratory space, to support maintenance and
+12 operation of campus facilities and may include a space utilization factor
+13 as determined by the council in collaboration with the working group
+14 established in subsection (11) of this section;
+15 2. Ten percent (10%) shall be distributed based on each university's share
+16 of total instruction and student services spending, net of maintenance
+17 and operation, to support campus administrative functions; and
+18 3. Ten percent (10%) shall be distributed based on each university's share
+19 of total full-time equivalent student enrollment to support academic
+20 support services such as libraries and academic computing.
+21 (7) The funding formula for the KCTCS sector:
+22 (a) Shall distribute one hundred percent (100%) of KCTCS institution allocable
+23 resources for all KCTCS colleges based on rational criteria, including student
+24 success, course completion, and operational support components, regardless
+25 of whether state funding for postsecondary institution operations increases,
+26 decreases, or remains stable;
+27 (b) May include an adjustment to account for community economic disadvantage
+Page 5 of 9
+XXXX 2/7/2025 4:30 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1226
+1 in some regions of the Commonwealth as determined by the council; and
+2 (c) Shall be constructed to achieve equilibrium, at which point the funding
+3 formula rewards rates of improvement above the sector average rate.
+4 (8) Funding for the KCTCS sector shall be distributed as follows:
+5 (a) Thirty-five percent (35%) of total KCTCS institution allocable resources shall
+6 be distributed based on each college's share of total student success outcomes
+7 produced, including but not limited to:
+8 1. Certificate, diploma, and associate degree production, weighted to
+9 provide a premium for credentials that are aligned with the economic
+10 needs of the state;
+11 2. Numbers of students progressing beyond fifteen (15), thirty (30), and
+12 forty-five (45) credit hour thresholds;
+13 3. Credentials earned by low-income students, underprepared students,
+14 underrepresented students, and nontraditional age students; and
+15 4. Transfers to four (4) year institutions;
+16 (b) Thirty-five percent (35%) of total KCTCS institution allocable resources shall
+17 be distributed based on each college's share of total student credit hours
+18 earned, weighted to account for cost differences by academic discipline; and
+19 (c) Thirty percent (30%) of total KCTCS institution allocable resources shall be
+20 distributed in support of vital campus operations as follows:
+21 1. Ten percent (10%) shall be distributed based on each college's share of
+22 Category I and Category II square feet, net of research, nonclass
+23 laboratory, and open laboratory space, to support maintenance and
+24 operation of campus facilities and may include a space utilization factor
+25 as determined by the council in collaboration with the postsecondary
+26 education working group established in subsection (11) of this section;
+27 2. Ten percent (10%) shall be distributed based on each college's share of
+Page 6 of 9
+XXXX 2/7/2025 4:30 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1226
+1 total instruction and student services spending, net of maintenance and
+2 operation, to support campus administrative functions; and
+3 3. Ten percent (10%) shall be distributed based on each college's share of
+4 total full-time equivalent student enrollment to support academic
+5 support services such as libraries and academic computing.
+6 (9) (a) The funding formula for both sectors shall include:
+7 1. A hold-harmless provision for fiscal year 2018-2019 preventing a
+8 reduction in an institution's funding amount based solely on the formula
+9 calculation, and allowing a hold-harmless amount determined by the
+10 formula in fiscal year 2018-2019 to be deducted from an institution's
+11 formula base amount in whole or in part in fiscal years 2019-2020 and
+12 2020-2021, as determined by the council;
+13 2. A hold-harmless provision for fiscal year 2021-2022, and every fiscal
+14 year thereafter, preventing a reduction in an institution's funding amount
+15 based solely on the formula calculation;
+16 3. A stop-loss provision for fiscal year 2019-2020 limiting the reduction in
+17 funding to any institution to one percent (1%) of that institution's
+18 formula base amount;
+19 4. A stop-loss provision for fiscal year 2020-2021 limiting the reduction in
+20 funding to any institution to two percent (2%) of that institution's
+21 formula base amount; and
+22 5. A stop-loss provision for fiscal year 2021-2022, and every fiscal year
+23 thereafter, limiting the reduction in funding to any institution to zero
+24 percent (0%) of that institution's formula base amount.
+25 (b) Paragraph (a) of this subsection shall not be construed to limit the level of a
+26 budget reduction that may be enacted by the General Assembly or
+27 implemented by the Governor.
+Page 7 of 9
+XXXX 2/7/2025 4:30 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1226
+1 (10) (a) By May 1 each year, the council shall certify to the Office of the State Budget
+2 Director the amount to be distributed to each of the public universities and
+3 KCTCS as determined by the comprehensive funding model created in this
+4 section, not to exceed the available balance in the performance fund.
+5 (b) The Office of the State Budget Director shall distribute the appropriations in
+6 the performance fund for that fiscal year to the institutions in the amounts the
+7 council has certified. The adjusted appropriations to each institution shall be
+8 allotted as provided in KRS 48.600, 48.605, 48.610, 48.620, and 48.630.
+9 (c) 1. The certified amounts distributed from the performance fund to the
+10 institutions are nonrecurring funds that shall not be included in the
+11 institutions' base budget amounts submitted in their biennial budget
+12 requests.
+13 2. The certified amounts distributed from the performance fund in the
+14 previous fiscal year shall be included in the performance fund's base
+15 budget amount submitted by the council in the biennial budget request.
+16 (d) For fiscal year 2017-2018, the Office of the State Budget Director shall
+17 distribute to the public postsecondary education institutions, except for
+18 Kentucky State University, those funds appropriated to the performance fund
+19 by the General Assembly in 2016 Ky. Acts ch. 149, Part I, K., 12., in
+20 accordance with the comprehensive funding model created in this section.
+21 (11) (a) The Council on Postsecondary Education is hereby directed to establish a
+22 postsecondary education working group composed of the following:
+23 1. The president of the council;
+24 2. The president or designee of each public postsecondary institution,
+25 including the president of KCTCS;
+26 3. The Governor or designee;
+27 4. The Speaker of the House or designee; and
+Page 8 of 9
+XXXX 2/7/2025 4:30 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1226
+1 5. The President of the Senate or designee.
+2 (b) Beginning in fiscal year 2020-2021 and every three (3) fiscal years thereafter,
+3 the postsecondary education working group shall convene to determine if the
+4 comprehensive funding model is functioning as expected, identify any
+5 unintended consequences of the model, and recommend any adjustments to
+6 the model. The council may call the working group to convene prior to the
+7 start of the required fiscal year to allow sufficient time for the group to
+8 complete its work.
+9 (c) The results of the review and recommendations of the working group shall be
+10 reported by the council to the Governor, the Interim Joint Committee on
+11 Appropriations and Revenue, and the Interim Joint Committee on Education
+12 by December 1 of each fiscal year the working group convenes.
+13 (12) The council shall promulgate administrative regulations under KRS Chapter 13A to
+14 implement the provisions of this section.
+15 (13) (a) The postsecondary education performance fund is hereby established as an
+16 appropriation unit to support improvement in the operations of the public
+17 postsecondary institutions and achievement of the Commonwealth's education
+18 policy goals and workforce development priorities. General fund moneys may
+19 be appropriated by the General Assembly to this fund for distribution to the
+20 public postsecondary institutions in amounts determined through the
+21 comprehensive funding model created in this section.
+22 (b) Any balance in the performance fund at the close of any fiscal year shall not
+23 lapse but shall be carried forward to the next fiscal year and be continuously
+24 appropriated for the purposes specified in this section. A general statement
+25 that all continuing appropriations are repealed, discontinued, or suspended
+26 shall not operate to repeal, discontinue, or suspend this fund or to repeal this
+27 action.
+Page 9 of 9
+XXXX 2/7/2025 4:30 PM Jacketed
+
+[DELETED:   2  J A A r t t c o s f f t p o p B S ( F ( " s c a d b t P E F I a C M p b t U S D o E b d n i s f t t i p a ( " ( " ( " m a c i w e i h a a p l o r a d b t p l o p i a s s o c c ( " b a m a i e g f a a m d s o b a a f m ( " p m a p i i t f f a d i s ( o t s t p a r o a d p o f f a i t o ( " m a c i t K C a T]
+[DELETED:   2  J C ( " ( " o a o ( " i G ( " ( ( " f m t p e p f e ( " o ( " d f c ( " s a o ( T G A h f t i o f t C p o]
+[DELETED:   2  J ( I o ( I o ( I u a ( C a g b i t n o c a d e b l s u s u ( F f ( ( T b g f a f p i o t a C ( T a f p i s b g t e i f F p o t s " f m a i f y 2 a f p ( T s e a c f m f t p p e s t b i b t C o]
+[DELETED:   2  J P E T f m s i a p u s m ( T ( R d i m a c s b r u a c u t e t n a a ( D f s o w s f f p i o i d ( I b ( B c t a e a w p t f f r ( F ( F b i 1 B 2 N o s p b t ( s ( a n 3 S t e m a h b d p 4 B s]
+[DELETED:   2  J ( T p ( o t u a r s b d e e d c e w t a f c d d n ( T p ( o t u a r s b d 1 T o C I a C I s f n o r n l a o l s t s m a o a e 2 T o i a s s n o a 3 T o t f e s e t s a s ( T ( S r s o w s f f p i o i d ( M]
+[DELETED:   2  J i ( S b c t a e a w p t f f ( F ( T b p 1 C d a a d p w t p n 2 N ( a f 3 C e b l s u s u 4 T ( T b d b o e c s o t s c h e ( T d 1 T C I a C I s f n o r n l a o l s t s m a o a d b t c i c w t p e 2 T]
+[DELETED:   2  J t o 3 T t f e s e t s a s ( ( T 1 A h p f f y 2 p a r c a a a h a d b t f i f y t b d f a i f 2 2 A y b 3 A f t a i t o p ( o t i f 4 A f t a i t t p ( o t i f 5 A t l t r i f t a i t z p ( P b r t m b e b t G A o i]
+[DELETED:   2  J ( ( B D K s ( T t c a ( 1 T c a d f t p f t t i a n f t s n b i i t i b b a s i t b b r 2 T c a d f t p f i t p f y s b i i t p f b b ( F f y 2 t O o t S B D s d t t p p e i e f K b t G A i 2 K A c 1 P I K 1 i a ( ( T C o P E i h d t e a p 1 T 2 T p o d o e p p i i 3 T 4 T]
+[DELETED:   2  J 5 T ( B t c f m i f a e i a u t s o t r f y t a s t f t g t c ( T r b t c t t G t I J C o A b ( T i ( ( T p p f i h e a a a u t s i i t o o t p p p b p p i i a d t t c ( A l a t a c a a r d o s s a]

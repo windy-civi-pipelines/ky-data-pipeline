@@ -1,0 +1,362 @@
+Title: AN ACT relating to gift cards.
+Official Title: AN ACT relating to gift cards.
+Number of Sections: 15
+Source: versions - Acts Chapter 38
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+CHAPTER 38 1
+CHAPTER 38
+( SB 130 )
+Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+Section 1. KRS 434.560 is amended to read as follows:
+As used in KRS 434.550 to 434.730, unless the context otherwise requires:
+(1) "Automated banking device" means any machine which when properly activated by a credit card, debit card or
+personal identification code will perform any of the following services:
+(a) Dispense money as a debit to the cardholder's savings or checking account;[ or]
+(b) Print the cardholder's savings or checking account balances on a statement;[ or]
+(c) Transfer funds between a cardholder's savings and checking account;[ or]
+(d) Accept payments on a cardholder's loan;[ or]
+(e) Dispense cash advances on an open end credit or a revolving charge agreement;[ or]
+(f) Accept deposits to a customer's savings or checking account;[ or]
+(g) Receive inquiries of verification of checks and dispense information which verifies that funds are
+available to cover said checks; or
+(h) Cause money to be transferred electronically from a cardholder's account to an account held by any
+business, firm, retail merchant, corporation, or any other organization;
+(2) "Cardholder" means:
+(a) For a credit or debit card, the person or organization named on the face of a credit or debit card to
+whom or for whose benefit the credit or debit card is issued by an issuer; or
+(b) For a gift card, any person or organization to whom a physical or virtual gift card is issued through a
+purchase, or who receives a gift card from a willing party;
+(3) "Credit card" means any instrument or device, whether known as a credit card, credit plate, credit number or
+by any other name, issued by an issuer for the use of the cardholder in obtaining money, goods, services or
+anything else of value on credit;
+(4) "Debit card" means any instrument or device, known by any name, issued with or without fee by an issuer for
+the use of the cardholder in obtaining money, goods, services, and anything else of value, payment of which is
+made against funds previously deposited by cardholder;
+(5) "E.F.T. system" means an electronic funds transfer system whereby funds are transferred electronically from a
+cardholder's account to any other account;
+(6) "Expired credit card" means a credit card which is no longer valid because the term shown on it has expired;
+(7) "Expired debit card" means a debit card which is no longer valid because the term shown on it has expired;
+(8) "Face value" means the highest monetary value listed on a gift card or its packaging, or if no value is
+listed, two hundred fifty dollars ($250);
+(9) "Gift card" means a card, code, or device, whether activated or unactivated, that:
+(a) Is issued on a prepaid basis primarily for personal, family, or household purposes in a specified
+amount, regardless of whether that amount may be increased or reloaded in exchange for payment;
+and
+(b) May be redeemable upon presentation by a cardholder at a single merchant or group of merchants,
+or at multiple unaffiliated merchants within a payment card network;
+Legislative Research Commission PDF Version
+2 ACTS OF THE GENERAL ASSEMBLY
+(10) "Gift card redemption information" means information unique to each gift card which allows the
+cardholder to access, transfer, or spend the funds on that gift card;
+(11) "Issuer" means the business organization or financial institution which issues a credit, [or ]debit, or gift card or
+its duly authorized agent;
+(12)[(9)] "Merchant" means an owner or operator of any retail mercantile establishment or any agent, employee,
+lessee, consignee, officer, director, franchisee, or independent contractor of such owner or operator.
+"Merchant" also means:
+(a) A person who receives from an authorized user of a payment card, or someone the person believes to be
+an authorized user, a payment card or information from a payment card, or what the person believes to
+be a payment card or information from a payment card, as the instrument for obtaining, purchasing, or
+receiving goods, services, money, or anything else of value from the person; or
+(b) A person engaged in the business of selling gift cards to consumers;
+(13)[(10)] "Participating party" means a business organization or financial institution, or any duly authorized agent
+of such business organization or financial institution, which is obligated by contract to acquire from a person,
+business organization, or financial institution providing money, goods, services or anything else of value, a
+sales slip, sales draft, or other instrument evidencing a credit, [or ]debit, or gift card transaction and from
+whom the issuer is obligated by contract to acquire or participate in such sales slip, sales draft or other
+instrument;
+(14)[(11)] "Payment card" means a credit card, charge card, debit card, or any other card that is issued to an
+authorized card user and that allows the user to obtain, purchase, or receive goods, services, money, or
+anything else of value from a merchant;
+(15)[(12)] "Presentation or presents" means[as used herein shall be construed to define] those actions taken by a
+cardholder or any person to introduce a credit or debit card into an automated banking device or merely
+displaying or showing a credit, [or ]debit, or gift card to the issuer, a person or organization providing money,
+goods, services, or anything else of value, or any other entity with intent to defraud;
+(16)[(13)] "Receives" or "receiving" means acquiring possession or control of a credit or debit card;
+(17)[(14)] "Reencoder" means an electronic device that places encoded information from the magnetic strip or
+stripe of a payment card onto the magnetic strip or stripe of a different payment card;
+(18)[(15)] "Revoked credit card" means a credit card which is no longer valid because permission to use it has
+been suspended or terminated by the issuer;
+(19)[(16)] "Revoked debit card" means a debit card which is no longer valid because permission to use it has been
+suspended or terminated by the issuer; and
+(20)[(17)] "Scanning device" means a scanner, reader, or any other electronic device that is used to access, read,
+scan, obtain, memorize, or store, temporarily or permanently, information encoded on the magnetic strip or
+stripe of a payment card.
+SECTION 2. A NEW SECTION OF KRS CHAPTER 434.550 TO 434.730 IS CREATED TO READ AS
+FOLLOWS:
+(1) A person is guilty of gift card tampering when he or she intentionally manipulates a gift card’s packaging
+or security features to access the gift card’s information without authorization and with the intention of
+using the information to improperly access and utilize funds placed on the gift card by another.
+(2) Gift card tampering is a Class D felony.
+(3) This section shall not apply to tampering with an activated gift card with or without the consent of the
+cardholder.
+(4) Conduct which may constitute a violation of this section may be used to show a violation of KRS 506.120,
+but a person shall not be convicted of a violation of this section and KRS 506.120.
+Section 3. KRS 434.580 is amended to read as follows:
+(1) (a) A person who takes a credit, [or ]debit, or gift card from the person, possession, custody, or control of
+another without the consent of the cardholder, [or of ]the issuer, or, for a gift card, the merchant, or
+who, with knowledge that it has been so taken, receives the credit, [or ]debit, or gift card with intent to
+CHAPTER 38 3
+use it or to sell it or to transfer it to a person other than the issuer, [or ]the cardholder, or, for a gift card,
+the merchant, is:[ guilty of a misdemeanor and is]
+
+Section 2:
+1. For a credit or debit card, subject to the penalties set forth in subsection (1) of KRS 434.730; or
+
+Section 3:
+2. For a gift card, subject to the penalties set forth in KRS 514.030 for the face value of the gift
+card.
+(b) Taking a credit, [or ]debit, or gift card without consent includes obtaining it by conduct defined or
+known as statutory larceny, common-law larceny by trespassory taking, common-law larceny by trick,
+embezzlement, or obtaining property by false pretenses, false promise, or extortion.
+(2) A person who has in his or her possession or under his or her control two (2) or more credit, [or ]debit, or gift
+cards which have been taken or obtained in violation of subsection (1) of this section is presumed to know that
+the credit, [or ]debit, or gift cards have been so taken or obtained.
+Section 4. KRS 434.650 is amended to read as follows:
+(1) (a) A person who, with intent to defraud the issuer, a participating party, a person[,] or organization
+providing money, goods, services, or anything else of value, or any other person:
+
+Section 4:
+1. Uses for the purpose of obtaining money, goods, services, or anything else of value a credit or
+debit card obtained or retained in violation of KRS 434.570 to 434.650, or any of such sections,
+or a credit or debit card which he or she knows is forged, expired, or revoked;
+
+Section 5:
+2. Obtains money, goods, services, or anything else of value by representing without consent of the
+cardholder that he or she is the holder of a specified card or by representing that he or she is the
+holder of a card and such card has not in fact been issued;
+
+Section 6:
+3. Uses a credit or debit card obtained or retained in violation of KRS 434.570 to 434.650, or any of
+such sections, or a credit or debit card which he or she knows is forged, expired, or revoked, as
+authority or identification to cash or attempts to cash or otherwise negotiate or transfer a check or
+other order for payment of money, whether or not negotiable, if said negotiation or transfer or
+attempt to negotiate or transfer would constitute a crime under KRS 514.040 or 516.030;[ or]
+
+Section 7:
+4. Deposits into his or her account or any account, via an automated banking device, a false,
+fictitious, forged, altered, or counterfeit check, draft, money order, or any other such document
+not his or her lawful or legal property; or
+
+Section 8:
+5. Obtains a gift card or gift card redemption information from a cardholder, issuer, or merchant
+by means of false or fraudulent pretenses, representations, or promises;
+is guilty as provided in paragraph (b) of this subsection.
+(b) The penalty for violating paragraph (a) of this subsection is a Class B misdemeanor unless:
+
+Section 9:
+1. The value of all money, goods, services, or other things of value obtained in violation of this
+
+Section 10:
+section over a six (6) month period is five hundred dollars ($500) or more but is less than one
+thousand dollars ($1,000), in which case it is a Class A misdemeanor;
+
+Section 11:
+2. The value of all money, goods, services, or other things of value obtained in violation of this
+
+Section 12:
+section over a six (6) month period is one thousand dollars ($1,000) or more but is less than ten
+thousand dollars ($10,000), in which case it is a Class D felony;
+
+Section 13:
+3. The person has three (3) or more convictions under subparagraph 1. of this paragraph within the
+last five (5) years, in which case it is a Class D felony. The five (5) year period shall be measured
+from the dates on which the offenses occurred for which the judgments of conviction were
+entered; or
+
+Section 14:
+4. The value of all money, goods, services, or other things of value obtained in violation of this
+
+Section 15:
+section over a six (6) month period is ten thousand dollars ($10,000) or more, in which case it is
+a Class C felony.
+(2) A person who receives money, goods, services, or anything else of value as a result of a false, fictitious,
+forged, altered, or counterfeit check, draft, money order, or any other such document having been deposited
+into an account via an automated banking device, knowing at the time of receipt of the money, goods, services,
+or item of value that the document so deposited was false, fictitious, forged, altered, or counterfeit or that the
+Legislative Research Commission PDF Version
+4 ACTS OF THE GENERAL ASSEMBLY
+above described deposited item was not his or her lawful or legal property, violates this subsection and is
+subject to the penalties set forth in subsection (1) of this section.
+(3) Knowledge of revocation shall be presumed to have been received by a cardholder four (4) days after it has
+been mailed to him or her at the address set forth on the credit or debit card or at his or her last known address
+by registered or certified mail, return receipt requested, and, if the address is more than five hundred (500)
+miles from the place of mailing, by air mail. If the address is located outside the United States, Puerto Rico,
+the Virgin Islands, the Canal Zone, and Canada, notice shall be presumed to have been received ten (10) days
+after mailing by registered or certified mail.
+Signed by Governor March 19, 2025.
+[DELETED:  " D P T A D A R i o v o c a d i w v t f a C " F F " " " " " " " I M]
+[DELETED:  " c r i m i u t e g c w a t " " c o d f o i c o s o o o A A " t i i o b c t a o p i s s s d o o " t c u a t a t u t o p o r g s m o " " " " " " A G T C ( A]
+[DELETED:  F F T A ( A p w w i t d t i a p p a p o o U O U D i h o h a o a a v a a b d a f Oi T T T T t d w t o o f w t j c w T A]
+[DELETED:  K]
+
+
+================================================================================
+
+Raw Text:
+CHAPTER 38 1
+CHAPTER 38
+( SB 130 )
+AN ACT relating to gift cards.
+Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+Section 1. KRS 434.560 is amended to read as follows:
+As used in KRS 434.550 to 434.730, unless the context otherwise requires:
+(1) "Automated banking device" means any machine which when properly activated by a credit card, debit card or
+personal identification code will perform any of the following services:
+(a) Dispense money as a debit to the cardholder's savings or checking account;[ or]
+(b) Print the cardholder's savings or checking account balances on a statement;[ or]
+(c) Transfer funds between a cardholder's savings and checking account;[ or]
+(d) Accept payments on a cardholder's loan;[ or]
+(e) Dispense cash advances on an open end credit or a revolving charge agreement;[ or]
+(f) Accept deposits to a customer's savings or checking account;[ or]
+(g) Receive inquiries of verification of checks and dispense information which verifies that funds are
+available to cover said checks; or
+(h) Cause money to be transferred electronically from a cardholder's account to an account held by any
+business, firm, retail merchant, corporation, or any other organization;
+(2) "Cardholder" means:
+(a) For a credit or debit card, the person or organization named on the face of a credit or debit card to
+whom or for whose benefit the credit or debit card is issued by an issuer; or
+(b) For a gift card, any person or organization to whom a physical or virtual gift card is issued through a
+purchase, or who receives a gift card from a willing party;
+(3) "Credit card" means any instrument or device, whether known as a credit card, credit plate, credit number or
+by any other name, issued by an issuer for the use of the cardholder in obtaining money, goods, services or
+anything else of value on credit;
+(4) "Debit card" means any instrument or device, known by any name, issued with or without fee by an issuer for
+the use of the cardholder in obtaining money, goods, services, and anything else of value, payment of which is
+made against funds previously deposited by cardholder;
+(5) "E.F.T. system" means an electronic funds transfer system whereby funds are transferred electronically from a
+cardholder's account to any other account;
+(6) "Expired credit card" means a credit card which is no longer valid because the term shown on it has expired;
+(7) "Expired debit card" means a debit card which is no longer valid because the term shown on it has expired;
+(8) "Face value" means the highest monetary value listed on a gift card or its packaging, or if no value is
+listed, two hundred fifty dollars ($250);
+(9) "Gift card" means a card, code, or device, whether activated or unactivated, that:
+(a) Is issued on a prepaid basis primarily for personal, family, or household purposes in a specified
+amount, regardless of whether that amount may be increased or reloaded in exchange for payment;
+and
+(b) May be redeemable upon presentation by a cardholder at a single merchant or group of merchants,
+or at multiple unaffiliated merchants within a payment card network;
+Legislative Research Commission PDF Version
+
+2 ACTS OF THE GENERAL ASSEMBLY
+(10) "Gift card redemption information" means information unique to each gift card which allows the
+cardholder to access, transfer, or spend the funds on that gift card;
+(11) "Issuer" means the business organization or financial institution which issues a credit, [or ]debit, or gift card or
+its duly authorized agent;
+(12)[(9)] "Merchant" means an owner or operator of any retail mercantile establishment or any agent, employee,
+lessee, consignee, officer, director, franchisee, or independent contractor of such owner or operator.
+"Merchant" also means:
+(a) A person who receives from an authorized user of a payment card, or someone the person believes to be
+an authorized user, a payment card or information from a payment card, or what the person believes to
+be a payment card or information from a payment card, as the instrument for obtaining, purchasing, or
+receiving goods, services, money, or anything else of value from the person; or
+(b) A person engaged in the business of selling gift cards to consumers;
+(13)[(10)] "Participating party" means a business organization or financial institution, or any duly authorized agent
+of such business organization or financial institution, which is obligated by contract to acquire from a person,
+business organization, or financial institution providing money, goods, services or anything else of value, a
+sales slip, sales draft, or other instrument evidencing a credit, [or ]debit, or gift card transaction and from
+whom the issuer is obligated by contract to acquire or participate in such sales slip, sales draft or other
+instrument;
+(14)[(11)] "Payment card" means a credit card, charge card, debit card, or any other card that is issued to an
+authorized card user and that allows the user to obtain, purchase, or receive goods, services, money, or
+anything else of value from a merchant;
+(15)[(12)] "Presentation or presents" means[as used herein shall be construed to define] those actions taken by a
+cardholder or any person to introduce a credit or debit card into an automated banking device or merely
+displaying or showing a credit, [or ]debit, or gift card to the issuer, a person or organization providing money,
+goods, services, or anything else of value, or any other entity with intent to defraud;
+(16)[(13)] "Receives" or "receiving" means acquiring possession or control of a credit or debit card;
+(17)[(14)] "Reencoder" means an electronic device that places encoded information from the magnetic strip or
+stripe of a payment card onto the magnetic strip or stripe of a different payment card;
+(18)[(15)] "Revoked credit card" means a credit card which is no longer valid because permission to use it has
+been suspended or terminated by the issuer;
+(19)[(16)] "Revoked debit card" means a debit card which is no longer valid because permission to use it has been
+suspended or terminated by the issuer; and
+(20)[(17)] "Scanning device" means a scanner, reader, or any other electronic device that is used to access, read,
+scan, obtain, memorize, or store, temporarily or permanently, information encoded on the magnetic strip or
+stripe of a payment card.
+SECTION 2. A NEW SECTION OF KRS CHAPTER 434.550 TO 434.730 IS CREATED TO READ AS
+FOLLOWS:
+(1) A person is guilty of gift card tampering when he or she intentionally manipulates a gift card’s packaging
+or security features to access the gift card’s information without authorization and with the intention of
+using the information to improperly access and utilize funds placed on the gift card by another.
+(2) Gift card tampering is a Class D felony.
+(3) This section shall not apply to tampering with an activated gift card with or without the consent of the
+cardholder.
+(4) Conduct which may constitute a violation of this section may be used to show a violation of KRS 506.120,
+but a person shall not be convicted of a violation of this section and KRS 506.120.
+Section 3. KRS 434.580 is amended to read as follows:
+(1) (a) A person who takes a credit, [or ]debit, or gift card from the person, possession, custody, or control of
+another without the consent of the cardholder, [or of ]the issuer, or, for a gift card, the merchant, or
+who, with knowledge that it has been so taken, receives the credit, [or ]debit, or gift card with intent to
+
+CHAPTER 38 3
+use it or to sell it or to transfer it to a person other than the issuer, [or ]the cardholder, or, for a gift card,
+the merchant, is:[ guilty of a misdemeanor and is]
+1. For a credit or debit card, subject to the penalties set forth in subsection (1) of KRS 434.730; or
+2. For a gift card, subject to the penalties set forth in KRS 514.030 for the face value of the gift
+card.
+(b) Taking a credit, [or ]debit, or gift card without consent includes obtaining it by conduct defined or
+known as statutory larceny, common-law larceny by trespassory taking, common-law larceny by trick,
+embezzlement, or obtaining property by false pretenses, false promise, or extortion.
+(2) A person who has in his or her possession or under his or her control two (2) or more credit, [or ]debit, or gift
+cards which have been taken or obtained in violation of subsection (1) of this section is presumed to know that
+the credit, [or ]debit, or gift cards have been so taken or obtained.
+Section 4. KRS 434.650 is amended to read as follows:
+(1) (a) A person who, with intent to defraud the issuer, a participating party, a person[,] or organization
+providing money, goods, services, or anything else of value, or any other person:
+1. Uses for the purpose of obtaining money, goods, services, or anything else of value a credit or
+debit card obtained or retained in violation of KRS 434.570 to 434.650, or any of such sections,
+or a credit or debit card which he or she knows is forged, expired, or revoked;
+2. Obtains money, goods, services, or anything else of value by representing without consent of the
+cardholder that he or she is the holder of a specified card or by representing that he or she is the
+holder of a card and such card has not in fact been issued;
+3. Uses a credit or debit card obtained or retained in violation of KRS 434.570 to 434.650, or any of
+such sections, or a credit or debit card which he or she knows is forged, expired, or revoked, as
+authority or identification to cash or attempts to cash or otherwise negotiate or transfer a check or
+other order for payment of money, whether or not negotiable, if said negotiation or transfer or
+attempt to negotiate or transfer would constitute a crime under KRS 514.040 or 516.030;[ or]
+4. Deposits into his or her account or any account, via an automated banking device, a false,
+fictitious, forged, altered, or counterfeit check, draft, money order, or any other such document
+not his or her lawful or legal property; or
+5. Obtains a gift card or gift card redemption information from a cardholder, issuer, or merchant
+by means of false or fraudulent pretenses, representations, or promises;
+is guilty as provided in paragraph (b) of this subsection.
+(b) The penalty for violating paragraph (a) of this subsection is a Class B misdemeanor unless:
+1. The value of all money, goods, services, or other things of value obtained in violation of this
+section over a six (6) month period is five hundred dollars ($500) or more but is less than one
+thousand dollars ($1,000), in which case it is a Class A misdemeanor;
+2. The value of all money, goods, services, or other things of value obtained in violation of this
+section over a six (6) month period is one thousand dollars ($1,000) or more but is less than ten
+thousand dollars ($10,000), in which case it is a Class D felony;
+3. The person has three (3) or more convictions under subparagraph 1. of this paragraph within the
+last five (5) years, in which case it is a Class D felony. The five (5) year period shall be measured
+from the dates on which the offenses occurred for which the judgments of conviction were
+entered; or
+4. The value of all money, goods, services, or other things of value obtained in violation of this
+section over a six (6) month period is ten thousand dollars ($10,000) or more, in which case it is
+a Class C felony.
+(2) A person who receives money, goods, services, or anything else of value as a result of a false, fictitious,
+forged, altered, or counterfeit check, draft, money order, or any other such document having been deposited
+into an account via an automated banking device, knowing at the time of receipt of the money, goods, services,
+or item of value that the document so deposited was false, fictitious, forged, altered, or counterfeit or that the
+Legislative Research Commission PDF Version
+
+4 ACTS OF THE GENERAL ASSEMBLY
+above described deposited item was not his or her lawful or legal property, violates this subsection and is
+subject to the penalties set forth in subsection (1) of this section.
+(3) Knowledge of revocation shall be presumed to have been received by a cardholder four (4) days after it has
+been mailed to him or her at the address set forth on the credit or debit card or at his or her last known address
+by registered or certified mail, return receipt requested, and, if the address is more than five hundred (500)
+miles from the place of mailing, by air mail. If the address is located outside the United States, Puerto Rico,
+the Virgin Islands, the Canal Zone, and Canada, notice shall be presumed to have been received ten (10) days
+after mailing by registered or certified mail.
+Signed by Governor March 19, 2025.
+
+[DELETED:  " D P T A D A R i o v o c a d i w v t f a C " F F " " " " " " " I M]
+[DELETED:  " c r i m i u t e g c w a t " " c o d f o i c o s o o o A A " t i i o b c t a o p i s s s d o o " t c u a t a t u t o p o r g s m o " " " " " " A G T C ( A]
+[DELETED:  F F T A ( A p w w i t d t i a p p a p o o U O U D i h o h a o a a v a a b d a f Oi T T T T t d w t o o f w t j c w T A]
+[DELETED:  K]
