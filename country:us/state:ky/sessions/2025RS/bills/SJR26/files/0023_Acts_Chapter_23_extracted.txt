@@ -1,0 +1,223 @@
+Title: A JOINT RESOLUTION directing the Department for Medicaid Services to provide the Legislative Research
+Official Title: A JOINT RESOLUTION directing the Department for Medicaid Services to provide the Legislative Research
+Number of Sections: 2
+Source: versions - Acts Chapter 23
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+CHAPTER 23 1
+CHAPTER 23
+( SJR 26 )
+Commission with a report regarding pharmacist payment parity.
+WHEREAS, the scope of practice for pharmacists is defined in KRS Chapter 315 and includes a number of
+clinical services such as testing and treatment for streptococcal pharyngitis commonly known as strep throat,
+influenza, urinary tract infections, COVID-19, and sexually transmitted infections; and
+WHEREAS, the scope of practice for pharmacists also includes providing patient counseling on tobacco
+cessation, medication therapy management, chronic disease management, and more services that pharmacists may
+provide independently or through collaborative care agreements or protocols authorized by the Board of Pharmacy;
+and
+WHEREAS, historically, clinical services provided by pharmacists have not been covered by most health
+plans; and
+WHEREAS, during the 2021 Regular Session, the Kentucky General Assembly passed House Bill 48 which
+required private health insurance providers to cover clinical services performed by pharmacists if those services are
+within their scope of practice and to reimburse pharmacists for those services at a rate not less than that provided to
+other nonphysician practitioners such as advanced practice registered nurses and physician assistants; and
+WHEREAS, House Bill 48 only applied to private insurance providers and not to the Kentucky Medical
+Assistance Program, commonly known as Medicaid, or to the Kentucky Children's Health Insurance Program
+(KCHIP); and
+WHEREAS, as a result of the passage of House Bill 48, Kentucky's pharmacists can now bill private insurance
+providers for clinical services but are not permitted to seek reimbursement for the same services provided to
+individuals enrolled in Medicaid or KCHIP; and
+WHEREAS, as of November 2024, more than 1,400,000 Kentuckians, or nearly one-third of the state's
+population, are covered by Medicaid and KCHIP; and
+WHEREAS, the percentage of Kentuckians covered by Medicaid and KCHIP is significantly higher in many
+rural communities; and
+WHEREAS, in many rural communities across the Commonwealth, the closest and most readily available
+healthcare provider is a local pharmacist; and
+WHEREAS, the lack of coverage for clinical services provided by pharmacists represents a significant barrier
+to care for many of the Commonwealth's most vulnerable citizens; and
+WHEREAS, when patients cannot readily access the care they need, their conditions often worsen, resulting in
+visits to urgent care clinics and hospital emergency rooms; and
+WHEREAS, when clinical services are provided by physicians in urgent care or emergency room settings, the
+cost to provide those services is significantly higher than if the patient had been able to access those services at their
+community pharmacy; and
+WHEREAS, an analysis of the fiscal impact of House Bill 48 in 2021 determined that the cost of requiring
+insurance providers to cover clinical services performed by pharmacists and to reimburse for those services at a rate
+not less than that paid to other nonphysician providers was minimal and would increase premiums by between 0.00
+percent and 0.03 percent; and
+WHEREAS, the Kentucky General Assembly is committed to taking a data-driven approach to policy making;
+and
+WHEREAS, the Kentucky General Assembly does not currently have access to the data necessary to
+determine the potential fiscal impact of requiring Medicaid and KCHIP to comply with KRS 304.12-237, the statute
+created by House Bill 48; and
+WHEREAS, the Department for Medicaid Services does have access to the data necessary to determine the
+potential fiscal impact of such a policy;
+Legislative Research Commission PDF Version
+2 ACTS OF THE GENERAL ASSEMBLY
+NOW, THEREFORE,
+Be it resolved by the General Assembly of the Commonwealth of Kentucky:
+Section 1. The Department for Medicaid Services is hereby directed to prepare and deliver a report on
+pharmacist payment parity to the Legislative Research Commission for referral to the Interim Joint Committee on
+Appropriations and Revenue and the Interim Joint Committee on Health Services no later than August 1, 2025.
+Section 2. The pharmacist payment parity report shall, at a minimum, include the following:
+(1) A detailed summary of the changes that would be necessary if the Kentucky Medicaid program,
+including any managed care organization with which the department contracts for the delivery of Medicaid services,
+and the Kentucky Children's Health Insurance Program (KCHIP) were required by future legislation to comply with
+KRS 304.12-237. The summary of changes shall include a review of:
+(a) Administrative changes;
+(b) Technology changes and updates;
+(c) A comprehensive overview of the clinical services and the related Current Procedural Terminology
+(CPT) codes for which pharmacists would be eligible to bill if compliance with KRS 304.12-237 were required, the
+current reimbursement rates for those services when provided by physician and nonphysician providers, and the
+number of times those CPT codes were billed by physicians and nonphysicians in 2023 and 2024;
+(d) The need to onboard or credential pharmacists as providers of those services; and
+(e) The anticipated cost of all changes that would be necessitated by a requirement to comply with KRS
+
+Section 2:
+304.12-237;
+(2) An analysis of the anticipated effect a requirement to comply with KRS 304.12-237 would have on
+Medicaid and KCHIP claims and expenditures. The analysis shall include as assessment of:
+(a) The anticipated impact on the number of Medicaid and KCHIP claims filed on behalf of Medicaid and
+KCHIP beneficiaries;
+(b) The potential for offsetting claims to pharmacists or pharmacies from other providers or care sites; and
+(c) The anticipated impact on Medicaid and KCHIP expenditures on an annual basis, including fee-for-
+services claims payments, managed care capitation payments, and any other potential fiscal impact that may result
+from a requirement to comply with KRS 304.12-237;
+(3) A review of the fiscal impact and overall cost of similar coverage and reimbursement requirements
+observed in other states, if such data is available to the department;
+(4) A summary of the effect of KRS 304.12-237 on private insurance providers, including any increase in
+premiums charged to consumers and observed changes in claims filed;
+(5) An analysis of how a requirement to comply with KRS 304.12-237 might impact access to care, health
+outcomes, and the overall health of Medicaid and KCHIP beneficiaries. This analysis shall specifically address the
+impact on access to care, health outcomes, and overall health of Medicaid and KCHIP beneficiaries in rural and
+underserved communities; and
+(6) A detailed timeline for implementing the changes necessary to comply with KRS 304.12-237, including
+any necessary requests for approval or authorization from the federal Centers for Medicare and Medicaid Services or
+any other federal agency.
+Section 3. (1) If the Department for Medicaid Services determines that it does not have access to the
+data necessary to fulfil the requirements of the pharmacist payment parity report established in subsection (1)(c) or
+(4) of Section 2 of this Resolution, the department shall request that information from the Department of Insurance,
+and the Department of Insurance shall provide the Department for Medicaid Services with any available data
+necessary to fulfil the reporting requirements established in subsection (1)(c) or (4) of Section 2 of this Resolution.
+(2) In fulfilling the reporting requirement established in subsection (3) of Section 2 of this Resolution, the
+Department for Medicaid Services shall contact the Medicaid agencies in states that have implemented policies
+similar to KRS 304.12-237 in their Medicaid program and request the information and data necessary to fulfil the
+reporting requirement established in subsection (3) of Section 2 of this Resolution.
+Signed by Governor March 17, 2025.
+CHAPTER 23 3
+Legislative Research Commission PDF Version
+[DELETED:  s s a t a t f s p c k a s t t s o p f p a i p p c o t P c k a M o t t K C H I P f c s b a n p t s r f t s s p t a o N 2 m t 1 K o n o o t s t K G A d n c h a t t d n t]
+[DELETED:  A d s o t c t w b n i t K M p A T A T T A T T T A A A A I t D o I s p t D f M S w a a d I t h]
+
+
+================================================================================
+
+Raw Text:
+CHAPTER 23 1
+CHAPTER 23
+( SJR 26 )
+A JOINT RESOLUTION directing the Department for Medicaid Services to provide the Legislative Research
+Commission with a report regarding pharmacist payment parity.
+WHEREAS, the scope of practice for pharmacists is defined in KRS Chapter 315 and includes a number of
+clinical services such as testing and treatment for streptococcal pharyngitis commonly known as strep throat,
+influenza, urinary tract infections, COVID-19, and sexually transmitted infections; and
+WHEREAS, the scope of practice for pharmacists also includes providing patient counseling on tobacco
+cessation, medication therapy management, chronic disease management, and more services that pharmacists may
+provide independently or through collaborative care agreements or protocols authorized by the Board of Pharmacy;
+and
+WHEREAS, historically, clinical services provided by pharmacists have not been covered by most health
+plans; and
+WHEREAS, during the 2021 Regular Session, the Kentucky General Assembly passed House Bill 48 which
+required private health insurance providers to cover clinical services performed by pharmacists if those services are
+within their scope of practice and to reimburse pharmacists for those services at a rate not less than that provided to
+other nonphysician practitioners such as advanced practice registered nurses and physician assistants; and
+WHEREAS, House Bill 48 only applied to private insurance providers and not to the Kentucky Medical
+Assistance Program, commonly known as Medicaid, or to the Kentucky Children's Health Insurance Program
+(KCHIP); and
+WHEREAS, as a result of the passage of House Bill 48, Kentucky's pharmacists can now bill private insurance
+providers for clinical services but are not permitted to seek reimbursement for the same services provided to
+individuals enrolled in Medicaid or KCHIP; and
+WHEREAS, as of November 2024, more than 1,400,000 Kentuckians, or nearly one-third of the state's
+population, are covered by Medicaid and KCHIP; and
+WHEREAS, the percentage of Kentuckians covered by Medicaid and KCHIP is significantly higher in many
+rural communities; and
+WHEREAS, in many rural communities across the Commonwealth, the closest and most readily available
+healthcare provider is a local pharmacist; and
+WHEREAS, the lack of coverage for clinical services provided by pharmacists represents a significant barrier
+to care for many of the Commonwealth's most vulnerable citizens; and
+WHEREAS, when patients cannot readily access the care they need, their conditions often worsen, resulting in
+visits to urgent care clinics and hospital emergency rooms; and
+WHEREAS, when clinical services are provided by physicians in urgent care or emergency room settings, the
+cost to provide those services is significantly higher than if the patient had been able to access those services at their
+community pharmacy; and
+WHEREAS, an analysis of the fiscal impact of House Bill 48 in 2021 determined that the cost of requiring
+insurance providers to cover clinical services performed by pharmacists and to reimburse for those services at a rate
+not less than that paid to other nonphysician providers was minimal and would increase premiums by between 0.00
+percent and 0.03 percent; and
+WHEREAS, the Kentucky General Assembly is committed to taking a data-driven approach to policy making;
+and
+WHEREAS, the Kentucky General Assembly does not currently have access to the data necessary to
+determine the potential fiscal impact of requiring Medicaid and KCHIP to comply with KRS 304.12-237, the statute
+created by House Bill 48; and
+WHEREAS, the Department for Medicaid Services does have access to the data necessary to determine the
+potential fiscal impact of such a policy;
+Legislative Research Commission PDF Version
+
+2 ACTS OF THE GENERAL ASSEMBLY
+NOW, THEREFORE,
+Be it resolved by the General Assembly of the Commonwealth of Kentucky:
+Section 1. The Department for Medicaid Services is hereby directed to prepare and deliver a report on
+pharmacist payment parity to the Legislative Research Commission for referral to the Interim Joint Committee on
+Appropriations and Revenue and the Interim Joint Committee on Health Services no later than August 1, 2025.
+Section 2. The pharmacist payment parity report shall, at a minimum, include the following:
+(1) A detailed summary of the changes that would be necessary if the Kentucky Medicaid program,
+including any managed care organization with which the department contracts for the delivery of Medicaid services,
+and the Kentucky Children's Health Insurance Program (KCHIP) were required by future legislation to comply with
+KRS 304.12-237. The summary of changes shall include a review of:
+(a) Administrative changes;
+(b) Technology changes and updates;
+(c) A comprehensive overview of the clinical services and the related Current Procedural Terminology
+(CPT) codes for which pharmacists would be eligible to bill if compliance with KRS 304.12-237 were required, the
+current reimbursement rates for those services when provided by physician and nonphysician providers, and the
+number of times those CPT codes were billed by physicians and nonphysicians in 2023 and 2024;
+(d) The need to onboard or credential pharmacists as providers of those services; and
+(e) The anticipated cost of all changes that would be necessitated by a requirement to comply with KRS
+304.12-237;
+(2) An analysis of the anticipated effect a requirement to comply with KRS 304.12-237 would have on
+Medicaid and KCHIP claims and expenditures. The analysis shall include as assessment of:
+(a) The anticipated impact on the number of Medicaid and KCHIP claims filed on behalf of Medicaid and
+KCHIP beneficiaries;
+(b) The potential for offsetting claims to pharmacists or pharmacies from other providers or care sites; and
+(c) The anticipated impact on Medicaid and KCHIP expenditures on an annual basis, including fee-for-
+services claims payments, managed care capitation payments, and any other potential fiscal impact that may result
+from a requirement to comply with KRS 304.12-237;
+(3) A review of the fiscal impact and overall cost of similar coverage and reimbursement requirements
+observed in other states, if such data is available to the department;
+(4) A summary of the effect of KRS 304.12-237 on private insurance providers, including any increase in
+premiums charged to consumers and observed changes in claims filed;
+(5) An analysis of how a requirement to comply with KRS 304.12-237 might impact access to care, health
+outcomes, and the overall health of Medicaid and KCHIP beneficiaries. This analysis shall specifically address the
+impact on access to care, health outcomes, and overall health of Medicaid and KCHIP beneficiaries in rural and
+underserved communities; and
+(6) A detailed timeline for implementing the changes necessary to comply with KRS 304.12-237, including
+any necessary requests for approval or authorization from the federal Centers for Medicare and Medicaid Services or
+any other federal agency.
+Section 3. (1) If the Department for Medicaid Services determines that it does not have access to the
+data necessary to fulfil the requirements of the pharmacist payment parity report established in subsection (1)(c) or
+(4) of Section 2 of this Resolution, the department shall request that information from the Department of Insurance,
+and the Department of Insurance shall provide the Department for Medicaid Services with any available data
+necessary to fulfil the reporting requirements established in subsection (1)(c) or (4) of Section 2 of this Resolution.
+(2) In fulfilling the reporting requirement established in subsection (3) of Section 2 of this Resolution, the
+Department for Medicaid Services shall contact the Medicaid agencies in states that have implemented policies
+similar to KRS 304.12-237 in their Medicaid program and request the information and data necessary to fulfil the
+reporting requirement established in subsection (3) of Section 2 of this Resolution.
+Signed by Governor March 17, 2025.
+
+CHAPTER 23 3
+Legislative Research Commission PDF Version
+
+[DELETED:  s s a t a t f s p c k a s t t s o p f p a i p p c o t P c k a M o t t K C H I P f c s b a n p t s r f t s s p t a o N 2 m t 1 K o n o o t s t K G A d n c h a t t d n t]
+[DELETED:  A d s o t c t w b n i t K M p A T A T T A T T T A A A A I t D o I s p t D f M S w a a d I t h]

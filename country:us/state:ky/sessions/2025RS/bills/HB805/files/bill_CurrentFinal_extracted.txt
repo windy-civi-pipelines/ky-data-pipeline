@@ -1,0 +1,1638 @@
+Title: 1 AN ACT relating to children.
+Official Title: 1 AN ACT relating to children.
+Number of Sections: 1
+Source: versions - Current/Final
+Media Type: application/pdf
+Strikethrough Detection: 26 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS HB 805/GA
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 600.020 is amended to read as follows:
+4 As used in KRS Chapters 600 to 645, unless the context otherwise requires:
+5 (1) "Abused or neglected child" means a child whose health or welfare is harmed or
+6 threatened with harm when:
+7 (a) His or her parent, guardian, person in a position of authority or special trust,
+8 as defined in KRS 532.045, or other person exercising custodial control or
+9 supervision of the child:
+10 1. Inflicts or allows to be inflicted upon the child physical or emotional
+11 injury as defined in this section by other than accidental means;
+12 2. Creates or allows to be created a risk of physical or emotional injury as
+13 defined in this section to the child by other than accidental means;
+14 3. Engages in a pattern of conduct that renders the parent incapable of
+15 caring for the immediate and ongoing needs of the child, including but
+16 not limited to parental incapacity due to a substance use disorder as
+17 defined in KRS 222.005;
+18 4. Continuously or repeatedly fails or refuses to provide essential parental
+19 care and protection for the child, considering the age of the child;
+20 5. Commits or allows to be committed an act of sexual abuse, sexual
+21 exploitation, or prostitution upon the child;
+22 6. Creates or allows to be created a risk that an act of sexual abuse, sexual
+23 exploitation, or prostitution will be committed upon the child;
+24 7. Abandons or exploits the child;
+25 8. Does not provide the child with adequate care, supervision, food,
+26 clothing, shelter, and education or medical care necessary for the child's
+27 well-being when financially able to do so or offered financial or other
+Page 1 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 means to do so. A parent or other person exercising custodial control or
+2 supervision of the child legitimately practicing the person's religious
+3 beliefs shall not be considered a negligent parent solely because of
+4 failure to provide specified medical treatment for a child for that reason
+5 alone. This exception shall not preclude a court from ordering necessary
+6 medical services for a child;
+7 9. Fails to make sufficient progress toward identified goals as set forth in
+8 the court-approved case plan to allow for the safe return of the child to
+9 the parent that results in the child remaining committed to the cabinet
+10 and remaining in foster care for fifteen (15) cumulative months out of
+11 forty-eight (48) months; or
+12 10. Commits or allows female genital mutilation as defined in KRS 508.125
+13 to be committed; or
+14 (b) A person twenty-one (21) years of age or older commits or allows to be
+15 committed an act of sexual abuse, sexual exploitation, or prostitution upon a
+16 child less than sixteen (16) years of age;
+17 (2) "Age or developmentally appropriate" has the same meaning as in 42 U.S.C. sec.
+18 675(11);
+19 (3) "Aggravated circumstances" means the existence of one (1) or more of the
+20 following conditions:
+21 (a) The parent has not attempted or has not had contact with the child for a period
+22 of not less than ninety (90) days;
+23 (b) The parent is incarcerated and will be unavailable to care for the child for a
+24 period of at least one (1) year from the date of the child's entry into foster care
+25 and there is no appropriate relative placement available during this period of
+26 time;
+27 (c) The parent has sexually abused the child and has refused available treatment;
+Page 2 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 (d) The parent has been found by the cabinet to have engaged in abuse of the
+2 child that required removal from the parent's home two (2) or more times in
+3 the past two (2) years; or
+4 (e) The parent has caused the child serious physical injury;
+5 (4) "Beyond the control of parents" means a child who has repeatedly failed to follow
+6 the reasonable directives of his or her parents, legal guardian, or person exercising
+7 custodial control or supervision other than a state agency, which behavior results in
+8 danger to the child or others, and which behavior does not constitute behavior that
+9 would warrant the filing of a petition under KRS Chapter 645;
+10 (5) "Beyond the control of school" means any child who has been found by the court to
+11 have repeatedly violated the lawful regulations for the government of the school as
+12 provided in KRS 158.150, and as documented in writing by the school as a part of
+13 the school's petition or as an attachment to the school's petition. The petition or
+14 attachment shall describe the student's behavior and all intervention strategies
+15 attempted by the school;
+16 (6) "Boarding home" means a privately owned and operated home for the boarding and
+17 lodging of individuals which is approved by the Department of Juvenile Justice or
+18 the cabinet for the placement of children committed to the department or the
+19 cabinet;
+20 (7) "Cabinet" means the Cabinet for Health and Family Services;
+21 (8) "Certified juvenile facility staff" means individuals who meet the qualifications of,
+22 and who have completed a course of education and training in juvenile detention
+23 developed and approved by, the Department of Juvenile Justice after consultation
+24 with other appropriate state agencies;
+25 (9) "Child" means any person who has not reached his or her eighteenth birthday,
+26 unless otherwise provided;
+27 (10) "Child-caring facility" means any facility or group home other than a state facility,
+Page 3 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 Department of Juvenile Justice contract facility or group home, or one certified by
+2 an appropriate agency as operated primarily for educational or medical purposes,
+3 providing residential care on a twenty-four (24) hour basis to children not related by
+4 blood, adoption, or marriage to the person maintaining the facility;
+5 (11) "Child-placing agency" means any agency, other than a state agency, which
+6 supervises the placement of children in foster family homes or child-caring
+7 facilities or which places children for adoption;
+8 (12) "Clinical treatment facility" means a facility with more than eight (8) beds
+9 designated by the Department of Juvenile Justice or the cabinet for the treatment of
+10 mentally ill children. The treatment program of such facilities shall be supervised
+11 by a qualified mental health professional;
+12 (13) "Commitment" means an order of the court which places a child under the custodial
+13 control or supervision of the Cabinet for Health and Family Services, Department
+14 of Juvenile Justice, or another facility or agency until the child attains the age of
+15 eighteen (18) unless otherwise provided by law;
+16 (14) "Community-based facility" means any nonsecure, homelike facility licensed,
+17 operated, or permitted to operate by the Department of Juvenile Justice or the
+18 cabinet, which is located within a reasonable proximity of the child's family and
+19 home community, which affords the child the opportunity, if a Kentucky resident,
+20 to continue family and community contact;
+21 (15) "Complaint" means a verified statement setting forth allegations in regard to the
+22 child which contain sufficient facts for the formulation of a subsequent petition;
+23 (16) "Court" means the juvenile session of District Court unless a statute specifies the
+24 adult session of District Court or the Circuit Court;
+25 (17) "Court-designated worker" means that organization or individual delegated by the
+26 Administrative Office of the Courts for the purposes of placing children in
+27 alternative placements prior to arraignment, conducting preliminary investigations,
+Page 4 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 and formulating, entering into, and supervising diversion agreements and
+2 performing such other functions as authorized by law or court order;
+3 (18) "Deadly weapon" has the same meaning as it does in KRS 500.080;
+4 (19) "Department" means the Department for Community Based Services;
+5 (20) "Dependent child" means any child, other than an abused or neglected child, who is
+6 under improper care, custody, control, or guardianship that is not due to an
+7 intentional act of the parent, guardian, or person exercising custodial control or
+8 supervision of the child;
+9 (21) "Detention" means the safe and temporary custody of a juvenile who is accused of
+10 conduct subject to the jurisdiction of the court who requires a restricted or closely
+11 supervised environment for his or her own or the community's protection;
+12 (22) "Detention hearing" means a hearing held by a judge or trial commissioner within
+13 twenty-four (24) hours, exclusive of weekends and holidays, of the start of any
+14 period of detention prior to adjudication;
+15 (23) "Diversion agreement" means a mechanism designed to hold a child accountable
+16 for his or her behavior and, if appropriate, securing services to serve the best
+17 interest of the child and to provide redress for that behavior without court action
+18 and without the creation of a formal court record;
+19 (24) "Eligible youth" means a person who:
+20 (a) Is or has been committed to the cabinet as dependent, neglected, or abused;
+21 (b) Is eighteen (18) years of age to nineteen (19) years of age; and
+22 (c) Is requesting to extend or reinstate his or her commitment to the cabinet in
+23 order to participate in state or federal educational programs or to establish
+24 independent living arrangements;
+25 (25) "Emergency shelter" is a group home, private residence, foster home, or similar
+26 homelike facility which provides temporary or emergency care of children and
+27 adequate staff and services consistent with the needs of each child;
+Page 5 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 (26) "Emotional injury" means an injury to the mental or psychological capacity or
+2 emotional stability of a child as evidenced by a substantial and observable
+3 impairment in the child's ability to function within a normal range of performance
+4 and behavior with due regard to his or her age, development, culture, and
+5 environment as testified to by a qualified mental health professional;
+6 (27) "Evidence-based practices" means policies, procedures, programs, and practices
+7 proven by scientific research to reliably produce reductions in recidivism;
+8 (28) "Fictive kin" means an individual who is not related by birth, adoption, or marriage
+9 to a child, but who has an emotionally significant relationship with the child, or an
+10 emotionally significant relationship with a biological parent, siblings, or half-
+11 siblings of the child in the case of a child from birth to twelve (12) months of age,
+12 prior to placement;
+13 (29) "Firearm" shall have the same meaning as in KRS 237.060 and 527.010;
+14 (30) "Foster family home" means a private home in which children are placed for foster
+15 family care under supervision of the cabinet or a licensed child-placing agency;
+16 (31) "Graduated sanction" means any of a continuum of accountability measures,
+17 programs, and sanctions, ranging from less restrictive to more restrictive in nature,
+18 that may include but are not limited to:
+19 (a) Electronic monitoring;
+20 (b) Drug and alcohol screening, testing, or monitoring;
+21 (c) Day or evening reporting centers;
+22 (d) Reporting requirements;
+23 (e) Community service; and
+24 (f) Rehabilitative interventions such as family counseling, substance abuse
+25 treatment, restorative justice programs, and behavioral or mental health
+26 treatment;
+27 (32) "Habitual runaway" means any child who has been found by the court to have been
+Page 6 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 absent from his or her place of lawful residence without the permission of his or her
+2 custodian for at least three (3) days during a one (1) year period;
+3 (33) "Habitual truant" means any child who has been found by the court to have been
+4 reported as a truant as defined in KRS 159.150(1) two (2) or more times during a
+5 one (1) year period;
+6 (34) "Hospital" means, except for purposes of KRS Chapter 645, a licensed private or
+7 public facility, health care facility, or part thereof, which is approved by the cabinet
+8 to treat children;
+9 (35) "Independent living" means those activities necessary to assist a committed child to
+10 establish independent living arrangements;
+11 (36) "Informal adjustment" means an agreement reached among the parties, with
+12 consultation, but not the consent, of the victim of the crime or other persons
+13 specified in KRS 610.070 if the victim chooses not to or is unable to participate,
+14 after a petition has been filed, which is approved by the court, that the best interest
+15 of the child would be served without formal adjudication and disposition;
+16 (37) "Intentionally" means, with respect to a result or to conduct described by a statute
+17 which defines an offense, that the actor's conscious objective is to cause that result
+18 or to engage in that conduct;
+19 (38) "Least restrictive alternative" means, except for purposes of KRS Chapter 645, that
+20 the program developed on the child's behalf is no more harsh, hazardous, or
+21 intrusive than necessary; or involves no restrictions on physical movements nor
+22 requirements for residential care except as reasonably necessary for the protection
+23 of the child from physical injury; or protection of the community, and is conducted
+24 at the suitable available facility closest to the child's place of residence to allow for
+25 appropriate family engagement;
+26 (39) "Motor vehicle offense" means any violation of the nonfelony provisions of KRS
+27 Chapters 186, 189, or 189A, KRS 177.300, 304.39-110, or 304.39-117;
+Page 7 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 (40) "Near fatality" means an injury that, as certified by a physician, places a child in
+2 serious or critical condition;
+3 (41) "Needs of the child" means necessary food, clothing, health, shelter, and education;
+4 (42) "Nonoffender" means a child alleged to be dependent, neglected, or abused and
+5 who has not been otherwise charged with a status or public offense;
+6 (43) "Nonsecure facility" means a facility which provides its residents access to the
+7 surrounding community and which does not rely primarily on the use of physically
+8 restricting construction and hardware to restrict freedom;
+9 (44) "Nonsecure setting" means a nonsecure facility or a residential home, including a
+10 child's own home, where a child may be temporarily placed pending further court
+11 action. Children before the court in a county that is served by a state operated
+12 secure detention facility, who are in the detention custody of the Department of
+13 Juvenile Justice, and who are placed in a nonsecure alternative by the Department
+14 of Juvenile Justice, shall be supervised by the Department of Juvenile Justice;
+15 (45) "Out-of-home placement" means a placement other than in the home of a parent,
+16 relative, or guardian, in a boarding home, clinical treatment facility, community-
+17 based facility, detention facility, emergency shelter, fictive kin home, foster family
+18 home, hospital, nonsecure facility, physically secure facility, residential treatment
+19 facility, or youth alternative center;
+20 (46) "Parent" means the biological or adoptive mother or father of a child;
+21 (47) "Person exercising custodial control or supervision" means a person or agency that
+22 has assumed the role and responsibility of a parent or guardian for the child, but that
+23 does not necessarily have legal custody of the child;
+24 (48) "Petition" means a verified statement, setting forth allegations in regard to the child,
+25 which initiates formal court involvement in the child's case;
+26 (49) "Physical injury" means substantial physical pain or any impairment of physical
+27 condition;
+Page 8 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 (50) "Physically secure facility" means a facility that relies primarily on the use of
+2 construction and hardware such as locks, bars, and fences to restrict freedom;
+3 (51) "Public offense action" means an action, excluding contempt, brought in the interest
+4 of a child who is accused of committing an offense under KRS Chapter 527 or a
+5 public offense which, if committed by an adult, would be a crime, whether the same
+6 is a felony, misdemeanor, or violation, other than an action alleging that a child
+7 sixteen (16) years of age or older has committed a motor vehicle offense;
+8 (52) "Qualified mental health professional" means:
+9 (a) A physician licensed under the laws of Kentucky to practice medicine or
+10 osteopathy, or a medical officer of the government of the United States while
+11 engaged in the performance of official duties;
+12 (b) A psychiatrist licensed under the laws of Kentucky to practice medicine or
+13 osteopathy, or a medical officer of the government of the United States while
+14 engaged in the practice of official duties, and who is certified or eligible to
+15 apply for certification by the American Board of Psychiatry and Neurology,
+16 Inc.;
+17 (c) A psychologist with the health service provider designation, a psychological
+18 practitioner, a certified psychologist, or a psychological associate licensed
+19 under the provisions of KRS Chapter 319;
+20 (d) A licensed registered nurse with a master's degree in psychiatric nursing from
+21 an accredited institution and two (2) years of clinical experience with
+22 mentally ill persons, or a licensed registered nurse with a bachelor's degree in
+23 nursing from an accredited institution who is certified as a psychiatric and
+24 mental health nurse by the American Nurses Association and who has three
+25 (3) years of inpatient or outpatient clinical experience in psychiatric nursing
+26 and who is currently employed by a hospital or forensic psychiatric facility
+27 licensed by the Commonwealth or a psychiatric unit of a general hospital, a
+Page 9 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 private agency or company engaged in providing mental health services, or a
+2 regional comprehensive care center;
+3 (e) A licensed clinical social worker licensed under the provisions of KRS
+4 335.100, or a certified social worker licensed under the provisions of KRS
+5 335.080 with three (3) years of inpatient or outpatient clinical experience in
+6 psychiatric social work and currently employed by a hospital or forensic
+7 psychiatric facility licensed by the Commonwealth, a psychiatric unit of a
+8 general hospital, a private agency or company engaged in providing mental
+9 health services, or a regional comprehensive care center;
+10 (f) A marriage and family therapist licensed under the provisions of KRS
+11 335.300 to 335.399 with three (3) years of inpatient or outpatient clinical
+12 experience in psychiatric mental health practice and currently employed by a
+13 hospital or forensic psychiatric facility licensed by the Commonwealth, a
+14 psychiatric unit of a general hospital, a private agency or company engaged in
+15 providing mental health services, or a regional comprehensive care center;
+16 (g) A professional counselor credentialed under the provisions of KRS 335.500 to
+17 335.599 with three (3) years of inpatient or outpatient clinical experience in
+18 psychiatric mental health practice and currently employed by a hospital or
+19 forensic facility licensed by the Commonwealth, a psychiatric unit of a
+20 general hospital, a private agency or company engaged in providing mental
+21 health services, or a regional comprehensive care center; or
+22 (h) A physician assistant licensed under KRS 311.840 to 311.862, who meets one
+23 (1) of the following requirements:
+24 1. Provides documentation that he or she has completed a psychiatric
+25 residency program for physician assistants;
+26 2. Has completed at least one thousand (1,000) hours of clinical experience
+27 under a supervising physician, as defined by KRS 311.840, who is a
+Page 10 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 psychiatrist and is certified or eligible for certification by the American
+2 Board of Psychiatry and Neurology, Inc.;
+3 3. Holds a master's degree from a physician assistant program accredited
+4 by the Accreditation Review Commission on Education for the
+5 Physician Assistant or its predecessor or successor agencies, is
+6 practicing under a supervising physician as defined by KRS 311.840,
+7 and:
+8 a. Has two (2) years of clinical experience in the assessment,
+9 evaluation, and treatment of mental disorders; or
+10 b. Has been employed by a hospital or forensic psychiatric facility
+11 licensed by the Commonwealth or a psychiatric unit of a general
+12 hospital or a private agency or company engaged in the provision
+13 of mental health services or a regional community program for
+14 mental health and individuals with an intellectual disability for at
+15 least two (2) years; or
+16 4. Holds a bachelor's degree, possesses a current physician assistant
+17 certificate issued by the board prior to July 15, 2002, is practicing under
+18 a supervising physician as defined by KRS 311.840, and:
+19 a. Has three (3) years of clinical experience in the assessment,
+20 evaluation, and treatment of mental disorders; or
+21 b. Has been employed by a hospital or forensic psychiatric facility
+22 licensed by the Commonwealth or a psychiatric unit of a general
+23 hospital or a private agency or company engaged in the provision
+24 of mental health services or a regional community program for
+25 mental health and individuals with an intellectual disability for at
+26 least three (3) years;
+27 (53) "Reasonable and prudent parent standard" has the same meaning as in 42 U.S.C.
+Page 11 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 sec. 675(10);
+2 (54) "Residential treatment facility" means a facility or group home with more than eight
+3 (8) beds designated by the Department of Juvenile Justice or the cabinet for the
+4 treatment of children;
+5 (55) "Retain in custody" means, after a child has been taken into custody, the continued
+6 holding of the child by a peace officer for a period of time not to exceed twelve (12)
+7 hours when authorized by the court or the court-designated worker for the purpose
+8 of making preliminary inquiries;
+9 (56) "Risk and needs assessment" means an actuarial tool scientifically proven to
+10 identify specific factors and needs that are related to delinquent and noncriminal
+11 misconduct;
+12 (57) "Safety plan" means a written agreement developed by the cabinet and agreed to by
+13 a family that clearly describes the protective services that the cabinet will provide
+14 the family in order to manage risks[threats] to a child's safety;
+15 (58) "School personnel" means those certified persons under the supervision of the local
+16 public or private education agency;
+17 (59) "Secretary" means the secretary of the Cabinet for Health and Family Services;
+18 (60) "Secure juvenile detention facility" means any physically secure facility used for
+19 the secure detention of children other than any facility in which adult prisoners are
+20 confined;
+21 (61) "Serious physical injury" means physical injury which creates a substantial risk of
+22 death or which causes serious and prolonged disfigurement, prolonged impairment
+23 of health, or prolonged loss or impairment of the function of any bodily member or
+24 organ;
+25 (62) "Sexual abuse" includes but is not necessarily limited to any contacts or interactions
+26 in which the parent, guardian, person in a position of authority or special trust, as
+27 defined in KRS 532.045, or other person having custodial control or supervision of
+Page 12 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 the child or responsibility for his or her welfare, uses or allows, permits, or
+2 encourages the use of the child for the purposes of the sexual stimulation of the
+3 perpetrator or another person;
+4 (63) "Sexual exploitation" includes but is not limited to a situation in which a parent,
+5 guardian, person in a position of authority or special trust, as defined in KRS
+6 532.045, or other person having custodial control or supervision of a child or
+7 responsible for his or her welfare, allows, permits, or encourages the child to
+8 engage in an act which constitutes prostitution under Kentucky law; or a parent,
+9 guardian, person in a position of authority or special trust, as defined in KRS
+10 532.045, or other person having custodial control or supervision of a child or
+11 responsible for his or her welfare, allows, permits, or encourages the child to
+12 engage in an act of obscene or pornographic photographing, filming, or depicting of
+13 a child as provided for under Kentucky law;
+14 (64) "Social service worker" means any employee of the cabinet or any private agency
+15 designated as such by the secretary of the cabinet or a social worker employed by a
+16 county or city who has been approved by the cabinet to provide, under its
+17 supervision, services to families and children;
+18 (65) "Staff secure facility for residential treatment" means any setting which assures that
+19 all entrances and exits are under the exclusive control of the facility staff, and in
+20 which a child may reside for the purpose of receiving treatment;
+21 (66) "Statewide reporting system" means a system for making and compiling reports of
+22 child dependency, neglect, and abuse in Kentucky made via telephone call or in
+23 writing by a member of the public;
+24 (67) (a) "Status offense action" is any action brought in the interest of a child who is
+25 accused of committing acts, which if committed by an adult, would not be a
+26 crime. Such behavior shall not be considered criminal or delinquent and such
+27 children shall be termed status offenders. Status offenses shall include:
+Page 13 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 1. Beyond the control of school or beyond the control of parents;
+2 2. Habitual runaway;
+3 3. Habitual truant; and
+4 4. Alcohol offenses as provided in KRS 244.085.
+5 (b) Status offenses shall not include violations of state or local ordinances which
+6 may apply to children such as a violation of curfew;
+7 (68) "Take into custody" means the procedure by which a peace officer or other
+8 authorized person initially assumes custody of a child. A child may be taken into
+9 custody for a period of time not to exceed two (2) hours;
+10 (69) "Transitional living support" means all benefits to which an eligible youth is
+11 entitled upon being granted extended or reinstated commitment to the cabinet by the
+12 court;
+13 (70) "Transition plan" means a plan that is personalized at the direction of the youth that:
+14 (a) Includes specific options on housing, health insurance, education, local
+15 opportunities for mentors and continuing support services, and workforce
+16 supports and employment services; and
+17 (b) Is as detailed as the youth may elect;
+18 (71) "Valid court order" means a court order issued by a judge to a child alleged or
+19 found to be a status offender:
+20 (a) Who was brought before the court and made subject to the order;
+21 (b) Whose future conduct was regulated by the order;
+22 (c) Who was given written and verbal warning of the consequences of the
+23 violation of the order at the time the order was issued and whose attorney or
+24 parent or legal guardian was also provided with a written notice of the
+25 consequences of violation of the order, which notification is reflected in the
+26 record of the court proceedings; and
+27 (d) Who received, before the issuance of the order, the full due process rights
+Page 14 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 guaranteed by the Constitution of the United States;
+2 (72) "Violation" means any offense, other than a traffic infraction, for which a sentence
+3 of a fine only can be imposed;
+4 (73) "Youth alternative center" means a nonsecure facility, approved by the Department
+5 of Juvenile Justice, for the detention of juveniles, both prior to adjudication and
+6 after adjudication, which meets the criteria specified in KRS 15A.320; and
+7 (74) "Youthful offender" means any person regardless of age, transferred to Circuit
+8 Court under the provisions of KRS Chapter 635 or 640 and who is subsequently
+9 convicted in Circuit Court.
+10 Section 2. KRS 620.032 is amended to read as follows:
+11 (1) By November 1 of each year, beginning in 2021, the cabinet shall submit to the
+12 Legislative Research Commission a comprehensive report that does not identify
+13 individuals, detailing the number of reports the cabinet has received regarding
+14 female genital mutilation as defined in KRS 508.125, the number of reports in
+15 which the cabinet has investigated and determined that a child is the victim of
+16 female genital mutilation, and the number of cases in which services were provided.
+17 (2) Beginning August 1, 2024, and monthly thereafter, the cabinet shall make available
+18 on its website and deliver to the Legislative Research Commission for referral to
+19 the Interim Joint Committee, Senate Standing Committee, and House Standing
+20 Committee on Families and Children, a report on the monthly child protective
+21 services intakes received by the cabinet. The monthly report shall include at a
+22 minimum the following:
+23 (a) Total number of all reports[intakes];
+24 (b) All child protective services response reports[intakes];
+25 (c) Reports[Intakes] with allegations of:
+26 1. Abuse; and
+27 2. Neglect;
+Page 15 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 (d) Reports that met acceptance criteria;
+2 (e) Reports with a substantiated or services needed finding; and
+3 (f) Reports with a substantiated finding.
+4 Section 3. KRS 620.040 is amended to read as follows:
+5 (1) (a) Upon receipt of a report alleging abuse or neglect of a child as defined in KRS
+6 600.020 by a parent, guardian, fictive kin, person in a position of authority,
+7 person in a position of special trust, or person exercising custodial control or
+8 supervision, pursuant to KRS 620.030(1) or (2), or a report alleging a child is
+9 a victim of human trafficking pursuant to KRS 620.030(3), the recipient of the
+10 report shall immediately notify the cabinet or its designated representative, the
+11 local law enforcement agency or the Department of Kentucky State Police,
+12 and the Commonwealth's or county attorney of the receipt of the report. If any
+13 agency listed above is the reporting source, the recipient shall immediately
+14 notify the cabinet or its designated representative, the local law enforcement
+15 agency, the Department of Kentucky State Police, and the Commonwealth's
+16 or county attorney of the receipt of the report.
+17 (b) Based upon the allegation in the report, the cabinet shall immediately make an
+18 initial determination as to the risk of harm and immediate safety of the child.
+19 Based upon the level of risk determined, the cabinet shall investigate the
+20 allegation or accept the report for an assessment of family needs and, if
+21 appropriate, may provide or make referral to any community-based services
+22 necessary to reduce risk to the child and to provide family support. A report of
+23 sexual abuse or human trafficking of a child shall be considered high risk and
+24 shall not be referred to any other community agency. If the:
+25 1. Cabinet's initial determination is that there is risk of harm and
+26 immediate safety concerns for the child, the cabinet shall physically
+27 locate the child within fourteen (14) days of the initial determination;
+Page 16 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 2. Child is under the age of five (5) years or has other developmental or
+2 cognitive delays or a significant medical or mental health condition,
+3 the cabinet shall physically locate the child within five (5) working
+4 days of the initial determination; and
+5 3. Cabinet does not physically locate the child according to the timeline
+6 established in this paragraph, the cabinet shall contact local law
+7 enforcement to assist in locating the child.
+8 (c) In making the initial determination as to the risk of harm and immediate
+9 safety of the child pursuant to paragraph (b) of this subsection, the cabinet
+10 shall at a minimum:
+11 1. Consider the age and vulnerability of a child, particularly for ages five
+12 (5) years of age and under, when assessing allegations of abuse and
+13 neglect;
+14 2. [Automatically ]Accept for investigation a subsequent report from a
+15 professional reporting source, who makes a report pursuant to the
+16 requirements in KRS Chapter 620 that a child is abused or neglected and
+17 identifies himself or herself by name, title, and employer, when the same
+18 or similar allegation has been reported by one (1) or more unique
+19 professional reporting sources within the past thirty (30) days. For the
+20 purposes of this subparagraph "professional reporting source" means an
+21 individual who is a social worker, therapist, medical professional,
+22 educator, judge, attorney, law enforcement officer, or any other
+23 individual holding a degree or position in a field related to the safety and
+24 care of children; and
+25 3. Automatically accept for investigation a report from a court of
+26 appropriate jurisdiction that makes a report pursuant to the requirements
+27 in KRS Chapter 620 that a child is abused or neglected or identifies that
+Page 17 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 the child is an alleged victim of domestic violence and abuse as defined
+2 in KRS 403.720 or sexual assault as defined in KRS 456.010[a
+3 plaintiff] in an active emergency protective order or temporary
+4 interpersonal protection order case.
+5 (d) The cabinet shall, within seventy-two (72) hours, exclusive of weekends and
+6 holidays, make a written report, including but not limited to electronic
+7 submissions, to the Commonwealth's or county attorney and the local law
+8 enforcement agency or the Department of Kentucky State Police concerning
+9 the action that has been taken on the investigation.
+10 (e) If the report alleges abuse or neglect by someone other than a parent,
+11 guardian, fictive kin, person in a position of authority, person in a position of
+12 special trust, or person exercising custodial control or supervision, or the
+13 human trafficking of a child, the cabinet shall immediately notify the
+14 Commonwealth's or county attorney and the local law enforcement agency or
+15 the Department of Kentucky State Police.
+16 (2) (a) Upon receipt of a report alleging dependency pursuant to KRS 620.030(1) and
+17 (2), the recipient shall immediately notify the cabinet or its designated
+18 representative.
+19 (b) Based upon the allegation in the report, the cabinet shall immediately make an
+20 initial determination as to the risk of harm and immediate safety of the child.
+21 Based upon the level of risk, the cabinet shall investigate the allegation or
+22 accept the report for an assessment of family needs and, if appropriate, may
+23 provide or make referral to any community-based services necessary to reduce
+24 risk to the child and to provide family support. A report of sexual abuse or
+25 human trafficking of a child shall be considered high risk and shall not be
+26 referred to any other community agency. If the:
+27 1. Cabinet's initial determination is that there is risk of harm and
+Page 18 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 immediate safety concerns for the child, the cabinet shall physically
+2 locate the child within fourteen (14) days of the initial determination;
+3 2. Child is under the age of five (5) years or has other developmental or
+4 cognitive delays or significant medical or mental health condition, the
+5 cabinet shall physically locate the child within five (5) working days of
+6 the initial determination; and
+7 3. Cabinet does not physically locate the child according to the timeline
+8 established in this paragraph, the cabinet shall contact local law
+9 enforcement to assist in locating the child.
+10 (c) In making the initial determination as to the risk of harm and immediate
+11 safety of the child pursuant to paragraph (b) of this subsection, the cabinet
+12 shall at a minimum:
+13 1. Consider the age and vulnerability of a child, particularly for ages five
+14 (5) years of age and under, when assessing allegations of dependency;
+15 2. [Automatically ]Accept for investigation a subsequent report from a
+16 professional reporting source, who makes a report pursuant to the
+17 requirements in KRS Chapter 620 that a child is dependent and
+18 identifies himself or herself by name, title, and employer, when the same
+19 or similar allegation has been reported by one (1) or more unique
+20 professional reporting sources within the past thirty (30) days. For the
+21 purposes of this subparagraph "professional reporting source" means an
+22 individual who is a social worker, therapist, medical professional,
+23 educator, judge, attorney, law enforcement officer, or any other
+24 individual holding a degree or position in a field related to the safety and
+25 care of children; and
+26 3. Automatically accept for investigation a report from a court of
+27 appropriate jurisdiction that makes a report pursuant to the requirements
+Page 19 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 in KRS Chapter 620 that a child is dependent or identifies that the child
+2 is an alleged victim of domestic violence and abuse as defined in KRS
+3 403.720 or sexual assault as defined in KRS 456.010[a plaintiff] in an
+4 active emergency protective order or temporary interpersonal protection
+5 order case.
+6 (d) The cabinet need not notify the local law enforcement agency or the
+7 Department of Kentucky State Police or Commonwealth's or county attorney
+8 of reports made under this subsection unless the report involves the human
+9 trafficking of a child, in which case the notification shall be required.
+10 (3) If the cabinet or its designated representative receives a report of abuse by a person
+11 other than a parent, guardian, fictive kin, person in a position of authority, person in
+12 a position of special trust, or other person exercising custodial control or
+13 supervision of a child, it shall immediately notify the local law enforcement agency
+14 or the Department of Kentucky State Police and the Commonwealth's or county
+15 attorney of the receipt of the report and its contents, and they shall investigate the
+16 matter. The cabinet or its designated representative shall participate in an
+17 investigation of noncustodial physical abuse or neglect at the request of the local
+18 law enforcement agency or the Department of Kentucky State Police. The cabinet
+19 shall participate in all investigations of reported or suspected sexual abuse or human
+20 trafficking of a child.
+21 (4) School personnel or other persons listed in KRS 620.030(2) do not have the
+22 authority to conduct internal investigations in lieu of the official investigations
+23 outlined in this section.
+24 (5) (a) If, after receiving the report, the law enforcement officer, the cabinet, or its
+25 designated representative cannot gain admission to the location of the child, a
+26 search warrant shall be requested from, and may be issued by, the judge to the
+27 appropriate law enforcement official upon probable cause that the child is
+Page 20 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 dependent, neglected, or abused. If, pursuant to a search under a warrant, a
+2 child is discovered and appears to be in imminent danger, the child may be
+3 removed by the law enforcement officer.
+4 (b) If a child who is in a hospital or under the immediate care of a physician
+5 appears to be in imminent danger if he or she is returned to the persons having
+6 custody of him or her, the physician or hospital administrator may hold the
+7 child without court order, provided that a request is made to the court for an
+8 emergency custody order at the earliest practicable time, not to exceed
+9 seventy-two (72) hours.
+10 (c) Any appropriate law enforcement officer may take a child into protective
+11 custody and may hold that child in protective custody without the consent of
+12 the parent or other person exercising custodial control or supervision if there
+13 exist reasonable grounds for the officer to believe that the child is in danger of
+14 imminent death or serious physical injury, is being sexually abused, or is a
+15 victim of human trafficking and that the parents or other person exercising
+16 custodial control or supervision are unable or unwilling to protect the child.
+17 The officer or the person to whom the officer entrusts the child shall, within
+18 twelve (12) hours of taking the child into protective custody, request the court
+19 to issue an emergency custody order.
+20 (d) When a law enforcement officer, hospital administrator, or physician takes a
+21 child into custody without the consent of the parent or other person exercising
+22 custodial control or supervision, he or she shall provide written notice to the
+23 parent or other person stating the reasons for removal of the child. Failure of
+24 the parent or other person to receive notice shall not, by itself, be cause for
+25 civil or criminal liability.
+26 (e) 1. If a report includes a child fatality or near fatality, and the law
+27 enforcement officer has reasonable grounds to believe any parent or
+Page 21 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 person exercising custodial control or supervision of the child was under
+2 the influence of alcohol or drugs at the time the fatality or near fatality
+3 occurred, the law enforcement officer shall request a test of blood,
+4 breath, or urine from that person.
+5 2. If, after making the request, consent is not given for the test of blood,
+6 breath, or urine, a search warrant shall be requested from and may be
+7 issued by the judge to the appropriate law enforcement official upon
+8 probable cause that a child fatality or near fatality has occurred and that
+9 the person exercising custodial control or supervision of the child at the
+10 time of the fatality or near fatality was under the influence.
+11 3. Any test requested under this section shall be conducted pursuant to the
+12 testing procedures and requirements in KRS 189A.103.
+13 (6) The cabinet shall make efforts as soon as practicable to determine any military
+14 status of a parent or legal guardian of a child who is the subject of an investigation
+15 or assessment pursuant to this section. If the cabinet determines that the parent or
+16 legal guardian is a member of the United States Armed Forces, the cabinet shall
+17 notify the Department of Defense family advocacy program operating within the
+18 service member's assigned installation of the investigation or assessment and
+19 provide case information.
+20 (7) To the extent practicable and when in the best interest of a child alleged to have
+21 been abused, interviews with the child shall be conducted at a children's advocacy
+22 center.
+23 (8) (a) One (1) or more multidisciplinary teams may be established in every county
+24 or group of contiguous counties.
+25 (b) Membership of the multidisciplinary team shall include but shall not be
+26 limited to social service workers employed by the Cabinet for Health and
+27 Family Services and law enforcement officers. Additional team members may
+Page 22 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 include Commonwealth's and county attorneys, children's advocacy center
+2 staff, mental health professionals, medical professionals, victim advocates
+3 including advocates for victims of human trafficking, educators, and other
+4 related professionals, as deemed appropriate.
+5 (c) The multidisciplinary team shall review child sexual abuse cases and child
+6 human trafficking cases involving commercial sexual activity referred by
+7 participating professionals, including those in which the alleged perpetrator
+8 does not have custodial control or supervision of the child or is not
+9 responsible for the child's welfare. The purpose of the multidisciplinary team
+10 shall be to review investigations, assess service delivery, and to facilitate
+11 efficient and appropriate disposition of cases through the criminal justice
+12 system.
+13 (d) The team shall hold regularly scheduled meetings if new reports of sexual
+14 abuse or child human trafficking cases involving commercial sexual activity
+15 are received or if active cases exist. At each meeting, each active case shall be
+16 presented and the agencies' responses assessed.
+17 (e) The multidisciplinary team shall provide an annual report to the public of
+18 nonidentifying case information to allow assessment of the processing and
+19 disposition of child sexual abuse cases and child human trafficking cases
+20 involving commercial sexual activity.
+21 (f) Multidisciplinary team members and anyone invited by the multidisciplinary
+22 team to participate in a meeting shall not divulge case information, including
+23 information regarding the identity of the victim or source of the report. Team
+24 members and others attending meetings shall sign a confidentiality statement
+25 that is consistent with statutory prohibitions on disclosure of this information.
+26 (g) The multidisciplinary team shall, pursuant to KRS 431.600 and 431.660,
+27 develop a local protocol consistent with the model protocol issued by the
+Page 23 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 Kentucky Multidisciplinary Commission on Child Sexual Abuse. The local
+2 team shall submit the protocol to the commission for review and approval.
+3 (h) The multidisciplinary team review of a case may include information from
+4 reports generated by agencies, organizations, or individuals that are
+5 responsible for investigation, prosecution, or treatment in the case, KRS
+6 610.320 to KRS 610.340 notwithstanding.
+7 (i) To the extent practicable, multidisciplinary teams shall be staffed by the local
+8 children's advocacy center.
+9 (9) Nothing in this section shall limit the cabinet's investigatory authority under KRS
+10 620.050 or any other obligation imposed by law.
+11 Section 4. KRS 620.048 is amended to read as follows:
+12 (1) During a child protective services investigation conducted pursuant to the authority
+13 in this chapter where there is a safety plan negotiated and agreed upon between
+14 the cabinet and the parent, guardian, person in a position of authority or special
+15 trust, as defined in KRS 532.045, or other person having custodial control or
+16 supervision of the child or responsibility for his or her welfare that the child
+17 cannot safely remain in the home[a child is placed outside of his or her home on a
+18 safety plan], the cabinet shall file a petition in court within seventy-two (72) hours
+19 if the child remains placed outside of his or her home for more than fourteen (14)
+20 consecutive days.
+21 (2) All safety plans implemented pursuant to this section shall be compiled by the
+22 cabinet on a quarterly basis into a report containing at a minimum the total number
+23 of safety plans, the outcome of the safety plans, and the number of court petitions
+24 filed.
+25 (3) By December 1, 2024, and quarterly thereafter, the cabinet shall make available, on
+26 its website and to the Legislative Research Commission for referral to the Interim
+27 Joint Committee, Senate Standing Committee, and House Standing Committee on
+Page 24 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 Families and Children, the report on safety plans established in subsection (2) of
+2 this section.
+3 Section 5. KRS 605.120 is amended to read as follows:
+4 (1) The cabinet is authorized to expend available funds to provide for the board,
+5 lodging, and care of children who would otherwise be placed in foster care or who
+6 are placed by the cabinet in a foster home or boarding home, or may arrange for
+7 payments or contributions by any local governmental unit, or public or private
+8 agency or organization, willing to make payments or contributions for such
+9 purpose. The cabinet may accept any gift, devise, or bequest made to it for its
+10 purposes.
+11 (2) The cabinet shall establish a reimbursement system, within existing appropriation
+12 amounts, for foster parents that comes as close as possible to meeting the actual
+13 cost of caring for foster children. The cabinet shall consider providing additional
+14 reimbursement for foster parents who obtain additional training, and foster parents
+15 who have served for an extended period of time. In establishing a reimbursement
+16 system, the cabinet shall, to the extent possible within existing appropriation
+17 amounts, address the additional cost associated with providing care to children with
+18 exceptional needs.
+19 (3) The cabinet shall review reimbursement rates paid to foster parents and shall issue a
+20 report upon request comparing the rates paid by Kentucky to the figures presented
+21 in the Expenditures on Children by Families Annual Report prepared by the United
+22 States Department of Agriculture and the rates paid to foster parents by other states.
+23 To the extent that funding is available, reimbursement rates paid to foster parents
+24 shall be increased on an annual basis to reflect cost of living increases.
+25 (4) The cabinet is encouraged to develop pilot projects both within the state system and
+26 in collaboration with private child caring agencies to test alternative delivery
+27 systems and nontraditional funding mechanisms.
+Page 25 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 (5) (a) The cabinet shall track and analyze data on relative and fictive kin caregiver
+2 placements. The data shall include but not be limited to:
+3 1. Demographic data on relative and fictive kin caregivers and children in
+4 their care;
+5 2. Custodial options selected by the relative and fictive kin caregivers;
+6 3. Services provisioned to relative and fictive kin caregivers and children
+7 in their care; and
+8 4. Permanency benchmarks and outcomes for relative and fictive kin
+9 caregiver placements.
+10 (b) By September 30, 2020, and annually[upon request] thereafter, the cabinet
+11 shall submit a report to the Governor, the Chief Justice of the Supreme Court,
+12 and the director of the Legislative Research Commission for automatic
+13 distribution to the Interim Joint Committee on Families and Children relating
+14 to the data tracking and analysis established in this subsection and post the
+15 report to the cabinet website for public view no later than February 28 of
+16 the following year.
+17 (6) Foster parents shall have the authority, unless the cabinet determines that the child's
+18 religion, race, ethnicity, or national origin prevents it, to make decisions regarding
+19 haircuts and hairstyles for foster children who are in their care for thirty (30) days
+20 or more.
+Page 26 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+[DELETED:   2  G A B S A ( " t ( H a s 1 I i 2 C d 3 E i a p o c t r t p i o c n l t p i d t a s u d a d 4 C c 5 C o a t b c a a o s a s e 6 C e 7 A 8 D n p t c w a c s f c w]
+[DELETED:   2  G m s o t c l p t p r b s n b c a n p s b o f a m 9 F t t a f 1 C t ( A p t ( y o a o o c o a t b c c ( " 6 ( " c m t e o o ( o m o t f ( T o ( T p a t ( T]
+[DELETED:   2  G ( T c t ( T ( " t c d w ( " h p t s a s d t s b a a i s a ( " l t c f t p o c c t t d o t c ( " ( " a d w ( " m a p w h n r h o h e b u ( "]
+[DELETED:   2  G D a p b ( " a m a a o t a s a w s t p o c i f f h o c f ( " t f m a f w m t e ( b d m b ( " c o e ( " f m a n h f l o o p t o b t D o J J o t c h t ( " c ( " a ( " A O o t C f t p o p c i a]
+[DELETED:   2  G a f e i a s d a a p ( " ( " ( " u i c c c o g t i n d t a i a o t p g o p e c c o s ( " c s ( " t ( h e o w a h o t s o a p ( " f h o h b a i a s s t s t b i a ( " ( I ( I ( I o p i s o e p o e i ( " s i a g h p r f o h f w p t o e c o c a a]
+[DELETED:   2  G ( " i m a i t t m o p c o e s o a c a e b a s a o i a b w d r t h o h a d c a e ( " p m p p p a p p ( " t e s r w a b p s o h s p ( " ( " f ( " s m a o a c o a m p t ( E ( D ( D ( R ( C ( R i s a f c s a t r j p a b o m h t ( "]
+[DELETED:   2  G a c ( " r o ( " p t ( " e ( " a m a a r a t p w c b n t c o t v o t c o o p s a o ( " w o ( " t p d o t c b i n m h h o i t n o i n r o p m n r o a a ( " C]
+[DELETED:   2  G ( " s ( " ( " m a c a t b d n o a a w ( " f m a f w p i r a t t s r ( " c a C b t c i a c t i s b a s o s d f w a i t d c o D o J o ( " r b h f ( " ( " h d ( " w ( " i m s p p o i o p c]
+[DELETED:   2  G ( " s f m a f t r p o t u o c ( " o p i s ( " ( A p l u t l o K t p m o o e ( A o e a I ( A p a c p o a p a l u ( A a a i a t ( y o c e w m n a a m ( a l]
+[DELETED:   2  G p r ( A l c s w l u t p o K 3 3 p s w a c e b a h o f p f l b t C a p u o a g h ( A m a f t l u t p o K 3 t 3 w t ( y o i o o c e h o f p f l b t C a p p ( A 3 p m h p a c e b a h o f f l b t C a p u o a g h ( A ( 1 P d t h o s h c a p r 2 H u s p a d b K 3 w i a]
+[DELETED:   2  G p B 3 H b t A R C o E f t P A o i p o s a i p a a H t ( y o c e i t a e b H l h o m h s o a r c p f m l 4 H a b d p a c p a c a a H t ( y o c e i t a e b H l h o m h s o a r c p f m l ( "]
+[DELETED:   2  G s ( " ( t ( " h h o ( " a n a m a a t s p t i m ( " a t ( " p ( " ( " t c ( " d o o ( " i d]
+[DELETED:   2  G t c o r f h o h w u o a p o e p ( " g p i a p o a o s t a d i K 5 o o p h c c o s o a c o r f h o h w a p o e t c t e g p i a p o a o s t a d i K 5 o o p h c c o s o a c o r f h o h w a p o e t c t e a ( " d c o c w h b a b t c t p u i s ( " a w ( " c w ( ( " a c c]
+[DELETED:   2  G 1 B 2 H 3 H 4 A ( S m ( " i c m t p b w a p o o o a c ( " l s m a b t w a e y i e c ( " ( I s o o h h i e l o f m a c s s a w s ( I ( " c o m a c o b a j t a c a o f ( W ( W ( W w g w a v w o t c o t v p o l g w a p w a w n o t c r ( W]
+[DELETED:   2  G g ( " o ( " o a ( " o m a p r o a t t C C c S ( B L R C a c r t d n i i d t n o r t c h r r f g m a d i K 5 t n o r i w t c h i a d t a c i t v o f ( B o t I J C S S C a H S C o F a C a r o t m c p s i r b t c T m r s i a a m ( T ( A ( R 1 A 2 N]
+[DELETED:   2  G ( R ( R ( R S ( ( U 6 p s a r l a a n a o ( B i B u t l o r d t c s i t a o a t r f a a o f n a i a n s s 1 C i d i t t i r o h a i l]
+[DELETED:   2  G 2 C c t c s p l t c w f ( w d 3 C e i t p t c s c l l e ( I m t i d a t t r o h a i s s 1 C ( y o a a u w a a o a a n 2 [ ] f i a s r f a p r s w m a r p t t r i o s a h b r b o ( o m u p p i w i a s w t m p e j a l e o o a o i c 3 A a f i a r f a c o a i]
+[DELETED:   2  G t i K 4 o s a a d i K 4 p i a a e p o o t i ( T h m a w r i b n l t e s t t C o c a a t l l e t ( I t r a a o n b s o t a p g s t o p e c c o s o t h t o a c t c s i n t C t ( ( U ( t r s i n t c o i d r ( B i B a p r h r 1 C i d i t t i r o h a]
+[DELETED:   2  G i l 2 C c c t 3 C e i t p t c s c l l e ( I m t i d a t t r o h a i s s 1 C ( 2 [ ] f i a s r f a p r s w m a r p t t r i K C 6 t a c i d a i o s a h b r b o ( o m u p p i w i a s w t m p e j a l e o o a o i c 3 A a f i a r f a c o a]
+[DELETED:   2  G i i 4 a o ( T c n n n t l l e a o t D o t ( I o a p o s t o o p e c c o s o o a m T c o i d r s p i a i l s t ( S p o o p l i K 6 d n h t a t c i i i l o t o i o ( ( I d s a l e o u p c t t c i]
+[DELETED:   2  G d c r ( I a c w i a h o i c o p a c c e c o a t e p t n t e s ( A a l e o m t a c i p c t e i v c T t t ( W c c p t c ( 1 I a r i a c f o n f a t l e o h r g t b a p o]
+[DELETED:   2  G p t o t l e o s r a t o b b 2 I b i b t j t t a l e o u p t t 3 A t ( T c s m e a s a p t d a m s o l n s m a i o t i o a a p ( T b c ( ( O o ( M o t m t s i b s n b l t s s w e b t C f H a F]
+[DELETED:   2  G i C a c a c a c s m h p m p v a i a f v o h t e a o r ( T c h t c i c s a r b p d n h c c o s o t c o i n r s b t r i a s d a t f e a a d o c t t c j s ( T t s h r s m i n r o a a p ( T m t s p a a r t t p o n c i t a a o t p a d o c s a c a c h t c i ( M t i m t ( T m t s p t K 4 a 4 d a l p c w t m p i b t]
+[DELETED:   2  G K T t ( T r g b a o o i t a r f i p o t i t c K 6 ( T c ( N 6 S ( D i t t a d i K 5 o o p h c c o s o t c o r f h o h w t t c c s i c ( A s p i p t t s s b c b t c o f ( B i J]
+[DELETED:   2  G F t S ( T c i a t e a f t p f t b l a p o c b a l g u o p o p a o o w t m p o c f s p T c m a a g d o b m t i f i p ( T a c r w s t c s t t e p w e a a e ( T r i S T s ( T i c w p c c a t t a d s]
+[DELETED:   2  G ( ( T p 1 D t 2 C 3 S i 4 P b a o f r a f k c ( B s a t d o t L R C f a d t r t ( F r h o]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 AN ACT relating to children.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 600.020 is amended to read as follows:
+4 As used in KRS Chapters 600 to 645, unless the context otherwise requires:
+5 (1) "Abused or neglected child" means a child whose health or welfare is harmed or
+6 threatened with harm when:
+7 (a) His or her parent, guardian, person in a position of authority or special trust,
+8 as defined in KRS 532.045, or other person exercising custodial control or
+9 supervision of the child:
+10 1. Inflicts or allows to be inflicted upon the child physical or emotional
+11 injury as defined in this section by other than accidental means;
+12 2. Creates or allows to be created a risk of physical or emotional injury as
+13 defined in this section to the child by other than accidental means;
+14 3. Engages in a pattern of conduct that renders the parent incapable of
+15 caring for the immediate and ongoing needs of the child, including but
+16 not limited to parental incapacity due to a substance use disorder as
+17 defined in KRS 222.005;
+18 4. Continuously or repeatedly fails or refuses to provide essential parental
+19 care and protection for the child, considering the age of the child;
+20 5. Commits or allows to be committed an act of sexual abuse, sexual
+21 exploitation, or prostitution upon the child;
+22 6. Creates or allows to be created a risk that an act of sexual abuse, sexual
+23 exploitation, or prostitution will be committed upon the child;
+24 7. Abandons or exploits the child;
+25 8. Does not provide the child with adequate care, supervision, food,
+26 clothing, shelter, and education or medical care necessary for the child's
+27 well-being when financially able to do so or offered financial or other
+Page 1 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 means to do so. A parent or other person exercising custodial control or
+2 supervision of the child legitimately practicing the person's religious
+3 beliefs shall not be considered a negligent parent solely because of
+4 failure to provide specified medical treatment for a child for that reason
+5 alone. This exception shall not preclude a court from ordering necessary
+6 medical services for a child;
+7 9. Fails to make sufficient progress toward identified goals as set forth in
+8 the court-approved case plan to allow for the safe return of the child to
+9 the parent that results in the child remaining committed to the cabinet
+10 and remaining in foster care for fifteen (15) cumulative months out of
+11 forty-eight (48) months; or
+12 10. Commits or allows female genital mutilation as defined in KRS 508.125
+13 to be committed; or
+14 (b) A person twenty-one (21) years of age or older commits or allows to be
+15 committed an act of sexual abuse, sexual exploitation, or prostitution upon a
+16 child less than sixteen (16) years of age;
+17 (2) "Age or developmentally appropriate" has the same meaning as in 42 U.S.C. sec.
+18 675(11);
+19 (3) "Aggravated circumstances" means the existence of one (1) or more of the
+20 following conditions:
+21 (a) The parent has not attempted or has not had contact with the child for a period
+22 of not less than ninety (90) days;
+23 (b) The parent is incarcerated and will be unavailable to care for the child for a
+24 period of at least one (1) year from the date of the child's entry into foster care
+25 and there is no appropriate relative placement available during this period of
+26 time;
+27 (c) The parent has sexually abused the child and has refused available treatment;
+Page 2 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 (d) The parent has been found by the cabinet to have engaged in abuse of the
+2 child that required removal from the parent's home two (2) or more times in
+3 the past two (2) years; or
+4 (e) The parent has caused the child serious physical injury;
+5 (4) "Beyond the control of parents" means a child who has repeatedly failed to follow
+6 the reasonable directives of his or her parents, legal guardian, or person exercising
+7 custodial control or supervision other than a state agency, which behavior results in
+8 danger to the child or others, and which behavior does not constitute behavior that
+9 would warrant the filing of a petition under KRS Chapter 645;
+10 (5) "Beyond the control of school" means any child who has been found by the court to
+11 have repeatedly violated the lawful regulations for the government of the school as
+12 provided in KRS 158.150, and as documented in writing by the school as a part of
+13 the school's petition or as an attachment to the school's petition. The petition or
+14 attachment shall describe the student's behavior and all intervention strategies
+15 attempted by the school;
+16 (6) "Boarding home" means a privately owned and operated home for the boarding and
+17 lodging of individuals which is approved by the Department of Juvenile Justice or
+18 the cabinet for the placement of children committed to the department or the
+19 cabinet;
+20 (7) "Cabinet" means the Cabinet for Health and Family Services;
+21 (8) "Certified juvenile facility staff" means individuals who meet the qualifications of,
+22 and who have completed a course of education and training in juvenile detention
+23 developed and approved by, the Department of Juvenile Justice after consultation
+24 with other appropriate state agencies;
+25 (9) "Child" means any person who has not reached his or her eighteenth birthday,
+26 unless otherwise provided;
+27 (10) "Child-caring facility" means any facility or group home other than a state facility,
+Page 3 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 Department of Juvenile Justice contract facility or group home, or one certified by
+2 an appropriate agency as operated primarily for educational or medical purposes,
+3 providing residential care on a twenty-four (24) hour basis to children not related by
+4 blood, adoption, or marriage to the person maintaining the facility;
+5 (11) "Child-placing agency" means any agency, other than a state agency, which
+6 supervises the placement of children in foster family homes or child-caring
+7 facilities or which places children for adoption;
+8 (12) "Clinical treatment facility" means a facility with more than eight (8) beds
+9 designated by the Department of Juvenile Justice or the cabinet for the treatment of
+10 mentally ill children. The treatment program of such facilities shall be supervised
+11 by a qualified mental health professional;
+12 (13) "Commitment" means an order of the court which places a child under the custodial
+13 control or supervision of the Cabinet for Health and Family Services, Department
+14 of Juvenile Justice, or another facility or agency until the child attains the age of
+15 eighteen (18) unless otherwise provided by law;
+16 (14) "Community-based facility" means any nonsecure, homelike facility licensed,
+17 operated, or permitted to operate by the Department of Juvenile Justice or the
+18 cabinet, which is located within a reasonable proximity of the child's family and
+19 home community, which affords the child the opportunity, if a Kentucky resident,
+20 to continue family and community contact;
+21 (15) "Complaint" means a verified statement setting forth allegations in regard to the
+22 child which contain sufficient facts for the formulation of a subsequent petition;
+23 (16) "Court" means the juvenile session of District Court unless a statute specifies the
+24 adult session of District Court or the Circuit Court;
+25 (17) "Court-designated worker" means that organization or individual delegated by the
+26 Administrative Office of the Courts for the purposes of placing children in
+27 alternative placements prior to arraignment, conducting preliminary investigations,
+Page 4 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 and formulating, entering into, and supervising diversion agreements and
+2 performing such other functions as authorized by law or court order;
+3 (18) "Deadly weapon" has the same meaning as it does in KRS 500.080;
+4 (19) "Department" means the Department for Community Based Services;
+5 (20) "Dependent child" means any child, other than an abused or neglected child, who is
+6 under improper care, custody, control, or guardianship that is not due to an
+7 intentional act of the parent, guardian, or person exercising custodial control or
+8 supervision of the child;
+9 (21) "Detention" means the safe and temporary custody of a juvenile who is accused of
+10 conduct subject to the jurisdiction of the court who requires a restricted or closely
+11 supervised environment for his or her own or the community's protection;
+12 (22) "Detention hearing" means a hearing held by a judge or trial commissioner within
+13 twenty-four (24) hours, exclusive of weekends and holidays, of the start of any
+14 period of detention prior to adjudication;
+15 (23) "Diversion agreement" means a mechanism designed to hold a child accountable
+16 for his or her behavior and, if appropriate, securing services to serve the best
+17 interest of the child and to provide redress for that behavior without court action
+18 and without the creation of a formal court record;
+19 (24) "Eligible youth" means a person who:
+20 (a) Is or has been committed to the cabinet as dependent, neglected, or abused;
+21 (b) Is eighteen (18) years of age to nineteen (19) years of age; and
+22 (c) Is requesting to extend or reinstate his or her commitment to the cabinet in
+23 order to participate in state or federal educational programs or to establish
+24 independent living arrangements;
+25 (25) "Emergency shelter" is a group home, private residence, foster home, or similar
+26 homelike facility which provides temporary or emergency care of children and
+27 adequate staff and services consistent with the needs of each child;
+Page 5 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 (26) "Emotional injury" means an injury to the mental or psychological capacity or
+2 emotional stability of a child as evidenced by a substantial and observable
+3 impairment in the child's ability to function within a normal range of performance
+4 and behavior with due regard to his or her age, development, culture, and
+5 environment as testified to by a qualified mental health professional;
+6 (27) "Evidence-based practices" means policies, procedures, programs, and practices
+7 proven by scientific research to reliably produce reductions in recidivism;
+8 (28) "Fictive kin" means an individual who is not related by birth, adoption, or marriage
+9 to a child, but who has an emotionally significant relationship with the child, or an
+10 emotionally significant relationship with a biological parent, siblings, or half-
+11 siblings of the child in the case of a child from birth to twelve (12) months of age,
+12 prior to placement;
+13 (29) "Firearm" shall have the same meaning as in KRS 237.060 and 527.010;
+14 (30) "Foster family home" means a private home in which children are placed for foster
+15 family care under supervision of the cabinet or a licensed child-placing agency;
+16 (31) "Graduated sanction" means any of a continuum of accountability measures,
+17 programs, and sanctions, ranging from less restrictive to more restrictive in nature,
+18 that may include but are not limited to:
+19 (a) Electronic monitoring;
+20 (b) Drug and alcohol screening, testing, or monitoring;
+21 (c) Day or evening reporting centers;
+22 (d) Reporting requirements;
+23 (e) Community service; and
+24 (f) Rehabilitative interventions such as family counseling, substance abuse
+25 treatment, restorative justice programs, and behavioral or mental health
+26 treatment;
+27 (32) "Habitual runaway" means any child who has been found by the court to have been
+Page 6 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 absent from his or her place of lawful residence without the permission of his or her
+2 custodian for at least three (3) days during a one (1) year period;
+3 (33) "Habitual truant" means any child who has been found by the court to have been
+4 reported as a truant as defined in KRS 159.150(1) two (2) or more times during a
+5 one (1) year period;
+6 (34) "Hospital" means, except for purposes of KRS Chapter 645, a licensed private or
+7 public facility, health care facility, or part thereof, which is approved by the cabinet
+8 to treat children;
+9 (35) "Independent living" means those activities necessary to assist a committed child to
+10 establish independent living arrangements;
+11 (36) "Informal adjustment" means an agreement reached among the parties, with
+12 consultation, but not the consent, of the victim of the crime or other persons
+13 specified in KRS 610.070 if the victim chooses not to or is unable to participate,
+14 after a petition has been filed, which is approved by the court, that the best interest
+15 of the child would be served without formal adjudication and disposition;
+16 (37) "Intentionally" means, with respect to a result or to conduct described by a statute
+17 which defines an offense, that the actor's conscious objective is to cause that result
+18 or to engage in that conduct;
+19 (38) "Least restrictive alternative" means, except for purposes of KRS Chapter 645, that
+20 the program developed on the child's behalf is no more harsh, hazardous, or
+21 intrusive than necessary; or involves no restrictions on physical movements nor
+22 requirements for residential care except as reasonably necessary for the protection
+23 of the child from physical injury; or protection of the community, and is conducted
+24 at the suitable available facility closest to the child's place of residence to allow for
+25 appropriate family engagement;
+26 (39) "Motor vehicle offense" means any violation of the nonfelony provisions of KRS
+27 Chapters 186, 189, or 189A, KRS 177.300, 304.39-110, or 304.39-117;
+Page 7 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 (40) "Near fatality" means an injury that, as certified by a physician, places a child in
+2 serious or critical condition;
+3 (41) "Needs of the child" means necessary food, clothing, health, shelter, and education;
+4 (42) "Nonoffender" means a child alleged to be dependent, neglected, or abused and
+5 who has not been otherwise charged with a status or public offense;
+6 (43) "Nonsecure facility" means a facility which provides its residents access to the
+7 surrounding community and which does not rely primarily on the use of physically
+8 restricting construction and hardware to restrict freedom;
+9 (44) "Nonsecure setting" means a nonsecure facility or a residential home, including a
+10 child's own home, where a child may be temporarily placed pending further court
+11 action. Children before the court in a county that is served by a state operated
+12 secure detention facility, who are in the detention custody of the Department of
+13 Juvenile Justice, and who are placed in a nonsecure alternative by the Department
+14 of Juvenile Justice, shall be supervised by the Department of Juvenile Justice;
+15 (45) "Out-of-home placement" means a placement other than in the home of a parent,
+16 relative, or guardian, in a boarding home, clinical treatment facility, community-
+17 based facility, detention facility, emergency shelter, fictive kin home, foster family
+18 home, hospital, nonsecure facility, physically secure facility, residential treatment
+19 facility, or youth alternative center;
+20 (46) "Parent" means the biological or adoptive mother or father of a child;
+21 (47) "Person exercising custodial control or supervision" means a person or agency that
+22 has assumed the role and responsibility of a parent or guardian for the child, but that
+23 does not necessarily have legal custody of the child;
+24 (48) "Petition" means a verified statement, setting forth allegations in regard to the child,
+25 which initiates formal court involvement in the child's case;
+26 (49) "Physical injury" means substantial physical pain or any impairment of physical
+27 condition;
+Page 8 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 (50) "Physically secure facility" means a facility that relies primarily on the use of
+2 construction and hardware such as locks, bars, and fences to restrict freedom;
+3 (51) "Public offense action" means an action, excluding contempt, brought in the interest
+4 of a child who is accused of committing an offense under KRS Chapter 527 or a
+5 public offense which, if committed by an adult, would be a crime, whether the same
+6 is a felony, misdemeanor, or violation, other than an action alleging that a child
+7 sixteen (16) years of age or older has committed a motor vehicle offense;
+8 (52) "Qualified mental health professional" means:
+9 (a) A physician licensed under the laws of Kentucky to practice medicine or
+10 osteopathy, or a medical officer of the government of the United States while
+11 engaged in the performance of official duties;
+12 (b) A psychiatrist licensed under the laws of Kentucky to practice medicine or
+13 osteopathy, or a medical officer of the government of the United States while
+14 engaged in the practice of official duties, and who is certified or eligible to
+15 apply for certification by the American Board of Psychiatry and Neurology,
+16 Inc.;
+17 (c) A psychologist with the health service provider designation, a psychological
+18 practitioner, a certified psychologist, or a psychological associate licensed
+19 under the provisions of KRS Chapter 319;
+20 (d) A licensed registered nurse with a master's degree in psychiatric nursing from
+21 an accredited institution and two (2) years of clinical experience with
+22 mentally ill persons, or a licensed registered nurse with a bachelor's degree in
+23 nursing from an accredited institution who is certified as a psychiatric and
+24 mental health nurse by the American Nurses Association and who has three
+25 (3) years of inpatient or outpatient clinical experience in psychiatric nursing
+26 and who is currently employed by a hospital or forensic psychiatric facility
+27 licensed by the Commonwealth or a psychiatric unit of a general hospital, a
+Page 9 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 private agency or company engaged in providing mental health services, or a
+2 regional comprehensive care center;
+3 (e) A licensed clinical social worker licensed under the provisions of KRS
+4 335.100, or a certified social worker licensed under the provisions of KRS
+5 335.080 with three (3) years of inpatient or outpatient clinical experience in
+6 psychiatric social work and currently employed by a hospital or forensic
+7 psychiatric facility licensed by the Commonwealth, a psychiatric unit of a
+8 general hospital, a private agency or company engaged in providing mental
+9 health services, or a regional comprehensive care center;
+10 (f) A marriage and family therapist licensed under the provisions of KRS
+11 335.300 to 335.399 with three (3) years of inpatient or outpatient clinical
+12 experience in psychiatric mental health practice and currently employed by a
+13 hospital or forensic psychiatric facility licensed by the Commonwealth, a
+14 psychiatric unit of a general hospital, a private agency or company engaged in
+15 providing mental health services, or a regional comprehensive care center;
+16 (g) A professional counselor credentialed under the provisions of KRS 335.500 to
+17 335.599 with three (3) years of inpatient or outpatient clinical experience in
+18 psychiatric mental health practice and currently employed by a hospital or
+19 forensic facility licensed by the Commonwealth, a psychiatric unit of a
+20 general hospital, a private agency or company engaged in providing mental
+21 health services, or a regional comprehensive care center; or
+22 (h) A physician assistant licensed under KRS 311.840 to 311.862, who meets one
+23 (1) of the following requirements:
+24 1. Provides documentation that he or she has completed a psychiatric
+25 residency program for physician assistants;
+26 2. Has completed at least one thousand (1,000) hours of clinical experience
+27 under a supervising physician, as defined by KRS 311.840, who is a
+Page 10 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 psychiatrist and is certified or eligible for certification by the American
+2 Board of Psychiatry and Neurology, Inc.;
+3 3. Holds a master's degree from a physician assistant program accredited
+4 by the Accreditation Review Commission on Education for the
+5 Physician Assistant or its predecessor or successor agencies, is
+6 practicing under a supervising physician as defined by KRS 311.840,
+7 and:
+8 a. Has two (2) years of clinical experience in the assessment,
+9 evaluation, and treatment of mental disorders; or
+10 b. Has been employed by a hospital or forensic psychiatric facility
+11 licensed by the Commonwealth or a psychiatric unit of a general
+12 hospital or a private agency or company engaged in the provision
+13 of mental health services or a regional community program for
+14 mental health and individuals with an intellectual disability for at
+15 least two (2) years; or
+16 4. Holds a bachelor's degree, possesses a current physician assistant
+17 certificate issued by the board prior to July 15, 2002, is practicing under
+18 a supervising physician as defined by KRS 311.840, and:
+19 a. Has three (3) years of clinical experience in the assessment,
+20 evaluation, and treatment of mental disorders; or
+21 b. Has been employed by a hospital or forensic psychiatric facility
+22 licensed by the Commonwealth or a psychiatric unit of a general
+23 hospital or a private agency or company engaged in the provision
+24 of mental health services or a regional community program for
+25 mental health and individuals with an intellectual disability for at
+26 least three (3) years;
+27 (53) "Reasonable and prudent parent standard" has the same meaning as in 42 U.S.C.
+Page 11 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 sec. 675(10);
+2 (54) "Residential treatment facility" means a facility or group home with more than eight
+3 (8) beds designated by the Department of Juvenile Justice or the cabinet for the
+4 treatment of children;
+5 (55) "Retain in custody" means, after a child has been taken into custody, the continued
+6 holding of the child by a peace officer for a period of time not to exceed twelve (12)
+7 hours when authorized by the court or the court-designated worker for the purpose
+8 of making preliminary inquiries;
+9 (56) "Risk and needs assessment" means an actuarial tool scientifically proven to
+10 identify specific factors and needs that are related to delinquent and noncriminal
+11 misconduct;
+12 (57) "Safety plan" means a written agreement developed by the cabinet and agreed to by
+13 a family that clearly describes the protective services that the cabinet will provide
+14 the family in order to manage risks[threats] to a child's safety;
+15 (58) "School personnel" means those certified persons under the supervision of the local
+16 public or private education agency;
+17 (59) "Secretary" means the secretary of the Cabinet for Health and Family Services;
+18 (60) "Secure juvenile detention facility" means any physically secure facility used for
+19 the secure detention of children other than any facility in which adult prisoners are
+20 confined;
+21 (61) "Serious physical injury" means physical injury which creates a substantial risk of
+22 death or which causes serious and prolonged disfigurement, prolonged impairment
+23 of health, or prolonged loss or impairment of the function of any bodily member or
+24 organ;
+25 (62) "Sexual abuse" includes but is not necessarily limited to any contacts or interactions
+26 in which the parent, guardian, person in a position of authority or special trust, as
+27 defined in KRS 532.045, or other person having custodial control or supervision of
+Page 12 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 the child or responsibility for his or her welfare, uses or allows, permits, or
+2 encourages the use of the child for the purposes of the sexual stimulation of the
+3 perpetrator or another person;
+4 (63) "Sexual exploitation" includes but is not limited to a situation in which a parent,
+5 guardian, person in a position of authority or special trust, as defined in KRS
+6 532.045, or other person having custodial control or supervision of a child or
+7 responsible for his or her welfare, allows, permits, or encourages the child to
+8 engage in an act which constitutes prostitution under Kentucky law; or a parent,
+9 guardian, person in a position of authority or special trust, as defined in KRS
+10 532.045, or other person having custodial control or supervision of a child or
+11 responsible for his or her welfare, allows, permits, or encourages the child to
+12 engage in an act of obscene or pornographic photographing, filming, or depicting of
+13 a child as provided for under Kentucky law;
+14 (64) "Social service worker" means any employee of the cabinet or any private agency
+15 designated as such by the secretary of the cabinet or a social worker employed by a
+16 county or city who has been approved by the cabinet to provide, under its
+17 supervision, services to families and children;
+18 (65) "Staff secure facility for residential treatment" means any setting which assures that
+19 all entrances and exits are under the exclusive control of the facility staff, and in
+20 which a child may reside for the purpose of receiving treatment;
+21 (66) "Statewide reporting system" means a system for making and compiling reports of
+22 child dependency, neglect, and abuse in Kentucky made via telephone call or in
+23 writing by a member of the public;
+24 (67) (a) "Status offense action" is any action brought in the interest of a child who is
+25 accused of committing acts, which if committed by an adult, would not be a
+26 crime. Such behavior shall not be considered criminal or delinquent and such
+27 children shall be termed status offenders. Status offenses shall include:
+Page 13 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 1. Beyond the control of school or beyond the control of parents;
+2 2. Habitual runaway;
+3 3. Habitual truant; and
+4 4. Alcohol offenses as provided in KRS 244.085.
+5 (b) Status offenses shall not include violations of state or local ordinances which
+6 may apply to children such as a violation of curfew;
+7 (68) "Take into custody" means the procedure by which a peace officer or other
+8 authorized person initially assumes custody of a child. A child may be taken into
+9 custody for a period of time not to exceed two (2) hours;
+10 (69) "Transitional living support" means all benefits to which an eligible youth is
+11 entitled upon being granted extended or reinstated commitment to the cabinet by the
+12 court;
+13 (70) "Transition plan" means a plan that is personalized at the direction of the youth that:
+14 (a) Includes specific options on housing, health insurance, education, local
+15 opportunities for mentors and continuing support services, and workforce
+16 supports and employment services; and
+17 (b) Is as detailed as the youth may elect;
+18 (71) "Valid court order" means a court order issued by a judge to a child alleged or
+19 found to be a status offender:
+20 (a) Who was brought before the court and made subject to the order;
+21 (b) Whose future conduct was regulated by the order;
+22 (c) Who was given written and verbal warning of the consequences of the
+23 violation of the order at the time the order was issued and whose attorney or
+24 parent or legal guardian was also provided with a written notice of the
+25 consequences of violation of the order, which notification is reflected in the
+26 record of the court proceedings; and
+27 (d) Who received, before the issuance of the order, the full due process rights
+Page 14 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 guaranteed by the Constitution of the United States;
+2 (72) "Violation" means any offense, other than a traffic infraction, for which a sentence
+3 of a fine only can be imposed;
+4 (73) "Youth alternative center" means a nonsecure facility, approved by the Department
+5 of Juvenile Justice, for the detention of juveniles, both prior to adjudication and
+6 after adjudication, which meets the criteria specified in KRS 15A.320; and
+7 (74) "Youthful offender" means any person regardless of age, transferred to Circuit
+8 Court under the provisions of KRS Chapter 635 or 640 and who is subsequently
+9 convicted in Circuit Court.
+10 Section 2. KRS 620.032 is amended to read as follows:
+11 (1) By November 1 of each year, beginning in 2021, the cabinet shall submit to the
+12 Legislative Research Commission a comprehensive report that does not identify
+13 individuals, detailing the number of reports the cabinet has received regarding
+14 female genital mutilation as defined in KRS 508.125, the number of reports in
+15 which the cabinet has investigated and determined that a child is the victim of
+16 female genital mutilation, and the number of cases in which services were provided.
+17 (2) Beginning August 1, 2024, and monthly thereafter, the cabinet shall make available
+18 on its website and deliver to the Legislative Research Commission for referral to
+19 the Interim Joint Committee, Senate Standing Committee, and House Standing
+20 Committee on Families and Children, a report on the monthly child protective
+21 services intakes received by the cabinet. The monthly report shall include at a
+22 minimum the following:
+23 (a) Total number of all reports[intakes];
+24 (b) All child protective services response reports[intakes];
+25 (c) Reports[Intakes] with allegations of:
+26 1. Abuse; and
+27 2. Neglect;
+Page 15 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 (d) Reports that met acceptance criteria;
+2 (e) Reports with a substantiated or services needed finding; and
+3 (f) Reports with a substantiated finding.
+4 Section 3. KRS 620.040 is amended to read as follows:
+5 (1) (a) Upon receipt of a report alleging abuse or neglect of a child as defined in KRS
+6 600.020 by a parent, guardian, fictive kin, person in a position of authority,
+7 person in a position of special trust, or person exercising custodial control or
+8 supervision, pursuant to KRS 620.030(1) or (2), or a report alleging a child is
+9 a victim of human trafficking pursuant to KRS 620.030(3), the recipient of the
+10 report shall immediately notify the cabinet or its designated representative, the
+11 local law enforcement agency or the Department of Kentucky State Police,
+12 and the Commonwealth's or county attorney of the receipt of the report. If any
+13 agency listed above is the reporting source, the recipient shall immediately
+14 notify the cabinet or its designated representative, the local law enforcement
+15 agency, the Department of Kentucky State Police, and the Commonwealth's
+16 or county attorney of the receipt of the report.
+17 (b) Based upon the allegation in the report, the cabinet shall immediately make an
+18 initial determination as to the risk of harm and immediate safety of the child.
+19 Based upon the level of risk determined, the cabinet shall investigate the
+20 allegation or accept the report for an assessment of family needs and, if
+21 appropriate, may provide or make referral to any community-based services
+22 necessary to reduce risk to the child and to provide family support. A report of
+23 sexual abuse or human trafficking of a child shall be considered high risk and
+24 shall not be referred to any other community agency. If the:
+25 1. Cabinet's initial determination is that there is risk of harm and
+26 immediate safety concerns for the child, the cabinet shall physically
+27 locate the child within fourteen (14) days of the initial determination;
+Page 16 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 2. Child is under the age of five (5) years or has other developmental or
+2 cognitive delays or a significant medical or mental health condition,
+3 the cabinet shall physically locate the child within five (5) working
+4 days of the initial determination; and
+5 3. Cabinet does not physically locate the child according to the timeline
+6 established in this paragraph, the cabinet shall contact local law
+7 enforcement to assist in locating the child.
+8 (c) In making the initial determination as to the risk of harm and immediate
+9 safety of the child pursuant to paragraph (b) of this subsection, the cabinet
+10 shall at a minimum:
+11 1. Consider the age and vulnerability of a child, particularly for ages five
+12 (5) years of age and under, when assessing allegations of abuse and
+13 neglect;
+14 2. [Automatically ]Accept for investigation a subsequent report from a
+15 professional reporting source, who makes a report pursuant to the
+16 requirements in KRS Chapter 620 that a child is abused or neglected and
+17 identifies himself or herself by name, title, and employer, when the same
+18 or similar allegation has been reported by one (1) or more unique
+19 professional reporting sources within the past thirty (30) days. For the
+20 purposes of this subparagraph "professional reporting source" means an
+21 individual who is a social worker, therapist, medical professional,
+22 educator, judge, attorney, law enforcement officer, or any other
+23 individual holding a degree or position in a field related to the safety and
+24 care of children; and
+25 3. Automatically accept for investigation a report from a court of
+26 appropriate jurisdiction that makes a report pursuant to the requirements
+27 in KRS Chapter 620 that a child is abused or neglected or identifies that
+Page 17 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 the child is an alleged victim of domestic violence and abuse as defined
+2 in KRS 403.720 or sexual assault as defined in KRS 456.010[a
+3 plaintiff] in an active emergency protective order or temporary
+4 interpersonal protection order case.
+5 (d) The cabinet shall, within seventy-two (72) hours, exclusive of weekends and
+6 holidays, make a written report, including but not limited to electronic
+7 submissions, to the Commonwealth's or county attorney and the local law
+8 enforcement agency or the Department of Kentucky State Police concerning
+9 the action that has been taken on the investigation.
+10 (e) If the report alleges abuse or neglect by someone other than a parent,
+11 guardian, fictive kin, person in a position of authority, person in a position of
+12 special trust, or person exercising custodial control or supervision, or the
+13 human trafficking of a child, the cabinet shall immediately notify the
+14 Commonwealth's or county attorney and the local law enforcement agency or
+15 the Department of Kentucky State Police.
+16 (2) (a) Upon receipt of a report alleging dependency pursuant to KRS 620.030(1) and
+17 (2), the recipient shall immediately notify the cabinet or its designated
+18 representative.
+19 (b) Based upon the allegation in the report, the cabinet shall immediately make an
+20 initial determination as to the risk of harm and immediate safety of the child.
+21 Based upon the level of risk, the cabinet shall investigate the allegation or
+22 accept the report for an assessment of family needs and, if appropriate, may
+23 provide or make referral to any community-based services necessary to reduce
+24 risk to the child and to provide family support. A report of sexual abuse or
+25 human trafficking of a child shall be considered high risk and shall not be
+26 referred to any other community agency. If the:
+27 1. Cabinet's initial determination is that there is risk of harm and
+Page 18 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 immediate safety concerns for the child, the cabinet shall physically
+2 locate the child within fourteen (14) days of the initial determination;
+3 2. Child is under the age of five (5) years or has other developmental or
+4 cognitive delays or significant medical or mental health condition, the
+5 cabinet shall physically locate the child within five (5) working days of
+6 the initial determination; and
+7 3. Cabinet does not physically locate the child according to the timeline
+8 established in this paragraph, the cabinet shall contact local law
+9 enforcement to assist in locating the child.
+10 (c) In making the initial determination as to the risk of harm and immediate
+11 safety of the child pursuant to paragraph (b) of this subsection, the cabinet
+12 shall at a minimum:
+13 1. Consider the age and vulnerability of a child, particularly for ages five
+14 (5) years of age and under, when assessing allegations of dependency;
+15 2. [Automatically ]Accept for investigation a subsequent report from a
+16 professional reporting source, who makes a report pursuant to the
+17 requirements in KRS Chapter 620 that a child is dependent and
+18 identifies himself or herself by name, title, and employer, when the same
+19 or similar allegation has been reported by one (1) or more unique
+20 professional reporting sources within the past thirty (30) days. For the
+21 purposes of this subparagraph "professional reporting source" means an
+22 individual who is a social worker, therapist, medical professional,
+23 educator, judge, attorney, law enforcement officer, or any other
+24 individual holding a degree or position in a field related to the safety and
+25 care of children; and
+26 3. Automatically accept for investigation a report from a court of
+27 appropriate jurisdiction that makes a report pursuant to the requirements
+Page 19 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 in KRS Chapter 620 that a child is dependent or identifies that the child
+2 is an alleged victim of domestic violence and abuse as defined in KRS
+3 403.720 or sexual assault as defined in KRS 456.010[a plaintiff] in an
+4 active emergency protective order or temporary interpersonal protection
+5 order case.
+6 (d) The cabinet need not notify the local law enforcement agency or the
+7 Department of Kentucky State Police or Commonwealth's or county attorney
+8 of reports made under this subsection unless the report involves the human
+9 trafficking of a child, in which case the notification shall be required.
+10 (3) If the cabinet or its designated representative receives a report of abuse by a person
+11 other than a parent, guardian, fictive kin, person in a position of authority, person in
+12 a position of special trust, or other person exercising custodial control or
+13 supervision of a child, it shall immediately notify the local law enforcement agency
+14 or the Department of Kentucky State Police and the Commonwealth's or county
+15 attorney of the receipt of the report and its contents, and they shall investigate the
+16 matter. The cabinet or its designated representative shall participate in an
+17 investigation of noncustodial physical abuse or neglect at the request of the local
+18 law enforcement agency or the Department of Kentucky State Police. The cabinet
+19 shall participate in all investigations of reported or suspected sexual abuse or human
+20 trafficking of a child.
+21 (4) School personnel or other persons listed in KRS 620.030(2) do not have the
+22 authority to conduct internal investigations in lieu of the official investigations
+23 outlined in this section.
+24 (5) (a) If, after receiving the report, the law enforcement officer, the cabinet, or its
+25 designated representative cannot gain admission to the location of the child, a
+26 search warrant shall be requested from, and may be issued by, the judge to the
+27 appropriate law enforcement official upon probable cause that the child is
+Page 20 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 dependent, neglected, or abused. If, pursuant to a search under a warrant, a
+2 child is discovered and appears to be in imminent danger, the child may be
+3 removed by the law enforcement officer.
+4 (b) If a child who is in a hospital or under the immediate care of a physician
+5 appears to be in imminent danger if he or she is returned to the persons having
+6 custody of him or her, the physician or hospital administrator may hold the
+7 child without court order, provided that a request is made to the court for an
+8 emergency custody order at the earliest practicable time, not to exceed
+9 seventy-two (72) hours.
+10 (c) Any appropriate law enforcement officer may take a child into protective
+11 custody and may hold that child in protective custody without the consent of
+12 the parent or other person exercising custodial control or supervision if there
+13 exist reasonable grounds for the officer to believe that the child is in danger of
+14 imminent death or serious physical injury, is being sexually abused, or is a
+15 victim of human trafficking and that the parents or other person exercising
+16 custodial control or supervision are unable or unwilling to protect the child.
+17 The officer or the person to whom the officer entrusts the child shall, within
+18 twelve (12) hours of taking the child into protective custody, request the court
+19 to issue an emergency custody order.
+20 (d) When a law enforcement officer, hospital administrator, or physician takes a
+21 child into custody without the consent of the parent or other person exercising
+22 custodial control or supervision, he or she shall provide written notice to the
+23 parent or other person stating the reasons for removal of the child. Failure of
+24 the parent or other person to receive notice shall not, by itself, be cause for
+25 civil or criminal liability.
+26 (e) 1. If a report includes a child fatality or near fatality, and the law
+27 enforcement officer has reasonable grounds to believe any parent or
+Page 21 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 person exercising custodial control or supervision of the child was under
+2 the influence of alcohol or drugs at the time the fatality or near fatality
+3 occurred, the law enforcement officer shall request a test of blood,
+4 breath, or urine from that person.
+5 2. If, after making the request, consent is not given for the test of blood,
+6 breath, or urine, a search warrant shall be requested from and may be
+7 issued by the judge to the appropriate law enforcement official upon
+8 probable cause that a child fatality or near fatality has occurred and that
+9 the person exercising custodial control or supervision of the child at the
+10 time of the fatality or near fatality was under the influence.
+11 3. Any test requested under this section shall be conducted pursuant to the
+12 testing procedures and requirements in KRS 189A.103.
+13 (6) The cabinet shall make efforts as soon as practicable to determine any military
+14 status of a parent or legal guardian of a child who is the subject of an investigation
+15 or assessment pursuant to this section. If the cabinet determines that the parent or
+16 legal guardian is a member of the United States Armed Forces, the cabinet shall
+17 notify the Department of Defense family advocacy program operating within the
+18 service member's assigned installation of the investigation or assessment and
+19 provide case information.
+20 (7) To the extent practicable and when in the best interest of a child alleged to have
+21 been abused, interviews with the child shall be conducted at a children's advocacy
+22 center.
+23 (8) (a) One (1) or more multidisciplinary teams may be established in every county
+24 or group of contiguous counties.
+25 (b) Membership of the multidisciplinary team shall include but shall not be
+26 limited to social service workers employed by the Cabinet for Health and
+27 Family Services and law enforcement officers. Additional team members may
+Page 22 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 include Commonwealth's and county attorneys, children's advocacy center
+2 staff, mental health professionals, medical professionals, victim advocates
+3 including advocates for victims of human trafficking, educators, and other
+4 related professionals, as deemed appropriate.
+5 (c) The multidisciplinary team shall review child sexual abuse cases and child
+6 human trafficking cases involving commercial sexual activity referred by
+7 participating professionals, including those in which the alleged perpetrator
+8 does not have custodial control or supervision of the child or is not
+9 responsible for the child's welfare. The purpose of the multidisciplinary team
+10 shall be to review investigations, assess service delivery, and to facilitate
+11 efficient and appropriate disposition of cases through the criminal justice
+12 system.
+13 (d) The team shall hold regularly scheduled meetings if new reports of sexual
+14 abuse or child human trafficking cases involving commercial sexual activity
+15 are received or if active cases exist. At each meeting, each active case shall be
+16 presented and the agencies' responses assessed.
+17 (e) The multidisciplinary team shall provide an annual report to the public of
+18 nonidentifying case information to allow assessment of the processing and
+19 disposition of child sexual abuse cases and child human trafficking cases
+20 involving commercial sexual activity.
+21 (f) Multidisciplinary team members and anyone invited by the multidisciplinary
+22 team to participate in a meeting shall not divulge case information, including
+23 information regarding the identity of the victim or source of the report. Team
+24 members and others attending meetings shall sign a confidentiality statement
+25 that is consistent with statutory prohibitions on disclosure of this information.
+26 (g) The multidisciplinary team shall, pursuant to KRS 431.600 and 431.660,
+27 develop a local protocol consistent with the model protocol issued by the
+Page 23 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 Kentucky Multidisciplinary Commission on Child Sexual Abuse. The local
+2 team shall submit the protocol to the commission for review and approval.
+3 (h) The multidisciplinary team review of a case may include information from
+4 reports generated by agencies, organizations, or individuals that are
+5 responsible for investigation, prosecution, or treatment in the case, KRS
+6 610.320 to KRS 610.340 notwithstanding.
+7 (i) To the extent practicable, multidisciplinary teams shall be staffed by the local
+8 children's advocacy center.
+9 (9) Nothing in this section shall limit the cabinet's investigatory authority under KRS
+10 620.050 or any other obligation imposed by law.
+11 Section 4. KRS 620.048 is amended to read as follows:
+12 (1) During a child protective services investigation conducted pursuant to the authority
+13 in this chapter where there is a safety plan negotiated and agreed upon between
+14 the cabinet and the parent, guardian, person in a position of authority or special
+15 trust, as defined in KRS 532.045, or other person having custodial control or
+16 supervision of the child or responsibility for his or her welfare that the child
+17 cannot safely remain in the home[a child is placed outside of his or her home on a
+18 safety plan], the cabinet shall file a petition in court within seventy-two (72) hours
+19 if the child remains placed outside of his or her home for more than fourteen (14)
+20 consecutive days.
+21 (2) All safety plans implemented pursuant to this section shall be compiled by the
+22 cabinet on a quarterly basis into a report containing at a minimum the total number
+23 of safety plans, the outcome of the safety plans, and the number of court petitions
+24 filed.
+25 (3) By December 1, 2024, and quarterly thereafter, the cabinet shall make available, on
+26 its website and to the Legislative Research Commission for referral to the Interim
+27 Joint Committee, Senate Standing Committee, and House Standing Committee on
+Page 24 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 Families and Children, the report on safety plans established in subsection (2) of
+2 this section.
+3 Section 5. KRS 605.120 is amended to read as follows:
+4 (1) The cabinet is authorized to expend available funds to provide for the board,
+5 lodging, and care of children who would otherwise be placed in foster care or who
+6 are placed by the cabinet in a foster home or boarding home, or may arrange for
+7 payments or contributions by any local governmental unit, or public or private
+8 agency or organization, willing to make payments or contributions for such
+9 purpose. The cabinet may accept any gift, devise, or bequest made to it for its
+10 purposes.
+11 (2) The cabinet shall establish a reimbursement system, within existing appropriation
+12 amounts, for foster parents that comes as close as possible to meeting the actual
+13 cost of caring for foster children. The cabinet shall consider providing additional
+14 reimbursement for foster parents who obtain additional training, and foster parents
+15 who have served for an extended period of time. In establishing a reimbursement
+16 system, the cabinet shall, to the extent possible within existing appropriation
+17 amounts, address the additional cost associated with providing care to children with
+18 exceptional needs.
+19 (3) The cabinet shall review reimbursement rates paid to foster parents and shall issue a
+20 report upon request comparing the rates paid by Kentucky to the figures presented
+21 in the Expenditures on Children by Families Annual Report prepared by the United
+22 States Department of Agriculture and the rates paid to foster parents by other states.
+23 To the extent that funding is available, reimbursement rates paid to foster parents
+24 shall be increased on an annual basis to reflect cost of living increases.
+25 (4) The cabinet is encouraged to develop pilot projects both within the state system and
+26 in collaboration with private child caring agencies to test alternative delivery
+27 systems and nontraditional funding mechanisms.
+Page 25 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+
+UNOFFICIAL COPY 25 RS HB 805/GA
+1 (5) (a) The cabinet shall track and analyze data on relative and fictive kin caregiver
+2 placements. The data shall include but not be limited to:
+3 1. Demographic data on relative and fictive kin caregivers and children in
+4 their care;
+5 2. Custodial options selected by the relative and fictive kin caregivers;
+6 3. Services provisioned to relative and fictive kin caregivers and children
+7 in their care; and
+8 4. Permanency benchmarks and outcomes for relative and fictive kin
+9 caregiver placements.
+10 (b) By September 30, 2020, and annually[upon request] thereafter, the cabinet
+11 shall submit a report to the Governor, the Chief Justice of the Supreme Court,
+12 and the director of the Legislative Research Commission for automatic
+13 distribution to the Interim Joint Committee on Families and Children relating
+14 to the data tracking and analysis established in this subsection and post the
+15 report to the cabinet website for public view no later than February 28 of
+16 the following year.
+17 (6) Foster parents shall have the authority, unless the cabinet determines that the child's
+18 religion, race, ethnicity, or national origin prevents it, to make decisions regarding
+19 haircuts and hairstyles for foster children who are in their care for thirty (30) days
+20 or more.
+Page 26 of 26
+HB080510.100 - 1842 - XXXX 3/6/2025 4:12 PM GA
+
+[DELETED:   2  G A B S A ( " t ( H a s 1 I i 2 C d 3 E i a p o c t r t p i o c n l t p i d t a s u d a d 4 C c 5 C o a t b c a a o s a s e 6 C e 7 A 8 D n p t c w a c s f c w]
+[DELETED:   2  G m s o t c l p t p r b s n b c a n p s b o f a m 9 F t t a f 1 C t ( A p t ( y o a o o c o a t b c c ( " 6 ( " c m t e o o ( o m o t f ( T o ( T p a t ( T]
+[DELETED:   2  G ( T c t ( T ( " t c d w ( " h p t s a s d t s b a a i s a ( " l t c f t p o c c t t d o t c ( " ( " a d w ( " m a p w h n r h o h e b u ( "]
+[DELETED:   2  G D a p b ( " a m a a o t a s a w s t p o c i f f h o c f ( " t f m a f w m t e ( b d m b ( " c o e ( " f m a n h f l o o p t o b t D o J J o t c h t ( " c ( " a ( " A O o t C f t p o p c i a]
+[DELETED:   2  G a f e i a s d a a p ( " ( " ( " u i c c c o g t i n d t a i a o t p g o p e c c o s ( " c s ( " t ( h e o w a h o t s o a p ( " f h o h b a i a s s t s t b i a ( " ( I ( I ( I o p i s o e p o e i ( " s i a g h p r f o h f w p t o e c o c a a]
+[DELETED:   2  G ( " i m a i t t m o p c o e s o a c a e b a s a o i a b w d r t h o h a d c a e ( " p m p p p a p p ( " t e s r w a b p s o h s p ( " ( " f ( " s m a o a c o a m p t ( E ( D ( D ( R ( C ( R i s a f c s a t r j p a b o m h t ( "]
+[DELETED:   2  G a c ( " r o ( " p t ( " e ( " a m a a r a t p w c b n t c o t v o t c o o p s a o ( " w o ( " t p d o t c b i n m h h o i t n o i n r o p m n r o a a ( " C]
+[DELETED:   2  G ( " s ( " ( " m a c a t b d n o a a w ( " f m a f w p i r a t t s r ( " c a C b t c i a c t i s b a s o s d f w a i t d c o D o J o ( " r b h f ( " ( " h d ( " w ( " i m s p p o i o p c]
+[DELETED:   2  G ( " s f m a f t r p o t u o c ( " o p i s ( " ( A p l u t l o K t p m o o e ( A o e a I ( A p a c p o a p a l u ( A a a i a t ( y o c e w m n a a m ( a l]
+[DELETED:   2  G p r ( A l c s w l u t p o K 3 3 p s w a c e b a h o f p f l b t C a p u o a g h ( A m a f t l u t p o K 3 t 3 w t ( y o i o o c e h o f p f l b t C a p p ( A 3 p m h p a c e b a h o f f l b t C a p u o a g h ( A ( 1 P d t h o s h c a p r 2 H u s p a d b K 3 w i a]
+[DELETED:   2  G p B 3 H b t A R C o E f t P A o i p o s a i p a a H t ( y o c e i t a e b H l h o m h s o a r c p f m l 4 H a b d p a c p a c a a H t ( y o c e i t a e b H l h o m h s o a r c p f m l ( "]
+[DELETED:   2  G s ( " ( t ( " h h o ( " a n a m a a t s p t i m ( " a t ( " p ( " ( " t c ( " d o o ( " i d]
+[DELETED:   2  G t c o r f h o h w u o a p o e p ( " g p i a p o a o s t a d i K 5 o o p h c c o s o a c o r f h o h w a p o e t c t e g p i a p o a o s t a d i K 5 o o p h c c o s o a c o r f h o h w a p o e t c t e a ( " d c o c w h b a b t c t p u i s ( " a w ( " c w ( ( " a c c]
+[DELETED:   2  G 1 B 2 H 3 H 4 A ( S m ( " i c m t p b w a p o o o a c ( " l s m a b t w a e y i e c ( " ( I s o o h h i e l o f m a c s s a w s ( I ( " c o m a c o b a j t a c a o f ( W ( W ( W w g w a v w o t c o t v p o l g w a p w a w n o t c r ( W]
+[DELETED:   2  G g ( " o ( " o a ( " o m a p r o a t t C C c S ( B L R C a c r t d n i i d t n o r t c h r r f g m a d i K 5 t n o r i w t c h i a d t a c i t v o f ( B o t I J C S S C a H S C o F a C a r o t m c p s i r b t c T m r s i a a m ( T ( A ( R 1 A 2 N]
+[DELETED:   2  G ( R ( R ( R S ( ( U 6 p s a r l a a n a o ( B i B u t l o r d t c s i t a o a t r f a a o f n a i a n s s 1 C i d i t t i r o h a i l]
+[DELETED:   2  G 2 C c t c s p l t c w f ( w d 3 C e i t p t c s c l l e ( I m t i d a t t r o h a i s s 1 C ( y o a a u w a a o a a n 2 [ ] f i a s r f a p r s w m a r p t t r i o s a h b r b o ( o m u p p i w i a s w t m p e j a l e o o a o i c 3 A a f i a r f a c o a i]
+[DELETED:   2  G t i K 4 o s a a d i K 4 p i a a e p o o t i ( T h m a w r i b n l t e s t t C o c a a t l l e t ( I t r a a o n b s o t a p g s t o p e c c o s o t h t o a c t c s i n t C t ( ( U ( t r s i n t c o i d r ( B i B a p r h r 1 C i d i t t i r o h a]
+[DELETED:   2  G i l 2 C c c t 3 C e i t p t c s c l l e ( I m t i d a t t r o h a i s s 1 C ( 2 [ ] f i a s r f a p r s w m a r p t t r i K C 6 t a c i d a i o s a h b r b o ( o m u p p i w i a s w t m p e j a l e o o a o i c 3 A a f i a r f a c o a]
+[DELETED:   2  G i i 4 a o ( T c n n n t l l e a o t D o t ( I o a p o s t o o p e c c o s o o a m T c o i d r s p i a i l s t ( S p o o p l i K 6 d n h t a t c i i i l o t o i o ( ( I d s a l e o u p c t t c i]
+[DELETED:   2  G d c r ( I a c w i a h o i c o p a c c e c o a t e p t n t e s ( A a l e o m t a c i p c t e i v c T t t ( W c c p t c ( 1 I a r i a c f o n f a t l e o h r g t b a p o]
+[DELETED:   2  G p t o t l e o s r a t o b b 2 I b i b t j t t a l e o u p t t 3 A t ( T c s m e a s a p t d a m s o l n s m a i o t i o a a p ( T b c ( ( O o ( M o t m t s i b s n b l t s s w e b t C f H a F]
+[DELETED:   2  G i C a c a c a c s m h p m p v a i a f v o h t e a o r ( T c h t c i c s a r b p d n h c c o s o t c o i n r s b t r i a s d a t f e a a d o c t t c j s ( T t s h r s m i n r o a a p ( T m t s p a a r t t p o n c i t a a o t p a d o c s a c a c h t c i ( M t i m t ( T m t s p t K 4 a 4 d a l p c w t m p i b t]
+[DELETED:   2  G K T t ( T r g b a o o i t a r f i p o t i t c K 6 ( T c ( N 6 S ( D i t t a d i K 5 o o p h c c o s o t c o r f h o h w t t c c s i c ( A s p i p t t s s b c b t c o f ( B i J]
+[DELETED:   2  G F t S ( T c i a t e a f t p f t b l a p o c b a l g u o p o p a o o w t m p o c f s p T c m a a g d o b m t i f i p ( T a c r w s t c s t t e p w e a a e ( T r i S T s ( T i c w p c c a t t a d s]
+[DELETED:   2  G ( ( T p 1 D t 2 C 3 S i 4 P b a o f r a f k c ( B s a t d o t L R C f a d t r t ( F r h o]

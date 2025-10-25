@@ -1,0 +1,1122 @@
+Title: 1 AN ACT relating to parental rights.
+Official Title: 1 AN ACT relating to parental rights.
+Number of Sections: 1
+Source: versions - Current/Final
+Media Type: application/pdf
+Strikethrough Detection: 18 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS SB 26/GA
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 199.011 is amended to read as follows:
+4 As used in this chapter, unless the context otherwise requires:
+5 (1) "Adoption worker" means an employee of the cabinet so designated by the
+6 secretary for health and family services, a social worker employed by a county or
+7 city who has been approved by the cabinet to handle, under its supervision,
+8 adoption placement services to children, or a social worker employed by or under
+9 contract to a child-placing adoption agency;
+10 (2) "Adult adopted person" means any adopted person who is twenty-one (21) years of
+11 age or older;
+12 (3) "Cabinet" means the Cabinet for Health and Family Services;
+13 (4) "Child" means any person who has not reached his or her eighteenth birthday;
+14 (5) "Child-caring facility" means any institution or group home, including institutions
+15 and group homes that are publicly operated, providing residential care on a twenty-
+16 four (24) hour basis to children, not related by blood, adoption, or marriage to the
+17 person maintaining the facility, other than an institution or group home certified by
+18 an appropriate agency as operated primarily for educational or medical purposes, or
+19 a residential program operated or contracted by the Department of Juvenile Justice
+20 that maintains accreditation, or obtains accreditation within two (2) years of
+21 opening from a nationally recognized accrediting organization;
+22 (6) "Child-placing agency" means any agency licensed by the cabinet, which
+23 supervises the placement of children in foster family homes or child-caring
+24 facilities, or which places children for adoption;
+25 (7) "Department" means the Department for Community Based Services;
+26 (8) (a) "Disability" means:
+27 1. A physical or mental impairment, whether congenital or acquired, that
+Page 1 of 18
+SB002610.100 - 327 - XXXX 2/13/2025 2:57 PM GA
+UNOFFICIAL COPY 25 RS SB 26/GA
+1 substantially limits one (1) or more of the major life activities of an
+2 individual and is demonstrable by medically accepted clinical or
+3 laboratory diagnostic techniques;
+4 2. A record of having such an impairment; or
+5 3. Being regarded as having such an impairment.
+6 (b) An individual who is currently engaging in the illegal use of drugs or the
+7 abuse of alcohol, drugs, or other substances is not an individual with a
+8 "disability" for purposes of this chapter;
+9 (9) "Family rehabilitation home" means a child-caring facility for appropriate families
+10 and comprising not more than twelve (12) children and two (2) staff persons;
+11 (10)[(9)] "Fictive kin" means an individual who is not related by birth, adoption, or
+12 marriage to a child, but who has an emotionally significant relationship with the
+13 child, or an emotionally significant relationship with a biological parent, siblings, or
+14 half-siblings of the child in the case of a child from birth to twelve (12) months of
+15 age, prior to placement;
+16 (11)[(10)] "Foster family home" means a private home in which children are placed for
+17 foster family care under supervision of the cabinet or of a licensed child-placing
+18 agency;
+19 (12)[(11)] "Group home" means a homelike facility, excluding Department of Juvenile
+20 Justice-operated or -contracted facilities, for not more than eight (8) foster children,
+21 not adjacent to or part of an institutional campus, operated by a sponsoring agency
+22 for children who may participate in community activities and use community
+23 resources;
+24 (13)[(12)] "Institution" means a child-caring facility providing care or maintenance for
+25 nine (9) or more children;
+26 (14)[(13)] "Placement services" means those social services customarily provided by a
+27 licensed child-placing or a public agency, which are necessary for the arrangement
+Page 2 of 18
+SB002610.100 - 327 - XXXX 2/13/2025 2:57 PM GA
+UNOFFICIAL COPY 25 RS SB 26/GA
+1 and placement of children in foster family homes, child-placing facilities, or
+2 adoptive homes. Placement services are provided through a licensed child-placing
+3 or a public agency for children who cannot be cared for by their biological parents
+4 and who need and can benefit from new and permanent family ties established
+5 through legal adoption. Licensed child-placing agencies and public agencies have a
+6 responsibility to act in the best interests of children, biological parents, and adoptive
+7 parents by providing social services to all the parties involved in an adoption;
+8 (15)[(14)] "Rap back system" means a system that enables an authorized entity to
+9 receive ongoing status notifications of any criminal history from the Department of
+10 Kentucky State Police or the Federal Bureau of Investigation reported on an
+11 individual whose fingerprints are registered in the system, upon approval and
+12 implementation of the system;
+13 (16)[(15)] "Reasonable and prudent parent standard" has the same meaning as in 42
+14 U.S.C. sec. 675(10);
+15 (17)[(16)] "Secretary" means the secretary for health and family services; and
+16 (18)[(17)] "Voluntary and informed consent" means that at the time of the execution of
+17 the consent, the consenting person was fully informed of the legal effect of the
+18 consent, that the consenting person was not given or promised anything of value
+19 except those expenses allowable under KRS 199.590(6), that the consenting person
+20 was not coerced in any way to execute the consent, and that the consent was
+21 voluntarily and knowingly given. If at the time of the execution of the consent the
+22 consenting person was represented by independent legal counsel, there shall be a
+23 presumption that the consent was voluntary and informed. The consent shall be in
+24 writing, signed and sworn to by the consenting person, and include the following:
+25 (a) Date, time, and place of the execution of the consent;
+26 (b) Name of the child, if any, to be adopted, and the date and place of the child's
+27 birth;
+Page 3 of 18
+SB002610.100 - 327 - XXXX 2/13/2025 2:57 PM GA
+UNOFFICIAL COPY 25 RS SB 26/GA
+1 (c) Consenting person's relationship to the child;
+2 (d) Identity of the proposed adoptive parents or a statement that the consenting
+3 person does not desire to know the identification of the proposed adoptive
+4 parents;
+5 (e) 1. A statement that the consenting person understands that the consent will
+6 be final and irrevocable under this paragraph unless withdrawn under
+7 this paragraph.
+8 2. If placement approval by the secretary is required, the voluntary and
+9 informed consent shall become final and irrevocable seventy-two (72)
+10 hours after the execution of the voluntary and informed consent. This
+11 consent may be withdrawn only by written notification sent to the
+12 proposed adoptive parent or the attorney for the proposed adoptive
+13 parent on or before the expiration of the seventy-two (72) hours by
+14 certified or registered mail and also by first-class mail.
+15 3. If placement approval by the secretary is not required, the voluntary and
+16 informed consent shall become final and irrevocable seventy-two (72)
+17 hours after the execution of the voluntary and informed consent. This
+18 consent may be withdrawn only by written notification sent to the
+19 proposed adoptive parent or the attorney for the proposed adoptive
+20 parent on or before the expiration of the seventy-two (72) hours by
+21 certified or registered mail and also by first-class mail;
+22 (f) Disposition of the child if the adoption is not adjudged;
+23 (g) A statement that the consenting person has received a completed and signed
+24 copy of the consent at the time of the execution of the consent;
+25 (h) Name and address of the person who prepared the consent, name and address
+26 of the person who reviewed and explained the consent to the consenting
+27 person, and a verified statement from the consenting person that the consent
+Page 4 of 18
+SB002610.100 - 327 - XXXX 2/13/2025 2:57 PM GA
+UNOFFICIAL COPY 25 RS SB 26/GA
+1 has been reviewed with and fully explained to the consenting person; and
+2 (i) Total amount of the consenting person's legal fees, if any, for any purpose
+3 related to the execution of the consent and the source of payment of the legal
+4 fees.
+5 Section 2. KRS 199.462 is amended to read as follows:
+6 (1) Before an applicant is approved to provide foster care or relative caregiver services
+7 to a child, considered a fictive kin placement for a child, or approved to receive a
+8 child for adoption, the Cabinet for Health and Family Services shall:
+9 (a) Require a criminal background investigation of the applicant and any of the
+10 applicant's adult household members by means of a fingerprint check by the
+11 Department of Kentucky State Police and the Federal Bureau of Investigation;
+12 or
+13 (b) Request from the Justice and Public Safety Cabinet records of all conviction
+14 information for the applicant and any of the applicant's adult household
+15 members. The Justice and Public Safety Cabinet shall furnish the information
+16 to the Cabinet for Health and Family Services and shall also send a copy of
+17 the information to the applicant.
+18 (2) The request for records shall be in a manner approved by the Justice and Public
+19 Safety Cabinet, and the Justice and Public Safety Cabinet may charge a fee to be
+20 paid by the applicant for the actual cost of processing the request.
+21 (3) The Cabinet for Health and Family Services shall not disapprove of any
+22 placement or custody arrangement, including but not limited to foster care,
+23 relative caregiver services, fictive kin placement, temporary custody, permanent
+24 custody, or adoption on the sole basis of a disability of the prospective caregiver
+25 without considering whether targeted adaptive or supportive services could enable
+26 the prospective caregiver to provide essential care and protection for the child.
+27 (4)[(3)] During a certified adoptive or foster home's annual reevaluation, the Cabinet
+Page 5 of 18
+SB002610.100 - 327 - XXXX 2/13/2025 2:57 PM GA
+UNOFFICIAL COPY 25 RS SB 26/GA
+1 for Health and Family Services may:
+2 (a) Require a background investigation for each adult household member of the
+3 certified adoptive or foster home under subsections (1) and (2) of this section;
+4 or
+5 (b) Register each adult household member of a certified adoptive or foster home
+6 under subsections (1) and (2) of this section in the rap back system.
+7 (5)[(4)] If a child is placed and resides in a fictive kin home for more than seventy-
+8 two (72) hours, the Cabinet for Health and Family Services shall take action,
+9 including but not limited to the following:
+10 (a) Provide information on how to recognize and report child abuse or neglect;
+11 and
+12 (b) Ensure that, within the first five (5) days of a child under the age of five (5)
+13 years old being placed in a fictive kin home, the fictive kin has completed a
+14 one (1) time training course of one and one-half (1.5) hours of training
+15 covering the prevention and recognition of pediatric abusive head trauma, as
+16 defined in KRS 620.020.
+17 (6)[(5)] The Cabinet for Health and Family Services shall promulgate an
+18 administrative regulation to implement this section.
+19 Section 3. KRS 199.471 is amended to read as follows:
+20 Petitions for adoption of children placed for adoption by the cabinet or a licensed child-
+21 placing institution or agency shall not be denied:
+22 (1) On the basis of the religious, ethnic, racial, or interfaith background of the adoptive
+23 applicant, unless contrary to the expressed wishes of the biological parent or
+24 parents; or[parent(s)]
+25 (2) On the sole basis of a disability of the adoptive applicant without considering
+26 whether targeted adaptive or supportive services could enable the applicant to
+27 provide essential care and protection for the child.
+Page 6 of 18
+SB002610.100 - 327 - XXXX 2/13/2025 2:57 PM GA
+UNOFFICIAL COPY 25 RS SB 26/GA
+1 Section 4. KRS 199.473 is amended to read as follows:
+2 (1) All persons other than a child-placing agency or institution, the department, or
+3 persons excepted by KRS 199.470(4) who wish to place or receive a child shall
+4 make written application to the secretary for permission to place or receive a child.
+5 (2) Prior to the approval of an application to place or receive a child, the fee required
+6 pursuant to subsection (13) of this section shall be paid and a home study shall be
+7 completed. The purpose of the home study shall be to review the background of the
+8 applicant and determine the suitability of the applicant to receive a child, taking into
+9 account at all times the best interest of the child for whom application to receive has
+10 been made.
+11 (3) (a) The home study shall be made in accordance with administrative regulations
+12 promulgated by the cabinet in accordance with KRS Chapter 13A.
+13 (b) The cabinet shall conduct the home study for an applicant whose total gross
+14 income is equal to or less than two hundred fifty percent (250%) of the federal
+15 poverty level guidelines issued each year by the federal government, unless
+16 the applicant submits a written request for the home study to be conducted by
+17 a licensed child-placing agency or institution. Upon request, the cabinet shall
+18 make information available to an applicant who does not meet the
+19 requirements of this paragraph to assist the applicant in obtaining a home
+20 study from a licensed child-placing agency approved to provide adoption
+21 services.
+22 (c) A licensed child-placing agency approved to provide adoption services shall
+23 conduct the home study for an applicant whose gross total income is more
+24 than two hundred fifty percent (250%) of the federal poverty level guidelines
+25 issued each year by the federal government.
+26 (d) Calculation of family size for this subsection shall include each child
+27 requested to be adopted.
+Page 7 of 18
+SB002610.100 - 327 - XXXX 2/13/2025 2:57 PM GA
+UNOFFICIAL COPY 25 RS SB 26/GA
+1 (e) The portion of the home study pertaining to the home and family background
+2 shall be valid for one (1) year following the date of its completion by an
+3 adoption worker.
+4 (4) The adoption worker making the home study shall make a finding in writing
+5 recommending either that the application be granted or that the application be
+6 denied. The recommendation of the adoption worker shall then be reviewed by the
+7 secretary.
+8 (5) Based on the report and recommendation of the adoption worker making the home
+9 study, the secretary shall grant or refuse permission for the applicant to place or
+10 receive a child as early as practicable, but, in any case, the decision shall be made
+11 within sixty (60) days after the receipt of the application. In reaching a decision, the
+12 secretary shall be guided by the ability of the persons wishing to receive the child to
+13 give the child a suitable home, and shall at all times consider the best interest of the
+14 child from a financial, medical, psychological, and psychiatric standpoint.
+15 (6) (a) If the application is refused, the secretary shall in general terms furnish in
+16 writing the reasons for his or her refusal.
+17 (b) If the application is refused based upon any disability of the applicant, the
+18 secretary shall confirm that an individual assessment was conducted, and
+19 that targeted adaptive or supportive services and modifications were
+20 reviewed and considered prior to the refusal.
+21 (c) The cabinet shall maintain all information and supporting documentation
+22 related to the assessment, considered targeted adaptive or supportive
+23 services and available modifications for a period of two (2) years or as
+24 otherwise ordered by a court of competent jurisdiction.
+25 (7) (a) Any person who seeks temporary custody of a child prior to the secretary's
+26 ruling on an application for adoption shall file a petition seeking temporary
+27 custody, with a notice of intent to adopt, with the Circuit Court that will have
+Page 8 of 18
+SB002610.100 - 327 - XXXX 2/13/2025 2:57 PM GA
+UNOFFICIAL COPY 25 RS SB 26/GA
+1 jurisdiction of the adoption proceedings.
+2 (b) The clerk of the court shall send a notice of the filing of the petition to the
+3 cabinet. A hearing on the petition shall occur no later than seventy-two (72)
+4 hours after the filing of the petition, excluding weekends and holidays.
+5 Proceedings under this subsection shall be incorporated into the court's
+6 adoption file.
+7 (c) If the adoption is not finalized within six (6) months of the filing of the
+8 petition and notice of intent, the court shall conduct a hearing on the status
+9 and custody of the child.
+10 (8) (a) Upon a finding by the Circuit Court that the child should be placed prior to
+11 the secretary's ruling on the application, the Circuit Court may grant the
+12 applicant temporary custody of the child pending the decision of the secretary.
+13 (b) Temporary custody shall not be granted to an applicant unless a background
+14 check, including but not limited to a criminal records check by the Justice and
+15 Public Safety Cabinet or the Administrative Office of the Courts and a
+16 background check of child abuse and neglect records maintained by the
+17 cabinet, has been submitted to and reviewed by the court. The background
+18 check required for temporary custody shall be part of the home study required
+19 under subsection (2) of this section.
+20 (c) If the application is denied by the secretary, the temporary custody order shall
+21 be set aside and, upon motion of the cabinet or of the child's parent or parents,
+22 the Circuit Court may order the child returned to the biological parent or
+23 parents or the child's custody may be awarded to the cabinet, another licensed
+24 child-placing agency, or other individuals deemed appropriate by the court.
+25 (d) This section shall not be deemed to permit the completion of any adoption
+26 proceeding without the approval of the secretary and compliance with KRS
+27 615.030, if required.
+Page 9 of 18
+SB002610.100 - 327 - XXXX 2/13/2025 2:57 PM GA
+UNOFFICIAL COPY 25 RS SB 26/GA
+1 (9) (a) In any case where the cabinet refuses to approve the placement of a child for
+2 adoption when requested by the parent or parents of the child, or refuses the
+3 request of any person or persons that a child be placed with that person or
+4 those persons for adoption, the decision of the secretary in so refusing shall be
+5 final unless within ten (10) days after notice of refusal, the biological or
+6 proposed adopting parent or parents shall appeal to the Circuit Court of the
+7 county in which the adoption is proposed.
+8 (b) No placement shall be disapproved:
+9 1. On the basis of the religious, ethnic, racial, or interfaith background of
+10 the adoptive applicant, if the placement is made with the consent of the
+11 parent; or
+12 2. On the sole basis of a disability of the adoptive applicant without
+13 considering whether targeted adaptive or supportive services could
+14 enable the applicant to provide essential care and protection for the
+15 child.
+16 (10) (a) The cabinet may refuse to approve the placement of a child for adoption if the
+17 child's custodial parent is unwilling for the child to be placed for adoption
+18 with the proposed adoptive family. The cabinet may approve or deny the
+19 placement, in spite of the fact that the custodial parent or parents are unwilling
+20 to be interviewed by the cabinet or other approving entity, or if, after diligent
+21 efforts have been made, the adoption worker is unable to locate or interview
+22 the custodial parent or parents.
+23 (b) The cabinet shall be made a party defendant to any[the] appeal taken under
+24 subsection (9) of this section. In the hearing of an appeal, the court shall
+25 review the findings of the secretary and shall determine if the secretary has
+26 acted arbitrarily, unlawfully, or in a manner that constitutes an abuse of
+27 discretion.
+Page 10 of 18
+SB002610.100 - 327 - XXXX 2/13/2025 2:57 PM GA
+UNOFFICIAL COPY 25 RS SB 26/GA
+1 (11) If a child who does not fall within the exception provided for in KRS 199.470(4) is
+2 placed or received in a home without the court's review of the background check
+3 required under this section or the permission of the secretary for health and family
+4 services, or if permission to receive a child has been denied, a representative of the
+5 cabinet shall notify in writing or may petition the juvenile session of District Court
+6 of the county in which the child is found setting out the facts concerning the child.
+7 When the petition has been filed, the court shall take jurisdiction of the child and
+8 shall provide for it as it would provide for a dependent, neglected, or abused child
+9 under KRS Chapter 620, except that the child may not be placed in the home of the
+10 applicants who are to receive the child unless permission to do so is granted by the
+11 secretary or the action is ordered by a Kentucky court of competent jurisdiction.
+12 (12) When either the custodial parent or parents of the child to be placed or the persons
+13 wishing to receive the child reside out-of-state, the requirement of KRS 615.030,
+14 Interstate Compact on the Placement of Children, shall be met before the cabinet
+15 gives approval for the child's placement.
+16 (13) The secretary of the Cabinet for Health and Family Services shall be paid a
+17 nonrefundable fee of two hundred dollars ($200) upon the filing of the written
+18 application for permission to place or receive a child. Payment shall be made by
+19 certified or cashier's check only. All funds collected under this section shall be
+20 deposited in a restricted account, which is hereby created, for the purpose of
+21 subsidizing an adoptive parent for suitable care of a special-needs child as
+22 authorized in KRS 199.555.
+23 (14) Nothing in this statute shall be construed to limit the authority of the cabinet or a
+24 child-placing institution or agency to determine the proper disposition of a child
+25 committed to it by the juvenile session of District Court or the Circuit Court, prior
+26 to the filing of an application to place or receive a child.
+27 Section 5. KRS 625.050 is amended to read as follows:
+Page 11 of 18
+SB002610.100 - 327 - XXXX 2/13/2025 2:57 PM GA
+UNOFFICIAL COPY 25 RS SB 26/GA
+1 (1) A petition for involuntary termination of parental rights shall be entitled "In the
+2 interest of ..., a child."
+3 (2) The petition shall be filed in the Circuit Court for any of the following counties:
+4 (a) The county in which either parent resides or may be found;
+5 (b) The county in which juvenile court actions, if any, concerning the child have
+6 commenced; or
+7 (c) The county in which the child involved resides or is present.
+8 (3) Proceedings for involuntary termination of parental rights may be initiated upon
+9 petition by the cabinet, any child-placing agency licensed by the cabinet, any
+10 county or Commonwealth's attorney, or parent.
+11 (4) The petition for involuntary termination of parental rights shall be verified and
+12 contain the following:
+13 (a) Name and mailing address of each petitioner;
+14 (b) Name, sex, date of birth, and place of residence of the child;
+15 (c) Name and address of the living parents of the child;
+16 (d) Name, date of death and cause of death, if known, of any deceased parent;
+17 (e) Name and address of the putative father, if known by the petitioner, of the
+18 child if not the same person as the legal father;
+19 (f) Name and address of the person, cabinet, or agency having custody of the
+20 child;
+21 (g) Name and identity of the person, cabinet, or authorized agency to whom
+22 custody is sought to be transferred;
+23 (h) Statement that the person, cabinet, or agency to whom custody is to be given
+24 has facilities available and is willing to receive the custody of the child;
+25 (i) All pertinent information concerning termination or disclaimers of parenthood
+26 or voluntary consent to termination;
+27 (j) Information as to the legal status of the child and the court so adjudicating;
+Page 12 of 18
+SB002610.100 - 327 - XXXX 2/13/2025 2:57 PM GA
+UNOFFICIAL COPY 25 RS SB 26/GA
+1 and
+2 (k) A concise statement of the factual basis for the termination of parental rights.
+3 (5) No petition may be filed under this section prior to five (5) days after the birth of
+4 the child.
+5 (6) No petition may be filed to terminate the parental rights of:
+6 (a) A woman solely because of her use of a nonprescribed controlled substance
+7 during pregnancy if she enrolls in and maintains substantial compliance with
+8 both a substance abuse treatment or recovery program and a regimen of
+9 prenatal care as recommended by her health care practitioner throughout the
+10 remaining term of her pregnancy. Upon certified completion of the treatment
+11 or recovery program, or six (6) months after giving birth during which time
+12 substantial compliance with a substance abuse treatment or recovery program
+13 has occurred, whichever is earlier, any records maintained by a court or by the
+14 cabinet relating to a positive test for a nonprescribed controlled substance
+15 shall be sealed by the court and may not be used in any future criminal
+16 prosecution or future petition to terminate the woman's parental rights; or
+17 (b) Any parent solely because of a disability as defined in Section 1 of this Act
+18 unless the parent has been provided, or unless the parent has knowingly
+19 and affirmatively rejected in writing, adaptive and supportive services based
+20 on an individual assessment of the parent.
+21 (7) Any petition filed pursuant to this section shall:
+22 (a) Include a copy of any individual assessment required under subsection (6)
+23 of this section and the services provided pursuant to the assessment, or the
+24 rejection of offered services signed by the parent; and
+25 (b) Be fully adjudicated and a final judgment shall be entered by the court within
+26 six (6) months of the service of the petition on the parents.
+27 Section 6. KRS 625.090 is amended to read as follows:
+Page 13 of 18
+SB002610.100 - 327 - XXXX 2/13/2025 2:57 PM GA
+UNOFFICIAL COPY 25 RS SB 26/GA
+1 (1) The Circuit Court may involuntarily terminate all parental rights of a parent of a
+2 named child, if the Circuit Court finds from the record[pleadings and] by clear and
+3 convincing evidence that:
+4 (a) 1. The child has been adjudged to be an abused or neglected child, as
+5 defined in KRS 600.020(1), by a court of competent jurisdiction;
+6 2. The child is found to be an abused or neglected child, as defined in KRS
+7 600.020(1), by the Circuit Court in this proceeding;
+8 3. The child is found to have been diagnosed with neonatal abstinence
+9 syndrome at the time of birth, unless his or her birth mother:
+10 a. Was prescribed and properly using medication for a legitimate
+11 medical condition as directed by a health care practitioner that may
+12 have led to the neonatal abstinence syndrome;
+13 b. Is currently, or within ninety (90) days after the birth, enrolled in
+14 and maintaining substantial compliance with both a substance
+15 abuse treatment or recovery program and a regimen of prenatal
+16 care or postnatal care as recommended by her health care
+17 practitioner throughout the remaining term of her pregnancy or the
+18 appropriate time after her pregnancy; or
+19 c. In the absence of a prescription for the treatment of a legitimate
+20 medical condition, agrees, prior to discharge from the hospital, to
+21 participate in a court-ordered assessment by a drug treatment
+22 provider and the assigning of a certified peer support specialist for
+23 referral to appropriate treatment, and agrees to participate in
+24 treatment which shall commence within ninety (90) days after the
+25 birth; or
+26 4. The parent has been convicted of a criminal charge relating to the
+27 physical or sexual abuse or neglect of any child and that physical or
+Page 14 of 18
+SB002610.100 - 327 - XXXX 2/13/2025 2:57 PM GA
+UNOFFICIAL COPY 25 RS SB 26/GA
+1 sexual abuse, neglect, or emotional injury to the child named in the
+2 present termination action is likely to occur if the parental rights are not
+3 terminated;
+4 (b) 1. The Cabinet for Health and Family Services has filed a petition with the
+5 court pursuant to KRS 620.180 or 625.050; or
+6 2. A child-placing agency licensed by the cabinet, any county or
+7 Commonwealth's attorney, or a parent has filed a petition with the court
+8 under KRS 625.050; and
+9 (c) Termination would be in the best interest of the child.
+10 (2) No termination of parental rights shall be ordered unless the Circuit Court also finds
+11 by clear and convincing evidence the existence of one (1) or more of the following
+12 grounds:
+13 (a) That the parent has abandoned the child for a period of not less than ninety
+14 (90) days;
+15 (b) That the parent has inflicted or allowed to be inflicted upon the child, by other
+16 than accidental means, serious physical injury;
+17 (c) That the parent has continuously or repeatedly inflicted or allowed to be
+18 inflicted upon the child, by other than accidental means, physical injury or
+19 emotional harm;
+20 (d) That the parent has been convicted of a felony that involved the infliction of
+21 serious physical injury to any child;
+22 (e) That the parent, for a period of not less than six (6) months, has continuously
+23 or repeatedly failed or refused to provide or has been substantially incapable
+24 of providing essential parental care and protection for the child and that there
+25 is no reasonable expectation of improvement in parental care and protection,
+26 considering the age of the child;
+27 (f) That the parent has caused or allowed the child to be sexually abused or
+Page 15 of 18
+SB002610.100 - 327 - XXXX 2/13/2025 2:57 PM GA
+UNOFFICIAL COPY 25 RS SB 26/GA
+1 exploited;
+2 (g) That the parent, for reasons other than poverty alone, has continuously or
+3 repeatedly failed to provide or is incapable of providing essential food,
+4 clothing, shelter, medical care, or education reasonably necessary and
+5 available for the child's well-being and that there is no reasonable expectation
+6 of significant improvement in the parent's conduct in the immediately
+7 foreseeable future, considering the age of the child;
+8 (h) That:
+9 1. The parent's parental rights to another child have been involuntarily
+10 terminated;
+11 2. The child named in the present termination action was born subsequent
+12 to or during the pendency of the previous termination; and
+13 3. The conditions or factors which were the basis for the previous
+14 termination finding have not been corrected;
+15 (i) That the parent has been convicted in a criminal proceeding of having caused
+16 or contributed to the death of another child as a result of physical or sexual
+17 abuse or neglect;
+18 (j) That the child has been in foster care under the responsibility of the cabinet
+19 for fifteen (15) cumulative months out of forty-eight (48) months preceding
+20 the filing of the petition to terminate parental rights; or
+21 (k) That the child has been removed from the biological or legal parents more
+22 than two (2) times in a twenty-four (24) month period by the cabinet or a
+23 court.
+24 (3) In determining the best interest of the child and the existence of a ground for
+25 termination, the Circuit Court shall consider the following factors:
+26 (a) Mental illness as defined by KRS 202A.011(9), or an intellectual disability as
+27 defined by KRS 202B.010(9) of the parent as certified by a qualified mental
+Page 16 of 18
+SB002610.100 - 327 - XXXX 2/13/2025 2:57 PM GA
+UNOFFICIAL COPY 25 RS SB 26/GA
+1 health professional, or a disability as defined in Section 1 of this Act, if the
+2 mental illness, intellectual disability, or disability[which] renders the parent
+3 consistently unable to care for the immediate and ongoing physical or
+4 psychological needs of the child for extended periods of time;
+5 (b) Acts of abuse or neglect as defined in KRS 600.020(1) toward any child in the
+6 family;
+7 (c) If the child has been placed with the cabinet, whether the cabinet has, prior to
+8 the filing of the petition:
+9 1. Made reasonable efforts as defined in KRS 620.020 to reunite the child
+10 with the parents unless one or more of the circumstances enumerated in
+11 KRS 610.127 for not requiring reasonable efforts have been
+12 substantiated in a written finding by the District Court; or
+13 2. Provided a parent with a disability as defined in Section 1 of this Act
+14 with targeted adaptive and supportive services based on an individual
+15 assessment of the parent, or has received a written acknowledgement
+16 from the parent knowingly and affirmatively rejecting the offered
+17 services;
+18 (d) The efforts and adjustments the parent has made in his or her circumstances,
+19 conduct, or conditions to make it in the child's best interest to return the
+20 child[him] to his or her home within a reasonable period of time, considering
+21 the age of the child;
+22 (e) The physical, emotional, and mental health of the child and the prospects for
+23 the improvement of the child's welfare if termination is ordered; and
+24 (f) The payment or the failure to pay a reasonable portion of substitute physical
+25 care and maintenance if financially able to do so.
+26 (4) If the child has been placed with the cabinet, the parent may present testimony
+27 concerning the reunification, adaptive, or supportive services offered by the cabinet
+Page 17 of 18
+SB002610.100 - 327 - XXXX 2/13/2025 2:57 PM GA
+UNOFFICIAL COPY 25 RS SB 26/GA
+1 and whether additional services would be likely to bring about lasting parental
+2 adjustment enabling a return of the child to the parent.
+3 (5) If the parent proves by a preponderance of the evidence that the child will not
+4 continue to be an abused or neglected child as defined in KRS 600.020(1) if
+5 returned to the parent, or if the parent proves by a preponderance of the evidence
+6 that appropriate and specifically targeted adaptive or supportive services based
+7 upon an individual assessment of the parent have not been offered or provided to
+8 the parent, the court in its discretion may determine not to terminate parental rights.
+9 (6) Upon the conclusion of proof and argument of counsel, the Circuit Court shall enter
+10 findings of fact, conclusions of law, and a decision as to each parent-respondent
+11 within thirty (30) days either:
+12 (a) Terminating the right of the parent; or
+13 (b) Dismissing the petition and stating whether the child shall be returned to the
+14 parent or shall remain in the custody of the state.
+Page 18 of 18
+SB002610.100 - 327 - XXXX 2/13/2025 2:57 PM GA
+[DELETED:   2  G A B S A ( " w m a e o t c s d b t s c w h b a b t c t h u i s a c ( " a ( " ( " ( " a f p a a t m a o o a w t ( y o o ( " a m a a l b t c w s t p o c i f f h o c f ( " ( ( " 1 A]
+[DELETED:   2  G s i a i d b m a c o l 2 A 3 B ( A a o a d o o s i n a i w a " ( " a ( " i m c h a ( " f a ( " J n f c w m p i c a a u c r ( " n ( " l]
+[DELETED:   2  G a p o c i f f h c f o a o a w n a c b f n a p f t e t r p ( " b s m a s t e a a e t r K S P o t F B o I r o a i w f a r i t s u a a i ( " a p p s h t s m a i 4 U ( " ( " t c t c p w f i o t l e o t c e w n c i a w t e t c a t t c w v c p w ( D ( N b]
+[DELETED:   2  G ( C ( I p p ( 1 A b t 2 I p a b t s i r t v a i h c m b w o b w n s t t p a p o t a f t p a p o o b t e o t s ( h b c 3 I i h c m b w o b w n s t t p a p o t a f t p a p o o b t e o t s ( h b c ( D ( A c ( N o t p w r a e t c t t c p]
+[DELETED:   2  G h ( T r f S ( B t c ( R a D o ( R i f t a a a o t a a h m t t ( T S p ( T C f H a F S s n d o a p o c a i b n l t f c r c w t ( D]
+[DELETED:   2  G f ( R c o ( R u ( I t ( h t C f H a F S s t a i ( P a ( E y o ( t t c o o a o ( h o t c d ( T C f H a F S s p a a S P p ( O a u c t t e w o t b p o p ( O t s b o a d o a a w c w t a o s s c e t a t p]
+[DELETED:   2  G S ( A p o t a c a o i t d o p m ( P p c a a b ( ( T p ( T i p t a m i a t a a w d n m t r o t p t a t a i o a h s f a l c a a t p a s ( A c t i ( C o f s f t s s i e c r]
+[DELETED:   2  G ( T s b v f o ( y f t d o i c b a a ( T a w m t h s s m a f i w r e t t a b g o t t a b d s ( B s r w s g c ( ( I t f w ( I s t t a o s s a m w r ( T r t t a c t a o s s a a m f a p o t ( y o a o ( ( A r c]
+[DELETED:   2  G j ( T c h a t f o t p e w a h P u t s s b i i t c a ( I t a i n f w s ( m o t f o t p a ( ( U t s r o t a t C C m g t a ( T c P S C o t A O o t C a a b c o c a a n r m b t c c u ( I b t C C m o t c r t t b p o p c ( T p 6]
+[DELETED:   2  G ( ( I a r t f u w t ( d a n o r t b o p c ( N 1 O t p 2 O t s b o a d o t a a w c w t a o s s c e c ( ( T c w t p a f T c m a o d t p t e t ( T s ( o t s I t h o a a t c s r a a u o i a m t c a a o d]
+[DELETED:   2  G ( I p r s c o W s u a s ( W w I g ( T s o t C f H a F S s b p a n f o t h d ( u t f o t w a c o c c o A f c u t s s b d i a r a w i h c f t p o s a a p f s c o a s c a a ( N c c t S]
+[DELETED:   2  G ( A i ( T ( T ( T c ( T ( P f i t o r m b i u p b t c a c a l b t c a c ( T p f i t o p r s b v a c ( N ( N ( N ( N ( N c ( N c ( N a i o t p c o a a t w c ( S h ( A o ( I]
+[DELETED:   2  G a ( A ( N t ( N ( A d b a s a t o r p a a r o p r o s h c r t a p t f a n c s s b s b t c a m n b u i a f c p ( A u a o ( A ( I o r ( B s S]
+[DELETED:   2  G ( T n c ( 1 T c h b a t b a a o n c a d 2 T 6 3 T c i f t h b d w n a s a W p a p u m f a l m h b I a m s c w b a s a t o r p a a r o p c o p c a r b h h c p a c I m p i a c a b a d t p r t a t a a t p i t b 4 T p h b c o a c c r t t p o a o o a c a t p o]
+[DELETED:   2  G s a n o e i t t c n i t p t ( 1 T c 2 A c a l b t c a c o C u ( T ( N b g ( T ( ( T t ( T t p h c o r i o a t b i e ( T s ( T o o i c ( T t p h c o a t c t b s a o]
+[DELETED:   2  G e ( T t p f r o t p a h c o r f t p o i i o p e f c s m c o e r n a a o s i i t p c i t i f ( T 1 T p p r t a c h b i t 2 T t 3 T c o f w w t b f t p t ( T o a ( T f t ( T t c ( I d t b i o t c a t e o a g f t ( M d]
+[DELETED:   2  G h m c u t c f t i a o p o p ( A f ( I t 1 M w K 6 f n r r e h b s 2 P w a f t p k a a r t o s ( T c o c t m i i t c b i t r t c t ( T t ( T c ( I t c h b p w t c t p m p t c]
+[DELETED:   2  G a w a s w b l t b a l p a ( I t p p b a p o t e t t c w n c t b a a o n c a d i K 6 i r t u t ( U f w ( T ( D p]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS SB 26/GA
+1 AN ACT relating to parental rights.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 199.011 is amended to read as follows:
+4 As used in this chapter, unless the context otherwise requires:
+5 (1) "Adoption worker" means an employee of the cabinet so designated by the
+6 secretary for health and family services, a social worker employed by a county or
+7 city who has been approved by the cabinet to handle, under its supervision,
+8 adoption placement services to children, or a social worker employed by or under
+9 contract to a child-placing adoption agency;
+10 (2) "Adult adopted person" means any adopted person who is twenty-one (21) years of
+11 age or older;
+12 (3) "Cabinet" means the Cabinet for Health and Family Services;
+13 (4) "Child" means any person who has not reached his or her eighteenth birthday;
+14 (5) "Child-caring facility" means any institution or group home, including institutions
+15 and group homes that are publicly operated, providing residential care on a twenty-
+16 four (24) hour basis to children, not related by blood, adoption, or marriage to the
+17 person maintaining the facility, other than an institution or group home certified by
+18 an appropriate agency as operated primarily for educational or medical purposes, or
+19 a residential program operated or contracted by the Department of Juvenile Justice
+20 that maintains accreditation, or obtains accreditation within two (2) years of
+21 opening from a nationally recognized accrediting organization;
+22 (6) "Child-placing agency" means any agency licensed by the cabinet, which
+23 supervises the placement of children in foster family homes or child-caring
+24 facilities, or which places children for adoption;
+25 (7) "Department" means the Department for Community Based Services;
+26 (8) (a) "Disability" means:
+27 1. A physical or mental impairment, whether congenital or acquired, that
+Page 1 of 18
+SB002610.100 - 327 - XXXX 2/13/2025 2:57 PM GA
+
+UNOFFICIAL COPY 25 RS SB 26/GA
+1 substantially limits one (1) or more of the major life activities of an
+2 individual and is demonstrable by medically accepted clinical or
+3 laboratory diagnostic techniques;
+4 2. A record of having such an impairment; or
+5 3. Being regarded as having such an impairment.
+6 (b) An individual who is currently engaging in the illegal use of drugs or the
+7 abuse of alcohol, drugs, or other substances is not an individual with a
+8 "disability" for purposes of this chapter;
+9 (9) "Family rehabilitation home" means a child-caring facility for appropriate families
+10 and comprising not more than twelve (12) children and two (2) staff persons;
+11 (10)[(9)] "Fictive kin" means an individual who is not related by birth, adoption, or
+12 marriage to a child, but who has an emotionally significant relationship with the
+13 child, or an emotionally significant relationship with a biological parent, siblings, or
+14 half-siblings of the child in the case of a child from birth to twelve (12) months of
+15 age, prior to placement;
+16 (11)[(10)] "Foster family home" means a private home in which children are placed for
+17 foster family care under supervision of the cabinet or of a licensed child-placing
+18 agency;
+19 (12)[(11)] "Group home" means a homelike facility, excluding Department of Juvenile
+20 Justice-operated or -contracted facilities, for not more than eight (8) foster children,
+21 not adjacent to or part of an institutional campus, operated by a sponsoring agency
+22 for children who may participate in community activities and use community
+23 resources;
+24 (13)[(12)] "Institution" means a child-caring facility providing care or maintenance for
+25 nine (9) or more children;
+26 (14)[(13)] "Placement services" means those social services customarily provided by a
+27 licensed child-placing or a public agency, which are necessary for the arrangement
+Page 2 of 18
+SB002610.100 - 327 - XXXX 2/13/2025 2:57 PM GA
+
+UNOFFICIAL COPY 25 RS SB 26/GA
+1 and placement of children in foster family homes, child-placing facilities, or
+2 adoptive homes. Placement services are provided through a licensed child-placing
+3 or a public agency for children who cannot be cared for by their biological parents
+4 and who need and can benefit from new and permanent family ties established
+5 through legal adoption. Licensed child-placing agencies and public agencies have a
+6 responsibility to act in the best interests of children, biological parents, and adoptive
+7 parents by providing social services to all the parties involved in an adoption;
+8 (15)[(14)] "Rap back system" means a system that enables an authorized entity to
+9 receive ongoing status notifications of any criminal history from the Department of
+10 Kentucky State Police or the Federal Bureau of Investigation reported on an
+11 individual whose fingerprints are registered in the system, upon approval and
+12 implementation of the system;
+13 (16)[(15)] "Reasonable and prudent parent standard" has the same meaning as in 42
+14 U.S.C. sec. 675(10);
+15 (17)[(16)] "Secretary" means the secretary for health and family services; and
+16 (18)[(17)] "Voluntary and informed consent" means that at the time of the execution of
+17 the consent, the consenting person was fully informed of the legal effect of the
+18 consent, that the consenting person was not given or promised anything of value
+19 except those expenses allowable under KRS 199.590(6), that the consenting person
+20 was not coerced in any way to execute the consent, and that the consent was
+21 voluntarily and knowingly given. If at the time of the execution of the consent the
+22 consenting person was represented by independent legal counsel, there shall be a
+23 presumption that the consent was voluntary and informed. The consent shall be in
+24 writing, signed and sworn to by the consenting person, and include the following:
+25 (a) Date, time, and place of the execution of the consent;
+26 (b) Name of the child, if any, to be adopted, and the date and place of the child's
+27 birth;
+Page 3 of 18
+SB002610.100 - 327 - XXXX 2/13/2025 2:57 PM GA
+
+UNOFFICIAL COPY 25 RS SB 26/GA
+1 (c) Consenting person's relationship to the child;
+2 (d) Identity of the proposed adoptive parents or a statement that the consenting
+3 person does not desire to know the identification of the proposed adoptive
+4 parents;
+5 (e) 1. A statement that the consenting person understands that the consent will
+6 be final and irrevocable under this paragraph unless withdrawn under
+7 this paragraph.
+8 2. If placement approval by the secretary is required, the voluntary and
+9 informed consent shall become final and irrevocable seventy-two (72)
+10 hours after the execution of the voluntary and informed consent. This
+11 consent may be withdrawn only by written notification sent to the
+12 proposed adoptive parent or the attorney for the proposed adoptive
+13 parent on or before the expiration of the seventy-two (72) hours by
+14 certified or registered mail and also by first-class mail.
+15 3. If placement approval by the secretary is not required, the voluntary and
+16 informed consent shall become final and irrevocable seventy-two (72)
+17 hours after the execution of the voluntary and informed consent. This
+18 consent may be withdrawn only by written notification sent to the
+19 proposed adoptive parent or the attorney for the proposed adoptive
+20 parent on or before the expiration of the seventy-two (72) hours by
+21 certified or registered mail and also by first-class mail;
+22 (f) Disposition of the child if the adoption is not adjudged;
+23 (g) A statement that the consenting person has received a completed and signed
+24 copy of the consent at the time of the execution of the consent;
+25 (h) Name and address of the person who prepared the consent, name and address
+26 of the person who reviewed and explained the consent to the consenting
+27 person, and a verified statement from the consenting person that the consent
+Page 4 of 18
+SB002610.100 - 327 - XXXX 2/13/2025 2:57 PM GA
+
+UNOFFICIAL COPY 25 RS SB 26/GA
+1 has been reviewed with and fully explained to the consenting person; and
+2 (i) Total amount of the consenting person's legal fees, if any, for any purpose
+3 related to the execution of the consent and the source of payment of the legal
+4 fees.
+5 Section 2. KRS 199.462 is amended to read as follows:
+6 (1) Before an applicant is approved to provide foster care or relative caregiver services
+7 to a child, considered a fictive kin placement for a child, or approved to receive a
+8 child for adoption, the Cabinet for Health and Family Services shall:
+9 (a) Require a criminal background investigation of the applicant and any of the
+10 applicant's adult household members by means of a fingerprint check by the
+11 Department of Kentucky State Police and the Federal Bureau of Investigation;
+12 or
+13 (b) Request from the Justice and Public Safety Cabinet records of all conviction
+14 information for the applicant and any of the applicant's adult household
+15 members. The Justice and Public Safety Cabinet shall furnish the information
+16 to the Cabinet for Health and Family Services and shall also send a copy of
+17 the information to the applicant.
+18 (2) The request for records shall be in a manner approved by the Justice and Public
+19 Safety Cabinet, and the Justice and Public Safety Cabinet may charge a fee to be
+20 paid by the applicant for the actual cost of processing the request.
+21 (3) The Cabinet for Health and Family Services shall not disapprove of any
+22 placement or custody arrangement, including but not limited to foster care,
+23 relative caregiver services, fictive kin placement, temporary custody, permanent
+24 custody, or adoption on the sole basis of a disability of the prospective caregiver
+25 without considering whether targeted adaptive or supportive services could enable
+26 the prospective caregiver to provide essential care and protection for the child.
+27 (4)[(3)] During a certified adoptive or foster home's annual reevaluation, the Cabinet
+Page 5 of 18
+SB002610.100 - 327 - XXXX 2/13/2025 2:57 PM GA
+
+UNOFFICIAL COPY 25 RS SB 26/GA
+1 for Health and Family Services may:
+2 (a) Require a background investigation for each adult household member of the
+3 certified adoptive or foster home under subsections (1) and (2) of this section;
+4 or
+5 (b) Register each adult household member of a certified adoptive or foster home
+6 under subsections (1) and (2) of this section in the rap back system.
+7 (5)[(4)] If a child is placed and resides in a fictive kin home for more than seventy-
+8 two (72) hours, the Cabinet for Health and Family Services shall take action,
+9 including but not limited to the following:
+10 (a) Provide information on how to recognize and report child abuse or neglect;
+11 and
+12 (b) Ensure that, within the first five (5) days of a child under the age of five (5)
+13 years old being placed in a fictive kin home, the fictive kin has completed a
+14 one (1) time training course of one and one-half (1.5) hours of training
+15 covering the prevention and recognition of pediatric abusive head trauma, as
+16 defined in KRS 620.020.
+17 (6)[(5)] The Cabinet for Health and Family Services shall promulgate an
+18 administrative regulation to implement this section.
+19 Section 3. KRS 199.471 is amended to read as follows:
+20 Petitions for adoption of children placed for adoption by the cabinet or a licensed child-
+21 placing institution or agency shall not be denied:
+22 (1) On the basis of the religious, ethnic, racial, or interfaith background of the adoptive
+23 applicant, unless contrary to the expressed wishes of the biological parent or
+24 parents; or[parent(s)]
+25 (2) On the sole basis of a disability of the adoptive applicant without considering
+26 whether targeted adaptive or supportive services could enable the applicant to
+27 provide essential care and protection for the child.
+Page 6 of 18
+SB002610.100 - 327 - XXXX 2/13/2025 2:57 PM GA
+
+UNOFFICIAL COPY 25 RS SB 26/GA
+1 Section 4. KRS 199.473 is amended to read as follows:
+2 (1) All persons other than a child-placing agency or institution, the department, or
+3 persons excepted by KRS 199.470(4) who wish to place or receive a child shall
+4 make written application to the secretary for permission to place or receive a child.
+5 (2) Prior to the approval of an application to place or receive a child, the fee required
+6 pursuant to subsection (13) of this section shall be paid and a home study shall be
+7 completed. The purpose of the home study shall be to review the background of the
+8 applicant and determine the suitability of the applicant to receive a child, taking into
+9 account at all times the best interest of the child for whom application to receive has
+10 been made.
+11 (3) (a) The home study shall be made in accordance with administrative regulations
+12 promulgated by the cabinet in accordance with KRS Chapter 13A.
+13 (b) The cabinet shall conduct the home study for an applicant whose total gross
+14 income is equal to or less than two hundred fifty percent (250%) of the federal
+15 poverty level guidelines issued each year by the federal government, unless
+16 the applicant submits a written request for the home study to be conducted by
+17 a licensed child-placing agency or institution. Upon request, the cabinet shall
+18 make information available to an applicant who does not meet the
+19 requirements of this paragraph to assist the applicant in obtaining a home
+20 study from a licensed child-placing agency approved to provide adoption
+21 services.
+22 (c) A licensed child-placing agency approved to provide adoption services shall
+23 conduct the home study for an applicant whose gross total income is more
+24 than two hundred fifty percent (250%) of the federal poverty level guidelines
+25 issued each year by the federal government.
+26 (d) Calculation of family size for this subsection shall include each child
+27 requested to be adopted.
+Page 7 of 18
+SB002610.100 - 327 - XXXX 2/13/2025 2:57 PM GA
+
+UNOFFICIAL COPY 25 RS SB 26/GA
+1 (e) The portion of the home study pertaining to the home and family background
+2 shall be valid for one (1) year following the date of its completion by an
+3 adoption worker.
+4 (4) The adoption worker making the home study shall make a finding in writing
+5 recommending either that the application be granted or that the application be
+6 denied. The recommendation of the adoption worker shall then be reviewed by the
+7 secretary.
+8 (5) Based on the report and recommendation of the adoption worker making the home
+9 study, the secretary shall grant or refuse permission for the applicant to place or
+10 receive a child as early as practicable, but, in any case, the decision shall be made
+11 within sixty (60) days after the receipt of the application. In reaching a decision, the
+12 secretary shall be guided by the ability of the persons wishing to receive the child to
+13 give the child a suitable home, and shall at all times consider the best interest of the
+14 child from a financial, medical, psychological, and psychiatric standpoint.
+15 (6) (a) If the application is refused, the secretary shall in general terms furnish in
+16 writing the reasons for his or her refusal.
+17 (b) If the application is refused based upon any disability of the applicant, the
+18 secretary shall confirm that an individual assessment was conducted, and
+19 that targeted adaptive or supportive services and modifications were
+20 reviewed and considered prior to the refusal.
+21 (c) The cabinet shall maintain all information and supporting documentation
+22 related to the assessment, considered targeted adaptive or supportive
+23 services and available modifications for a period of two (2) years or as
+24 otherwise ordered by a court of competent jurisdiction.
+25 (7) (a) Any person who seeks temporary custody of a child prior to the secretary's
+26 ruling on an application for adoption shall file a petition seeking temporary
+27 custody, with a notice of intent to adopt, with the Circuit Court that will have
+Page 8 of 18
+SB002610.100 - 327 - XXXX 2/13/2025 2:57 PM GA
+
+UNOFFICIAL COPY 25 RS SB 26/GA
+1 jurisdiction of the adoption proceedings.
+2 (b) The clerk of the court shall send a notice of the filing of the petition to the
+3 cabinet. A hearing on the petition shall occur no later than seventy-two (72)
+4 hours after the filing of the petition, excluding weekends and holidays.
+5 Proceedings under this subsection shall be incorporated into the court's
+6 adoption file.
+7 (c) If the adoption is not finalized within six (6) months of the filing of the
+8 petition and notice of intent, the court shall conduct a hearing on the status
+9 and custody of the child.
+10 (8) (a) Upon a finding by the Circuit Court that the child should be placed prior to
+11 the secretary's ruling on the application, the Circuit Court may grant the
+12 applicant temporary custody of the child pending the decision of the secretary.
+13 (b) Temporary custody shall not be granted to an applicant unless a background
+14 check, including but not limited to a criminal records check by the Justice and
+15 Public Safety Cabinet or the Administrative Office of the Courts and a
+16 background check of child abuse and neglect records maintained by the
+17 cabinet, has been submitted to and reviewed by the court. The background
+18 check required for temporary custody shall be part of the home study required
+19 under subsection (2) of this section.
+20 (c) If the application is denied by the secretary, the temporary custody order shall
+21 be set aside and, upon motion of the cabinet or of the child's parent or parents,
+22 the Circuit Court may order the child returned to the biological parent or
+23 parents or the child's custody may be awarded to the cabinet, another licensed
+24 child-placing agency, or other individuals deemed appropriate by the court.
+25 (d) This section shall not be deemed to permit the completion of any adoption
+26 proceeding without the approval of the secretary and compliance with KRS
+27 615.030, if required.
+Page 9 of 18
+SB002610.100 - 327 - XXXX 2/13/2025 2:57 PM GA
+
+UNOFFICIAL COPY 25 RS SB 26/GA
+1 (9) (a) In any case where the cabinet refuses to approve the placement of a child for
+2 adoption when requested by the parent or parents of the child, or refuses the
+3 request of any person or persons that a child be placed with that person or
+4 those persons for adoption, the decision of the secretary in so refusing shall be
+5 final unless within ten (10) days after notice of refusal, the biological or
+6 proposed adopting parent or parents shall appeal to the Circuit Court of the
+7 county in which the adoption is proposed.
+8 (b) No placement shall be disapproved:
+9 1. On the basis of the religious, ethnic, racial, or interfaith background of
+10 the adoptive applicant, if the placement is made with the consent of the
+11 parent; or
+12 2. On the sole basis of a disability of the adoptive applicant without
+13 considering whether targeted adaptive or supportive services could
+14 enable the applicant to provide essential care and protection for the
+15 child.
+16 (10) (a) The cabinet may refuse to approve the placement of a child for adoption if the
+17 child's custodial parent is unwilling for the child to be placed for adoption
+18 with the proposed adoptive family. The cabinet may approve or deny the
+19 placement, in spite of the fact that the custodial parent or parents are unwilling
+20 to be interviewed by the cabinet or other approving entity, or if, after diligent
+21 efforts have been made, the adoption worker is unable to locate or interview
+22 the custodial parent or parents.
+23 (b) The cabinet shall be made a party defendant to any[the] appeal taken under
+24 subsection (9) of this section. In the hearing of an appeal, the court shall
+25 review the findings of the secretary and shall determine if the secretary has
+26 acted arbitrarily, unlawfully, or in a manner that constitutes an abuse of
+27 discretion.
+Page 10 of 18
+SB002610.100 - 327 - XXXX 2/13/2025 2:57 PM GA
+
+UNOFFICIAL COPY 25 RS SB 26/GA
+1 (11) If a child who does not fall within the exception provided for in KRS 199.470(4) is
+2 placed or received in a home without the court's review of the background check
+3 required under this section or the permission of the secretary for health and family
+4 services, or if permission to receive a child has been denied, a representative of the
+5 cabinet shall notify in writing or may petition the juvenile session of District Court
+6 of the county in which the child is found setting out the facts concerning the child.
+7 When the petition has been filed, the court shall take jurisdiction of the child and
+8 shall provide for it as it would provide for a dependent, neglected, or abused child
+9 under KRS Chapter 620, except that the child may not be placed in the home of the
+10 applicants who are to receive the child unless permission to do so is granted by the
+11 secretary or the action is ordered by a Kentucky court of competent jurisdiction.
+12 (12) When either the custodial parent or parents of the child to be placed or the persons
+13 wishing to receive the child reside out-of-state, the requirement of KRS 615.030,
+14 Interstate Compact on the Placement of Children, shall be met before the cabinet
+15 gives approval for the child's placement.
+16 (13) The secretary of the Cabinet for Health and Family Services shall be paid a
+17 nonrefundable fee of two hundred dollars ($200) upon the filing of the written
+18 application for permission to place or receive a child. Payment shall be made by
+19 certified or cashier's check only. All funds collected under this section shall be
+20 deposited in a restricted account, which is hereby created, for the purpose of
+21 subsidizing an adoptive parent for suitable care of a special-needs child as
+22 authorized in KRS 199.555.
+23 (14) Nothing in this statute shall be construed to limit the authority of the cabinet or a
+24 child-placing institution or agency to determine the proper disposition of a child
+25 committed to it by the juvenile session of District Court or the Circuit Court, prior
+26 to the filing of an application to place or receive a child.
+27 Section 5. KRS 625.050 is amended to read as follows:
+Page 11 of 18
+SB002610.100 - 327 - XXXX 2/13/2025 2:57 PM GA
+
+UNOFFICIAL COPY 25 RS SB 26/GA
+1 (1) A petition for involuntary termination of parental rights shall be entitled "In the
+2 interest of ..., a child."
+3 (2) The petition shall be filed in the Circuit Court for any of the following counties:
+4 (a) The county in which either parent resides or may be found;
+5 (b) The county in which juvenile court actions, if any, concerning the child have
+6 commenced; or
+7 (c) The county in which the child involved resides or is present.
+8 (3) Proceedings for involuntary termination of parental rights may be initiated upon
+9 petition by the cabinet, any child-placing agency licensed by the cabinet, any
+10 county or Commonwealth's attorney, or parent.
+11 (4) The petition for involuntary termination of parental rights shall be verified and
+12 contain the following:
+13 (a) Name and mailing address of each petitioner;
+14 (b) Name, sex, date of birth, and place of residence of the child;
+15 (c) Name and address of the living parents of the child;
+16 (d) Name, date of death and cause of death, if known, of any deceased parent;
+17 (e) Name and address of the putative father, if known by the petitioner, of the
+18 child if not the same person as the legal father;
+19 (f) Name and address of the person, cabinet, or agency having custody of the
+20 child;
+21 (g) Name and identity of the person, cabinet, or authorized agency to whom
+22 custody is sought to be transferred;
+23 (h) Statement that the person, cabinet, or agency to whom custody is to be given
+24 has facilities available and is willing to receive the custody of the child;
+25 (i) All pertinent information concerning termination or disclaimers of parenthood
+26 or voluntary consent to termination;
+27 (j) Information as to the legal status of the child and the court so adjudicating;
+Page 12 of 18
+SB002610.100 - 327 - XXXX 2/13/2025 2:57 PM GA
+
+UNOFFICIAL COPY 25 RS SB 26/GA
+1 and
+2 (k) A concise statement of the factual basis for the termination of parental rights.
+3 (5) No petition may be filed under this section prior to five (5) days after the birth of
+4 the child.
+5 (6) No petition may be filed to terminate the parental rights of:
+6 (a) A woman solely because of her use of a nonprescribed controlled substance
+7 during pregnancy if she enrolls in and maintains substantial compliance with
+8 both a substance abuse treatment or recovery program and a regimen of
+9 prenatal care as recommended by her health care practitioner throughout the
+10 remaining term of her pregnancy. Upon certified completion of the treatment
+11 or recovery program, or six (6) months after giving birth during which time
+12 substantial compliance with a substance abuse treatment or recovery program
+13 has occurred, whichever is earlier, any records maintained by a court or by the
+14 cabinet relating to a positive test for a nonprescribed controlled substance
+15 shall be sealed by the court and may not be used in any future criminal
+16 prosecution or future petition to terminate the woman's parental rights; or
+17 (b) Any parent solely because of a disability as defined in Section 1 of this Act
+18 unless the parent has been provided, or unless the parent has knowingly
+19 and affirmatively rejected in writing, adaptive and supportive services based
+20 on an individual assessment of the parent.
+21 (7) Any petition filed pursuant to this section shall:
+22 (a) Include a copy of any individual assessment required under subsection (6)
+23 of this section and the services provided pursuant to the assessment, or the
+24 rejection of offered services signed by the parent; and
+25 (b) Be fully adjudicated and a final judgment shall be entered by the court within
+26 six (6) months of the service of the petition on the parents.
+27 Section 6. KRS 625.090 is amended to read as follows:
+Page 13 of 18
+SB002610.100 - 327 - XXXX 2/13/2025 2:57 PM GA
+
+UNOFFICIAL COPY 25 RS SB 26/GA
+1 (1) The Circuit Court may involuntarily terminate all parental rights of a parent of a
+2 named child, if the Circuit Court finds from the record[pleadings and] by clear and
+3 convincing evidence that:
+4 (a) 1. The child has been adjudged to be an abused or neglected child, as
+5 defined in KRS 600.020(1), by a court of competent jurisdiction;
+6 2. The child is found to be an abused or neglected child, as defined in KRS
+7 600.020(1), by the Circuit Court in this proceeding;
+8 3. The child is found to have been diagnosed with neonatal abstinence
+9 syndrome at the time of birth, unless his or her birth mother:
+10 a. Was prescribed and properly using medication for a legitimate
+11 medical condition as directed by a health care practitioner that may
+12 have led to the neonatal abstinence syndrome;
+13 b. Is currently, or within ninety (90) days after the birth, enrolled in
+14 and maintaining substantial compliance with both a substance
+15 abuse treatment or recovery program and a regimen of prenatal
+16 care or postnatal care as recommended by her health care
+17 practitioner throughout the remaining term of her pregnancy or the
+18 appropriate time after her pregnancy; or
+19 c. In the absence of a prescription for the treatment of a legitimate
+20 medical condition, agrees, prior to discharge from the hospital, to
+21 participate in a court-ordered assessment by a drug treatment
+22 provider and the assigning of a certified peer support specialist for
+23 referral to appropriate treatment, and agrees to participate in
+24 treatment which shall commence within ninety (90) days after the
+25 birth; or
+26 4. The parent has been convicted of a criminal charge relating to the
+27 physical or sexual abuse or neglect of any child and that physical or
+Page 14 of 18
+SB002610.100 - 327 - XXXX 2/13/2025 2:57 PM GA
+
+UNOFFICIAL COPY 25 RS SB 26/GA
+1 sexual abuse, neglect, or emotional injury to the child named in the
+2 present termination action is likely to occur if the parental rights are not
+3 terminated;
+4 (b) 1. The Cabinet for Health and Family Services has filed a petition with the
+5 court pursuant to KRS 620.180 or 625.050; or
+6 2. A child-placing agency licensed by the cabinet, any county or
+7 Commonwealth's attorney, or a parent has filed a petition with the court
+8 under KRS 625.050; and
+9 (c) Termination would be in the best interest of the child.
+10 (2) No termination of parental rights shall be ordered unless the Circuit Court also finds
+11 by clear and convincing evidence the existence of one (1) or more of the following
+12 grounds:
+13 (a) That the parent has abandoned the child for a period of not less than ninety
+14 (90) days;
+15 (b) That the parent has inflicted or allowed to be inflicted upon the child, by other
+16 than accidental means, serious physical injury;
+17 (c) That the parent has continuously or repeatedly inflicted or allowed to be
+18 inflicted upon the child, by other than accidental means, physical injury or
+19 emotional harm;
+20 (d) That the parent has been convicted of a felony that involved the infliction of
+21 serious physical injury to any child;
+22 (e) That the parent, for a period of not less than six (6) months, has continuously
+23 or repeatedly failed or refused to provide or has been substantially incapable
+24 of providing essential parental care and protection for the child and that there
+25 is no reasonable expectation of improvement in parental care and protection,
+26 considering the age of the child;
+27 (f) That the parent has caused or allowed the child to be sexually abused or
+Page 15 of 18
+SB002610.100 - 327 - XXXX 2/13/2025 2:57 PM GA
+
+UNOFFICIAL COPY 25 RS SB 26/GA
+1 exploited;
+2 (g) That the parent, for reasons other than poverty alone, has continuously or
+3 repeatedly failed to provide or is incapable of providing essential food,
+4 clothing, shelter, medical care, or education reasonably necessary and
+5 available for the child's well-being and that there is no reasonable expectation
+6 of significant improvement in the parent's conduct in the immediately
+7 foreseeable future, considering the age of the child;
+8 (h) That:
+9 1. The parent's parental rights to another child have been involuntarily
+10 terminated;
+11 2. The child named in the present termination action was born subsequent
+12 to or during the pendency of the previous termination; and
+13 3. The conditions or factors which were the basis for the previous
+14 termination finding have not been corrected;
+15 (i) That the parent has been convicted in a criminal proceeding of having caused
+16 or contributed to the death of another child as a result of physical or sexual
+17 abuse or neglect;
+18 (j) That the child has been in foster care under the responsibility of the cabinet
+19 for fifteen (15) cumulative months out of forty-eight (48) months preceding
+20 the filing of the petition to terminate parental rights; or
+21 (k) That the child has been removed from the biological or legal parents more
+22 than two (2) times in a twenty-four (24) month period by the cabinet or a
+23 court.
+24 (3) In determining the best interest of the child and the existence of a ground for
+25 termination, the Circuit Court shall consider the following factors:
+26 (a) Mental illness as defined by KRS 202A.011(9), or an intellectual disability as
+27 defined by KRS 202B.010(9) of the parent as certified by a qualified mental
+Page 16 of 18
+SB002610.100 - 327 - XXXX 2/13/2025 2:57 PM GA
+
+UNOFFICIAL COPY 25 RS SB 26/GA
+1 health professional, or a disability as defined in Section 1 of this Act, if the
+2 mental illness, intellectual disability, or disability[which] renders the parent
+3 consistently unable to care for the immediate and ongoing physical or
+4 psychological needs of the child for extended periods of time;
+5 (b) Acts of abuse or neglect as defined in KRS 600.020(1) toward any child in the
+6 family;
+7 (c) If the child has been placed with the cabinet, whether the cabinet has, prior to
+8 the filing of the petition:
+9 1. Made reasonable efforts as defined in KRS 620.020 to reunite the child
+10 with the parents unless one or more of the circumstances enumerated in
+11 KRS 610.127 for not requiring reasonable efforts have been
+12 substantiated in a written finding by the District Court; or
+13 2. Provided a parent with a disability as defined in Section 1 of this Act
+14 with targeted adaptive and supportive services based on an individual
+15 assessment of the parent, or has received a written acknowledgement
+16 from the parent knowingly and affirmatively rejecting the offered
+17 services;
+18 (d) The efforts and adjustments the parent has made in his or her circumstances,
+19 conduct, or conditions to make it in the child's best interest to return the
+20 child[him] to his or her home within a reasonable period of time, considering
+21 the age of the child;
+22 (e) The physical, emotional, and mental health of the child and the prospects for
+23 the improvement of the child's welfare if termination is ordered; and
+24 (f) The payment or the failure to pay a reasonable portion of substitute physical
+25 care and maintenance if financially able to do so.
+26 (4) If the child has been placed with the cabinet, the parent may present testimony
+27 concerning the reunification, adaptive, or supportive services offered by the cabinet
+Page 17 of 18
+SB002610.100 - 327 - XXXX 2/13/2025 2:57 PM GA
+
+UNOFFICIAL COPY 25 RS SB 26/GA
+1 and whether additional services would be likely to bring about lasting parental
+2 adjustment enabling a return of the child to the parent.
+3 (5) If the parent proves by a preponderance of the evidence that the child will not
+4 continue to be an abused or neglected child as defined in KRS 600.020(1) if
+5 returned to the parent, or if the parent proves by a preponderance of the evidence
+6 that appropriate and specifically targeted adaptive or supportive services based
+7 upon an individual assessment of the parent have not been offered or provided to
+8 the parent, the court in its discretion may determine not to terminate parental rights.
+9 (6) Upon the conclusion of proof and argument of counsel, the Circuit Court shall enter
+10 findings of fact, conclusions of law, and a decision as to each parent-respondent
+11 within thirty (30) days either:
+12 (a) Terminating the right of the parent; or
+13 (b) Dismissing the petition and stating whether the child shall be returned to the
+14 parent or shall remain in the custody of the state.
+Page 18 of 18
+SB002610.100 - 327 - XXXX 2/13/2025 2:57 PM GA
+
+[DELETED:   2  G A B S A ( " w m a e o t c s d b t s c w h b a b t c t h u i s a c ( " a ( " ( " ( " a f p a a t m a o o a w t ( y o o ( " a m a a l b t c w s t p o c i f f h o c f ( " ( ( " 1 A]
+[DELETED:   2  G s i a i d b m a c o l 2 A 3 B ( A a o a d o o s i n a i w a " ( " a ( " i m c h a ( " f a ( " J n f c w m p i c a a u c r ( " n ( " l]
+[DELETED:   2  G a p o c i f f h c f o a o a w n a c b f n a p f t e t r p ( " b s m a s t e a a e t r K S P o t F B o I r o a i w f a r i t s u a a i ( " a p p s h t s m a i 4 U ( " ( " t c t c p w f i o t l e o t c e w n c i a w t e t c a t t c w v c p w ( D ( N b]
+[DELETED:   2  G ( C ( I p p ( 1 A b t 2 I p a b t s i r t v a i h c m b w o b w n s t t p a p o t a f t p a p o o b t e o t s ( h b c 3 I i h c m b w o b w n s t t p a p o t a f t p a p o o b t e o t s ( h b c ( D ( A c ( N o t p w r a e t c t t c p]
+[DELETED:   2  G h ( T r f S ( B t c ( R a D o ( R i f t a a a o t a a h m t t ( T S p ( T C f H a F S s n d o a p o c a i b n l t f c r c w t ( D]
+[DELETED:   2  G f ( R c o ( R u ( I t ( h t C f H a F S s t a i ( P a ( E y o ( t t c o o a o ( h o t c d ( T C f H a F S s p a a S P p ( O a u c t t e w o t b p o p ( O t s b o a d o a a w c w t a o s s c e t a t p]
+[DELETED:   2  G S ( A p o t a c a o i t d o p m ( P p c a a b ( ( T p ( T i p t a m i a t a a w d n m t r o t p t a t a i o a h s f a l c a a t p a s ( A c t i ( C o f s f t s s i e c r]
+[DELETED:   2  G ( T s b v f o ( y f t d o i c b a a ( T a w m t h s s m a f i w r e t t a b g o t t a b d s ( B s r w s g c ( ( I t f w ( I s t t a o s s a m w r ( T r t t a c t a o s s a a m f a p o t ( y o a o ( ( A r c]
+[DELETED:   2  G j ( T c h a t f o t p e w a h P u t s s b i i t c a ( I t a i n f w s ( m o t f o t p a ( ( U t s r o t a t C C m g t a ( T c P S C o t A O o t C a a b c o c a a n r m b t c c u ( I b t C C m o t c r t t b p o p c ( T p 6]
+[DELETED:   2  G ( ( I a r t f u w t ( d a n o r t b o p c ( N 1 O t p 2 O t s b o a d o t a a w c w t a o s s c e c ( ( T c w t p a f T c m a o d t p t e t ( T s ( o t s I t h o a a t c s r a a u o i a m t c a a o d]
+[DELETED:   2  G ( I p r s c o W s u a s ( W w I g ( T s o t C f H a F S s b p a n f o t h d ( u t f o t w a c o c c o A f c u t s s b d i a r a w i h c f t p o s a a p f s c o a s c a a ( N c c t S]
+[DELETED:   2  G ( A i ( T ( T ( T c ( T ( P f i t o r m b i u p b t c a c a l b t c a c ( T p f i t o p r s b v a c ( N ( N ( N ( N ( N c ( N c ( N a i o t p c o a a t w c ( S h ( A o ( I]
+[DELETED:   2  G a ( A ( N t ( N ( A d b a s a t o r p a a r o p r o s h c r t a p t f a n c s s b s b t c a m n b u i a f c p ( A u a o ( A ( I o r ( B s S]
+[DELETED:   2  G ( T n c ( 1 T c h b a t b a a o n c a d 2 T 6 3 T c i f t h b d w n a s a W p a p u m f a l m h b I a m s c w b a s a t o r p a a r o p c o p c a r b h h c p a c I m p i a c a b a d t p r t a t a a t p i t b 4 T p h b c o a c c r t t p o a o o a c a t p o]
+[DELETED:   2  G s a n o e i t t c n i t p t ( 1 T c 2 A c a l b t c a c o C u ( T ( N b g ( T ( ( T t ( T t p h c o r i o a t b i e ( T s ( T o o i c ( T t p h c o a t c t b s a o]
+[DELETED:   2  G e ( T t p f r o t p a h c o r f t p o i i o p e f c s m c o e r n a a o s i i t p c i t i f ( T 1 T p p r t a c h b i t 2 T t 3 T c o f w w t b f t p t ( T o a ( T f t ( T t c ( I d t b i o t c a t e o a g f t ( M d]
+[DELETED:   2  G h m c u t c f t i a o p o p ( A f ( I t 1 M w K 6 f n r r e h b s 2 P w a f t p k a a r t o s ( T c o c t m i i t c b i t r t c t ( T t ( T c ( I t c h b p w t c t p m p t c]
+[DELETED:   2  G a w a s w b l t b a l p a ( I t p p b a p o t e t t c w n c t b a a o n c a d i K 6 i r t u t ( U f w ( T ( D p]

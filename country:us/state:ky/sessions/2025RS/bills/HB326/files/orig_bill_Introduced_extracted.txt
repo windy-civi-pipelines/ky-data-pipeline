@@ -1,0 +1,187 @@
+Title: 1 AN ACT relating to utility disconnection protections.
+Official Title: 1 AN ACT relating to utility disconnection protections.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS BR 234
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF KRS CHAPTER 278 IS CREATED TO
+4 READ AS FOLLOWS:
+5 (1) For the purposes of this section, "utility" has the same meaning as in KRS
+6 278.010(3)(a) and (b).
+7 (2) A utility shall not disconnect residential service to a residential customer's
+8 residence:
+9 (a) On a day when the National Weather Service forecasts that a temperature
+10 of thirty-two (32) degrees Fahrenheit or lower will occur at any time during
+11 the following seventy-two (72) hour period;
+12 (b) On a day when the National Weather Service forecasts that a temperature
+13 of ninety-five (95) degrees Fahrenheit or greater will occur at any time
+14 during the following seventy-two (72) hour period;
+15 (c) For a period of thirty (30) days following the receipt of a certificate of need
+16 from a physician, physician assistant, community-based service program, or
+17 faith-based service program certifying that disconnection of service would
+18 threaten the health and safety of the customer or the occupants of the
+19 customer's household; or
+20 (d) For nonpayment of a utility bill if the residential customer:
+21 1. Makes a payment of not less than ten percent (10%) of the accrued
+22 balance of the bill or two hundred dollars ($200), whichever is less;
+23 and
+24 2. Enters into a payment plan.
+25 (3) Late fees shall be waived for any service termination that has been suspended due
+26 to a certificate of need issued under subsection (2)(c) of this section.
+27 (4) Except as provided in subsection (2) of this section, disconnection of utility
+Page 1 of 3
+XXXX 2/5/2025 12:24 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 234
+1 service for nonpayment of a utility bill shall:
+2 (a) Occur only between the hours of 8 a.m. and 5 p.m. Monday through
+3 Thursday; and
+4 (b) Not be authorized on weekends, including Fridays, or on a state or a federal
+5 holiday.
+6 This subsection does not apply to disconnections of utility service to protect the
+7 health and safety of the public.
+8 (5) A utility shall give separate final written notice, not less than fourteen (14) days
+9 prior to any proposed disconnection of utility service, to a customer's residential
+10 household. The notice shall:
+11 (a) Be sent separately from the regular billing notice;
+12 (b) Be printed on colored paper or cardstock that makes the notice easily
+13 distinguishable from the utility's regular billing;
+14 (c) Have the words "FINAL NOTICE OF SERVICE TERMINATION"
+15 printed in boldface type using a font size not less than twenty-four (24)
+16 points; and
+17 (d) Include a toll-free number to reach a utility representative who can provide
+18 additional information about the disconnection, including how to:
+19 1. Obtain a certificate of need or a hardship reconnection order;
+20 2. Make a payment or set up a payment plan;
+21 3. File for energy cost assistance from community-based or faith-based
+22 services;
+23 4. Dispute a bill; and
+24 5. Provide any other information that the commission deems necessary.
+25 (6) A hardship reconnection order shall be granted to the customer requiring the
+26 reestablishment of service on the same day as requested on the application for the
+27 order, a waiver of reconnection fees, and preservation of a previous security
+Page 2 of 3
+XXXX 2/5/2025 12:24 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 234
+1 deposit, if the customer:
+2 (a) Had service terminated after the thirty (30) day suspension elapsed as
+3 provided under subsection (2)(c) of this section; and
+4 (b) Paid ten percent (10%) of the accrued balance of the bill or two hundred
+5 dollars ($200), whichever is less, and entered into a payment plan for the
+6 remaining balance.
+7 (7) If a customer who has already been disconnected makes payment of not less than
+8 ten percent (10%) of the accrued balance of the bill or two hundred dollars
+9 ($200), whichever is less, and enters into a payment plan for the remaining
+10 balance, the utility shall make a reasonable effort to restore service on the same
+11 day as payment is made but not more than twenty-four (24) hours after the
+12 customer's payment. Reconnection fees shall be waived for a service termination
+13 made for a customer that has a hardship reconnection order in accordance with
+14 subsection (6) of this section.
+15 (8) The commission shall promulgate administrative regulations in accordance with
+16 KRS Chapter 13A and issue any order the commission deems necessary for
+17 setting forth any applicable rules and procedures regarding disconnection,
+18 certificates of need, hardship reconnection orders, and any other matters
+19 required to implement this section.
+Page 3 of 3
+XXXX 2/5/2025 12:24 PM Jacketed
+[DELETED:   2  J A B S R ( F t p o t s " h t s m a i K 2 ( A u s n d r s t a r c r ( O o t ( O o n ( d F o g w o a a t d ( F f f t t h a s o t c o t o o t c ( F 1 M b a 2 E ( L t ( E a p i s ( o t s d o u]
+[DELETED:   2  J s ( O o b t h o 8 a a 5 p M t T ( N h  T h ( A p h ( B ( B p o c p o c t m t n e d ( H t w " N O S T p i b t u a f s n l t t ( p ( I a 1 O 2 M 3 F s 4 D 5 P ( A h r o s b g t t c r t r o a w o r f a p o a p s]
+[DELETED:   2  J d ( H s t a t t ( d s e a p ( P d r ( I t p ( o t a b o t b o t h d ( w i l a e i a p p f t r b d a p i m b n m t t ( h a t c m s ( T K C 1 a i a o t c d n f s f a a r a p r d c o n h r o a a o m r]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS BR 234
+1 AN ACT relating to utility disconnection protections.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF KRS CHAPTER 278 IS CREATED TO
+4 READ AS FOLLOWS:
+5 (1) For the purposes of this section, "utility" has the same meaning as in KRS
+6 278.010(3)(a) and (b).
+7 (2) A utility shall not disconnect residential service to a residential customer's
+8 residence:
+9 (a) On a day when the National Weather Service forecasts that a temperature
+10 of thirty-two (32) degrees Fahrenheit or lower will occur at any time during
+11 the following seventy-two (72) hour period;
+12 (b) On a day when the National Weather Service forecasts that a temperature
+13 of ninety-five (95) degrees Fahrenheit or greater will occur at any time
+14 during the following seventy-two (72) hour period;
+15 (c) For a period of thirty (30) days following the receipt of a certificate of need
+16 from a physician, physician assistant, community-based service program, or
+17 faith-based service program certifying that disconnection of service would
+18 threaten the health and safety of the customer or the occupants of the
+19 customer's household; or
+20 (d) For nonpayment of a utility bill if the residential customer:
+21 1. Makes a payment of not less than ten percent (10%) of the accrued
+22 balance of the bill or two hundred dollars ($200), whichever is less;
+23 and
+24 2. Enters into a payment plan.
+25 (3) Late fees shall be waived for any service termination that has been suspended due
+26 to a certificate of need issued under subsection (2)(c) of this section.
+27 (4) Except as provided in subsection (2) of this section, disconnection of utility
+Page 1 of 3
+XXXX 2/5/2025 12:24 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 234
+1 service for nonpayment of a utility bill shall:
+2 (a) Occur only between the hours of 8 a.m. and 5 p.m. Monday through
+3 Thursday; and
+4 (b) Not be authorized on weekends, including Fridays, or on a state or a federal
+5 holiday.
+6 This subsection does not apply to disconnections of utility service to protect the
+7 health and safety of the public.
+8 (5) A utility shall give separate final written notice, not less than fourteen (14) days
+9 prior to any proposed disconnection of utility service, to a customer's residential
+10 household. The notice shall:
+11 (a) Be sent separately from the regular billing notice;
+12 (b) Be printed on colored paper or cardstock that makes the notice easily
+13 distinguishable from the utility's regular billing;
+14 (c) Have the words "FINAL NOTICE OF SERVICE TERMINATION"
+15 printed in boldface type using a font size not less than twenty-four (24)
+16 points; and
+17 (d) Include a toll-free number to reach a utility representative who can provide
+18 additional information about the disconnection, including how to:
+19 1. Obtain a certificate of need or a hardship reconnection order;
+20 2. Make a payment or set up a payment plan;
+21 3. File for energy cost assistance from community-based or faith-based
+22 services;
+23 4. Dispute a bill; and
+24 5. Provide any other information that the commission deems necessary.
+25 (6) A hardship reconnection order shall be granted to the customer requiring the
+26 reestablishment of service on the same day as requested on the application for the
+27 order, a waiver of reconnection fees, and preservation of a previous security
+Page 2 of 3
+XXXX 2/5/2025 12:24 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 234
+1 deposit, if the customer:
+2 (a) Had service terminated after the thirty (30) day suspension elapsed as
+3 provided under subsection (2)(c) of this section; and
+4 (b) Paid ten percent (10%) of the accrued balance of the bill or two hundred
+5 dollars ($200), whichever is less, and entered into a payment plan for the
+6 remaining balance.
+7 (7) If a customer who has already been disconnected makes payment of not less than
+8 ten percent (10%) of the accrued balance of the bill or two hundred dollars
+9 ($200), whichever is less, and enters into a payment plan for the remaining
+10 balance, the utility shall make a reasonable effort to restore service on the same
+11 day as payment is made but not more than twenty-four (24) hours after the
+12 customer's payment. Reconnection fees shall be waived for a service termination
+13 made for a customer that has a hardship reconnection order in accordance with
+14 subsection (6) of this section.
+15 (8) The commission shall promulgate administrative regulations in accordance with
+16 KRS Chapter 13A and issue any order the commission deems necessary for
+17 setting forth any applicable rules and procedures regarding disconnection,
+18 certificates of need, hardship reconnection orders, and any other matters
+19 required to implement this section.
+Page 3 of 3
+XXXX 2/5/2025 12:24 PM Jacketed
+
+[DELETED:   2  J A B S R ( F t p o t s " h t s m a i K 2 ( A u s n d r s t a r c r ( O o t ( O o n ( d F o g w o a a t d ( F f f t t h a s o t c o t o o t c ( F 1 M b a 2 E ( L t ( E a p i s ( o t s d o u]
+[DELETED:   2  J s ( O o b t h o 8 a a 5 p M t T ( N h  T h ( A p h ( B ( B p o c p o c t m t n e d ( H t w " N O S T p i b t u a f s n l t t ( p ( I a 1 O 2 M 3 F s 4 D 5 P ( A h r o s b g t t c r t r o a w o r f a p o a p s]
+[DELETED:   2  J d ( H s t a t t ( d s e a p ( P d r ( I t p ( o t a b o t b o t h d ( w i l a e i a p p f t r b d a p i m b n m t t ( h a t c m s ( T K C 1 a i a o t c d n f s f a a r a p r d c o n h r o a a o m r]

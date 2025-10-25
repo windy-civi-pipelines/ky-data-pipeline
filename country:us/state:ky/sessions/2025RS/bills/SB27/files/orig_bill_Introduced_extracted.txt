@@ -1,0 +1,476 @@
+Title: 1 AN ACT relating to Parkinson's disease.
+Official Title: 1 AN ACT relating to Parkinson's disease.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS BR 288
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF KRS CHAPTER 214 IS CREATED TO
+4 READ AS FOLLOWS:
+5 (1) As used in this section:
+6 (a) "Advisory committee" means the Kentucky Parkinson's Disease Research
+7 Registry Advisory Committee established under subsection (3) of this
+8 section;
+9 (b) "Cabinet" means the Cabinet for Health and Family Services;
+10 (c) "Health facility" has the same meaning as in KRS 216B.015;
+11 (d) "Licensed health care provider" means a physician, osteopath, or physician
+12 assistant licensed under KRS Chapter 311 or advanced practice registered
+13 nurse licensed under KRS Chapter 314;
+14 (e) "Parkinson's disease" means a chronic and progressive neurologic disorder
+15 resulting from a deficiency of the neurotransmitter dopamine as a
+16 consequence of specific degenerative changes in the area of the brain called
+17 the basal ganglia characterized by tremor at rest, slow movements, muscle
+18 rigidity, stooped posture, and unsteady or shuffling gait;
+19 (f) "Parkinsonisms":
+20 1. Means Parkinson's disease-related conditions that cause a
+21 combination of movement abnormalities such as tremor at rest, slow
+22 movement, muscle rigidity, impaired speech, and muscle stiffness,
+23 which often overlap with and can evolve from what appears to be
+24 Parkinson's disease; and
+25 2. Includes multiple system atrophy, dementia with Lewy bodies,
+26 corticobasal degeneration, and progressive supranuclear palsy;
+27 (g) "Registry" means the Kentucky Parkinson's Disease Research Registry
+Page 1 of 8
+XXXX 10/24/2024 12:45 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 288
+1 established in subsection (2) of this section; and
+2 (h) "Secretary" means the secretary of the cabinet.
+3 (2) The Kentucky Parkinson's Disease Research Registry is hereby established within
+4 the cabinet under the direction of the secretary, who may enter into contracts,
+5 grants, or other agreements as necessary to administer the registry in accordance
+6 with this section.
+7 (3) (a) The secretary shall establish the Kentucky Parkinson's Disease Research
+8 Registry Advisory Committee to assist in the development and
+9 implementation of the registry, determine what data will be collected, and
+10 advise the cabinet.
+11 (b) The advisory committee shall be appointed by the secretary and include at
+12 least one (1):
+13 1. Neurologist;
+14 2. Movement disorder specialist;
+15 3. Primary care provider;
+16 4. Physician informaticist;
+17 5. Patient living with Parkinson's disease;
+18 6. Public health professional;
+19 7. Population health researcher familiar with health data registries; and
+20 8. Parkinson's disease researcher.
+21 The secretary may appoint additional members to the advisory committee as
+22 he or she deems necessary.
+23 (4) The cabinet shall:
+24 (a) Promulgate administrative regulations in consultation with the advisory
+25 committee and in accordance with KRS Chapter 13A to:
+26 1. Designate Parkinson's disease and identified Parkinsonisms as
+27 diseases that are required to be reported to the cabinet;
+Page 2 of 8
+XXXX 10/24/2024 12:45 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 288
+1 2. Establish a system of collection and dissemination of information on
+2 the incidence and prevalence of Parkinson's disease and
+3 Parkinsonisms in Kentucky and related epidemiological data;
+4 3. Identify specific data points to be collected based on the following four
+5 (4) core categories of data:
+6 a. Patient demographics;
+7 b. Geography;
+8 c. Diagnosis; and
+9 d. Sufficient information to allow for deduplication of patient
+10 records in the registry;
+11 4. Periodically review and revise data points to be collected to ensure
+12 data and data collection procedures adapt to new knowledge and
+13 technology;
+14 5. Establish a coding system that removes a patient's name, address,
+15 Social Security number, fingerprints, photograph, and any other
+16 information by which the identity of a patient can be determined with
+17 reasonable accuracy; and
+18 6. Develop guidelines and procedures for reviewing and approving
+19 requests to use registry data for valid scientific research;
+20 (b) Receive and collect data for the registry on the incidence and prevalence of
+21 Parkinson's disease and Parkinsonisms in Kentucky and related
+22 epidemiological data, and may enter into data-sharing contracts with data-
+23 reporting entities and their associated medical record system vendors to
+24 securely and confidentially receive information related to Parkinson's
+25 disease testing, diagnosis, and treatment; and
+26 (c) Be responsible for any costs incurred in administering the registry and
+27 implementing this section.
+Page 3 of 8
+XXXX 10/24/2024 12:45 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 288
+1 (5) (a) Beginning January 1, 2026, each health facility that treats a patient with
+2 Parkinson's disease and each licensed health care provider who treats or
+3 diagnoses Parkinson's disease or Parkinsonisms for a patient not otherwise
+4 reported shall submit a Parkinson's disease report to the cabinet in a format
+5 required or approved by the cabinet.
+6 (b) 1. Health facilities and licensed health care providers shall provide each
+7 patient diagnosed with Parkinson's disease or Parkinsonisms with a
+8 notice regarding the reporting and collection of information and
+9 patient data on Parkinson's disease.
+10 2. A patient who does not wish to participate in the collection of data for
+11 the purposes of research in the registry may affirmatively opt out in
+12 writing after an opportunity to review the documents and ask
+13 questions.
+14 3. If a patient has chosen not to participate and has opted out under
+15 subparagraph 2. of this paragraph, the health facility and the licensed
+16 health care provider shall only report that a Parkinson's disease case
+17 exists and no further data shall be reported to the cabinet for the
+18 purposes of the registry.
+19 (c) To ensure compliance with the reporting and notification requirements of
+20 this subsection, the secretary or his or her agent may, upon reasonable
+21 notice, inspect a representative sample of the medical records of patients
+22 admitted, diagnosed, or treated for Parkinson's disease or Parkinsonisms at
+23 a health facility.
+24 (d) A health facility or licensed health care provider who in good faith submits
+25 a report in accordance with paragraph (a) of this subsection is not liable in
+26 any cause of action arising from the submission of the report.
+27 (6) The cabinet shall make data from the registry, with or without identifiers,
+Page 4 of 8
+XXXX 10/24/2024 12:45 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 288
+1 available to researchers that have the approval of an institutional review board in
+2 accordance with requirements of the Federal Policy for the Protection of Human
+3 Subjects, 45 C.F.R. pt. 46, and, as applicable, 21 C.F.R. pt. 56, 45 C.F.R. pt. 164,
+4 KRS 216.2920 to 216.2929, 900 KAR 7:030 and 7:040, and any other relevant
+5 federal or state requirements.
+6 (7) (a) The cabinet may enter into agreements to furnish data collected in the
+7 registry to other states' Parkinson's disease registries, federal Parkinson's
+8 disease control agencies, local health officers, or health researchers not
+9 described in subsection (6) of this section for the study of Parkinson's
+10 disease.
+11 (b) Before confidential information is disclosed pursuant to paragraph (a) of
+12 this subsection, the out-of-state registry, agency, officer, or researcher shall
+13 agree in writing to maintain the confidentiality of the information. A
+14 researcher shall also:
+15 1. Obtain approval of the researcher's respective committee for the
+16 protection of human subjects under 45 C.F.R. pt. 46; and
+17 2. Provide documentation to the cabinet that demonstrates to the
+18 cabinet's satisfaction that the researcher has established the
+19 procedures and ability to maintain the confidentiality of the
+20 information.
+21 (8) (a) Except as specifically provided in this section, all information collected
+22 pursuant to this section shall be confidential.
+23 (b) Notwithstanding any other provision of law, a disclosure authorized by this
+24 section shall include only the information necessary for the stated purpose
+25 of the requested disclosure, used for the approved purpose, and not be
+26 further disclosed.
+27 (c) Provided the security of confidentiality has been documented, the
+Page 5 of 8
+XXXX 10/24/2024 12:45 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 288
+1 furnishing of confidential information to the cabinet or its authorized
+2 representative in accordance with this section shall not expose any person,
+3 agency, or entity furnishing information to liability, and shall not be
+4 considered a waiver of any privilege or a violation of a confidential
+5 relationship.
+6 (d) The cabinet shall maintain an accurate record of all persons who are given
+7 access to information collected by the cabinet pursuant to this section,
+8 which shall include:
+9 1. The name of the person authorizing access;
+10 2. Name, title, address, and organizational affiliation of persons given
+11 access;
+12 3. Dates of access; and
+13 4. The specific purpose for which accessed information is to be used.
+14 The record of access shall be open to public inspection during normal
+15 operating hours of the cabinet.
+16 (e) Notwithstanding any other provision of law, information collected by the
+17 cabinet pursuant to this section shall not be:
+18 1. Available for subpoena or disclosed, discoverable, or compelled to be
+19 produced in any civil, criminal, administrative, or other proceeding; or
+20 2. Deemed admissible as evidence in any civil, criminal, administrative,
+21 or other proceeding for any reason.
+22 (9) This section does not:
+23 (a) Prohibit the publication by the cabinet of reports and statistical
+24 compilations that do not in any way identify individual patients, cases, or
+25 sources of information;
+26 (b) Restrict in any way a patient's access to his or her own information; or
+27 (c) Prohibit health facilities or licensed health care providers from maintaining
+Page 6 of 8
+XXXX 10/24/2024 12:45 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 288
+1 their own facility-based Parkinson's disease registries.
+2 (10) (a) Nothing in this section shall be deemed to compel any individual to submit
+3 to any medical examination or supervision by the cabinet, any of its
+4 authorized representatives, or an approved researcher.
+5 (b) A person who seeks information or obtains registry data pursuant to this
+6 section shall not contact a patient on the registry or the patient's family
+7 unless the cabinet has first obtained permission for the contact from the
+8 patient or the patient's family.
+9 (11) The cabinet shall provide notice of the mandatory reporting of Parkinson's
+10 disease and Parkinsonisms required under this section on its website and to
+11 professional associations representing health facilities and licensed health care
+12 providers.
+13 (12) (a) By October 1, 2026, and October 1 of each year thereafter, the cabinet shall
+14 submit to the Legislative Research Commission for referral to the Interim
+15 Joint Committee on Health Services a yearly program summary update that
+16 includes:
+17 1. The incidence and prevalence of Parkinson's disease and
+18 Parkinsonisms in the state by county;
+19 2. The number of records that have been reported to the cabinet and
+20 included in the registry; and
+21 3. Demographic information, including but not limited to patients' age,
+22 gender, and race.
+23 (b) In consultation with the advisory committee, the cabinet may include
+24 recommendations on necessary changes to the registry in the yearly
+25 program summary update.
+26 (c) The cabinet shall publish the yearly program summary update in a
+27 downloadable format on the website created under subsection (13) of this
+Page 7 of 8
+XXXX 10/24/2024 12:45 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 288
+1 section.
+2 (13) By October 1, 2026, the cabinet shall create, and update annually thereafter, the
+3 Kentucky Parkinson's Disease Research Registry website where the public can
+4 find information related to the Parkinson's disease and the registry, the yearly
+5 program summary update, and any other information deemed relevant by the
+6 advisory committee.
+Page 8 of 8
+XXXX 10/24/2024 12:45 PM Jacketed
+[DELETED:   2  J A B S R ( A ( " R A C e u s ( o t s ( " ( " ( " a n ( " r f a d o t n d a a c t r ( " 1 M P d c t c a c m m r i s a m s w o o w a c e f w a t b P 2 I m s a d w L b c ( " m t K P D R R]
+[DELETED:   2  J e ( " ( T t w g w ( ( T s s e t K P D R R A C t a i t d a i a ( T l 1 N 2 M 3 P 4 P 5 P 6 P 7 P 8 P  T h ( T ( P a r i c w t a c 1 D P d a i P a d]
+[DELETED:   2  J 2 E t i a p o P d a P 3 I ( a P b G c D d S i t a f d o p r 4 P r a r d p t b c t e d a d c p a t n k a t 5 E a c s t r a p n a S S n f p a a o i r 6 D g a p f r a a r ( R P d a P i K a r e r e a t a m r s v t s a c r i r t P d ( B r f a c i i a t r a i]
+[DELETED:   2  J ( ( B P d r r ( 1 H p n r t r a c o i a p 2 A t w a a o t r t d a a q 3 I a p h c n t p a h o o u s h e a n f d s b r t t c f t p ( T t s t s o h o h a m u r n i a r s o m r o a a ( A a a ( T c s m d f t r w o w i]
+[DELETED:   2  J a a S K f ( ( T c m e i a t f d c i t r d c a l h o o h r n d i s ( o t s f t s o P d ( B t a i w t m t c o t i A r 1 O a o t r r c f t p 2 P d t t c t d t t c s t t r h e t p a a t m t c o t i ( ( E a s p i t s a i c p ( N s o t r d u f t a p a n b f ( P t s o c h b d t]
+[DELETED:   2  J f o c i t t c o i a r a o e f i t l a s n b c a w o a p o a v o a c r ( T a t i c b t c p t t s w 1 T 2 N t a a o a o p g a 3 D 4 T  T r o a s b o t p i d n o ( N a o p o i c b t c 1 A p 2 D o ( T ( P t p b t c o r a s c s ( R ( P]
+[DELETED:   2  J t ( ( N t a m e o s b t c a o i a ( A s s n c a p o t r o t p f u t c o p f t c f p ( T c s p n o t m r o P d a P r u t s o i w a t p p ( ( B s J i 1 T i a p o P d a P 2 T n o r t h b r t t c a i 3 D g ( I c w t a c t c m i r o n c t t r i t y p ( T c s p t y p s u i a d]
+[DELETED:   2  J s ( B K f p s u a a o i d r b t a]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS BR 288
+1 AN ACT relating to Parkinson's disease.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF KRS CHAPTER 214 IS CREATED TO
+4 READ AS FOLLOWS:
+5 (1) As used in this section:
+6 (a) "Advisory committee" means the Kentucky Parkinson's Disease Research
+7 Registry Advisory Committee established under subsection (3) of this
+8 section;
+9 (b) "Cabinet" means the Cabinet for Health and Family Services;
+10 (c) "Health facility" has the same meaning as in KRS 216B.015;
+11 (d) "Licensed health care provider" means a physician, osteopath, or physician
+12 assistant licensed under KRS Chapter 311 or advanced practice registered
+13 nurse licensed under KRS Chapter 314;
+14 (e) "Parkinson's disease" means a chronic and progressive neurologic disorder
+15 resulting from a deficiency of the neurotransmitter dopamine as a
+16 consequence of specific degenerative changes in the area of the brain called
+17 the basal ganglia characterized by tremor at rest, slow movements, muscle
+18 rigidity, stooped posture, and unsteady or shuffling gait;
+19 (f) "Parkinsonisms":
+20 1. Means Parkinson's disease-related conditions that cause a
+21 combination of movement abnormalities such as tremor at rest, slow
+22 movement, muscle rigidity, impaired speech, and muscle stiffness,
+23 which often overlap with and can evolve from what appears to be
+24 Parkinson's disease; and
+25 2. Includes multiple system atrophy, dementia with Lewy bodies,
+26 corticobasal degeneration, and progressive supranuclear palsy;
+27 (g) "Registry" means the Kentucky Parkinson's Disease Research Registry
+Page 1 of 8
+XXXX 10/24/2024 12:45 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 288
+1 established in subsection (2) of this section; and
+2 (h) "Secretary" means the secretary of the cabinet.
+3 (2) The Kentucky Parkinson's Disease Research Registry is hereby established within
+4 the cabinet under the direction of the secretary, who may enter into contracts,
+5 grants, or other agreements as necessary to administer the registry in accordance
+6 with this section.
+7 (3) (a) The secretary shall establish the Kentucky Parkinson's Disease Research
+8 Registry Advisory Committee to assist in the development and
+9 implementation of the registry, determine what data will be collected, and
+10 advise the cabinet.
+11 (b) The advisory committee shall be appointed by the secretary and include at
+12 least one (1):
+13 1. Neurologist;
+14 2. Movement disorder specialist;
+15 3. Primary care provider;
+16 4. Physician informaticist;
+17 5. Patient living with Parkinson's disease;
+18 6. Public health professional;
+19 7. Population health researcher familiar with health data registries; and
+20 8. Parkinson's disease researcher.
+21 The secretary may appoint additional members to the advisory committee as
+22 he or she deems necessary.
+23 (4) The cabinet shall:
+24 (a) Promulgate administrative regulations in consultation with the advisory
+25 committee and in accordance with KRS Chapter 13A to:
+26 1. Designate Parkinson's disease and identified Parkinsonisms as
+27 diseases that are required to be reported to the cabinet;
+Page 2 of 8
+XXXX 10/24/2024 12:45 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 288
+1 2. Establish a system of collection and dissemination of information on
+2 the incidence and prevalence of Parkinson's disease and
+3 Parkinsonisms in Kentucky and related epidemiological data;
+4 3. Identify specific data points to be collected based on the following four
+5 (4) core categories of data:
+6 a. Patient demographics;
+7 b. Geography;
+8 c. Diagnosis; and
+9 d. Sufficient information to allow for deduplication of patient
+10 records in the registry;
+11 4. Periodically review and revise data points to be collected to ensure
+12 data and data collection procedures adapt to new knowledge and
+13 technology;
+14 5. Establish a coding system that removes a patient's name, address,
+15 Social Security number, fingerprints, photograph, and any other
+16 information by which the identity of a patient can be determined with
+17 reasonable accuracy; and
+18 6. Develop guidelines and procedures for reviewing and approving
+19 requests to use registry data for valid scientific research;
+20 (b) Receive and collect data for the registry on the incidence and prevalence of
+21 Parkinson's disease and Parkinsonisms in Kentucky and related
+22 epidemiological data, and may enter into data-sharing contracts with data-
+23 reporting entities and their associated medical record system vendors to
+24 securely and confidentially receive information related to Parkinson's
+25 disease testing, diagnosis, and treatment; and
+26 (c) Be responsible for any costs incurred in administering the registry and
+27 implementing this section.
+Page 3 of 8
+XXXX 10/24/2024 12:45 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 288
+1 (5) (a) Beginning January 1, 2026, each health facility that treats a patient with
+2 Parkinson's disease and each licensed health care provider who treats or
+3 diagnoses Parkinson's disease or Parkinsonisms for a patient not otherwise
+4 reported shall submit a Parkinson's disease report to the cabinet in a format
+5 required or approved by the cabinet.
+6 (b) 1. Health facilities and licensed health care providers shall provide each
+7 patient diagnosed with Parkinson's disease or Parkinsonisms with a
+8 notice regarding the reporting and collection of information and
+9 patient data on Parkinson's disease.
+10 2. A patient who does not wish to participate in the collection of data for
+11 the purposes of research in the registry may affirmatively opt out in
+12 writing after an opportunity to review the documents and ask
+13 questions.
+14 3. If a patient has chosen not to participate and has opted out under
+15 subparagraph 2. of this paragraph, the health facility and the licensed
+16 health care provider shall only report that a Parkinson's disease case
+17 exists and no further data shall be reported to the cabinet for the
+18 purposes of the registry.
+19 (c) To ensure compliance with the reporting and notification requirements of
+20 this subsection, the secretary or his or her agent may, upon reasonable
+21 notice, inspect a representative sample of the medical records of patients
+22 admitted, diagnosed, or treated for Parkinson's disease or Parkinsonisms at
+23 a health facility.
+24 (d) A health facility or licensed health care provider who in good faith submits
+25 a report in accordance with paragraph (a) of this subsection is not liable in
+26 any cause of action arising from the submission of the report.
+27 (6) The cabinet shall make data from the registry, with or without identifiers,
+Page 4 of 8
+XXXX 10/24/2024 12:45 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 288
+1 available to researchers that have the approval of an institutional review board in
+2 accordance with requirements of the Federal Policy for the Protection of Human
+3 Subjects, 45 C.F.R. pt. 46, and, as applicable, 21 C.F.R. pt. 56, 45 C.F.R. pt. 164,
+4 KRS 216.2920 to 216.2929, 900 KAR 7:030 and 7:040, and any other relevant
+5 federal or state requirements.
+6 (7) (a) The cabinet may enter into agreements to furnish data collected in the
+7 registry to other states' Parkinson's disease registries, federal Parkinson's
+8 disease control agencies, local health officers, or health researchers not
+9 described in subsection (6) of this section for the study of Parkinson's
+10 disease.
+11 (b) Before confidential information is disclosed pursuant to paragraph (a) of
+12 this subsection, the out-of-state registry, agency, officer, or researcher shall
+13 agree in writing to maintain the confidentiality of the information. A
+14 researcher shall also:
+15 1. Obtain approval of the researcher's respective committee for the
+16 protection of human subjects under 45 C.F.R. pt. 46; and
+17 2. Provide documentation to the cabinet that demonstrates to the
+18 cabinet's satisfaction that the researcher has established the
+19 procedures and ability to maintain the confidentiality of the
+20 information.
+21 (8) (a) Except as specifically provided in this section, all information collected
+22 pursuant to this section shall be confidential.
+23 (b) Notwithstanding any other provision of law, a disclosure authorized by this
+24 section shall include only the information necessary for the stated purpose
+25 of the requested disclosure, used for the approved purpose, and not be
+26 further disclosed.
+27 (c) Provided the security of confidentiality has been documented, the
+Page 5 of 8
+XXXX 10/24/2024 12:45 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 288
+1 furnishing of confidential information to the cabinet or its authorized
+2 representative in accordance with this section shall not expose any person,
+3 agency, or entity furnishing information to liability, and shall not be
+4 considered a waiver of any privilege or a violation of a confidential
+5 relationship.
+6 (d) The cabinet shall maintain an accurate record of all persons who are given
+7 access to information collected by the cabinet pursuant to this section,
+8 which shall include:
+9 1. The name of the person authorizing access;
+10 2. Name, title, address, and organizational affiliation of persons given
+11 access;
+12 3. Dates of access; and
+13 4. The specific purpose for which accessed information is to be used.
+14 The record of access shall be open to public inspection during normal
+15 operating hours of the cabinet.
+16 (e) Notwithstanding any other provision of law, information collected by the
+17 cabinet pursuant to this section shall not be:
+18 1. Available for subpoena or disclosed, discoverable, or compelled to be
+19 produced in any civil, criminal, administrative, or other proceeding; or
+20 2. Deemed admissible as evidence in any civil, criminal, administrative,
+21 or other proceeding for any reason.
+22 (9) This section does not:
+23 (a) Prohibit the publication by the cabinet of reports and statistical
+24 compilations that do not in any way identify individual patients, cases, or
+25 sources of information;
+26 (b) Restrict in any way a patient's access to his or her own information; or
+27 (c) Prohibit health facilities or licensed health care providers from maintaining
+Page 6 of 8
+XXXX 10/24/2024 12:45 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 288
+1 their own facility-based Parkinson's disease registries.
+2 (10) (a) Nothing in this section shall be deemed to compel any individual to submit
+3 to any medical examination or supervision by the cabinet, any of its
+4 authorized representatives, or an approved researcher.
+5 (b) A person who seeks information or obtains registry data pursuant to this
+6 section shall not contact a patient on the registry or the patient's family
+7 unless the cabinet has first obtained permission for the contact from the
+8 patient or the patient's family.
+9 (11) The cabinet shall provide notice of the mandatory reporting of Parkinson's
+10 disease and Parkinsonisms required under this section on its website and to
+11 professional associations representing health facilities and licensed health care
+12 providers.
+13 (12) (a) By October 1, 2026, and October 1 of each year thereafter, the cabinet shall
+14 submit to the Legislative Research Commission for referral to the Interim
+15 Joint Committee on Health Services a yearly program summary update that
+16 includes:
+17 1. The incidence and prevalence of Parkinson's disease and
+18 Parkinsonisms in the state by county;
+19 2. The number of records that have been reported to the cabinet and
+20 included in the registry; and
+21 3. Demographic information, including but not limited to patients' age,
+22 gender, and race.
+23 (b) In consultation with the advisory committee, the cabinet may include
+24 recommendations on necessary changes to the registry in the yearly
+25 program summary update.
+26 (c) The cabinet shall publish the yearly program summary update in a
+27 downloadable format on the website created under subsection (13) of this
+Page 7 of 8
+XXXX 10/24/2024 12:45 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 288
+1 section.
+2 (13) By October 1, 2026, the cabinet shall create, and update annually thereafter, the
+3 Kentucky Parkinson's Disease Research Registry website where the public can
+4 find information related to the Parkinson's disease and the registry, the yearly
+5 program summary update, and any other information deemed relevant by the
+6 advisory committee.
+Page 8 of 8
+XXXX 10/24/2024 12:45 PM Jacketed
+
+[DELETED:   2  J A B S R ( A ( " R A C e u s ( o t s ( " ( " ( " a n ( " r f a d o t n d a a c t r ( " 1 M P d c t c a c m m r i s a m s w o o w a c e f w a t b P 2 I m s a d w L b c ( " m t K P D R R]
+[DELETED:   2  J e ( " ( T t w g w ( ( T s s e t K P D R R A C t a i t d a i a ( T l 1 N 2 M 3 P 4 P 5 P 6 P 7 P 8 P  T h ( T ( P a r i c w t a c 1 D P d a i P a d]
+[DELETED:   2  J 2 E t i a p o P d a P 3 I ( a P b G c D d S i t a f d o p r 4 P r a r d p t b c t e d a d c p a t n k a t 5 E a c s t r a p n a S S n f p a a o i r 6 D g a p f r a a r ( R P d a P i K a r e r e a t a m r s v t s a c r i r t P d ( B r f a c i i a t r a i]
+[DELETED:   2  J ( ( B P d r r ( 1 H p n r t r a c o i a p 2 A t w a a o t r t d a a q 3 I a p h c n t p a h o o u s h e a n f d s b r t t c f t p ( T t s t s o h o h a m u r n i a r s o m r o a a ( A a a ( T c s m d f t r w o w i]
+[DELETED:   2  J a a S K f ( ( T c m e i a t f d c i t r d c a l h o o h r n d i s ( o t s f t s o P d ( B t a i w t m t c o t i A r 1 O a o t r r c f t p 2 P d t t c t d t t c s t t r h e t p a a t m t c o t i ( ( E a s p i t s a i c p ( N s o t r d u f t a p a n b f ( P t s o c h b d t]
+[DELETED:   2  J f o c i t t c o i a r a o e f i t l a s n b c a w o a p o a v o a c r ( T a t i c b t c p t t s w 1 T 2 N t a a o a o p g a 3 D 4 T  T r o a s b o t p i d n o ( N a o p o i c b t c 1 A p 2 D o ( T ( P t p b t c o r a s c s ( R ( P]
+[DELETED:   2  J t ( ( N t a m e o s b t c a o i a ( A s s n c a p o t r o t p f u t c o p f t c f p ( T c s p n o t m r o P d a P r u t s o i w a t p p ( ( B s J i 1 T i a p o P d a P 2 T n o r t h b r t t c a i 3 D g ( I c w t a c t c m i r o n c t t r i t y p ( T c s p t y p s u i a d]
+[DELETED:   2  J s ( B K f p s u a a o i d r b t a]

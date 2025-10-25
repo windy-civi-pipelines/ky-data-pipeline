@@ -1,0 +1,260 @@
+Title: 1 AN ACT relating to commercial driver's licenses.
+Official Title: 1 AN ACT relating to commercial driver's licenses.
+Number of Sections: 1
+Source: versions - Current/Final
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS HB 444/GA
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 281A.170 is amended to read as follows:
+4 (1) The commercial driver's license shall be marked "commercial driver's license" and
+5 "CDL" and shall be, to the maximum extent practicable, tamper proof. It shall
+6 include but is not limited to the following information:
+7 (a) The name and present resident address of the licensee;
+8 (b) The licensee's photograph;
+9 (c) A physical description of the licensee including sex, height, weight, and eye
+10 color;
+11 (d) The licensee's date of birth;
+12 (e) The licensee's signature;
+13 (f) The class or type of commercial motor vehicle or vehicles that the person is
+14 authorized to drive together with any endorsements or restrictions;
+15 (g) The name of this state;
+16 (h) The dates between which the license is valid; and
+17 (i) Any other information required by the cabinet, except for a person's Social
+18 Security number.
+19 (2) A commercial driver's license issued under this chapter shall contain a denotation
+20 that either:
+21 (a) The commercial driver's license is a voluntary travel ID identity document
+22 that complies with the security standards set forth by Pub. L. No. 109-13,
+23 Title II, and may be used for identification for federal purposes; or
+24 (b) The commercial driver's license shall not be used for federal identification
+25 purposes.
+26 (3) A commercial driver's license shall be issued with classifications, endorsements,
+27 and restrictions. Vehicles that require an endorsement shall not be driven unless the
+Page 1 of 4
+HB044410.100 - 1547 - XXXX 2/27/2025 2:33 PM GA
+UNOFFICIAL COPY 25 RS HB 444/GA
+1 proper endorsement appears on the license and the applicant has passed the
+2 knowledge and skills test required by the State Police.
+3 (a) Classifications:
+4 1. Class A - Any combination of vehicles with a gross vehicle weight
+5 rating of twenty-six thousand and one (26,001) pounds or more, if the
+6 gross vehicle weight rating of the vehicle being towed is in excess of ten
+7 thousand (10,000) pounds. Licensees with an "A" classification may
+8 with the proper endorsement drive Class B and C vehicles;
+9 2. Class B - Any single vehicle with a gross vehicle weight rating of
+10 twenty-six thousand and one (26,001) pounds or more, and any vehicle
+11 towing a vehicle not in excess of ten thousand (10,000) pounds gross
+12 vehicle weight rating. Licensees with a "B" classification may with the
+13 proper endorsements drive Class C vehicles;
+14 3. Class C - Any single vehicle with a gross vehicle weight rating of less
+15 than twenty-six thousand and one (26,001) pounds or any vehicle
+16 towing a vehicle with a gross vehicle weight rating not in excess of ten
+17 thousand (10,000) pounds which includes:
+18 a. Vehicles designed to transport sixteen (16) or more passengers,
+19 including the driver; or
+20 b. Vehicles used in the transportation of hazardous materials which
+21 requires the vehicle to be placarded under 49 C.F.R. secs. 172.500
+22 to 172.560, as adopted by administrative regulations of the
+23 cabinet, pursuant to KRS Chapter 13A;
+24 4. Class D - All other vehicles not listed in any other class, including
+25 mopeds; and
+26 5. Class M - Motorcycles. Licensees with a "M" classification may also
+27 drive mopeds.
+Page 2 of 4
+HB044410.100 - 1547 - XXXX 2/27/2025 2:33 PM GA
+UNOFFICIAL COPY 25 RS HB 444/GA
+1 (b) Endorsements:
+2 1. "H" - Authorizes the driver to operate a vehicle transporting hazardous
+3 materials;
+4 2. "T" - Authorizes operation of double trailers and triple trailers in those
+5 jurisdictions allowing the operation of triple trailers;
+6 3. "P" - Authorizes operation of vehicles carrying passengers;
+7 4. "N" - Authorizes operation of tank vehicles;
+8 5. "X" - Authorizes operation of combination of hazardous materials and
+9 tank vehicle endorsements;
+10 6. "R" - Authorizes operation of all other endorsements not otherwise
+11 specified; and
+12 7. "S" - Authorizes operation of school buses.
+13 (c) The Transportation Cabinet shall promulgate administrative regulations in
+14 accordance with KRS Chapter 13A to outline restrictions on the operation of
+15 commercial vehicles and the associated codes to identify such restrictions,
+16 which shall appear on the face of the commercial driver's license.
+17 (4) Within ten (10) days after issuing a commercial driver's license, the cabinet shall
+18 notify the commercial driver's license information system of that fact, providing all
+19 information required to ensure identification of the person.
+20 (5) A commercial driver's license issued to a resident pursuant to this chapter shall
+21 expire in eight (8) years unless the license was issued to a resident under the age of
+22 twenty-one (21).
+23 (6) A person under the age of twenty-one (21):
+24 (a) Shall not be:
+25 1. Licensed to operate a Class A, B, or C vehicle unless he or she has a "K"
+26 restriction; or
+27 2. Allowed to operate a school bus; and
+Page 3 of 4
+HB044410.100 - 1547 - XXXX 2/27/2025 2:33 PM GA
+UNOFFICIAL COPY 25 RS HB 444/GA
+1 (b) Who holds a valid CDL may be issued a hazardous materials endorsement
+2 to transport hazardous materials in intrastate commerce.
+3 (7) A commercial driver with a "K" restriction shall not drive a commercial motor
+4 vehicle in interstate commerce, unless he or she is exempt pursuant to 49 C.F.R.
+5 sec. 391.2[. A commercial driver under the age of twenty-one (21) shall not be
+6 allowed to operate a school bus or a vehicle transporting hazardous material in
+7 intrastate commerce].
+8 (8)[(7)] The holder of a commercial driver's license shall be considered to hold a valid
+9 Kentucky driver's license issued under the provisions of KRS 186.4102 and
+10 186.412.
+11 Section 2. KRS 281A.185 is amended to read as follows:
+12 (1) The Commonwealth shall not mask, defer imposition of judgment, or allow an
+13 individual to enter into a diversion program that would prevent a CLP or CDL
+14 holder's conviction for any violation, in any type of motor vehicle, of a state or local
+15 traffic control law from appearing on the CDLIS driver record, whether the driver's
+16 conviction was[driver was convicted] for an offense committed in the
+17 Commonwealth or another state.
+18 (2) This section shall not apply to the following violations:
+19 (a) Parking;
+20 (b) Vehicle weight; or
+21 (c) Vehicle defect.
+22 (3) When any actions under subsection (1) of this section occur, the conviction must
+23 be reported from the court to the licensing agency to be recorded on the driver's
+24 record and trigger any appropriate disqualifying action.
+Page 4 of 4
+HB044410.100 - 1547 - XXXX 2/27/2025 2:33 PM GA
+[DELETED:   2  G A B S ( T " a s b t t m e p t p I s i ( T ( T ( A c ( T ( T ( T a ( T ( T ( A S ( A t ( T c d l i a v I i d t c w t s s s f b P L N 1 T ( T c d l s n b u f f i p ( A c d l s b i w c e a]
+[DELETED:   2  G p e a o t l a t a h p t k ( C 1 C A - A c o v w a g v w r g t ( p L w a " c m w 2 C B - A s v w a g v w r o t t v p 3 C t t t a o ( p o a v t t a V d t t s ( o m p i b V r t 1 a a b a r o t c 4 C D - A o v n l i a o c i m 5 C d]
+[DELETED:   2  G ( E 1 " m 2 " j 3 " 4 " 5 " t 6 " - A o o a o e n o s 7 " ( T T C s p a r i a c v a t a c t i s r w ( W n i ( A c d l i t a r p t t c s e t ( A ( S 1 L r 2 A]
+[DELETED:   2  G ( W t ( A c d w a " r s n d a c m v s 3 A c d u t a o t ( s n b a t o a s b o a v t h m i i ( T K d l i u t p o K 1 a 1 S ( T C s n m d i o j o a a i t e i a d p t w p a C o C h t c w w c f a o c i t C ( T ( P ( V ( V ( W b r]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS HB 444/GA
+1 AN ACT relating to commercial driver's licenses.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 281A.170 is amended to read as follows:
+4 (1) The commercial driver's license shall be marked "commercial driver's license" and
+5 "CDL" and shall be, to the maximum extent practicable, tamper proof. It shall
+6 include but is not limited to the following information:
+7 (a) The name and present resident address of the licensee;
+8 (b) The licensee's photograph;
+9 (c) A physical description of the licensee including sex, height, weight, and eye
+10 color;
+11 (d) The licensee's date of birth;
+12 (e) The licensee's signature;
+13 (f) The class or type of commercial motor vehicle or vehicles that the person is
+14 authorized to drive together with any endorsements or restrictions;
+15 (g) The name of this state;
+16 (h) The dates between which the license is valid; and
+17 (i) Any other information required by the cabinet, except for a person's Social
+18 Security number.
+19 (2) A commercial driver's license issued under this chapter shall contain a denotation
+20 that either:
+21 (a) The commercial driver's license is a voluntary travel ID identity document
+22 that complies with the security standards set forth by Pub. L. No. 109-13,
+23 Title II, and may be used for identification for federal purposes; or
+24 (b) The commercial driver's license shall not be used for federal identification
+25 purposes.
+26 (3) A commercial driver's license shall be issued with classifications, endorsements,
+27 and restrictions. Vehicles that require an endorsement shall not be driven unless the
+Page 1 of 4
+HB044410.100 - 1547 - XXXX 2/27/2025 2:33 PM GA
+
+UNOFFICIAL COPY 25 RS HB 444/GA
+1 proper endorsement appears on the license and the applicant has passed the
+2 knowledge and skills test required by the State Police.
+3 (a) Classifications:
+4 1. Class A - Any combination of vehicles with a gross vehicle weight
+5 rating of twenty-six thousand and one (26,001) pounds or more, if the
+6 gross vehicle weight rating of the vehicle being towed is in excess of ten
+7 thousand (10,000) pounds. Licensees with an "A" classification may
+8 with the proper endorsement drive Class B and C vehicles;
+9 2. Class B - Any single vehicle with a gross vehicle weight rating of
+10 twenty-six thousand and one (26,001) pounds or more, and any vehicle
+11 towing a vehicle not in excess of ten thousand (10,000) pounds gross
+12 vehicle weight rating. Licensees with a "B" classification may with the
+13 proper endorsements drive Class C vehicles;
+14 3. Class C - Any single vehicle with a gross vehicle weight rating of less
+15 than twenty-six thousand and one (26,001) pounds or any vehicle
+16 towing a vehicle with a gross vehicle weight rating not in excess of ten
+17 thousand (10,000) pounds which includes:
+18 a. Vehicles designed to transport sixteen (16) or more passengers,
+19 including the driver; or
+20 b. Vehicles used in the transportation of hazardous materials which
+21 requires the vehicle to be placarded under 49 C.F.R. secs. 172.500
+22 to 172.560, as adopted by administrative regulations of the
+23 cabinet, pursuant to KRS Chapter 13A;
+24 4. Class D - All other vehicles not listed in any other class, including
+25 mopeds; and
+26 5. Class M - Motorcycles. Licensees with a "M" classification may also
+27 drive mopeds.
+Page 2 of 4
+HB044410.100 - 1547 - XXXX 2/27/2025 2:33 PM GA
+
+UNOFFICIAL COPY 25 RS HB 444/GA
+1 (b) Endorsements:
+2 1. "H" - Authorizes the driver to operate a vehicle transporting hazardous
+3 materials;
+4 2. "T" - Authorizes operation of double trailers and triple trailers in those
+5 jurisdictions allowing the operation of triple trailers;
+6 3. "P" - Authorizes operation of vehicles carrying passengers;
+7 4. "N" - Authorizes operation of tank vehicles;
+8 5. "X" - Authorizes operation of combination of hazardous materials and
+9 tank vehicle endorsements;
+10 6. "R" - Authorizes operation of all other endorsements not otherwise
+11 specified; and
+12 7. "S" - Authorizes operation of school buses.
+13 (c) The Transportation Cabinet shall promulgate administrative regulations in
+14 accordance with KRS Chapter 13A to outline restrictions on the operation of
+15 commercial vehicles and the associated codes to identify such restrictions,
+16 which shall appear on the face of the commercial driver's license.
+17 (4) Within ten (10) days after issuing a commercial driver's license, the cabinet shall
+18 notify the commercial driver's license information system of that fact, providing all
+19 information required to ensure identification of the person.
+20 (5) A commercial driver's license issued to a resident pursuant to this chapter shall
+21 expire in eight (8) years unless the license was issued to a resident under the age of
+22 twenty-one (21).
+23 (6) A person under the age of twenty-one (21):
+24 (a) Shall not be:
+25 1. Licensed to operate a Class A, B, or C vehicle unless he or she has a "K"
+26 restriction; or
+27 2. Allowed to operate a school bus; and
+Page 3 of 4
+HB044410.100 - 1547 - XXXX 2/27/2025 2:33 PM GA
+
+UNOFFICIAL COPY 25 RS HB 444/GA
+1 (b) Who holds a valid CDL may be issued a hazardous materials endorsement
+2 to transport hazardous materials in intrastate commerce.
+3 (7) A commercial driver with a "K" restriction shall not drive a commercial motor
+4 vehicle in interstate commerce, unless he or she is exempt pursuant to 49 C.F.R.
+5 sec. 391.2[. A commercial driver under the age of twenty-one (21) shall not be
+6 allowed to operate a school bus or a vehicle transporting hazardous material in
+7 intrastate commerce].
+8 (8)[(7)] The holder of a commercial driver's license shall be considered to hold a valid
+9 Kentucky driver's license issued under the provisions of KRS 186.4102 and
+10 186.412.
+11 Section 2. KRS 281A.185 is amended to read as follows:
+12 (1) The Commonwealth shall not mask, defer imposition of judgment, or allow an
+13 individual to enter into a diversion program that would prevent a CLP or CDL
+14 holder's conviction for any violation, in any type of motor vehicle, of a state or local
+15 traffic control law from appearing on the CDLIS driver record, whether the driver's
+16 conviction was[driver was convicted] for an offense committed in the
+17 Commonwealth or another state.
+18 (2) This section shall not apply to the following violations:
+19 (a) Parking;
+20 (b) Vehicle weight; or
+21 (c) Vehicle defect.
+22 (3) When any actions under subsection (1) of this section occur, the conviction must
+23 be reported from the court to the licensing agency to be recorded on the driver's
+24 record and trigger any appropriate disqualifying action.
+Page 4 of 4
+HB044410.100 - 1547 - XXXX 2/27/2025 2:33 PM GA
+
+[DELETED:   2  G A B S ( T " a s b t t m e p t p I s i ( T ( T ( A c ( T ( T ( T a ( T ( T ( A S ( A t ( T c d l i a v I i d t c w t s s s f b P L N 1 T ( T c d l s n b u f f i p ( A c d l s b i w c e a]
+[DELETED:   2  G p e a o t l a t a h p t k ( C 1 C A - A c o v w a g v w r g t ( p L w a " c m w 2 C B - A s v w a g v w r o t t v p 3 C t t t a o ( p o a v t t a V d t t s ( o m p i b V r t 1 a a b a r o t c 4 C D - A o v n l i a o c i m 5 C d]
+[DELETED:   2  G ( E 1 " m 2 " j 3 " 4 " 5 " t 6 " - A o o a o e n o s 7 " ( T T C s p a r i a c v a t a c t i s r w ( W n i ( A c d l i t a r p t t c s e t ( A ( S 1 L r 2 A]
+[DELETED:   2  G ( W t ( A c d w a " r s n d a c m v s 3 A c d u t a o t ( s n b a t o a s b o a v t h m i i ( T K d l i u t p o K 1 a 1 S ( T C s n m d i o j o a a i t e i a d p t w p a C o C h t c w w c f a o c i t C ( T ( P ( V ( V ( W b r]

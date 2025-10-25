@@ -1,0 +1,1537 @@
+Title: 1 AN ACT relating to earned income access transactions.
+Official Title: 1 AN ACT relating to earned income access transactions.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 25 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS BR 406
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. SUBTITLE 13 OF KRS CHAPTER 286 IS ESTABLISHED,
+4 AND A NEW SECTION THEREOF IS CREATED TO READ AS FOLLOWS:
+5 As used in this subtitle:
+6 (1) "Consumer" means a natural person who is a resident of this state;
+7 (2) "Earned but unpaid income" means wages or compensation that has been
+8 earned by, or has accrued to the benefit of, a consumer for labor or services
+9 performed for or on behalf of an employer but has not been paid by the employer
+10 to the consumer;
+11 (3) "Earned income access provider" means a person that:
+12 (a) Provides or offers to provide, on behalf of an employer, earned income
+13 access transactions to consumers earning wages or compensation from the
+14 employer; or
+15 (b) Offers earned income access transactions to, or enters into earned income
+16 transactions with, consumers;
+17 (4) "Earned income access transaction" or "transaction" means the payment of
+18 earned but unpaid income to a consumer at a time other than the consumer's
+19 regular payday or other regularly scheduled time on which an employer pays the
+20 consumer wages or compensation that has been earned by, or has accrued to the
+21 benefit of, the consumer;
+22 (5) "Employer":
+23 (a) Means a person that is obligated to pay a consumer any sum of money on
+24 an hourly basis, project-based basis, piecework basis, or other basis for
+25 labor or services performed by the consumer for or on behalf of the person;
+26 and
+27 (b) Does not include:
+Page 1 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 406
+1 1. A customer of a person referenced in paragraph (a) of this subsection;
+2 or
+3 2. Another third party that has an obligation to make any payment to a
+4 consumer based solely on the consumer's agency relationship with the
+5 person referenced in paragraph (a) of this subsection;
+6 (6) "Employer-integrated earned income access transaction" means an earned
+7 income access transaction that is based on employment, income, or attendance
+8 data obtained directly from an:
+9 (a) Employer; or
+10 (b) Employer's payroll service provider;
+11 (7) "Licensee" means a person licensed as an earned income access provider under
+12 Section 2 of this Act; and
+13 (8) "Proceeds" means funds received by a consumer pursuant to an earned income
+14 access transaction.
+15 SECTION 2. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+16 IS CREATED TO READ AS FOLLOWS:
+17 (1) As used in this section, "exempt organization" means any:
+18 (a) Bank, bank holding company, trust company, savings and loan association,
+19 savings and loan association holding company, or credit union that is
+20 organized under the laws of this state, another state, or the United States;
+21 (b) Instrumentality:
+22 1. Created by a state or the United States; and
+23 2. That has the power to make mortgage loans;
+24 (c) Subsidiary of any entity referenced in paragraph (a) or (b) of this
+25 subsection;
+26 (d) Consumer loan company as defined in Section 12 of this Act;
+27 (e) Service provider, including a payroll service provider, that:
+Page 2 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 406
+1 1. Verifies available earnings; and
+2 2. Is not contractually obligated to pay earned but unpaid income as part
+3 of an earned income access transaction; or
+4 (f) Employer that offers a portion of wages or compensation directly to its
+5 employees or independent contractors prior to the regular payday or other
+6 regularly scheduled time on which the employer pays wages or
+7 compensation to the employees or independent contractors.
+8 (2) A person shall not do the following unless the person first obtains an earned
+9 income access provider license from the commissioner or is an exempt
+10 organization:
+11 (a) Provide or offer to provide, on behalf of an employer, earned income access
+12 transactions to consumers earning wages or compensation from the
+13 employer; or
+14 (b) Offer earned income access transactions to, or enter into earned income
+15 transactions with, consumers.
+16 (3) An application for an earned income access provider license shall be:
+17 (a) Made in writing and in the format required by the commissioner; and
+18 (b) Accompanied by the following:
+19 1. A license fee of one thousand dollars ($1,000); and
+20 2. An investigation fee of two hundred fifty dollars ($250).
+21 (4) (a) Upon the filing of a complete application for an earned income access
+22 provider license, the commissioner shall, after conducting a substantive
+23 review of the application:
+24 1. Approve the application and issue the license; or
+25 2. Subject to subsection (5) of this section, deny the application if the
+26 commissioner finds that the financial responsibility or experience of
+27 the applicant, or any person associated with the applicant, is not
+Page 3 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 406
+1 sufficient to:
+2 a. Command the confidence of the community; or
+3 b. Reasonably demonstrate that the applicant or person associated
+4 with the applicant will operate honestly, lawfully, fairly, and
+5 efficiently in accordance with the purposes of this subtitle.
+6 (b) As used in this subsection, "applicant" includes:
+7 1. If the applicant is a partnership, limited liability company, or
+8 association, the members of the applicant; and
+9 2. If the applicant is a corporation, the officers and directors of the
+10 applicant.
+11 (5) (a) The commissioner shall provide written notice to an applicant prior to
+12 denying an application for an earned income access provider license.
+13 (b) An applicant that receives a notice of the commissioner's intent to deny an
+14 application may file a written petition for an administrative hearing in
+15 accordance with KRS Chapter 13B within thirty (30) days of the date of the
+16 notice.
+17 (c) If an applicant fails to timely request a hearing under paragraph (b) of this
+18 subsection, the commissioner may enter a default order denying the
+19 application.
+20 (6) If the commissioner denies an application for an earned income access provider
+21 license, the commissioner shall:
+22 (a) Return to the applicant the sum paid as a license fee; and
+23 (b) Retain the investigation fee to cover the costs of investigating the applicant.
+24 (7) An earned income access provider license shall:
+25 (a) State:
+26 1. The name and address of the licensee;
+27 2. If the licensee is a partnership, limited liability company, or
+Page 4 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 406
+1 association, the name of each member of the partnership, limited
+2 liability company, or association; and
+3 3. If the licensee is a corporation, the date and place of its incorporation;
+4 (b) Be conspiciously posted:
+5 1. In the office of the licensee; and
+6 2. On the mobile application or website of the licensee;
+7 (c) Be valid unless it is:
+8 1. Revoked or suspended by the commissioner;
+9 2. Surrendered by the licensee; or
+10 3. Expired; and
+11 (d) Not be transferred or assigned.
+12 (8) (a) On or before December 31, each licensee shall pay to the commissioner an
+13 annual license fee of one thousand dollars ($1,000) for the following
+14 calendar year.
+15 (b) Failure of a licensee to pay the annual license fee required under
+16 paragraph (a) of this subsection shall result in the expiration of the
+17 licensee's license on January 1 of the following year.
+18 (c) The commissioner may reinstate an expired license if, within thirty-one (31)
+19 days of expiration, the licensee:
+20 1. Satisfies all requirements of this subtitle; and
+21 2. Pays a late fee of one hundred dollars ($100).
+22 (d) Any reinstatement of a license under paragraph (c) of this subsection shall
+23 be retroactive to January 1 of the calendar year in which it expired.
+24 (9) The commissioner shall promulgate an administrative regulation in accordance
+25 with KRS Chapter 13A to establish the format for the application required under
+26 subsection (3) of this section.
+27 SECTION 3. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+Page 5 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 406
+1 IS CREATED TO READ AS FOLLOWS:
+2 (1) As used in this section:
+3 (a) "Control":
+4 1. Means possession, directly or indirectly, of the power to direct or cause
+5 the direction of the management and policies of a licensee, whether
+6 through the ownership of the licensee's voting stock, the ownership of
+7 voting stock of any person that possesses such power over the licensee,
+8 or otherwise;
+9 2. Shall be presumed to exist if any person, directly or indirectly, owns,
+10 controls, or holds with power to vote, ten percent (10%) or more of the
+11 following:
+12 a. The voting stock of a licensee; or
+13 b. The voting stock of a person that owns, controls, or holds with
+14 power to vote, ten percent (10%) or more of a licensee's voting
+15 stock; and
+16 3. Shall not be presumed to exist solely because a person is an officer or
+17 director of a licensee or person referenced in this paragraph; and
+18 (b) "Legal representative" means a person duly appointed by a court of
+19 competent jurisdiction to act as executor, administrator, trustee, committee,
+20 conservator, or receiver, including a person who, in accordance with the
+21 provisions of the court appointment:
+22 1. Succeeds a legal representative; or
+23 2. Acts in an ancillary capacity to a legal representative.
+24 (2) (a) Except as provided in subsection (4) of this section, a person shall not take
+25 any action that results in a change of control without prior written approval
+26 of the commissioner.
+27 (b) A person seeking to acquire control shall:
+Page 6 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 406
+1 1. Make a written application to the commissioner for approval of the
+2 change of control; and
+3 2. Pay an investigation fee.
+4 (c) The commissioner shall promulgate an administrative regulation in
+5 accordance with KRS Chapter 13A to prescribe:
+6 1. The format for, and any information to be included in, the application
+7 required under paragraph (b) of this subsection that the commissioner
+8 deems necessary and appropriate for the purpose of making a
+9 determination under paragraph (d) of this subsection; and
+10 2. The amount of the investigation fee required under paragraph (b)2. of
+11 this subsection.
+12 (d) Upon receipt of a complete application for approval of a change of control,
+13 the commissioner shall approve or disapprove the application.
+14 (3) (a) The commissioner may determine whether the ownership, control, or
+15 holding of voting stock constitutes, or would constitute, control for purposes
+16 of this section.
+17 (b) The following may make a request to the commissioner for a determination
+18 under paragraph (a) of this subsection:
+19 1. A licensee;
+20 2. Any person that, directly or indirectly, owns, controls, or holds the
+21 power to vote, any voting stock of a licensee; or
+22 3. Any person that seeks to own, control, or hold power to vote, any
+23 voting stock of a licensee.
+24 (4) For a change of control by operation of law to a legal representative, the legal
+25 representative shall, within six (6) months from the date of the legal
+26 representative's qualification or within any additional period of time as the
+27 commissioner may approve in writing, make an application to the commissioner
+Page 7 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 406
+1 under subsection (2)(b) of this section for approval of the change of control.
+2 SECTION 4. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+3 IS CREATED TO READ AS FOLLOWS:
+4 (1) A licensee shall:
+5 (a) Use in its business such books, accounts, and records as will enable the
+6 commissioner to determine whether the licensee is complying with:
+7 1. This subtitle; and
+8 2. Any administrative regulations promulgated under this subtitle; and
+9 (b) Keep the books, accounts, and records referenced in paragraph (a) of this
+10 subsection for a minimum of six (6) years after making the final entry with
+11 respect to any earned income access transaction recorded therein.
+12 (2) Photographic reproductions or records in photographic form of the books,
+13 accounts, and records referenced in subsection (1) of this section shall constitute
+14 compliance with subsection (1)(b) of this section.
+15 SECTION 5. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+16 IS CREATED TO READ AS FOLLOWS:
+17 (1) Each licensee shall annually file a report with the commissioner providing any
+18 information as the commissioner may require concerning the licensee's earned
+19 income access transaction business operations, and the operations of any
+20 business with which the licensee's earned income access transaction business is
+21 operationally or financially consolidated, for the preceding calendar year.
+22 (2) The commissioner may require additional regular or special reports from a
+23 licensee as the commissioner deems necessary for the proper supervision of
+24 licensees under this subtitle.
+25 (3) Any report submitted under subsection (1) or (2) of this section shall be in a form
+26 prescribed by the commissioner.
+27 (4) The commissioner shall promulgate an administrative regulation in accordance
+Page 8 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 406
+1 with KRS Chapter 13A to prescribe the form and requirements for any report
+2 required to be submitted under subsection (1) of this section, which shall, at a
+3 minimum, include:
+4 (a) The date by which the report shall be submitted to the commissioner; and
+5 (b) The information to be included in the report.
+6 SECTION 6. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+7 IS CREATED TO READ AS FOLLOWS:
+8 (1) (a) The commissioner may make any investigation that he or she deems
+9 necessary to determine whether any:
+10 1. Person has violated this subtitle; or
+11 2. Licensee has conducted itself in such a manner as would justify the
+12 revocation of its license.
+13 (b) To the extent necessary to make an investigation under paragraph (a) of
+14 this subsection, the commissioner may:
+15 1. Compel the attendance of any person or obtain any books, accounts,
+16 or records by subpoenas;
+17 2. Administer oaths and affirmations; and
+18 3. Examine under oath or affirmation all persons whose testimony he or
+19 she may require.
+20 (2) (a) The commissioner may make any examination of the books, accounts, and
+21 records of any licensee's earned income access transaction business, and
+22 any business with which any licensee's earned income access transaction
+23 business is operationally or financially consolidated, as the commissioner
+24 deems necessary to determine whether the licensee has violated this subtitle.
+25 (b) 1. Subject to subparagraph 2. of this paragraph, the expenses incurred in
+26 making an examination under paragraph (a) of this subsection shall
+27 be assessed against and paid by the examined licensee.
+Page 9 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 406
+1 2. Any traveling and subsistence expenses incurred in making an
+2 examination under paragraph (a) of this subsection shall be included
+3 in the expenses assessed under subparagraph 1. of this paragraph in
+4 the proportion the commissioner deems just and reasonable.
+5 (c) Upon written notice of the amount assessed under paragraph (b) of this
+6 subsection, the licensee shall become liable for and pay the assessment to
+7 the department.
+8 (3) (a) Except as provided in paragraph (b) of this subsection, all reports of, and all
+9 correspondence and memoranda concerning or arising out of, any
+10 examination or investigation made under this section, including any duly
+11 authenticated copy or copies thereof in the possession of any licensee or the
+12 department, shall:
+13 1. Be confidential; and
+14 2. Not:
+15 a. Be subject to subpoena;
+16 b. Be subject to disclosure under KRS 61.870 to 61.884; and
+17 c. Otherwise be made public.
+18 (b) If in the judgment of the commissioner the ends of justice and public
+19 advantage will be subserved by the publication of any report,
+20 correspondence, or memoranda referenced in paragraph (a) of this
+21 subsection, the commissioner may publish, or authorize the publication of
+22 the report, correspondence, or memoranda, or any part thereof in a manner
+23 the commissioner deems proper.
+24 SECTION 7. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+25 IS CREATED TO READ AS FOLLOWS:
+26 (1) As used in this section:
+27 (a) "Debt collection activity" means the business of:
+Page 10 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 406
+1 1. Collection of any debts, directly or indirectly, owed or due or asserted
+2 to be owed or due to another;
+3 2. A buyer of debts who seeks to collect the debts, directly or indirectly;
+4 or
+5 3. Any creditor collecting its own debts if the creditor uses any name
+6 other than its own that would suggest or indicate that a person other
+7 than the creditor is collecting or attempting to collect the debt;
+8 (b) "Employer-integrated earned income access provider" means an earned
+9 income access provider engaged in the business of offering or providing
+10 employer-integrated earned income access transactions;
+11 (c) "Fee" means any mandatory amount that is charged or received for an
+12 earned income access transaction, including any charge for obtaining
+13 proceeds within the timeframe established in subsection (2)(a)6.b. of this
+14 section;
+15 (d) "Nonrecourse" means the unavailability of any legal cause of action or
+16 remedy against a consumer relating to an earned income access
+17 transaction; and
+18 (e) "Notice" means communication from a licensee to a consumer in a clear
+19 and conspicuous manner.
+20 (2) A licensee:
+21 (a) Shall:
+22 1. Offer to each consumer, and clearly explain how to elect, at least one
+23 (1) reasonable option to obtain proceeds at no cost to the consumer;
+24 2. Prior to entering into an earned income access transaction, provide
+25 notice to the consumer of the costs of the transaction, including all
+26 fees associated with the transaction;
+27 3. Provide the consumer with written notice of, and obtain the
+Page 11 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 406
+1 consumer's consent to, any amendment to the contract or terms of
+2 service for an earned income access transaction before proceeding
+3 with the transaction to which the amendments would apply;
+4 4. Ensure that each earned income access transaction entered into by the
+5 licensee:
+6 a. Is nonrecourse; and
+7 b. Does not result in the proceeds of the transaction rolling over or
+8 otherwise being structured in a way that creates any continuing
+9 obligation of the consumer to the licensee;
+10 5. If the licensee takes custody of a consumer's earned but unpaid
+11 income before paying proceeds to the consumer, ensure that the
+12 proceeds are fully insured by the Federal Deposit Insurance
+13 Corporation at the consumer's individual account level;
+14 6. Ensure that a consumer receives proceeds not later than the earlier of
+15 the following:
+16 a. Three (3) business days after the consumer's request for
+17 processing that is not subject to a fee;
+18 b. One (1) business day after the consumer's request for processing
+19 that is subject to a fee; or
+20 c. One (1) business day prior to the next regularly scheduled date
+21 on which the employer is scheduled to pay earned but unpaid
+22 income to the consumer;
+23 7. If the licensee offers consumers the opportunity to tip, make a
+24 donation, or otherwise pay an additional amount for an earned
+25 income access transaction voluntarily:
+26 a. Provide written notice to the consumer that paying any
+27 additional amount is not required in order for the consumer to
+Page 12 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 406
+1 receive proceeds; and
+2 b. Offer zero dollars ($0) among any amounts suggested to the
+3 consumer, including when the licensee:
+4 i. Offers amount options from which the consumer may
+5 select;
+6 ii. Prefills the additional amount in any form used in the
+7 transaction process; and
+8 iii. Uses any other transaction process designed to require the
+9 consumer to take an affirmative action to avoid or opt-out
+10 of paying the additional amount;
+11 8. Comply with:
+12 a. The National Automated Clearing House Association rules; and
+13 b. All applicable local, state, and federal privacy and information
+14 security laws and administrative regulations;
+15 9. If repayment is to be made through a debit of the consumer's account,
+16 including any subsequent initiation of a debit after an initial debit is
+17 returned for insufficient or uncollected funds, ensure that the debit
+18 complies with the requirements established under subsection (5)(a) of
+19 this section; and
+20 10. Not less than annually, provide a written notice to each consumer to
+21 whom the licensee has paid proceeds in the previous year that contains
+22 at a minimum:
+23 a. An itemization of the consumer's transactions and costs,
+24 including the total amount the consumer has paid in:
+25 i. Fees; and
+26 ii. Tips, donations, and other additional amounts paid
+27 voluntarily;
+Page 13 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 406
+1 b. An explanation of the costs of the services provided;
+2 c. Information on how to report complaints to the:
+3 i. Licensee; and
+4 ii. Commissioner;
+5 d. Definitions of terms used in the notice; and
+6 e. Other information prescribed by the commissioner; and
+7 (b) Except as provided in subsection (3) of this section, shall not:
+8 1. Pull a credit report or otherwise assess the credit risk of a consumer
+9 prior to, during, or after entering into an earned income access
+10 transaction with the consumer, except the licensee may verify the
+11 consumer's source of income as part of determining the amount of the
+12 proceeds;
+13 2. Report on any earned income access transaction to a consumer
+14 reporting agency prior to, during, or after entering into the
+15 transaction;
+16 3. Require a consumer to waive the right to class action relief as a
+17 condition of an earned income access transaction;
+18 4. Enter into an earned income access transaction unless:
+19 a. The consumer is eighteen (18) years of age or older; and
+20 b. The total proceeds received by the consumer from all
+21 outstanding transactions does not exceed five hundred dollars
+22 ($500);
+23 5. Charge or receive a fee for an earned income access transaction that
+24 exceeds five dollars ($5) per one hundred dollars ($100) of the
+25 proceeds;
+26 6. Charge for a subscription or membership service unless the charge is:
+27 a. Optional; and
+Page 14 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 406
+1 b. For a bona fide group of services that include earned income
+2 access transactions;
+3 7. Use any earned but unpaid income, or any portion thereof, to be paid
+4 as part of an earned income access transaction before receipt by the
+5 consumer to settle or pay down an obligation arising from a prior
+6 transaction;
+7 8. Impose a late fee or prepayment penalty on an earned income access
+8 transaction;
+9 9. Engage in, or retain the services of another to engage in, debt
+10 collection activity in connection with an earned income access
+11 transaction;
+12 10. Convey debt created by an earned income access transaction; or
+13 11. Directly or indirectly make, orally, in writing, or by any other method,
+14 practice, or device, a representation that the licensee is licensed under
+15 the banking laws other than a representation that the licensee is
+16 licensed as an earned income access provider under this subtitle.
+17 (3) An employer-integrated earned income access provider shall not:
+18 (a) Enter into an employer-integrated earned income access transaction unless
+19 the total proceeds received by the consumer for the transaction does not
+20 exceed the consumer's earned but unpaid income less any taxes and
+21 deductions to the consumer; or
+22 (b) Be subject to subsection (2)(b)4.b. or 5. of this section for an employer-
+23 integrated earned income access transaction.
+24 (4) Tips, donations, and other amounts paid voluntarily for an earned income access
+25 transaction made in accordance with this section shall not be subject to usury
+26 laws.
+27 (5) The commissioner shall promulgate an administrative regulation in accordance
+Page 15 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 406
+1 with KRS Chapter 13A to establish the following for earned income access
+2 transactions entered into by licensees:
+3 (a) Requirements for the repayment of earned income access transactions
+4 through a debit of a consumer's account; and
+5 (b) Information to be included in the notice required under subsection (2)(a)10.
+6 of this section.
+7 SECTION 8. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+8 IS CREATED TO READ AS FOLLOWS:
+9 (1) The commissioner shall:
+10 (a) Implement a common database with real-time access through an internet or
+11 application programming interface connection for use by the department
+12 and licensees in accordance with this section; and
+13 (b) Either:
+14 1. Operate the database; or
+15 2. Contract with a third-party provider to operate the database.
+16 (2) If the commissioner contracts with a third-party provider to operate the database,
+17 all of the following apply:
+18 (a) The commissioner shall:
+19 1. Ensure that the third-party provider selected as the database provider
+20 operates the database in accordance with this subtitle; and
+21 2. Consider ability to meet all the requirements of this subtitle in
+22 selecting a third-party provider as the database provider;
+23 (b) The third-party provider shall use the data collected under this subtitle only
+24 as prescribed in this subtitle and the contract with the department and for
+25 no other purpose;
+26 (c) If the third-party provider violates this subtitle:
+27 1. The commissioner may terminate the third-party provider's contract;
+Page 16 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 406
+1 and
+2 2. The third-party provider may be barred from becoming a party to any
+3 other state contracts; and
+4 (d) A person injured by the third-party provider's violation of this subtitle may:
+5 1. Maintain a civil cause of action against the third-party provider; and
+6 2. Recover actual damages plus reasonable attorney's fees and court
+7 costs in the civil action.
+8 (3) The database shall be accessible to:
+9 (a) Licensees to:
+10 1. Verify whether entering into an earned income access transaction with
+11 a particular consumer would be in violation of subsection (2)(b)4.b. of
+12 Section 7 of this Act; and
+13 2. Submit data under subsection (4) of this section; and
+14 (b) The commissioner to administer and enforce this subtitle.
+15 (4) Before entering into an earned income access transaction, a licensee shall submit
+16 the following data into the database in a format prescribed by the commissioner:
+17 (a) The consumer's:
+18 1. Name;
+19 2. Social Security number, alien registration number as shown on an
+20 employment authorization document, or a unique identifier
+21 established by the commissioner;
+22 3. Address; and
+23 4. Driver's license number;
+24 (b) The amount of the transaction;
+25 (c) The date of the transaction;
+26 (d) The date that the transaction is closed; and
+27 (e) Any additional information required by the commissioner.
+Page 17 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 406
+1 (5) (a) Except as provided in paragraph (b) of this subsection, the commissioner
+2 shall impose a fee not to exceed three dollars ($3) per transaction for data
+3 required to be submitted for an earned income access transaction, which
+4 may be charged to the consumer.
+5 (b) The fee referenced in paragraph (a) of this subsection shall not:
+6 1. Be charged to a consumer for a no-cost earned income access
+7 transaction; or
+8 2. Apply to an employer-integrated earned income access transaction.
+9 (6) A licensee:
+10 (a) May rely on information contained in the database as accurate; and
+11 (b) Shall not be subject to any administrative penalty or civil liability due to
+12 reliance on inaccurate information contained in the database.
+13 (7) The commissioner shall use the database to administer and enforce this subtitle.
+14 (8) If the commissioner contracts with a third-party to operate the database, the
+15 commissioner shall require the database provider to file a report containing the
+16 following information by April 1 of each year:
+17 (a) The total number and dollar amount of earned income access transactions:
+18 1. Entered into in the calendar year ending December 31 of the previous
+19 year; and
+20 2. Outstanding as of December 31 of the previous year;
+21 (b) The total dollar amount of the following collected for earned income access
+22 transactions as of December 31 of the previous year:
+23 1. Fees, as defined in Section 7 of this Act;
+24 2. Tips, donations, and other amounts paid voluntarily;
+25 (c) As of December 31 of the previous year, the following per consumer:
+26 1. The average earned income access transaction amount;
+27 2. The average number of transactions; and
+Page 18 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 406
+1 3. The average aggregate earned income access transaction amount
+2 entered into;
+3 (d) The average number of days a consumer was engaged in an earned income
+4 access transaction for the previous year;
+5 (e) An estimate of the average total amount of the following paid per consumer
+6 for earned income access transactions for the previous year:
+7 1. Fees, as defined in Section 7 of this Act; and
+8 2. Tips, donations, and other amounts paid voluntarily;
+9 (f) The total number of unique consumers that entered into an earned income
+10 access transaction for the previous year;
+11 (g) For the previous year, the total number of earned income access
+12 transactions in which the proceeds were issued:
+13 1. Directly to the consumer; and
+14 2. Through an integrated employer; and
+15 (h) Any other information required by the commissioner.
+16 (9) The commissioner may promulgate an administrative regulation in accordance
+17 with KRS Chapter 13A to administer this section and ensure that the database is
+18 used by licensees in accordance with this section.
+19 SECTION 9. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+20 IS CREATED TO READ AS FOLLOWS:
+21 (1) Subject to subsection (2) of this section, a license issued under Section 2 of this
+22 Act shall not be renewed, and shall be revoked or suspended, by the commissioner
+23 upon a finding that:
+24 (a) The licensee has:
+25 1. Not complied with any applicable reporting requirements;
+26 2. Violated:
+27 a. This subtitle; or
+Page 19 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 406
+1 b. Any administrative regulation promulgated under this subtitle;
+2 or
+3 3. Been convicted under any federal law or administrative regulation
+4 governing crimes involving moral turpitude;
+5 (b) Any fact or condition exists that clearly would have warranted the
+6 commissioner denying the license if that fact or condition had existed at the
+7 time of the original application for the license; or
+8 (c) The licensee has failed to:
+9 1. Pay any sum of money lawfully demanded by the department; or
+10 2. Comply with any demand, ruling, or requirement of the commissioner
+11 or department.
+12 (2) (a) Except as provided in paragraph (b) of this subsection:
+13 1. The commissioner shall provide written notice to the licensee prior to
+14 suspending or revoking a license issued under Section 2 of this Act;
+15 2. A licensee that receives a notice of the commissioner's intent to
+16 suspend or revoke a license may file a written petition for an
+17 administrative hearing in accordance with KRS Chapter 13B within
+18 thirty (30) days of the date of the notice; and
+19 3. If a licensee fails to timely request a hearing under subparagraph 2. of
+20 this paragraph, the commissioner may enter a default order of
+21 revocation or suspension.
+22 (b) 1. The commissioner may, on good cause shown or where there is a
+23 substantial risk of public harm, suspend any license issued under
+24 Section 2 of this Act for not more than thirty (30) days pending
+25 investigation without notice and hearing.
+26 2. For purposes of subparagraph 1. of this paragraph, good cause shown
+27 shall only exist when the licensee:
+Page 20 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 406
+1 a. Has engaged in, or is likely to engage in, a practice prohibited by
+2 this subtitle; or
+3 b. Engages in dishonest or inequitable practices which may cause
+4 substantial harm to the persons afforded protection under this
+5 subtitle.
+6 (c) The commissioner may reinstate a suspended license, or issue a new license
+7 to a person whose license was revoked, if no fact or condition exists at the
+8 time of the application or reinstatement which clearly warrants the
+9 commissioner's denial of the license.
+10 (3) (a) 1. A license issued under Section 2 of this Act may be surrendered by the
+11 licensee by delivering written notice of the surrender to the
+12 department.
+13 2. For purposes of this paragraph, "written notice" includes electronic
+14 notice.
+15 (b) The surrender of a license shall not affect the licensee's civil or criminal
+16 liability for acts committed prior to the surrender.
+17 SECTION 10. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+18 IS CREATED TO READ AS FOLLOWS:
+19 The commissioner may promulgate administrative regulations in accordance with KRS
+20 Chapter 13A, conduct hearings, and make specific rulings, orders, demands, and
+21 findings as may be necessary for:
+22 (1) Proper conduct of business authorized under this subtitle; and
+23 (2) The enforcement of this subtitle.
+24 SECTION 11. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+25 IS CREATED TO READ AS FOLLOWS:
+26 (1) (a) The commissioner may levy a civil penalty against any person that:
+27 1. Violates or participates in the violation of any:
+Page 21 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 406
+1 a. Provision of this subtitle;
+2 b. Administrative regulation promulgated under this subtitle; or
+3 c. Order of the commissioner issued under this subtitle;
+4 2. Knowingly makes any incorrect statement of material fact in any
+5 application, report, or statement filed under this subtitle;
+6 3. Knowingly omits any material fact necessary to provide the
+7 commissioner any information lawfully required by him or her under
+8 this subtitle; or
+9 4. Refuses to permit any investigation or examination authorized under
+10 this subtitle.
+11 (b) The civil penalty levied under paragraph (a) of this subsection shall not be
+12 less than one thousand dollars ($1,000) nor more than five thousand dollars
+13 ($5,000) per violation for each day the violation is outstanding, plus the
+14 state's costs and expenses for examination, investigation, and prosecution of
+15 the matter, including reasonable attorney's fees and court costs.
+16 (2) Any earned income access transaction made in violation of subsection (2) of
+17 Section 2 of this Act shall be void and the earned income access provider shall
+18 not have a right to collect any principal, fee, or recompense whatsoever.
+19 (3) Any civil penalties imposed under this section shall be in addition to any other
+20 remedy or penalty authorized under this subtitle.
+21 Section 12. KRS 286.4-410 is amended to read as follows:
+22 (1) As used in this subtitle, unless the context requires otherwise:
+23 (a) "Applicant" means a person filing an application under this subtitle;
+24 (b) "Consumer loan company" means a person licensed under this subtitle to
+25 engage in the business of making loans to a consumer for personal, family, or
+26 household use in the amount or value of fifteen thousand dollars ($15,000) or
+27 less;
+Page 22 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 406
+1 (c) "Control" means the power to direct the management or policies of a licensee
+2 or applicant, whether through ownership of securities, by contract, or
+3 otherwise;
+4 (d) "Executive officer" means a natural person holding the title or responsibility
+5 of president, vice president, chief executive officer, chief financial officer,
+6 chief operational officer, or chief compliance officer;
+7 (e) "Licensee" means a person licensed under this subtitle;
+8 (f) "Managing principal" means a natural person who meets the requirements of
+9 KRS 286.4-450 and actively participates in and is primarily responsible for
+10 the operations of a licensee;
+11 (g) "Material fact" means a fact that a reasonable person knows, or should know,
+12 that could reasonably be expected to influence any decision or action taken by
+13 the commissioner under this subtitle;
+14 (h) "Nationwide consumer reporting agency" means a consumer reporting agency
+15 that compiles and maintains files on consumers on a nationwide basis as
+16 defined by Section 603(p) of the Fair Credit Reporting Act, 15 U.S.C. sec.
+17 1681a(p); and
+18 (i) "Person in control of a licensee or applicant" means, with respect to an
+19 applicant or licensee, any of the following:
+20 1. A director, general partner, or executive officer;
+21 2. In the case of a limited liability company, a managing member or
+22 manager;
+23 3. Any person who directly or indirectly has the right to vote twenty-five
+24 percent (25%) or more of a class of voting securities;
+25 4. Any person who has the power to sell or direct the sale of twenty-five
+26 percent (25%) or more of a class of voting securities;
+27 5. In the case of a partnership or limited liability company, any person that
+Page 23 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 406
+1 has the right to receive twenty-five percent (25%) or more of the capital
+2 upon dissolution; or
+3 6. Any person that exercises control.
+4 (2) This subtitle shall not apply to:
+5 (a) Any person doing business under and as permitted by any law of this state or
+6 of the United States relating to banks, savings banks, trust companies, savings
+7 and loan associations, agricultural cooperative associations, credit unions, or
+8 licensed pawnbrokers;[. This subtitle does not apply to ]
+9 (b) The purchase or acquisition, directly or indirectly, of notes, chattel mortgages,
+10 installment or conditional sales contracts, embodying liens or evidencing title
+11 retention arising from the bona fide sale of goods or services by a seller of the
+12 goods or services; or
+13 (c) Any person doing business under and as permitted by Subtitle 13 of this
+14 chapter.
+15 Section 13. KRS 371.150 is amended to read as follows:
+16 KRS 371.110 to 371.150 do not apply to any:
+17 (1) National or state bank;[, or to any ]
+18 (2) Credit union;[ or ]
+19 (3) Trust company; or
+20 (4) Person doing business under and as permitted by Subtitle 13 of KRS Chapter 286.
+21 Section 14. Sections 1 to 11 of this Act may be cited as the Kentucky Earned
+22 Wage Access Act.
+23 Section 15. If any provision of this Act or the application thereof to any person
+24 or circumstance is held invalid, the invalidity thereof shall not affect other provisions or
+25 applications of the Act which can be given effect without the invalid provision or
+26 application, and to this end the provisions and applications of this Act are severable.
+27 Section 16. This Act applies to earned income access transactions offered or
+Page 24 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 406
+1 provided on or after January 1, 2026.
+Page 25 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+[DELETED:   2  J A B S 1   S 1 O K C 2 I E A A ( " ( " b u i m w o c t h b e b o h a t t b o a c f l o s p t ( " ( P o o t p o b o a e e i a e ( O t ( " i a t o " m t p o e r c b ( " ( M a h b p b p b o o b f l a ( D]
+[DELETED:   2  J 1 A o 2 A c p ( " e i a t m a e i d ( E ( E ( " S ( " a S I ( A ( B s a l a h c o c u t i o ( I 1 C 2 T ( S o a e r i p ( o ( o t s ( C ( S]
+[DELETED:   2  J 1 V 2 I o ( E t o a p o w o c d t i e r s t o w t e p w o c ( A p s n d t f u t p f o a e i a p l f t c o i a e o ( P t t c e w o c f t e ( O e i a t t o e i e i t ( A ( M ( A 1 A 2 A ( ( U t f o a c a f a e i a p l t c s a c a s r 1 A 2 S t s ( o s d t a i t c t a o a p a w t a i n]
+[DELETED:   2  J s a C b R w t a w o h l f a e ( A 1 I t a i a p l l c o a 2 I t a i a c t o a d o t a ( ( T c s p w n t a a p t d ( A a m f a w p f a a h i a n ( I s t c m e a d o d t a ( I l ( R ( R ( A ( S 1 T 2 I t l i a p l l c o]
+[DELETED:   2  J a t n o e m o t p l l 3 I ( B 1 I 2 O ( B 1 R 2 S 3 E ( N ( ( O a l f o o t d ( f t f c ( F o a l t p t a l f r u p ( o t s s r i t e o t l ( T d 1 S 2 P ( A b ( T w s S]
+[DELETED:   2  J I ( A ( " 1 M t t v o 2 S c f a T b T p s 3 S d ( " r m a p d a b a c o c c p 1 S 2 A ( ( E a o ( A]
+[DELETED:   2  J 1 M c 2 P ( T c s p a a r i a 1 T r d n a a f t p o m a d 2 T t ( U t ( ( T c m d w t o c o h o ( T u 1 A 2 A p t d o i o c o h t p 3 A p t s t o c o h p t v a v ( F r s w s ( m f t d o t l r q o w a a p o t a t c]
+[DELETED:   2  J u S I ( A ( U i i b s b a a r a w e t c 1 T 2 A ( K s r ( P r o r i p f o t b a c S I ( E i i a t b o a t o o a b o ( T c m r a r o s r f a l a t c d n f t p s o l ( A p ( T]
+[DELETED:   2  J w C 1 t p t f r f a r r m ( T ( T S I ( ( T c m m a i t h o s d n 1 P 2 L r ( T t 1 C o 2 A 3 E s ( ( T r a b d ( 1 S m b]
+[DELETED:   2  J 2 A t a s e i i m a e i t ( U w n o t a a u p ( o t s t ( ( E c a m c o a o o a e a d 1 B 2 N a B b B c O ( I i t j o t c t e o j a p a w b s b t p o a r c o m r i p ( o t s t t S I ( A ( "]
+[DELETED:   2  J 1 C t 2 A o 3 A c c i o d i t c u a n o t ( " e i a p m a e i a p e i t b o o o p e ( " m a m a t i c o r f a e i a t i a c f o p w t t e i s ( o t s ( " m t u o a l c o a o r a a c r t a e i a t ( " a ( A ( S 1 O ( 2 P n f 3 P t c w w n o a o t]
+[DELETED:   2  J c c t a a t t c o t o s f a e i a t b p w 4 E l a I b D o o 5 I t l t c o a c e b u i b p p t t c e t t p a f i b t F D I C 6 E t a T ( b d a t c r f p b O t c O o w t e i s t p e b u i 7 I t l o c t o t t m a d o o p a a a f a e i a P w n t t c t p a a]
+[DELETED:   2  J r b O z d ( a a a s t t c i O a o f w t c m s i P t a a i a f u i t t i U c o 8 C a T b A s 9 I i r f i o u f e t t d c t 1 N w a a A i o t c t a c i i F i T d a o a a p v]
+[DELETED:   2  J b A c I i L i C d D e O ( E 1 P p t d o a e i a e i a t w t c e t l m v t c p 2 R o a e i a t t a c r a p t d o a e i t t 3 R a c t w t r t c a r a a c 4 E a T b T t p r b t c f a o t d n e f h d ( 5 C e f d ( p o h d ( o t p 6 C a O]
+[DELETED:   2  J b F a b f g o t i e i a 7 U a c t s o p d a o a f a p t 8 I t 9 E i o r t s o a t e i d c a i c w a e i a t 1 C 1 D p t b l o t a r t t l i l ( A ( E t t p r b t c f t t d n e t c e b u i l a t a d ( B s t s ( o 5 o t s f a e i ( T t l ( T]
+[DELETED:   2  J w K C 1 t e t f f e i a t ( R f t r o e i a t t ( I o S I ( T ( I a p i c f u b t d a ( E 1 O 2 C ( I a ( T 1 E o 2 C a t m a t r o t s i s ( T a n ( I 1 T]
+[DELETED:   2  J a 2 T o ( A 1 M 2 R a d p r a f a c c ( T ( L 1 V a S 2 S ( T ( B t ( T 1 N 2 S S n a r n a s o a e a d o a u i e 3 A 4 D ( T ( T ( T ( A]
+[DELETED:   2  J ( ( E s r a m ( T 1 B c t a c f a n e i a t 2 A ( A ( M ( S r ( T ( I t c c w a t t o t d t c f ( T 1 E y 2 O ( T t 1 F 2 T ( A 1 T 2 T]
+[DELETED:   2  J 3 T a a e i a t a e ( T a ( A f 1 F 2 T ( T a ( F t p y t t n o e i a t 1 D 2 T ( A ( T w u S I ( S A u ( T 1 N 2 V a T]
+[DELETED:   2  J b A a r p u t s o 3 B c u a f l o a r g ( A f o c e t c w h w t c t ( T 1 P 2 C o ( ( E 1 T s 2 A l t r a n o t c i t s o r a l m f a w p f a a t 3 I t p t c m e a d o o r ( 1 T c m o g c s o w t i a s r o p h s a l i u S 2 o t A f n m t t ( d p i 2 F s]
+[DELETED:   2  J a H t b E s s ( T t t o t a o r w c w t c ( ( 1 A l b d w n o t s t t d 2 F n ( T l S I T C 1 c h a m s r o d a f ( P ( T S I ( ( T 1 V]
+[DELETED:   2  J a P b A c O 2 K m a i s o m f i a a 3 K o a m f n t p t c t 4 R t ( T l ( p v f e d t v i o p t s t ( A e i a t m i v o s ( o S n ( A r S ( A ( " ( " l c m a p l u t s t e h l]
+[DELETED:   2  J ( " o a w t o o s b c o o ( " o p v p c e o c f o c ( " ( " K t ( " t t ( " t c a m f o c o a n b a d 1 ( " i c o a l o a m w r t a a 1 A 2 I t c o a l l c a m m o m 3 A p 4 A p 5 I]
+[DELETED:   2  J h u 6 A ( T ( A o a l ( T i r g ( A c S K ( N ( C ( T ( P S W S o a o t A w c b g e w t i p o a S]
+[DELETED:   2  J p]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS BR 406
+1 AN ACT relating to earned income access transactions.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. SUBTITLE 13 OF KRS CHAPTER 286 IS ESTABLISHED,
+4 AND A NEW SECTION THEREOF IS CREATED TO READ AS FOLLOWS:
+5 As used in this subtitle:
+6 (1) "Consumer" means a natural person who is a resident of this state;
+7 (2) "Earned but unpaid income" means wages or compensation that has been
+8 earned by, or has accrued to the benefit of, a consumer for labor or services
+9 performed for or on behalf of an employer but has not been paid by the employer
+10 to the consumer;
+11 (3) "Earned income access provider" means a person that:
+12 (a) Provides or offers to provide, on behalf of an employer, earned income
+13 access transactions to consumers earning wages or compensation from the
+14 employer; or
+15 (b) Offers earned income access transactions to, or enters into earned income
+16 transactions with, consumers;
+17 (4) "Earned income access transaction" or "transaction" means the payment of
+18 earned but unpaid income to a consumer at a time other than the consumer's
+19 regular payday or other regularly scheduled time on which an employer pays the
+20 consumer wages or compensation that has been earned by, or has accrued to the
+21 benefit of, the consumer;
+22 (5) "Employer":
+23 (a) Means a person that is obligated to pay a consumer any sum of money on
+24 an hourly basis, project-based basis, piecework basis, or other basis for
+25 labor or services performed by the consumer for or on behalf of the person;
+26 and
+27 (b) Does not include:
+Page 1 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 406
+1 1. A customer of a person referenced in paragraph (a) of this subsection;
+2 or
+3 2. Another third party that has an obligation to make any payment to a
+4 consumer based solely on the consumer's agency relationship with the
+5 person referenced in paragraph (a) of this subsection;
+6 (6) "Employer-integrated earned income access transaction" means an earned
+7 income access transaction that is based on employment, income, or attendance
+8 data obtained directly from an:
+9 (a) Employer; or
+10 (b) Employer's payroll service provider;
+11 (7) "Licensee" means a person licensed as an earned income access provider under
+12 Section 2 of this Act; and
+13 (8) "Proceeds" means funds received by a consumer pursuant to an earned income
+14 access transaction.
+15 SECTION 2. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+16 IS CREATED TO READ AS FOLLOWS:
+17 (1) As used in this section, "exempt organization" means any:
+18 (a) Bank, bank holding company, trust company, savings and loan association,
+19 savings and loan association holding company, or credit union that is
+20 organized under the laws of this state, another state, or the United States;
+21 (b) Instrumentality:
+22 1. Created by a state or the United States; and
+23 2. That has the power to make mortgage loans;
+24 (c) Subsidiary of any entity referenced in paragraph (a) or (b) of this
+25 subsection;
+26 (d) Consumer loan company as defined in Section 12 of this Act;
+27 (e) Service provider, including a payroll service provider, that:
+Page 2 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 406
+1 1. Verifies available earnings; and
+2 2. Is not contractually obligated to pay earned but unpaid income as part
+3 of an earned income access transaction; or
+4 (f) Employer that offers a portion of wages or compensation directly to its
+5 employees or independent contractors prior to the regular payday or other
+6 regularly scheduled time on which the employer pays wages or
+7 compensation to the employees or independent contractors.
+8 (2) A person shall not do the following unless the person first obtains an earned
+9 income access provider license from the commissioner or is an exempt
+10 organization:
+11 (a) Provide or offer to provide, on behalf of an employer, earned income access
+12 transactions to consumers earning wages or compensation from the
+13 employer; or
+14 (b) Offer earned income access transactions to, or enter into earned income
+15 transactions with, consumers.
+16 (3) An application for an earned income access provider license shall be:
+17 (a) Made in writing and in the format required by the commissioner; and
+18 (b) Accompanied by the following:
+19 1. A license fee of one thousand dollars ($1,000); and
+20 2. An investigation fee of two hundred fifty dollars ($250).
+21 (4) (a) Upon the filing of a complete application for an earned income access
+22 provider license, the commissioner shall, after conducting a substantive
+23 review of the application:
+24 1. Approve the application and issue the license; or
+25 2. Subject to subsection (5) of this section, deny the application if the
+26 commissioner finds that the financial responsibility or experience of
+27 the applicant, or any person associated with the applicant, is not
+Page 3 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 406
+1 sufficient to:
+2 a. Command the confidence of the community; or
+3 b. Reasonably demonstrate that the applicant or person associated
+4 with the applicant will operate honestly, lawfully, fairly, and
+5 efficiently in accordance with the purposes of this subtitle.
+6 (b) As used in this subsection, "applicant" includes:
+7 1. If the applicant is a partnership, limited liability company, or
+8 association, the members of the applicant; and
+9 2. If the applicant is a corporation, the officers and directors of the
+10 applicant.
+11 (5) (a) The commissioner shall provide written notice to an applicant prior to
+12 denying an application for an earned income access provider license.
+13 (b) An applicant that receives a notice of the commissioner's intent to deny an
+14 application may file a written petition for an administrative hearing in
+15 accordance with KRS Chapter 13B within thirty (30) days of the date of the
+16 notice.
+17 (c) If an applicant fails to timely request a hearing under paragraph (b) of this
+18 subsection, the commissioner may enter a default order denying the
+19 application.
+20 (6) If the commissioner denies an application for an earned income access provider
+21 license, the commissioner shall:
+22 (a) Return to the applicant the sum paid as a license fee; and
+23 (b) Retain the investigation fee to cover the costs of investigating the applicant.
+24 (7) An earned income access provider license shall:
+25 (a) State:
+26 1. The name and address of the licensee;
+27 2. If the licensee is a partnership, limited liability company, or
+Page 4 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 406
+1 association, the name of each member of the partnership, limited
+2 liability company, or association; and
+3 3. If the licensee is a corporation, the date and place of its incorporation;
+4 (b) Be conspiciously posted:
+5 1. In the office of the licensee; and
+6 2. On the mobile application or website of the licensee;
+7 (c) Be valid unless it is:
+8 1. Revoked or suspended by the commissioner;
+9 2. Surrendered by the licensee; or
+10 3. Expired; and
+11 (d) Not be transferred or assigned.
+12 (8) (a) On or before December 31, each licensee shall pay to the commissioner an
+13 annual license fee of one thousand dollars ($1,000) for the following
+14 calendar year.
+15 (b) Failure of a licensee to pay the annual license fee required under
+16 paragraph (a) of this subsection shall result in the expiration of the
+17 licensee's license on January 1 of the following year.
+18 (c) The commissioner may reinstate an expired license if, within thirty-one (31)
+19 days of expiration, the licensee:
+20 1. Satisfies all requirements of this subtitle; and
+21 2. Pays a late fee of one hundred dollars ($100).
+22 (d) Any reinstatement of a license under paragraph (c) of this subsection shall
+23 be retroactive to January 1 of the calendar year in which it expired.
+24 (9) The commissioner shall promulgate an administrative regulation in accordance
+25 with KRS Chapter 13A to establish the format for the application required under
+26 subsection (3) of this section.
+27 SECTION 3. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+Page 5 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 406
+1 IS CREATED TO READ AS FOLLOWS:
+2 (1) As used in this section:
+3 (a) "Control":
+4 1. Means possession, directly or indirectly, of the power to direct or cause
+5 the direction of the management and policies of a licensee, whether
+6 through the ownership of the licensee's voting stock, the ownership of
+7 voting stock of any person that possesses such power over the licensee,
+8 or otherwise;
+9 2. Shall be presumed to exist if any person, directly or indirectly, owns,
+10 controls, or holds with power to vote, ten percent (10%) or more of the
+11 following:
+12 a. The voting stock of a licensee; or
+13 b. The voting stock of a person that owns, controls, or holds with
+14 power to vote, ten percent (10%) or more of a licensee's voting
+15 stock; and
+16 3. Shall not be presumed to exist solely because a person is an officer or
+17 director of a licensee or person referenced in this paragraph; and
+18 (b) "Legal representative" means a person duly appointed by a court of
+19 competent jurisdiction to act as executor, administrator, trustee, committee,
+20 conservator, or receiver, including a person who, in accordance with the
+21 provisions of the court appointment:
+22 1. Succeeds a legal representative; or
+23 2. Acts in an ancillary capacity to a legal representative.
+24 (2) (a) Except as provided in subsection (4) of this section, a person shall not take
+25 any action that results in a change of control without prior written approval
+26 of the commissioner.
+27 (b) A person seeking to acquire control shall:
+Page 6 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 406
+1 1. Make a written application to the commissioner for approval of the
+2 change of control; and
+3 2. Pay an investigation fee.
+4 (c) The commissioner shall promulgate an administrative regulation in
+5 accordance with KRS Chapter 13A to prescribe:
+6 1. The format for, and any information to be included in, the application
+7 required under paragraph (b) of this subsection that the commissioner
+8 deems necessary and appropriate for the purpose of making a
+9 determination under paragraph (d) of this subsection; and
+10 2. The amount of the investigation fee required under paragraph (b)2. of
+11 this subsection.
+12 (d) Upon receipt of a complete application for approval of a change of control,
+13 the commissioner shall approve or disapprove the application.
+14 (3) (a) The commissioner may determine whether the ownership, control, or
+15 holding of voting stock constitutes, or would constitute, control for purposes
+16 of this section.
+17 (b) The following may make a request to the commissioner for a determination
+18 under paragraph (a) of this subsection:
+19 1. A licensee;
+20 2. Any person that, directly or indirectly, owns, controls, or holds the
+21 power to vote, any voting stock of a licensee; or
+22 3. Any person that seeks to own, control, or hold power to vote, any
+23 voting stock of a licensee.
+24 (4) For a change of control by operation of law to a legal representative, the legal
+25 representative shall, within six (6) months from the date of the legal
+26 representative's qualification or within any additional period of time as the
+27 commissioner may approve in writing, make an application to the commissioner
+Page 7 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 406
+1 under subsection (2)(b) of this section for approval of the change of control.
+2 SECTION 4. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+3 IS CREATED TO READ AS FOLLOWS:
+4 (1) A licensee shall:
+5 (a) Use in its business such books, accounts, and records as will enable the
+6 commissioner to determine whether the licensee is complying with:
+7 1. This subtitle; and
+8 2. Any administrative regulations promulgated under this subtitle; and
+9 (b) Keep the books, accounts, and records referenced in paragraph (a) of this
+10 subsection for a minimum of six (6) years after making the final entry with
+11 respect to any earned income access transaction recorded therein.
+12 (2) Photographic reproductions or records in photographic form of the books,
+13 accounts, and records referenced in subsection (1) of this section shall constitute
+14 compliance with subsection (1)(b) of this section.
+15 SECTION 5. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+16 IS CREATED TO READ AS FOLLOWS:
+17 (1) Each licensee shall annually file a report with the commissioner providing any
+18 information as the commissioner may require concerning the licensee's earned
+19 income access transaction business operations, and the operations of any
+20 business with which the licensee's earned income access transaction business is
+21 operationally or financially consolidated, for the preceding calendar year.
+22 (2) The commissioner may require additional regular or special reports from a
+23 licensee as the commissioner deems necessary for the proper supervision of
+24 licensees under this subtitle.
+25 (3) Any report submitted under subsection (1) or (2) of this section shall be in a form
+26 prescribed by the commissioner.
+27 (4) The commissioner shall promulgate an administrative regulation in accordance
+Page 8 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 406
+1 with KRS Chapter 13A to prescribe the form and requirements for any report
+2 required to be submitted under subsection (1) of this section, which shall, at a
+3 minimum, include:
+4 (a) The date by which the report shall be submitted to the commissioner; and
+5 (b) The information to be included in the report.
+6 SECTION 6. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+7 IS CREATED TO READ AS FOLLOWS:
+8 (1) (a) The commissioner may make any investigation that he or she deems
+9 necessary to determine whether any:
+10 1. Person has violated this subtitle; or
+11 2. Licensee has conducted itself in such a manner as would justify the
+12 revocation of its license.
+13 (b) To the extent necessary to make an investigation under paragraph (a) of
+14 this subsection, the commissioner may:
+15 1. Compel the attendance of any person or obtain any books, accounts,
+16 or records by subpoenas;
+17 2. Administer oaths and affirmations; and
+18 3. Examine under oath or affirmation all persons whose testimony he or
+19 she may require.
+20 (2) (a) The commissioner may make any examination of the books, accounts, and
+21 records of any licensee's earned income access transaction business, and
+22 any business with which any licensee's earned income access transaction
+23 business is operationally or financially consolidated, as the commissioner
+24 deems necessary to determine whether the licensee has violated this subtitle.
+25 (b) 1. Subject to subparagraph 2. of this paragraph, the expenses incurred in
+26 making an examination under paragraph (a) of this subsection shall
+27 be assessed against and paid by the examined licensee.
+Page 9 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 406
+1 2. Any traveling and subsistence expenses incurred in making an
+2 examination under paragraph (a) of this subsection shall be included
+3 in the expenses assessed under subparagraph 1. of this paragraph in
+4 the proportion the commissioner deems just and reasonable.
+5 (c) Upon written notice of the amount assessed under paragraph (b) of this
+6 subsection, the licensee shall become liable for and pay the assessment to
+7 the department.
+8 (3) (a) Except as provided in paragraph (b) of this subsection, all reports of, and all
+9 correspondence and memoranda concerning or arising out of, any
+10 examination or investigation made under this section, including any duly
+11 authenticated copy or copies thereof in the possession of any licensee or the
+12 department, shall:
+13 1. Be confidential; and
+14 2. Not:
+15 a. Be subject to subpoena;
+16 b. Be subject to disclosure under KRS 61.870 to 61.884; and
+17 c. Otherwise be made public.
+18 (b) If in the judgment of the commissioner the ends of justice and public
+19 advantage will be subserved by the publication of any report,
+20 correspondence, or memoranda referenced in paragraph (a) of this
+21 subsection, the commissioner may publish, or authorize the publication of
+22 the report, correspondence, or memoranda, or any part thereof in a manner
+23 the commissioner deems proper.
+24 SECTION 7. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+25 IS CREATED TO READ AS FOLLOWS:
+26 (1) As used in this section:
+27 (a) "Debt collection activity" means the business of:
+Page 10 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 406
+1 1. Collection of any debts, directly or indirectly, owed or due or asserted
+2 to be owed or due to another;
+3 2. A buyer of debts who seeks to collect the debts, directly or indirectly;
+4 or
+5 3. Any creditor collecting its own debts if the creditor uses any name
+6 other than its own that would suggest or indicate that a person other
+7 than the creditor is collecting or attempting to collect the debt;
+8 (b) "Employer-integrated earned income access provider" means an earned
+9 income access provider engaged in the business of offering or providing
+10 employer-integrated earned income access transactions;
+11 (c) "Fee" means any mandatory amount that is charged or received for an
+12 earned income access transaction, including any charge for obtaining
+13 proceeds within the timeframe established in subsection (2)(a)6.b. of this
+14 section;
+15 (d) "Nonrecourse" means the unavailability of any legal cause of action or
+16 remedy against a consumer relating to an earned income access
+17 transaction; and
+18 (e) "Notice" means communication from a licensee to a consumer in a clear
+19 and conspicuous manner.
+20 (2) A licensee:
+21 (a) Shall:
+22 1. Offer to each consumer, and clearly explain how to elect, at least one
+23 (1) reasonable option to obtain proceeds at no cost to the consumer;
+24 2. Prior to entering into an earned income access transaction, provide
+25 notice to the consumer of the costs of the transaction, including all
+26 fees associated with the transaction;
+27 3. Provide the consumer with written notice of, and obtain the
+Page 11 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 406
+1 consumer's consent to, any amendment to the contract or terms of
+2 service for an earned income access transaction before proceeding
+3 with the transaction to which the amendments would apply;
+4 4. Ensure that each earned income access transaction entered into by the
+5 licensee:
+6 a. Is nonrecourse; and
+7 b. Does not result in the proceeds of the transaction rolling over or
+8 otherwise being structured in a way that creates any continuing
+9 obligation of the consumer to the licensee;
+10 5. If the licensee takes custody of a consumer's earned but unpaid
+11 income before paying proceeds to the consumer, ensure that the
+12 proceeds are fully insured by the Federal Deposit Insurance
+13 Corporation at the consumer's individual account level;
+14 6. Ensure that a consumer receives proceeds not later than the earlier of
+15 the following:
+16 a. Three (3) business days after the consumer's request for
+17 processing that is not subject to a fee;
+18 b. One (1) business day after the consumer's request for processing
+19 that is subject to a fee; or
+20 c. One (1) business day prior to the next regularly scheduled date
+21 on which the employer is scheduled to pay earned but unpaid
+22 income to the consumer;
+23 7. If the licensee offers consumers the opportunity to tip, make a
+24 donation, or otherwise pay an additional amount for an earned
+25 income access transaction voluntarily:
+26 a. Provide written notice to the consumer that paying any
+27 additional amount is not required in order for the consumer to
+Page 12 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 406
+1 receive proceeds; and
+2 b. Offer zero dollars ($0) among any amounts suggested to the
+3 consumer, including when the licensee:
+4 i. Offers amount options from which the consumer may
+5 select;
+6 ii. Prefills the additional amount in any form used in the
+7 transaction process; and
+8 iii. Uses any other transaction process designed to require the
+9 consumer to take an affirmative action to avoid or opt-out
+10 of paying the additional amount;
+11 8. Comply with:
+12 a. The National Automated Clearing House Association rules; and
+13 b. All applicable local, state, and federal privacy and information
+14 security laws and administrative regulations;
+15 9. If repayment is to be made through a debit of the consumer's account,
+16 including any subsequent initiation of a debit after an initial debit is
+17 returned for insufficient or uncollected funds, ensure that the debit
+18 complies with the requirements established under subsection (5)(a) of
+19 this section; and
+20 10. Not less than annually, provide a written notice to each consumer to
+21 whom the licensee has paid proceeds in the previous year that contains
+22 at a minimum:
+23 a. An itemization of the consumer's transactions and costs,
+24 including the total amount the consumer has paid in:
+25 i. Fees; and
+26 ii. Tips, donations, and other additional amounts paid
+27 voluntarily;
+Page 13 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 406
+1 b. An explanation of the costs of the services provided;
+2 c. Information on how to report complaints to the:
+3 i. Licensee; and
+4 ii. Commissioner;
+5 d. Definitions of terms used in the notice; and
+6 e. Other information prescribed by the commissioner; and
+7 (b) Except as provided in subsection (3) of this section, shall not:
+8 1. Pull a credit report or otherwise assess the credit risk of a consumer
+9 prior to, during, or after entering into an earned income access
+10 transaction with the consumer, except the licensee may verify the
+11 consumer's source of income as part of determining the amount of the
+12 proceeds;
+13 2. Report on any earned income access transaction to a consumer
+14 reporting agency prior to, during, or after entering into the
+15 transaction;
+16 3. Require a consumer to waive the right to class action relief as a
+17 condition of an earned income access transaction;
+18 4. Enter into an earned income access transaction unless:
+19 a. The consumer is eighteen (18) years of age or older; and
+20 b. The total proceeds received by the consumer from all
+21 outstanding transactions does not exceed five hundred dollars
+22 ($500);
+23 5. Charge or receive a fee for an earned income access transaction that
+24 exceeds five dollars ($5) per one hundred dollars ($100) of the
+25 proceeds;
+26 6. Charge for a subscription or membership service unless the charge is:
+27 a. Optional; and
+Page 14 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 406
+1 b. For a bona fide group of services that include earned income
+2 access transactions;
+3 7. Use any earned but unpaid income, or any portion thereof, to be paid
+4 as part of an earned income access transaction before receipt by the
+5 consumer to settle or pay down an obligation arising from a prior
+6 transaction;
+7 8. Impose a late fee or prepayment penalty on an earned income access
+8 transaction;
+9 9. Engage in, or retain the services of another to engage in, debt
+10 collection activity in connection with an earned income access
+11 transaction;
+12 10. Convey debt created by an earned income access transaction; or
+13 11. Directly or indirectly make, orally, in writing, or by any other method,
+14 practice, or device, a representation that the licensee is licensed under
+15 the banking laws other than a representation that the licensee is
+16 licensed as an earned income access provider under this subtitle.
+17 (3) An employer-integrated earned income access provider shall not:
+18 (a) Enter into an employer-integrated earned income access transaction unless
+19 the total proceeds received by the consumer for the transaction does not
+20 exceed the consumer's earned but unpaid income less any taxes and
+21 deductions to the consumer; or
+22 (b) Be subject to subsection (2)(b)4.b. or 5. of this section for an employer-
+23 integrated earned income access transaction.
+24 (4) Tips, donations, and other amounts paid voluntarily for an earned income access
+25 transaction made in accordance with this section shall not be subject to usury
+26 laws.
+27 (5) The commissioner shall promulgate an administrative regulation in accordance
+Page 15 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 406
+1 with KRS Chapter 13A to establish the following for earned income access
+2 transactions entered into by licensees:
+3 (a) Requirements for the repayment of earned income access transactions
+4 through a debit of a consumer's account; and
+5 (b) Information to be included in the notice required under subsection (2)(a)10.
+6 of this section.
+7 SECTION 8. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+8 IS CREATED TO READ AS FOLLOWS:
+9 (1) The commissioner shall:
+10 (a) Implement a common database with real-time access through an internet or
+11 application programming interface connection for use by the department
+12 and licensees in accordance with this section; and
+13 (b) Either:
+14 1. Operate the database; or
+15 2. Contract with a third-party provider to operate the database.
+16 (2) If the commissioner contracts with a third-party provider to operate the database,
+17 all of the following apply:
+18 (a) The commissioner shall:
+19 1. Ensure that the third-party provider selected as the database provider
+20 operates the database in accordance with this subtitle; and
+21 2. Consider ability to meet all the requirements of this subtitle in
+22 selecting a third-party provider as the database provider;
+23 (b) The third-party provider shall use the data collected under this subtitle only
+24 as prescribed in this subtitle and the contract with the department and for
+25 no other purpose;
+26 (c) If the third-party provider violates this subtitle:
+27 1. The commissioner may terminate the third-party provider's contract;
+Page 16 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 406
+1 and
+2 2. The third-party provider may be barred from becoming a party to any
+3 other state contracts; and
+4 (d) A person injured by the third-party provider's violation of this subtitle may:
+5 1. Maintain a civil cause of action against the third-party provider; and
+6 2. Recover actual damages plus reasonable attorney's fees and court
+7 costs in the civil action.
+8 (3) The database shall be accessible to:
+9 (a) Licensees to:
+10 1. Verify whether entering into an earned income access transaction with
+11 a particular consumer would be in violation of subsection (2)(b)4.b. of
+12 Section 7 of this Act; and
+13 2. Submit data under subsection (4) of this section; and
+14 (b) The commissioner to administer and enforce this subtitle.
+15 (4) Before entering into an earned income access transaction, a licensee shall submit
+16 the following data into the database in a format prescribed by the commissioner:
+17 (a) The consumer's:
+18 1. Name;
+19 2. Social Security number, alien registration number as shown on an
+20 employment authorization document, or a unique identifier
+21 established by the commissioner;
+22 3. Address; and
+23 4. Driver's license number;
+24 (b) The amount of the transaction;
+25 (c) The date of the transaction;
+26 (d) The date that the transaction is closed; and
+27 (e) Any additional information required by the commissioner.
+Page 17 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 406
+1 (5) (a) Except as provided in paragraph (b) of this subsection, the commissioner
+2 shall impose a fee not to exceed three dollars ($3) per transaction for data
+3 required to be submitted for an earned income access transaction, which
+4 may be charged to the consumer.
+5 (b) The fee referenced in paragraph (a) of this subsection shall not:
+6 1. Be charged to a consumer for a no-cost earned income access
+7 transaction; or
+8 2. Apply to an employer-integrated earned income access transaction.
+9 (6) A licensee:
+10 (a) May rely on information contained in the database as accurate; and
+11 (b) Shall not be subject to any administrative penalty or civil liability due to
+12 reliance on inaccurate information contained in the database.
+13 (7) The commissioner shall use the database to administer and enforce this subtitle.
+14 (8) If the commissioner contracts with a third-party to operate the database, the
+15 commissioner shall require the database provider to file a report containing the
+16 following information by April 1 of each year:
+17 (a) The total number and dollar amount of earned income access transactions:
+18 1. Entered into in the calendar year ending December 31 of the previous
+19 year; and
+20 2. Outstanding as of December 31 of the previous year;
+21 (b) The total dollar amount of the following collected for earned income access
+22 transactions as of December 31 of the previous year:
+23 1. Fees, as defined in Section 7 of this Act;
+24 2. Tips, donations, and other amounts paid voluntarily;
+25 (c) As of December 31 of the previous year, the following per consumer:
+26 1. The average earned income access transaction amount;
+27 2. The average number of transactions; and
+Page 18 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 406
+1 3. The average aggregate earned income access transaction amount
+2 entered into;
+3 (d) The average number of days a consumer was engaged in an earned income
+4 access transaction for the previous year;
+5 (e) An estimate of the average total amount of the following paid per consumer
+6 for earned income access transactions for the previous year:
+7 1. Fees, as defined in Section 7 of this Act; and
+8 2. Tips, donations, and other amounts paid voluntarily;
+9 (f) The total number of unique consumers that entered into an earned income
+10 access transaction for the previous year;
+11 (g) For the previous year, the total number of earned income access
+12 transactions in which the proceeds were issued:
+13 1. Directly to the consumer; and
+14 2. Through an integrated employer; and
+15 (h) Any other information required by the commissioner.
+16 (9) The commissioner may promulgate an administrative regulation in accordance
+17 with KRS Chapter 13A to administer this section and ensure that the database is
+18 used by licensees in accordance with this section.
+19 SECTION 9. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+20 IS CREATED TO READ AS FOLLOWS:
+21 (1) Subject to subsection (2) of this section, a license issued under Section 2 of this
+22 Act shall not be renewed, and shall be revoked or suspended, by the commissioner
+23 upon a finding that:
+24 (a) The licensee has:
+25 1. Not complied with any applicable reporting requirements;
+26 2. Violated:
+27 a. This subtitle; or
+Page 19 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 406
+1 b. Any administrative regulation promulgated under this subtitle;
+2 or
+3 3. Been convicted under any federal law or administrative regulation
+4 governing crimes involving moral turpitude;
+5 (b) Any fact or condition exists that clearly would have warranted the
+6 commissioner denying the license if that fact or condition had existed at the
+7 time of the original application for the license; or
+8 (c) The licensee has failed to:
+9 1. Pay any sum of money lawfully demanded by the department; or
+10 2. Comply with any demand, ruling, or requirement of the commissioner
+11 or department.
+12 (2) (a) Except as provided in paragraph (b) of this subsection:
+13 1. The commissioner shall provide written notice to the licensee prior to
+14 suspending or revoking a license issued under Section 2 of this Act;
+15 2. A licensee that receives a notice of the commissioner's intent to
+16 suspend or revoke a license may file a written petition for an
+17 administrative hearing in accordance with KRS Chapter 13B within
+18 thirty (30) days of the date of the notice; and
+19 3. If a licensee fails to timely request a hearing under subparagraph 2. of
+20 this paragraph, the commissioner may enter a default order of
+21 revocation or suspension.
+22 (b) 1. The commissioner may, on good cause shown or where there is a
+23 substantial risk of public harm, suspend any license issued under
+24 Section 2 of this Act for not more than thirty (30) days pending
+25 investigation without notice and hearing.
+26 2. For purposes of subparagraph 1. of this paragraph, good cause shown
+27 shall only exist when the licensee:
+Page 20 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 406
+1 a. Has engaged in, or is likely to engage in, a practice prohibited by
+2 this subtitle; or
+3 b. Engages in dishonest or inequitable practices which may cause
+4 substantial harm to the persons afforded protection under this
+5 subtitle.
+6 (c) The commissioner may reinstate a suspended license, or issue a new license
+7 to a person whose license was revoked, if no fact or condition exists at the
+8 time of the application or reinstatement which clearly warrants the
+9 commissioner's denial of the license.
+10 (3) (a) 1. A license issued under Section 2 of this Act may be surrendered by the
+11 licensee by delivering written notice of the surrender to the
+12 department.
+13 2. For purposes of this paragraph, "written notice" includes electronic
+14 notice.
+15 (b) The surrender of a license shall not affect the licensee's civil or criminal
+16 liability for acts committed prior to the surrender.
+17 SECTION 10. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+18 IS CREATED TO READ AS FOLLOWS:
+19 The commissioner may promulgate administrative regulations in accordance with KRS
+20 Chapter 13A, conduct hearings, and make specific rulings, orders, demands, and
+21 findings as may be necessary for:
+22 (1) Proper conduct of business authorized under this subtitle; and
+23 (2) The enforcement of this subtitle.
+24 SECTION 11. A NEW SECTION OF SUBTITLE 13 OF KRS CHAPTER 286
+25 IS CREATED TO READ AS FOLLOWS:
+26 (1) (a) The commissioner may levy a civil penalty against any person that:
+27 1. Violates or participates in the violation of any:
+Page 21 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 406
+1 a. Provision of this subtitle;
+2 b. Administrative regulation promulgated under this subtitle; or
+3 c. Order of the commissioner issued under this subtitle;
+4 2. Knowingly makes any incorrect statement of material fact in any
+5 application, report, or statement filed under this subtitle;
+6 3. Knowingly omits any material fact necessary to provide the
+7 commissioner any information lawfully required by him or her under
+8 this subtitle; or
+9 4. Refuses to permit any investigation or examination authorized under
+10 this subtitle.
+11 (b) The civil penalty levied under paragraph (a) of this subsection shall not be
+12 less than one thousand dollars ($1,000) nor more than five thousand dollars
+13 ($5,000) per violation for each day the violation is outstanding, plus the
+14 state's costs and expenses for examination, investigation, and prosecution of
+15 the matter, including reasonable attorney's fees and court costs.
+16 (2) Any earned income access transaction made in violation of subsection (2) of
+17 Section 2 of this Act shall be void and the earned income access provider shall
+18 not have a right to collect any principal, fee, or recompense whatsoever.
+19 (3) Any civil penalties imposed under this section shall be in addition to any other
+20 remedy or penalty authorized under this subtitle.
+21 Section 12. KRS 286.4-410 is amended to read as follows:
+22 (1) As used in this subtitle, unless the context requires otherwise:
+23 (a) "Applicant" means a person filing an application under this subtitle;
+24 (b) "Consumer loan company" means a person licensed under this subtitle to
+25 engage in the business of making loans to a consumer for personal, family, or
+26 household use in the amount or value of fifteen thousand dollars ($15,000) or
+27 less;
+Page 22 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 406
+1 (c) "Control" means the power to direct the management or policies of a licensee
+2 or applicant, whether through ownership of securities, by contract, or
+3 otherwise;
+4 (d) "Executive officer" means a natural person holding the title or responsibility
+5 of president, vice president, chief executive officer, chief financial officer,
+6 chief operational officer, or chief compliance officer;
+7 (e) "Licensee" means a person licensed under this subtitle;
+8 (f) "Managing principal" means a natural person who meets the requirements of
+9 KRS 286.4-450 and actively participates in and is primarily responsible for
+10 the operations of a licensee;
+11 (g) "Material fact" means a fact that a reasonable person knows, or should know,
+12 that could reasonably be expected to influence any decision or action taken by
+13 the commissioner under this subtitle;
+14 (h) "Nationwide consumer reporting agency" means a consumer reporting agency
+15 that compiles and maintains files on consumers on a nationwide basis as
+16 defined by Section 603(p) of the Fair Credit Reporting Act, 15 U.S.C. sec.
+17 1681a(p); and
+18 (i) "Person in control of a licensee or applicant" means, with respect to an
+19 applicant or licensee, any of the following:
+20 1. A director, general partner, or executive officer;
+21 2. In the case of a limited liability company, a managing member or
+22 manager;
+23 3. Any person who directly or indirectly has the right to vote twenty-five
+24 percent (25%) or more of a class of voting securities;
+25 4. Any person who has the power to sell or direct the sale of twenty-five
+26 percent (25%) or more of a class of voting securities;
+27 5. In the case of a partnership or limited liability company, any person that
+Page 23 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 406
+1 has the right to receive twenty-five percent (25%) or more of the capital
+2 upon dissolution; or
+3 6. Any person that exercises control.
+4 (2) This subtitle shall not apply to:
+5 (a) Any person doing business under and as permitted by any law of this state or
+6 of the United States relating to banks, savings banks, trust companies, savings
+7 and loan associations, agricultural cooperative associations, credit unions, or
+8 licensed pawnbrokers;[. This subtitle does not apply to ]
+9 (b) The purchase or acquisition, directly or indirectly, of notes, chattel mortgages,
+10 installment or conditional sales contracts, embodying liens or evidencing title
+11 retention arising from the bona fide sale of goods or services by a seller of the
+12 goods or services; or
+13 (c) Any person doing business under and as permitted by Subtitle 13 of this
+14 chapter.
+15 Section 13. KRS 371.150 is amended to read as follows:
+16 KRS 371.110 to 371.150 do not apply to any:
+17 (1) National or state bank;[, or to any ]
+18 (2) Credit union;[ or ]
+19 (3) Trust company; or
+20 (4) Person doing business under and as permitted by Subtitle 13 of KRS Chapter 286.
+21 Section 14. Sections 1 to 11 of this Act may be cited as the Kentucky Earned
+22 Wage Access Act.
+23 Section 15. If any provision of this Act or the application thereof to any person
+24 or circumstance is held invalid, the invalidity thereof shall not affect other provisions or
+25 applications of the Act which can be given effect without the invalid provision or
+26 application, and to this end the provisions and applications of this Act are severable.
+27 Section 16. This Act applies to earned income access transactions offered or
+Page 24 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 406
+1 provided on or after January 1, 2026.
+Page 25 of 25
+XXXX 2/13/2025 3:14 PM Jacketed
+
+[DELETED:   2  J A B S 1   S 1 O K C 2 I E A A ( " ( " b u i m w o c t h b e b o h a t t b o a c f l o s p t ( " ( P o o t p o b o a e e i a e ( O t ( " i a t o " m t p o e r c b ( " ( M a h b p b p b o o b f l a ( D]
+[DELETED:   2  J 1 A o 2 A c p ( " e i a t m a e i d ( E ( E ( " S ( " a S I ( A ( B s a l a h c o c u t i o ( I 1 C 2 T ( S o a e r i p ( o ( o t s ( C ( S]
+[DELETED:   2  J 1 V 2 I o ( E t o a p o w o c d t i e r s t o w t e p w o c ( A p s n d t f u t p f o a e i a p l f t c o i a e o ( P t t c e w o c f t e ( O e i a t t o e i e i t ( A ( M ( A 1 A 2 A ( ( U t f o a c a f a e i a p l t c s a c a s r 1 A 2 S t s ( o s d t a i t c t a o a p a w t a i n]
+[DELETED:   2  J s a C b R w t a w o h l f a e ( A 1 I t a i a p l l c o a 2 I t a i a c t o a d o t a ( ( T c s p w n t a a p t d ( A a m f a w p f a a h i a n ( I s t c m e a d o d t a ( I l ( R ( R ( A ( S 1 T 2 I t l i a p l l c o]
+[DELETED:   2  J a t n o e m o t p l l 3 I ( B 1 I 2 O ( B 1 R 2 S 3 E ( N ( ( O a l f o o t d ( f t f c ( F o a l t p t a l f r u p ( o t s s r i t e o t l ( T d 1 S 2 P ( A b ( T w s S]
+[DELETED:   2  J I ( A ( " 1 M t t v o 2 S c f a T b T p s 3 S d ( " r m a p d a b a c o c c p 1 S 2 A ( ( E a o ( A]
+[DELETED:   2  J 1 M c 2 P ( T c s p a a r i a 1 T r d n a a f t p o m a d 2 T t ( U t ( ( T c m d w t o c o h o ( T u 1 A 2 A p t d o i o c o h t p 3 A p t s t o c o h p t v a v ( F r s w s ( m f t d o t l r q o w a a p o t a t c]
+[DELETED:   2  J u S I ( A ( U i i b s b a a r a w e t c 1 T 2 A ( K s r ( P r o r i p f o t b a c S I ( E i i a t b o a t o o a b o ( T c m r a r o s r f a l a t c d n f t p s o l ( A p ( T]
+[DELETED:   2  J w C 1 t p t f r f a r r m ( T ( T S I ( ( T c m m a i t h o s d n 1 P 2 L r ( T t 1 C o 2 A 3 E s ( ( T r a b d ( 1 S m b]
+[DELETED:   2  J 2 A t a s e i i m a e i t ( U w n o t a a u p ( o t s t ( ( E c a m c o a o o a e a d 1 B 2 N a B b B c O ( I i t j o t c t e o j a p a w b s b t p o a r c o m r i p ( o t s t t S I ( A ( "]
+[DELETED:   2  J 1 C t 2 A o 3 A c c i o d i t c u a n o t ( " e i a p m a e i a p e i t b o o o p e ( " m a m a t i c o r f a e i a t i a c f o p w t t e i s ( o t s ( " m t u o a l c o a o r a a c r t a e i a t ( " a ( A ( S 1 O ( 2 P n f 3 P t c w w n o a o t]
+[DELETED:   2  J c c t a a t t c o t o s f a e i a t b p w 4 E l a I b D o o 5 I t l t c o a c e b u i b p p t t c e t t p a f i b t F D I C 6 E t a T ( b d a t c r f p b O t c O o w t e i s t p e b u i 7 I t l o c t o t t m a d o o p a a a f a e i a P w n t t c t p a a]
+[DELETED:   2  J r b O z d ( a a a s t t c i O a o f w t c m s i P t a a i a f u i t t i U c o 8 C a T b A s 9 I i r f i o u f e t t d c t 1 N w a a A i o t c t a c i i F i T d a o a a p v]
+[DELETED:   2  J b A c I i L i C d D e O ( E 1 P p t d o a e i a e i a t w t c e t l m v t c p 2 R o a e i a t t a c r a p t d o a e i t t 3 R a c t w t r t c a r a a c 4 E a T b T t p r b t c f a o t d n e f h d ( 5 C e f d ( p o h d ( o t p 6 C a O]
+[DELETED:   2  J b F a b f g o t i e i a 7 U a c t s o p d a o a f a p t 8 I t 9 E i o r t s o a t e i d c a i c w a e i a t 1 C 1 D p t b l o t a r t t l i l ( A ( E t t p r b t c f t t d n e t c e b u i l a t a d ( B s t s ( o 5 o t s f a e i ( T t l ( T]
+[DELETED:   2  J w K C 1 t e t f f e i a t ( R f t r o e i a t t ( I o S I ( T ( I a p i c f u b t d a ( E 1 O 2 C ( I a ( T 1 E o 2 C a t m a t r o t s i s ( T a n ( I 1 T]
+[DELETED:   2  J a 2 T o ( A 1 M 2 R a d p r a f a c c ( T ( L 1 V a S 2 S ( T ( B t ( T 1 N 2 S S n a r n a s o a e a d o a u i e 3 A 4 D ( T ( T ( T ( A]
+[DELETED:   2  J ( ( E s r a m ( T 1 B c t a c f a n e i a t 2 A ( A ( M ( S r ( T ( I t c c w a t t o t d t c f ( T 1 E y 2 O ( T t 1 F 2 T ( A 1 T 2 T]
+[DELETED:   2  J 3 T a a e i a t a e ( T a ( A f 1 F 2 T ( T a ( F t p y t t n o e i a t 1 D 2 T ( A ( T w u S I ( S A u ( T 1 N 2 V a T]
+[DELETED:   2  J b A a r p u t s o 3 B c u a f l o a r g ( A f o c e t c w h w t c t ( T 1 P 2 C o ( ( E 1 T s 2 A l t r a n o t c i t s o r a l m f a w p f a a t 3 I t p t c m e a d o o r ( 1 T c m o g c s o w t i a s r o p h s a l i u S 2 o t A f n m t t ( d p i 2 F s]
+[DELETED:   2  J a H t b E s s ( T t t o t a o r w c w t c ( ( 1 A l b d w n o t s t t d 2 F n ( T l S I T C 1 c h a m s r o d a f ( P ( T S I ( ( T 1 V]
+[DELETED:   2  J a P b A c O 2 K m a i s o m f i a a 3 K o a m f n t p t c t 4 R t ( T l ( p v f e d t v i o p t s t ( A e i a t m i v o s ( o S n ( A r S ( A ( " ( " l c m a p l u t s t e h l]
+[DELETED:   2  J ( " o a w t o o s b c o o ( " o p v p c e o c f o c ( " ( " K t ( " t t ( " t c a m f o c o a n b a d 1 ( " i c o a l o a m w r t a a 1 A 2 I t c o a l l c a m m o m 3 A p 4 A p 5 I]
+[DELETED:   2  J h u 6 A ( T ( A o a l ( T i r g ( A c S K ( N ( C ( T ( P S W S o a o t A w c b g e w t i p o a S]
+[DELETED:   2  J p]

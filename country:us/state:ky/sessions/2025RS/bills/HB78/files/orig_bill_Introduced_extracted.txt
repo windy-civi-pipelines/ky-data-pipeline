@@ -1,0 +1,124 @@
+Title: 1 AN ACT relating to the psychiatric collaborative care model.
+Official Title: 1 AN ACT relating to the psychiatric collaborative care model.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS BR 950
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 304.17A-660 is amended to read as follows:
+4 As used in KRS 304.17A-660 to 304.17A-669, unless the context requires otherwise:
+5 (1) "Classification of benefits" means the classification of benefits set forth in 45
+6 C.F.R. sec. 146.136(c)(2)(ii)(A);
+7 (2) "Mental health condition" means any condition or disorder that involves mental
+8 illness or substance use disorder as defined in KRS 222.005 and that falls under any
+9 of the diagnostic categories listed in the most recent version of the Diagnostic and
+10 Statistical Manual of Mental Disorders or that is listed in the mental disorders
+11 section of the most recent version of the International Classification of Disease;
+12 (3) "Nonquantitative treatment limitation" means any limitation that is not expressed
+13 numerically but otherwise limits the scope or duration of benefits for treatment;
+14 (4) "Psychiatric collaborative care model" means the evidence-based, integrated
+15 behavioral health service delivery method described in 81 Fed. Reg. 80230;
+16 (5) "Terms or conditions" includes day or visit limits, episodes of care, any lifetime or
+17 annual payment limits, deductibles, copayments, prescription coverage,
+18 coinsurance, out-of-pocket limits, and any other cost-sharing requirements; and
+19 (6)[(5)] "Treatment of a mental health condition" includes but is not limited to any
+20 necessary outpatient, inpatient, residential, partial hospitalization, day treatment,
+21 emergency detoxification, or crisis stabilization services.
+22 SECTION 2. A NEW SECTION OF KRS CHAPTER 304.17A-660 TO
+23 304.17A-669 IS CREATED TO READ AS FOLLOWS:
+24 (1) (a) All insurers that issue, deliver, or renew any health benefit plan that
+25 provides coverage for treatment of a mental health condition shall provide
+26 reimbursement for those benefits that are delivered through the psychiatric
+27 collaborative care model, which shall include the following Current
+Page 1 of 2
+XXXX 12/30/2024 3:15 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 950
+1 Procedural Terminology billing codes maintained by the American Medical
+2 Association:
+3 1. 99492;
+4 2. 99493; and
+5 3. 99494.
+6 (b) The commissioner shall update the list of billing codes to be included under
+7 this subsection if there are any alterations or additions to the billing codes
+8 used for the psychiatric collaborative care model.
+9 (2) All insurers that issue, deliver, or renew any health benefit plan that provides
+10 coverage for treatment of a mental health condition may deny reimbursement of
+11 any billing code referenced in this section on the grounds of medical necessity,
+12 provided that the medical necessity determinations are in compliance with the
+13 provisions of the Paul Wellstone and Pete Domenici Mental Health Parity and
+14 Addiction Equity Act of 2008, codified at 42 U.S.C. sec. 300gg-26, as amended,
+15 and any related federal regulations, as amended, and that the determinations are
+16 made in accordance with the utilization review requirements in KRS 304.17A-600
+17 to 304.17A-633.
+18 Section 3. Section 2 of this Act applies to health benefit plans issued, delivered,
+19 or renewed on or after January 1, 2026.
+Page 2 of 2
+XXXX 12/30/2024 3:15 PM Jacketed
+[DELETED:   2  J A B S A ( " o b m t c o b s f i 4 C ( " h c m a c o d t i m i o S M o M D o t i l i t m d s ( " n ( " c c m m t e i b ( " a p l d c p c c ( " n o i r p h d t e S 2   A N S O K C 3 T 3 ( ( A i t i d o r a h b p t p r c c m w s i t f C]
+[DELETED:   2  J P A 1 9 2 9 3 9 ( T t u ( A c a p t t m n d a i c w t p A a m t S o]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS BR 950
+1 AN ACT relating to the psychiatric collaborative care model.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 304.17A-660 is amended to read as follows:
+4 As used in KRS 304.17A-660 to 304.17A-669, unless the context requires otherwise:
+5 (1) "Classification of benefits" means the classification of benefits set forth in 45
+6 C.F.R. sec. 146.136(c)(2)(ii)(A);
+7 (2) "Mental health condition" means any condition or disorder that involves mental
+8 illness or substance use disorder as defined in KRS 222.005 and that falls under any
+9 of the diagnostic categories listed in the most recent version of the Diagnostic and
+10 Statistical Manual of Mental Disorders or that is listed in the mental disorders
+11 section of the most recent version of the International Classification of Disease;
+12 (3) "Nonquantitative treatment limitation" means any limitation that is not expressed
+13 numerically but otherwise limits the scope or duration of benefits for treatment;
+14 (4) "Psychiatric collaborative care model" means the evidence-based, integrated
+15 behavioral health service delivery method described in 81 Fed. Reg. 80230;
+16 (5) "Terms or conditions" includes day or visit limits, episodes of care, any lifetime or
+17 annual payment limits, deductibles, copayments, prescription coverage,
+18 coinsurance, out-of-pocket limits, and any other cost-sharing requirements; and
+19 (6)[(5)] "Treatment of a mental health condition" includes but is not limited to any
+20 necessary outpatient, inpatient, residential, partial hospitalization, day treatment,
+21 emergency detoxification, or crisis stabilization services.
+22 SECTION 2. A NEW SECTION OF KRS CHAPTER 304.17A-660 TO
+23 304.17A-669 IS CREATED TO READ AS FOLLOWS:
+24 (1) (a) All insurers that issue, deliver, or renew any health benefit plan that
+25 provides coverage for treatment of a mental health condition shall provide
+26 reimbursement for those benefits that are delivered through the psychiatric
+27 collaborative care model, which shall include the following Current
+Page 1 of 2
+XXXX 12/30/2024 3:15 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 950
+1 Procedural Terminology billing codes maintained by the American Medical
+2 Association:
+3 1. 99492;
+4 2. 99493; and
+5 3. 99494.
+6 (b) The commissioner shall update the list of billing codes to be included under
+7 this subsection if there are any alterations or additions to the billing codes
+8 used for the psychiatric collaborative care model.
+9 (2) All insurers that issue, deliver, or renew any health benefit plan that provides
+10 coverage for treatment of a mental health condition may deny reimbursement of
+11 any billing code referenced in this section on the grounds of medical necessity,
+12 provided that the medical necessity determinations are in compliance with the
+13 provisions of the Paul Wellstone and Pete Domenici Mental Health Parity and
+14 Addiction Equity Act of 2008, codified at 42 U.S.C. sec. 300gg-26, as amended,
+15 and any related federal regulations, as amended, and that the determinations are
+16 made in accordance with the utilization review requirements in KRS 304.17A-600
+17 to 304.17A-633.
+18 Section 3. Section 2 of this Act applies to health benefit plans issued, delivered,
+19 or renewed on or after January 1, 2026.
+Page 2 of 2
+XXXX 12/30/2024 3:15 PM Jacketed
+
+[DELETED:   2  J A B S A ( " o b m t c o b s f i 4 C ( " h c m a c o d t i m i o S M o M D o t i l i t m d s ( " n ( " c c m m t e i b ( " a p l d c p c c ( " n o i r p h d t e S 2   A N S O K C 3 T 3 ( ( A i t i d o r a h b p t p r c c m w s i t f C]
+[DELETED:   2  J P A 1 9 2 9 3 9 ( T t u ( A c a p t t m n d a i c w t p A a m t S o]

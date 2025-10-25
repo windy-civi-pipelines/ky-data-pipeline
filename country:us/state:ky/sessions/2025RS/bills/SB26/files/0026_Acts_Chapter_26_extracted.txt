@@ -1,0 +1,852 @@
+Title: AN ACT relating to parental rights.
+Official Title: AN ACT relating to parental rights.
+Number of Sections: 20
+Source: versions - Acts Chapter 26
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+CHAPTER 26 1
+CHAPTER 26
+( SB 26 )
+Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+Section 1. KRS 199.011 is amended to read as follows:
+As used in this chapter, unless the context otherwise requires:
+(1) "Adoption worker" means an employee of the cabinet so designated by the secretary for health and family
+services, a social worker employed by a county or city who has been approved by the cabinet to handle, under
+its supervision, adoption placement services to children, or a social worker employed by or under contract to a
+child-placing adoption agency;
+(2) "Adult adopted person" means any adopted person who is twenty-one (21) years of age or older;
+(3) "Cabinet" means the Cabinet for Health and Family Services;
+(4) "Child" means any person who has not reached his or her eighteenth birthday;
+(5) "Child-caring facility" means any institution or group home, including institutions and group homes that are
+publicly operated, providing residential care on a twenty-four (24) hour basis to children, not related by blood,
+adoption, or marriage to the person maintaining the facility, other than an institution or group home certified
+by an appropriate agency as operated primarily for educational or medical purposes, or a residential program
+operated or contracted by the Department of Juvenile Justice that maintains accreditation, or obtains
+accreditation within two (2) years of opening from a nationally recognized accrediting organization;
+(6) "Child-placing agency" means any agency licensed by the cabinet, which supervises the placement of children
+in foster family homes or child-caring facilities, or which places children for adoption;
+(7) "Department" means the Department for Community Based Services;
+(8) (a) "Disability" means:
+
+Section 2:
+1. A physical or mental impairment, whether congenital or acquired, that substantially limits one
+(1) or more of the major life activities of an individual and is demonstrable by medically
+accepted clinical or laboratory diagnostic techniques;
+
+Section 3:
+2. A record of having such an impairment; or
+
+Section 4:
+3. Being regarded as having such an impairment.
+(b) An individual who is currently engaging in the illegal use of drugs or the abuse of alcohol, drugs, or
+other substances is not an individual with a "disability" for purposes of this chapter;
+(9) "Family rehabilitation home" means a child-caring facility for appropriate families and comprising not more
+than twelve (12) children and two (2) staff persons;
+(10)[(9)] "Fictive kin" means an individual who is not related by birth, adoption, or marriage to a child, but who
+has an emotionally significant relationship with the child, or an emotionally significant relationship with a
+biological parent, siblings, or half-siblings of the child in the case of a child from birth to twelve (12) months
+of age, prior to placement;
+(11)[(10)] "Foster family home" means a private home in which children are placed for foster family care under
+supervision of the cabinet or of a licensed child-placing agency;
+(12)[(11)] "Group home" means a homelike facility, excluding Department of Juvenile Justice-operated or -
+contracted facilities, for not more than eight (8) foster children, not adjacent to or part of an institutional
+campus, operated by a sponsoring agency for children who may participate in community activities and use
+community resources;
+(13)[(12)] "Institution" means a child-caring facility providing care or maintenance for nine (9) or more children;
+(14)[(13)] "Placement services" means those social services customarily provided by a licensed child-placing or a
+public agency, which are necessary for the arrangement and placement of children in foster family homes,
+Legislative Research Commission PDF Version
+2 ACTS OF THE GENERAL ASSEMBLY
+child-placing facilities, or adoptive homes. Placement services are provided through a licensed child-placing or
+a public agency for children who cannot be cared for by their biological parents and who need and can benefit
+from new and permanent family ties established through legal adoption. Licensed child-placing agencies and
+public agencies have a responsibility to act in the best interests of children, biological parents, and adoptive
+parents by providing social services to all the parties involved in an adoption;
+(15)[(14)] "Rap back system" means a system that enables an authorized entity to receive ongoing status
+notifications of any criminal history from the Department of Kentucky State Police or the Federal Bureau of
+Investigation reported on an individual whose fingerprints are registered in the system, upon approval and
+implementation of the system;
+(16)[(15)] "Reasonable and prudent parent standard" has the same meaning as in 42 U.S.C. sec. 675(10);
+(17)[(16)] "Secretary" means the secretary for health and family services; and
+(18)[(17)] "Voluntary and informed consent" means that at the time of the execution of the consent, the consenting
+person was fully informed of the legal effect of the consent, that the consenting person was not given or
+promised anything of value except those expenses allowable under KRS 199.590(6), that the consenting
+person was not coerced in any way to execute the consent, and that the consent was voluntarily and knowingly
+given. If at the time of the execution of the consent the consenting person was represented by independent
+legal counsel, there shall be a presumption that the consent was voluntary and informed. The consent shall be
+in writing, signed and sworn to by the consenting person, and include the following:
+(a) Date, time, and place of the execution of the consent;
+(b) Name of the child, if any, to be adopted, and the date and place of the child's birth;
+(c) Consenting person's relationship to the child;
+(d) Identity of the proposed adoptive parents or a statement that the consenting person does not desire to
+know the identification of the proposed adoptive parents;
+(e) 1. A statement that the consenting person understands that the consent will be final and irrevocable
+under this paragraph unless withdrawn under this paragraph.
+
+Section 5:
+2. If placement approval by the secretary is required, the voluntary and informed consent shall
+become final and irrevocable seventy-two (72) hours after the execution of the voluntary and
+informed consent. This consent may be withdrawn only by written notification sent to the
+proposed adoptive parent or the attorney for the proposed adoptive parent on or before the
+expiration of the seventy-two (72) hours by certified or registered mail and also by first-class
+mail.
+
+Section 6:
+3. If placement approval by the secretary is not required, the voluntary and informed consent shall
+become final and irrevocable seventy-two (72) hours after the execution of the voluntary and
+informed consent. This consent may be withdrawn only by written notification sent to the
+proposed adoptive parent or the attorney for the proposed adoptive parent on or before the
+expiration of the seventy-two (72) hours by certified or registered mail and also by first-class
+mail;
+(f) Disposition of the child if the adoption is not adjudged;
+(g) A statement that the consenting person has received a completed and signed copy of the consent at the
+time of the execution of the consent;
+(h) Name and address of the person who prepared the consent, name and address of the person who
+reviewed and explained the consent to the consenting person, and a verified statement from the
+consenting person that the consent has been reviewed with and fully explained to the consenting person;
+and
+(i) Total amount of the consenting person's legal fees, if any, for any purpose related to the execution of
+the consent and the source of payment of the legal fees.
+Section 2. KRS 199.462 is amended to read as follows:
+(1) Before an applicant is approved to provide foster care or relative caregiver services to a child, considered a
+fictive kin placement for a child, or approved to receive a child for adoption, the Cabinet for Health and
+Family Services shall:
+CHAPTER 26 3
+(a) Require a criminal background investigation of the applicant and any of the applicant's adult household
+members by means of a fingerprint check by the Department of Kentucky State Police and the Federal
+Bureau of Investigation; or
+(b) Request from the Justice and Public Safety Cabinet records of all conviction information for the
+applicant and any of the applicant's adult household members. The Justice and Public Safety Cabinet
+shall furnish the information to the Cabinet for Health and Family Services and shall also send a copy
+of the information to the applicant.
+(2) The request for records shall be in a manner approved by the Justice and Public Safety Cabinet, and the Justice
+and Public Safety Cabinet may charge a fee to be paid by the applicant for the actual cost of processing the
+request.
+(3) The Cabinet for Health and Family Services shall not disapprove of any placement or custody arrangement,
+including but not limited to foster care, relative caregiver services, fictive kin placement, temporary custody,
+permanent custody, or adoption on the sole basis of a disability of the prospective caregiver without
+considering whether targeted adaptive or supportive services could enable the prospective caregiver to
+provide essential care and protection for the child.
+(4)[(3)] During a certified adoptive or foster home's annual reevaluation, the Cabinet for Health and Family
+Services may:
+(a) Require a background investigation for each adult household member of the certified adoptive or foster
+home under subsections (1) and (2) of this section; or
+(b) Register each adult household member of a certified adoptive or foster home under subsections (1) and
+(2) of this section in the rap back system.
+(5)[(4)] If a child is placed and resides in a fictive kin home for more than seventy-two (72) hours, the Cabinet
+for Health and Family Services shall take action, including but not limited to the following:
+(a) Provide information on how to recognize and report child abuse or neglect; and
+(b) Ensure that, within the first five (5) days of a child under the age of five (5) years old being placed in a
+fictive kin home, the fictive kin has completed a one (1) time training course of one and one-half (1.5)
+hours of training covering the prevention and recognition of pediatric abusive head trauma, as defined
+in KRS 620.020.
+(6)[(5)] The Cabinet for Health and Family Services shall promulgate an administrative regulation to implement
+this section.
+Section 3. KRS 199.471 is amended to read as follows:
+Petitions for adoption of children placed for adoption by the cabinet or a licensed child-placing institution or agency
+shall not be denied:
+(1) On the basis of the religious, ethnic, racial, or interfaith background of the adoptive applicant, unless contrary
+to the expressed wishes of the biological parent or parents; or[parent(s)]
+(2) On the sole basis of a disability of the adoptive applicant without considering whether targeted adaptive or
+supportive services could enable the applicant to provide essential care and protection for the child.
+Section 4. KRS 199.473 is amended to read as follows:
+(1) All persons other than a child-placing agency or institution, the department, or persons excepted by KRS
+
+Section 7:
+199.470(4) who wish to place or receive a child shall make written application to the secretary for permission
+to place or receive a child.
+(2) Prior to the approval of an application to place or receive a child, the fee required pursuant to subsection (13)
+of this section shall be paid and a home study shall be completed. The purpose of the home study shall be to
+review the background of the applicant and determine the suitability of the applicant to receive a child, taking
+into account at all times the best interest of the child for whom application to receive has been made.
+(3) (a) The home study shall be made in accordance with administrative regulations promulgated by the
+cabinet in accordance with KRS Chapter 13A.
+Legislative Research Commission PDF Version
+4 ACTS OF THE GENERAL ASSEMBLY
+(b) The cabinet shall conduct the home study for an applicant whose total gross income is equal to or less
+than two hundred fifty percent (250%) of the federal poverty level guidelines issued each year by the
+federal government, unless the applicant submits a written request for the home study to be conducted
+by a licensed child-placing agency or institution. Upon request, the cabinet shall make information
+available to an applicant who does not meet the requirements of this paragraph to assist the applicant in
+obtaining a home study from a licensed child-placing agency approved to provide adoption services.
+(c) A licensed child-placing agency approved to provide adoption services shall conduct the home study for
+an applicant whose gross total income is more than two hundred fifty percent (250%) of the federal
+poverty level guidelines issued each year by the federal government.
+(d) Calculation of family size for this subsection shall include each child requested to be adopted.
+(e) The portion of the home study pertaining to the home and family background shall be valid for one (1)
+year following the date of its completion by an adoption worker.
+(4) The adoption worker making the home study shall make a finding in writing recommending either that the
+application be granted or that the application be denied. The recommendation of the adoption worker shall
+then be reviewed by the secretary.
+(5) Based on the report and recommendation of the adoption worker making the home study, the secretary shall
+grant or refuse permission for the applicant to place or receive a child as early as practicable, but, in any case,
+the decision shall be made within sixty (60) days after the receipt of the application. In reaching a decision, the
+secretary shall be guided by the ability of the persons wishing to receive the child to give the child a suitable
+home, and shall at all times consider the best interest of the child from a financial, medical, psychological, and
+psychiatric standpoint.
+(6) (a) If the application is refused, the secretary shall in general terms furnish in writing the reasons for his or
+her refusal.
+(b) If the application is refused based upon any disability of the applicant, the secretary shall confirm
+that an individual assessment was conducted, and that targeted adaptive or supportive services and
+modifications were reviewed and considered prior to the refusal.
+(c) The cabinet shall maintain all information and supporting documentation related to the assessment,
+considered targeted adaptive or supportive services and available modifications for a period of two
+(2) years or as otherwise ordered by a court of competent jurisdiction.
+(7) (a) Any person who seeks temporary custody of a child prior to the secretary's ruling on an application for
+adoption shall file a petition seeking temporary custody, with a notice of intent to adopt, with the
+Circuit Court that will have jurisdiction of the adoption proceedings.
+(b) The clerk of the court shall send a notice of the filing of the petition to the cabinet. A hearing on the
+petition shall occur no later than seventy-two (72) hours after the filing of the petition, excluding
+weekends and holidays. Proceedings under this subsection shall be incorporated into the court's
+adoption file.
+(c) If the adoption is not finalized within six (6) months of the filing of the petition and notice of intent, the
+court shall conduct a hearing on the status and custody of the child.
+(8) (a) Upon a finding by the Circuit Court that the child should be placed prior to the secretary's ruling on the
+application, the Circuit Court may grant the applicant temporary custody of the child pending the
+decision of the secretary.
+(b) Temporary custody shall not be granted to an applicant unless a background check, including but not
+limited to a criminal records check by the Justice and Public Safety Cabinet or the Administrative
+Office of the Courts and a background check of child abuse and neglect records maintained by the
+cabinet, has been submitted to and reviewed by the court. The background check required for temporary
+custody shall be part of the home study required under subsection (2) of this section.
+(c) If the application is denied by the secretary, the temporary custody order shall be set aside and, upon
+motion of the cabinet or of the child's parent or parents, the Circuit Court may order the child returned
+to the biological parent or parents or the child's custody may be awarded to the cabinet, another licensed
+child-placing agency, or other individuals deemed appropriate by the court.
+CHAPTER 26 5
+(d) This section shall not be deemed to permit the completion of any adoption proceeding without the
+approval of the secretary and compliance with KRS 615.030, if required.
+(9) (a) In any case where the cabinet refuses to approve the placement of a child for adoption when requested
+by the parent or parents of the child, or refuses the request of any person or persons that a child be
+placed with that person or those persons for adoption, the decision of the secretary in so refusing shall
+be final unless within ten (10) days after notice of refusal, the biological or proposed adopting parent or
+parents shall appeal to the Circuit Court of the county in which the adoption is proposed.
+(b) No placement shall be disapproved:
+
+Section 8:
+1. On the basis of the religious, ethnic, racial, or interfaith background of the adoptive applicant, if
+the placement is made with the consent of the parent; or
+
+Section 9:
+2. On the sole basis of a disability of the adoptive applicant without considering whether targeted
+adaptive or supportive services could enable the applicant to provide essential care and
+protection for the child.
+(10) (a) The cabinet may refuse to approve the placement of a child for adoption if the child's custodial parent is
+unwilling for the child to be placed for adoption with the proposed adoptive family. The cabinet may
+approve or deny the placement, in spite of the fact that the custodial parent or parents are unwilling to
+be interviewed by the cabinet or other approving entity, or if, after diligent efforts have been made, the
+adoption worker is unable to locate or interview the custodial parent or parents.
+(b) The cabinet shall be made a party defendant to any[the] appeal taken under subsection (9) of this
+
+Section 10:
+section. In the hearing of an appeal, the court shall review the findings of the secretary and shall
+determine if the secretary has acted arbitrarily, unlawfully, or in a manner that constitutes an abuse of
+discretion.
+(11) If a child who does not fall within the exception provided for in KRS 199.470(4) is placed or received in a
+home without the court's review of the background check required under this section or the permission of the
+secretary for health and family services, or if permission to receive a child has been denied, a representative of
+the cabinet shall notify in writing or may petition the juvenile session of District Court of the county in which
+the child is found setting out the facts concerning the child. When the petition has been filed, the court shall
+take jurisdiction of the child and shall provide for it as it would provide for a dependent, neglected, or abused
+child under KRS Chapter 620, except that the child may not be placed in the home of the applicants who are to
+receive the child unless permission to do so is granted by the secretary or the action is ordered by a Kentucky
+court of competent jurisdiction.
+(12) When either the custodial parent or parents of the child to be placed or the persons wishing to receive the child
+reside out-of-state, the requirement of KRS 615.030, Interstate Compact on the Placement of Children, shall be
+met before the cabinet gives approval for the child's placement.
+(13) The secretary of the Cabinet for Health and Family Services shall be paid a nonrefundable fee of two hundred
+dollars ($200) upon the filing of the written application for permission to place or receive a child. Payment
+shall be made by certified or cashier's check only. All funds collected under this section shall be deposited in a
+restricted account, which is hereby created, for the purpose of subsidizing an adoptive parent for suitable care
+of a special-needs child as authorized in KRS 199.555.
+(14) Nothing in this statute shall be construed to limit the authority of the cabinet or a child-placing institution or
+agency to determine the proper disposition of a child committed to it by the juvenile session of District Court
+or the Circuit Court, prior to the filing of an application to place or receive a child.
+Section 5. KRS 625.050 is amended to read as follows:
+(1) A petition for involuntary termination of parental rights shall be entitled "In the interest of ..., a child."
+(2) The petition shall be filed in the Circuit Court for any of the following counties:
+(a) The county in which either parent resides or may be found;
+(b) The county in which juvenile court actions, if any, concerning the child have commenced; or
+(c) The county in which the child involved resides or is present.
+Legislative Research Commission PDF Version
+6 ACTS OF THE GENERAL ASSEMBLY
+(3) Proceedings for involuntary termination of parental rights may be initiated upon petition by the cabinet, any
+child-placing agency licensed by the cabinet, any county or Commonwealth's attorney, or parent.
+(4) The petition for involuntary termination of parental rights shall be verified and contain the following:
+(a) Name and mailing address of each petitioner;
+(b) Name, sex, date of birth, and place of residence of the child;
+(c) Name and address of the living parents of the child;
+(d) Name, date of death and cause of death, if known, of any deceased parent;
+(e) Name and address of the putative father, if known by the petitioner, of the child if not the same person
+as the legal father;
+(f) Name and address of the person, cabinet, or agency having custody of the child;
+(g) Name and identity of the person, cabinet, or authorized agency to whom custody is sought to be
+transferred;
+(h) Statement that the person, cabinet, or agency to whom custody is to be given has facilities available and
+is willing to receive the custody of the child;
+(i) All pertinent information concerning termination or disclaimers of parenthood or voluntary consent to
+termination;
+(j) Information as to the legal status of the child and the court so adjudicating; and
+(k) A concise statement of the factual basis for the termination of parental rights.
+(5) No petition may be filed under this section prior to five (5) days after the birth of the child.
+(6) No petition may be filed to terminate the parental rights of:
+(a) A woman solely because of her use of a nonprescribed controlled substance during pregnancy if she
+enrolls in and maintains substantial compliance with both a substance abuse treatment or recovery
+program and a regimen of prenatal care as recommended by her health care practitioner throughout the
+remaining term of her pregnancy. Upon certified completion of the treatment or recovery program, or
+six (6) months after giving birth during which time substantial compliance with a substance abuse
+treatment or recovery program has occurred, whichever is earlier, any records maintained by a court or
+by the cabinet relating to a positive test for a nonprescribed controlled substance shall be sealed by the
+court and may not be used in any future criminal prosecution or future petition to terminate the woman's
+parental rights; or
+(b) Any parent solely because of a disability as defined in Section 1 of this Act unless the parent has been
+provided, or unless the parent has knowingly and affirmatively rejected in writing, adaptive and
+supportive services based on an individual assessment of the parent.
+(7) Any petition filed pursuant to this section shall:
+(a) Include a copy of any individual assessment required under subsection (6) of this section and the
+services provided pursuant to the assessment, or the rejection of offered services signed by the
+parent; and
+(b) Be fully adjudicated and a final judgment shall be entered by the court within six (6) months of the
+service of the petition on the parents.
+Section 6. KRS 625.090 is amended to read as follows:
+(1) The Circuit Court may involuntarily terminate all parental rights of a parent of a named child, if the Circuit
+Court finds from the record[pleadings and] by clear and convincing evidence that:
+(a) 1. The child has been adjudged to be an abused or neglected child, as defined in KRS 600.020(1),
+by a court of competent jurisdiction;
+
+Section 11:
+2. The child is found to be an abused or neglected child, as defined in KRS 600.020(1), by the
+Circuit Court in this proceeding;
+
+Section 12:
+3. The child is found to have been diagnosed with neonatal abstinence syndrome at the time of
+birth, unless his or her birth mother:
+CHAPTER 26 7
+a. Was prescribed and properly using medication for a legitimate medical condition as
+directed by a health care practitioner that may have led to the neonatal abstinence
+syndrome;
+b. Is currently, or within ninety (90) days after the birth, enrolled in and maintaining
+substantial compliance with both a substance abuse treatment or recovery program and a
+regimen of prenatal care or postnatal care as recommended by her health care practitioner
+throughout the remaining term of her pregnancy or the appropriate time after her
+pregnancy; or
+c. In the absence of a prescription for the treatment of a legitimate medical condition, agrees,
+prior to discharge from the hospital, to participate in a court-ordered assessment by a drug
+treatment provider and the assigning of a certified peer support specialist for referral to
+appropriate treatment, and agrees to participate in treatment which shall commence within
+ninety (90) days after the birth; or
+
+Section 13:
+4. The parent has been convicted of a criminal charge relating to the physical or sexual abuse or
+neglect of any child and that physical or sexual abuse, neglect, or emotional injury to the child
+named in the present termination action is likely to occur if the parental rights are not terminated;
+(b) 1. The Cabinet for Health and Family Services has filed a petition with the court pursuant to KRS
+
+Section 14:
+620.180 or 625.050; or
+
+Section 15:
+2. A child-placing agency licensed by the cabinet, any county or Commonwealth's attorney, or a
+parent has filed a petition with the court under KRS 625.050; and
+(c) Termination would be in the best interest of the child.
+(2) No termination of parental rights shall be ordered unless the Circuit Court also finds by clear and convincing
+evidence the existence of one (1) or more of the following grounds:
+(a) That the parent has abandoned the child for a period of not less than ninety (90) days;
+(b) That the parent has inflicted or allowed to be inflicted upon the child, by other than accidental means,
+serious physical injury;
+(c) That the parent has continuously or repeatedly inflicted or allowed to be inflicted upon the child, by
+other than accidental means, physical injury or emotional harm;
+(d) That the parent has been convicted of a felony that involved the infliction of serious physical injury to
+any child;
+(e) That the parent, for a period of not less than six (6) months, has continuously or repeatedly failed or
+refused to provide or has been substantially incapable of providing essential parental care and
+protection for the child and that there is no reasonable expectation of improvement in parental care and
+protection, considering the age of the child;
+(f) That the parent has caused or allowed the child to be sexually abused or exploited;
+(g) That the parent, for reasons other than poverty alone, has continuously or repeatedly failed to provide or
+is incapable of providing essential food, clothing, shelter, medical care, or education reasonably
+necessary and available for the child's well-being and that there is no reasonable expectation of
+significant improvement in the parent's conduct in the immediately foreseeable future, considering the
+age of the child;
+(h) That:
+
+Section 16:
+1. The parent's parental rights to another child have been involuntarily terminated;
+
+Section 17:
+2. The child named in the present termination action was born subsequent to or during the pendency
+of the previous termination; and
+
+Section 18:
+3. The conditions or factors which were the basis for the previous termination finding have not been
+corrected;
+(i) That the parent has been convicted in a criminal proceeding of having caused or contributed to the death
+of another child as a result of physical or sexual abuse or neglect;
+Legislative Research Commission PDF Version
+8 ACTS OF THE GENERAL ASSEMBLY
+(j) That the child has been in foster care under the responsibility of the cabinet for fifteen (15) cumulative
+months out of forty-eight (48) months preceding the filing of the petition to terminate parental rights; or
+(k) That the child has been removed from the biological or legal parents more than two (2) times in a
+twenty-four (24) month period by the cabinet or a court.
+(3) In determining the best interest of the child and the existence of a ground for termination, the Circuit Court
+shall consider the following factors:
+(a) Mental illness as defined by KRS 202A.011(9), or an intellectual disability as defined by KRS
+202B.010(9) of the parent as certified by a qualified mental health professional, or a disability as
+defined in Section 1 of this Act, if the mental illness, intellectual disability, or disability[which]
+renders the parent consistently unable to care for the immediate and ongoing physical or psychological
+needs of the child for extended periods of time;
+(b) Acts of abuse or neglect as defined in KRS 600.020(1) toward any child in the family;
+(c) If the child has been placed with the cabinet, whether the cabinet has, prior to the filing of the petition:
+
+Section 19:
+1. Made reasonable efforts as defined in KRS 620.020 to reunite the child with the parents unless
+one or more of the circumstances enumerated in KRS 610.127 for not requiring reasonable
+efforts have been substantiated in a written finding by the District Court; or
+
+Section 20:
+2. Provided a parent with a disability as defined in Section 1 of this Act with targeted adaptive
+and supportive services based on an individual assessment of the parent, or has received a
+written acknowledgement from the parent knowingly and affirmatively rejecting the offered
+services;
+(d) The efforts and adjustments the parent has made in his or her circumstances, conduct, or conditions to
+make it in the child's best interest to return the child[him] to his or her home within a reasonable period
+of time, considering the age of the child;
+(e) The physical, emotional, and mental health of the child and the prospects for the improvement of the
+child's welfare if termination is ordered; and
+(f) The payment or the failure to pay a reasonable portion of substitute physical care and maintenance if
+financially able to do so.
+(4) If the child has been placed with the cabinet, the parent may present testimony concerning the reunification,
+adaptive, or supportive services offered by the cabinet and whether additional services would be likely to
+bring about lasting parental adjustment enabling a return of the child to the parent.
+(5) If the parent proves by a preponderance of the evidence that the child will not continue to be an abused or
+neglected child as defined in KRS 600.020(1) if returned to the parent, or if the parent proves by a
+preponderance of the evidence that appropriate and specifically targeted adaptive or supportive services
+based upon an individual assessment of the parent have not been offered or provided to the parent, the court
+in its discretion may determine not to terminate parental rights.
+(6) Upon the conclusion of proof and argument of counsel, the Circuit Court shall enter findings of fact,
+conclusions of law, and a decision as to each parent-respondent within thirty (30) days either:
+(a) Terminating the right of the parent; or
+(b) Dismissing the petition and stating whether the child shall be returned to the parent or shall remain in
+the custody of the state.
+Signed by Governor March 18, 2025.
+[DELETED:  " " " " " o c b t D o J J t m a o o " " ( " A A B A " " " " h m a h f e D o J J o  " "]
+[DELETED:  " b s m a s t e a a e t r o s " " " a o v e t e a u K 1 t t c D N C I 1 A I c T c m b w o b w n s t t a p o t a f t p a p o o b t I c T c m b w o b w n s t t a p o t a f t p a p o o b t D A N a a o t p w p t c n a a o t p w a e t c t t c p a a v s f t T B]
+[DELETED:  R R f t J a P S C r o a c i f t T T c o a o t s b o a d o t p c w w t a o s s c e t p c t D R R I P E T O O A P ( T h s s b m i a w a r p b t]
+[DELETED:  T A C T T B ( I I T ( A T s o n l s ( h a t f o t p e a h P u t s s b i i t c I ( U t C C m g t a t c o t c p t T I]
+[DELETED:  T ( I N O O o s s c e t a t p e c a ( T T I W T N A T T T T]
+[DELETED:  P T N N N N N N N a i o t p c o a a t w c i s t b S A I A N N A A A I p p t t a o t r o o s s b t B T 1 T T T]
+[DELETED:  W p a p u m f a l m c a b a h c p t m h l t t n a I c o w n ( d a t b e i a m t r t o h p o t a t a h I T 1 T A T N T T T T T t p o h b s i o p e p c a T T i o p e f c s m c o e r a a f t c w a t t i n r e o T T T T T]
+[DELETED:  T T I M i a d b K 2 o a i d a d b K o i S 1 o t A i t m i i d o d A I M o m o t c e i K 6 f r r P T T T I I c a d i K 6 i r t t p o i t p p b a U t c o p a a o c t C C s e f o f T D]
+
+
+================================================================================
+
+Raw Text:
+CHAPTER 26 1
+CHAPTER 26
+( SB 26 )
+AN ACT relating to parental rights.
+Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+Section 1. KRS 199.011 is amended to read as follows:
+As used in this chapter, unless the context otherwise requires:
+(1) "Adoption worker" means an employee of the cabinet so designated by the secretary for health and family
+services, a social worker employed by a county or city who has been approved by the cabinet to handle, under
+its supervision, adoption placement services to children, or a social worker employed by or under contract to a
+child-placing adoption agency;
+(2) "Adult adopted person" means any adopted person who is twenty-one (21) years of age or older;
+(3) "Cabinet" means the Cabinet for Health and Family Services;
+(4) "Child" means any person who has not reached his or her eighteenth birthday;
+(5) "Child-caring facility" means any institution or group home, including institutions and group homes that are
+publicly operated, providing residential care on a twenty-four (24) hour basis to children, not related by blood,
+adoption, or marriage to the person maintaining the facility, other than an institution or group home certified
+by an appropriate agency as operated primarily for educational or medical purposes, or a residential program
+operated or contracted by the Department of Juvenile Justice that maintains accreditation, or obtains
+accreditation within two (2) years of opening from a nationally recognized accrediting organization;
+(6) "Child-placing agency" means any agency licensed by the cabinet, which supervises the placement of children
+in foster family homes or child-caring facilities, or which places children for adoption;
+(7) "Department" means the Department for Community Based Services;
+(8) (a) "Disability" means:
+1. A physical or mental impairment, whether congenital or acquired, that substantially limits one
+(1) or more of the major life activities of an individual and is demonstrable by medically
+accepted clinical or laboratory diagnostic techniques;
+2. A record of having such an impairment; or
+3. Being regarded as having such an impairment.
+(b) An individual who is currently engaging in the illegal use of drugs or the abuse of alcohol, drugs, or
+other substances is not an individual with a "disability" for purposes of this chapter;
+(9) "Family rehabilitation home" means a child-caring facility for appropriate families and comprising not more
+than twelve (12) children and two (2) staff persons;
+(10)[(9)] "Fictive kin" means an individual who is not related by birth, adoption, or marriage to a child, but who
+has an emotionally significant relationship with the child, or an emotionally significant relationship with a
+biological parent, siblings, or half-siblings of the child in the case of a child from birth to twelve (12) months
+of age, prior to placement;
+(11)[(10)] "Foster family home" means a private home in which children are placed for foster family care under
+supervision of the cabinet or of a licensed child-placing agency;
+(12)[(11)] "Group home" means a homelike facility, excluding Department of Juvenile Justice-operated or -
+contracted facilities, for not more than eight (8) foster children, not adjacent to or part of an institutional
+campus, operated by a sponsoring agency for children who may participate in community activities and use
+community resources;
+(13)[(12)] "Institution" means a child-caring facility providing care or maintenance for nine (9) or more children;
+(14)[(13)] "Placement services" means those social services customarily provided by a licensed child-placing or a
+public agency, which are necessary for the arrangement and placement of children in foster family homes,
+Legislative Research Commission PDF Version
+
+2 ACTS OF THE GENERAL ASSEMBLY
+child-placing facilities, or adoptive homes. Placement services are provided through a licensed child-placing or
+a public agency for children who cannot be cared for by their biological parents and who need and can benefit
+from new and permanent family ties established through legal adoption. Licensed child-placing agencies and
+public agencies have a responsibility to act in the best interests of children, biological parents, and adoptive
+parents by providing social services to all the parties involved in an adoption;
+(15)[(14)] "Rap back system" means a system that enables an authorized entity to receive ongoing status
+notifications of any criminal history from the Department of Kentucky State Police or the Federal Bureau of
+Investigation reported on an individual whose fingerprints are registered in the system, upon approval and
+implementation of the system;
+(16)[(15)] "Reasonable and prudent parent standard" has the same meaning as in 42 U.S.C. sec. 675(10);
+(17)[(16)] "Secretary" means the secretary for health and family services; and
+(18)[(17)] "Voluntary and informed consent" means that at the time of the execution of the consent, the consenting
+person was fully informed of the legal effect of the consent, that the consenting person was not given or
+promised anything of value except those expenses allowable under KRS 199.590(6), that the consenting
+person was not coerced in any way to execute the consent, and that the consent was voluntarily and knowingly
+given. If at the time of the execution of the consent the consenting person was represented by independent
+legal counsel, there shall be a presumption that the consent was voluntary and informed. The consent shall be
+in writing, signed and sworn to by the consenting person, and include the following:
+(a) Date, time, and place of the execution of the consent;
+(b) Name of the child, if any, to be adopted, and the date and place of the child's birth;
+(c) Consenting person's relationship to the child;
+(d) Identity of the proposed adoptive parents or a statement that the consenting person does not desire to
+know the identification of the proposed adoptive parents;
+(e) 1. A statement that the consenting person understands that the consent will be final and irrevocable
+under this paragraph unless withdrawn under this paragraph.
+2. If placement approval by the secretary is required, the voluntary and informed consent shall
+become final and irrevocable seventy-two (72) hours after the execution of the voluntary and
+informed consent. This consent may be withdrawn only by written notification sent to the
+proposed adoptive parent or the attorney for the proposed adoptive parent on or before the
+expiration of the seventy-two (72) hours by certified or registered mail and also by first-class
+mail.
+3. If placement approval by the secretary is not required, the voluntary and informed consent shall
+become final and irrevocable seventy-two (72) hours after the execution of the voluntary and
+informed consent. This consent may be withdrawn only by written notification sent to the
+proposed adoptive parent or the attorney for the proposed adoptive parent on or before the
+expiration of the seventy-two (72) hours by certified or registered mail and also by first-class
+mail;
+(f) Disposition of the child if the adoption is not adjudged;
+(g) A statement that the consenting person has received a completed and signed copy of the consent at the
+time of the execution of the consent;
+(h) Name and address of the person who prepared the consent, name and address of the person who
+reviewed and explained the consent to the consenting person, and a verified statement from the
+consenting person that the consent has been reviewed with and fully explained to the consenting person;
+and
+(i) Total amount of the consenting person's legal fees, if any, for any purpose related to the execution of
+the consent and the source of payment of the legal fees.
+Section 2. KRS 199.462 is amended to read as follows:
+(1) Before an applicant is approved to provide foster care or relative caregiver services to a child, considered a
+fictive kin placement for a child, or approved to receive a child for adoption, the Cabinet for Health and
+Family Services shall:
+
+CHAPTER 26 3
+(a) Require a criminal background investigation of the applicant and any of the applicant's adult household
+members by means of a fingerprint check by the Department of Kentucky State Police and the Federal
+Bureau of Investigation; or
+(b) Request from the Justice and Public Safety Cabinet records of all conviction information for the
+applicant and any of the applicant's adult household members. The Justice and Public Safety Cabinet
+shall furnish the information to the Cabinet for Health and Family Services and shall also send a copy
+of the information to the applicant.
+(2) The request for records shall be in a manner approved by the Justice and Public Safety Cabinet, and the Justice
+and Public Safety Cabinet may charge a fee to be paid by the applicant for the actual cost of processing the
+request.
+(3) The Cabinet for Health and Family Services shall not disapprove of any placement or custody arrangement,
+including but not limited to foster care, relative caregiver services, fictive kin placement, temporary custody,
+permanent custody, or adoption on the sole basis of a disability of the prospective caregiver without
+considering whether targeted adaptive or supportive services could enable the prospective caregiver to
+provide essential care and protection for the child.
+(4)[(3)] During a certified adoptive or foster home's annual reevaluation, the Cabinet for Health and Family
+Services may:
+(a) Require a background investigation for each adult household member of the certified adoptive or foster
+home under subsections (1) and (2) of this section; or
+(b) Register each adult household member of a certified adoptive or foster home under subsections (1) and
+(2) of this section in the rap back system.
+(5)[(4)] If a child is placed and resides in a fictive kin home for more than seventy-two (72) hours, the Cabinet
+for Health and Family Services shall take action, including but not limited to the following:
+(a) Provide information on how to recognize and report child abuse or neglect; and
+(b) Ensure that, within the first five (5) days of a child under the age of five (5) years old being placed in a
+fictive kin home, the fictive kin has completed a one (1) time training course of one and one-half (1.5)
+hours of training covering the prevention and recognition of pediatric abusive head trauma, as defined
+in KRS 620.020.
+(6)[(5)] The Cabinet for Health and Family Services shall promulgate an administrative regulation to implement
+this section.
+Section 3. KRS 199.471 is amended to read as follows:
+Petitions for adoption of children placed for adoption by the cabinet or a licensed child-placing institution or agency
+shall not be denied:
+(1) On the basis of the religious, ethnic, racial, or interfaith background of the adoptive applicant, unless contrary
+to the expressed wishes of the biological parent or parents; or[parent(s)]
+(2) On the sole basis of a disability of the adoptive applicant without considering whether targeted adaptive or
+supportive services could enable the applicant to provide essential care and protection for the child.
+Section 4. KRS 199.473 is amended to read as follows:
+(1) All persons other than a child-placing agency or institution, the department, or persons excepted by KRS
+199.470(4) who wish to place or receive a child shall make written application to the secretary for permission
+to place or receive a child.
+(2) Prior to the approval of an application to place or receive a child, the fee required pursuant to subsection (13)
+of this section shall be paid and a home study shall be completed. The purpose of the home study shall be to
+review the background of the applicant and determine the suitability of the applicant to receive a child, taking
+into account at all times the best interest of the child for whom application to receive has been made.
+(3) (a) The home study shall be made in accordance with administrative regulations promulgated by the
+cabinet in accordance with KRS Chapter 13A.
+Legislative Research Commission PDF Version
+
+4 ACTS OF THE GENERAL ASSEMBLY
+(b) The cabinet shall conduct the home study for an applicant whose total gross income is equal to or less
+than two hundred fifty percent (250%) of the federal poverty level guidelines issued each year by the
+federal government, unless the applicant submits a written request for the home study to be conducted
+by a licensed child-placing agency or institution. Upon request, the cabinet shall make information
+available to an applicant who does not meet the requirements of this paragraph to assist the applicant in
+obtaining a home study from a licensed child-placing agency approved to provide adoption services.
+(c) A licensed child-placing agency approved to provide adoption services shall conduct the home study for
+an applicant whose gross total income is more than two hundred fifty percent (250%) of the federal
+poverty level guidelines issued each year by the federal government.
+(d) Calculation of family size for this subsection shall include each child requested to be adopted.
+(e) The portion of the home study pertaining to the home and family background shall be valid for one (1)
+year following the date of its completion by an adoption worker.
+(4) The adoption worker making the home study shall make a finding in writing recommending either that the
+application be granted or that the application be denied. The recommendation of the adoption worker shall
+then be reviewed by the secretary.
+(5) Based on the report and recommendation of the adoption worker making the home study, the secretary shall
+grant or refuse permission for the applicant to place or receive a child as early as practicable, but, in any case,
+the decision shall be made within sixty (60) days after the receipt of the application. In reaching a decision, the
+secretary shall be guided by the ability of the persons wishing to receive the child to give the child a suitable
+home, and shall at all times consider the best interest of the child from a financial, medical, psychological, and
+psychiatric standpoint.
+(6) (a) If the application is refused, the secretary shall in general terms furnish in writing the reasons for his or
+her refusal.
+(b) If the application is refused based upon any disability of the applicant, the secretary shall confirm
+that an individual assessment was conducted, and that targeted adaptive or supportive services and
+modifications were reviewed and considered prior to the refusal.
+(c) The cabinet shall maintain all information and supporting documentation related to the assessment,
+considered targeted adaptive or supportive services and available modifications for a period of two
+(2) years or as otherwise ordered by a court of competent jurisdiction.
+(7) (a) Any person who seeks temporary custody of a child prior to the secretary's ruling on an application for
+adoption shall file a petition seeking temporary custody, with a notice of intent to adopt, with the
+Circuit Court that will have jurisdiction of the adoption proceedings.
+(b) The clerk of the court shall send a notice of the filing of the petition to the cabinet. A hearing on the
+petition shall occur no later than seventy-two (72) hours after the filing of the petition, excluding
+weekends and holidays. Proceedings under this subsection shall be incorporated into the court's
+adoption file.
+(c) If the adoption is not finalized within six (6) months of the filing of the petition and notice of intent, the
+court shall conduct a hearing on the status and custody of the child.
+(8) (a) Upon a finding by the Circuit Court that the child should be placed prior to the secretary's ruling on the
+application, the Circuit Court may grant the applicant temporary custody of the child pending the
+decision of the secretary.
+(b) Temporary custody shall not be granted to an applicant unless a background check, including but not
+limited to a criminal records check by the Justice and Public Safety Cabinet or the Administrative
+Office of the Courts and a background check of child abuse and neglect records maintained by the
+cabinet, has been submitted to and reviewed by the court. The background check required for temporary
+custody shall be part of the home study required under subsection (2) of this section.
+(c) If the application is denied by the secretary, the temporary custody order shall be set aside and, upon
+motion of the cabinet or of the child's parent or parents, the Circuit Court may order the child returned
+to the biological parent or parents or the child's custody may be awarded to the cabinet, another licensed
+child-placing agency, or other individuals deemed appropriate by the court.
+
+CHAPTER 26 5
+(d) This section shall not be deemed to permit the completion of any adoption proceeding without the
+approval of the secretary and compliance with KRS 615.030, if required.
+(9) (a) In any case where the cabinet refuses to approve the placement of a child for adoption when requested
+by the parent or parents of the child, or refuses the request of any person or persons that a child be
+placed with that person or those persons for adoption, the decision of the secretary in so refusing shall
+be final unless within ten (10) days after notice of refusal, the biological or proposed adopting parent or
+parents shall appeal to the Circuit Court of the county in which the adoption is proposed.
+(b) No placement shall be disapproved:
+1. On the basis of the religious, ethnic, racial, or interfaith background of the adoptive applicant, if
+the placement is made with the consent of the parent; or
+2. On the sole basis of a disability of the adoptive applicant without considering whether targeted
+adaptive or supportive services could enable the applicant to provide essential care and
+protection for the child.
+(10) (a) The cabinet may refuse to approve the placement of a child for adoption if the child's custodial parent is
+unwilling for the child to be placed for adoption with the proposed adoptive family. The cabinet may
+approve or deny the placement, in spite of the fact that the custodial parent or parents are unwilling to
+be interviewed by the cabinet or other approving entity, or if, after diligent efforts have been made, the
+adoption worker is unable to locate or interview the custodial parent or parents.
+(b) The cabinet shall be made a party defendant to any[the] appeal taken under subsection (9) of this
+section. In the hearing of an appeal, the court shall review the findings of the secretary and shall
+determine if the secretary has acted arbitrarily, unlawfully, or in a manner that constitutes an abuse of
+discretion.
+(11) If a child who does not fall within the exception provided for in KRS 199.470(4) is placed or received in a
+home without the court's review of the background check required under this section or the permission of the
+secretary for health and family services, or if permission to receive a child has been denied, a representative of
+the cabinet shall notify in writing or may petition the juvenile session of District Court of the county in which
+the child is found setting out the facts concerning the child. When the petition has been filed, the court shall
+take jurisdiction of the child and shall provide for it as it would provide for a dependent, neglected, or abused
+child under KRS Chapter 620, except that the child may not be placed in the home of the applicants who are to
+receive the child unless permission to do so is granted by the secretary or the action is ordered by a Kentucky
+court of competent jurisdiction.
+(12) When either the custodial parent or parents of the child to be placed or the persons wishing to receive the child
+reside out-of-state, the requirement of KRS 615.030, Interstate Compact on the Placement of Children, shall be
+met before the cabinet gives approval for the child's placement.
+(13) The secretary of the Cabinet for Health and Family Services shall be paid a nonrefundable fee of two hundred
+dollars ($200) upon the filing of the written application for permission to place or receive a child. Payment
+shall be made by certified or cashier's check only. All funds collected under this section shall be deposited in a
+restricted account, which is hereby created, for the purpose of subsidizing an adoptive parent for suitable care
+of a special-needs child as authorized in KRS 199.555.
+(14) Nothing in this statute shall be construed to limit the authority of the cabinet or a child-placing institution or
+agency to determine the proper disposition of a child committed to it by the juvenile session of District Court
+or the Circuit Court, prior to the filing of an application to place or receive a child.
+Section 5. KRS 625.050 is amended to read as follows:
+(1) A petition for involuntary termination of parental rights shall be entitled "In the interest of ..., a child."
+(2) The petition shall be filed in the Circuit Court for any of the following counties:
+(a) The county in which either parent resides or may be found;
+(b) The county in which juvenile court actions, if any, concerning the child have commenced; or
+(c) The county in which the child involved resides or is present.
+Legislative Research Commission PDF Version
+
+6 ACTS OF THE GENERAL ASSEMBLY
+(3) Proceedings for involuntary termination of parental rights may be initiated upon petition by the cabinet, any
+child-placing agency licensed by the cabinet, any county or Commonwealth's attorney, or parent.
+(4) The petition for involuntary termination of parental rights shall be verified and contain the following:
+(a) Name and mailing address of each petitioner;
+(b) Name, sex, date of birth, and place of residence of the child;
+(c) Name and address of the living parents of the child;
+(d) Name, date of death and cause of death, if known, of any deceased parent;
+(e) Name and address of the putative father, if known by the petitioner, of the child if not the same person
+as the legal father;
+(f) Name and address of the person, cabinet, or agency having custody of the child;
+(g) Name and identity of the person, cabinet, or authorized agency to whom custody is sought to be
+transferred;
+(h) Statement that the person, cabinet, or agency to whom custody is to be given has facilities available and
+is willing to receive the custody of the child;
+(i) All pertinent information concerning termination or disclaimers of parenthood or voluntary consent to
+termination;
+(j) Information as to the legal status of the child and the court so adjudicating; and
+(k) A concise statement of the factual basis for the termination of parental rights.
+(5) No petition may be filed under this section prior to five (5) days after the birth of the child.
+(6) No petition may be filed to terminate the parental rights of:
+(a) A woman solely because of her use of a nonprescribed controlled substance during pregnancy if she
+enrolls in and maintains substantial compliance with both a substance abuse treatment or recovery
+program and a regimen of prenatal care as recommended by her health care practitioner throughout the
+remaining term of her pregnancy. Upon certified completion of the treatment or recovery program, or
+six (6) months after giving birth during which time substantial compliance with a substance abuse
+treatment or recovery program has occurred, whichever is earlier, any records maintained by a court or
+by the cabinet relating to a positive test for a nonprescribed controlled substance shall be sealed by the
+court and may not be used in any future criminal prosecution or future petition to terminate the woman's
+parental rights; or
+(b) Any parent solely because of a disability as defined in Section 1 of this Act unless the parent has been
+provided, or unless the parent has knowingly and affirmatively rejected in writing, adaptive and
+supportive services based on an individual assessment of the parent.
+(7) Any petition filed pursuant to this section shall:
+(a) Include a copy of any individual assessment required under subsection (6) of this section and the
+services provided pursuant to the assessment, or the rejection of offered services signed by the
+parent; and
+(b) Be fully adjudicated and a final judgment shall be entered by the court within six (6) months of the
+service of the petition on the parents.
+Section 6. KRS 625.090 is amended to read as follows:
+(1) The Circuit Court may involuntarily terminate all parental rights of a parent of a named child, if the Circuit
+Court finds from the record[pleadings and] by clear and convincing evidence that:
+(a) 1. The child has been adjudged to be an abused or neglected child, as defined in KRS 600.020(1),
+by a court of competent jurisdiction;
+2. The child is found to be an abused or neglected child, as defined in KRS 600.020(1), by the
+Circuit Court in this proceeding;
+3. The child is found to have been diagnosed with neonatal abstinence syndrome at the time of
+birth, unless his or her birth mother:
+
+CHAPTER 26 7
+a. Was prescribed and properly using medication for a legitimate medical condition as
+directed by a health care practitioner that may have led to the neonatal abstinence
+syndrome;
+b. Is currently, or within ninety (90) days after the birth, enrolled in and maintaining
+substantial compliance with both a substance abuse treatment or recovery program and a
+regimen of prenatal care or postnatal care as recommended by her health care practitioner
+throughout the remaining term of her pregnancy or the appropriate time after her
+pregnancy; or
+c. In the absence of a prescription for the treatment of a legitimate medical condition, agrees,
+prior to discharge from the hospital, to participate in a court-ordered assessment by a drug
+treatment provider and the assigning of a certified peer support specialist for referral to
+appropriate treatment, and agrees to participate in treatment which shall commence within
+ninety (90) days after the birth; or
+4. The parent has been convicted of a criminal charge relating to the physical or sexual abuse or
+neglect of any child and that physical or sexual abuse, neglect, or emotional injury to the child
+named in the present termination action is likely to occur if the parental rights are not terminated;
+(b) 1. The Cabinet for Health and Family Services has filed a petition with the court pursuant to KRS
+620.180 or 625.050; or
+2. A child-placing agency licensed by the cabinet, any county or Commonwealth's attorney, or a
+parent has filed a petition with the court under KRS 625.050; and
+(c) Termination would be in the best interest of the child.
+(2) No termination of parental rights shall be ordered unless the Circuit Court also finds by clear and convincing
+evidence the existence of one (1) or more of the following grounds:
+(a) That the parent has abandoned the child for a period of not less than ninety (90) days;
+(b) That the parent has inflicted or allowed to be inflicted upon the child, by other than accidental means,
+serious physical injury;
+(c) That the parent has continuously or repeatedly inflicted or allowed to be inflicted upon the child, by
+other than accidental means, physical injury or emotional harm;
+(d) That the parent has been convicted of a felony that involved the infliction of serious physical injury to
+any child;
+(e) That the parent, for a period of not less than six (6) months, has continuously or repeatedly failed or
+refused to provide or has been substantially incapable of providing essential parental care and
+protection for the child and that there is no reasonable expectation of improvement in parental care and
+protection, considering the age of the child;
+(f) That the parent has caused or allowed the child to be sexually abused or exploited;
+(g) That the parent, for reasons other than poverty alone, has continuously or repeatedly failed to provide or
+is incapable of providing essential food, clothing, shelter, medical care, or education reasonably
+necessary and available for the child's well-being and that there is no reasonable expectation of
+significant improvement in the parent's conduct in the immediately foreseeable future, considering the
+age of the child;
+(h) That:
+1. The parent's parental rights to another child have been involuntarily terminated;
+2. The child named in the present termination action was born subsequent to or during the pendency
+of the previous termination; and
+3. The conditions or factors which were the basis for the previous termination finding have not been
+corrected;
+(i) That the parent has been convicted in a criminal proceeding of having caused or contributed to the death
+of another child as a result of physical or sexual abuse or neglect;
+Legislative Research Commission PDF Version
+
+8 ACTS OF THE GENERAL ASSEMBLY
+(j) That the child has been in foster care under the responsibility of the cabinet for fifteen (15) cumulative
+months out of forty-eight (48) months preceding the filing of the petition to terminate parental rights; or
+(k) That the child has been removed from the biological or legal parents more than two (2) times in a
+twenty-four (24) month period by the cabinet or a court.
+(3) In determining the best interest of the child and the existence of a ground for termination, the Circuit Court
+shall consider the following factors:
+(a) Mental illness as defined by KRS 202A.011(9), or an intellectual disability as defined by KRS
+202B.010(9) of the parent as certified by a qualified mental health professional, or a disability as
+defined in Section 1 of this Act, if the mental illness, intellectual disability, or disability[which]
+renders the parent consistently unable to care for the immediate and ongoing physical or psychological
+needs of the child for extended periods of time;
+(b) Acts of abuse or neglect as defined in KRS 600.020(1) toward any child in the family;
+(c) If the child has been placed with the cabinet, whether the cabinet has, prior to the filing of the petition:
+1. Made reasonable efforts as defined in KRS 620.020 to reunite the child with the parents unless
+one or more of the circumstances enumerated in KRS 610.127 for not requiring reasonable
+efforts have been substantiated in a written finding by the District Court; or
+2. Provided a parent with a disability as defined in Section 1 of this Act with targeted adaptive
+and supportive services based on an individual assessment of the parent, or has received a
+written acknowledgement from the parent knowingly and affirmatively rejecting the offered
+services;
+(d) The efforts and adjustments the parent has made in his or her circumstances, conduct, or conditions to
+make it in the child's best interest to return the child[him] to his or her home within a reasonable period
+of time, considering the age of the child;
+(e) The physical, emotional, and mental health of the child and the prospects for the improvement of the
+child's welfare if termination is ordered; and
+(f) The payment or the failure to pay a reasonable portion of substitute physical care and maintenance if
+financially able to do so.
+(4) If the child has been placed with the cabinet, the parent may present testimony concerning the reunification,
+adaptive, or supportive services offered by the cabinet and whether additional services would be likely to
+bring about lasting parental adjustment enabling a return of the child to the parent.
+(5) If the parent proves by a preponderance of the evidence that the child will not continue to be an abused or
+neglected child as defined in KRS 600.020(1) if returned to the parent, or if the parent proves by a
+preponderance of the evidence that appropriate and specifically targeted adaptive or supportive services
+based upon an individual assessment of the parent have not been offered or provided to the parent, the court
+in its discretion may determine not to terminate parental rights.
+(6) Upon the conclusion of proof and argument of counsel, the Circuit Court shall enter findings of fact,
+conclusions of law, and a decision as to each parent-respondent within thirty (30) days either:
+(a) Terminating the right of the parent; or
+(b) Dismissing the petition and stating whether the child shall be returned to the parent or shall remain in
+the custody of the state.
+Signed by Governor March 18, 2025.
+
+[DELETED:  " " " " " o c b t D o J J t m a o o " " ( " A A B A " " " " h m a h f e D o J J o  " "]
+[DELETED:  " b s m a s t e a a e t r o s " " " a o v e t e a u K 1 t t c D N C I 1 A I c T c m b w o b w n s t t a p o t a f t p a p o o b t I c T c m b w o b w n s t t a p o t a f t p a p o o b t D A N a a o t p w p t c n a a o t p w a e t c t t c p a a v s f t T B]
+[DELETED:  R R f t J a P S C r o a c i f t T T c o a o t s b o a d o t p c w w t a o s s c e t p c t D R R I P E T O O A P ( T h s s b m i a w a r p b t]
+[DELETED:  T A C T T B ( I I T ( A T s o n l s ( h a t f o t p e a h P u t s s b i i t c I ( U t C C m g t a t c o t c p t T I]
+[DELETED:  T ( I N O O o s s c e t a t p e c a ( T T I W T N A T T T T]
+[DELETED:  P T N N N N N N N a i o t p c o a a t w c i s t b S A I A N N A A A I p p t t a o t r o o s s b t B T 1 T T T]
+[DELETED:  W p a p u m f a l m c a b a h c p t m h l t t n a I c o w n ( d a t b e i a m t r t o h p o t a t a h I T 1 T A T N T T T T T t p o h b s i o p e p c a T T i o p e f c s m c o e r a a f t c w a t t i n r e o T T T T T]
+[DELETED:  T T I M i a d b K 2 o a i d a d b K o i S 1 o t A i t m i i d o d A I M o m o t c e i K 6 f r r P T T T I I c a d i K 6 i r t t p o i t p p b a U t c o p a a o c t C C s e f o f T D]

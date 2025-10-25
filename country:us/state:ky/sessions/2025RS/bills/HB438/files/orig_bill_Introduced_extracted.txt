@@ -1,0 +1,803 @@
+Title: 1 AN ACT relating to transportation network company services.
+Official Title: 1 AN ACT relating to transportation network company services.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 13 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS BR 1428
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF KRS CHAPTER 281 IS CREATED TO
+4 READ AS FOLLOWS:
+5 (1) In addition to meeting the requirements of this chapter and any administrative
+6 regulations promulgated by the cabinet for TNCs and TNC drivers, a TNC may
+7 arrange for youth TNC services, and a TNC driver may provide youth TNC
+8 services, if the:
+9 (a) TNC driver is at least 23 years of age and has possessed a valid driver's
+10 license for a minimum of the last three (3) years;
+11 (b) TNC driver has undergone a background check process that includes:
+12 1. A national and state fingerprint based criminal background check
+13 against Kentucky State Police and Federal Bureau of Investigation
+14 databases;
+15 2. A check against the national sex offender database;
+16 3. A clear Kentucky child abuse and neglect screen; and
+17 4. A motor vehicle records search; and
+18 (c) TNC provides child safety education to the TNC driver, which shall
+19 include:
+20 1. Safe driving practices;
+21 2. First aid and cardiopulmonary resuscitation procedures;
+22 3. Special considerations for transporting youth with disabilities;
+23 4. Emergency preparedness;
+24 5. Safe pick-up and drop-off procedures; and
+25 6. Laws on proper child restraint systems;
+26 (d) TNC implements technology-enabled procedures that:
+27 1. Provide end-to-end visibility into the ride for the TNC, the passenger's
+Page 1 of 13
+XXXX 2/4/2025 9:07 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1428
+1 parent or legal guardian, and, if different from the parent or legal
+2 guardian, the person or entity who scheduled the ride;
+3 2. Allow for Global Positioning System (GPS) tracking of the ride in real
+4 time;
+5 3. Monitor the ride in real-time for safety-related anomalies;
+6 4. Allow for communication between the passenger's legal guardian and
+7 the TNC throughout the ride; and
+8 5. Provide the passenger's legal guardian with the ability to contact the
+9 driver directly;
+10 (e) TNC implements ride-tracking technology that allows for the detection of
+11 the following driving behaviors, including but not limited to:
+12 1. Device use;
+13 2. Speeding;
+14 3. Hard turning;
+15 4. Hard braking;
+16 5. Hard acceleration; and
+17 6. Collision detection; and
+18 (f) TNC maintains a zero-tolerance policy on drug and alcohol use by drivers.
+19 (3) A TNC arranging youth TNC services shall ensure that vehicles used to provide
+20 these services are:
+21 (a) Originally designed for not more than eight (8) passengers, including the
+22 driver;
+23 (b) No more than thirteen (13) model years old; and
+24 (c) Inspected annually by a mechanic in accordance with administrative
+25 regulations promulgated by the department.
+26 (4) A TNC driver providing youth TNC services shall complete and document a pre-
+27 trip inspection before providing youth transportation services.
+Page 2 of 13
+XXXX 2/4/2025 9:07 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1428
+1 (5) A TNC arranging youth TNC services shall maintain commercial automotive
+2 insurance that does not contain an exclusion for the transportation of an
+3 unaccompanied minor.
+4 (6) A TNC arranging youth TNC services shall publish an annual safety report on its
+5 website.
+6 (7) Subject to the approval of a student's parent or legal guardian, a school district
+7 may contract with a TNC company to arrange youth TNC services for students to
+8 or from a school, school-related activities, or school-sanctioned activities.
+9 (8) The provisions of this chapter as they relate to TNCs, administrative regulations
+10 promulgated by the cabinet related to TNCs, and the contract between the board
+11 of education of a school district and the TNC shall exclusively govern the youth
+12 TNC services arranged by the TNC pursuant to this section.
+13 (9) The cabinet may promulgate administrative regulations in accordance with KRS
+14 Chapter 13A to set specific standards for the provision of youth TNC services
+15 Section 2. KRS 281.010 is amended to read as follows:
+16 As used in this chapter:
+17 (1) "Automobile club" means a person that, for consideration, promises to assist its
+18 members or subscribers in matters relating to the assumption of or reimbursement
+19 of the expense or a portion thereof for towing of a motor vehicle; emergency road
+20 service; matters relating to the operation, use, and maintenance of a motor vehicle;
+21 and the supplying of services which includes, augments, or is incidental to theft or
+22 reward services, discount services, arrest bond services, lock and key services, trip
+23 interruption services, and legal fee reimbursement services in defense of traffic-
+24 related offenses;
+25 (2) "Automobile utility trailer" means any trailer or semitrailer designed for use with
+26 and towed behind a passenger motor vehicle;
+27 (3) "Automobile utility trailer certificate" means a certificate authorizing a person to
+Page 3 of 13
+XXXX 2/4/2025 9:07 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1428
+1 engage in the business of automobile utility trailer lessor;
+2 (4) "Automobile utility trailer lessor" means any person operating under an automobile
+3 utility trailer certificate who is engaged in the business of leasing or renting
+4 automobile utility trailers, but shall not include the agents of such persons;
+5 (5) "Broker" means a person selected by the cabinet through a request for proposal
+6 process to coordinate human service transportation delivery within a specific
+7 delivery area. A broker may also provide transportation services within the specific
+8 delivery area for which the broker is under contract with the cabinet;
+9 (6) "Bus" means a motor vehicle operating under a bus certificate transporting
+10 passengers for hire between points over regular routes;
+11 (7) "Bus certificate" means a certificate granting authority for the operation of one (1)
+12 or more buses;
+13 (8) "Cabinet" means the Kentucky Transportation Cabinet;
+14 (9) "Certificate" means a certificate of compliance issued under this chapter to motor
+15 carriers;
+16 (10) "Charter bus" means a motor vehicle operating under a charter bus certificate
+17 providing for-hire intrastate transportation of a group of persons who, pursuant to a
+18 common purpose under a single contract at a fixed charge for the motor vehicle,
+19 have acquired the exclusive use of the motor vehicle to travel together under an
+20 itinerary either specified in advance or modified after having left the place of
+21 origin;
+22 (11) "Charter bus certificate" means a certificate granting authority for the operation of
+23 one (1) or more charter buses;
+24 (12) "Commissioner" means the commissioner of the Department of Vehicle Regulation;
+25 (13) "CTAC" means the Coordinated Transportation Advisory Committee created in
+26 KRS 281.870;
+27 (14) "Department" means the Department of Vehicle Regulation;
+Page 4 of 13
+XXXX 2/4/2025 9:07 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1428
+1 (15) "Delivery area" means one (1) or more regions established by the cabinet in
+2 administrative regulations promulgated under KRS Chapter 13A for the purpose of
+3 providing human service transportation delivery in that region;
+4 (16) "Disabled persons vehicle carrier" means a motor carrier for hire, transporting
+5 passengers including the general public who require transportation in disabled
+6 persons vehicles;
+7 (17) "Disabled persons vehicle" means a motor vehicle operating under a disabled
+8 persons vehicle certificate especially equipped for the transportation of passengers
+9 with disabilities in accordance with 49 C.F.R. pt. 38, and is designed or constructed
+10 with not more than fifteen (15) regular seats. It shall not mean an ambulance as
+11 defined in KRS 311A.010. It shall not mean a motor vehicle equipped with a
+12 stretcher;
+13 (18) "Disabled persons vehicle certificate" means a certificate granting authority for the
+14 operation of one (1) or more disabled persons vehicles transporting passengers for
+15 hire;
+16 (19) "Driveaway" means the transporting and delivering of motor vehicles, except
+17 semitrailers and trailers, whether destined to be used in either a private or for-hire
+18 capacity, under their own power or by means of a full mount method, saddle mount
+19 method, the tow bar method, or any combination of them over the highways of this
+20 state from any point of origin to any point of destination for hire. "Driveaway" does
+21 not include the transportation of such vehicles by the full mount method on trailers
+22 or semitrailers;
+23 (20) "Driveaway certificate" means a certificate granting authority for the operation of
+24 one (1) or more motor carrier vehicles operating as a driveaway;
+25 (21) "Driver" means the person physically operating the motor vehicle;
+26 (22) "Flatbed/rollback service" means a form of towing service which involves moving
+27 vehicles by loading them onto a flatbed platform;
+Page 5 of 13
+XXXX 2/4/2025 9:07 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1428
+1 (23) "Fully autonomous vehicle" has the same meaning as in KRS 186.760;
+2 (24) "Highway" means all public roads, highways, streets, and ways in this state,
+3 whether within a municipality or outside of a municipality;
+4 (25) "Household goods" has the same meaning as in 49 C.F.R. sec. 375.103;
+5 (26) "Household goods carrier" has the same meaning as "household goods motor
+6 carrier" in 49 C.F.R. sec. 375.103;
+7 (27) "Household goods certificate" means a certificate granting authority for the
+8 operation of one (1) or more household goods vehicles;
+9 (28) "Human service transportation delivery" means the provision of transportation
+10 services to any person that is an eligible recipient in one (1) of the following state
+11 programs:
+12 (a) Nonemergency medical transportation under KRS Chapter 205;
+13 (b) Mental health, intellectual disabilities, or comprehensive care under KRS
+14 Chapter 202A, 202B, 210, or 645;
+15 (c) Work programs for public assistance recipients under KRS Chapter 205;
+16 (d) Adult services under KRS Chapter 205, 209, 216, or 273;
+17 (e) Vocational rehabilitation under KRS Chapter 151B or 157; or
+18 (f) Blind industries or rehabilitation under KRS Chapter 151B or 163;
+19 (29) "Interstate commerce" has the same meaning as in 49 C.F.R. sec. 390.5;
+20 (30) "Intrastate commerce" has the same meaning as in 49 C.F.R. sec. 390.5;
+21 (31) "Limousine" means a motor vehicle operating under a limousine certificate that is
+22 designed or constructed with not more than fifteen (15) regular seats;
+23 (32) "Limousine certificate" means a certificate granting authority for the operation of
+24 one (1) or more limousines transporting passengers for hire;
+25 (33) "Mobile application" means an application or a computer program designed to run
+26 on a smartphone, tablet computer, or other mobile device that is used by a TNC to
+27 connect drivers with potential passengers;
+Page 6 of 13
+XXXX 2/4/2025 9:07 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1428
+1 (34) "Motor carrier" means any person in either a private or for-hire capacity who owns,
+2 controls, operates, manages, or leases, except persons leasing to authorized motor
+3 carriers, any motor vehicle for the transportation of passengers or property upon
+4 any highway, and any person who engages in the business of automobile utility
+5 trailer lessor, vehicle towing, driveaway, or U-Drive-It;
+6 (35) "Motor carrier vehicle" means a motor vehicle, including a fully autonomous
+7 vehicle, used by a motor carrier to transport passengers or property;
+8 (36) "Motor carrier vehicle license" means a license issued by the department for a
+9 motor carrier vehicle authorized to operate under a certificate;
+10 (37) "Motor carrier license plate" means a license plate issued by the department to a
+11 motor carrier authorized to operate under a certificate other than a household goods,
+12 property, TNC, peer-to-peer car sharing, or U-Drive-It certificate;
+13 (38) "Motor vehicle" means any motor-propelled vehicle used for the transportation of
+14 passengers or property on a public highway, including any such vehicle operated as
+15 a unit in combination with other vehicles;
+16 (39) "Passenger" means an individual or group of people;
+17 (40) "Peer-to-peer car sharing":
+18 (a) Means the authorized use of a motor vehicle by an individual other than the
+19 vehicle's owner through a peer-to-peer car sharing program; and
+20 (b) Does not:
+21 1. Include the operation of a U-Drive-It certificate as defined in this
+22 section; or
+23 2. Involve the sale or provision of rental vehicle insurance as defined in
+24 KRS 304.9-020;
+25 (41) "Peer-to-peer car sharing certificate" means a certificate granting the authority for
+26 the operation of a peer-to-peer car sharing program;
+27 (42) "Peer-to-peer car sharing company" means a person that operates a peer-to-peer car
+Page 7 of 13
+XXXX 2/4/2025 9:07 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1428
+1 sharing program;
+2 (43) "Peer-to-peer car sharing program":
+3 (a) Means a business platform that connects shared vehicle owners with shared
+4 vehicle drivers to enable the sharing of motor vehicles for financial
+5 consideration; and
+6 (b) Does not include a:
+7 1. U-Drive-It;
+8 2. Motor vehicle renting company as defined in KRS 281.687;
+9 3. Rental vehicle agent as defined in KRS 304.9-020; or
+10 4. Service provider that is solely providing hardware or software as a
+11 service to a person or entity that is not effectuating payment of financial
+12 consideration for use of a shared vehicle;
+13 (44) "Permit" means a temporary permit of compliance issued under this chapter for a
+14 specified period not to exceed ten (10) days, and for a specific vehicle, to any motor
+15 carrier, including one who is a nonresident of the Commonwealth, who operates a
+16 motor vehicle and is not entitled to an exemption from the payment of fees imposed
+17 under KRS 186.050 because of the terms of a reciprocal agreement between the
+18 Commonwealth and the state in which the vehicle is licensed;
+19 (45) "Person" means any individual, firm, partnership, corporation, company,
+20 association, or joint stock association, and includes any trustee, assignee, or
+21 personal representative thereof;
+22 (46) "Platoon" means a group of two (2) individual commercial motor vehicles traveling
+23 in a unified manner at electronically coordinated speeds at following distances that
+24 are closer than would ordinarily be allowed under KRS 189.340(9)(b);
+25 (47) "Prearranged ride" means the period of time that begins when a transportation
+26 network company driver accepts a requested ride through a digital network or
+27 mobile application, continues while the driver transports the rider in a personal
+Page 8 of 13
+XXXX 2/4/2025 9:07 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1428
+1 vehicle, and ends when the transportation network company services end;
+2 (48) "Pre-trip acceptance liability policy" means the transportation network company
+3 liability insurance coverage for incidents involving the driver for a period of time
+4 when a driver is logged into a transportation network company's digital network or
+5 mobile application but is not engaged in a prearranged ride;
+6 (49) "Property" means general or specific commodities, including hazardous and
+7 nonhazardous materials;
+8 (50) "Property certificate" means a certificate granting authority for the transportation of
+9 property, other than household goods, not exempt under KRS 281.605;
+10 (51) "Recovery":
+11 (a) Means a form of towing service which involves moving vehicles by the use of
+12 a wheel-lift device, such as a lift, crane, hoist, winch, cradle, jack, automobile
+13 ambulance, tow dolly, or any other similar device as requested by a state or
+14 local law enforcement agency; and
+15 (b) Includes:
+16 1. Relocating a vehicle or cargo from a place where towing is not possible
+17 to a place where towing is possible; and
+18 2. The cleanup of debris or cargo, and returning an area to pre-event
+19 condition;
+20 (52) "Regular route" means the scheduled transportation of passengers between
+21 designated points over designated routes under time schedules that provide a
+22 regularity of services;
+23 (53) "Regular seat" means a seat ordinarily and customarily used by one (1) passenger
+24 and, in determining such seating capacity, the manufacturer's rating may be
+25 considered;
+26 (54) "Shared vehicle":
+27 (a) Means a motor vehicle that is available for car sharing through a peer-to-peer
+Page 9 of 13
+XXXX 2/4/2025 9:07 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1428
+1 car sharing program; and
+2 (b) Does not include a motor vehicle leased or rented by a person operating under
+3 a U-Drive-It certificate;
+4 (55) "Shared vehicle driver" means an individual who has been authorized to drive the
+5 shared vehicle by the shared vehicle owner under a car sharing program agreement;
+6 (56) "Shared vehicle owner":
+7 (a) Means the registered owner, or a person designated by the registered owner,
+8 of a motor vehicle made available for sharing to shared vehicle drivers,
+9 through a peer-to-peer car sharing program; and
+10 (b) Does not include a:
+11 1. Person operating a U-Drive-It certificate;
+12 2. Motor vehicle renting company as defined in KRS 281.687; or
+13 3. Rental vehicle agent as defined in KRS 304.9-020;
+14 (57) "Storage facility" means any lot, facility, or other property used to store motor
+15 vehicles that have been removed from another location by a tow truck;
+16 (58) "Street hail" means a request for service made by a potential passenger using hand
+17 gestures or verbal statement;
+18 (59) "Subcontractor" means a person who has signed a contract with a broker to provide
+19 human service transportation delivery within a specific delivery area and who meets
+20 human service transportation delivery requirements, including proper operating
+21 authority;
+22 (60) "Tariff" means the listing of compensation received by a motor carrier for
+23 household goods that includes the manner in which and the amount of fares an
+24 authorized motor carrier may charge;
+25 (61) "Taxicab" means a motor vehicle operating under a taxicab certificate that is
+26 designed or constructed with not more than eight (8) regular seats and may be
+27 equipped with a taximeter;
+Page 10 of 13
+XXXX 2/4/2025 9:07 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1428
+1 (62) "Taxicab certificate" means a certificate granting authority for the operation of one
+2 (1) or more taxicabs transporting passengers for hire;
+3 (63) "Taximeter" means an instrument or device approved by the department that
+4 automatically calculates and plainly indicates the charge to a passenger for hire who
+5 is being charged on the basis of mileage;
+6 (64) "Tow truck" means a motor vehicle equipped to provide any form of towing
+7 service, including recovery service or flatbed/rollback service;
+8 (65) "Tow truck operator" means an individual who operates a tow truck as an employee
+9 or agent of a towing company;
+10 (66) "Towing" means:
+11 (a) Emergency towing, which is the towing of a motor vehicle, with or without
+12 the owner's consent, because of:
+13 1. A motor vehicle accident on a public highway;
+14 2. An incident related to an emergency; or
+15 3. An incident that necessitates the removal of the motor vehicle from a
+16 location for public safety reasons;
+17 (b) Private property towing, which is the towing of a motor vehicle, without the
+18 owner's consent, from private property:
+19 1. On which the motor vehicle was illegally parked; or
+20 2. Because of an exigent circumstance necessitating its removal to another
+21 location; and
+22 (c) Seizure towing, which is the towing of a motor vehicle for law enforcement
+23 purposes involving the:
+24 1. Maintenance of the chain of custody of evidence;
+25 2. Forfeiture of assets; or
+26 3. Delinquency of highway fuel tax, weight distance tax, or any other taxes
+27 and fees administered by the Transportation Cabinet;
+Page 11 of 13
+XXXX 2/4/2025 9:07 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1428
+1 (67) "Towing company":
+2 (a) Means a service or business operating as a motor carrier that:
+3 1. Tows or otherwise moves motor vehicles by means of a tow truck; or
+4 2. Owns or operates a storage lot;
+5 (b) Includes a tow truck operator acting on behalf of a towing company when
+6 appropriate in the context; and
+7 (c) Does not include an automobile club, car dealership, insurance company,
+8 repossession company, lienholders and entities hired by lienholders for the
+9 purpose of repossession, local government, or any other entity that contracts
+10 with a towing company;
+11 (68) "Transportation network company" or "TNC" means a person or entity that
+12 connects passengers through its digital network or mobile application to its drivers
+13 for the provision of transportation network company services;
+14 (69) "Transportation network company certificate" or "TNC certificate" means a
+15 certificate granting the authority for the operation of one (1) or more transportation
+16 network company vehicles transporting passengers for hire;
+17 (70) "Transportation network company driver" or "TNC driver" means an individual
+18 who operates a motor vehicle that is owned or leased by the individual, or a motor
+19 vehicle for which the driver is an insured driver and has the permission of the
+20 owner or lessee of the motor vehicle, and used to provide transportation network
+21 company services;
+22 (71) "Transportation network company service" or "TNC service" means a prearranged
+23 passenger transportation service offered or provided through the use of a
+24 transportation network company mobile application or digital network to connect
+25 potential passengers with transportation network company drivers;
+26 (72) "Transportation network company vehicle" or "TNC vehicle" means a privately
+27 owned or leased motor vehicle, including a fully autonomous vehicle, designed or
+Page 12 of 13
+XXXX 2/4/2025 9:07 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1428
+1 constructed with not more than eight (8) regular seats, operating under a
+2 transportation network company certificate;
+3 (73) "U-Drive-It" means any person operating under a U-Drive-It certificate who leases
+4 or rents a motor vehicle for consideration to be used for the transportation of
+5 persons or property, but for which no driver is furnished, and the use of which
+6 motor vehicle is not for the transportation of persons or property for hire by the
+7 lessee or rentee;[ and]
+8 (74) "U-Drive-It certificate" means a certificate granting authority for the operation of
+9 one (1) or more U-Drive-Its; and
+10 (75) "Youth transportation network company services" or "youth TNC services"
+11 means transportation network company services provided to a rider who is a
+12 minor under the age of fourteen (14) years.
+Page 13 of 13
+XXXX 2/4/2025 9:07 AM Jacketed
+[DELETED:   2  J A B S R ( I r a f y T s a a T d m p y T s ( T l ( T 1 A n a s f b c b c a K S P a F B o I d 2 A 3 A 4 A ( T p c s e t t T d w s i 1 S 2 F 3 S 4 E 5 S 6 L ( T 1 P]
+[DELETED:   2  J p o l g a i d f t p o l g 2 A t 3 M 4 A t 5 P d ( T t 1 D 2 S 3 H 4 H 5 H 6 C ( T ( A t ( O d ( N ( I a b a m i a w a r ( A t]
+[DELETED:   2  J ( A T a y T s s m c a i t d n c a e f t t o a u ( A w ( S m o ( T p o T ( T C S A ( " c m a p t f c p t a i m o s a r i s a l f r s i d o t r ( " a ( "]
+[DELETED:   2  J e ( " u t c w i e i t b o l o r a ( " m a p s b t c t a r f p p t c h s t d w a s d d ( " m a m v o u a b c t p ( " o ( " ( " c ( " b m a m v o u a c b c p c h i e s i a o m a h l t p o o ( " o ( " ( " m t C T A C c i K ( "]
+[DELETED:   2  J ( " a m o ( o m r e b t c i a p ( " p v c m a m c f h t p i t g p w r t i d p ( " p v m a m v o u a d p w w d i K 3 I s n m a m v e w a s ( " o h ( " m t t a d o m v e s c m s n o ( " o ( " ( " v]
+[DELETED:   2  J ( " ( " m a p r h s a w i t s w ( " ( " g c h t s m a " g m c ( " g c m a c g a f t o ( " s t d m t p o t s p ( N ( M h i d o c c u K C ( W ( A ( V ( B ( " ( " ( " d ( " o ( " o c]
+[DELETED:   2  J ( " c c a t ( " c v m a m v i a f a v ( " c v l m a l i b t d f a m ( " m p ( " p a ( " ( " ( M v ( D 1 I t o o a U c a d i t s 2 I K ( " t ( "]
+[DELETED:   2  J s ( " ( M v d t e t s o m v f f c ( D 1 U 2 M 3 R 4 S p t i s p h o s a a s c ( " s c m u C ( " m a i f p c c a o j s a a i a t a o p ( " i a ( " r m t p o t t b w a t n c d a a r r t a d n o m a c w t d t t r i a p]
+[DELETED:   2  J v ( " a l p m t t n c l w m ( " m g o s c i h a n ( " p ( " ( M a a l ( I 1 R t 2 T c o d o c a r a a t p c ( " r m t s t o p b d p o d r u t s t p a r ( " a i d s s c t m r m b c ( " ( M]
+[DELETED:   2  J c ( D a ( " s ( " ( M o a m v m a f s t s v d t ( D 1 P 2 M 3 R ( " f m a l f o o p u t s m v ( " g ( " h h s t d r i p o a ( " m t l o c r b a m c f h g t i t m i w a t a o f a a ( " m a m v o u a t c t i d o c w n m t e ( r s a m b e]
+[DELETED:   2  J ( " ( ( " m a i o d a b t d t a i ( " t m a m v e t p a f o t s ( " o ( " ( E t 1 A 2 A 3 A l ( P o 1 O 2 B l ( S p 1 M 2 F 3 D a]
+[DELETED:   2  J ( " ( M 1 T 2 O ( I o a ( D n i a a c c d i c r c l a e h b l f t p w ( " n c o " m a p o e t c f ( " n c c o " c m a c n ( " n c d o " d m a i w v f w t d i a i d a h t p o t o c ( " p t s o o p t t u o a t p ( " n c v o " v m a p o]
+[DELETED:   2  J c w n m t e ( r s o u a t ( " o r a m v f c t b u f t t o p o p b f w n d i f a t u o w m l ( " o ( " t n c s o " T s m t n c s p t a r w i a m]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS BR 1428
+1 AN ACT relating to transportation network company services.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF KRS CHAPTER 281 IS CREATED TO
+4 READ AS FOLLOWS:
+5 (1) In addition to meeting the requirements of this chapter and any administrative
+6 regulations promulgated by the cabinet for TNCs and TNC drivers, a TNC may
+7 arrange for youth TNC services, and a TNC driver may provide youth TNC
+8 services, if the:
+9 (a) TNC driver is at least 23 years of age and has possessed a valid driver's
+10 license for a minimum of the last three (3) years;
+11 (b) TNC driver has undergone a background check process that includes:
+12 1. A national and state fingerprint based criminal background check
+13 against Kentucky State Police and Federal Bureau of Investigation
+14 databases;
+15 2. A check against the national sex offender database;
+16 3. A clear Kentucky child abuse and neglect screen; and
+17 4. A motor vehicle records search; and
+18 (c) TNC provides child safety education to the TNC driver, which shall
+19 include:
+20 1. Safe driving practices;
+21 2. First aid and cardiopulmonary resuscitation procedures;
+22 3. Special considerations for transporting youth with disabilities;
+23 4. Emergency preparedness;
+24 5. Safe pick-up and drop-off procedures; and
+25 6. Laws on proper child restraint systems;
+26 (d) TNC implements technology-enabled procedures that:
+27 1. Provide end-to-end visibility into the ride for the TNC, the passenger's
+Page 1 of 13
+XXXX 2/4/2025 9:07 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1428
+1 parent or legal guardian, and, if different from the parent or legal
+2 guardian, the person or entity who scheduled the ride;
+3 2. Allow for Global Positioning System (GPS) tracking of the ride in real
+4 time;
+5 3. Monitor the ride in real-time for safety-related anomalies;
+6 4. Allow for communication between the passenger's legal guardian and
+7 the TNC throughout the ride; and
+8 5. Provide the passenger's legal guardian with the ability to contact the
+9 driver directly;
+10 (e) TNC implements ride-tracking technology that allows for the detection of
+11 the following driving behaviors, including but not limited to:
+12 1. Device use;
+13 2. Speeding;
+14 3. Hard turning;
+15 4. Hard braking;
+16 5. Hard acceleration; and
+17 6. Collision detection; and
+18 (f) TNC maintains a zero-tolerance policy on drug and alcohol use by drivers.
+19 (3) A TNC arranging youth TNC services shall ensure that vehicles used to provide
+20 these services are:
+21 (a) Originally designed for not more than eight (8) passengers, including the
+22 driver;
+23 (b) No more than thirteen (13) model years old; and
+24 (c) Inspected annually by a mechanic in accordance with administrative
+25 regulations promulgated by the department.
+26 (4) A TNC driver providing youth TNC services shall complete and document a pre-
+27 trip inspection before providing youth transportation services.
+Page 2 of 13
+XXXX 2/4/2025 9:07 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1428
+1 (5) A TNC arranging youth TNC services shall maintain commercial automotive
+2 insurance that does not contain an exclusion for the transportation of an
+3 unaccompanied minor.
+4 (6) A TNC arranging youth TNC services shall publish an annual safety report on its
+5 website.
+6 (7) Subject to the approval of a student's parent or legal guardian, a school district
+7 may contract with a TNC company to arrange youth TNC services for students to
+8 or from a school, school-related activities, or school-sanctioned activities.
+9 (8) The provisions of this chapter as they relate to TNCs, administrative regulations
+10 promulgated by the cabinet related to TNCs, and the contract between the board
+11 of education of a school district and the TNC shall exclusively govern the youth
+12 TNC services arranged by the TNC pursuant to this section.
+13 (9) The cabinet may promulgate administrative regulations in accordance with KRS
+14 Chapter 13A to set specific standards for the provision of youth TNC services
+15 Section 2. KRS 281.010 is amended to read as follows:
+16 As used in this chapter:
+17 (1) "Automobile club" means a person that, for consideration, promises to assist its
+18 members or subscribers in matters relating to the assumption of or reimbursement
+19 of the expense or a portion thereof for towing of a motor vehicle; emergency road
+20 service; matters relating to the operation, use, and maintenance of a motor vehicle;
+21 and the supplying of services which includes, augments, or is incidental to theft or
+22 reward services, discount services, arrest bond services, lock and key services, trip
+23 interruption services, and legal fee reimbursement services in defense of traffic-
+24 related offenses;
+25 (2) "Automobile utility trailer" means any trailer or semitrailer designed for use with
+26 and towed behind a passenger motor vehicle;
+27 (3) "Automobile utility trailer certificate" means a certificate authorizing a person to
+Page 3 of 13
+XXXX 2/4/2025 9:07 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1428
+1 engage in the business of automobile utility trailer lessor;
+2 (4) "Automobile utility trailer lessor" means any person operating under an automobile
+3 utility trailer certificate who is engaged in the business of leasing or renting
+4 automobile utility trailers, but shall not include the agents of such persons;
+5 (5) "Broker" means a person selected by the cabinet through a request for proposal
+6 process to coordinate human service transportation delivery within a specific
+7 delivery area. A broker may also provide transportation services within the specific
+8 delivery area for which the broker is under contract with the cabinet;
+9 (6) "Bus" means a motor vehicle operating under a bus certificate transporting
+10 passengers for hire between points over regular routes;
+11 (7) "Bus certificate" means a certificate granting authority for the operation of one (1)
+12 or more buses;
+13 (8) "Cabinet" means the Kentucky Transportation Cabinet;
+14 (9) "Certificate" means a certificate of compliance issued under this chapter to motor
+15 carriers;
+16 (10) "Charter bus" means a motor vehicle operating under a charter bus certificate
+17 providing for-hire intrastate transportation of a group of persons who, pursuant to a
+18 common purpose under a single contract at a fixed charge for the motor vehicle,
+19 have acquired the exclusive use of the motor vehicle to travel together under an
+20 itinerary either specified in advance or modified after having left the place of
+21 origin;
+22 (11) "Charter bus certificate" means a certificate granting authority for the operation of
+23 one (1) or more charter buses;
+24 (12) "Commissioner" means the commissioner of the Department of Vehicle Regulation;
+25 (13) "CTAC" means the Coordinated Transportation Advisory Committee created in
+26 KRS 281.870;
+27 (14) "Department" means the Department of Vehicle Regulation;
+Page 4 of 13
+XXXX 2/4/2025 9:07 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1428
+1 (15) "Delivery area" means one (1) or more regions established by the cabinet in
+2 administrative regulations promulgated under KRS Chapter 13A for the purpose of
+3 providing human service transportation delivery in that region;
+4 (16) "Disabled persons vehicle carrier" means a motor carrier for hire, transporting
+5 passengers including the general public who require transportation in disabled
+6 persons vehicles;
+7 (17) "Disabled persons vehicle" means a motor vehicle operating under a disabled
+8 persons vehicle certificate especially equipped for the transportation of passengers
+9 with disabilities in accordance with 49 C.F.R. pt. 38, and is designed or constructed
+10 with not more than fifteen (15) regular seats. It shall not mean an ambulance as
+11 defined in KRS 311A.010. It shall not mean a motor vehicle equipped with a
+12 stretcher;
+13 (18) "Disabled persons vehicle certificate" means a certificate granting authority for the
+14 operation of one (1) or more disabled persons vehicles transporting passengers for
+15 hire;
+16 (19) "Driveaway" means the transporting and delivering of motor vehicles, except
+17 semitrailers and trailers, whether destined to be used in either a private or for-hire
+18 capacity, under their own power or by means of a full mount method, saddle mount
+19 method, the tow bar method, or any combination of them over the highways of this
+20 state from any point of origin to any point of destination for hire. "Driveaway" does
+21 not include the transportation of such vehicles by the full mount method on trailers
+22 or semitrailers;
+23 (20) "Driveaway certificate" means a certificate granting authority for the operation of
+24 one (1) or more motor carrier vehicles operating as a driveaway;
+25 (21) "Driver" means the person physically operating the motor vehicle;
+26 (22) "Flatbed/rollback service" means a form of towing service which involves moving
+27 vehicles by loading them onto a flatbed platform;
+Page 5 of 13
+XXXX 2/4/2025 9:07 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1428
+1 (23) "Fully autonomous vehicle" has the same meaning as in KRS 186.760;
+2 (24) "Highway" means all public roads, highways, streets, and ways in this state,
+3 whether within a municipality or outside of a municipality;
+4 (25) "Household goods" has the same meaning as in 49 C.F.R. sec. 375.103;
+5 (26) "Household goods carrier" has the same meaning as "household goods motor
+6 carrier" in 49 C.F.R. sec. 375.103;
+7 (27) "Household goods certificate" means a certificate granting authority for the
+8 operation of one (1) or more household goods vehicles;
+9 (28) "Human service transportation delivery" means the provision of transportation
+10 services to any person that is an eligible recipient in one (1) of the following state
+11 programs:
+12 (a) Nonemergency medical transportation under KRS Chapter 205;
+13 (b) Mental health, intellectual disabilities, or comprehensive care under KRS
+14 Chapter 202A, 202B, 210, or 645;
+15 (c) Work programs for public assistance recipients under KRS Chapter 205;
+16 (d) Adult services under KRS Chapter 205, 209, 216, or 273;
+17 (e) Vocational rehabilitation under KRS Chapter 151B or 157; or
+18 (f) Blind industries or rehabilitation under KRS Chapter 151B or 163;
+19 (29) "Interstate commerce" has the same meaning as in 49 C.F.R. sec. 390.5;
+20 (30) "Intrastate commerce" has the same meaning as in 49 C.F.R. sec. 390.5;
+21 (31) "Limousine" means a motor vehicle operating under a limousine certificate that is
+22 designed or constructed with not more than fifteen (15) regular seats;
+23 (32) "Limousine certificate" means a certificate granting authority for the operation of
+24 one (1) or more limousines transporting passengers for hire;
+25 (33) "Mobile application" means an application or a computer program designed to run
+26 on a smartphone, tablet computer, or other mobile device that is used by a TNC to
+27 connect drivers with potential passengers;
+Page 6 of 13
+XXXX 2/4/2025 9:07 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1428
+1 (34) "Motor carrier" means any person in either a private or for-hire capacity who owns,
+2 controls, operates, manages, or leases, except persons leasing to authorized motor
+3 carriers, any motor vehicle for the transportation of passengers or property upon
+4 any highway, and any person who engages in the business of automobile utility
+5 trailer lessor, vehicle towing, driveaway, or U-Drive-It;
+6 (35) "Motor carrier vehicle" means a motor vehicle, including a fully autonomous
+7 vehicle, used by a motor carrier to transport passengers or property;
+8 (36) "Motor carrier vehicle license" means a license issued by the department for a
+9 motor carrier vehicle authorized to operate under a certificate;
+10 (37) "Motor carrier license plate" means a license plate issued by the department to a
+11 motor carrier authorized to operate under a certificate other than a household goods,
+12 property, TNC, peer-to-peer car sharing, or U-Drive-It certificate;
+13 (38) "Motor vehicle" means any motor-propelled vehicle used for the transportation of
+14 passengers or property on a public highway, including any such vehicle operated as
+15 a unit in combination with other vehicles;
+16 (39) "Passenger" means an individual or group of people;
+17 (40) "Peer-to-peer car sharing":
+18 (a) Means the authorized use of a motor vehicle by an individual other than the
+19 vehicle's owner through a peer-to-peer car sharing program; and
+20 (b) Does not:
+21 1. Include the operation of a U-Drive-It certificate as defined in this
+22 section; or
+23 2. Involve the sale or provision of rental vehicle insurance as defined in
+24 KRS 304.9-020;
+25 (41) "Peer-to-peer car sharing certificate" means a certificate granting the authority for
+26 the operation of a peer-to-peer car sharing program;
+27 (42) "Peer-to-peer car sharing company" means a person that operates a peer-to-peer car
+Page 7 of 13
+XXXX 2/4/2025 9:07 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1428
+1 sharing program;
+2 (43) "Peer-to-peer car sharing program":
+3 (a) Means a business platform that connects shared vehicle owners with shared
+4 vehicle drivers to enable the sharing of motor vehicles for financial
+5 consideration; and
+6 (b) Does not include a:
+7 1. U-Drive-It;
+8 2. Motor vehicle renting company as defined in KRS 281.687;
+9 3. Rental vehicle agent as defined in KRS 304.9-020; or
+10 4. Service provider that is solely providing hardware or software as a
+11 service to a person or entity that is not effectuating payment of financial
+12 consideration for use of a shared vehicle;
+13 (44) "Permit" means a temporary permit of compliance issued under this chapter for a
+14 specified period not to exceed ten (10) days, and for a specific vehicle, to any motor
+15 carrier, including one who is a nonresident of the Commonwealth, who operates a
+16 motor vehicle and is not entitled to an exemption from the payment of fees imposed
+17 under KRS 186.050 because of the terms of a reciprocal agreement between the
+18 Commonwealth and the state in which the vehicle is licensed;
+19 (45) "Person" means any individual, firm, partnership, corporation, company,
+20 association, or joint stock association, and includes any trustee, assignee, or
+21 personal representative thereof;
+22 (46) "Platoon" means a group of two (2) individual commercial motor vehicles traveling
+23 in a unified manner at electronically coordinated speeds at following distances that
+24 are closer than would ordinarily be allowed under KRS 189.340(9)(b);
+25 (47) "Prearranged ride" means the period of time that begins when a transportation
+26 network company driver accepts a requested ride through a digital network or
+27 mobile application, continues while the driver transports the rider in a personal
+Page 8 of 13
+XXXX 2/4/2025 9:07 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1428
+1 vehicle, and ends when the transportation network company services end;
+2 (48) "Pre-trip acceptance liability policy" means the transportation network company
+3 liability insurance coverage for incidents involving the driver for a period of time
+4 when a driver is logged into a transportation network company's digital network or
+5 mobile application but is not engaged in a prearranged ride;
+6 (49) "Property" means general or specific commodities, including hazardous and
+7 nonhazardous materials;
+8 (50) "Property certificate" means a certificate granting authority for the transportation of
+9 property, other than household goods, not exempt under KRS 281.605;
+10 (51) "Recovery":
+11 (a) Means a form of towing service which involves moving vehicles by the use of
+12 a wheel-lift device, such as a lift, crane, hoist, winch, cradle, jack, automobile
+13 ambulance, tow dolly, or any other similar device as requested by a state or
+14 local law enforcement agency; and
+15 (b) Includes:
+16 1. Relocating a vehicle or cargo from a place where towing is not possible
+17 to a place where towing is possible; and
+18 2. The cleanup of debris or cargo, and returning an area to pre-event
+19 condition;
+20 (52) "Regular route" means the scheduled transportation of passengers between
+21 designated points over designated routes under time schedules that provide a
+22 regularity of services;
+23 (53) "Regular seat" means a seat ordinarily and customarily used by one (1) passenger
+24 and, in determining such seating capacity, the manufacturer's rating may be
+25 considered;
+26 (54) "Shared vehicle":
+27 (a) Means a motor vehicle that is available for car sharing through a peer-to-peer
+Page 9 of 13
+XXXX 2/4/2025 9:07 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1428
+1 car sharing program; and
+2 (b) Does not include a motor vehicle leased or rented by a person operating under
+3 a U-Drive-It certificate;
+4 (55) "Shared vehicle driver" means an individual who has been authorized to drive the
+5 shared vehicle by the shared vehicle owner under a car sharing program agreement;
+6 (56) "Shared vehicle owner":
+7 (a) Means the registered owner, or a person designated by the registered owner,
+8 of a motor vehicle made available for sharing to shared vehicle drivers,
+9 through a peer-to-peer car sharing program; and
+10 (b) Does not include a:
+11 1. Person operating a U-Drive-It certificate;
+12 2. Motor vehicle renting company as defined in KRS 281.687; or
+13 3. Rental vehicle agent as defined in KRS 304.9-020;
+14 (57) "Storage facility" means any lot, facility, or other property used to store motor
+15 vehicles that have been removed from another location by a tow truck;
+16 (58) "Street hail" means a request for service made by a potential passenger using hand
+17 gestures or verbal statement;
+18 (59) "Subcontractor" means a person who has signed a contract with a broker to provide
+19 human service transportation delivery within a specific delivery area and who meets
+20 human service transportation delivery requirements, including proper operating
+21 authority;
+22 (60) "Tariff" means the listing of compensation received by a motor carrier for
+23 household goods that includes the manner in which and the amount of fares an
+24 authorized motor carrier may charge;
+25 (61) "Taxicab" means a motor vehicle operating under a taxicab certificate that is
+26 designed or constructed with not more than eight (8) regular seats and may be
+27 equipped with a taximeter;
+Page 10 of 13
+XXXX 2/4/2025 9:07 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1428
+1 (62) "Taxicab certificate" means a certificate granting authority for the operation of one
+2 (1) or more taxicabs transporting passengers for hire;
+3 (63) "Taximeter" means an instrument or device approved by the department that
+4 automatically calculates and plainly indicates the charge to a passenger for hire who
+5 is being charged on the basis of mileage;
+6 (64) "Tow truck" means a motor vehicle equipped to provide any form of towing
+7 service, including recovery service or flatbed/rollback service;
+8 (65) "Tow truck operator" means an individual who operates a tow truck as an employee
+9 or agent of a towing company;
+10 (66) "Towing" means:
+11 (a) Emergency towing, which is the towing of a motor vehicle, with or without
+12 the owner's consent, because of:
+13 1. A motor vehicle accident on a public highway;
+14 2. An incident related to an emergency; or
+15 3. An incident that necessitates the removal of the motor vehicle from a
+16 location for public safety reasons;
+17 (b) Private property towing, which is the towing of a motor vehicle, without the
+18 owner's consent, from private property:
+19 1. On which the motor vehicle was illegally parked; or
+20 2. Because of an exigent circumstance necessitating its removal to another
+21 location; and
+22 (c) Seizure towing, which is the towing of a motor vehicle for law enforcement
+23 purposes involving the:
+24 1. Maintenance of the chain of custody of evidence;
+25 2. Forfeiture of assets; or
+26 3. Delinquency of highway fuel tax, weight distance tax, or any other taxes
+27 and fees administered by the Transportation Cabinet;
+Page 11 of 13
+XXXX 2/4/2025 9:07 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1428
+1 (67) "Towing company":
+2 (a) Means a service or business operating as a motor carrier that:
+3 1. Tows or otherwise moves motor vehicles by means of a tow truck; or
+4 2. Owns or operates a storage lot;
+5 (b) Includes a tow truck operator acting on behalf of a towing company when
+6 appropriate in the context; and
+7 (c) Does not include an automobile club, car dealership, insurance company,
+8 repossession company, lienholders and entities hired by lienholders for the
+9 purpose of repossession, local government, or any other entity that contracts
+10 with a towing company;
+11 (68) "Transportation network company" or "TNC" means a person or entity that
+12 connects passengers through its digital network or mobile application to its drivers
+13 for the provision of transportation network company services;
+14 (69) "Transportation network company certificate" or "TNC certificate" means a
+15 certificate granting the authority for the operation of one (1) or more transportation
+16 network company vehicles transporting passengers for hire;
+17 (70) "Transportation network company driver" or "TNC driver" means an individual
+18 who operates a motor vehicle that is owned or leased by the individual, or a motor
+19 vehicle for which the driver is an insured driver and has the permission of the
+20 owner or lessee of the motor vehicle, and used to provide transportation network
+21 company services;
+22 (71) "Transportation network company service" or "TNC service" means a prearranged
+23 passenger transportation service offered or provided through the use of a
+24 transportation network company mobile application or digital network to connect
+25 potential passengers with transportation network company drivers;
+26 (72) "Transportation network company vehicle" or "TNC vehicle" means a privately
+27 owned or leased motor vehicle, including a fully autonomous vehicle, designed or
+Page 12 of 13
+XXXX 2/4/2025 9:07 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1428
+1 constructed with not more than eight (8) regular seats, operating under a
+2 transportation network company certificate;
+3 (73) "U-Drive-It" means any person operating under a U-Drive-It certificate who leases
+4 or rents a motor vehicle for consideration to be used for the transportation of
+5 persons or property, but for which no driver is furnished, and the use of which
+6 motor vehicle is not for the transportation of persons or property for hire by the
+7 lessee or rentee;[ and]
+8 (74) "U-Drive-It certificate" means a certificate granting authority for the operation of
+9 one (1) or more U-Drive-Its; and
+10 (75) "Youth transportation network company services" or "youth TNC services"
+11 means transportation network company services provided to a rider who is a
+12 minor under the age of fourteen (14) years.
+Page 13 of 13
+XXXX 2/4/2025 9:07 AM Jacketed
+
+[DELETED:   2  J A B S R ( I r a f y T s a a T d m p y T s ( T l ( T 1 A n a s f b c b c a K S P a F B o I d 2 A 3 A 4 A ( T p c s e t t T d w s i 1 S 2 F 3 S 4 E 5 S 6 L ( T 1 P]
+[DELETED:   2  J p o l g a i d f t p o l g 2 A t 3 M 4 A t 5 P d ( T t 1 D 2 S 3 H 4 H 5 H 6 C ( T ( A t ( O d ( N ( I a b a m i a w a r ( A t]
+[DELETED:   2  J ( A T a y T s s m c a i t d n c a e f t t o a u ( A w ( S m o ( T p o T ( T C S A ( " c m a p t f c p t a i m o s a r i s a l f r s i d o t r ( " a ( "]
+[DELETED:   2  J e ( " u t c w i e i t b o l o r a ( " m a p s b t c t a r f p p t c h s t d w a s d d ( " m a m v o u a b c t p ( " o ( " ( " c ( " b m a m v o u a c b c p c h i e s i a o m a h l t p o o ( " o ( " ( " m t C T A C c i K ( "]
+[DELETED:   2  J ( " a m o ( o m r e b t c i a p ( " p v c m a m c f h t p i t g p w r t i d p ( " p v m a m v o u a d p w w d i K 3 I s n m a m v e w a s ( " o h ( " m t t a d o m v e s c m s n o ( " o ( " ( " v]
+[DELETED:   2  J ( " ( " m a p r h s a w i t s w ( " ( " g c h t s m a " g m c ( " g c m a c g a f t o ( " s t d m t p o t s p ( N ( M h i d o c c u K C ( W ( A ( V ( B ( " ( " ( " d ( " o ( " o c]
+[DELETED:   2  J ( " c c a t ( " c v m a m v i a f a v ( " c v l m a l i b t d f a m ( " m p ( " p a ( " ( " ( M v ( D 1 I t o o a U c a d i t s 2 I K ( " t ( "]
+[DELETED:   2  J s ( " ( M v d t e t s o m v f f c ( D 1 U 2 M 3 R 4 S p t i s p h o s a a s c ( " s c m u C ( " m a i f p c c a o j s a a i a t a o p ( " i a ( " r m t p o t t b w a t n c d a a r r t a d n o m a c w t d t t r i a p]
+[DELETED:   2  J v ( " a l p m t t n c l w m ( " m g o s c i h a n ( " p ( " ( M a a l ( I 1 R t 2 T c o d o c a r a a t p c ( " r m t s t o p b d p o d r u t s t p a r ( " a i d s s c t m r m b c ( " ( M]
+[DELETED:   2  J c ( D a ( " s ( " ( M o a m v m a f s t s v d t ( D 1 P 2 M 3 R ( " f m a l f o o p u t s m v ( " g ( " h h s t d r i p o a ( " m t l o c r b a m c f h g t i t m i w a t a o f a a ( " m a m v o u a t c t i d o c w n m t e ( r s a m b e]
+[DELETED:   2  J ( " ( ( " m a i o d a b t d t a i ( " t m a m v e t p a f o t s ( " o ( " ( E t 1 A 2 A 3 A l ( P o 1 O 2 B l ( S p 1 M 2 F 3 D a]
+[DELETED:   2  J ( " ( M 1 T 2 O ( I o a ( D n i a a c c d i c r c l a e h b l f t p w ( " n c o " m a p o e t c f ( " n c c o " c m a c n ( " n c d o " d m a i w v f w t d i a i d a h t p o t o c ( " p t s o o p t t u o a t p ( " n c v o " v m a p o]
+[DELETED:   2  J c w n m t e ( r s o u a t ( " o r a m v f c t b u f t t o p o p b f w n d i f a t u o w m l ( " o ( " t n c s o " T s m t n c s p t a r w i a m]

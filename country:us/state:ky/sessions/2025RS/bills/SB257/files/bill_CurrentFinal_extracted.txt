@@ -1,0 +1,669 @@
+Title: 1 AN ACT relating to the Office of the Auditor of Public Accounts.
+Official Title: 1 AN ACT relating to the Office of the Auditor of Public Accounts.
+Number of Sections: 1
+Source: versions - Current/Final
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS SB 257/GA
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF KRS CHAPTER 43 IS CREATED TO
+4 READ AS FOLLOWS:
+5 (1) The Office of Government Efficiency is hereby created as an office within the
+6 Auditor of Public Accounts to evaluate and recommend improvements to the
+7 efficiency, cost-effectiveness, and performance of state agencies and their
+8 programs and operations.
+9 (2) The office shall:
+10 (a) Conduct performance audits and fiscal and operational reviews of state
+11 agencies to identify inefficiencies, waste, compliance with law, and
+12 opportunities for cost savings;
+13 (b) Develop and recommend best practices for streamlining government
+14 operations; and
+15 (c) Monitor the implementation of efficiency-related recommendations and
+16 report its findings to the Governor and Legislative Research Commission
+17 pursuant to KRS 43.090.
+18 (3) The Auditor shall submit an annual report by June 30 of each year, detailing the
+19 office's findings, recommendations, and cost-saving measures to the Governor
+20 and the Legislative Research Commission for referral to appropriate legislative
+21 committees.
+22 (4) Notwithstanding any provision of KRS Chapter 18A, KRS 64.640, or other statute
+23 to the contrary, the Auditor may:
+24 (a) Appoint additional classified and unclassified staff as he or she deems
+25 necessary to carry out the office's duties, subject to available funds; and
+26 (b) Seek additional funding through cost-saving initiatives and efficiency-
+27 related grants.
+Page 1 of 11
+SB025710.100 - 1763 - XXXX 3/5/2025 4:29 PM GA
+UNOFFICIAL COPY 25 RS SB 257/GA
+1 (5) The office shall be funded through appropriations made by the General
+2 Assembly, through the Auditor of Public Accounts' billing authority pursuant to
+3 KRS 43.050, and through any federal grants obtained for the purpose of
+4 government efficiency.
+5 SECTION 2. A NEW SECTION OF KRS CHAPTER 43 IS CREATED TO
+6 READ AS FOLLOWS:
+7 The Office of the Auditor of Public Accounts shall contain the following offices and
+8 divisions:
+9 (1) The Office of the Deputy Auditor, which shall have the following offices:
+10 (a) Office of Local Government Audits;
+11 (b) Office of State Government Audits and Technology;
+12 (c) Office of Special Investigations;
+13 (d) Office of Quality Assurance; and
+14 (e) Office of Government Efficiency;
+15 (2) The Office of Planning and Management, which shall have the following
+16 divisions:
+17 (a) Division of Information Technology Services;
+18 (b) Division of Financial Management; and
+19 (c) Division of Human Resource Administration;
+20 (3) The Office of Legal and Records Services, which shall contain the Division of
+21 Records Management; and
+22 (4) The Commonwealth Office of the Ombudsman, which shall contain the following
+23 offices and divisions:
+24 (a) Office of Citizen Services and Policy Integrity;
+25 (b) Office of Program Performance, which shall contain the:
+26 1. Division of Quality Control; and
+27 2. Division of Program Access Compliance;
+Page 2 of 11
+SB025710.100 - 1763 - XXXX 3/5/2025 4:29 PM GA
+UNOFFICIAL COPY 25 RS SB 257/GA
+1 (c) Office of Professional Integrity and Employee Development; and
+2 (d) Office of Policy and Research.
+3 Section 3. KRS 43.010 is amended to read as follows:
+4 As used in this chapter, unless the context requires otherwise:
+5 (1) "Auditor" means the Auditor of Public Accounts.
+6 (2) "Budget unit" means a department or other unit of organization for which separate
+7 appropriations are made from those for any other organization unit.
+8 (3) "State agency" means any state officer, cabinet, office, department, board,
+9 commission, institution, division, or other person or functional group that is
+10 authorized to exercise or does exercise any executive or administrative jurisdiction,
+11 powers, duties, rights or obligations of the state government conferred or imposed
+12 by law or exercised, performed, or discharged by legal authority in compliance with
+13 law.
+14 (4) "Writing" or "written" means letters, words, or numbers, or their equivalent, set
+15 down by handwriting, typewriting, printing, photostating, photographing, magnetic
+16 impulse, mechanical or electronic recording, or other form of data compilation.
+17 Section 4. KRS 43.030 is amended to read as follows:
+18 (1) The Auditor shall appoint for the duration of his or her own term, subject to
+19 removal by the Auditor at any time, one (1) deputy[assistant] auditor[ of public
+20 accounts], who shall be a certified public accountant and who has been a citizen and
+21 resident of the state for at least two (2) years. Except for the Office of the
+22 Ombudsman as established in KRS 43.035, the deputy[assistant] auditor shall have
+23 direct supervision over all technical work and technical assistants, and shall
+24 otherwise aid the Auditor in the performance of his or her duties, except that the
+25 deputy[assistant] auditor[ of public accounts] may exercise a full or partial recusal
+26 from this supervision requirement in regard to the consulting function authorized in
+27 KRS 43.050 if needed to comply with the professional standards of accountancy. If
+Page 3 of 11
+SB025710.100 - 1763 - XXXX 3/5/2025 4:29 PM GA
+UNOFFICIAL COPY 25 RS SB 257/GA
+1 the Auditor is absent or is rendered incapable of performing his or her duties, or if a
+2 vacancy in the office occurs, the deputy[assistant] auditor shall perform the duties
+3 of Auditor until the necessity therefor ceases to exist. He or she shall take the
+4 constitutional oath.
+5 (2) The Auditor may employ other subordinate personnel subject to the provisions of
+6 KRS 12.060. All employees with status as defined in KRS 18A.005 who are
+7 operating under the authority of the deputy auditor and engaged in auditing or
+8 investigations that are required to be performed in accordance with generally
+9 accepted government auditing standards shall possess a minimum of a four (4)
+10 year college degree. No less than ninety percent (90%) of all employees engaged in
+11 financial auditing or financial investigations required to be performed in
+12 accordance with generally accepted government auditing standards shall have
+13 twenty (20) semester hours or thirty (30) quarter hours of accounting, or alternately,
+14 shall be a certified public accountant. Not more than two (2) persons charged with
+15 the conduct of audits and investigations may substitute year-for-year responsible
+16 experience acceptable to the Personnel Cabinet for the required college education
+17 and accounting hours.
+18 (3) The Auditor and his or her sureties are liable on his or her official bond for the acts
+19 of the deputy[assistant] auditor and clerks.
+20 (4) Nothing in this section shall be deemed to affect the provisions of KRS 11.090 or
+21 other legislation authorizing audits.
+22 Section 5. KRS 43.050 is amended to read as follows:
+23 (1) The Auditor constitutes an agency independent of the administrative departments
+24 enumerated in KRS 12.020, it being the policy of the General Assembly to provide
+25 for the independent auditing of the accounts, financial transactions, and
+26 performance of all spending agencies of the state through a disinterested auditor,
+27 who is entirely independent of the state administration whose affairs he is called
+Page 4 of 11
+SB025710.100 - 1763 - XXXX 3/5/2025 4:29 PM GA
+UNOFFICIAL COPY 25 RS SB 257/GA
+1 upon to audit.
+2 (2) The Auditor may:
+3 (a) Audit annually, and at such other times as may be deemed expedient, the
+4 accounts of all state agencies, all private and semiprivate agencies receiving
+5 state aid or having responsibility for the handling of any state funds, the
+6 accounts, records, and transactions of the budget units, and the general
+7 accounts of the state;
+8 (b) Make a complete audit and verification of all moneys handled for the account
+9 of the state government by local officials charged with the collection of fees
+10 or other money for or on behalf of the state, when an audit is demanded in
+11 writing by the Legislative Research Commission, the secretary of the Finance
+12 and Administration Cabinet, or the Governor, and may make an audit when it
+13 is not so demanded;
+14 (c) Examine periodically the performance, management, conduct, and condition
+15 of all asylums, prisons, institutions for the intellectually disabled, and
+16 eleemosynary institutions; public works owned, operated, or partly owned by
+17 the state, or in the conduct or management of which the state has any financial
+18 interest or legal power; and state agencies. The examinations shall give
+19 special attention to the faithful and economical application of any money
+20 appropriated by the state to the institution, public works, or state agency
+21 examined, or of any money in which the state has an interest;
+22 (d) Examine annually the management and condition of the offices of the Finance
+23 and Administration Cabinet, the State Treasurer, and the chief state school
+24 officer, to determine whether the laws regulating their duties are being fully
+25 complied with, and all money received by them for the state fully accounted
+26 for;
+27 (e) Examine, at least biennially, the Finance and Administration Cabinet's
+Page 5 of 11
+SB025710.100 - 1763 - XXXX 3/5/2025 4:29 PM GA
+UNOFFICIAL COPY 25 RS SB 257/GA
+1 compliance with this section and KRS 48.111 and 56.800 to 56.823. Within
+2 sixty (60) days of the completion of each examination, the Auditor shall
+3 report his findings and recommendations to the Capital Projects and Bond
+4 Oversight Committee;
+5 (f) Audit periodically all state revenue collections, and, if he finds that
+6 collections are not being satisfactorily made, report that fact to the authority
+7 whose duty it is to make the collections;
+8 (g) Make special audits and investigations when requested[required] by the
+9 Governor;
+10 (h) Investigate the means of accounting for, controlling, and insuring the safe
+11 custody of all property of the state, and verify the existence and condition of
+12 such property charged to, or held in the custody of any state agency;
+13 (i) Audit the statements of financial condition and operations of the state
+14 government, and certify in writing the results of the audit and examination
+15 with the comments he deems necessary for the information of the General
+16 Assembly;
+17 (j) Report immediately in writing to the Governor, the Legislative Research
+18 Commission, and the secretary of the Finance and Administration Cabinet,
+19 any unauthorized, illegal, irregular, or unsafe handling or expenditure of state
+20 funds, or other improper practice of financial administration, or evidence that
+21 any such handling, expenditure, or practice is contemplated, and any
+22 obstruction of the Auditor or his or her agents during the conduct of any audit
+23 or investigation of a state agency; and
+24 (k) Assist the Legislative Research Commission at hearings and investigations
+25 conducted by it and cooperate with the Legislative Research Commission in
+26 the preparation of its reports to the General Assembly.
+27 (3) The Auditor may investigate and examine into the conduct of all state and county
+Page 6 of 11
+SB025710.100 - 1763 - XXXX 3/5/2025 4:29 PM GA
+UNOFFICIAL COPY 25 RS SB 257/GA
+1 officers who are authorized to receive, collect, or disburse any money for the state,
+2 or who manage or control any property belonging to the state or in which the state
+3 is interested, or who make estimates or records that are used as a basis by any state
+4 agency in the disbursement of public funds.
+5 (4) The Auditor may conduct a special audit or examination of a city government or
+6 any of its agencies or departments.
+7 (5) Except where otherwise provided, any expenses incurred by the Auditor for audits,
+8 examinations, investigations, or reviews shall be charged to the entity that is the
+9 subject of the audit, examination, investigation, or review. The Auditor shall
+10 maintain a record of all time expenses for each audit, examination, investigation, or
+11 review.
+12 (6) The Auditor may provide consulting services, in accordance with auditing standards
+13 generally accepted in the United States and government auditing standards, to state
+14 or local government entities and associations of such entities, including special
+15 purpose governmental entities, and may charge a mutually agreed upon rate for
+16 those services, including:
+17 (a) Providing training and technical presentations;
+18 (b) Developing audit guides applicable to those entities;
+19 (c) Developing question and answer documents to promote understanding of
+20 technical issues or standards; and
+21 (d) Collaborating with other professional organizations to advance auditing of
+22 government entities and programs.
+23 (7) The Auditor shall not be responsible for the keeping of any accounts of the state,
+24 except accounts relating to his or her own operations. The Auditor shall not be
+25 responsible for the collection of any money due the state, or for the handling or
+26 custody of any state funds or property except in the process of counting and
+27 verifying the amounts of the funds or property in the course of the audits provided
+Page 7 of 11
+SB025710.100 - 1763 - XXXX 3/5/2025 4:29 PM GA
+UNOFFICIAL COPY 25 RS SB 257/GA
+1 for in this section.
+2 Section 6. KRS 43.080 is amended to read as follows:
+3 (1) (a) The Auditor and his or her authorized agents shall have access at all times to
+4 and may at any time examine any and all information, including but not
+5 limited to books, accounts, reports, vouchers, correspondence files, records,
+6 information technology systems, databases, premises, money, and property
+7 of any state agency or budget unit, which the Auditor or agents deem
+8 necessary to properly audit, investigate, examine, or review the state agency
+9 or budget unit.
+10 (b) Every officer or employee of any state[ such] agency or budget unit having
+11 such records or property in his or her possession or under his or her control
+12 shall permit access to and examination of them upon the request of the
+13 Auditor or any agent authorized by him or her to make such request.
+14 (c) Every officer or employee of any state agency or budget unit shall be
+15 allowed to participate in interviews outside the presence of any supervisor,
+16 official, or counsel representing that or any other agency or unit and shall
+17 not be retaliated against for doing so.
+18 (2) The Auditor and his or her assistants shall have access at all times to the premises,
+19 papers, books and records of the asylums, prisons, institutions for the intellectually
+20 disabled and eleemosynary institutions, and public works that he or she is
+21 authorized to examine, and of any county officer who receives or disburses county
+22 funds.
+23 (3) The Auditor and his or her authorized agents may administer oaths, issue
+24 subpoenas, issue subpoenas duces tecum, and compel the attendance of witnesses
+25 and the production of testimony and evidence relating to any subject under audit,
+26 examination, investigation, or review by them[may require information on oath
+27 from any person touching any matters relative to any account that the Auditor is
+Page 8 of 11
+SB025710.100 - 1763 - XXXX 3/5/2025 4:29 PM GA
+UNOFFICIAL COPY 25 RS SB 257/GA
+1 required to state, audit or settle. The Auditor may administer the oath himself, or
+2 have it done by any officer authorized to administer an oath].
+3 (4) (a) The Auditor and his or her authorized agents may petition a Circuit Court
+4 having jurisdiction over the matter, officer, or employee for injunctive or
+5 other relief to enforce compliance with this section, including but not
+6 limited to obedience as to process or investigative demands issued under it,
+7 and may recover all costs, including attorney's fees, of bringing and
+8 enforcing the action[assistants may issue process and compel the attendance
+9 of witnesses before them, and administer oaths and compel witnesses to
+10 testify in any of the investigations the Auditor is authorized to make].
+11 (b) Upon petition, a Circuit Court may grant a protective order staying the
+12 enforcement of any unlawful process issued under this section.
+13 Section 7. KRS 43.990 is amended to read as follows:
+14 (1) Any officer who prevents, attempts to prevent or obstructs an examination by the
+15 Auditor, under the provisions of paragraph (c) of subsection (2) of KRS 43.050, or
+16 of subsection (3) of KRS 43.050, into his or her official conduct, or the conduct or
+17 condition of the office in his or her charge or with which he or she is connected,
+18 except when the office constitutes a state agency, is guilty of a high misdemeanor,
+19 and, upon conviction on indictment in the Franklin Circuit Court, shall be fined five
+20 hundred dollars ($500) and removed by the Governor. Any person, other than an
+21 officer, who prevents, attempts to prevent or obstructs such an examination shall be
+22 fined one thousand dollars ($1,000).
+23 (2) If the Auditor fails or refuses without good cause to perform the duties imposed
+24 upon him or her by KRS 43.060, he or she shall be fined not less than two hundred
+25 and fifty dollars ($250) nor more than one thousand dollars ($1,000) for each
+26 offense.
+27 (3) Any county officer who prevents, attempts to prevent or obstructs an examination
+Page 9 of 11
+SB025710.100 - 1763 - XXXX 3/5/2025 4:29 PM GA
+UNOFFICIAL COPY 25 RS SB 257/GA
+1 by the Auditor, under KRS 43.070, into his or her official conduct, or the conduct
+2 or condition of the office in his or her charge or with which he or she is connected,
+3 is guilty of a high misdemeanor, and shall, upon indictment and conviction in the
+4 Franklin Circuit Court, be fined five hundred dollars ($500). Any person, other than
+5 a county officer, who prevents, attempts to prevent or obstructs such an
+6 examination shall be fined one thousand dollars ($1,000).
+7 (4) Any officer or other person who fails or refuses to permit the access and
+8 examination provided for in subsection (1) of KRS 43.080, or who interferes with
+9 such examination, shall be fined not less than one hundred dollars ($100), or
+10 imprisoned in the county jail for not less than one (1) month nor more than twelve
+11 (12) months, or both. Each refusal by an officer shall constitute a separate offense.
+12 (5) Any person who has custody of any premises, papers, books or records of an
+13 asylum, prison, institution for the intellectually disabled or eleemosynary institution
+14 or public works, other than a state agency, that the Auditor is authorized to examine
+15 under paragraph (c) of subsection (2) of KRS 43.050, under subsection (3) of KRS
+16 43.050, and under subsection (2) of KRS 43.080, who fails or refuses, when called
+17 upon by the Auditor for that purpose, to permit him or her to inspect any of such
+18 premises, papers, books or records, shall, upon conviction on indictment in the
+19 Franklin Circuit Court, be fined not more than five hundred dollars ($500) and be
+20 subject to removal by the Governor.
+21 (6) Any person who refuses to be sworn when required by the Auditor to be sworn for
+22 the purpose mentioned in subsection (3) of KRS 43.080, or who fails, without legal
+23 excuse, to attend or testify, shall be fined not more than one hundred dollars
+24 ($100).
+25 (7) In the case of disobedience of a subpoena or subpoena duces tecum or a refusal
+26 to testify as required pursuant to KRS 43.080(3), the Circuit Court having
+27 jurisdiction of the person who refused to be sworn or to whom the subpoena or
+Page 10 of 11
+SB025710.100 - 1763 - XXXX 3/5/2025 4:29 PM GA
+UNOFFICIAL COPY 25 RS SB 257/GA
+1 subpoena duces tecum was issued, may adjudge the person guilty of contempt of
+2 court and punish him or her as provided by law in other contempt cases[Any
+3 witness called by the Auditor under subsection (4) of KRS 43.080 who fails,
+4 without legal excuse, to attend or testify shall be fined not more than two hundred
+5 and fifty dollars ($250)].
+6 Section 8. There is hereby appropriated Restricted Funds in the amount of
+7 $4,861,500 in fiscal year 2025-2026 to the Auditor of Public Accounts to fund the Office
+8 of Government Efficiency established in Section 1 of this Act.
+Page 11 of 11
+SB025710.100 - 1763 - XXXX 3/5/2025 4:29 PM GA
+[DELETED:   2  G A B S R ( T A o P A t e a r i t t e c a p o s a a t p ( T ( C p a a f a o r o s a t i i w c w l a o ( D a r b p f s g o ( M t i o e r a r p ( T o f r a c m t t G a c ( N t ( A a c a u s a h o s d n ( S a f t c i a e r]
+[DELETED:   2  G ( T o s b f t a m b t G A K 4 a t a f g o f t p o g S R T d ( T ( O ( O ( O ( O ( O ( T O o P a M w s h t f d ( D ( D ( D ( T R ( T o ( O ( O 1 D 2 D]
+[DELETED:   2  G ( O ( O S A ( " ( " a ( " a m a s o c o d b c i d o o p o f g t i a p b l ( " o m l w o n o t e s d i S ( T A s a f t d o h o h o t s t r b t A a a t o ( d a o a r o t s f a l t ( y E f t O o t O d s o a t w a t a a s o d f K]
+[DELETED:   2  G t v o A u t n t c t e H o s s t t c ( T K 1 A e w s a d i K 1 w a o i t a r t b p i a w g a y f a o f i r t b p i a w g a g a s s h t s t e a ( T o ( N o S ( T e f t i a o t a f t a p w]
+[DELETED:   2  G u ( T ( A a a a s o t a m b d e t a s a o h r f t h o a s f t a r a t o t b u a t g a ( M o o w a i ( E o a a p i f t i d a e t i o l p a s a T e s g s a t t f a e a o a m a b t s t t i p w o s a e ( E a A C t S T a t c s s o c f ( E a l b t F a A C]
+[DELETED:   2  G c s ( d o t c o e e t A s r h f a r t t C P a B O ( A p a s r c a i h f t c w ( M s a a i w r b t G ( I t m o a f c a i t s c s ( A t s o f c a o o t s g w t c h d n f i o G A ( R i i w t t G t L R C a t s F a A C a f a s h e o p i c a a o o ( A t L R C a h a i c t ( T]
+[DELETED:   2  G o o i a ( T a ( E e s o t a e i o r T A s m r ( T g o l g e a a o s e i s p g e a m c a m a u r f t ( P ( D ( D q a a d t p u o t ( C w o p o t a a o g ( T e a r t h o h o o T A s n b r c o a s f o p e i t p o c a v]
+[DELETED:   2  G f S ( ( T a e a l i o a s a o b u w t A o a d n o ( E s s p a t a e o t u t r o t A ( E o o e o a s a o b u s b a o n ( T p d a e i a p w t h o s i a f ( T A a h o h a a m a o i s a e i o r b t r i o o f]
+[DELETED:   2  G r h ( ( T h o r t e c w t s i b n l a m r a c i a f o b a e o w b t a a o a c w t t ( U p a C C m g a p o s t e S ( A A o c e a h o f ( I u a f d ( n m t o t d ( f e o ( A]
+[DELETED:   2  G b o i F a c o w p a t p o o s a e ( A o o o p w f o r t p t a a e s e s b f n l t o h d ( o i ( ( A p w h c o a p p b o r o a a o u 4 u p p b o r s u c o i i t F s ( A t e t a o t s b f n m t o h d ( ( I t t a r p t K 4 t C C h j]
+[DELETED:   2  G s c a p h h a p b l i o c c w c b t A u s ( o K 4 w f w a S 8   T i h a R F i t a o $ o]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS SB 257/GA
+1 AN ACT relating to the Office of the Auditor of Public Accounts.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF KRS CHAPTER 43 IS CREATED TO
+4 READ AS FOLLOWS:
+5 (1) The Office of Government Efficiency is hereby created as an office within the
+6 Auditor of Public Accounts to evaluate and recommend improvements to the
+7 efficiency, cost-effectiveness, and performance of state agencies and their
+8 programs and operations.
+9 (2) The office shall:
+10 (a) Conduct performance audits and fiscal and operational reviews of state
+11 agencies to identify inefficiencies, waste, compliance with law, and
+12 opportunities for cost savings;
+13 (b) Develop and recommend best practices for streamlining government
+14 operations; and
+15 (c) Monitor the implementation of efficiency-related recommendations and
+16 report its findings to the Governor and Legislative Research Commission
+17 pursuant to KRS 43.090.
+18 (3) The Auditor shall submit an annual report by June 30 of each year, detailing the
+19 office's findings, recommendations, and cost-saving measures to the Governor
+20 and the Legislative Research Commission for referral to appropriate legislative
+21 committees.
+22 (4) Notwithstanding any provision of KRS Chapter 18A, KRS 64.640, or other statute
+23 to the contrary, the Auditor may:
+24 (a) Appoint additional classified and unclassified staff as he or she deems
+25 necessary to carry out the office's duties, subject to available funds; and
+26 (b) Seek additional funding through cost-saving initiatives and efficiency-
+27 related grants.
+Page 1 of 11
+SB025710.100 - 1763 - XXXX 3/5/2025 4:29 PM GA
+
+UNOFFICIAL COPY 25 RS SB 257/GA
+1 (5) The office shall be funded through appropriations made by the General
+2 Assembly, through the Auditor of Public Accounts' billing authority pursuant to
+3 KRS 43.050, and through any federal grants obtained for the purpose of
+4 government efficiency.
+5 SECTION 2. A NEW SECTION OF KRS CHAPTER 43 IS CREATED TO
+6 READ AS FOLLOWS:
+7 The Office of the Auditor of Public Accounts shall contain the following offices and
+8 divisions:
+9 (1) The Office of the Deputy Auditor, which shall have the following offices:
+10 (a) Office of Local Government Audits;
+11 (b) Office of State Government Audits and Technology;
+12 (c) Office of Special Investigations;
+13 (d) Office of Quality Assurance; and
+14 (e) Office of Government Efficiency;
+15 (2) The Office of Planning and Management, which shall have the following
+16 divisions:
+17 (a) Division of Information Technology Services;
+18 (b) Division of Financial Management; and
+19 (c) Division of Human Resource Administration;
+20 (3) The Office of Legal and Records Services, which shall contain the Division of
+21 Records Management; and
+22 (4) The Commonwealth Office of the Ombudsman, which shall contain the following
+23 offices and divisions:
+24 (a) Office of Citizen Services and Policy Integrity;
+25 (b) Office of Program Performance, which shall contain the:
+26 1. Division of Quality Control; and
+27 2. Division of Program Access Compliance;
+Page 2 of 11
+SB025710.100 - 1763 - XXXX 3/5/2025 4:29 PM GA
+
+UNOFFICIAL COPY 25 RS SB 257/GA
+1 (c) Office of Professional Integrity and Employee Development; and
+2 (d) Office of Policy and Research.
+3 Section 3. KRS 43.010 is amended to read as follows:
+4 As used in this chapter, unless the context requires otherwise:
+5 (1) "Auditor" means the Auditor of Public Accounts.
+6 (2) "Budget unit" means a department or other unit of organization for which separate
+7 appropriations are made from those for any other organization unit.
+8 (3) "State agency" means any state officer, cabinet, office, department, board,
+9 commission, institution, division, or other person or functional group that is
+10 authorized to exercise or does exercise any executive or administrative jurisdiction,
+11 powers, duties, rights or obligations of the state government conferred or imposed
+12 by law or exercised, performed, or discharged by legal authority in compliance with
+13 law.
+14 (4) "Writing" or "written" means letters, words, or numbers, or their equivalent, set
+15 down by handwriting, typewriting, printing, photostating, photographing, magnetic
+16 impulse, mechanical or electronic recording, or other form of data compilation.
+17 Section 4. KRS 43.030 is amended to read as follows:
+18 (1) The Auditor shall appoint for the duration of his or her own term, subject to
+19 removal by the Auditor at any time, one (1) deputy[assistant] auditor[ of public
+20 accounts], who shall be a certified public accountant and who has been a citizen and
+21 resident of the state for at least two (2) years. Except for the Office of the
+22 Ombudsman as established in KRS 43.035, the deputy[assistant] auditor shall have
+23 direct supervision over all technical work and technical assistants, and shall
+24 otherwise aid the Auditor in the performance of his or her duties, except that the
+25 deputy[assistant] auditor[ of public accounts] may exercise a full or partial recusal
+26 from this supervision requirement in regard to the consulting function authorized in
+27 KRS 43.050 if needed to comply with the professional standards of accountancy. If
+Page 3 of 11
+SB025710.100 - 1763 - XXXX 3/5/2025 4:29 PM GA
+
+UNOFFICIAL COPY 25 RS SB 257/GA
+1 the Auditor is absent or is rendered incapable of performing his or her duties, or if a
+2 vacancy in the office occurs, the deputy[assistant] auditor shall perform the duties
+3 of Auditor until the necessity therefor ceases to exist. He or she shall take the
+4 constitutional oath.
+5 (2) The Auditor may employ other subordinate personnel subject to the provisions of
+6 KRS 12.060. All employees with status as defined in KRS 18A.005 who are
+7 operating under the authority of the deputy auditor and engaged in auditing or
+8 investigations that are required to be performed in accordance with generally
+9 accepted government auditing standards shall possess a minimum of a four (4)
+10 year college degree. No less than ninety percent (90%) of all employees engaged in
+11 financial auditing or financial investigations required to be performed in
+12 accordance with generally accepted government auditing standards shall have
+13 twenty (20) semester hours or thirty (30) quarter hours of accounting, or alternately,
+14 shall be a certified public accountant. Not more than two (2) persons charged with
+15 the conduct of audits and investigations may substitute year-for-year responsible
+16 experience acceptable to the Personnel Cabinet for the required college education
+17 and accounting hours.
+18 (3) The Auditor and his or her sureties are liable on his or her official bond for the acts
+19 of the deputy[assistant] auditor and clerks.
+20 (4) Nothing in this section shall be deemed to affect the provisions of KRS 11.090 or
+21 other legislation authorizing audits.
+22 Section 5. KRS 43.050 is amended to read as follows:
+23 (1) The Auditor constitutes an agency independent of the administrative departments
+24 enumerated in KRS 12.020, it being the policy of the General Assembly to provide
+25 for the independent auditing of the accounts, financial transactions, and
+26 performance of all spending agencies of the state through a disinterested auditor,
+27 who is entirely independent of the state administration whose affairs he is called
+Page 4 of 11
+SB025710.100 - 1763 - XXXX 3/5/2025 4:29 PM GA
+
+UNOFFICIAL COPY 25 RS SB 257/GA
+1 upon to audit.
+2 (2) The Auditor may:
+3 (a) Audit annually, and at such other times as may be deemed expedient, the
+4 accounts of all state agencies, all private and semiprivate agencies receiving
+5 state aid or having responsibility for the handling of any state funds, the
+6 accounts, records, and transactions of the budget units, and the general
+7 accounts of the state;
+8 (b) Make a complete audit and verification of all moneys handled for the account
+9 of the state government by local officials charged with the collection of fees
+10 or other money for or on behalf of the state, when an audit is demanded in
+11 writing by the Legislative Research Commission, the secretary of the Finance
+12 and Administration Cabinet, or the Governor, and may make an audit when it
+13 is not so demanded;
+14 (c) Examine periodically the performance, management, conduct, and condition
+15 of all asylums, prisons, institutions for the intellectually disabled, and
+16 eleemosynary institutions; public works owned, operated, or partly owned by
+17 the state, or in the conduct or management of which the state has any financial
+18 interest or legal power; and state agencies. The examinations shall give
+19 special attention to the faithful and economical application of any money
+20 appropriated by the state to the institution, public works, or state agency
+21 examined, or of any money in which the state has an interest;
+22 (d) Examine annually the management and condition of the offices of the Finance
+23 and Administration Cabinet, the State Treasurer, and the chief state school
+24 officer, to determine whether the laws regulating their duties are being fully
+25 complied with, and all money received by them for the state fully accounted
+26 for;
+27 (e) Examine, at least biennially, the Finance and Administration Cabinet's
+Page 5 of 11
+SB025710.100 - 1763 - XXXX 3/5/2025 4:29 PM GA
+
+UNOFFICIAL COPY 25 RS SB 257/GA
+1 compliance with this section and KRS 48.111 and 56.800 to 56.823. Within
+2 sixty (60) days of the completion of each examination, the Auditor shall
+3 report his findings and recommendations to the Capital Projects and Bond
+4 Oversight Committee;
+5 (f) Audit periodically all state revenue collections, and, if he finds that
+6 collections are not being satisfactorily made, report that fact to the authority
+7 whose duty it is to make the collections;
+8 (g) Make special audits and investigations when requested[required] by the
+9 Governor;
+10 (h) Investigate the means of accounting for, controlling, and insuring the safe
+11 custody of all property of the state, and verify the existence and condition of
+12 such property charged to, or held in the custody of any state agency;
+13 (i) Audit the statements of financial condition and operations of the state
+14 government, and certify in writing the results of the audit and examination
+15 with the comments he deems necessary for the information of the General
+16 Assembly;
+17 (j) Report immediately in writing to the Governor, the Legislative Research
+18 Commission, and the secretary of the Finance and Administration Cabinet,
+19 any unauthorized, illegal, irregular, or unsafe handling or expenditure of state
+20 funds, or other improper practice of financial administration, or evidence that
+21 any such handling, expenditure, or practice is contemplated, and any
+22 obstruction of the Auditor or his or her agents during the conduct of any audit
+23 or investigation of a state agency; and
+24 (k) Assist the Legislative Research Commission at hearings and investigations
+25 conducted by it and cooperate with the Legislative Research Commission in
+26 the preparation of its reports to the General Assembly.
+27 (3) The Auditor may investigate and examine into the conduct of all state and county
+Page 6 of 11
+SB025710.100 - 1763 - XXXX 3/5/2025 4:29 PM GA
+
+UNOFFICIAL COPY 25 RS SB 257/GA
+1 officers who are authorized to receive, collect, or disburse any money for the state,
+2 or who manage or control any property belonging to the state or in which the state
+3 is interested, or who make estimates or records that are used as a basis by any state
+4 agency in the disbursement of public funds.
+5 (4) The Auditor may conduct a special audit or examination of a city government or
+6 any of its agencies or departments.
+7 (5) Except where otherwise provided, any expenses incurred by the Auditor for audits,
+8 examinations, investigations, or reviews shall be charged to the entity that is the
+9 subject of the audit, examination, investigation, or review. The Auditor shall
+10 maintain a record of all time expenses for each audit, examination, investigation, or
+11 review.
+12 (6) The Auditor may provide consulting services, in accordance with auditing standards
+13 generally accepted in the United States and government auditing standards, to state
+14 or local government entities and associations of such entities, including special
+15 purpose governmental entities, and may charge a mutually agreed upon rate for
+16 those services, including:
+17 (a) Providing training and technical presentations;
+18 (b) Developing audit guides applicable to those entities;
+19 (c) Developing question and answer documents to promote understanding of
+20 technical issues or standards; and
+21 (d) Collaborating with other professional organizations to advance auditing of
+22 government entities and programs.
+23 (7) The Auditor shall not be responsible for the keeping of any accounts of the state,
+24 except accounts relating to his or her own operations. The Auditor shall not be
+25 responsible for the collection of any money due the state, or for the handling or
+26 custody of any state funds or property except in the process of counting and
+27 verifying the amounts of the funds or property in the course of the audits provided
+Page 7 of 11
+SB025710.100 - 1763 - XXXX 3/5/2025 4:29 PM GA
+
+UNOFFICIAL COPY 25 RS SB 257/GA
+1 for in this section.
+2 Section 6. KRS 43.080 is amended to read as follows:
+3 (1) (a) The Auditor and his or her authorized agents shall have access at all times to
+4 and may at any time examine any and all information, including but not
+5 limited to books, accounts, reports, vouchers, correspondence files, records,
+6 information technology systems, databases, premises, money, and property
+7 of any state agency or budget unit, which the Auditor or agents deem
+8 necessary to properly audit, investigate, examine, or review the state agency
+9 or budget unit.
+10 (b) Every officer or employee of any state[ such] agency or budget unit having
+11 such records or property in his or her possession or under his or her control
+12 shall permit access to and examination of them upon the request of the
+13 Auditor or any agent authorized by him or her to make such request.
+14 (c) Every officer or employee of any state agency or budget unit shall be
+15 allowed to participate in interviews outside the presence of any supervisor,
+16 official, or counsel representing that or any other agency or unit and shall
+17 not be retaliated against for doing so.
+18 (2) The Auditor and his or her assistants shall have access at all times to the premises,
+19 papers, books and records of the asylums, prisons, institutions for the intellectually
+20 disabled and eleemosynary institutions, and public works that he or she is
+21 authorized to examine, and of any county officer who receives or disburses county
+22 funds.
+23 (3) The Auditor and his or her authorized agents may administer oaths, issue
+24 subpoenas, issue subpoenas duces tecum, and compel the attendance of witnesses
+25 and the production of testimony and evidence relating to any subject under audit,
+26 examination, investigation, or review by them[may require information on oath
+27 from any person touching any matters relative to any account that the Auditor is
+Page 8 of 11
+SB025710.100 - 1763 - XXXX 3/5/2025 4:29 PM GA
+
+UNOFFICIAL COPY 25 RS SB 257/GA
+1 required to state, audit or settle. The Auditor may administer the oath himself, or
+2 have it done by any officer authorized to administer an oath].
+3 (4) (a) The Auditor and his or her authorized agents may petition a Circuit Court
+4 having jurisdiction over the matter, officer, or employee for injunctive or
+5 other relief to enforce compliance with this section, including but not
+6 limited to obedience as to process or investigative demands issued under it,
+7 and may recover all costs, including attorney's fees, of bringing and
+8 enforcing the action[assistants may issue process and compel the attendance
+9 of witnesses before them, and administer oaths and compel witnesses to
+10 testify in any of the investigations the Auditor is authorized to make].
+11 (b) Upon petition, a Circuit Court may grant a protective order staying the
+12 enforcement of any unlawful process issued under this section.
+13 Section 7. KRS 43.990 is amended to read as follows:
+14 (1) Any officer who prevents, attempts to prevent or obstructs an examination by the
+15 Auditor, under the provisions of paragraph (c) of subsection (2) of KRS 43.050, or
+16 of subsection (3) of KRS 43.050, into his or her official conduct, or the conduct or
+17 condition of the office in his or her charge or with which he or she is connected,
+18 except when the office constitutes a state agency, is guilty of a high misdemeanor,
+19 and, upon conviction on indictment in the Franklin Circuit Court, shall be fined five
+20 hundred dollars ($500) and removed by the Governor. Any person, other than an
+21 officer, who prevents, attempts to prevent or obstructs such an examination shall be
+22 fined one thousand dollars ($1,000).
+23 (2) If the Auditor fails or refuses without good cause to perform the duties imposed
+24 upon him or her by KRS 43.060, he or she shall be fined not less than two hundred
+25 and fifty dollars ($250) nor more than one thousand dollars ($1,000) for each
+26 offense.
+27 (3) Any county officer who prevents, attempts to prevent or obstructs an examination
+Page 9 of 11
+SB025710.100 - 1763 - XXXX 3/5/2025 4:29 PM GA
+
+UNOFFICIAL COPY 25 RS SB 257/GA
+1 by the Auditor, under KRS 43.070, into his or her official conduct, or the conduct
+2 or condition of the office in his or her charge or with which he or she is connected,
+3 is guilty of a high misdemeanor, and shall, upon indictment and conviction in the
+4 Franklin Circuit Court, be fined five hundred dollars ($500). Any person, other than
+5 a county officer, who prevents, attempts to prevent or obstructs such an
+6 examination shall be fined one thousand dollars ($1,000).
+7 (4) Any officer or other person who fails or refuses to permit the access and
+8 examination provided for in subsection (1) of KRS 43.080, or who interferes with
+9 such examination, shall be fined not less than one hundred dollars ($100), or
+10 imprisoned in the county jail for not less than one (1) month nor more than twelve
+11 (12) months, or both. Each refusal by an officer shall constitute a separate offense.
+12 (5) Any person who has custody of any premises, papers, books or records of an
+13 asylum, prison, institution for the intellectually disabled or eleemosynary institution
+14 or public works, other than a state agency, that the Auditor is authorized to examine
+15 under paragraph (c) of subsection (2) of KRS 43.050, under subsection (3) of KRS
+16 43.050, and under subsection (2) of KRS 43.080, who fails or refuses, when called
+17 upon by the Auditor for that purpose, to permit him or her to inspect any of such
+18 premises, papers, books or records, shall, upon conviction on indictment in the
+19 Franklin Circuit Court, be fined not more than five hundred dollars ($500) and be
+20 subject to removal by the Governor.
+21 (6) Any person who refuses to be sworn when required by the Auditor to be sworn for
+22 the purpose mentioned in subsection (3) of KRS 43.080, or who fails, without legal
+23 excuse, to attend or testify, shall be fined not more than one hundred dollars
+24 ($100).
+25 (7) In the case of disobedience of a subpoena or subpoena duces tecum or a refusal
+26 to testify as required pursuant to KRS 43.080(3), the Circuit Court having
+27 jurisdiction of the person who refused to be sworn or to whom the subpoena or
+Page 10 of 11
+SB025710.100 - 1763 - XXXX 3/5/2025 4:29 PM GA
+
+UNOFFICIAL COPY 25 RS SB 257/GA
+1 subpoena duces tecum was issued, may adjudge the person guilty of contempt of
+2 court and punish him or her as provided by law in other contempt cases[Any
+3 witness called by the Auditor under subsection (4) of KRS 43.080 who fails,
+4 without legal excuse, to attend or testify shall be fined not more than two hundred
+5 and fifty dollars ($250)].
+6 Section 8. There is hereby appropriated Restricted Funds in the amount of
+7 $4,861,500 in fiscal year 2025-2026 to the Auditor of Public Accounts to fund the Office
+8 of Government Efficiency established in Section 1 of this Act.
+Page 11 of 11
+SB025710.100 - 1763 - XXXX 3/5/2025 4:29 PM GA
+
+[DELETED:   2  G A B S R ( T A o P A t e a r i t t e c a p o s a a t p ( T ( C p a a f a o r o s a t i i w c w l a o ( D a r b p f s g o ( M t i o e r a r p ( T o f r a c m t t G a c ( N t ( A a c a u s a h o s d n ( S a f t c i a e r]
+[DELETED:   2  G ( T o s b f t a m b t G A K 4 a t a f g o f t p o g S R T d ( T ( O ( O ( O ( O ( O ( T O o P a M w s h t f d ( D ( D ( D ( T R ( T o ( O ( O 1 D 2 D]
+[DELETED:   2  G ( O ( O S A ( " ( " a ( " a m a s o c o d b c i d o o p o f g t i a p b l ( " o m l w o n o t e s d i S ( T A s a f t d o h o h o t s t r b t A a a t o ( d a o a r o t s f a l t ( y E f t O o t O d s o a t w a t a a s o d f K]
+[DELETED:   2  G t v o A u t n t c t e H o s s t t c ( T K 1 A e w s a d i K 1 w a o i t a r t b p i a w g a y f a o f i r t b p i a w g a g a s s h t s t e a ( T o ( N o S ( T e f t i a o t a f t a p w]
+[DELETED:   2  G u ( T ( A a a a s o t a m b d e t a s a o h r f t h o a s f t a r a t o t b u a t g a ( M o o w a i ( E o a a p i f t i d a e t i o l p a s a T e s g s a t t f a e a o a m a b t s t t i p w o s a e ( E a A C t S T a t c s s o c f ( E a l b t F a A C]
+[DELETED:   2  G c s ( d o t c o e e t A s r h f a r t t C P a B O ( A p a s r c a i h f t c w ( M s a a i w r b t G ( I t m o a f c a i t s c s ( A t s o f c a o o t s g w t c h d n f i o G A ( R i i w t t G t L R C a t s F a A C a f a s h e o p i c a a o o ( A t L R C a h a i c t ( T]
+[DELETED:   2  G o o i a ( T a ( E e s o t a e i o r T A s m r ( T g o l g e a a o s e i s p g e a m c a m a u r f t ( P ( D ( D q a a d t p u o t ( C w o p o t a a o g ( T e a r t h o h o o T A s n b r c o a s f o p e i t p o c a v]
+[DELETED:   2  G f S ( ( T a e a l i o a s a o b u w t A o a d n o ( E s s p a t a e o t u t r o t A ( E o o e o a s a o b u s b a o n ( T p d a e i a p w t h o s i a f ( T A a h o h a a m a o i s a e i o r b t r i o o f]
+[DELETED:   2  G r h ( ( T h o r t e c w t s i b n l a m r a c i a f o b a e o w b t a a o a c w t t ( U p a C C m g a p o s t e S ( A A o c e a h o f ( I u a f d ( n m t o t d ( f e o ( A]
+[DELETED:   2  G b o i F a c o w p a t p o o s a e ( A o o o p w f o r t p t a a e s e s b f n l t o h d ( o i ( ( A p w h c o a p p b o r o a a o u 4 u p p b o r s u c o i i t F s ( A t e t a o t s b f n m t o h d ( ( I t t a r p t K 4 t C C h j]
+[DELETED:   2  G s c a p h h a p b l i o c c w c b t A u s ( o K 4 w f w a S 8   T i h a R F i t a o $ o]

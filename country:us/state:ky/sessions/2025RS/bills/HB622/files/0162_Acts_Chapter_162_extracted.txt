@@ -1,0 +1,919 @@
+Title: Provisions of this bill that are to be deleted due to vetoes of the Governor that were not overridden by the General
+Official Title: Provisions of this bill that are to be deleted due to vetoes of the Governor that were not overridden by the General
+Number of Sections: 37
+Source: versions - Acts Chapter 162
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+CHAPTER 162 1
+CHAPTER 162
+( HB 622 )
+Assembly are displayed as bracketed text with intervening strikethrough and enclosed in double asterisks, e.g.,
+**[text]**.
+AN ACT relating to fiscal matters and declaring an emergency.
+Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+Section 1. KRS 45A.030 is amended to read as follows:
+As used in this code, unless the context requires otherwise:
+(1) "Business" means any corporation, partnership, individual, sole proprietorship, joint stock company, joint
+venture, or any other legal entity through which business is conducted;
+(2) "Change order" means a written order signed by the purchasing officer, directing the contractor to make
+changes that the changes clause of the contract authorizes the purchasing officer to order without the consent
+of the contractor;
+(3) "Chief purchasing officer" means the secretary of the Finance and Administration Cabinet, who shall be
+responsible for all procurement of the Commonwealth except as provided by KRS Chapters 150, 175, 175B,
+176, 177, and 180;
+(4) "Construction" means the process of building, altering, repairing, improving, or demolishing any public
+structures or buildings, or other public improvements of any kind to any public real property. It does not
+include the routine maintenance of existing structures, buildings, or real property;
+(5) "Construction manager-agency" means services to assist the purchasing agency manage construction that are
+procured through a contract that is qualifications-based;
+(6) "Construction management-at-risk" means a project delivery method in which the purchasing officer enters
+into a single contract with an offeror that assumes the risk for construction at a contracted guaranteed
+maximum price as a general contractor, and provides consultation and collaboration regarding the construction
+during and after design of a capital project. The contract shall be subject to the bonding requirements of KRS
+45A.190;
+(7) "Construction manager-general contractor" means a project delivery method in which the purchasing officer
+enters into a single contract with an offeror to provide preconstruction and construction services. During the
+preconstruction phase, the successful offeror provides design consulting services. During the construction
+phase, the successful offeror acts as general contractor by:
+(a) Contracting with subcontractors; and
+(b) Providing for management and construction at a fixed price with a completion deadline;
+(8) "Contract" means all types of state agreements, including memoranda of agreement, grants, and orders, for
+the acquisition, purchase, or disposal of supplies, services, construction, or any other item. It includes: awards;
+contracts of a fixed-price, cost, cost-plus-a-fixed-fee, contingency fee, or incentive type; contracts providing
+for the issuance of job or task orders; leases; letter contracts; purchase orders; public-private partnership
+agreements; program administration contracts; personal service contracts; and insurance contracts except as
+provided in KRS 45A.022. It includes supplemental agreements with respect to any of the foregoing;
+(9) "Contract modification" means any written alteration in the specifications, delivery point, rate of delivery,
+contract period, price, quantity, or other contract provisions of any existing contract, whether accomplished by
+unilateral action in accordance with a contract provision or by mutual action of the parties to the contract. It
+includes bilateral actions, such as supplemental agreements, and unilateral actions, such as change orders,
+administrative changes, notices of termination, and notices of the exercise of a contract option;
+(10) "Contractor" means any person having a contract with a governmental body;
+(11) "Data" means recorded information, regardless of form or characteristic;
+Legislative Research Commission PDF Version
+2 ACTS OF THE GENERAL ASSEMBLY
+(12) "Design-bid-build" means a project delivery method in which the purchasing officer sequentially awards
+separate contracts, the first for architectural, engineering, or engineering-related services to design the project
+and the second for construction of the capital project according to the design. The contract shall be subject to
+the bonding requirements of KRS 45A.185;
+(13) "Design-build" means a project delivery method in which the purchasing officer enters into a single contract
+for design and construction of a capital project. The contract shall be subject to the bonding requirements of
+KRS 45A.190;
+(14) "Designee" means a duly authorized representative of a person holding a superior position;
+(15) "Document" means any physical embodiment of information or ideas, regardless of form or characteristic,
+including electronic versions thereof;
+(16) "Employee" means an individual drawing a salary from a governmental body, whether elected or not, and any
+nonsalaried individual performing personal services for any governmental body;
+(17) "Governmental body" means any department, commission, council, board, bureau, committee, institution,
+legislative body, agency, government corporation, or other establishment of the executive or legislative branch
+of the state government;
+(18) "Meeting" means all gatherings of every kind, including video teleconferences;
+(19) "Negotiation" means contracting by either the method set forth in KRS 45A.085, 45A.090, or 45A.095;
+(20) "Person" means any business, individual, organization, or group of individuals;
+(21) "Private partner" means any entity that is a partner in a public-private partnership other than:
+(a) The Commonwealth of Kentucky, or any agency or department thereof;
+(b) The federal government;
+(c) Any other state government; or
+(d) Any agency of a state, federal, or local government;
+(22) "Procurement" means the purchasing, buying, renting, leasing, or otherwise obtaining of any supplies,
+services, or construction. It includes all functions that pertain to the procurement of any supply, service, or
+construction item, including description of requirements, selection and solicitation of sources, preparation and
+award of contract, and all phases of contract administration;
+(23) "Public-private partnership" means a project delivery method for construction or financing of capital projects,
+as defined in KRS 45.750, or procurement of services, pursuant to a written public-private partnership
+agreement entered into pursuant to KRS 45A.077 and administrative regulations promulgated thereunder,
+between:
+(a) At least one (1) private partner; and
+(b) The Commonwealth of Kentucky, or any agency or department thereof;
+(24) "Purchase request" or "purchase requisition" means that document whereby a using agency requests that a
+contract be obtained for a specified need, and may include, but is not limited to, the technical description of the
+requested item, delivery schedule, transportation, criteria for evaluation of solicitees, suggested sources of
+supply, and information supplied for the making of any written determination and finding required by KRS
+45A.025;
+(25) "Purchasing agency" means any governmental body that is authorized by this code or its implementing
+administrative regulations or by way of delegation from the chief purchasing officer to contract on its own
+behalf rather than through the central contracting authority of the chief purchasing officer;
+(26) "Purchasing officer" means any person authorized by a governmental body in accordance with procedures
+prescribed by administrative regulations to enter into and administer contracts and make written
+determinations and findings with respect thereto. The term includes an authorized representative acting within
+the limits of authority;
+(27) "Services" means the rendering by a contractor of its time and effort rather than the furnishing of a specific end
+product, other than reports that are merely incidental to the required performance of services;
+CHAPTER 162 3
+(28) "Supplemental agreement" means any contract modification that is accomplished by the mutual action of the
+parties;
+(29) "Supplies" means all property, including but not limited to leases of real property, printing, and insurance,
+except land or a permanent interest in land;
+(30) "Using agency" means any governmental body of the state that utilizes any supplies, services, or construction
+purchased under this code;
+(31) "Video teleconference" means one (1) meeting, occurring in two (2) or more locations, where individuals can
+see and hear each other by means of video and audio equipment; and
+(32) "Writing" or "written" means letters, words, or numbers, or their equivalent, set down by handwriting,
+typewriting, printing, photostating, photographing, magnetic impulse, mechanical or electronic recording, or
+other form of data compilation.
+Section 2. KRS 45A.035 is amended to read as follows:
+(1) The secretary of the Finance and Administration Cabinet shall have power and authority over, and may, except
+as otherwise expressly provided in this code, adopt regulations pursuant to KRS Chapter 13A and consistent
+with this code governing the purchasing, management, and control of any and all supplies, services, and
+construction, and other items required to be purchased by the Commonwealth. The secretary shall consider and
+decide matters of policy with regard to state procurement. The secretary shall have the power of review with
+respect to the implementation of administrative regulations and policy determinations.
+(2) Administrative regulations shall be promulgated[adopted] governing the following:
+(a) Conditions and procedures for delegations of purchasing authority;
+(b) Prequalification, suspension, debarment, and reinstatement of prospective bidders;
+(c) Small purchase procedures;
+(d) Conditions and procedures for the purchase of items for resale;
+(e) Conditions and procedures for the purchase of agricultural products in accordance with KRS 45A.645;
+(f) Conditions and procedures for the use of source selection methods authorized by this code, including
+emergency purchases;
+(g) Opening and rejection of bids or offers, consideration of alternate bids, and waiver of informalities in
+offers;
+(h) Confidentiality of technical data and trade secrets information submitted by actual or prospective
+bidders or offerors;
+(i) Partial, progressive, and multiple awards;
+(j) Supervision of storerooms and inventories, including determination of appropriate stock levels and the
+management, transfer, sale, or other disposal of state-owned property;
+(k) Definitions and classes of contractual services and procedures for acquiring them;
+(l) An appeals process to resolve disputes arising from specifications requiring items deemed to be
+equivalent or a sole brand as specified in KRS 45A.170;**[[] and[]]**
+(m) Use of reverse auctions as defined in KRS 45A.070**[; and
+(n) Policies and procedures governing timely payments, partial payments, reimbursement, and dispute
+resolution for contract payments in violation of KRS 45.453 and Section 3 of this Act]**.
+The secretary may promulgate[adopt such] other administrative regulations as deemed advisable to carry out
+the purposes of this code.
+**[SECTION 3. A NEW SECTION OF KRS CHAPTER 45A IS CREATED TO READ AS FOLLOWS:
+(1) As used in this section:
+(a) "Purchasing agency" means a unit or body of state government that actually receives goods or
+services from a contractor or vendor; and
+Legislative Research Commission PDF Version
+4 ACTS OF THE GENERAL ASSEMBLY
+(b) "Undisputed amount" means a good-faith, valid, accurate, and timely request for payment that has
+been submitted to an entity owing money, and for which the entity has reviewed and confirmed that
+the money is due and owing.
+(2) In accordance with KRS 45.451, all contracts shall include a section that addresses timely payments,
+including but not limited to the following specific provisions:
+(a) Any undisputed amount shall be paid:
+
+Section 2:
+1. Within thirty (30) business days of receipt of the goods, services, or contractor's invoice; or
+
+Section 3:
+2. In accordance with the negotiated payment terms of the contract;
+(b) Penalties for payment of undisputed amounts not timely received shall be:
+
+Section 4:
+1. In accordance with KRS 45.454, and except as provided in KRS 371.405, an interest penalty of
+one percent (1%) shall be applied and added to any undisputed amount for each month or
+fraction thereof after the thirty (30) business days following the receipt of the goods or services
+or receipt of the invoice by the purchasing agency; or
+
+Section 5:
+2. In accordance with the payment terms of the contract;
+(c) Partial payment terms shall be included to:
+
+Section 6:
+1. Allow disbursement of partial payment for undisputed amounts in the invoice or an agreed-
+upon payment process for goods received or services performed that are not rejected or
+deficient; or
+
+Section 7:
+2. Not allow disbursement of partial payment for goods received or services performed that are
+not rejected or deficient; and
+(d) When invoices are utilized for payment, terms shall be included for the invoice requirements,
+including form, format, delivery, necessary information, supporting documentation, and
+communication and notification procedures for complete invoices.
+(3) (a) The purchasing agency shall make a good-faith effort of notifying the contractor or vendor that an
+invoice has been rejected, of any errors in an invoice, or any requirement of additional or missing
+information in an invoice within fifteen (15) business days from receipt of the goods, services, or
+invoice, or in accordance with the terms of the contract.
+(b) 1. If the purchasing agency transmits a rejection notice to the contractor or vendor, there shall
+be a ten (10) calendar day correction period for the contractor or vendor to remedy any
+problems in the delivery of a good or service or submit a corrected invoice to fulfill the
+approval requirements. Utilization of the ten (10) calendar day correction period shall not
+create a new date of submission or receipt for all items included in the invoice or terms of the
+contract and shall not be considered a new invoice for calculation of the late payment fee
+pursuant to KRS 45.454.
+
+Section 8:
+2. If a contractor or vendor fails to remedy the problem with the good or service, or fails to
+submit a corrected invoice within the ten (10) calendar day correction period, the submitted
+invoice shall be considered a new invoice for calculation of the late payment fee pursuant to
+KRS 45.454.
+(c) In accordance with KRS 45.458, the payment of interest penalty shall be paid by the purchasing
+agency and the amount of the payments shall not be deducted from the contract budget, and
+modifications shall not be made to the budget of the contract, the total award of the contract, funds
+encumbered or obligated for the contract, or total amount available to fulfill the contract agreement
+as awarded by the contracting agency.
+(4) If a contractor or vendor has not received payment within thirty (30) business days for an undisputed
+amount and has executed a loan, line of credit, revolving credit, or other financial instrument in order to
+fulfill the obligations and continue performance of the contract, the contractor or vendor may recover from
+the purchasing agency the interest and costs of credit borne until the date payment has been issued.
+(5) The secretary shall promulgate administrative regulations in accordance with KRS Chapter 13A no later
+than December 31, 2025, to implement this section. The administrative regulations shall include:
+CHAPTER 162 5
+(a) Procedures for correcting an invoice submission error when the purchasing agency does not reject
+the goods or services received;
+(b) Procedures for partial payment of invoices by a purchasing agency for portions of an invoice; and
+(c) A contract dispute process, consistent with KRS 45A.235, to resolve late payment claims by
+contractors or vendors that includes:
+
+Section 9:
+1. The method and manner disputes shall be submitted to the purchasing agency for resolution
+by the secretary;
+
+Section 10:
+2. Information required to be included when a contractor or vendor submits a dispute; and
+
+Section 11:
+3. The time period by which the purchasing agency shall submit a response.
+(6) The Finance and Administration Cabinet shall make the contract dispute process to resolve a late payment
+claim and instructions for vendors and contractors available on its website no later than December 31,
+
+Section 12:
+2025.
+(7) (a) Beginning on July 1, 2027, the Finance and Administration Cabinet shall submit a written report
+every six (6) months to the Legislative Research Commission for referral to:
+
+Section 13:
+1. The Interim Joint Committee on Appropriations and Revenue, or House and Senate Standing
+Committees on Appropriations and Revenue, as appropriate; and
+
+Section 14:
+2. The Interim Joint Committee on State Government, or Senate Standing Committee on State
+and Local Government and House Standing Committee on State Government, as appropriate.
+(b) The report shall include the quantity of late payment contract disputes submitted to the secretary of
+the Finance and Administration Cabinet, including but not limited to:
+
+Section 15:
+1. Purchasing agency at issue;
+
+Section 16:
+2. Unpaid amount alleged or disputed;
+
+Section 17:
+3. Duration of late payment claimed; and
+
+Section 18:
+4. Determination issued.]**
+Section 4. 2024 Ky. Acts ch. 173, sec. 1, subsec. (173), at page 1764, as amended by 2024 Kentucky Acts
+Chapter 223, Section 25, at page 2345, is amended to read as follows:
+(173) $50,000,000 in fiscal year 2024-2025 to the Economic Development budget unit to support the
+Kentucky Economic Development Finance Authority Loan Pool. Of this amount $30,000,000[The appropriation
+contained in this subsection] shall be used to provide funding to the City of Elizabethtown for the Valley Creek
+Treatment Expansion Project.[Hardin and Warren Counties, communities experiencing significant economic
+development growth due to announced projects with investments exceeding $2,000,000,000 for supporting critical
+infrastructure improvements, such as water and sewer requirements, for continued economic development. Assistance
+may be in the form of a loan with the ability for forgiveness due to meeting negotiated requirements related to
+increased economic development for the community.] The remaining[Of this amount,] $20,000,000 shall be
+allocated to the Intermodal Transportation Authority, Inc. for the project at the Kentucky Transpark and
+surrounding areas. The funds shall be used to support communities experiencing economic development growth
+due to announced projects with investments exceeding $2,000,000,000. Assistance may be in the form of a loan
+with the ability for forgiveness due to meeting negotiated requirements related to increased economic development
+for the community;
+Section 5. 2024 Ky. Acts ch. 173, sec. 1, subsec. (179), at page 1765 is amended to read as follows:
+(179) $10,000,000 in fiscal year 2024-2025 to the Economic Development budget unit to be allocated to the
+Grayson County Fiscal Court[Leitchfield Grayson County Airport] to purchase acreage for the expansion of
+runways to promote economic growth;
+Section 6. 2024 Ky. Acts ch. 175, Part I, Operating Budget, C. Department of Education, 3. Learning and
+Results Services, (16) School Resource Officers, at page 1836, is amended to read as follows:
+(16) School Resource Officers: (a) Included in the above General Fund appropriation is $16,500,000 in
+fiscal year 2024-2025 and $18,000,000 in fiscal year 2025-2026 to the Kentucky Department of Education to assist
+local districts in funding salaries for school resource officers, as defined in KRS 158.441, on a reimbursement basis.
+Legislative Research Commission PDF Version
+6 ACTS OF THE GENERAL ASSEMBLY
+Once each local district has staffed and continues to maintain one school resource officer for each campus in that
+district, the local district is then eligible to apply for reimbursement for additional assistance in funding salaries
+for school resource officers, except that the assistance allowed under this paragraph shall be limited to:
+
+Section 19:
+1. Funding available in this subsection; and
+
+Section 20:
+2. No more than one school resource officer for each academic building.
+Monthly grants shall first be applied to the per campus requirement across all local districts and then to districts
+that meet the per campus requirement and have additional school resource officers, but only to the extent that
+funding is available. The Kentucky Department of Education shall reimburse local school districts up to $20,000 for
+each[ campus employing at least one on-site] full-time certified school resource officer. Notwithstanding KRS
+
+Section 21:
+45.229, any portion of General Fund not expended for this purpose shall lapse to the Budget Reserve Trust Fund
+Account (KRS 48.705). Mandated reports shall be submitted pursuant to Part III, 24. of this Act.
+**[(b) The Kentucky Department of Education shall assist nonpublic schools in funding salaries for school
+officers. The Kentucky Department of Education shall pay a law enforcement agency or the Department of
+Kentucky State Police up to $20,000 for each full-time certified school resource officer for which the nonpublic
+school has entered into a memorandum of understanding for school resource officer services as a partial payment
+of the total rate charged. These payments shall be deemed necessary government expenses and up to $5,000,000 in
+each fiscal year shall be paid from the General Fund Surplus Account (KRS 48.700) or the Budget Reserve Trust
+Fund Account (KRS 48.705).
+(c) Notwithstanding any statute to the contrary, a law enforcement agency or the Department of
+Kentucky State Police shall charge the same total rate for school resource officer services to a local school district
+and nonpublic schools, which shall be the rate charged to a local school district as of January 1, 2025.]**
+Section 7. The secretary of the Finance and Administration Cabinet may request up to $20,000,000 in
+fiscal biennium 2024-2026 as additional funding for 2022 Kentucky Acts Chapter 199, Part II, Capital Projects
+Budget, F., 2., 004. Capitol Campus Renovation-Phase 2. The additional funding shall be deemed a necessary
+government expense and shall be paid from the General Fund Surplus Account (KRS 48.700) or the Budget Reserve
+Trust Fund (KRS 48.705). Notwithstanding KRS 141.020(2)(a)2., any appropriation under this section from the
+Budget Reserve Trust Fund Account established by KRS 48.705 shall not be identified as GF appropriations when
+certifying the reduction conditions pursuant to KRS 141.020(2)(a)5. and (d)2. to 5.
+Section 8. Section 21 of 2025 RS HB 695/VO is hereby repealed and shall have no legal effect.
+Section 9. 2025 RS HJR 32/GA, Section 1, is amended to read as follows:
+(1) The General Assembly of the Commonwealth of Kentucky hereby approves and authorizes the Office
+of State Budget Director to release awards from the School Facility Assistance Fund in accordance with 2024 Ky.
+Acts ch. 175, Part I, A., 27., (5) in the specified amounts to the following local school districts for fiscal year 2025-
+2026:
+(a) $3,837,000 to Adair County Schools;
+(b) $2,679,000 to Augusta Independent;
+(c) $21,563,000 to Bardstown Independent;
+(d) $53,000 to Beechwood Independent;
+(e) $7,917,000 to Fleming County Schools;
+(f) $7,463,000 to Garrard County Schools;
+(g) $25,348,000 to Harrison County Schools;
+(h) $39,099,000 to Johnson County Schools;
+(i) $9,870,000 to Marion County Schools;
+(j) $2,959,000 to Powell County Schools;
+(k) $5,851,000 to Somerset Independent;
+(l) $24,000 to Walton Verona Independent; and
+(m) $3,724,000 to Williamstown Independent.
+CHAPTER 162 7
+(2) Award amounts are 50 percent of the difference between the costs to construct, repair, or renovate
+facilities and the amount of available local resources for school facility projects certified in the audit conducted
+pursuant to 2024 Ky. Acts ch. 175, Part I, A., 22., (11). The funding allowed in this section shall not be more than
+50 percent of the certified gap identified in the audit, and the cost to construct shall not deviate from the amount
+listed in the audit, and any amounts not covered shall be locally funded. These facilities are A1 or A2 schools, are
+ranked as a Priority 1 or 2 on the local school district's facility plan, are not athletic facilities, have been assigned a
+BG number by the Kentucky Department of Education with a prefix value between 19 and 23, have begun or are
+ready to start construction, and are in school districts that have levied a ten-cent equivalent tax dedicated to capital
+improvements but remain unable to cash fund or to sufficiently support the required annual debt service for
+replacement or renovation of the facilities as of January 1, 2024. Six of the 19 districts evaluated either failed to meet
+the criteria or had sufficient local resources to cover construction, repair, or renovation costs.
+Section 10. 2025 RS HJR 46/VO, Section 1, is amended to read as follows:
+Notwithstanding KRS 48.100, 48.110, 48.300, and 176.430, this Joint Resolution in conjunction with 2024
+Ky. Acts ch. 146, 2024 Ky. Acts ch. 147, and 2024 Ky. Acts ch. 153 shall constitute the Six-Year Road Plan. Any
+County Priority Project identified in this Joint Resolution may be advanced to fiscal year 2024-2025, if funds are
+available.
+Section 11. KRS 141.383 is amended to read as follows:
+(1) As used in this section:
+(a) "Above-the-line production crew" has the same meaning as in KRS 154.61-010;
+(b) "Approved company" has the same meaning as in KRS 154.61-010;
+(c) "Authority" has the same meaning as in KRS 154.61-010;
+(d) "Below-the-line production crew" has the same meaning as in KRS 154.61-010;
+(e) "Continuous film production" has the same meaning as in KRS 154.61-010;
+(f) "Loan-out entity" has the same meaning as in KRS 154.61-010;
+(g) "Qualifying expenditure" has the same meaning as in KRS 154.61-010;
+(h) "Qualifying payroll expenditure" has the same meaning as in KRS 154.61-010;
+(i) "Secretary" has the same meaning as in KRS 154.61-010; and
+(j) "Tax incentive agreement" has the same meaning as KRS 154.61-010.
+(2) (a) There is hereby created a tax credit against the tax imposed under KRS 141.020 or 141.040 and
+
+Section 22:
+141.0401, with the ordering of credits as provided in KRS 141.0205.
+(b) The incentive available under paragraph (a) of this section is:
+
+Section 23:
+1. A refundable credit for applications approved prior to April 27, 2018;
+
+Section 24:
+2. A nonrefundable and nontransferable credit for applications approved on or after April 27, 2018,
+but before January 1, 2022; and
+
+Section 25:
+3. A refundable credit for applications approved on or after January 1, 2022, if the provisions of
+paragraph (c) of this subsection are met.
+(c) 1. The total tax incentive approved under KRS 154.61-020 shall be limited to:
+a. One hundred million dollars ($100,000,000) for calendar year 2018 and each calendar
+year through the calendar year 2021;
+b. Seventy-five million dollars ($75,000,000) for the calendar year 2022 and each calendar
+year thereafter; and
+c. Beginning with calendar year 2024, the amount in subdivision b. of this subparagraph
+shall be allocated accordingly:
+i. Twenty-five million dollars ($25,000,000) shall be allocated for all approved
+companies with a continuous film production; and
+Legislative Research Commission PDF Version
+8 ACTS OF THE GENERAL ASSEMBLY
+ii. On the first day of April 2025, and on April 1[July] of each calendar year
+thereafter, any unused balance allocated under subpart i. of this subdivision for
+continuous film productions shall be made available for all approved companies
+with a motion picture or entertainment production.
+
+Section 26:
+2. To qualify for the refundable credit, all applicants shall:
+a. Begin filming or production in Kentucky within six (6) months of approval by the
+authority; and
+b. Complete filming or production in Kentucky within two (2) years of their production start
+date.
+(3) An approved company may receive a refundable tax credit if:
+(a) The department has received notification from the authority that the approved company has satisfied all
+requirements of KRS 154.61-020 and 154.61-030; and
+(b) The approved company has provided a detailed cost report and sufficient documentation to the
+authority, which has been forwarded by the authority to the department, that:
+
+Section 27:
+1. The purchases of qualifying expenditures were made after the execution of the tax incentive
+agreement; and
+
+Section 28:
+2. The approved company or loan-out entity has withheld income tax as required by KRS 141.310
+on all qualified payroll expenditures, and remitted and certified the withheld amount to the
+department.
+(4) Interest shall not be allowed or paid on any refundable credits provided under this section.
+(5) The department may promulgate administrative regulations under KRS Chapter 13A to administer this section.
+(6) On or before September 1, 2010, and on or before each September 1 thereafter, for the immediately preceding
+fiscal year, the department shall report to the authority and the Interim Joint Committee on Appropriations and
+Revenue the names of the approved companies and the amounts of refundable income tax credit claimed.
+(7) No later than September 1, 2021, and by November 1 every four (4) years thereafter, the department and the
+Cabinet for Economic Development shall cooperatively provide historical data related to the tax credit allowed
+in this section and KRS 154.61-020 and 154.61-030, including data items beginning with tax credits claimed
+for taxable years beginning on or after January 1, 2018:
+(a) The name of the taxpayer claiming the tax credit;
+(b) The date that the application was approved and the date the filming or production was completed;
+(c) The taxable year in which the taxpayer claimed the tax credit;
+(d) The total amount of the tax credit, including any amount denied, any amount applied against a tax
+liability, any amount refunded, and any amount remaining that may be claimed on a return filed in the
+future;
+(e) Whether the taxpayer is a Kentucky-based company as defined in KRS 154.61-010;
+(f) Whether the taxpayer films or produces a:
+
+Section 29:
+1. Feature-length film, television program, or industrial film;
+
+Section 30:
+2. National touring production of a Broadway show; or
+
+Section 31:
+3. Documentary;
+(g) Whether the filming or production was performed:
+
+Section 32:
+1. Entirely in an enhanced county; or
+
+Section 33:
+2. In whole or in part in any Kentucky county other than in an enhanced incentive county;
+(h) The amount of qualifying expenditures incurred by the taxpayer;
+(i) The amount of qualifying payroll expenditures paid to:
+
+Section 34:
+1. Resident below-the-line crew; and
+CHAPTER 162 9
+
+Section 35:
+2. Nonresident below-the-line production crew;
+including the number of crew members in each category;
+(j) The amount of qualifying payroll expenditures paid to:
+
+Section 36:
+1. Resident above-the-line crew; and
+
+Section 37:
+2. Nonresident above-the-line crew;
+including the number of crew members in each category; and
+(k) A brief description of the type of motion picture or entertainment production project.
+(8) The information required to be reported under this section shall not be considered confidential taxpayer
+information and shall not be subject to KRS Chapter 131 or any other provisions of the Kentucky Revised
+Statutes prohibiting disclosure or reporting of information.
+Section 12. The unused balance identified in Section 11(2)(c)1.c.ii. of this Act as of the first day of April
+2025 shall be allocated and made available for all approved companies with a motion picture or entertainment
+production on or after the effective date of this Act.
+Section 13. Whereas the provisions of this Act provide ongoing support for state government agencies and
+their functions, an emergency is declared to exist, and Sections 4 to 8 and 10 to 12 of this Act take effect upon its
+passage and approval by the Governor or upon its otherwise becoming a law.
+Vetoed in Part and non-vetoed provisions became law without Governor's signature April 10, 2025.
+Legislative Research Commission PDF Version
+[DELETED:  " m a c p i s p j s c j " " p o m t s o t F a A C w s b " m t p o b a r i o d a p " " a s c w a o t a t r f c a a c g " p t s o d c s D t c C P " t i j o t o l l c p o p p " " "]
+[DELETED:  " m a p d m i w t p o s a " " " " " b m a d c c b b c i " " " " T T A A " m t p b r l o o o o a s " d i K 4 o p o s p t a w p p e i t K 4 a a r p t A T " " a m a g b t i a b t c o i i " b a r t e i a a c a m w "]
+[DELETED:  " " " " " o " m l w o n o t e s d b h T A C P S C C C O C o t d a t s i s b a o p P S D A a p t r d a f s r i d t b U PT[S A " t r]
+[DELETED:  " I a w K 4 a c s i a s t a t p A W I P I I P A p p f g r o s p t a n r o N W i a u f p t s b i f t i r f f d n i s d a ( T 1 I a t ( c d c p f t c o v t r a i t d o a g o s o s a c i t f t I I a t a o t p s n b d f t c b a I ( T]
+[DELETED:  P P A c d p c w K 4 t r l p c b T I T T ( B T T T P U D D $ i f y 2 t t E D b u t s t O E P a W C c e s e e d f t c T r t a $ s b t t I T A I f t p a t K T a   C F C G C A t p a f t e o S I]
+[DELETED:  F N c e a l o o f c s r o N K T K D o E s p a l e a o t D o N a s t t c a l e a o t D o F 2 0 C C R 2 T a f s b d a n T $ $ $ $ $ $ $ $ $ $ $ $ $]
+[DELETED:  A b r u t c f o t s s t r a d s f A " " " " " " " " " " ( T i h c a t c a t t i u K 1 o 1 a T A A A 1 T O S B T m d ( s b a f a a]
+[DELETED:  O t f d o A 2 a o A 1 o e c y T B f o p i K w s ( m o a b t C A T T a c h p a d c r a s d t t T T a q p e a r a c t w a t t I T O N T T T T W W F N D W E I T T R]
+[DELETED:  Ni T R Ni A T i r t b r u t s s n b c c t s b a a a a a c w a m p e]
+
+
+================================================================================
+
+Raw Text:
+CHAPTER 162 1
+CHAPTER 162
+( HB 622 )
+Provisions of this bill that are to be deleted due to vetoes of the Governor that were not overridden by the General
+Assembly are displayed as bracketed text with intervening strikethrough and enclosed in double asterisks, e.g.,
+**[text]**.
+AN ACT relating to fiscal matters and declaring an emergency.
+Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+Section 1. KRS 45A.030 is amended to read as follows:
+As used in this code, unless the context requires otherwise:
+(1) "Business" means any corporation, partnership, individual, sole proprietorship, joint stock company, joint
+venture, or any other legal entity through which business is conducted;
+(2) "Change order" means a written order signed by the purchasing officer, directing the contractor to make
+changes that the changes clause of the contract authorizes the purchasing officer to order without the consent
+of the contractor;
+(3) "Chief purchasing officer" means the secretary of the Finance and Administration Cabinet, who shall be
+responsible for all procurement of the Commonwealth except as provided by KRS Chapters 150, 175, 175B,
+176, 177, and 180;
+(4) "Construction" means the process of building, altering, repairing, improving, or demolishing any public
+structures or buildings, or other public improvements of any kind to any public real property. It does not
+include the routine maintenance of existing structures, buildings, or real property;
+(5) "Construction manager-agency" means services to assist the purchasing agency manage construction that are
+procured through a contract that is qualifications-based;
+(6) "Construction management-at-risk" means a project delivery method in which the purchasing officer enters
+into a single contract with an offeror that assumes the risk for construction at a contracted guaranteed
+maximum price as a general contractor, and provides consultation and collaboration regarding the construction
+during and after design of a capital project. The contract shall be subject to the bonding requirements of KRS
+45A.190;
+(7) "Construction manager-general contractor" means a project delivery method in which the purchasing officer
+enters into a single contract with an offeror to provide preconstruction and construction services. During the
+preconstruction phase, the successful offeror provides design consulting services. During the construction
+phase, the successful offeror acts as general contractor by:
+(a) Contracting with subcontractors; and
+(b) Providing for management and construction at a fixed price with a completion deadline;
+(8) "Contract" means all types of state agreements, including memoranda of agreement, grants, and orders, for
+the acquisition, purchase, or disposal of supplies, services, construction, or any other item. It includes: awards;
+contracts of a fixed-price, cost, cost-plus-a-fixed-fee, contingency fee, or incentive type; contracts providing
+for the issuance of job or task orders; leases; letter contracts; purchase orders; public-private partnership
+agreements; program administration contracts; personal service contracts; and insurance contracts except as
+provided in KRS 45A.022. It includes supplemental agreements with respect to any of the foregoing;
+(9) "Contract modification" means any written alteration in the specifications, delivery point, rate of delivery,
+contract period, price, quantity, or other contract provisions of any existing contract, whether accomplished by
+unilateral action in accordance with a contract provision or by mutual action of the parties to the contract. It
+includes bilateral actions, such as supplemental agreements, and unilateral actions, such as change orders,
+administrative changes, notices of termination, and notices of the exercise of a contract option;
+(10) "Contractor" means any person having a contract with a governmental body;
+(11) "Data" means recorded information, regardless of form or characteristic;
+Legislative Research Commission PDF Version
+
+2 ACTS OF THE GENERAL ASSEMBLY
+(12) "Design-bid-build" means a project delivery method in which the purchasing officer sequentially awards
+separate contracts, the first for architectural, engineering, or engineering-related services to design the project
+and the second for construction of the capital project according to the design. The contract shall be subject to
+the bonding requirements of KRS 45A.185;
+(13) "Design-build" means a project delivery method in which the purchasing officer enters into a single contract
+for design and construction of a capital project. The contract shall be subject to the bonding requirements of
+KRS 45A.190;
+(14) "Designee" means a duly authorized representative of a person holding a superior position;
+(15) "Document" means any physical embodiment of information or ideas, regardless of form or characteristic,
+including electronic versions thereof;
+(16) "Employee" means an individual drawing a salary from a governmental body, whether elected or not, and any
+nonsalaried individual performing personal services for any governmental body;
+(17) "Governmental body" means any department, commission, council, board, bureau, committee, institution,
+legislative body, agency, government corporation, or other establishment of the executive or legislative branch
+of the state government;
+(18) "Meeting" means all gatherings of every kind, including video teleconferences;
+(19) "Negotiation" means contracting by either the method set forth in KRS 45A.085, 45A.090, or 45A.095;
+(20) "Person" means any business, individual, organization, or group of individuals;
+(21) "Private partner" means any entity that is a partner in a public-private partnership other than:
+(a) The Commonwealth of Kentucky, or any agency or department thereof;
+(b) The federal government;
+(c) Any other state government; or
+(d) Any agency of a state, federal, or local government;
+(22) "Procurement" means the purchasing, buying, renting, leasing, or otherwise obtaining of any supplies,
+services, or construction. It includes all functions that pertain to the procurement of any supply, service, or
+construction item, including description of requirements, selection and solicitation of sources, preparation and
+award of contract, and all phases of contract administration;
+(23) "Public-private partnership" means a project delivery method for construction or financing of capital projects,
+as defined in KRS 45.750, or procurement of services, pursuant to a written public-private partnership
+agreement entered into pursuant to KRS 45A.077 and administrative regulations promulgated thereunder,
+between:
+(a) At least one (1) private partner; and
+(b) The Commonwealth of Kentucky, or any agency or department thereof;
+(24) "Purchase request" or "purchase requisition" means that document whereby a using agency requests that a
+contract be obtained for a specified need, and may include, but is not limited to, the technical description of the
+requested item, delivery schedule, transportation, criteria for evaluation of solicitees, suggested sources of
+supply, and information supplied for the making of any written determination and finding required by KRS
+45A.025;
+(25) "Purchasing agency" means any governmental body that is authorized by this code or its implementing
+administrative regulations or by way of delegation from the chief purchasing officer to contract on its own
+behalf rather than through the central contracting authority of the chief purchasing officer;
+(26) "Purchasing officer" means any person authorized by a governmental body in accordance with procedures
+prescribed by administrative regulations to enter into and administer contracts and make written
+determinations and findings with respect thereto. The term includes an authorized representative acting within
+the limits of authority;
+(27) "Services" means the rendering by a contractor of its time and effort rather than the furnishing of a specific end
+product, other than reports that are merely incidental to the required performance of services;
+
+CHAPTER 162 3
+(28) "Supplemental agreement" means any contract modification that is accomplished by the mutual action of the
+parties;
+(29) "Supplies" means all property, including but not limited to leases of real property, printing, and insurance,
+except land or a permanent interest in land;
+(30) "Using agency" means any governmental body of the state that utilizes any supplies, services, or construction
+purchased under this code;
+(31) "Video teleconference" means one (1) meeting, occurring in two (2) or more locations, where individuals can
+see and hear each other by means of video and audio equipment; and
+(32) "Writing" or "written" means letters, words, or numbers, or their equivalent, set down by handwriting,
+typewriting, printing, photostating, photographing, magnetic impulse, mechanical or electronic recording, or
+other form of data compilation.
+Section 2. KRS 45A.035 is amended to read as follows:
+(1) The secretary of the Finance and Administration Cabinet shall have power and authority over, and may, except
+as otherwise expressly provided in this code, adopt regulations pursuant to KRS Chapter 13A and consistent
+with this code governing the purchasing, management, and control of any and all supplies, services, and
+construction, and other items required to be purchased by the Commonwealth. The secretary shall consider and
+decide matters of policy with regard to state procurement. The secretary shall have the power of review with
+respect to the implementation of administrative regulations and policy determinations.
+(2) Administrative regulations shall be promulgated[adopted] governing the following:
+(a) Conditions and procedures for delegations of purchasing authority;
+(b) Prequalification, suspension, debarment, and reinstatement of prospective bidders;
+(c) Small purchase procedures;
+(d) Conditions and procedures for the purchase of items for resale;
+(e) Conditions and procedures for the purchase of agricultural products in accordance with KRS 45A.645;
+(f) Conditions and procedures for the use of source selection methods authorized by this code, including
+emergency purchases;
+(g) Opening and rejection of bids or offers, consideration of alternate bids, and waiver of informalities in
+offers;
+(h) Confidentiality of technical data and trade secrets information submitted by actual or prospective
+bidders or offerors;
+(i) Partial, progressive, and multiple awards;
+(j) Supervision of storerooms and inventories, including determination of appropriate stock levels and the
+management, transfer, sale, or other disposal of state-owned property;
+(k) Definitions and classes of contractual services and procedures for acquiring them;
+(l) An appeals process to resolve disputes arising from specifications requiring items deemed to be
+equivalent or a sole brand as specified in KRS 45A.170;**[[] and[]]**
+(m) Use of reverse auctions as defined in KRS 45A.070**[; and
+(n) Policies and procedures governing timely payments, partial payments, reimbursement, and dispute
+resolution for contract payments in violation of KRS 45.453 and Section 3 of this Act]**.
+The secretary may promulgate[adopt such] other administrative regulations as deemed advisable to carry out
+the purposes of this code.
+**[SECTION 3. A NEW SECTION OF KRS CHAPTER 45A IS CREATED TO READ AS FOLLOWS:
+(1) As used in this section:
+(a) "Purchasing agency" means a unit or body of state government that actually receives goods or
+services from a contractor or vendor; and
+Legislative Research Commission PDF Version
+
+4 ACTS OF THE GENERAL ASSEMBLY
+(b) "Undisputed amount" means a good-faith, valid, accurate, and timely request for payment that has
+been submitted to an entity owing money, and for which the entity has reviewed and confirmed that
+the money is due and owing.
+(2) In accordance with KRS 45.451, all contracts shall include a section that addresses timely payments,
+including but not limited to the following specific provisions:
+(a) Any undisputed amount shall be paid:
+1. Within thirty (30) business days of receipt of the goods, services, or contractor's invoice; or
+2. In accordance with the negotiated payment terms of the contract;
+(b) Penalties for payment of undisputed amounts not timely received shall be:
+1. In accordance with KRS 45.454, and except as provided in KRS 371.405, an interest penalty of
+one percent (1%) shall be applied and added to any undisputed amount for each month or
+fraction thereof after the thirty (30) business days following the receipt of the goods or services
+or receipt of the invoice by the purchasing agency; or
+2. In accordance with the payment terms of the contract;
+(c) Partial payment terms shall be included to:
+1. Allow disbursement of partial payment for undisputed amounts in the invoice or an agreed-
+upon payment process for goods received or services performed that are not rejected or
+deficient; or
+2. Not allow disbursement of partial payment for goods received or services performed that are
+not rejected or deficient; and
+(d) When invoices are utilized for payment, terms shall be included for the invoice requirements,
+including form, format, delivery, necessary information, supporting documentation, and
+communication and notification procedures for complete invoices.
+(3) (a) The purchasing agency shall make a good-faith effort of notifying the contractor or vendor that an
+invoice has been rejected, of any errors in an invoice, or any requirement of additional or missing
+information in an invoice within fifteen (15) business days from receipt of the goods, services, or
+invoice, or in accordance with the terms of the contract.
+(b) 1. If the purchasing agency transmits a rejection notice to the contractor or vendor, there shall
+be a ten (10) calendar day correction period for the contractor or vendor to remedy any
+problems in the delivery of a good or service or submit a corrected invoice to fulfill the
+approval requirements. Utilization of the ten (10) calendar day correction period shall not
+create a new date of submission or receipt for all items included in the invoice or terms of the
+contract and shall not be considered a new invoice for calculation of the late payment fee
+pursuant to KRS 45.454.
+2. If a contractor or vendor fails to remedy the problem with the good or service, or fails to
+submit a corrected invoice within the ten (10) calendar day correction period, the submitted
+invoice shall be considered a new invoice for calculation of the late payment fee pursuant to
+KRS 45.454.
+(c) In accordance with KRS 45.458, the payment of interest penalty shall be paid by the purchasing
+agency and the amount of the payments shall not be deducted from the contract budget, and
+modifications shall not be made to the budget of the contract, the total award of the contract, funds
+encumbered or obligated for the contract, or total amount available to fulfill the contract agreement
+as awarded by the contracting agency.
+(4) If a contractor or vendor has not received payment within thirty (30) business days for an undisputed
+amount and has executed a loan, line of credit, revolving credit, or other financial instrument in order to
+fulfill the obligations and continue performance of the contract, the contractor or vendor may recover from
+the purchasing agency the interest and costs of credit borne until the date payment has been issued.
+(5) The secretary shall promulgate administrative regulations in accordance with KRS Chapter 13A no later
+than December 31, 2025, to implement this section. The administrative regulations shall include:
+
+CHAPTER 162 5
+(a) Procedures for correcting an invoice submission error when the purchasing agency does not reject
+the goods or services received;
+(b) Procedures for partial payment of invoices by a purchasing agency for portions of an invoice; and
+(c) A contract dispute process, consistent with KRS 45A.235, to resolve late payment claims by
+contractors or vendors that includes:
+1. The method and manner disputes shall be submitted to the purchasing agency for resolution
+by the secretary;
+2. Information required to be included when a contractor or vendor submits a dispute; and
+3. The time period by which the purchasing agency shall submit a response.
+(6) The Finance and Administration Cabinet shall make the contract dispute process to resolve a late payment
+claim and instructions for vendors and contractors available on its website no later than December 31,
+2025.
+(7) (a) Beginning on July 1, 2027, the Finance and Administration Cabinet shall submit a written report
+every six (6) months to the Legislative Research Commission for referral to:
+1. The Interim Joint Committee on Appropriations and Revenue, or House and Senate Standing
+Committees on Appropriations and Revenue, as appropriate; and
+2. The Interim Joint Committee on State Government, or Senate Standing Committee on State
+and Local Government and House Standing Committee on State Government, as appropriate.
+(b) The report shall include the quantity of late payment contract disputes submitted to the secretary of
+the Finance and Administration Cabinet, including but not limited to:
+1. Purchasing agency at issue;
+2. Unpaid amount alleged or disputed;
+3. Duration of late payment claimed; and
+4. Determination issued.]**
+Section 4. 2024 Ky. Acts ch. 173, sec. 1, subsec. (173), at page 1764, as amended by 2024 Kentucky Acts
+Chapter 223, Section 25, at page 2345, is amended to read as follows:
+(173) $50,000,000 in fiscal year 2024-2025 to the Economic Development budget unit to support the
+Kentucky Economic Development Finance Authority Loan Pool. Of this amount $30,000,000[The appropriation
+contained in this subsection] shall be used to provide funding to the City of Elizabethtown for the Valley Creek
+Treatment Expansion Project.[Hardin and Warren Counties, communities experiencing significant economic
+development growth due to announced projects with investments exceeding $2,000,000,000 for supporting critical
+infrastructure improvements, such as water and sewer requirements, for continued economic development. Assistance
+may be in the form of a loan with the ability for forgiveness due to meeting negotiated requirements related to
+increased economic development for the community.] The remaining[Of this amount,] $20,000,000 shall be
+allocated to the Intermodal Transportation Authority, Inc. for the project at the Kentucky Transpark and
+surrounding areas. The funds shall be used to support communities experiencing economic development growth
+due to announced projects with investments exceeding $2,000,000,000. Assistance may be in the form of a loan
+with the ability for forgiveness due to meeting negotiated requirements related to increased economic development
+for the community;
+Section 5. 2024 Ky. Acts ch. 173, sec. 1, subsec. (179), at page 1765 is amended to read as follows:
+(179) $10,000,000 in fiscal year 2024-2025 to the Economic Development budget unit to be allocated to the
+Grayson County Fiscal Court[Leitchfield Grayson County Airport] to purchase acreage for the expansion of
+runways to promote economic growth;
+Section 6. 2024 Ky. Acts ch. 175, Part I, Operating Budget, C. Department of Education, 3. Learning and
+Results Services, (16) School Resource Officers, at page 1836, is amended to read as follows:
+(16) School Resource Officers: (a) Included in the above General Fund appropriation is $16,500,000 in
+fiscal year 2024-2025 and $18,000,000 in fiscal year 2025-2026 to the Kentucky Department of Education to assist
+local districts in funding salaries for school resource officers, as defined in KRS 158.441, on a reimbursement basis.
+Legislative Research Commission PDF Version
+
+6 ACTS OF THE GENERAL ASSEMBLY
+Once each local district has staffed and continues to maintain one school resource officer for each campus in that
+district, the local district is then eligible to apply for reimbursement for additional assistance in funding salaries
+for school resource officers, except that the assistance allowed under this paragraph shall be limited to:
+1. Funding available in this subsection; and
+2. No more than one school resource officer for each academic building.
+Monthly grants shall first be applied to the per campus requirement across all local districts and then to districts
+that meet the per campus requirement and have additional school resource officers, but only to the extent that
+funding is available. The Kentucky Department of Education shall reimburse local school districts up to $20,000 for
+each[ campus employing at least one on-site] full-time certified school resource officer. Notwithstanding KRS
+45.229, any portion of General Fund not expended for this purpose shall lapse to the Budget Reserve Trust Fund
+Account (KRS 48.705). Mandated reports shall be submitted pursuant to Part III, 24. of this Act.
+**[(b) The Kentucky Department of Education shall assist nonpublic schools in funding salaries for school
+officers. The Kentucky Department of Education shall pay a law enforcement agency or the Department of
+Kentucky State Police up to $20,000 for each full-time certified school resource officer for which the nonpublic
+school has entered into a memorandum of understanding for school resource officer services as a partial payment
+of the total rate charged. These payments shall be deemed necessary government expenses and up to $5,000,000 in
+each fiscal year shall be paid from the General Fund Surplus Account (KRS 48.700) or the Budget Reserve Trust
+Fund Account (KRS 48.705).
+(c) Notwithstanding any statute to the contrary, a law enforcement agency or the Department of
+Kentucky State Police shall charge the same total rate for school resource officer services to a local school district
+and nonpublic schools, which shall be the rate charged to a local school district as of January 1, 2025.]**
+Section 7. The secretary of the Finance and Administration Cabinet may request up to $20,000,000 in
+fiscal biennium 2024-2026 as additional funding for 2022 Kentucky Acts Chapter 199, Part II, Capital Projects
+Budget, F., 2., 004. Capitol Campus Renovation-Phase 2. The additional funding shall be deemed a necessary
+government expense and shall be paid from the General Fund Surplus Account (KRS 48.700) or the Budget Reserve
+Trust Fund (KRS 48.705). Notwithstanding KRS 141.020(2)(a)2., any appropriation under this section from the
+Budget Reserve Trust Fund Account established by KRS 48.705 shall not be identified as GF appropriations when
+certifying the reduction conditions pursuant to KRS 141.020(2)(a)5. and (d)2. to 5.
+Section 8. Section 21 of 2025 RS HB 695/VO is hereby repealed and shall have no legal effect.
+Section 9. 2025 RS HJR 32/GA, Section 1, is amended to read as follows:
+(1) The General Assembly of the Commonwealth of Kentucky hereby approves and authorizes the Office
+of State Budget Director to release awards from the School Facility Assistance Fund in accordance with 2024 Ky.
+Acts ch. 175, Part I, A., 27., (5) in the specified amounts to the following local school districts for fiscal year 2025-
+2026:
+(a) $3,837,000 to Adair County Schools;
+(b) $2,679,000 to Augusta Independent;
+(c) $21,563,000 to Bardstown Independent;
+(d) $53,000 to Beechwood Independent;
+(e) $7,917,000 to Fleming County Schools;
+(f) $7,463,000 to Garrard County Schools;
+(g) $25,348,000 to Harrison County Schools;
+(h) $39,099,000 to Johnson County Schools;
+(i) $9,870,000 to Marion County Schools;
+(j) $2,959,000 to Powell County Schools;
+(k) $5,851,000 to Somerset Independent;
+(l) $24,000 to Walton Verona Independent; and
+(m) $3,724,000 to Williamstown Independent.
+
+CHAPTER 162 7
+(2) Award amounts are 50 percent of the difference between the costs to construct, repair, or renovate
+facilities and the amount of available local resources for school facility projects certified in the audit conducted
+pursuant to 2024 Ky. Acts ch. 175, Part I, A., 22., (11). The funding allowed in this section shall not be more than
+50 percent of the certified gap identified in the audit, and the cost to construct shall not deviate from the amount
+listed in the audit, and any amounts not covered shall be locally funded. These facilities are A1 or A2 schools, are
+ranked as a Priority 1 or 2 on the local school district's facility plan, are not athletic facilities, have been assigned a
+BG number by the Kentucky Department of Education with a prefix value between 19 and 23, have begun or are
+ready to start construction, and are in school districts that have levied a ten-cent equivalent tax dedicated to capital
+improvements but remain unable to cash fund or to sufficiently support the required annual debt service for
+replacement or renovation of the facilities as of January 1, 2024. Six of the 19 districts evaluated either failed to meet
+the criteria or had sufficient local resources to cover construction, repair, or renovation costs.
+Section 10. 2025 RS HJR 46/VO, Section 1, is amended to read as follows:
+Notwithstanding KRS 48.100, 48.110, 48.300, and 176.430, this Joint Resolution in conjunction with 2024
+Ky. Acts ch. 146, 2024 Ky. Acts ch. 147, and 2024 Ky. Acts ch. 153 shall constitute the Six-Year Road Plan. Any
+County Priority Project identified in this Joint Resolution may be advanced to fiscal year 2024-2025, if funds are
+available.
+Section 11. KRS 141.383 is amended to read as follows:
+(1) As used in this section:
+(a) "Above-the-line production crew" has the same meaning as in KRS 154.61-010;
+(b) "Approved company" has the same meaning as in KRS 154.61-010;
+(c) "Authority" has the same meaning as in KRS 154.61-010;
+(d) "Below-the-line production crew" has the same meaning as in KRS 154.61-010;
+(e) "Continuous film production" has the same meaning as in KRS 154.61-010;
+(f) "Loan-out entity" has the same meaning as in KRS 154.61-010;
+(g) "Qualifying expenditure" has the same meaning as in KRS 154.61-010;
+(h) "Qualifying payroll expenditure" has the same meaning as in KRS 154.61-010;
+(i) "Secretary" has the same meaning as in KRS 154.61-010; and
+(j) "Tax incentive agreement" has the same meaning as KRS 154.61-010.
+(2) (a) There is hereby created a tax credit against the tax imposed under KRS 141.020 or 141.040 and
+141.0401, with the ordering of credits as provided in KRS 141.0205.
+(b) The incentive available under paragraph (a) of this section is:
+1. A refundable credit for applications approved prior to April 27, 2018;
+2. A nonrefundable and nontransferable credit for applications approved on or after April 27, 2018,
+but before January 1, 2022; and
+3. A refundable credit for applications approved on or after January 1, 2022, if the provisions of
+paragraph (c) of this subsection are met.
+(c) 1. The total tax incentive approved under KRS 154.61-020 shall be limited to:
+a. One hundred million dollars ($100,000,000) for calendar year 2018 and each calendar
+year through the calendar year 2021;
+b. Seventy-five million dollars ($75,000,000) for the calendar year 2022 and each calendar
+year thereafter; and
+c. Beginning with calendar year 2024, the amount in subdivision b. of this subparagraph
+shall be allocated accordingly:
+i. Twenty-five million dollars ($25,000,000) shall be allocated for all approved
+companies with a continuous film production; and
+Legislative Research Commission PDF Version
+
+8 ACTS OF THE GENERAL ASSEMBLY
+ii. On the first day of April 2025, and on April 1[July] of each calendar year
+thereafter, any unused balance allocated under subpart i. of this subdivision for
+continuous film productions shall be made available for all approved companies
+with a motion picture or entertainment production.
+2. To qualify for the refundable credit, all applicants shall:
+a. Begin filming or production in Kentucky within six (6) months of approval by the
+authority; and
+b. Complete filming or production in Kentucky within two (2) years of their production start
+date.
+(3) An approved company may receive a refundable tax credit if:
+(a) The department has received notification from the authority that the approved company has satisfied all
+requirements of KRS 154.61-020 and 154.61-030; and
+(b) The approved company has provided a detailed cost report and sufficient documentation to the
+authority, which has been forwarded by the authority to the department, that:
+1. The purchases of qualifying expenditures were made after the execution of the tax incentive
+agreement; and
+2. The approved company or loan-out entity has withheld income tax as required by KRS 141.310
+on all qualified payroll expenditures, and remitted and certified the withheld amount to the
+department.
+(4) Interest shall not be allowed or paid on any refundable credits provided under this section.
+(5) The department may promulgate administrative regulations under KRS Chapter 13A to administer this section.
+(6) On or before September 1, 2010, and on or before each September 1 thereafter, for the immediately preceding
+fiscal year, the department shall report to the authority and the Interim Joint Committee on Appropriations and
+Revenue the names of the approved companies and the amounts of refundable income tax credit claimed.
+(7) No later than September 1, 2021, and by November 1 every four (4) years thereafter, the department and the
+Cabinet for Economic Development shall cooperatively provide historical data related to the tax credit allowed
+in this section and KRS 154.61-020 and 154.61-030, including data items beginning with tax credits claimed
+for taxable years beginning on or after January 1, 2018:
+(a) The name of the taxpayer claiming the tax credit;
+(b) The date that the application was approved and the date the filming or production was completed;
+(c) The taxable year in which the taxpayer claimed the tax credit;
+(d) The total amount of the tax credit, including any amount denied, any amount applied against a tax
+liability, any amount refunded, and any amount remaining that may be claimed on a return filed in the
+future;
+(e) Whether the taxpayer is a Kentucky-based company as defined in KRS 154.61-010;
+(f) Whether the taxpayer films or produces a:
+1. Feature-length film, television program, or industrial film;
+2. National touring production of a Broadway show; or
+3. Documentary;
+(g) Whether the filming or production was performed:
+1. Entirely in an enhanced county; or
+2. In whole or in part in any Kentucky county other than in an enhanced incentive county;
+(h) The amount of qualifying expenditures incurred by the taxpayer;
+(i) The amount of qualifying payroll expenditures paid to:
+1. Resident below-the-line crew; and
+
+CHAPTER 162 9
+2. Nonresident below-the-line production crew;
+including the number of crew members in each category;
+(j) The amount of qualifying payroll expenditures paid to:
+1. Resident above-the-line crew; and
+2. Nonresident above-the-line crew;
+including the number of crew members in each category; and
+(k) A brief description of the type of motion picture or entertainment production project.
+(8) The information required to be reported under this section shall not be considered confidential taxpayer
+information and shall not be subject to KRS Chapter 131 or any other provisions of the Kentucky Revised
+Statutes prohibiting disclosure or reporting of information.
+Section 12. The unused balance identified in Section 11(2)(c)1.c.ii. of this Act as of the first day of April
+2025 shall be allocated and made available for all approved companies with a motion picture or entertainment
+production on or after the effective date of this Act.
+Section 13. Whereas the provisions of this Act provide ongoing support for state government agencies and
+their functions, an emergency is declared to exist, and Sections 4 to 8 and 10 to 12 of this Act take effect upon its
+passage and approval by the Governor or upon its otherwise becoming a law.
+Vetoed in Part and non-vetoed provisions became law without Governor's signature April 10, 2025.
+Legislative Research Commission PDF Version
+
+[DELETED:  " m a c p i s p j s c j " " p o m t s o t F a A C w s b " m t p o b a r i o d a p " " a s c w a o t a t r f c a a c g " p t s o d c s D t c C P " t i j o t o l l c p o p p " " "]
+[DELETED:  " m a p d m i w t p o s a " " " " " b m a d c c b b c i " " " " T T A A " m t p b r l o o o o a s " d i K 4 o p o s p t a w p p e i t K 4 a a r p t A T " " a m a g b t i a b t c o i i " b a r t e i a a c a m w "]
+[DELETED:  " " " " " o " m l w o n o t e s d b h T A C P S C C C O C o t d a t s i s b a o p P S D A a p t r d a f s r i d t b U PT[S A " t r]
+[DELETED:  " I a w K 4 a c s i a s t a t p A W I P I I P A p p f g r o s p t a n r o N W i a u f p t s b i f t i r f f d n i s d a ( T 1 I a t ( c d c p f t c o v t r a i t d o a g o s o s a c i t f t I I a t a o t p s n b d f t c b a I ( T]
+[DELETED:  P P A c d p c w K 4 t r l p c b T I T T ( B T T T P U D D $ i f y 2 t t E D b u t s t O E P a W C c e s e e d f t c T r t a $ s b t t I T A I f t p a t K T a   C F C G C A t p a f t e o S I]
+[DELETED:  F N c e a l o o f c s r o N K T K D o E s p a l e a o t D o N a s t t c a l e a o t D o F 2 0 C C R 2 T a f s b d a n T $ $ $ $ $ $ $ $ $ $ $ $ $]
+[DELETED:  A b r u t c f o t s s t r a d s f A " " " " " " " " " " ( T i h c a t c a t t i u K 1 o 1 a T A A A 1 T O S B T m d ( s b a f a a]
+[DELETED:  O t f d o A 2 a o A 1 o e c y T B f o p i K w s ( m o a b t C A T T a c h p a d c r a s d t t T T a q p e a r a c t w a t t I T O N T T T T W W F N D W E I T T R]
+[DELETED:  Ni T R Ni A T i r t b r u t s s n b c c t s b a a a a a c w a m p e]

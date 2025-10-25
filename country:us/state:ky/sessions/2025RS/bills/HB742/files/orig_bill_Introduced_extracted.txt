@@ -1,0 +1,2817 @@
+Title: 1 AN ACT relating to fantasy contests.
+Official Title: 1 AN ACT relating to fantasy contests.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 45 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS BR 1220
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 230.210 is amended to read as follows:
+4 As used in this chapter, unless the context requires otherwise:
+5 (1) "Advance deposit account wagering" means a form of pari-mutuel wagering in
+6 which an individual may establish an account with a person or entity licensed by the
+7 corporation, and may place a pari-mutuel wager through that account that is
+8 permitted by law;
+9 (2) "Advance deposit account wagering licensee" means a person or entity licensed by
+10 the corporation to conduct advance deposit account wagering and accept deposits
+11 and wagers, issue a receipt or other confirmation to the account holder evidencing
+12 such deposits and wagers, and transfer credits and debits to and from accounts;
+13 (3) "Amateur youth sporting event" means any sporting event in which an individual:
+14 (a) Shall be less than eighteen (18) years of age to participate; and
+15 (b) Is prohibited, as a condition of participating in the sporting event, from
+16 receiving direct or indirect compensation for the use of the individual's
+17 athletic skill in any manner with respect to the sport in which the particular
+18 sporting event is conducted;
+19 (4) "Appaloosa race" or "Appaloosa racing" means that form of horse racing in which
+20 each horse participating in the race is registered with the Appaloosa Horse Club of
+21 Moscow, Idaho, and is mounted by a jockey;
+22 (5) "Arabian" means a horse that is registered with the Arabian Horse Registry of
+23 Denver, Colorado;
+24 (6) "Association" means any person licensed by the Kentucky Horse Racing and
+25 Gaming Corporation under KRS 230.300 and engaged in the conduct of a
+26 recognized horse race meeting;
+27 (7) "Athlete" means a professional or amateur competitor in a sporting event or an
+Page 1 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1220
+1 organized video game competition that is:
+2 (a) Regulated by a sports governing body; and
+3 (b) Held between players who play individually or as teams;
+4 (8) "Charitable gaming" means gaming licensed by the corporation on and after July 1,
+5 2025, as authorized under this chapter and KRS Chapter 238;
+6 (9)[(8)] "Corporation" means the Kentucky Horse Racing and Gaming Corporation;
+7 (10) "Entry fee" means the cash or cash equivalent that is required to be paid by a
+8 fantasy contest participant to a fantasy contest operator in order to participate in
+9 a fantasy contest;
+10 (11) (a) "Fantasy contest" means any fantasy or simulated game or contest that
+11 meets the following conditions:
+12 1. The values of all prizes and awards offered to winning participants are
+13 made known to the participants in advance of the contest;
+14 2. All winning outcomes reflect the relative knowledge and skill of the
+15 participant;
+16 3. The participant assembles, owns, or manages a fictional entry or
+17 roster of actual athletes;
+18 4. A winning outcome is:
+19 a. Determined solely by clearly established scoring criteria;
+20 b. Based on one (1) or more statistical results of the performance of
+21 an individual athlete, including but not limited to a fantasy
+22 score; and
+23 c. Not based:
+24 i. On the score, point spread, or any performance or
+25 performances of any single actual team or combination of
+26 teams; or
+27 ii. Solely on any single performance of an individual athlete
+Page 2 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1220
+1 or participant in any single actual event; and
+2 5. The game or contest does not violate any provision of federal law.
+3 (b) "Fantasy contest" includes both contests wherein:
+4 1. Participants compete against each other; and
+5 2. Only a single participant competes against a target score set by the
+6 fantasy contest operator.
+7 (c) "Fantasy contest" does not include any fantasy contest without an entry
+8 fee;
+9 (12) (a) "Fantasy contest operator" or "operator" means a person who offers or
+10 administers one (1) or more fantasy contests with an entry fee to the general
+11 public, and awards a prize of value.
+12 (b) "Fantasy contest operator" does not include an internet service provider or
+13 a provider of mobile data services merely as a result of that provider's
+14 transporting of general traffic that may include a fantasy contest;
+15 (13) (a) "Fantasy contest participant" or "participant" means a person who
+16 participates in a fantasy contest offered by a fantasy contest operator.
+17 (b) "Fantasy contest participant" does not include a person who only performs
+18 the following actions:
+19 1. Setting house rules for a contest;
+20 2. Assigning a salary or target score to any eligible athlete or player;
+21 3. Accepting an entry fee from a fantasy contest participant; or
+22 4. Awarding or disbursing prizes;
+23 (14)[(9)] "Geofence" means a virtual geographic boundary defined by Global
+24 Positioning System (GPS) or Radio Frequency Identification (RFID) technology;
+25 (15)[(10)] "Harness race" or "harness racing" means trotting and pacing races of the
+26 standardbred horses;
+27 (16)[(11)] "Horse race meeting" means horse racing run at an association licensed and
+Page 3 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1220
+1 regulated by the Kentucky Horse Racing and Gaming Corporation, and may include
+2 Thoroughbred, harness, Appaloosa, Arabian, paint, and quarter horse racing;
+3 (17)[(12)] "Host track" means the track conducting racing and offering its racing for
+4 intertrack wagering, or, in the case of interstate wagering, means the Kentucky
+5 track conducting racing and offering simulcasts of races conducted in other states or
+6 foreign countries;
+7 (18)[(13)] "Interstate wagering" means pari-mutuel wagering on simulcast horse races
+8 from a track located in another state or foreign country by patrons at a receiving
+9 track or simulcast facility;
+10 (19)[(14)] "Intertrack wagering" means pari-mutuel wagering on simulcast horse races
+11 from a host track by patrons at a receiving track;
+12 (20)[(15)] "Kentucky quarter horse, paint horse, Appaloosa, and Arabian purse fund"
+13 means a purse fund established to receive funds as specified in KRS 230.3771 for
+14 purse programs established in KRS 230.446 to supplement purses for quarter horse,
+15 paint horse, Appaloosa, and Arabian horse races. The purse program shall be
+16 administered by the Kentucky Horse Racing and Gaming Corporation;
+17 (21)[(16)] "Kentucky resident" means:
+18 (a) An individual domiciled within this state;
+19 (b) An individual who maintains a place of abode in this state and spends, in the
+20 aggregate, more than one hundred eighty-three (183) days of the calendar year
+21 in this state; or
+22 (c) An individual who lists a Kentucky address as his or her principal place of
+23 residence when applying for an account to participate in advance deposit
+24 account wagering;
+25 (22)[(17)] "Licensed facility for sports wagering" means the designated areas to conduct
+26 sports wagering for a track licensed to conduct sports wagering pursuant to KRS
+27 230.811;
+Page 4 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1220
+1 (23)[(18)] "Licensed premises" means a track or simulcast facility licensed by the
+2 corporation under this chapter;
+3 (24)[(19)] "Paint horse" means a horse registered with the American Paint Horse
+4 Association of Fort Worth, Texas;
+5 (25)[(20)] "Pari-mutuel wagering," "pari-mutuel system of wagering," or "mutuel
+6 wagering" each means any method of wagering previously or hereafter approved by
+7 the corporation in which one (1) or more patrons wager on a horse race or races,
+8 whether live, simulcast, or previously run. Wagers shall be placed in one (1) or
+9 more wagering pools, and wagers on different races or sets of races may be pooled
+10 together. Patrons may establish odds or payouts, and winning patrons share in
+11 amounts wagered including any carryover amounts, plus any amounts provided by
+12 an association less any deductions required, as approved by the corporation and
+13 permitted by law. Pools may be paid out incrementally over time as approved by
+14 the corporation;
+15 (26)[(21)] "Person" means an individual, sole proprietorship, partnership, association,
+16 fiduciary, corporation, limited liability company, or any other business entity;
+17 (27)[(22)] "President" means the president of the Kentucky Horse Racing and Gaming
+18 Corporation, who shall serve as chief executive officer of the corporation;
+19 (28)[(23)] "Principal" means any of the following individuals associated with a
+20 partnership, trust, association, limited liability company, or corporation that is
+21 licensed to conduct a horse race meeting or an applicant for a license to conduct a
+22 horse race meeting:
+23 (a) The chairman and all members of the board of directors of a corporation;
+24 (b) All partners of a partnership and all participating members of a limited
+25 liability company;
+26 (c) All trustees and trust beneficiaries of an association;
+27 (d) The president or chief executive officer and all other officers, managers, and
+Page 5 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1220
+1 employees who have policymaking or fiduciary responsibility within the
+2 organization;
+3 (e) All stockholders or other individuals who own, hold, or control, either directly
+4 or indirectly, five percent (5%) or more of stock or financial interest in the
+5 collective organization; and
+6 (f) Any other employee, agent, guardian, personal representative, or lender or
+7 holder of indebtedness who has the power to exercise a significant influence
+8 over the applicant's or licensee's operation;
+9 (29) "Prohibited participant" means:
+10 (a) A person who has self-excluded under Section 10 of this Act; or
+11 (b) An athlete, coach, referee, trainer, or team staff when the fantasy contest
+12 entry includes athlete selections from a sporting event overseen by the same
+13 sports governing body which oversees the athlete, coach, referee, trainer, or
+14 team staff in question;
+15 (30)[(24)] "Quarter horse" means a horse that is registered with the American Quarter
+16 Horse Association of Amarillo, Texas;
+17 (31)[(25)] "Receiving track" means a track where simulcasts are displayed for wagering
+18 purposes. A track that submits an application for intertrack wagering shall meet all
+19 the regulatory criteria for granting an association license of the same breed as the
+20 host track, and shall have a heated and air-conditioned facility that meets all state
+21 and local life safety code requirements and seats a number of patrons at least equal
+22 to the average daily attendance for intertrack wagering on the requested breed in the
+23 county in which the track is located during the immediately preceding calendar
+24 year;
+25 (32)[(26)] "Simulcast facility" means any facility approved pursuant to KRS 230.380 to
+26 simulcast live racing and conduct pari-mutuel wagering on live racing;
+27 (33)[(27)] "Simulcasting" means the telecast of live audio and visual signals of horse
+Page 6 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1220
+1 races for the purpose of pari-mutuel wagering;
+2 (34)[(28)] "Sporting event" means an event at which two (2) or more persons participate
+3 in athletic contests, or an event that takes place in relation to athletic contests as
+4 approved by the corporation, but shall not include horse racing or amateur youth
+5 sports or athletic events in which the majority of participants are under the age of
+6 eighteen (18) years;
+7 (35)[(29)] "Sports governing body" means the organization, league, or association that
+8 oversees a sport, prescribes final rules, and enforces codes of conduct with respect
+9 to such sport and participants therein;
+10 (36)[(30)] "Sports wagering" means the wagering conducted under this chapter on
+11 sporting events or portions of sporting events, or on the individual performance
+12 statistics of athletes in a sporting event or combination of sporting events, in
+13 conformance with federal law and as authorized by the corporation pursuant to this
+14 chapter;
+15 (37)[(31)] "Sports wagering device":
+16 (a) Means a mechanical, electrical, or computerized contrivance, terminal,
+17 device, apparatus, software, piece of equipment, or supply approved by the
+18 corporation for conducting sports wagering under this chapter; and
+19 (b) Includes a personal computer, mobile device, or other device used in
+20 connection with sports wagering not conducted at a licensed facility for sports
+21 wagering;
+22 (38)[(32)] "Sports wagering service provider" or "service provider" means a person
+23 authorized to conduct or manage sports wagering through an agreement with a track
+24 and provide these services at a licensed facility for sports wagering, simulcast
+25 facility, or through a website or mobile interface approved by the corporation;
+26 (39)[(33)] "Telephone account wagering" means a form of pari-mutuel wagering where
+27 an individual may deposit money in an account at a track and may place a wager by
+Page 7 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1220
+1 direct telephone call or by communication through other electronic media owned by
+2 the holder of the account to the track;
+3 (40)[(34)] "Thoroughbred race" or "Thoroughbred racing" means a form of horse racing
+4 in which each horse participating in the race is a Thoroughbred, (i.e., meeting the
+5 requirements of and registered with The Jockey Club of New York) and is mounted
+6 by a jockey; and
+7 (41)[(35)] "Track" means any association duly licensed by the Kentucky Horse Racing
+8 and Gaming Corporation to conduct horse racing and includes:
+9 (a) For facilities in operation as of 2010, the location and physical plant described
+10 in the "Commonwealth of Kentucky Initial/Renewal Application for License
+11 to Conduct Live Horse Racing, Simulcasting, and Pari-Mutuel Wagering,"
+12 filed for racing to be conducted in 2010;
+13 (b) Real property of an association, if the association received or receives
+14 approval from the corporation after 2010 for a location at which live racing is
+15 to be conducted; or
+16 (c) One (1) facility or real property that is:
+17 1. Owned, leased, or purchased by an association within a sixty (60) mile
+18 radius of the association's racetrack but not contiguous to racetrack
+19 premises, upon corporation approval; and
+20 2. Not within a sixty (60) mile radius of another licensed track premise
+21 where live racing is conducted and not within a forty (40) mile radius of
+22 a simulcast facility, unless any affected track or simulcast facility agrees
+23 in writing to permit a noncontiguous facility within the protected
+24 geographic area.
+25 SECTION 2. A NEW SECTION OF KRS CHAPTER 230 IS CREATED TO
+26 READ AS FOLLOWS:
+27 (1) The corporation shall promulgate administrative regulations in accordance with
+Page 8 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1220
+1 KRS Chapter 13A to govern the operation of fantasy contests and enforce
+2 Sections 2 to 10 of this Act, but the corporation shall not promulgate
+3 administrative regulations limiting or regulating the:
+4 (a) Statistical makeup of a fantasy contest or contests; or
+5 (b) Digital platform of an operator.
+6 (2) The corporation shall:
+7 (a) Regulate the conduct of fantasy contest operators;
+8 (b) Promulgate administrative regulations no later than one hundred eighty
+9 (180) days after the effective date of this Act;
+10 (c) Enforce and collect all fees, penalties, taxes, and any other payments
+11 imposed under Sections 8 and 11 of this Act;
+12 (d) Require the use of geolocation technology to verify that a participant is not
+13 entering fantasy contests from a restricted jurisdiction; and
+14 (e) Exercise any other powers necessary to enforce the provisions of Sections 2
+15 to 10 of this Act.
+16 (3) The corporation and fantasy contest operators may cooperate with investigations
+17 conducted by law enforcement agencies, including but not limited to providing
+18 and facilitating the provision of account level entry and participation
+19 information.
+20 SECTION 3. A NEW SECTION OF KRS CHAPTER 230 IS CREATED TO
+21 READ AS FOLLOWS:
+22 Fantasy contest operators shall:
+23 (1) Implement procedures to prevent fraud, abuse, and money laundering;
+24 (2) Establish technical and operational measures to prevent underage participation
+25 in a fantasy contest;
+26 (3) Deploy identity verification procedures, which may require the use of a reputable
+27 independent third party that:
+Page 9 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1220
+1 (a) Can verify a person's personally identifiable information; and
+2 (b) Can detect potential prohibited participants;
+3 (4) Employ mechanisms on the operator's platform that are designed to detect and
+4 prevent:
+5 (a) Unauthorized accounts;
+6 (b) Fraud;
+7 (c) Money laundering; and
+8 (d) Collusion; and
+9 (5) Make all reasonable efforts to promptly notify the corporation of:
+10 (a) A confirmed breach of the relevant sport's governing body's internal rules
+11 and codes of conduct, if provided to the fantasy contest operator, pertaining
+12 to participation in real-money fantasy contests;
+13 (b) Any conduct that corrupts any outcome related to a sporting event or
+14 sporting events for purposes of financial gain, including match fixing; and
+15 (c) Confirmed illegal activities, including use of funds derived from illegal
+16 activity, entries to conceal or launder funds derived from illegal activity,
+17 multi-accounting, and using false identification.
+18 SECTION 4. A NEW SECTION OF KRS CHAPTER 230 IS CREATED TO
+19 READ AS FOLLOWS:
+20 (1) Except as otherwise provided in this section, a person shall not offer fantasy
+21 contests in the Commonwealth unless the person is licensed by the corporation as
+22 a fantasy contest operator.
+23 (2) An applicant for a fantasy contest operator license shall:
+24 (a) Submit an application to the corporation in the form the corporation
+25 requires in the corporation's administrative regulations;
+26 (b) Submit fingerprints for a national criminal history record check by a law
+27 enforcement agency, which shall be:
+Page 10 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1220
+1 1. Furnished by the applicant's director, officer, key employee, or
+2 individual owner of five percent (5%) or more of the fantasy contest
+3 operator; and
+4 2. Accompanied by a signed authorization for the release of information
+5 by the law enforcement agency; and
+6 (c) Be denied a license if previously convicted of a disqualifying offense as
+7 established in subsection (8) of this section.
+8 (3) The corporation may require additional background checks on fantasy contest
+9 operators when an operator submits a renewal application.
+10 (4) This section shall not require a fantasy contest operator applicant or person who
+11 has submitted to a national criminal history record check in Kentucky or any
+12 other state within the twelve (12) months prior to submitting the application to
+13 resubmit to another record check if the fantasy contest operator applicant or
+14 person submits the results of the previous record check and affirms there has
+15 been no material change since the previous record check.
+16 (5) The form required by the corporation under subsection (2) of this section shall
+17 include but is not limited to the following information:
+18 (a) The fantasy contest operator's name;
+19 (b) The location of the operator's principal place of business;
+20 (c) The operator's contact information;
+21 (d) The operator's Social Security number or, if applicable, federal tax
+22 identification number;
+23 (e) The name and address of each person that holds a five percent (5%) or
+24 more ownership interest or shares in the fantasy contest operator;
+25 (f) The operator's criminal record or, if the operator is a business entity, any
+26 criminal record of a person who is a director, officer, or key employee of the
+27 applicant or any person who has a five percent (5%) or more ownership
+Page 11 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1220
+1 interest in the fantasy contest operator;
+2 (g) Documentation identifying the following from the operator, or any director,
+3 officer, key employee, or individual owner of five percent (5%) or more of
+4 the fantasy contest operator that has:
+5 1. Any ownership interest in a business that is or was a fantasy contest
+6 operator or similar entity in any jurisdiction;
+7 2. An equity interest of five percent (5%) or more in any business of the
+8 fantasy contest operator. If a business has been identified under this
+9 subparagraph, documentation shall be provided showing the state in
+10 which the business is incorporated or registered, if applicable;
+11 3. Ever applied for or been granted any license, registration, or
+12 certificate issued by a licensing authority in Kentucky or any other
+13 jurisdiction for a gaming activity; and
+14 4. Filed or been served with a complaint or other notice filed by a public
+15 body regarding the delinquency in payment of or dispute over filings
+16 concerning the payment of any tax required under federal, state, or
+17 local law, including the amount of tax, type of tax, and taxing agency
+18 and the time periods involved; and
+19 (h) Information sufficient to show, as determined by the corporation, that the
+20 operator can meet the requirements of Sections 2 to 10 of this Act.
+21 (6) The corporation may promulgate administrative regulations to establish
+22 additional qualifications and requirements to preserve the integrity and security
+23 of fantasy contests and to promote and maintain a competitive fantasy contest
+24 market.
+25 (7) On receipt of a completed application and the required fee, the corporation shall
+26 conduct the necessary background investigation to determine if the applicant
+27 meets the qualifications for licensure. On completion of the investigation, the
+Page 12 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1220
+1 corporation shall issue a license or deny the application. If the application for
+2 licensure is denied, a statement setting forth the grounds for denial shall be
+3 forwarded to the applicant together with all other documents relied on by the
+4 corporation, to the extent allowed by law.
+5 (8) (a) A person shall not be issued a license if the person has been convicted of a
+6 violation of state or federal law that is:
+7 1. A felony;
+8 2. Any crime involving illegal gaming or gambling; or
+9 3. Any crime involving theft or fraud that is or would be a felony or
+10 Class A misdemeanor in the Commonwealth of Kentucky.
+11 (b) The prohibitions in paragraph (a) of this subsection apply to the applicant
+12 or licensee, or director, officer, key employee, or individual owner of five
+13 percent (5%) or more of the fantasy contest operator.
+14 SECTION 5. A NEW SECTION OF KRS CHAPTER 230 IS CREATED TO
+15 READ AS FOLLOWS:
+16 (1) As part of its submission for licensure or renewal, a fantasy contest operator
+17 applicant shall:
+18 (a) Contract with a certified public accountant to conduct an independent
+19 audit, consistent with generally accepted accounting principles;
+20 (b) Annually contract with a testing laboratory, certified public accountant, or
+21 another professional service provider recognized by the corporation to verify
+22 compliance with Sections 2 to 10 of this Act; and
+23 (c) Submit to the corporation a copy of the audit report and of the compliance
+24 report of the testing laboratory, certified public accountant, or professional
+25 service provider.
+26 (2) An initial fantasy contest operator is not required to submit an audit report and
+27 report of the testing laboratory until twenty-four (24) months following the
+Page 13 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1220
+1 issuance of a license.
+2 SECTION 6. A NEW SECTION OF KRS CHAPTER 230 IS CREATED TO
+3 READ AS FOLLOWS:
+4 (1) Notwithstanding any provision of law to the contrary, the operation of fantasy
+5 contests is only lawful when conducted in accordance with Sections 2 to 10 of this
+6 Act.
+7 (2) Any participant of a fantasy contest shall be at least eighteen (18) years old.
+8 (3) (a) A fantasy contest operator may only accept an entry from a person
+9 physically located in the Commonwealth.
+10 (b) A fantasy contest operator shall use a geolocation system to ensure that a
+11 participant is physically present in the Commonwealth when submitting an
+12 entry unless otherwise authorized by the corporation.
+13 (4) (a) Sections 2 to 10 of this Act shall be construed liberally to promote the
+14 general welfare of the public and integrity of the fantasy contest industry.
+15 (b) The corporation shall not in any way limit or restrict the types of fantasy
+16 contests allowed by labelling any such contests as sports wagering.
+17 (5) A licensed fantasy contest operator shall not be forced to surrender or terminate a
+18 license prior to the date of expiration of the license solely by virtue of a change in
+19 the qualifications for licensure under Sections 2 to 10 of this Act.
+20 SECTION 7. A NEW SECTION OF KRS CHAPTER 230 IS CREATED TO
+21 READ AS FOLLOWS:
+22 (1) The corporation shall investigate all reasonable allegations of prohibited conduct
+23 and refer any allegations it deems credible to the appropriate law enforcement
+24 agency.
+25 (2) The identity of any reporting person shall remain confidential unless that person
+26 authorizes disclosure of the person's identity or until the allegation of prohibited
+27 conduct is referred to law enforcement.
+Page 14 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1220
+1 (3) If the corporation receives a complaint of prohibited conduct by an athlete, the
+2 corporation shall notify the appropriate sports governing body of the athlete to
+3 review the complaint as provided by the corporation.
+4 (4) The corporation shall promulgate administrative regulations in accordance with
+5 KRS Chapter 13A to govern investigations of prohibited conduct and referrals to
+6 law enforcement agencies.
+7 SECTION 8. A NEW SECTION OF KRS CHAPTER 230 IS CREATED TO
+8 READ AS FOLLOWS:
+9 (1) As used in this section:
+10 (a) "Adjusted gross fantasy contest receipts" means the total sum of entry fees
+11 collected by a fantasy contest operator from all participants entering a
+12 fantasy contest, less winnings paid to participants in the contest, multiplied
+13 by the location percentage; and
+14 (b) "Location percentage" means the percentage of the total entry fees for each
+15 fantasy contest collected from participants located in the Commonwealth
+16 divided by the total entry fees collected from all participants in the fantasy
+17 contest, rounded to the nearest one-tenth of one percent (0.1%).
+18 (2) (a) The initial license fee for a fantasy contest operator that operated in this
+19 Commonwealth at least twelve (12) months prior to the effective date of this
+20 Act shall be eight percent (8%) of the operator's adjusted gross fantasy
+21 contest receipts from the preceding calendar year or five hundred thousand
+22 ($500,000) dollars, whichever is less.
+23 (b) The initial license fee for a fantasy contest operator that did not operate in
+24 this Commonwealth for at least twelve (12) months prior to the effective
+25 date of this Act shall be five thousand ($5,000) dollars, provided that the
+26 fantasy contest operator shall remit a supplemental license fee of ten
+27 percent (10%) of its adjusted gross fantasy contest receipts for the twelve
+Page 15 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1220
+1 (12) month period beginning on the date of licensure less the initial license
+2 fee, or five thousand ($5,000) dollars, whichever is less.
+3 (3) A fantasy contest operator that was offering contests to persons located in this
+4 Commonwealth before the effective date of this Act may continue to offer contests
+5 to persons located in this Commonwealth until the operator's application has
+6 been approved or denied if the operator submits an application for licensure with
+7 the corporation within ninety (90) days after the corporation promulgates
+8 administrative regulations to effectuate Sections 2 to 10 of this Act.
+9 (4) (a) Licenses issued by the corporation shall remain in effect for one (1) year.
+10 The corporation shall promulgate administrative regulations to establish a
+11 process for renewal with a renewal fee being one percent (1%) of the
+12 adjusted gross fantasy contest receipts for the previous year, or five
+13 thousand ($5,000) dollars, whichever is less.
+14 (b) A fantasy contest operator may request in writing to the corporation an
+15 extension to renew the operator's license. If the operator allows the license
+16 to lapse, without requesting an extension time to file, the operator shall
+17 resubmit an initial application.
+18 (5) A fantasy contest operator applying for a license or renewal of a license may
+19 operate during the application period unless the corporation:
+20 (a) Has reasonable cause to believe that the fantasy contest operator is or may
+21 be in violation of a provision of Sections 2 to 10 of this Act; and
+22 (b) Requires the fantasy contest operator to suspend the operation of any
+23 fantasy contests until the license or renewal of a license is issued.
+24 SECTION 9. A NEW SECTION OF KRS CHAPTER 230 IS CREATED TO
+25 READ AS FOLLOWS:
+26 (1) There is hereby established in the State Treasury a trust and agency account to be
+27 known as the fantasy contest administration fund. The fund shall consist of
+Page 16 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1220
+1 moneys received from the fees and monthly tax imposed by Sections 8 and 11 of
+2 this Act.
+3 (2) The fund shall be administered by the Kentucky Horse Racing and Gaming
+4 Corporation.
+5 (3) (a) Amounts deposited in the fund shall be used as follows:
+6 1. For administrative expenses relating to or associated with the
+7 purposes of fantasy contests; and
+8 2. Two and one-half percent (2.5%) of the funds shall be deposited in the
+9 Kentucky problem gambling assistance account established in KRS
+10 230.826.
+11 (b) The remaining funds shall be deposited in the Kentucky permanent pension
+12 fund established in KRS 42.205.
+13 (4) Notwithstanding KRS 45.229, fund amounts not expended at the close of a fiscal
+14 year shall not lapse but shall be carried forward into the next fiscal year.
+15 SECTION 10. A NEW SECTION OF KRS CHAPTER 230 IS CREATED TO
+16 READ AS FOLLOWS:
+17 (1) Each fantasy contest operator shall include a statement regarding obtaining
+18 assistance with real-money gaming problems on the operator's portal, website,
+19 computer, or mobile application and on all marketing materials and
+20 advertisements of the operator.
+21 (2) (a) A resident, or nonresident if allowed to participate in fantasy contests, may
+22 voluntarily prohibit himself or herself from establishing a fantasy contest
+23 account with a fantasy contest operator.
+24 (b) The corporation shall incorporate the voluntary self-exclusion program for
+25 fantasy contests into any existing self-exclusion program that it operates on
+26 the effective date of this Act.
+27 (3) If a self-excluded person participates in a fantasy contest, the fantasy contest
+Page 17 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1220
+1 operator shall report to the corporation, at a minimum, the name of the self-
+2 excluded person, the date of participation, the amount or value of any money,
+3 prizes, or awards forfeited, if any, and any other action taken.
+4 (4) A fantasy contest operator shall not pay any prize or award to a person who is on
+5 the corporation's self-exclusion list. Any prize or award won by a person on the
+6 self-exclusion list is forfeited and shall be donated by the fantasy contest operator
+7 to the problem gaming charities or programs as identified and directed by the
+8 corporation on a quarterly basis by the twenty-fifth day of the following month.
+9 (5) A fantasy contest operator shall develop and maintain a program to mitigate
+10 compulsive play and curtail compulsive play, which may be in conjunction with
+11 the corporation.
+12 SECTION 11. A NEW SECTION OF KRS CHAPTER 138 IS CREATED TO
+13 READ AS FOLLOWS:
+14 (1) As used in this section:
+15 (a) "Adjusted gross fantasy contest receipts" has the same meaning as in
+16 Section 8 of this Act;
+17 (b) "Corporation" has the same meaning as in Section 1 of this Act;
+18 (c) "Fantasy contest operator" has the same meaning as in Section 1 of this
+19 Act; and
+20 (d) "Location percentage" has the same meaning as in Section 8 of this Act.
+21 (2) Beginning on July 1, 2025, the Commonwealth shall impose and collect a tax at a
+22 rate of ten percent (10%) of the fantasy contest operator's adjusted gross fantasy
+23 contest receipts. The accrual method of accounting shall be used for purposes of
+24 calculating the amount of tax owed by the licensee.
+25 (3) The tax imposed by this section is due and payable to the corporation monthly
+26 and shall be remitted on or before the last day of each calendar month.
+27 (4) The fantasy contest operator's payment shall be accompanied by a return
+Page 18 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1220
+1 prescribed by the corporation indicating the amount of tax due for the previous
+2 calendar month as well as any other information the corporation shall
+3 promulgate by administrative regulation.
+4 Section 12. KRS 230.215 (Effective July 1, 2025) is amended to read as
+5 follows:
+6 (1) (a) It is the policy of the Commonwealth of Kentucky, in furtherance of its
+7 responsibility to foster and to encourage legitimate occupations and industries
+8 in the Commonwealth and to promote and to conserve the public health,
+9 safety, and welfare, and it is hereby declared the intent of the Commonwealth
+10 to foster and to encourage the horse breeding industry within the
+11 Commonwealth and to encourage the improvement of the breeds of horses.
+12 (b) Further, it is the policy and intent of the Commonwealth to foster and to
+13 encourage the business of legitimate horse racing with pari-mutuel wagering
+14 thereon in the Commonwealth on the highest possible plane. Further, it hereby
+15 is declared the policy and intent of the Commonwealth that all racing not
+16 licensed under this chapter is a public nuisance and may be enjoined as such.
+17 (c) Further, it is hereby declared the policy and intent of the Commonwealth that
+18 the conduct of horse racing, or the participation in any way in horse racing, or
+19 the entrance to or presence where horse racing is conducted, is a privilege and
+20 not a personal right; and that this privilege may be granted or denied by the
+21 corporation or its duly approved representatives acting in its behalf.
+22 (d) Further, it is hereby declared the policy and intent of the Commonwealth that
+23 citizens shall be allowed to enjoy wagering on sporting events in a controlled
+24 environment that protects the citizens from cheating and fraud, and that such
+25 wagering shall be best controlled and overseen by the Kentucky Horse Racing
+26 and Gaming Corporation, which has demonstrated a long and successful
+27 history of regulating wagering.
+Page 19 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1220
+1 (e) Further, it is hereby declared the policy and intent of the Commonwealth that
+2 charitable gaming conducted by charitable organizations is an important
+3 method of raising funds for legitimate charitable purposes and is in the public
+4 interest. The intent of this chapter and KRS Chapter 238 is to prevent the
+5 commercialization of charitable gaming, to prevent participation in charitable
+6 gaming by criminal and other undesirable elements, and to prevent the
+7 diversion of funds from legitimate charitable purposes, and that charitable
+8 gaming shall be best controlled and overseen by the Kentucky Horse Racing
+9 and Gaming Corporation.
+10 (2) (a) It is hereby declared the purpose and intent of this chapter in the interest of
+11 the public health, safety, and welfare, to vest in the corporation forceful
+12 control of horse racing in the Commonwealth with plenary power to
+13 promulgate administrative regulations prescribing conditions under which all
+14 legitimate horse racing and wagering thereon is conducted in the
+15 Commonwealth so as to encourage the improvement of the breeds of horses in
+16 the Commonwealth, to regulate and maintain horse racing at horse race
+17 meetings in the Commonwealth of the highest quality and free of any corrupt,
+18 incompetent, dishonest, or unprincipled horse racing practices, and to regulate
+19 and maintain horse racing at race meetings in the Commonwealth so as to
+20 dissipate any cloud of association with the undesirable and maintain the
+21 appearance as well as the fact of complete honesty and integrity of horse
+22 racing in the Commonwealth.
+23 (b) In addition, it is hereby declared the purpose and intent of this chapter to vest
+24 in the corporation exclusive jurisdiction over sports wagering and fantasy
+25 contests in the Commonwealth, with plenary power to promulgate
+26 administrative regulations prescribing conditions under which all sports
+27 wagering and fantasy contests are[ is] to be conducted.
+Page 20 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1220
+1 (c) In addition to the general powers and duties vested in the corporation by this
+2 chapter, it is the intent hereby to vest in the corporation the power to eject or
+3 exclude from association grounds or any part thereof any person, licensed or
+4 unlicensed, whose conduct or reputation is such that his or her presence on
+5 association grounds may, in the opinion of the corporation, reflect on the
+6 honesty and integrity of horse racing or interfere with either the orderly
+7 conduct of horse racing or the orderly conduct of sports wagering.
+8 (d) In addition, it is hereby declared the purpose and intent of this chapter to vest
+9 in the corporation exclusive jurisdiction over charitable gaming in the
+10 Commonwealth, with plenary power to promulgate administrative regulations
+11 prescribing conditions under which all charitable gaming is to be conducted.
+12 (e) In addition to the general powers and duties vested in the corporation by this
+13 chapter, it is the intent hereby to vest in the corporation the power to eject or
+14 exclude from charitable gaming facilities or any part thereof any person,
+15 licensed or unlicensed, whose conduct or reputation is such that his or her
+16 presence at a charitable gaming facility may, in the opinion of the corporation,
+17 reflect on the honesty and integrity of charitable gaming or interfere with the
+18 orderly conduct of charitable gaming.
+19 Section 13. KRS 230.225 is amended to read as follows:
+20 (1) There is hereby created and established the Kentucky Horse Racing and Gaming
+21 Corporation to regulate all forms of live horse racing, pari-mutuel wagering, sports
+22 wagering, fantasy contests, breed integrity and development, and on and after July
+23 1, 2025, charitable gaming, in the Commonwealth, exclusive of the state lottery
+24 established under KRS Chapter 154A. It shall be an independent, de jure municipal
+25 corporation and political subdivision of the Commonwealth of Kentucky which
+26 shall be a public body corporate and politic. The corporation shall be deemed a
+27 public agency within the meaning of KRS 61.805 and 61.870. The corporation shall
+Page 21 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1220
+1 be managed in such a manner that enables the people of the Commonwealth to
+2 benefit from its actions and to enjoy the best possible racing and gaming
+3 experiences. The General Assembly hereby recognizes that the operations of racing
+4 and gaming are unique activities for state government and that a corporate structure
+5 will best enable racing and gaming to be managed in a businesslike manner. It is the
+6 intent of the General Assembly that the Kentucky Horse Racing and Gaming
+7 Corporation shall be accountable to the Governor, the General Assembly, and the
+8 people of the Commonwealth.
+9 (2) (a) The Auditor of Public Accounts shall perform an annual audit of the
+10 corporation, a copy of which shall be sent to the Governor and the Legislative
+11 Research Commission.
+12 (b) The corporation shall submit a written annual report to the Governor and the
+13 Legislative Research Commission on or before July 1 of each year. The first
+14 report shall be due July 1, 2025. The corporation shall file any additional
+15 reports requested by the Governor or the Legislative Research Commission.
+16 The annual report shall include the following information:
+17 1. The receipts and disbursements of the corporation; and
+18 2. Actions taken by the corporation.
+19 (c) The corporation may submit any additional information and recommendations
+20 that the corporation considers useful or that the Governor or the Legislative
+21 Research Commission requests.
+22 (3) The Kentucky Horse Racing and Gaming Corporation shall be administered by a
+23 board of directors to regulate the conduct of:
+24 (a) Live horse racing;
+25 (b) Pari-mutuel wagering;
+26 (c) Sports wagering;
+27 (d) Fantasy contests;
+Page 22 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1220
+1 (e) Charitable gaming on and after July 1, 2025;
+2 (f)[(e)] Breed integrity and development; and
+3 (g)[(f)] Related activities within the Commonwealth of Kentucky.
+4 (4) (a) The corporation shall establish and maintain a general office for the
+5 transaction of its business and may, in its discretion, establish a branch office
+6 or offices.
+7 (b) The corporation may hold meetings at any of its offices or at any other place
+8 at its convenience.
+9 (c) A majority of the voting members of the corporation shall constitute a quorum
+10 for the transaction of its business or exercise of any of its powers.
+11 (5) Except as otherwise provided, the corporation shall be responsible for the
+12 following:
+13 (a) Developing and implementing programs designed to ensure the safety and
+14 well-being of horses, jockeys, and drivers;
+15 (b) Developing programs and procedures that will aggressively fulfill its
+16 oversight and regulatory role on such matters as medical practices and
+17 integrity issues;
+18 (c) Recommending tax incentives and implementing incentive programs to ensure
+19 the strength and growth of the equine industry;
+20 (d) Designing and implementing programs that strengthen the ties between
+21 Kentucky's horse industry and the state's universities, with the goal of
+22 significantly increasing the economic impact of the horse industry on
+23 Kentucky's economy, improving research for the purpose of promoting the
+24 enhanced health and welfare of the horse, and other related industry issues;
+25 (e) Developing and supporting programs which ensure that Kentucky remains in
+26 the forefront of equine research;
+27 (f) Designing and implementing programs that support and ensure breed integrity
+Page 23 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1220
+1 and development;
+2 (g) Developing monitoring programs to ensure the highest integrity of sporting
+3 events and sports wagering;
+4 (h) Developing a program to share wagering information with sports governing
+5 bodies upon which sports wagering may be conducted. The program shall be
+6 designed to assist the corporation in determining potential problems or
+7 questionable activity and provide reports to sports governing bodies
+8 effectively;
+9 (i) Developing programs and procedures that will aggressively fulfill its
+10 oversight and regulatory role to ensure the highest integrity in charitable
+11 gaming;
+12 (j) Developing programs and procedures that will aggressively provide oversight
+13 and regulation for all current forms of gaming and wagering; and
+14 (k) Ensuring that the correct responsibilities are assigned to each of its offices as
+15 established in KRS 230.232.
+16 (6) (a) The corporation shall:
+17 1. Conduct all procurements in accordance with procedures which are not
+18 inconsistent with the provisions of KRS Chapter 45A and this chapter;
+19 provided, however, that this chapter shall control if and to the extent that
+20 any provision in this chapter is expressly inconsistent with any provision
+21 of KRS Chapter 45A; or
+22 2. Promulgate administrative regulations establishing its procurement
+23 procedures. If the corporation elects to promulgate administrative
+24 regulations establishing its procurement procedures rather than conduct
+25 procurements in accordance with KRS Chapter 45A, the corporation
+26 may include sections of KRS Chapter 45A as part of its administrative
+27 regulations.
+Page 24 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1220
+1 (b) Major procurements for personal service contracts shall not be subject to the
+2 requirements of KRS 45A.695(2)(b) due to the unique operational activities
+3 conducted for state government by the corporation. The corporation's
+4 procurement procedures or administrative regulations shall be designed to
+5 provide for the purchase of supplies, equipment, services, and construction
+6 items that provide the greatest long-term benefit to the state and the greatest
+7 integrity for the corporation and the public.
+8 (c) In its bidding and negotiation processes, the corporation may do its own
+9 bidding and procurement, or may utilize the services of the Finance and
+10 Administration Cabinet, or a combination thereof. The president of the
+11 corporation may, in lieu of the secretary of the Finance and Administration
+12 Cabinet, declare an emergency for purchasing purposes.
+13 (7) Corporation records shall be open and subject to public inspection in accordance
+14 with KRS 61.870 to 61.884 unless:
+15 (a) A record is exempted from inspection under KRS 61.878;
+16 (b) A record involves a trade secret or other legally protected intellectual property
+17 or confidential proprietary information of the corporation or of an applicant,
+18 licensee, individual, or entity having submitted information of such character
+19 to the corporation, in which case, the portion of the record relating to these
+20 subjects may be closed; or
+21 (c) The disclosure of the record could impair or adversely affect the operational
+22 security of the corporation in the regulation of matters within its jurisdiction
+23 or could impair or adversely impact the operational security of applicants or
+24 licensees.
+25 (8) Meetings of the corporation through its board of directors shall be open to the
+26 public in accordance with KRS 61.800 to 61.850 unless the exceptions set forth in
+27 KRS 61.810 apply or the meeting addresses trade secrets, confidential or
+Page 25 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1220
+1 proprietary information, or operational security issues as described in subsection
+2 (7)(c) of this section. If this is the case, the corporation may meet in closed session
+3 and shall follow the procedures set forth in KRS 61.815.
+4 (9) (a) The corporation is hereby authorized to accept and expend such moneys as
+5 may be appropriated by the General Assembly or such moneys as may be
+6 received from any source for effectuating its purposes, including without
+7 limitation the payment of the initial expenses of administration and operation
+8 of the corporation.
+9 (b) After the transfer to the corporation of any funds appropriated in fiscal year
+10 2024-2025 and fiscal year 2025-2026 for the administration of this chapter
+11 and KRS Chapter 238, the corporation shall be self-sustaining and self-funded
+12 and moneys in the state general fund shall not be used or obligated to pay the
+13 expenses of the corporation.
+14 (10) On July 1, 2024:
+15 (a) The Kentucky Horse Racing and Gaming Corporation shall assume all
+16 responsibilities of the Kentucky Horse Racing Commission;
+17 (b) The Kentucky Horse Racing Commission shall be abolished and all
+18 employees of the Kentucky Horse Racing Commission are transferred to the
+19 corporation; and
+20 (c) All personnel, equipment, and funding shall be transferred from the Kentucky
+21 Horse Racing Commission to the Kentucky Horse Racing and Gaming
+22 Corporation.
+23 (11) On July 1, 2025:
+24 (a) The office regulating charitable gaming in the Kentucky Horse Racing and
+25 Gaming Corporation shall assume all responsibilities of the Department of
+26 Charitable Gaming;
+27 (b) The Department of Charitable Gaming shall be abolished and all employees
+Page 26 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1220
+1 of the Department of Charitable Gaming are transferred to the corporation;
+2 and
+3 (c) All personnel, equipment, and funding shall be transferred from the
+4 Department of Charitable Gaming to the Kentucky Horse Racing and Gaming
+5 Corporation.
+6 (12) Notwithstanding any other law to the contrary, nothing in this chapter shall
+7 authorize the corporation to:
+8 (a) Regulate or control horse sales;
+9 (b) Require the licensure of horse breeders in their capacity as breeders; or
+10 (c) Exercise jurisdiction over matters within the exclusive national authority of
+11 entities designated by the laws of the United States of America.
+12 Section 14. KRS 230.232 is amended to read as follows:
+13 (1) The president of the Kentucky Horse Racing and Gaming Corporation shall
+14 establish offices within the corporation. Each office shall have specific duties
+15 assigned by the president. Topics addressed by the offices shall include but not be
+16 limited to the following:
+17 (a) Pari-mutuel wagering;
+18 (b) Live horse racing;
+19 (c) Breed development and integrity;
+20 (d) Sports wagering;
+21 (e) Fantasy contests;
+22 (f) Licensing, compliance, and investigations; and
+23 (g)[(f)] Charitable gaming.
+24 (2) Each office shall be led by an office manager, and the president shall appoint the
+25 manager of each office.
+26 (3) Each office may propose the promulgation of administrative regulations related to
+27 its area of jurisdiction, but the corporation shall have final authority to promulgate
+Page 27 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1220
+1 administrative regulations under this chapter and on and after July 1, 2025, final
+2 authority to promulgate administrative regulations under KRS Chapter 238.
+3 Section 15. KRS 230.260 is amended to read as follows:
+4 The corporation shall have all powers necessary and proper to carry out and effectuate the
+5 purposes and provisions of this chapter on and after July 1, 2024, and the purposes and
+6 provisions of KRS Chapter 238 on and after July 1, 2025, including but not limited to the
+7 following:
+8 (1) The corporation is vested with jurisdiction and supervision over all live horse
+9 racing, pari-mutuel wagering, sports wagering, fantasy contests, breed integrity and
+10 development, and on and after July 1, 2025, charitable gaming, except for lottery
+11 games authorized under KRS Chapter 154A, in this Commonwealth and over all
+12 associations and all persons on association grounds and may eject or exclude
+13 therefrom or any part thereof, any person, licensed or unlicensed, whose conduct or
+14 reputation is such that the person's presence on association grounds may, in the
+15 opinion of the corporation, negatively reflect on the honesty and integrity of horse
+16 racing, or on sporting events upon which sports wagers may be placed, or interfere
+17 with the orderly conduct of horse racing or racing at horse race meetings, but no
+18 persons shall be excluded or ejected from association grounds solely on the ground
+19 of race, color, creed, national origin, ancestry, or sex;
+20 (2) The corporation is vested with jurisdiction over any person or entity that offers
+21 advance deposit account wagering to Kentucky residents. Any such person or entity
+22 under the jurisdiction of the corporation shall be licensed by the corporation, and
+23 the corporation may impose a license fee not to exceed ten thousand dollars
+24 ($10,000) annually. The corporation shall, by administrative regulation
+25 promulgated in accordance with KRS Chapter 13A, establish conditions and
+26 procedures for the licensing of advance deposit account wagering providers to
+27 include but not be limited to:
+Page 28 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1220
+1 (a) A fee schedule for applications for licensure; and
+2 (b) Reporting requirements to include quarterly reporting on:
+3 1. The amount wagered on Kentucky races; and
+4 2. The total amount wagered by Kentuckians;
+5 (3) The corporation is vested with jurisdiction over any totalisator company that
+6 provides totalisator services to a racing association located in the Commonwealth.
+7 A totalisator company under the jurisdiction of the corporation shall be licensed by
+8 the corporation, regardless of whether a totalisator company is located in the
+9 Commonwealth or operates from a location or locations outside of the
+10 Commonwealth, and the corporation may impose a license fee on a totalisator
+11 company. The corporation shall, by administrative regulation promulgated in
+12 accordance with KRS Chapter 13A, establish conditions and procedures for the
+13 licensing of totalisator companies, and a fee schedule for applications for licensure;
+14 (4) The corporation is vested with jurisdiction over any manufacturer, wholesaler,
+15 distributor, or vendor of any equine drug, medication, therapeutic substance, or
+16 metabolic derivative which is purchased by or delivered to a licensee or other
+17 person participating in Kentucky horse racing by means of the internet, mail
+18 delivery, in-person delivery, or other means;
+19 (5) The corporation is vested with jurisdiction over any horse training center or facility
+20 in the Commonwealth that records official timed workouts for publication;
+21 (6) The corporation may require an applicant for a license under subsection (2) or (3) of
+22 this section to submit to a background check of the applicant, or of any individual
+23 or organization associated with the applicant. An applicant shall be required to
+24 reimburse the corporation for the cost of any background check conducted;
+25 (7) The corporation, its representatives and employees, may visit, investigate, and have
+26 free access to the office, track, facilities, or other places of business of any licensee,
+27 or any person owning a horse or performing services regulated by this chapter on a
+Page 29 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1220
+1 horse registered to participate in a breeders incentive fund under the jurisdiction of
+2 the corporation;
+3 (8) The corporation shall have full authority to prescribe necessary and reasonable
+4 administrative regulations and conditions under which horse racing at a horse race
+5 meeting shall be conducted in this state and to fix and regulate the minimum
+6 amount of purses, stakes, or awards to be offered for the conduct of any horse race
+7 meeting;
+8 (9) Applications for licenses shall be made in the form and manner and contain
+9 information as required by the corporation through the promulgation of
+10 administrative regulations. Fees for all licenses issued under KRS 230.310 shall be
+11 prescribed by and paid to the corporation;
+12 (10) The corporation shall establish by administrative regulation minimum fees for
+13 jockeys to be effective in the absence of a contract between an employing owner or
+14 trainer and a jockey. The minimum fees shall be no less than those of July 1, 1985;
+15 (11) The corporation may refuse to issue or renew a license, revoke or suspend a license,
+16 impose probationary conditions on a license, issue a written reprimand or
+17 admonishment, impose fines or penalties, deny purse money, require the forfeiture
+18 of purse money, or any combination thereof with regard to a licensee or other
+19 person participating in Kentucky horse racing for violation of any federal or state
+20 statute, regulation, or steward's or corporation's directive, ruling, or order to
+21 preserve the integrity of Kentucky horse racing or to protect the racing public. The
+22 corporation shall, by administrative regulation, establish the criteria for taking the
+23 actions described in this subsection;
+24 (12) The corporation may issue subpoenas for the attendance of witnesses before it and
+25 for the production of documents, records, papers, books, supplies, devices,
+26 equipment, and all other instrumentalities related to live horse racing, pari-mutuel
+27 wagering, sports wagering, fantasy contests, breed integrity and development, and
+Page 30 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1220
+1 on and after July 1, 2025, charitable gaming, within the Commonwealth. The
+2 corporation may administer oaths to witnesses and require witnesses to testify under
+3 oath whenever, in the judgment of the corporation, it is necessary to do so for the
+4 effectual discharge of its duties;
+5 (13) The corporation shall have authority to compel any racing association licensed
+6 under this chapter to file with the corporation at the end of its fiscal year, a balance
+7 sheet, showing assets and liabilities, and an earnings statement, together with a list
+8 of its stockholders or other persons holding a beneficial interest in the association;
+9 (14) The corporation shall promulgate administrative regulations establishing safety
+10 standards for jockeys, which shall include the use of rib protection equipment. Rib
+11 protection equipment shall not be included in a jockey's weight;
+12 (15) (a) The corporation shall promulgate administrative regulations establishing a
+13 self-exclusion list for individuals who self-identify as being problem or
+14 compulsive gamblers.
+15 (b) Self-exclusion information collected by each racing association shall be
+16 forwarded to the corporation, and the information from the racing associations
+17 shall be compiled into a comprehensive list that shall be provided to all racing
+18 associations.
+19 (c) Pursuant to KRS 61.878(1)(a), information collected under this subsection
+20 shall be excluded from the application of KRS 61.870 to 61.884;
+21 (16) (a) The corporation shall promulgate administrative regulations to establish
+22 standards for the conduct of sports wagering, including standards for
+23 receiving and paying out wagers, offering sports wagering through a website
+24 or mobile application, maintaining and auditing books and financial records,
+25 securely maintaining records of bets and wagers, integrity requirements for
+26 sports wagering and related data, suitability requirements for providers of
+27 associated equipment, geofence standards for wager placement, designated
+Page 31 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1220
+1 areas for sports wagering, surveillance and monitoring systems, and other
+2 reasonable technical criteria related to conducting sports wagering.
+3 (b) The corporation shall promulgate administrative regulations related to age
+4 requirements for placing sports wagers, availability of information related to
+5 sports wagers, and licensing requirements, including temporary
+6 authorizations, for service providers, vendors, and suppliers; and
+7 (17) (a) On and after July 1, 2025, the corporation is vested with jurisdiction and
+8 supervision over all charitable gaming and shall promulgate administrative
+9 regulations to establish standards for the conduct of charitable gaming
+10 consistent with the guidelines established in this chapter and KRS Chapter
+11 238. The corporation may eject or exclude therefrom or any part thereof, any
+12 person, licensed or unlicensed, whose conduct or reputation is such that the
+13 person's presence at a charitable gaming facility may, in the opinion of the
+14 corporation, negatively reflect on the honesty and integrity of charitable
+15 gaming, or interfere with the orderly conduct of charitable gaming at a
+16 charitable gaming facility, but no persons shall be excluded or ejected from a
+17 charitable gaming facility solely on the ground of race, color, creed, national
+18 origin, ancestry, or sex.
+19 (b) The administrative regulations of the Kentucky Horse Racing Commission
+20 that are in effect on July 1, 2024, shall remain in effect as the initial
+21 administrative regulations of the corporation until the corporation amends or
+22 repeals the administrative regulations pursuant to KRS Chapter 13A, except
+23 as provided by KRS 13A.3102, 13A.3104, and 13A.330.
+24 (c) The administrative regulations of the Department of Charitable Gaming that
+25 are in effect on July 1, 2025, shall remain in effect as the initial administrative
+26 regulations of the corporation until the corporation amends or repeals the
+27 administrative regulations pursuant to KRS Chapter 13A, except as provided
+Page 32 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1220
+1 by KRS 13A.3102, 13A.3104, and 13A.330.
+2 Section 16. KRS 243.500 (Effective July 1, 2025) is amended to read as
+3 follows:
+4 Any license may be revoked or suspended for the following causes:
+5 (1) Conviction of the licensee or the licensee's agent, servant, or employee for selling
+6 any illegal alcoholic beverages on the licensed premises.
+7 (2) Making any false, material statements in an application or renewal application for a
+8 license or supplemental license.
+9 (3) Conviction of the licensee or any of the licensee's agents, servants, or employees of:
+10 (a) Two (2) violations of the terms and provisions of KRS Chapters 241 to 244,
+11 or any act regulating the manufacture, sale, and transportation of alcoholic
+12 beverages within two (2) consecutive years;
+13 (b) Two (2) misdemeanors directly or indirectly attributable to the use of
+14 alcoholic beverages within two (2) consecutive years; or
+15 (c) Any felony.
+16 (4) Failure or default of a licensee to pay an excise tax or any part of the tax or any
+17 penalties imposed by or under the provisions of any statutes, ordinances, or Acts of
+18 Congress relative to taxation, or for a violation of any related administrative
+19 regulations promulgated by the Department of Revenue.
+20 (5) Revocation of any license or permit provided in KRS 243.060, 243.070, 243.600,
+21 and 243.610, or granted under any Act of Congress relative to the regulation of the
+22 manufacture, sale, and transportation of alcoholic beverages.
+23 (6) Setting up, conducting, operating, or keeping, on the licensed premises, any
+24 gambling game, device, machine, contrivance, lottery, gift enterprise, handbook, or
+25 facility for betting or transmitting bets on horse races; or permitting to be set up,
+26 conducted, operated, kept, or engaged in, on the licensed premises, any gambling
+27 game, device, machine, contrivance, lottery, gift enterprise, handbook, or facility.
+Page 33 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1220
+1 This subsection shall not apply to:
+2 (a) The sale of lottery tickets sold under the provisions of KRS Chapter 154A;
+3 (b) The operation of a pari-mutuel system for betting, or the operation of sports
+4 wagering, where authorized by law;
+5 (c) The conduct of charitable gaming by a charitable organization licensed or
+6 permitted under KRS Chapters 230 and 238;[ or]
+7 (d) Special temporary raffles of alcoholic beverages under KRS 243.036; or
+8 (e) The conduct of fantasy contests under KRS Chapter 230.
+9 (7) Conviction of the licensee, the licensee's agents, servants, or employees for:
+10 (a) The trafficking or possession upon the licensed premises of controlled or
+11 illegal substances described in KRS Chapter 218A, including synthetic drugs;
+12 (b) Knowingly permitting the trafficking or possession by patrons upon the
+13 licensed premises of controlled or illegal substances described in KRS
+14 Chapter 218A, including synthetic drugs; or
+15 (c) Knowingly receiving stolen property upon the licensed premises.
+16 (8) Failure to comply with the terms of a final order of the board.
+17 Section 17. KRS 525.090 is amended to read as follows:
+18 (1) A person is guilty of loitering when the person:
+19 (a) Loiters or remains in a public place for the purpose of gambling with cards,
+20 dice, or other gambling paraphernalia, except that the provisions of this
+21 section shall not apply if the person is participating in charitable gaming
+22 defined by KRS 238.505, or is engaged in sports wagering or fantasy contests
+23 licensed under KRS Chapter 230;
+24 (b) Loiters or remains in a public place for the purpose of unlawfully using a
+25 controlled substance;
+26 (c) Loiters or remains in or about a school, college, or university building or
+27 grounds, not having any reason or relationship involving custody of or
+Page 34 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1220
+1 responsibility for a pupil or student or any other specific legitimate reason for
+2 being there and not having written permission from anyone authorized to
+3 grant the same; or
+4 (d) Loiters or remains in any transportation facility, unless specifically authorized
+5 to do so, for the purpose of soliciting or engaging in any business, trade, or
+6 commercial transactions involving the sale of merchandise or services.
+7 (2) Loitering is a violation.
+8 Section 18. KRS 528.010 (Effective July 1, 2025) is amended to read as
+9 follows:
+10 The following definitions apply in this chapter unless the context otherwise requires:
+11 (1) (a) "Advancing gambling activity" means[-- A person "advances gambling
+12 activity" when, acting other than as a player, he or she engages in] conduct a
+13 person engages in other than as a player that materially aids any form of
+14 gambling activity not authorized under KRS Chapter 230.
+15 (b) "Advancing gambling activity" includes[ The conduct shall include,] but is
+16 not limited to[,] conduct directed toward the:
+17 1. Establishment of the particular game, contest, scheme, device, or
+18 activity involved;[ toward the ]
+19 2. Acquisition or maintenance of premises, paraphernalia, equipment, or
+20 apparatus therefor;[ toward the ]
+21 3. Solicitation or inducement of persons to participate therein;[ toward the]
+22 4. Actual conduct of the playing phases thereof; and[toward the ]
+23 5. Arrangement of any of its financial or recording phases or toward any
+24 other phase of its operation.
+25 (c) A person who gambles at a social game of chance on equal terms with other
+26 participants does not otherwise advance gambling activity by performing acts,
+27 without remuneration or fee, directed toward the arrangement or facilitation of
+Page 35 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1220
+1 the game, such as inviting persons to play, permitting the use of premises
+2 therefor and supplying equipment used therein;
+3 (2) "Bookmaking" means advancing gambling activity by unlawfully accepting bets
+4 upon the outcome of future contingent events from members of the public as a
+5 business not authorized under KRS Chapter 230;
+6 (3) "Charitable gaming" means games of chance conducted by charitable organizations
+7 licensed and regulated under the provisions of KRS Chapters 230 and 238;
+8 (4) (a) "Coin-operated amusement machine" means a lawful machine or device that
+9 requires the direct or indirect payment of consideration, including but not
+10 limited to the insertion of a coin, currency, ticket, token, or similar object, or
+11 the depositing of funds with the operator or owner of the device, and that
+12 contains no material element of chance and automatically, by or through some
+13 mechanical operation, affords music or amusement of some character with or
+14 without vending any merchandise, but in addition to any merchandise.
+15 (b) A coin-operated amusement machine shall not deliver or entitle the person
+16 playing or operating the game to receive cash, cash equivalents, gift cards, or
+17 vouchers, billets, tickets, tokens, electronic credits or any item that can be
+18 exchanged for cash, cash equivalents, gift cards, merchandise, or something of
+19 value, unless otherwise provided under this section.
+20 (c) A coin-operated amusement machine may entitle the person playing to a
+21 noncash, merchandise prize or a voucher, billet, ticket, token, or electronic
+22 credit redeemable only for a noncash, merchandise prize under the following
+23 rules:
+24 1. The wholesale value of a merchandise prize awarded as a result of the
+25 single play of a machine, either directly or as a result of redemption of a
+26 redeemable voucher, does not exceed twenty-five dollars ($25);
+27 2. Redeemable vouchers are not redeemable for any merchandise prize that
+Page 36 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1220
+1 has a wholesale value of more than twenty-five dollars ($25) times the
+2 fewest number of single plays necessary to accrue the redeemable
+3 vouchers required to obtain that prize; and
+4 3. Any redeemable vouchers or merchandise prizes are distributed at the
+5 site of the coin-operated amusement machine at the time of play.
+6 (d) The noncash merchandise prize shall not be:
+7 1. An alcoholic beverage;
+8 2. Eligible for purchase or repurchase; or
+9 3. Exchangeable for any cash, cash equivalents, or something of value
+10 whatsoever;
+11 (5) (a) "E-sports competition" means a league, competitive circuit, tournament, or
+12 similar competition in which:
+13 1. Two (2) or more participants or teams of participants compete directly
+14 against each other for entertainment and prizes in the same video game
+15 at the same time, typically for spectators;
+16 2. Results are determined solely on the basis of the skill of the players;
+17 3. The number of participants is fixed before the beginning of the
+18 competition;
+19 4. Any fee collected to participate in the competition shall be collected
+20 from all participants before the competition begins;
+21 5. At least one (1) participant shall receive something of value based on the
+22 results of the competition; and
+23 6. The value of any prize shall be predetermined before the competition
+24 begins.
+25 (b) E-sports shall not include traditional casino games which include but are not
+26 limited to poker, roulette, craps, or blackjack;
+27 (6) (a) "Gambling" means staking or risking something of value upon the outcome of
+Page 37 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1220
+1 a contest, game, gaming scheme, or gaming device which is based upon an
+2 element of chance, in accord with an agreement or understanding that
+3 someone will receive something of value in the event of a certain outcome.
+4 "Gambling" includes playing or offering for play any game, contest, or
+5 competition utilizing a gambling device.
+6 (b) "Gambling" does not include:
+7 1. A contest or game in which eligibility to participate is determined by
+8 chance and the ultimate winner is determined by skill;
+9 2. Charitable gaming which is licensed and regulated under the provisions
+10 of KRS Chapter 238;
+11 3. E-sports competitions;
+12 4. Skill-based contests;[ or]
+13 5. The use or operation of any devices or machines that are described in
+14 subsection (7)(b) of this section; or
+15 6. Fantasy contests regulated under KRS Chapter 230;
+16 (7) (a) "Gambling device" means:
+17 1. Any so-called slot machine or any other machine or mechanical device
+18 which when operated may deliver, as a result of the application of any
+19 element of chance, any money or property, or by the operation of which
+20 a person may become entitled to receive, as the result of the application
+21 of any element of chance, any money or property;
+22 2. Any mechanical or electronic device permanently located in a business
+23 establishment, including a private club, that is offered or made available
+24 to a person to play or participate in a simulated gambling program in
+25 return for direct or indirect consideration, including but not limited to
+26 consideration paid for internet access or computer time, or a
+27 sweepstakes entry, which when operated may deliver as a result of the
+Page 38 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1220
+1 application of any element of chance, regardless of whether the result is
+2 also partially or predominantly based on skill, any money or property, or
+3 by the operation of which a person may become entitled to receive, as
+4 the result of the application of any element of chance, regardless of
+5 whether the result is also partially or predominantly based on skill, any
+6 money or property;
+7 3. Any other machine or any mechanical, electronic, or other device,
+8 including but not limited to roulette wheels, gambling tables and similar
+9 devices, designed and manufactured primarily for use in connection with
+10 gambling and which when operated may deliver, as the result of the
+11 application of any element of chance, any money or property, or by the
+12 operation of which a person may become entitled to receive, as the
+13 result of the application of any element of chance, any money or
+14 property; or
+15 4. Any electronic, computerized, or mechanical contrivance, terminal,
+16 machine, or other device that:
+17 a. Requires the direct or indirect payment of consideration which
+18 may include and shall not be limited to the insertion of a coin,
+19 currency, ticket, token, or similar object, or by depositing funds
+20 with the operator or owner of the device, to operate, play, or
+21 activate a game; and
+22 b. Offers games the outcomes of which are determined by any
+23 element of skill of the player and may deliver or entitle the person
+24 playing or operating the device to receive cash, cash equivalents,
+25 or gift cards or vouchers, billets, tickets, tokens, or electronic
+26 credits to be exchanged for cash or to receive merchandise or
+27 something of value, whether the payoff is made automatically
+Page 39 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1220
+1 from the device or manually.
+2 (b) The following shall not be considered gambling devices within this definition:
+3 1. Devices dispensing or selling combination or French pools on licensed,
+4 regular racetracks during races on said tracks;
+5 2. Devices dispensing or selling combination or French pools on historical
+6 races at licensed, regular racetracks as lawfully authorized by the
+7 Kentucky Horse Racing and Gaming Corporation;
+8 3. Electro-mechanical pinball machines specially designed, constructed, set
+9 up, and kept to be played for amusement only. Any pinball machine
+10 shall be made to receive and react only to the deposit of coins during the
+11 course of a game. The ultimate and only award given directly or
+12 indirectly to any player for the attainment of a winning score or
+13 combination on any pinball machine shall be the right to play one (1) or
+14 more additional games immediately on the same device at no further
+15 cost. The maximum number of free games that can be won, registered,
+16 or accumulated at one (1) time in operation of any pinball machine shall
+17 not exceed thirty (30) free games. Any pinball machine shall be made to
+18 discharge accumulated free games only by reactivating the playing
+19 mechanism once for each game released. Any pinball machine shall be
+20 made and kept with no meter or system to preserve a record of free
+21 games played, awarded, or discharged. Nonetheless, a pinball machine
+22 shall be a gambling device if a person gives or promises to give money,
+23 tokens, merchandise, premiums, or property of any kind for scores,
+24 combinations, or free games obtained in playing the pinball machine in
+25 which the person has an interest as owner, operator, keeper, or
+26 otherwise;
+27 4. Devices used in the conduct of charitable gaming;
+Page 40 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1220
+1 5. Coin-operated amusement machines;
+2 6. Devices used for wagering exempted from the application of this chapter
+3 pursuant to KRS 436.480;
+4 7. Devices used in e-sports competitions; or
+5 8. Devices used in skill-based contests, provided such devices do not meet
+6 the definition of gambling devices in paragraph (a) of this subsection;
+7 (8) "Lottery and gift enterprise" means:
+8 (a) A gambling scheme in which:
+9 1. The players pay or agree to pay something of value for chances,
+10 represented and differentiated by numbers or by combinations of
+11 numbers or by some other media, one (1) or more of which are to be
+12 designated the winning ones;
+13 2. The ultimate winner is to be determined by a drawing or by some other
+14 method based upon the element of chance; and
+15 3. The holders of the winning chances are to receive something of value;
+16 and
+17 (b) A gift enterprise or referral sales plan which meets the elements of a lottery
+18 listed in paragraph (a) of this subsection is to be considered a lottery under
+19 this chapter;
+20 (9) "Mutuel" or "the numbers games" means a form of lottery in which the winning
+21 chances or plays are not determined upon the basis of a drawing or other act on the
+22 part of persons conducting or connected with the scheme, but upon the basis of the
+23 outcome or outcomes of a future contingent event or events otherwise unrelated to
+24 the particular scheme;
+25 (10) "Player" means a person who engages in any form of gambling solely as a
+26 contestant or bettor, without receiving or becoming entitled to receive any profit
+27 therefrom other than personal gambling winnings, and without otherwise rendering
+Page 41 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1220
+1 any material assistance to the establishment, conduct, or operation of the particular
+2 gambling activity. A person who engages in "bookmaking" as defined in subsection
+3 (2) of this section is not a "player." The status of a "player" shall be a defense to any
+4 prosecution under this chapter;
+5 (11) "Profiting from gambling activity" means[-- A person "profits from gambling
+6 activity"] when, other than as a player, a person[he or she] accepts or receives or
+7 agrees to accept or receive money or other property pursuant to an agreement or
+8 understanding with any other person whereby the person[he or she] participates or
+9 is to participate in the proceeds of gambling activity not authorized under KRS
+10 Chapter 230;
+11 (12) "Simulated gambling program" means any method intended to be used by a person
+12 playing, participating, or interacting with an electronic device that may, through the
+13 application of any element of chance, either deliver money or property or an
+14 entitlement to receive money or property;
+15 (13) "Skill" means the knowledge, dexterity, or any other ability or expertise of a natural
+16 person;
+17 (14) "Skill-based contest" means a live, in-person competitive event among two (2) or
+18 more individuals or teams of individuals in which the ultimate winner is determined
+19 by skill and the competitive event does not utilize a gambling device; and
+20 (15) (a) "Something of value" means any money or property, any token, object, or
+21 article exchangeable for money or property, or any form of credit or promise
+22 directly or indirectly contemplating transfer of money or property or of any
+23 interest therein, or involving extension of a service, entertainment, or a
+24 privilege of playing at a game or scheme without charge.
+25 (b) "Something of value" does not include the award of a free, extended, or
+26 continuous play which is awarded as a prize for playing a game or scheme for
+27 a charge.
+Page 42 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1220
+1 Section 19. KRS 528.070 is amended to read as follows:
+2 (1) A person is guilty of permitting gambling when, having possession or control of
+3 premises which he or she knows are being used to advance gambling activity that is
+4 not licensed under KRS Chapter 230, he or she fails to halt or abate or attempt to
+5 halt or abate such use within a reasonable period of time.
+6 (2) Permitting gambling is a Class B misdemeanor.
+7 Section 20. KRS 68.182 is amended to read as follows:
+8 (1) Occupational license fees levied under KRS 67.083, 68.180, and 68.197 by the
+9 fiscal court of a county, consolidated local government, urban-county government,
+10 charter county government, or unified local government may apply to racetrack
+11 extensions.
+12 (2) As used in this section:
+13 (a) "Historical horse race" has the same meaning as in KRS 138.511; and
+14 (b) 1. "Racetrack extension" means any facility:
+15 a. Owned, leased, or purchased by an association licensed by the
+16 Kentucky Horse Racing and Gaming Corporation under KRS
+17 230.300;
+18 b. That meets the definition of "track" under KRS
+19 230.210(41)[(35)](c); and
+20 c. Where pari-mutuel wagering on historical horse races is conducted
+21 on terminals approved by the Kentucky Horse Racing and Gaming
+22 Corporation.
+23 2. "Racetrack extension" does not include a facility or real property used
+24 for training horses or at which live horse races are run for stakes, purses,
+25 or prizes under the jurisdiction of the Kentucky Horse Racing and
+26 Gaming Corporation.
+27 Section 21. KRS 91.202 is amended to read as follows:
+Page 43 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1220
+1 (1) Occupational license fees levied under KRS 91.200 by the legislative body of a city
+2 of the first class may apply to racetrack extensions.
+3 (2) As used in this section:
+4 (a) "Historical horse race" has the same meaning as in KRS 138.511; and
+5 (b) 1. "Racetrack extension" means any facility:
+6 a. Owned, leased, or purchased by an association licensed by the
+7 Kentucky Horse Racing and Gaming Corporation under KRS
+8 230.300;
+9 b. That meets the definition of "track" under KRS
+10 230.210(41)[(35)](c); and
+11 c. Where pari-mutuel wagering on historical horse races is conducted
+12 on terminals approved by the Kentucky Horse Racing and Gaming
+13 Corporation.
+14 2. "Racetrack extension" does not include a facility or real property used
+15 for training horses or at which live horse races are run for stakes, purses,
+16 or prizes under the jurisdiction of the Kentucky Horse Racing and
+17 Gaming Corporation.
+18 Section 22. KRS 92.282 is amended to read as follows:
+19 (1) Occupational license fees levied under KRS 92.281 by the legislative body of a city
+20 may apply to racetrack extensions.
+21 (2) As used in this section:
+22 (a) "Historical horse race" has the same meaning as in KRS 138.511; and
+23 (b) 1. "Racetrack extension" means any facility:
+24 a. Owned, leased, or purchased by an association licensed by the
+25 Kentucky Horse Racing and Gaming Corporation under KRS
+26 230.300;
+27 b. That meets the definition of "track" under KRS
+Page 44 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 1220
+1 230.210(41)[(35)](c); and
+2 c. Where pari-mutuel wagering on historical horse races is conducted
+3 on terminals approved by the Kentucky Horse Racing and Gaming
+4 Corporation.
+5 2. "Racetrack extension" does not include a facility or real property used
+6 for training horses or at which live horse races are run for stakes, purses,
+7 or prizes under the jurisdiction of the Kentucky Horse Racing and
+8 Gaming Corporation.
+9 Section 23. This Act takes effect July 1, 2025.
+10 Section 24. This Act may be cited as the Fantasy Sports Consumer Protection
+11 Act.
+Page 45 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+[DELETED:   2  J A B S A ( " d a w m a f o p w i w c a m p a p w t t a t i p ( " t a s ( " ( S ( I p a a c o p i t s e f r d o i c f t u o t i a s ( " e M ( " m a h t i r w t A H R o D ( " m a p l b t K H R a G C u K 2 a e i t c o a r ( "]
+[DELETED:   2  J o ( R ( H ( " 2 ( " ( " f a ( ( " c m a f o s g o c t m 1 T m 2 A p 3 T p a o o m a f e o r 4 A a D b B a i a i b n l t a f s c N i O t s p s o a p o p t i S]
+[DELETED:   2  J o 5 T ( " 1 P 2 O f ( " c d n i a f c w a e f ( ( " c o o m a p w o o a p ( " a p o m d s m a a r o t p t ( ( " c p o " m a p w p ( " t 1 S 2 A 3 A 4 A ( " m a v g b d b G P ( " r o " r m t a p r o t s ( "]
+[DELETED:   2  J r T ( " t m t t c r a o i r f i w o i t c o i w m t K t f ( " f t ( " f ( " q h p h A a A p f m p p h A a A h r T p p s b a ( " ( A ( A a i ( A r w a f a a t p i a d a ( " s 2]
+[DELETED:   2  J ( " p m a t o s f l b t c ( " h m a h r w t A P H A ( " w " s o w o " w t w m t P m e o o p a w p s i a a a l a d r a a b t c a p t ( " m a i s p p a f ( " C ( " m a o t f i a w a p t a l l c o c t i l h ( T ( A p o a p a a p m o a l l ( A ( T]
+[DELETED:   2  J e w h p o f r w t o ( A o c ( A o e a g p r o l o h o ( " ( A ( A e s t ( " H ( " p t h a t c i w t t i l d t i p c y ( " s ( "]
+[DELETED:   2  J r ( " i a s e ( " o t ( " w m t w c u t c o s e o p o s e o o t i p s o a i a s e o c o s e i c c ( " ( M a m e o c c t d c ( I a p c m d o o d u i c w ( " w s p o " p m a p a a p t s a a l f f s w s f ( " a]
+[DELETED:   2  J d t ( " i r b ( " a ( F i t C L H R S a P W f ( R p o a a i t a r o r a t ( O 1 O r o t a r b n c t r p 2 N ( m w a i w t p a n f w t p g S R ( T]
+[DELETED:   2  J K C 1 t g t o o f c a e S 2 t 1 o t A b t c s n p a ( S ( D ( T ( R ( P a r n l t o h e ( ( E a c a f p t a a o p i ( R e ( E t ( T c a f t p o a l e a p i S R F ( I ( E i ( D i]
+[DELETED:   2  J ( C ( C ( E p ( U ( F ( M ( C ( M ( A a t ( A c t c a o r t a s e o s ( C i a i u o f d f i a e t c o l f d f i a m S R ( E a o p i t s a p s n o f c a ( A ( S a a t t c i t f t c r ( S e]
+[DELETED:   2  J 1 F b t a d o k e o i o 2 A b ( B d a l i p c o a d o a e ( T o ( T h s t a n c r c i K o a o r t a r c i t f c o a o p s t r o p r c a a h b ( T i ( T ( T ( T ( T o S S n o i a f t i ( T n a a o e p t h a f p ( o m ( T c a]
+[DELETED:   2  J i ( D o t 1 A o 2 A f s w 3 E a f o b g a l r o c i b a l a i K o a o j 4 F b c l a ( I o ( T c m p a r t e a o c m ( O c t n b i t d i t a m t q f l O c o t i t]
+[DELETED:   2  J c l i d a s s f t g f d s b f t t a t w a o d r o b t c ( ( A v 1 A 2 A 3 A c i t o f t i o w b a f o C ( T o p S R ( A p o i s f l o r a f c o a ( C w a c p a t c a i a ( A a c ( S r s ( A r o t t l u t ( m f t]
+[DELETED:   2  J i S R ( N c A ( A ( ( A f c o m o a a e f a p p ( A p e ( ( S 2 t 1 o t A s b c l t p t g ( T c ( A l t S R ( T a a ( T a c]
+[DELETED:   2  J ( I c r ( T K l S R ( A ( " c b a f c o f a p e a f b ( " f c c f p l i t C d c ( ( T C A s b e p ( o t o a g f c ( ( T t C f a l t ( m p t t e d f c o s r a s l f o t p]
+[DELETED:   2  J ( f ( A C t p l i t C u t o a h b t c w n ( d a t c p a ( ( L T p f r w a r f b o p ( o t a g f c r f t p y o f t ( A f c o m r i w t t c a e t l w r a e t t f t o s r ( A f c o a f a l o r o a l m o ( H b ( R t f c o t s t o o a f S R ( T k a t f c a f T f s c o]
+[DELETED:   2  J m t ( T f s b a b t K H R a G C ( ( A 1 F a e r t o a w t p 2 T K p g a a e i K 2 ( T f ( N y S R ( E f c o s i a s r o a w g p o t o p w c o m a a o a m m a a ( ( A v a ( T f t ( I a s p p i a f c t f c]
+[DELETED:   2  J o s r t t c a a m t n o t s e p ( A t s t c ( A f c o s d a m a p t m c t S R ( A ( " g f c r h t s m a i S ( " ( " A ( " ( B r c c ( T a ( T f c o p s b a b a r]
+[DELETED:   2  J p c m a w a a o i t c s p S 1   K 2 ( J 1 2 i a t r a f ( ( I i t p o t C o K i f o i r i t C a t p a t c t p h s t f a t e t h b i w t C ( F i i t p a i o t C t f a t e t i d t p a i o t C t a r n l ( F t t n c ( F c e w a G C w h d a l a s h]
+[DELETED:   2  J ( F c g c b c o i a i m i T i o c a K C 2 i t p t c g b c a o u e a t p t d o f f l c p a t c g a ( ( I t p h s a w t v i t c f c o h r i t C w p p t p l h r a w t i c i t C t C t r a m h r a h r m i a d a c o a w t u a m t a a w a t f o c h a i o h r ( I i t c e j o s w a f c i t C w p p t p a r p c u w a s w]
+[DELETED:   2  J ( I c e u a g m i t o o t c r o t h a i o h r o i w e t o c ( I i t c e j o c g i t C p ( I c e f c g f o a p t a p l w p r o S ( T C w 1 2 c g i t C e o s l e c a p s o t C o K w s c d a p]
+[DELETED:   2  J b m i s a m e t p o C t b f i a a t e t b p r a g e a w i o t G A t t K H R a G C p ( ( T A o P A s p a a a o t c R ( T L r s b d J 1 2 T c s f a a r T 1 T 2 A ( T t R ( T b ( L ( P ( S ( F]
+[DELETED:   2  J ( C ( B ( R ( ( T c s e a m a g o f t t o ( T a ( A f ( E a o p t c s b r f t f ( D a i p d t e t s a w ( D p a p t w a f i o a r r o s m a m p a i ( R t ( D a i p t s t t b K h i a t s u w t g o s i t e i o t h i o K e i r f t p o t e ( D t ( D]
+[DELETED:   2  J a ( D e ( D b d t a t c i d p p o q a a p r t s g b e ( D p a p t w a f i o a r r t e t h i i c g ( D a ( E e ( ( T 1 C i p a o 2 P a r e i p p I t c e t p a r p i a w K C 4 t c m r]
+[DELETED:   2  J ( M r c f s g b t c T c p p o a r s b d t p f t p o e s a c i i ( I i b a n p t c m d i o b a p o m u t s o t F a A C o a c t T p o t c C ( C w ( A ( A o l t s ( T s o l ( M o t c t i b o d s b o t t p K 6 a o t m a t s c o]
+[DELETED:   2  J p o s i a d i s ( a ( ( T m b a b t G A o m a m b r f a s f e i p i w l o ( A 2 a a e ( O ( T K H R a G C s a a r ( T K H R C s b a a a e c ( A H R C t t K H R a G C ( O ( T G C s a a r o t D o C ( T]
+[DELETED:   2  J o a ( A p e a f s b t f t D C ( N a o l t t c n i t c s a ( R ( R ( E e S ( T p o t K H R a G C s e o w t c E o s h s d a l ( P ( L ( B ( S ( F ( L ( C ( E m ( E i]
+[DELETED:   2  J a a S T p p f ( T c i v w j a s o a l h r d g a a a p o a g a m e o e t r i s t t p p o a g m i t o r w p o ( T c i v w j o a p o e t o a u t c m i a l f n t e t t d ( a T c s b a r p i a w K C 1 e c a p f t l o a d a w p t i]
+[DELETED:   2  J ( A ( R 1 T 2 T ( T c i v w j o a t c t p A t c r o w a t c i l i t C o o f a l o l o o t C a t c m i a l f o a t c T c s b a r p i a w K C 1 e c a p f t l ( T c i v w j o a m w d o v o a e d m t s o m d w i p b o d t a l o o p p i K h r b m o t i m d ( T i ( T t o o a w t a A a s b r t r ( T f o]
+[DELETED:   2  J h t ( T c s h f a t p n a r a m s b c i t s a t f a r t m a m ( A f l s b m i t f a m a c i a r b t c t t p o a p ( T c s e b a r m f f j t ( T i p c o a l i a w r o a o p m o a c t w r t a l o o p s r o s o c d r o o t p c a ( T f t p o d r p b s d e w]
+[DELETED:   2  J o a a J 1 2 c g w t C T c o e ( T c s h a t c a r a l u s o ( T c s p a r e s s p ( ( T c s p a r e a s l f i w s a b p o c ( S i c b e r a s b f s a ( P t K 6 i c u t s s ( ( T c s p a r t e s f t c o s w i s f r o s s w a r d s r f p o a e g s f w p d]
+[DELETED:   2  J a f s w s a m s a o r ( T c s p a r r t a r s w a l r i t a ( ( O a a J 1 2 t c i v w j a s o a c g a s p a r t e s f t c o c g c w t g e i t c a K C 2 p p c n r o t h a i o c g o i w t o c o c g a a c c o ( T a r o t K H R C t a i e o J 1 2 s r i e a t i a r a ( T a r o t c u t c a o r t a]
+[DELETED:   2  J b S 1   K 2 ( J 1 2 i a t r a f A ( C a ( M l ( C ( T o a r t m s a t o b ( T ( m d o i a t t u o a ( A ( F p C r t t o f a v o a r a r ( R a m ( S u c o o k o t l p a g f c g]
+[DELETED:   2  J T ( T ( T w ( T c o c g b a c o l o p ( S ( T ( C ( T t o p u t l p o c o i ( K p t t o p b p u t l p o c o i s d i K C ( K ( F S ( A ( L d o o g p e t t p o t s s n a i t p i p i c g d l ( L o i a p p f t p o u a c ( L o r i o a a s c o u b o g n h a r o r i c o o]
+[DELETED:   2  J r b t a n h w p f a a t g ( L t c ( L S 1   K 5 ( J 1 2 i a t r a f T ( ( " g a m A p " g a p g ( " n 1 E o t p g c s d o a 2 A o m o p p e o a 3 S 4 A 5 A o ( A p w]
+[DELETED:   2  J t g s a i p t p p u o t ( " m a g a b u a b u t o o f c e f m o t p a a b ( " l ( ( " r t d o i p o c i b n l t d o w t o o d a t c m w ( A a d p v b t t e c o i t c b e v ( A c a m m e t p p t a n c r 1 T s r 2 R]
+[DELETED:   2  J h f n o s p n t a t r v 3 A s ( T 1 A 2 E 3 E f a c c e o s o v w ( ( " c m a l c c t o s 1 T a a 2 R 3 T n o p i f b t b o t c 4 A f c t p i t c s b c f 5 A r 6 T b ( E l ( ( "]
+[DELETED:   2  J a e o c i a w a a o u t s " i p o o f p a g c o c ( " 1 A c 2 C o 3 E 4 S 5 T s 6 F ( ( " 1 A w e a o 2 A e t r c p f i a o c t o a s]
+[DELETED:   2  J a a b t r o t a o a e o c r o w m 3 A o m o a m e o o d i d g a w w o m d a t r o t a o o w a p m b e t r a t r o t a o a e o c a m o p 4 A e c o m c t m a R t d o i p o c w m i a s n b l t t i o a c c w t o o o o t d t o p o a b O g t o o w a d b a e p o g c o v b t t o e c t b e f c o t r m o s o v w t p i m a]
+[DELETED:   2  J f ( T 1 D r 2 D r a l r r a l a b t K 3 E u a k t b p f a o A p m s c o a g T u a o a g d o i t a p f t a o a w s o c m a g i o t s d a n f c o n d a f g o b r t p m m a k w n m o s t p a r o f g s t m p o p o a k f s c w t p h a i a o o k o o 4 D]
+[DELETED:   2  J 5 C 6 D p 7 D 8 D t ( " ( A 1 T p p o a t p s o v f c r a d b n o b c o n d 2 T m 3 T a ( A l t ( " c p o t ( " m a p w e i a f o g s a a c t]
+[DELETED:   2  J a g ( p ( " f g a m A p " f g a a u i n C ( " p a o a e o c e d m o p o a e ( " p ( " m b ( ( " o m a m o a t o o a d i t o i e o a s e o a p ( " o v d n i t a o a f e o c a]
+[DELETED:   2  J S ( A p n h ( P S ( O l f l u K 6 6 a 6 b t f c c g o u l g m a t r e ( A ( " ( 1 " a O l o p b a a l b t K H R a G C u K 2 b T m t d o " u K 2 c W o C 2 " f o p u t j o t K H R a G S]
+[DELETED:   2  J ( O o ( A ( " ( 1 " a O l o p b a a l b t K H R a G C u K 2 b T m t d o " u K 2 c W o C 2 " f o p u t j o t K H R a G S ( O m ( A ( " ( 1 " a O l o p b a a l b t K H R a G C u K 2 b T m t d o " u K]
+[DELETED:   2  J 2 c W o C 2 " f o p u t j o t K H R a G S S A]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS BR 1220
+1 AN ACT relating to fantasy contests.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 230.210 is amended to read as follows:
+4 As used in this chapter, unless the context requires otherwise:
+5 (1) "Advance deposit account wagering" means a form of pari-mutuel wagering in
+6 which an individual may establish an account with a person or entity licensed by the
+7 corporation, and may place a pari-mutuel wager through that account that is
+8 permitted by law;
+9 (2) "Advance deposit account wagering licensee" means a person or entity licensed by
+10 the corporation to conduct advance deposit account wagering and accept deposits
+11 and wagers, issue a receipt or other confirmation to the account holder evidencing
+12 such deposits and wagers, and transfer credits and debits to and from accounts;
+13 (3) "Amateur youth sporting event" means any sporting event in which an individual:
+14 (a) Shall be less than eighteen (18) years of age to participate; and
+15 (b) Is prohibited, as a condition of participating in the sporting event, from
+16 receiving direct or indirect compensation for the use of the individual's
+17 athletic skill in any manner with respect to the sport in which the particular
+18 sporting event is conducted;
+19 (4) "Appaloosa race" or "Appaloosa racing" means that form of horse racing in which
+20 each horse participating in the race is registered with the Appaloosa Horse Club of
+21 Moscow, Idaho, and is mounted by a jockey;
+22 (5) "Arabian" means a horse that is registered with the Arabian Horse Registry of
+23 Denver, Colorado;
+24 (6) "Association" means any person licensed by the Kentucky Horse Racing and
+25 Gaming Corporation under KRS 230.300 and engaged in the conduct of a
+26 recognized horse race meeting;
+27 (7) "Athlete" means a professional or amateur competitor in a sporting event or an
+Page 1 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1220
+1 organized video game competition that is:
+2 (a) Regulated by a sports governing body; and
+3 (b) Held between players who play individually or as teams;
+4 (8) "Charitable gaming" means gaming licensed by the corporation on and after July 1,
+5 2025, as authorized under this chapter and KRS Chapter 238;
+6 (9)[(8)] "Corporation" means the Kentucky Horse Racing and Gaming Corporation;
+7 (10) "Entry fee" means the cash or cash equivalent that is required to be paid by a
+8 fantasy contest participant to a fantasy contest operator in order to participate in
+9 a fantasy contest;
+10 (11) (a) "Fantasy contest" means any fantasy or simulated game or contest that
+11 meets the following conditions:
+12 1. The values of all prizes and awards offered to winning participants are
+13 made known to the participants in advance of the contest;
+14 2. All winning outcomes reflect the relative knowledge and skill of the
+15 participant;
+16 3. The participant assembles, owns, or manages a fictional entry or
+17 roster of actual athletes;
+18 4. A winning outcome is:
+19 a. Determined solely by clearly established scoring criteria;
+20 b. Based on one (1) or more statistical results of the performance of
+21 an individual athlete, including but not limited to a fantasy
+22 score; and
+23 c. Not based:
+24 i. On the score, point spread, or any performance or
+25 performances of any single actual team or combination of
+26 teams; or
+27 ii. Solely on any single performance of an individual athlete
+Page 2 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1220
+1 or participant in any single actual event; and
+2 5. The game or contest does not violate any provision of federal law.
+3 (b) "Fantasy contest" includes both contests wherein:
+4 1. Participants compete against each other; and
+5 2. Only a single participant competes against a target score set by the
+6 fantasy contest operator.
+7 (c) "Fantasy contest" does not include any fantasy contest without an entry
+8 fee;
+9 (12) (a) "Fantasy contest operator" or "operator" means a person who offers or
+10 administers one (1) or more fantasy contests with an entry fee to the general
+11 public, and awards a prize of value.
+12 (b) "Fantasy contest operator" does not include an internet service provider or
+13 a provider of mobile data services merely as a result of that provider's
+14 transporting of general traffic that may include a fantasy contest;
+15 (13) (a) "Fantasy contest participant" or "participant" means a person who
+16 participates in a fantasy contest offered by a fantasy contest operator.
+17 (b) "Fantasy contest participant" does not include a person who only performs
+18 the following actions:
+19 1. Setting house rules for a contest;
+20 2. Assigning a salary or target score to any eligible athlete or player;
+21 3. Accepting an entry fee from a fantasy contest participant; or
+22 4. Awarding or disbursing prizes;
+23 (14)[(9)] "Geofence" means a virtual geographic boundary defined by Global
+24 Positioning System (GPS) or Radio Frequency Identification (RFID) technology;
+25 (15)[(10)] "Harness race" or "harness racing" means trotting and pacing races of the
+26 standardbred horses;
+27 (16)[(11)] "Horse race meeting" means horse racing run at an association licensed and
+Page 3 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1220
+1 regulated by the Kentucky Horse Racing and Gaming Corporation, and may include
+2 Thoroughbred, harness, Appaloosa, Arabian, paint, and quarter horse racing;
+3 (17)[(12)] "Host track" means the track conducting racing and offering its racing for
+4 intertrack wagering, or, in the case of interstate wagering, means the Kentucky
+5 track conducting racing and offering simulcasts of races conducted in other states or
+6 foreign countries;
+7 (18)[(13)] "Interstate wagering" means pari-mutuel wagering on simulcast horse races
+8 from a track located in another state or foreign country by patrons at a receiving
+9 track or simulcast facility;
+10 (19)[(14)] "Intertrack wagering" means pari-mutuel wagering on simulcast horse races
+11 from a host track by patrons at a receiving track;
+12 (20)[(15)] "Kentucky quarter horse, paint horse, Appaloosa, and Arabian purse fund"
+13 means a purse fund established to receive funds as specified in KRS 230.3771 for
+14 purse programs established in KRS 230.446 to supplement purses for quarter horse,
+15 paint horse, Appaloosa, and Arabian horse races. The purse program shall be
+16 administered by the Kentucky Horse Racing and Gaming Corporation;
+17 (21)[(16)] "Kentucky resident" means:
+18 (a) An individual domiciled within this state;
+19 (b) An individual who maintains a place of abode in this state and spends, in the
+20 aggregate, more than one hundred eighty-three (183) days of the calendar year
+21 in this state; or
+22 (c) An individual who lists a Kentucky address as his or her principal place of
+23 residence when applying for an account to participate in advance deposit
+24 account wagering;
+25 (22)[(17)] "Licensed facility for sports wagering" means the designated areas to conduct
+26 sports wagering for a track licensed to conduct sports wagering pursuant to KRS
+27 230.811;
+Page 4 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1220
+1 (23)[(18)] "Licensed premises" means a track or simulcast facility licensed by the
+2 corporation under this chapter;
+3 (24)[(19)] "Paint horse" means a horse registered with the American Paint Horse
+4 Association of Fort Worth, Texas;
+5 (25)[(20)] "Pari-mutuel wagering," "pari-mutuel system of wagering," or "mutuel
+6 wagering" each means any method of wagering previously or hereafter approved by
+7 the corporation in which one (1) or more patrons wager on a horse race or races,
+8 whether live, simulcast, or previously run. Wagers shall be placed in one (1) or
+9 more wagering pools, and wagers on different races or sets of races may be pooled
+10 together. Patrons may establish odds or payouts, and winning patrons share in
+11 amounts wagered including any carryover amounts, plus any amounts provided by
+12 an association less any deductions required, as approved by the corporation and
+13 permitted by law. Pools may be paid out incrementally over time as approved by
+14 the corporation;
+15 (26)[(21)] "Person" means an individual, sole proprietorship, partnership, association,
+16 fiduciary, corporation, limited liability company, or any other business entity;
+17 (27)[(22)] "President" means the president of the Kentucky Horse Racing and Gaming
+18 Corporation, who shall serve as chief executive officer of the corporation;
+19 (28)[(23)] "Principal" means any of the following individuals associated with a
+20 partnership, trust, association, limited liability company, or corporation that is
+21 licensed to conduct a horse race meeting or an applicant for a license to conduct a
+22 horse race meeting:
+23 (a) The chairman and all members of the board of directors of a corporation;
+24 (b) All partners of a partnership and all participating members of a limited
+25 liability company;
+26 (c) All trustees and trust beneficiaries of an association;
+27 (d) The president or chief executive officer and all other officers, managers, and
+Page 5 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1220
+1 employees who have policymaking or fiduciary responsibility within the
+2 organization;
+3 (e) All stockholders or other individuals who own, hold, or control, either directly
+4 or indirectly, five percent (5%) or more of stock or financial interest in the
+5 collective organization; and
+6 (f) Any other employee, agent, guardian, personal representative, or lender or
+7 holder of indebtedness who has the power to exercise a significant influence
+8 over the applicant's or licensee's operation;
+9 (29) "Prohibited participant" means:
+10 (a) A person who has self-excluded under Section 10 of this Act; or
+11 (b) An athlete, coach, referee, trainer, or team staff when the fantasy contest
+12 entry includes athlete selections from a sporting event overseen by the same
+13 sports governing body which oversees the athlete, coach, referee, trainer, or
+14 team staff in question;
+15 (30)[(24)] "Quarter horse" means a horse that is registered with the American Quarter
+16 Horse Association of Amarillo, Texas;
+17 (31)[(25)] "Receiving track" means a track where simulcasts are displayed for wagering
+18 purposes. A track that submits an application for intertrack wagering shall meet all
+19 the regulatory criteria for granting an association license of the same breed as the
+20 host track, and shall have a heated and air-conditioned facility that meets all state
+21 and local life safety code requirements and seats a number of patrons at least equal
+22 to the average daily attendance for intertrack wagering on the requested breed in the
+23 county in which the track is located during the immediately preceding calendar
+24 year;
+25 (32)[(26)] "Simulcast facility" means any facility approved pursuant to KRS 230.380 to
+26 simulcast live racing and conduct pari-mutuel wagering on live racing;
+27 (33)[(27)] "Simulcasting" means the telecast of live audio and visual signals of horse
+Page 6 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1220
+1 races for the purpose of pari-mutuel wagering;
+2 (34)[(28)] "Sporting event" means an event at which two (2) or more persons participate
+3 in athletic contests, or an event that takes place in relation to athletic contests as
+4 approved by the corporation, but shall not include horse racing or amateur youth
+5 sports or athletic events in which the majority of participants are under the age of
+6 eighteen (18) years;
+7 (35)[(29)] "Sports governing body" means the organization, league, or association that
+8 oversees a sport, prescribes final rules, and enforces codes of conduct with respect
+9 to such sport and participants therein;
+10 (36)[(30)] "Sports wagering" means the wagering conducted under this chapter on
+11 sporting events or portions of sporting events, or on the individual performance
+12 statistics of athletes in a sporting event or combination of sporting events, in
+13 conformance with federal law and as authorized by the corporation pursuant to this
+14 chapter;
+15 (37)[(31)] "Sports wagering device":
+16 (a) Means a mechanical, electrical, or computerized contrivance, terminal,
+17 device, apparatus, software, piece of equipment, or supply approved by the
+18 corporation for conducting sports wagering under this chapter; and
+19 (b) Includes a personal computer, mobile device, or other device used in
+20 connection with sports wagering not conducted at a licensed facility for sports
+21 wagering;
+22 (38)[(32)] "Sports wagering service provider" or "service provider" means a person
+23 authorized to conduct or manage sports wagering through an agreement with a track
+24 and provide these services at a licensed facility for sports wagering, simulcast
+25 facility, or through a website or mobile interface approved by the corporation;
+26 (39)[(33)] "Telephone account wagering" means a form of pari-mutuel wagering where
+27 an individual may deposit money in an account at a track and may place a wager by
+Page 7 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1220
+1 direct telephone call or by communication through other electronic media owned by
+2 the holder of the account to the track;
+3 (40)[(34)] "Thoroughbred race" or "Thoroughbred racing" means a form of horse racing
+4 in which each horse participating in the race is a Thoroughbred, (i.e., meeting the
+5 requirements of and registered with The Jockey Club of New York) and is mounted
+6 by a jockey; and
+7 (41)[(35)] "Track" means any association duly licensed by the Kentucky Horse Racing
+8 and Gaming Corporation to conduct horse racing and includes:
+9 (a) For facilities in operation as of 2010, the location and physical plant described
+10 in the "Commonwealth of Kentucky Initial/Renewal Application for License
+11 to Conduct Live Horse Racing, Simulcasting, and Pari-Mutuel Wagering,"
+12 filed for racing to be conducted in 2010;
+13 (b) Real property of an association, if the association received or receives
+14 approval from the corporation after 2010 for a location at which live racing is
+15 to be conducted; or
+16 (c) One (1) facility or real property that is:
+17 1. Owned, leased, or purchased by an association within a sixty (60) mile
+18 radius of the association's racetrack but not contiguous to racetrack
+19 premises, upon corporation approval; and
+20 2. Not within a sixty (60) mile radius of another licensed track premise
+21 where live racing is conducted and not within a forty (40) mile radius of
+22 a simulcast facility, unless any affected track or simulcast facility agrees
+23 in writing to permit a noncontiguous facility within the protected
+24 geographic area.
+25 SECTION 2. A NEW SECTION OF KRS CHAPTER 230 IS CREATED TO
+26 READ AS FOLLOWS:
+27 (1) The corporation shall promulgate administrative regulations in accordance with
+Page 8 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1220
+1 KRS Chapter 13A to govern the operation of fantasy contests and enforce
+2 Sections 2 to 10 of this Act, but the corporation shall not promulgate
+3 administrative regulations limiting or regulating the:
+4 (a) Statistical makeup of a fantasy contest or contests; or
+5 (b) Digital platform of an operator.
+6 (2) The corporation shall:
+7 (a) Regulate the conduct of fantasy contest operators;
+8 (b) Promulgate administrative regulations no later than one hundred eighty
+9 (180) days after the effective date of this Act;
+10 (c) Enforce and collect all fees, penalties, taxes, and any other payments
+11 imposed under Sections 8 and 11 of this Act;
+12 (d) Require the use of geolocation technology to verify that a participant is not
+13 entering fantasy contests from a restricted jurisdiction; and
+14 (e) Exercise any other powers necessary to enforce the provisions of Sections 2
+15 to 10 of this Act.
+16 (3) The corporation and fantasy contest operators may cooperate with investigations
+17 conducted by law enforcement agencies, including but not limited to providing
+18 and facilitating the provision of account level entry and participation
+19 information.
+20 SECTION 3. A NEW SECTION OF KRS CHAPTER 230 IS CREATED TO
+21 READ AS FOLLOWS:
+22 Fantasy contest operators shall:
+23 (1) Implement procedures to prevent fraud, abuse, and money laundering;
+24 (2) Establish technical and operational measures to prevent underage participation
+25 in a fantasy contest;
+26 (3) Deploy identity verification procedures, which may require the use of a reputable
+27 independent third party that:
+Page 9 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1220
+1 (a) Can verify a person's personally identifiable information; and
+2 (b) Can detect potential prohibited participants;
+3 (4) Employ mechanisms on the operator's platform that are designed to detect and
+4 prevent:
+5 (a) Unauthorized accounts;
+6 (b) Fraud;
+7 (c) Money laundering; and
+8 (d) Collusion; and
+9 (5) Make all reasonable efforts to promptly notify the corporation of:
+10 (a) A confirmed breach of the relevant sport's governing body's internal rules
+11 and codes of conduct, if provided to the fantasy contest operator, pertaining
+12 to participation in real-money fantasy contests;
+13 (b) Any conduct that corrupts any outcome related to a sporting event or
+14 sporting events for purposes of financial gain, including match fixing; and
+15 (c) Confirmed illegal activities, including use of funds derived from illegal
+16 activity, entries to conceal or launder funds derived from illegal activity,
+17 multi-accounting, and using false identification.
+18 SECTION 4. A NEW SECTION OF KRS CHAPTER 230 IS CREATED TO
+19 READ AS FOLLOWS:
+20 (1) Except as otherwise provided in this section, a person shall not offer fantasy
+21 contests in the Commonwealth unless the person is licensed by the corporation as
+22 a fantasy contest operator.
+23 (2) An applicant for a fantasy contest operator license shall:
+24 (a) Submit an application to the corporation in the form the corporation
+25 requires in the corporation's administrative regulations;
+26 (b) Submit fingerprints for a national criminal history record check by a law
+27 enforcement agency, which shall be:
+Page 10 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1220
+1 1. Furnished by the applicant's director, officer, key employee, or
+2 individual owner of five percent (5%) or more of the fantasy contest
+3 operator; and
+4 2. Accompanied by a signed authorization for the release of information
+5 by the law enforcement agency; and
+6 (c) Be denied a license if previously convicted of a disqualifying offense as
+7 established in subsection (8) of this section.
+8 (3) The corporation may require additional background checks on fantasy contest
+9 operators when an operator submits a renewal application.
+10 (4) This section shall not require a fantasy contest operator applicant or person who
+11 has submitted to a national criminal history record check in Kentucky or any
+12 other state within the twelve (12) months prior to submitting the application to
+13 resubmit to another record check if the fantasy contest operator applicant or
+14 person submits the results of the previous record check and affirms there has
+15 been no material change since the previous record check.
+16 (5) The form required by the corporation under subsection (2) of this section shall
+17 include but is not limited to the following information:
+18 (a) The fantasy contest operator's name;
+19 (b) The location of the operator's principal place of business;
+20 (c) The operator's contact information;
+21 (d) The operator's Social Security number or, if applicable, federal tax
+22 identification number;
+23 (e) The name and address of each person that holds a five percent (5%) or
+24 more ownership interest or shares in the fantasy contest operator;
+25 (f) The operator's criminal record or, if the operator is a business entity, any
+26 criminal record of a person who is a director, officer, or key employee of the
+27 applicant or any person who has a five percent (5%) or more ownership
+Page 11 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1220
+1 interest in the fantasy contest operator;
+2 (g) Documentation identifying the following from the operator, or any director,
+3 officer, key employee, or individual owner of five percent (5%) or more of
+4 the fantasy contest operator that has:
+5 1. Any ownership interest in a business that is or was a fantasy contest
+6 operator or similar entity in any jurisdiction;
+7 2. An equity interest of five percent (5%) or more in any business of the
+8 fantasy contest operator. If a business has been identified under this
+9 subparagraph, documentation shall be provided showing the state in
+10 which the business is incorporated or registered, if applicable;
+11 3. Ever applied for or been granted any license, registration, or
+12 certificate issued by a licensing authority in Kentucky or any other
+13 jurisdiction for a gaming activity; and
+14 4. Filed or been served with a complaint or other notice filed by a public
+15 body regarding the delinquency in payment of or dispute over filings
+16 concerning the payment of any tax required under federal, state, or
+17 local law, including the amount of tax, type of tax, and taxing agency
+18 and the time periods involved; and
+19 (h) Information sufficient to show, as determined by the corporation, that the
+20 operator can meet the requirements of Sections 2 to 10 of this Act.
+21 (6) The corporation may promulgate administrative regulations to establish
+22 additional qualifications and requirements to preserve the integrity and security
+23 of fantasy contests and to promote and maintain a competitive fantasy contest
+24 market.
+25 (7) On receipt of a completed application and the required fee, the corporation shall
+26 conduct the necessary background investigation to determine if the applicant
+27 meets the qualifications for licensure. On completion of the investigation, the
+Page 12 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1220
+1 corporation shall issue a license or deny the application. If the application for
+2 licensure is denied, a statement setting forth the grounds for denial shall be
+3 forwarded to the applicant together with all other documents relied on by the
+4 corporation, to the extent allowed by law.
+5 (8) (a) A person shall not be issued a license if the person has been convicted of a
+6 violation of state or federal law that is:
+7 1. A felony;
+8 2. Any crime involving illegal gaming or gambling; or
+9 3. Any crime involving theft or fraud that is or would be a felony or
+10 Class A misdemeanor in the Commonwealth of Kentucky.
+11 (b) The prohibitions in paragraph (a) of this subsection apply to the applicant
+12 or licensee, or director, officer, key employee, or individual owner of five
+13 percent (5%) or more of the fantasy contest operator.
+14 SECTION 5. A NEW SECTION OF KRS CHAPTER 230 IS CREATED TO
+15 READ AS FOLLOWS:
+16 (1) As part of its submission for licensure or renewal, a fantasy contest operator
+17 applicant shall:
+18 (a) Contract with a certified public accountant to conduct an independent
+19 audit, consistent with generally accepted accounting principles;
+20 (b) Annually contract with a testing laboratory, certified public accountant, or
+21 another professional service provider recognized by the corporation to verify
+22 compliance with Sections 2 to 10 of this Act; and
+23 (c) Submit to the corporation a copy of the audit report and of the compliance
+24 report of the testing laboratory, certified public accountant, or professional
+25 service provider.
+26 (2) An initial fantasy contest operator is not required to submit an audit report and
+27 report of the testing laboratory until twenty-four (24) months following the
+Page 13 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1220
+1 issuance of a license.
+2 SECTION 6. A NEW SECTION OF KRS CHAPTER 230 IS CREATED TO
+3 READ AS FOLLOWS:
+4 (1) Notwithstanding any provision of law to the contrary, the operation of fantasy
+5 contests is only lawful when conducted in accordance with Sections 2 to 10 of this
+6 Act.
+7 (2) Any participant of a fantasy contest shall be at least eighteen (18) years old.
+8 (3) (a) A fantasy contest operator may only accept an entry from a person
+9 physically located in the Commonwealth.
+10 (b) A fantasy contest operator shall use a geolocation system to ensure that a
+11 participant is physically present in the Commonwealth when submitting an
+12 entry unless otherwise authorized by the corporation.
+13 (4) (a) Sections 2 to 10 of this Act shall be construed liberally to promote the
+14 general welfare of the public and integrity of the fantasy contest industry.
+15 (b) The corporation shall not in any way limit or restrict the types of fantasy
+16 contests allowed by labelling any such contests as sports wagering.
+17 (5) A licensed fantasy contest operator shall not be forced to surrender or terminate a
+18 license prior to the date of expiration of the license solely by virtue of a change in
+19 the qualifications for licensure under Sections 2 to 10 of this Act.
+20 SECTION 7. A NEW SECTION OF KRS CHAPTER 230 IS CREATED TO
+21 READ AS FOLLOWS:
+22 (1) The corporation shall investigate all reasonable allegations of prohibited conduct
+23 and refer any allegations it deems credible to the appropriate law enforcement
+24 agency.
+25 (2) The identity of any reporting person shall remain confidential unless that person
+26 authorizes disclosure of the person's identity or until the allegation of prohibited
+27 conduct is referred to law enforcement.
+Page 14 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1220
+1 (3) If the corporation receives a complaint of prohibited conduct by an athlete, the
+2 corporation shall notify the appropriate sports governing body of the athlete to
+3 review the complaint as provided by the corporation.
+4 (4) The corporation shall promulgate administrative regulations in accordance with
+5 KRS Chapter 13A to govern investigations of prohibited conduct and referrals to
+6 law enforcement agencies.
+7 SECTION 8. A NEW SECTION OF KRS CHAPTER 230 IS CREATED TO
+8 READ AS FOLLOWS:
+9 (1) As used in this section:
+10 (a) "Adjusted gross fantasy contest receipts" means the total sum of entry fees
+11 collected by a fantasy contest operator from all participants entering a
+12 fantasy contest, less winnings paid to participants in the contest, multiplied
+13 by the location percentage; and
+14 (b) "Location percentage" means the percentage of the total entry fees for each
+15 fantasy contest collected from participants located in the Commonwealth
+16 divided by the total entry fees collected from all participants in the fantasy
+17 contest, rounded to the nearest one-tenth of one percent (0.1%).
+18 (2) (a) The initial license fee for a fantasy contest operator that operated in this
+19 Commonwealth at least twelve (12) months prior to the effective date of this
+20 Act shall be eight percent (8%) of the operator's adjusted gross fantasy
+21 contest receipts from the preceding calendar year or five hundred thousand
+22 ($500,000) dollars, whichever is less.
+23 (b) The initial license fee for a fantasy contest operator that did not operate in
+24 this Commonwealth for at least twelve (12) months prior to the effective
+25 date of this Act shall be five thousand ($5,000) dollars, provided that the
+26 fantasy contest operator shall remit a supplemental license fee of ten
+27 percent (10%) of its adjusted gross fantasy contest receipts for the twelve
+Page 15 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1220
+1 (12) month period beginning on the date of licensure less the initial license
+2 fee, or five thousand ($5,000) dollars, whichever is less.
+3 (3) A fantasy contest operator that was offering contests to persons located in this
+4 Commonwealth before the effective date of this Act may continue to offer contests
+5 to persons located in this Commonwealth until the operator's application has
+6 been approved or denied if the operator submits an application for licensure with
+7 the corporation within ninety (90) days after the corporation promulgates
+8 administrative regulations to effectuate Sections 2 to 10 of this Act.
+9 (4) (a) Licenses issued by the corporation shall remain in effect for one (1) year.
+10 The corporation shall promulgate administrative regulations to establish a
+11 process for renewal with a renewal fee being one percent (1%) of the
+12 adjusted gross fantasy contest receipts for the previous year, or five
+13 thousand ($5,000) dollars, whichever is less.
+14 (b) A fantasy contest operator may request in writing to the corporation an
+15 extension to renew the operator's license. If the operator allows the license
+16 to lapse, without requesting an extension time to file, the operator shall
+17 resubmit an initial application.
+18 (5) A fantasy contest operator applying for a license or renewal of a license may
+19 operate during the application period unless the corporation:
+20 (a) Has reasonable cause to believe that the fantasy contest operator is or may
+21 be in violation of a provision of Sections 2 to 10 of this Act; and
+22 (b) Requires the fantasy contest operator to suspend the operation of any
+23 fantasy contests until the license or renewal of a license is issued.
+24 SECTION 9. A NEW SECTION OF KRS CHAPTER 230 IS CREATED TO
+25 READ AS FOLLOWS:
+26 (1) There is hereby established in the State Treasury a trust and agency account to be
+27 known as the fantasy contest administration fund. The fund shall consist of
+Page 16 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1220
+1 moneys received from the fees and monthly tax imposed by Sections 8 and 11 of
+2 this Act.
+3 (2) The fund shall be administered by the Kentucky Horse Racing and Gaming
+4 Corporation.
+5 (3) (a) Amounts deposited in the fund shall be used as follows:
+6 1. For administrative expenses relating to or associated with the
+7 purposes of fantasy contests; and
+8 2. Two and one-half percent (2.5%) of the funds shall be deposited in the
+9 Kentucky problem gambling assistance account established in KRS
+10 230.826.
+11 (b) The remaining funds shall be deposited in the Kentucky permanent pension
+12 fund established in KRS 42.205.
+13 (4) Notwithstanding KRS 45.229, fund amounts not expended at the close of a fiscal
+14 year shall not lapse but shall be carried forward into the next fiscal year.
+15 SECTION 10. A NEW SECTION OF KRS CHAPTER 230 IS CREATED TO
+16 READ AS FOLLOWS:
+17 (1) Each fantasy contest operator shall include a statement regarding obtaining
+18 assistance with real-money gaming problems on the operator's portal, website,
+19 computer, or mobile application and on all marketing materials and
+20 advertisements of the operator.
+21 (2) (a) A resident, or nonresident if allowed to participate in fantasy contests, may
+22 voluntarily prohibit himself or herself from establishing a fantasy contest
+23 account with a fantasy contest operator.
+24 (b) The corporation shall incorporate the voluntary self-exclusion program for
+25 fantasy contests into any existing self-exclusion program that it operates on
+26 the effective date of this Act.
+27 (3) If a self-excluded person participates in a fantasy contest, the fantasy contest
+Page 17 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1220
+1 operator shall report to the corporation, at a minimum, the name of the self-
+2 excluded person, the date of participation, the amount or value of any money,
+3 prizes, or awards forfeited, if any, and any other action taken.
+4 (4) A fantasy contest operator shall not pay any prize or award to a person who is on
+5 the corporation's self-exclusion list. Any prize or award won by a person on the
+6 self-exclusion list is forfeited and shall be donated by the fantasy contest operator
+7 to the problem gaming charities or programs as identified and directed by the
+8 corporation on a quarterly basis by the twenty-fifth day of the following month.
+9 (5) A fantasy contest operator shall develop and maintain a program to mitigate
+10 compulsive play and curtail compulsive play, which may be in conjunction with
+11 the corporation.
+12 SECTION 11. A NEW SECTION OF KRS CHAPTER 138 IS CREATED TO
+13 READ AS FOLLOWS:
+14 (1) As used in this section:
+15 (a) "Adjusted gross fantasy contest receipts" has the same meaning as in
+16 Section 8 of this Act;
+17 (b) "Corporation" has the same meaning as in Section 1 of this Act;
+18 (c) "Fantasy contest operator" has the same meaning as in Section 1 of this
+19 Act; and
+20 (d) "Location percentage" has the same meaning as in Section 8 of this Act.
+21 (2) Beginning on July 1, 2025, the Commonwealth shall impose and collect a tax at a
+22 rate of ten percent (10%) of the fantasy contest operator's adjusted gross fantasy
+23 contest receipts. The accrual method of accounting shall be used for purposes of
+24 calculating the amount of tax owed by the licensee.
+25 (3) The tax imposed by this section is due and payable to the corporation monthly
+26 and shall be remitted on or before the last day of each calendar month.
+27 (4) The fantasy contest operator's payment shall be accompanied by a return
+Page 18 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1220
+1 prescribed by the corporation indicating the amount of tax due for the previous
+2 calendar month as well as any other information the corporation shall
+3 promulgate by administrative regulation.
+4 Section 12. KRS 230.215 (Effective July 1, 2025) is amended to read as
+5 follows:
+6 (1) (a) It is the policy of the Commonwealth of Kentucky, in furtherance of its
+7 responsibility to foster and to encourage legitimate occupations and industries
+8 in the Commonwealth and to promote and to conserve the public health,
+9 safety, and welfare, and it is hereby declared the intent of the Commonwealth
+10 to foster and to encourage the horse breeding industry within the
+11 Commonwealth and to encourage the improvement of the breeds of horses.
+12 (b) Further, it is the policy and intent of the Commonwealth to foster and to
+13 encourage the business of legitimate horse racing with pari-mutuel wagering
+14 thereon in the Commonwealth on the highest possible plane. Further, it hereby
+15 is declared the policy and intent of the Commonwealth that all racing not
+16 licensed under this chapter is a public nuisance and may be enjoined as such.
+17 (c) Further, it is hereby declared the policy and intent of the Commonwealth that
+18 the conduct of horse racing, or the participation in any way in horse racing, or
+19 the entrance to or presence where horse racing is conducted, is a privilege and
+20 not a personal right; and that this privilege may be granted or denied by the
+21 corporation or its duly approved representatives acting in its behalf.
+22 (d) Further, it is hereby declared the policy and intent of the Commonwealth that
+23 citizens shall be allowed to enjoy wagering on sporting events in a controlled
+24 environment that protects the citizens from cheating and fraud, and that such
+25 wagering shall be best controlled and overseen by the Kentucky Horse Racing
+26 and Gaming Corporation, which has demonstrated a long and successful
+27 history of regulating wagering.
+Page 19 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1220
+1 (e) Further, it is hereby declared the policy and intent of the Commonwealth that
+2 charitable gaming conducted by charitable organizations is an important
+3 method of raising funds for legitimate charitable purposes and is in the public
+4 interest. The intent of this chapter and KRS Chapter 238 is to prevent the
+5 commercialization of charitable gaming, to prevent participation in charitable
+6 gaming by criminal and other undesirable elements, and to prevent the
+7 diversion of funds from legitimate charitable purposes, and that charitable
+8 gaming shall be best controlled and overseen by the Kentucky Horse Racing
+9 and Gaming Corporation.
+10 (2) (a) It is hereby declared the purpose and intent of this chapter in the interest of
+11 the public health, safety, and welfare, to vest in the corporation forceful
+12 control of horse racing in the Commonwealth with plenary power to
+13 promulgate administrative regulations prescribing conditions under which all
+14 legitimate horse racing and wagering thereon is conducted in the
+15 Commonwealth so as to encourage the improvement of the breeds of horses in
+16 the Commonwealth, to regulate and maintain horse racing at horse race
+17 meetings in the Commonwealth of the highest quality and free of any corrupt,
+18 incompetent, dishonest, or unprincipled horse racing practices, and to regulate
+19 and maintain horse racing at race meetings in the Commonwealth so as to
+20 dissipate any cloud of association with the undesirable and maintain the
+21 appearance as well as the fact of complete honesty and integrity of horse
+22 racing in the Commonwealth.
+23 (b) In addition, it is hereby declared the purpose and intent of this chapter to vest
+24 in the corporation exclusive jurisdiction over sports wagering and fantasy
+25 contests in the Commonwealth, with plenary power to promulgate
+26 administrative regulations prescribing conditions under which all sports
+27 wagering and fantasy contests are[ is] to be conducted.
+Page 20 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1220
+1 (c) In addition to the general powers and duties vested in the corporation by this
+2 chapter, it is the intent hereby to vest in the corporation the power to eject or
+3 exclude from association grounds or any part thereof any person, licensed or
+4 unlicensed, whose conduct or reputation is such that his or her presence on
+5 association grounds may, in the opinion of the corporation, reflect on the
+6 honesty and integrity of horse racing or interfere with either the orderly
+7 conduct of horse racing or the orderly conduct of sports wagering.
+8 (d) In addition, it is hereby declared the purpose and intent of this chapter to vest
+9 in the corporation exclusive jurisdiction over charitable gaming in the
+10 Commonwealth, with plenary power to promulgate administrative regulations
+11 prescribing conditions under which all charitable gaming is to be conducted.
+12 (e) In addition to the general powers and duties vested in the corporation by this
+13 chapter, it is the intent hereby to vest in the corporation the power to eject or
+14 exclude from charitable gaming facilities or any part thereof any person,
+15 licensed or unlicensed, whose conduct or reputation is such that his or her
+16 presence at a charitable gaming facility may, in the opinion of the corporation,
+17 reflect on the honesty and integrity of charitable gaming or interfere with the
+18 orderly conduct of charitable gaming.
+19 Section 13. KRS 230.225 is amended to read as follows:
+20 (1) There is hereby created and established the Kentucky Horse Racing and Gaming
+21 Corporation to regulate all forms of live horse racing, pari-mutuel wagering, sports
+22 wagering, fantasy contests, breed integrity and development, and on and after July
+23 1, 2025, charitable gaming, in the Commonwealth, exclusive of the state lottery
+24 established under KRS Chapter 154A. It shall be an independent, de jure municipal
+25 corporation and political subdivision of the Commonwealth of Kentucky which
+26 shall be a public body corporate and politic. The corporation shall be deemed a
+27 public agency within the meaning of KRS 61.805 and 61.870. The corporation shall
+Page 21 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1220
+1 be managed in such a manner that enables the people of the Commonwealth to
+2 benefit from its actions and to enjoy the best possible racing and gaming
+3 experiences. The General Assembly hereby recognizes that the operations of racing
+4 and gaming are unique activities for state government and that a corporate structure
+5 will best enable racing and gaming to be managed in a businesslike manner. It is the
+6 intent of the General Assembly that the Kentucky Horse Racing and Gaming
+7 Corporation shall be accountable to the Governor, the General Assembly, and the
+8 people of the Commonwealth.
+9 (2) (a) The Auditor of Public Accounts shall perform an annual audit of the
+10 corporation, a copy of which shall be sent to the Governor and the Legislative
+11 Research Commission.
+12 (b) The corporation shall submit a written annual report to the Governor and the
+13 Legislative Research Commission on or before July 1 of each year. The first
+14 report shall be due July 1, 2025. The corporation shall file any additional
+15 reports requested by the Governor or the Legislative Research Commission.
+16 The annual report shall include the following information:
+17 1. The receipts and disbursements of the corporation; and
+18 2. Actions taken by the corporation.
+19 (c) The corporation may submit any additional information and recommendations
+20 that the corporation considers useful or that the Governor or the Legislative
+21 Research Commission requests.
+22 (3) The Kentucky Horse Racing and Gaming Corporation shall be administered by a
+23 board of directors to regulate the conduct of:
+24 (a) Live horse racing;
+25 (b) Pari-mutuel wagering;
+26 (c) Sports wagering;
+27 (d) Fantasy contests;
+Page 22 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1220
+1 (e) Charitable gaming on and after July 1, 2025;
+2 (f)[(e)] Breed integrity and development; and
+3 (g)[(f)] Related activities within the Commonwealth of Kentucky.
+4 (4) (a) The corporation shall establish and maintain a general office for the
+5 transaction of its business and may, in its discretion, establish a branch office
+6 or offices.
+7 (b) The corporation may hold meetings at any of its offices or at any other place
+8 at its convenience.
+9 (c) A majority of the voting members of the corporation shall constitute a quorum
+10 for the transaction of its business or exercise of any of its powers.
+11 (5) Except as otherwise provided, the corporation shall be responsible for the
+12 following:
+13 (a) Developing and implementing programs designed to ensure the safety and
+14 well-being of horses, jockeys, and drivers;
+15 (b) Developing programs and procedures that will aggressively fulfill its
+16 oversight and regulatory role on such matters as medical practices and
+17 integrity issues;
+18 (c) Recommending tax incentives and implementing incentive programs to ensure
+19 the strength and growth of the equine industry;
+20 (d) Designing and implementing programs that strengthen the ties between
+21 Kentucky's horse industry and the state's universities, with the goal of
+22 significantly increasing the economic impact of the horse industry on
+23 Kentucky's economy, improving research for the purpose of promoting the
+24 enhanced health and welfare of the horse, and other related industry issues;
+25 (e) Developing and supporting programs which ensure that Kentucky remains in
+26 the forefront of equine research;
+27 (f) Designing and implementing programs that support and ensure breed integrity
+Page 23 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1220
+1 and development;
+2 (g) Developing monitoring programs to ensure the highest integrity of sporting
+3 events and sports wagering;
+4 (h) Developing a program to share wagering information with sports governing
+5 bodies upon which sports wagering may be conducted. The program shall be
+6 designed to assist the corporation in determining potential problems or
+7 questionable activity and provide reports to sports governing bodies
+8 effectively;
+9 (i) Developing programs and procedures that will aggressively fulfill its
+10 oversight and regulatory role to ensure the highest integrity in charitable
+11 gaming;
+12 (j) Developing programs and procedures that will aggressively provide oversight
+13 and regulation for all current forms of gaming and wagering; and
+14 (k) Ensuring that the correct responsibilities are assigned to each of its offices as
+15 established in KRS 230.232.
+16 (6) (a) The corporation shall:
+17 1. Conduct all procurements in accordance with procedures which are not
+18 inconsistent with the provisions of KRS Chapter 45A and this chapter;
+19 provided, however, that this chapter shall control if and to the extent that
+20 any provision in this chapter is expressly inconsistent with any provision
+21 of KRS Chapter 45A; or
+22 2. Promulgate administrative regulations establishing its procurement
+23 procedures. If the corporation elects to promulgate administrative
+24 regulations establishing its procurement procedures rather than conduct
+25 procurements in accordance with KRS Chapter 45A, the corporation
+26 may include sections of KRS Chapter 45A as part of its administrative
+27 regulations.
+Page 24 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1220
+1 (b) Major procurements for personal service contracts shall not be subject to the
+2 requirements of KRS 45A.695(2)(b) due to the unique operational activities
+3 conducted for state government by the corporation. The corporation's
+4 procurement procedures or administrative regulations shall be designed to
+5 provide for the purchase of supplies, equipment, services, and construction
+6 items that provide the greatest long-term benefit to the state and the greatest
+7 integrity for the corporation and the public.
+8 (c) In its bidding and negotiation processes, the corporation may do its own
+9 bidding and procurement, or may utilize the services of the Finance and
+10 Administration Cabinet, or a combination thereof. The president of the
+11 corporation may, in lieu of the secretary of the Finance and Administration
+12 Cabinet, declare an emergency for purchasing purposes.
+13 (7) Corporation records shall be open and subject to public inspection in accordance
+14 with KRS 61.870 to 61.884 unless:
+15 (a) A record is exempted from inspection under KRS 61.878;
+16 (b) A record involves a trade secret or other legally protected intellectual property
+17 or confidential proprietary information of the corporation or of an applicant,
+18 licensee, individual, or entity having submitted information of such character
+19 to the corporation, in which case, the portion of the record relating to these
+20 subjects may be closed; or
+21 (c) The disclosure of the record could impair or adversely affect the operational
+22 security of the corporation in the regulation of matters within its jurisdiction
+23 or could impair or adversely impact the operational security of applicants or
+24 licensees.
+25 (8) Meetings of the corporation through its board of directors shall be open to the
+26 public in accordance with KRS 61.800 to 61.850 unless the exceptions set forth in
+27 KRS 61.810 apply or the meeting addresses trade secrets, confidential or
+Page 25 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1220
+1 proprietary information, or operational security issues as described in subsection
+2 (7)(c) of this section. If this is the case, the corporation may meet in closed session
+3 and shall follow the procedures set forth in KRS 61.815.
+4 (9) (a) The corporation is hereby authorized to accept and expend such moneys as
+5 may be appropriated by the General Assembly or such moneys as may be
+6 received from any source for effectuating its purposes, including without
+7 limitation the payment of the initial expenses of administration and operation
+8 of the corporation.
+9 (b) After the transfer to the corporation of any funds appropriated in fiscal year
+10 2024-2025 and fiscal year 2025-2026 for the administration of this chapter
+11 and KRS Chapter 238, the corporation shall be self-sustaining and self-funded
+12 and moneys in the state general fund shall not be used or obligated to pay the
+13 expenses of the corporation.
+14 (10) On July 1, 2024:
+15 (a) The Kentucky Horse Racing and Gaming Corporation shall assume all
+16 responsibilities of the Kentucky Horse Racing Commission;
+17 (b) The Kentucky Horse Racing Commission shall be abolished and all
+18 employees of the Kentucky Horse Racing Commission are transferred to the
+19 corporation; and
+20 (c) All personnel, equipment, and funding shall be transferred from the Kentucky
+21 Horse Racing Commission to the Kentucky Horse Racing and Gaming
+22 Corporation.
+23 (11) On July 1, 2025:
+24 (a) The office regulating charitable gaming in the Kentucky Horse Racing and
+25 Gaming Corporation shall assume all responsibilities of the Department of
+26 Charitable Gaming;
+27 (b) The Department of Charitable Gaming shall be abolished and all employees
+Page 26 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1220
+1 of the Department of Charitable Gaming are transferred to the corporation;
+2 and
+3 (c) All personnel, equipment, and funding shall be transferred from the
+4 Department of Charitable Gaming to the Kentucky Horse Racing and Gaming
+5 Corporation.
+6 (12) Notwithstanding any other law to the contrary, nothing in this chapter shall
+7 authorize the corporation to:
+8 (a) Regulate or control horse sales;
+9 (b) Require the licensure of horse breeders in their capacity as breeders; or
+10 (c) Exercise jurisdiction over matters within the exclusive national authority of
+11 entities designated by the laws of the United States of America.
+12 Section 14. KRS 230.232 is amended to read as follows:
+13 (1) The president of the Kentucky Horse Racing and Gaming Corporation shall
+14 establish offices within the corporation. Each office shall have specific duties
+15 assigned by the president. Topics addressed by the offices shall include but not be
+16 limited to the following:
+17 (a) Pari-mutuel wagering;
+18 (b) Live horse racing;
+19 (c) Breed development and integrity;
+20 (d) Sports wagering;
+21 (e) Fantasy contests;
+22 (f) Licensing, compliance, and investigations; and
+23 (g)[(f)] Charitable gaming.
+24 (2) Each office shall be led by an office manager, and the president shall appoint the
+25 manager of each office.
+26 (3) Each office may propose the promulgation of administrative regulations related to
+27 its area of jurisdiction, but the corporation shall have final authority to promulgate
+Page 27 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1220
+1 administrative regulations under this chapter and on and after July 1, 2025, final
+2 authority to promulgate administrative regulations under KRS Chapter 238.
+3 Section 15. KRS 230.260 is amended to read as follows:
+4 The corporation shall have all powers necessary and proper to carry out and effectuate the
+5 purposes and provisions of this chapter on and after July 1, 2024, and the purposes and
+6 provisions of KRS Chapter 238 on and after July 1, 2025, including but not limited to the
+7 following:
+8 (1) The corporation is vested with jurisdiction and supervision over all live horse
+9 racing, pari-mutuel wagering, sports wagering, fantasy contests, breed integrity and
+10 development, and on and after July 1, 2025, charitable gaming, except for lottery
+11 games authorized under KRS Chapter 154A, in this Commonwealth and over all
+12 associations and all persons on association grounds and may eject or exclude
+13 therefrom or any part thereof, any person, licensed or unlicensed, whose conduct or
+14 reputation is such that the person's presence on association grounds may, in the
+15 opinion of the corporation, negatively reflect on the honesty and integrity of horse
+16 racing, or on sporting events upon which sports wagers may be placed, or interfere
+17 with the orderly conduct of horse racing or racing at horse race meetings, but no
+18 persons shall be excluded or ejected from association grounds solely on the ground
+19 of race, color, creed, national origin, ancestry, or sex;
+20 (2) The corporation is vested with jurisdiction over any person or entity that offers
+21 advance deposit account wagering to Kentucky residents. Any such person or entity
+22 under the jurisdiction of the corporation shall be licensed by the corporation, and
+23 the corporation may impose a license fee not to exceed ten thousand dollars
+24 ($10,000) annually. The corporation shall, by administrative regulation
+25 promulgated in accordance with KRS Chapter 13A, establish conditions and
+26 procedures for the licensing of advance deposit account wagering providers to
+27 include but not be limited to:
+Page 28 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1220
+1 (a) A fee schedule for applications for licensure; and
+2 (b) Reporting requirements to include quarterly reporting on:
+3 1. The amount wagered on Kentucky races; and
+4 2. The total amount wagered by Kentuckians;
+5 (3) The corporation is vested with jurisdiction over any totalisator company that
+6 provides totalisator services to a racing association located in the Commonwealth.
+7 A totalisator company under the jurisdiction of the corporation shall be licensed by
+8 the corporation, regardless of whether a totalisator company is located in the
+9 Commonwealth or operates from a location or locations outside of the
+10 Commonwealth, and the corporation may impose a license fee on a totalisator
+11 company. The corporation shall, by administrative regulation promulgated in
+12 accordance with KRS Chapter 13A, establish conditions and procedures for the
+13 licensing of totalisator companies, and a fee schedule for applications for licensure;
+14 (4) The corporation is vested with jurisdiction over any manufacturer, wholesaler,
+15 distributor, or vendor of any equine drug, medication, therapeutic substance, or
+16 metabolic derivative which is purchased by or delivered to a licensee or other
+17 person participating in Kentucky horse racing by means of the internet, mail
+18 delivery, in-person delivery, or other means;
+19 (5) The corporation is vested with jurisdiction over any horse training center or facility
+20 in the Commonwealth that records official timed workouts for publication;
+21 (6) The corporation may require an applicant for a license under subsection (2) or (3) of
+22 this section to submit to a background check of the applicant, or of any individual
+23 or organization associated with the applicant. An applicant shall be required to
+24 reimburse the corporation for the cost of any background check conducted;
+25 (7) The corporation, its representatives and employees, may visit, investigate, and have
+26 free access to the office, track, facilities, or other places of business of any licensee,
+27 or any person owning a horse or performing services regulated by this chapter on a
+Page 29 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1220
+1 horse registered to participate in a breeders incentive fund under the jurisdiction of
+2 the corporation;
+3 (8) The corporation shall have full authority to prescribe necessary and reasonable
+4 administrative regulations and conditions under which horse racing at a horse race
+5 meeting shall be conducted in this state and to fix and regulate the minimum
+6 amount of purses, stakes, or awards to be offered for the conduct of any horse race
+7 meeting;
+8 (9) Applications for licenses shall be made in the form and manner and contain
+9 information as required by the corporation through the promulgation of
+10 administrative regulations. Fees for all licenses issued under KRS 230.310 shall be
+11 prescribed by and paid to the corporation;
+12 (10) The corporation shall establish by administrative regulation minimum fees for
+13 jockeys to be effective in the absence of a contract between an employing owner or
+14 trainer and a jockey. The minimum fees shall be no less than those of July 1, 1985;
+15 (11) The corporation may refuse to issue or renew a license, revoke or suspend a license,
+16 impose probationary conditions on a license, issue a written reprimand or
+17 admonishment, impose fines or penalties, deny purse money, require the forfeiture
+18 of purse money, or any combination thereof with regard to a licensee or other
+19 person participating in Kentucky horse racing for violation of any federal or state
+20 statute, regulation, or steward's or corporation's directive, ruling, or order to
+21 preserve the integrity of Kentucky horse racing or to protect the racing public. The
+22 corporation shall, by administrative regulation, establish the criteria for taking the
+23 actions described in this subsection;
+24 (12) The corporation may issue subpoenas for the attendance of witnesses before it and
+25 for the production of documents, records, papers, books, supplies, devices,
+26 equipment, and all other instrumentalities related to live horse racing, pari-mutuel
+27 wagering, sports wagering, fantasy contests, breed integrity and development, and
+Page 30 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1220
+1 on and after July 1, 2025, charitable gaming, within the Commonwealth. The
+2 corporation may administer oaths to witnesses and require witnesses to testify under
+3 oath whenever, in the judgment of the corporation, it is necessary to do so for the
+4 effectual discharge of its duties;
+5 (13) The corporation shall have authority to compel any racing association licensed
+6 under this chapter to file with the corporation at the end of its fiscal year, a balance
+7 sheet, showing assets and liabilities, and an earnings statement, together with a list
+8 of its stockholders or other persons holding a beneficial interest in the association;
+9 (14) The corporation shall promulgate administrative regulations establishing safety
+10 standards for jockeys, which shall include the use of rib protection equipment. Rib
+11 protection equipment shall not be included in a jockey's weight;
+12 (15) (a) The corporation shall promulgate administrative regulations establishing a
+13 self-exclusion list for individuals who self-identify as being problem or
+14 compulsive gamblers.
+15 (b) Self-exclusion information collected by each racing association shall be
+16 forwarded to the corporation, and the information from the racing associations
+17 shall be compiled into a comprehensive list that shall be provided to all racing
+18 associations.
+19 (c) Pursuant to KRS 61.878(1)(a), information collected under this subsection
+20 shall be excluded from the application of KRS 61.870 to 61.884;
+21 (16) (a) The corporation shall promulgate administrative regulations to establish
+22 standards for the conduct of sports wagering, including standards for
+23 receiving and paying out wagers, offering sports wagering through a website
+24 or mobile application, maintaining and auditing books and financial records,
+25 securely maintaining records of bets and wagers, integrity requirements for
+26 sports wagering and related data, suitability requirements for providers of
+27 associated equipment, geofence standards for wager placement, designated
+Page 31 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1220
+1 areas for sports wagering, surveillance and monitoring systems, and other
+2 reasonable technical criteria related to conducting sports wagering.
+3 (b) The corporation shall promulgate administrative regulations related to age
+4 requirements for placing sports wagers, availability of information related to
+5 sports wagers, and licensing requirements, including temporary
+6 authorizations, for service providers, vendors, and suppliers; and
+7 (17) (a) On and after July 1, 2025, the corporation is vested with jurisdiction and
+8 supervision over all charitable gaming and shall promulgate administrative
+9 regulations to establish standards for the conduct of charitable gaming
+10 consistent with the guidelines established in this chapter and KRS Chapter
+11 238. The corporation may eject or exclude therefrom or any part thereof, any
+12 person, licensed or unlicensed, whose conduct or reputation is such that the
+13 person's presence at a charitable gaming facility may, in the opinion of the
+14 corporation, negatively reflect on the honesty and integrity of charitable
+15 gaming, or interfere with the orderly conduct of charitable gaming at a
+16 charitable gaming facility, but no persons shall be excluded or ejected from a
+17 charitable gaming facility solely on the ground of race, color, creed, national
+18 origin, ancestry, or sex.
+19 (b) The administrative regulations of the Kentucky Horse Racing Commission
+20 that are in effect on July 1, 2024, shall remain in effect as the initial
+21 administrative regulations of the corporation until the corporation amends or
+22 repeals the administrative regulations pursuant to KRS Chapter 13A, except
+23 as provided by KRS 13A.3102, 13A.3104, and 13A.330.
+24 (c) The administrative regulations of the Department of Charitable Gaming that
+25 are in effect on July 1, 2025, shall remain in effect as the initial administrative
+26 regulations of the corporation until the corporation amends or repeals the
+27 administrative regulations pursuant to KRS Chapter 13A, except as provided
+Page 32 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1220
+1 by KRS 13A.3102, 13A.3104, and 13A.330.
+2 Section 16. KRS 243.500 (Effective July 1, 2025) is amended to read as
+3 follows:
+4 Any license may be revoked or suspended for the following causes:
+5 (1) Conviction of the licensee or the licensee's agent, servant, or employee for selling
+6 any illegal alcoholic beverages on the licensed premises.
+7 (2) Making any false, material statements in an application or renewal application for a
+8 license or supplemental license.
+9 (3) Conviction of the licensee or any of the licensee's agents, servants, or employees of:
+10 (a) Two (2) violations of the terms and provisions of KRS Chapters 241 to 244,
+11 or any act regulating the manufacture, sale, and transportation of alcoholic
+12 beverages within two (2) consecutive years;
+13 (b) Two (2) misdemeanors directly or indirectly attributable to the use of
+14 alcoholic beverages within two (2) consecutive years; or
+15 (c) Any felony.
+16 (4) Failure or default of a licensee to pay an excise tax or any part of the tax or any
+17 penalties imposed by or under the provisions of any statutes, ordinances, or Acts of
+18 Congress relative to taxation, or for a violation of any related administrative
+19 regulations promulgated by the Department of Revenue.
+20 (5) Revocation of any license or permit provided in KRS 243.060, 243.070, 243.600,
+21 and 243.610, or granted under any Act of Congress relative to the regulation of the
+22 manufacture, sale, and transportation of alcoholic beverages.
+23 (6) Setting up, conducting, operating, or keeping, on the licensed premises, any
+24 gambling game, device, machine, contrivance, lottery, gift enterprise, handbook, or
+25 facility for betting or transmitting bets on horse races; or permitting to be set up,
+26 conducted, operated, kept, or engaged in, on the licensed premises, any gambling
+27 game, device, machine, contrivance, lottery, gift enterprise, handbook, or facility.
+Page 33 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1220
+1 This subsection shall not apply to:
+2 (a) The sale of lottery tickets sold under the provisions of KRS Chapter 154A;
+3 (b) The operation of a pari-mutuel system for betting, or the operation of sports
+4 wagering, where authorized by law;
+5 (c) The conduct of charitable gaming by a charitable organization licensed or
+6 permitted under KRS Chapters 230 and 238;[ or]
+7 (d) Special temporary raffles of alcoholic beverages under KRS 243.036; or
+8 (e) The conduct of fantasy contests under KRS Chapter 230.
+9 (7) Conviction of the licensee, the licensee's agents, servants, or employees for:
+10 (a) The trafficking or possession upon the licensed premises of controlled or
+11 illegal substances described in KRS Chapter 218A, including synthetic drugs;
+12 (b) Knowingly permitting the trafficking or possession by patrons upon the
+13 licensed premises of controlled or illegal substances described in KRS
+14 Chapter 218A, including synthetic drugs; or
+15 (c) Knowingly receiving stolen property upon the licensed premises.
+16 (8) Failure to comply with the terms of a final order of the board.
+17 Section 17. KRS 525.090 is amended to read as follows:
+18 (1) A person is guilty of loitering when the person:
+19 (a) Loiters or remains in a public place for the purpose of gambling with cards,
+20 dice, or other gambling paraphernalia, except that the provisions of this
+21 section shall not apply if the person is participating in charitable gaming
+22 defined by KRS 238.505, or is engaged in sports wagering or fantasy contests
+23 licensed under KRS Chapter 230;
+24 (b) Loiters or remains in a public place for the purpose of unlawfully using a
+25 controlled substance;
+26 (c) Loiters or remains in or about a school, college, or university building or
+27 grounds, not having any reason or relationship involving custody of or
+Page 34 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1220
+1 responsibility for a pupil or student or any other specific legitimate reason for
+2 being there and not having written permission from anyone authorized to
+3 grant the same; or
+4 (d) Loiters or remains in any transportation facility, unless specifically authorized
+5 to do so, for the purpose of soliciting or engaging in any business, trade, or
+6 commercial transactions involving the sale of merchandise or services.
+7 (2) Loitering is a violation.
+8 Section 18. KRS 528.010 (Effective July 1, 2025) is amended to read as
+9 follows:
+10 The following definitions apply in this chapter unless the context otherwise requires:
+11 (1) (a) "Advancing gambling activity" means[-- A person "advances gambling
+12 activity" when, acting other than as a player, he or she engages in] conduct a
+13 person engages in other than as a player that materially aids any form of
+14 gambling activity not authorized under KRS Chapter 230.
+15 (b) "Advancing gambling activity" includes[ The conduct shall include,] but is
+16 not limited to[,] conduct directed toward the:
+17 1. Establishment of the particular game, contest, scheme, device, or
+18 activity involved;[ toward the ]
+19 2. Acquisition or maintenance of premises, paraphernalia, equipment, or
+20 apparatus therefor;[ toward the ]
+21 3. Solicitation or inducement of persons to participate therein;[ toward the]
+22 4. Actual conduct of the playing phases thereof; and[toward the ]
+23 5. Arrangement of any of its financial or recording phases or toward any
+24 other phase of its operation.
+25 (c) A person who gambles at a social game of chance on equal terms with other
+26 participants does not otherwise advance gambling activity by performing acts,
+27 without remuneration or fee, directed toward the arrangement or facilitation of
+Page 35 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1220
+1 the game, such as inviting persons to play, permitting the use of premises
+2 therefor and supplying equipment used therein;
+3 (2) "Bookmaking" means advancing gambling activity by unlawfully accepting bets
+4 upon the outcome of future contingent events from members of the public as a
+5 business not authorized under KRS Chapter 230;
+6 (3) "Charitable gaming" means games of chance conducted by charitable organizations
+7 licensed and regulated under the provisions of KRS Chapters 230 and 238;
+8 (4) (a) "Coin-operated amusement machine" means a lawful machine or device that
+9 requires the direct or indirect payment of consideration, including but not
+10 limited to the insertion of a coin, currency, ticket, token, or similar object, or
+11 the depositing of funds with the operator or owner of the device, and that
+12 contains no material element of chance and automatically, by or through some
+13 mechanical operation, affords music or amusement of some character with or
+14 without vending any merchandise, but in addition to any merchandise.
+15 (b) A coin-operated amusement machine shall not deliver or entitle the person
+16 playing or operating the game to receive cash, cash equivalents, gift cards, or
+17 vouchers, billets, tickets, tokens, electronic credits or any item that can be
+18 exchanged for cash, cash equivalents, gift cards, merchandise, or something of
+19 value, unless otherwise provided under this section.
+20 (c) A coin-operated amusement machine may entitle the person playing to a
+21 noncash, merchandise prize or a voucher, billet, ticket, token, or electronic
+22 credit redeemable only for a noncash, merchandise prize under the following
+23 rules:
+24 1. The wholesale value of a merchandise prize awarded as a result of the
+25 single play of a machine, either directly or as a result of redemption of a
+26 redeemable voucher, does not exceed twenty-five dollars ($25);
+27 2. Redeemable vouchers are not redeemable for any merchandise prize that
+Page 36 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1220
+1 has a wholesale value of more than twenty-five dollars ($25) times the
+2 fewest number of single plays necessary to accrue the redeemable
+3 vouchers required to obtain that prize; and
+4 3. Any redeemable vouchers or merchandise prizes are distributed at the
+5 site of the coin-operated amusement machine at the time of play.
+6 (d) The noncash merchandise prize shall not be:
+7 1. An alcoholic beverage;
+8 2. Eligible for purchase or repurchase; or
+9 3. Exchangeable for any cash, cash equivalents, or something of value
+10 whatsoever;
+11 (5) (a) "E-sports competition" means a league, competitive circuit, tournament, or
+12 similar competition in which:
+13 1. Two (2) or more participants or teams of participants compete directly
+14 against each other for entertainment and prizes in the same video game
+15 at the same time, typically for spectators;
+16 2. Results are determined solely on the basis of the skill of the players;
+17 3. The number of participants is fixed before the beginning of the
+18 competition;
+19 4. Any fee collected to participate in the competition shall be collected
+20 from all participants before the competition begins;
+21 5. At least one (1) participant shall receive something of value based on the
+22 results of the competition; and
+23 6. The value of any prize shall be predetermined before the competition
+24 begins.
+25 (b) E-sports shall not include traditional casino games which include but are not
+26 limited to poker, roulette, craps, or blackjack;
+27 (6) (a) "Gambling" means staking or risking something of value upon the outcome of
+Page 37 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1220
+1 a contest, game, gaming scheme, or gaming device which is based upon an
+2 element of chance, in accord with an agreement or understanding that
+3 someone will receive something of value in the event of a certain outcome.
+4 "Gambling" includes playing or offering for play any game, contest, or
+5 competition utilizing a gambling device.
+6 (b) "Gambling" does not include:
+7 1. A contest or game in which eligibility to participate is determined by
+8 chance and the ultimate winner is determined by skill;
+9 2. Charitable gaming which is licensed and regulated under the provisions
+10 of KRS Chapter 238;
+11 3. E-sports competitions;
+12 4. Skill-based contests;[ or]
+13 5. The use or operation of any devices or machines that are described in
+14 subsection (7)(b) of this section; or
+15 6. Fantasy contests regulated under KRS Chapter 230;
+16 (7) (a) "Gambling device" means:
+17 1. Any so-called slot machine or any other machine or mechanical device
+18 which when operated may deliver, as a result of the application of any
+19 element of chance, any money or property, or by the operation of which
+20 a person may become entitled to receive, as the result of the application
+21 of any element of chance, any money or property;
+22 2. Any mechanical or electronic device permanently located in a business
+23 establishment, including a private club, that is offered or made available
+24 to a person to play or participate in a simulated gambling program in
+25 return for direct or indirect consideration, including but not limited to
+26 consideration paid for internet access or computer time, or a
+27 sweepstakes entry, which when operated may deliver as a result of the
+Page 38 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1220
+1 application of any element of chance, regardless of whether the result is
+2 also partially or predominantly based on skill, any money or property, or
+3 by the operation of which a person may become entitled to receive, as
+4 the result of the application of any element of chance, regardless of
+5 whether the result is also partially or predominantly based on skill, any
+6 money or property;
+7 3. Any other machine or any mechanical, electronic, or other device,
+8 including but not limited to roulette wheels, gambling tables and similar
+9 devices, designed and manufactured primarily for use in connection with
+10 gambling and which when operated may deliver, as the result of the
+11 application of any element of chance, any money or property, or by the
+12 operation of which a person may become entitled to receive, as the
+13 result of the application of any element of chance, any money or
+14 property; or
+15 4. Any electronic, computerized, or mechanical contrivance, terminal,
+16 machine, or other device that:
+17 a. Requires the direct or indirect payment of consideration which
+18 may include and shall not be limited to the insertion of a coin,
+19 currency, ticket, token, or similar object, or by depositing funds
+20 with the operator or owner of the device, to operate, play, or
+21 activate a game; and
+22 b. Offers games the outcomes of which are determined by any
+23 element of skill of the player and may deliver or entitle the person
+24 playing or operating the device to receive cash, cash equivalents,
+25 or gift cards or vouchers, billets, tickets, tokens, or electronic
+26 credits to be exchanged for cash or to receive merchandise or
+27 something of value, whether the payoff is made automatically
+Page 39 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1220
+1 from the device or manually.
+2 (b) The following shall not be considered gambling devices within this definition:
+3 1. Devices dispensing or selling combination or French pools on licensed,
+4 regular racetracks during races on said tracks;
+5 2. Devices dispensing or selling combination or French pools on historical
+6 races at licensed, regular racetracks as lawfully authorized by the
+7 Kentucky Horse Racing and Gaming Corporation;
+8 3. Electro-mechanical pinball machines specially designed, constructed, set
+9 up, and kept to be played for amusement only. Any pinball machine
+10 shall be made to receive and react only to the deposit of coins during the
+11 course of a game. The ultimate and only award given directly or
+12 indirectly to any player for the attainment of a winning score or
+13 combination on any pinball machine shall be the right to play one (1) or
+14 more additional games immediately on the same device at no further
+15 cost. The maximum number of free games that can be won, registered,
+16 or accumulated at one (1) time in operation of any pinball machine shall
+17 not exceed thirty (30) free games. Any pinball machine shall be made to
+18 discharge accumulated free games only by reactivating the playing
+19 mechanism once for each game released. Any pinball machine shall be
+20 made and kept with no meter or system to preserve a record of free
+21 games played, awarded, or discharged. Nonetheless, a pinball machine
+22 shall be a gambling device if a person gives or promises to give money,
+23 tokens, merchandise, premiums, or property of any kind for scores,
+24 combinations, or free games obtained in playing the pinball machine in
+25 which the person has an interest as owner, operator, keeper, or
+26 otherwise;
+27 4. Devices used in the conduct of charitable gaming;
+Page 40 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1220
+1 5. Coin-operated amusement machines;
+2 6. Devices used for wagering exempted from the application of this chapter
+3 pursuant to KRS 436.480;
+4 7. Devices used in e-sports competitions; or
+5 8. Devices used in skill-based contests, provided such devices do not meet
+6 the definition of gambling devices in paragraph (a) of this subsection;
+7 (8) "Lottery and gift enterprise" means:
+8 (a) A gambling scheme in which:
+9 1. The players pay or agree to pay something of value for chances,
+10 represented and differentiated by numbers or by combinations of
+11 numbers or by some other media, one (1) or more of which are to be
+12 designated the winning ones;
+13 2. The ultimate winner is to be determined by a drawing or by some other
+14 method based upon the element of chance; and
+15 3. The holders of the winning chances are to receive something of value;
+16 and
+17 (b) A gift enterprise or referral sales plan which meets the elements of a lottery
+18 listed in paragraph (a) of this subsection is to be considered a lottery under
+19 this chapter;
+20 (9) "Mutuel" or "the numbers games" means a form of lottery in which the winning
+21 chances or plays are not determined upon the basis of a drawing or other act on the
+22 part of persons conducting or connected with the scheme, but upon the basis of the
+23 outcome or outcomes of a future contingent event or events otherwise unrelated to
+24 the particular scheme;
+25 (10) "Player" means a person who engages in any form of gambling solely as a
+26 contestant or bettor, without receiving or becoming entitled to receive any profit
+27 therefrom other than personal gambling winnings, and without otherwise rendering
+Page 41 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1220
+1 any material assistance to the establishment, conduct, or operation of the particular
+2 gambling activity. A person who engages in "bookmaking" as defined in subsection
+3 (2) of this section is not a "player." The status of a "player" shall be a defense to any
+4 prosecution under this chapter;
+5 (11) "Profiting from gambling activity" means[-- A person "profits from gambling
+6 activity"] when, other than as a player, a person[he or she] accepts or receives or
+7 agrees to accept or receive money or other property pursuant to an agreement or
+8 understanding with any other person whereby the person[he or she] participates or
+9 is to participate in the proceeds of gambling activity not authorized under KRS
+10 Chapter 230;
+11 (12) "Simulated gambling program" means any method intended to be used by a person
+12 playing, participating, or interacting with an electronic device that may, through the
+13 application of any element of chance, either deliver money or property or an
+14 entitlement to receive money or property;
+15 (13) "Skill" means the knowledge, dexterity, or any other ability or expertise of a natural
+16 person;
+17 (14) "Skill-based contest" means a live, in-person competitive event among two (2) or
+18 more individuals or teams of individuals in which the ultimate winner is determined
+19 by skill and the competitive event does not utilize a gambling device; and
+20 (15) (a) "Something of value" means any money or property, any token, object, or
+21 article exchangeable for money or property, or any form of credit or promise
+22 directly or indirectly contemplating transfer of money or property or of any
+23 interest therein, or involving extension of a service, entertainment, or a
+24 privilege of playing at a game or scheme without charge.
+25 (b) "Something of value" does not include the award of a free, extended, or
+26 continuous play which is awarded as a prize for playing a game or scheme for
+27 a charge.
+Page 42 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1220
+1 Section 19. KRS 528.070 is amended to read as follows:
+2 (1) A person is guilty of permitting gambling when, having possession or control of
+3 premises which he or she knows are being used to advance gambling activity that is
+4 not licensed under KRS Chapter 230, he or she fails to halt or abate or attempt to
+5 halt or abate such use within a reasonable period of time.
+6 (2) Permitting gambling is a Class B misdemeanor.
+7 Section 20. KRS 68.182 is amended to read as follows:
+8 (1) Occupational license fees levied under KRS 67.083, 68.180, and 68.197 by the
+9 fiscal court of a county, consolidated local government, urban-county government,
+10 charter county government, or unified local government may apply to racetrack
+11 extensions.
+12 (2) As used in this section:
+13 (a) "Historical horse race" has the same meaning as in KRS 138.511; and
+14 (b) 1. "Racetrack extension" means any facility:
+15 a. Owned, leased, or purchased by an association licensed by the
+16 Kentucky Horse Racing and Gaming Corporation under KRS
+17 230.300;
+18 b. That meets the definition of "track" under KRS
+19 230.210(41)[(35)](c); and
+20 c. Where pari-mutuel wagering on historical horse races is conducted
+21 on terminals approved by the Kentucky Horse Racing and Gaming
+22 Corporation.
+23 2. "Racetrack extension" does not include a facility or real property used
+24 for training horses or at which live horse races are run for stakes, purses,
+25 or prizes under the jurisdiction of the Kentucky Horse Racing and
+26 Gaming Corporation.
+27 Section 21. KRS 91.202 is amended to read as follows:
+Page 43 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1220
+1 (1) Occupational license fees levied under KRS 91.200 by the legislative body of a city
+2 of the first class may apply to racetrack extensions.
+3 (2) As used in this section:
+4 (a) "Historical horse race" has the same meaning as in KRS 138.511; and
+5 (b) 1. "Racetrack extension" means any facility:
+6 a. Owned, leased, or purchased by an association licensed by the
+7 Kentucky Horse Racing and Gaming Corporation under KRS
+8 230.300;
+9 b. That meets the definition of "track" under KRS
+10 230.210(41)[(35)](c); and
+11 c. Where pari-mutuel wagering on historical horse races is conducted
+12 on terminals approved by the Kentucky Horse Racing and Gaming
+13 Corporation.
+14 2. "Racetrack extension" does not include a facility or real property used
+15 for training horses or at which live horse races are run for stakes, purses,
+16 or prizes under the jurisdiction of the Kentucky Horse Racing and
+17 Gaming Corporation.
+18 Section 22. KRS 92.282 is amended to read as follows:
+19 (1) Occupational license fees levied under KRS 92.281 by the legislative body of a city
+20 may apply to racetrack extensions.
+21 (2) As used in this section:
+22 (a) "Historical horse race" has the same meaning as in KRS 138.511; and
+23 (b) 1. "Racetrack extension" means any facility:
+24 a. Owned, leased, or purchased by an association licensed by the
+25 Kentucky Horse Racing and Gaming Corporation under KRS
+26 230.300;
+27 b. That meets the definition of "track" under KRS
+Page 44 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1220
+1 230.210(41)[(35)](c); and
+2 c. Where pari-mutuel wagering on historical horse races is conducted
+3 on terminals approved by the Kentucky Horse Racing and Gaming
+4 Corporation.
+5 2. "Racetrack extension" does not include a facility or real property used
+6 for training horses or at which live horse races are run for stakes, purses,
+7 or prizes under the jurisdiction of the Kentucky Horse Racing and
+8 Gaming Corporation.
+9 Section 23. This Act takes effect July 1, 2025.
+10 Section 24. This Act may be cited as the Fantasy Sports Consumer Protection
+11 Act.
+Page 45 of 45
+XXXX 2/18/2025 7:13 PM Jacketed
+
+[DELETED:   2  J A B S A ( " d a w m a f o p w i w c a m p a p w t t a t i p ( " t a s ( " ( S ( I p a a c o p i t s e f r d o i c f t u o t i a s ( " e M ( " m a h t i r w t A H R o D ( " m a p l b t K H R a G C u K 2 a e i t c o a r ( "]
+[DELETED:   2  J o ( R ( H ( " 2 ( " ( " f a ( ( " c m a f o s g o c t m 1 T m 2 A p 3 T p a o o m a f e o r 4 A a D b B a i a i b n l t a f s c N i O t s p s o a p o p t i S]
+[DELETED:   2  J o 5 T ( " 1 P 2 O f ( " c d n i a f c w a e f ( ( " c o o m a p w o o a p ( " a p o m d s m a a r o t p t ( ( " c p o " m a p w p ( " t 1 S 2 A 3 A 4 A ( " m a v g b d b G P ( " r o " r m t a p r o t s ( "]
+[DELETED:   2  J r T ( " t m t t c r a o i r f i w o i t c o i w m t K t f ( " f t ( " f ( " q h p h A a A p f m p p h A a A h r T p p s b a ( " ( A ( A a i ( A r w a f a a t p i a d a ( " s 2]
+[DELETED:   2  J ( " p m a t o s f l b t c ( " h m a h r w t A P H A ( " w " s o w o " w t w m t P m e o o p a w p s i a a a l a d r a a b t c a p t ( " m a i s p p a f ( " C ( " m a o t f i a w a p t a l l c o c t i l h ( T ( A p o a p a a p m o a l l ( A ( T]
+[DELETED:   2  J e w h p o f r w t o ( A o c ( A o e a g p r o l o h o ( " ( A ( A e s t ( " H ( " p t h a t c i w t t i l d t i p c y ( " s ( "]
+[DELETED:   2  J r ( " i a s e ( " o t ( " w m t w c u t c o s e o p o s e o o t i p s o a i a s e o c o s e i c c ( " ( M a m e o c c t d c ( I a p c m d o o d u i c w ( " w s p o " p m a p a a p t s a a l f f s w s f ( " a]
+[DELETED:   2  J d t ( " i r b ( " a ( F i t C L H R S a P W f ( R p o a a i t a r o r a t ( O 1 O r o t a r b n c t r p 2 N ( m w a i w t p a n f w t p g S R ( T]
+[DELETED:   2  J K C 1 t g t o o f c a e S 2 t 1 o t A b t c s n p a ( S ( D ( T ( R ( P a r n l t o h e ( ( E a c a f p t a a o p i ( R e ( E t ( T c a f t p o a l e a p i S R F ( I ( E i ( D i]
+[DELETED:   2  J ( C ( C ( E p ( U ( F ( M ( C ( M ( A a t ( A c t c a o r t a s e o s ( C i a i u o f d f i a e t c o l f d f i a m S R ( E a o p i t s a p s n o f c a ( A ( S a a t t c i t f t c r ( S e]
+[DELETED:   2  J 1 F b t a d o k e o i o 2 A b ( B d a l i p c o a d o a e ( T o ( T h s t a n c r c i K o a o r t a r c i t f c o a o p s t r o p r c a a h b ( T i ( T ( T ( T ( T o S S n o i a f t i ( T n a a o e p t h a f p ( o m ( T c a]
+[DELETED:   2  J i ( D o t 1 A o 2 A f s w 3 E a f o b g a l r o c i b a l a i K o a o j 4 F b c l a ( I o ( T c m p a r t e a o c m ( O c t n b i t d i t a m t q f l O c o t i t]
+[DELETED:   2  J c l i d a s s f t g f d s b f t t a t w a o d r o b t c ( ( A v 1 A 2 A 3 A c i t o f t i o w b a f o C ( T o p S R ( A p o i s f l o r a f c o a ( C w a c p a t c a i a ( A a c ( S r s ( A r o t t l u t ( m f t]
+[DELETED:   2  J i S R ( N c A ( A ( ( A f c o m o a a e f a p p ( A p e ( ( S 2 t 1 o t A s b c l t p t g ( T c ( A l t S R ( T a a ( T a c]
+[DELETED:   2  J ( I c r ( T K l S R ( A ( " c b a f c o f a p e a f b ( " f c c f p l i t C d c ( ( T C A s b e p ( o t o a g f c ( ( T t C f a l t ( m p t t e d f c o s r a s l f o t p]
+[DELETED:   2  J ( f ( A C t p l i t C u t o a h b t c w n ( d a t c p a ( ( L T p f r w a r f b o p ( o t a g f c r f t p y o f t ( A f c o m r i w t t c a e t l w r a e t t f t o s r ( A f c o a f a l o r o a l m o ( H b ( R t f c o t s t o o a f S R ( T k a t f c a f T f s c o]
+[DELETED:   2  J m t ( T f s b a b t K H R a G C ( ( A 1 F a e r t o a w t p 2 T K p g a a e i K 2 ( T f ( N y S R ( E f c o s i a s r o a w g p o t o p w c o m a a o a m m a a ( ( A v a ( T f t ( I a s p p i a f c t f c]
+[DELETED:   2  J o s r t t c a a m t n o t s e p ( A t s t c ( A f c o s d a m a p t m c t S R ( A ( " g f c r h t s m a i S ( " ( " A ( " ( B r c c ( T a ( T f c o p s b a b a r]
+[DELETED:   2  J p c m a w a a o i t c s p S 1   K 2 ( J 1 2 i a t r a f ( ( I i t p o t C o K i f o i r i t C a t p a t c t p h s t f a t e t h b i w t C ( F i i t p a i o t C t f a t e t i d t p a i o t C t a r n l ( F t t n c ( F c e w a G C w h d a l a s h]
+[DELETED:   2  J ( F c g c b c o i a i m i T i o c a K C 2 i t p t c g b c a o u e a t p t d o f f l c p a t c g a ( ( I t p h s a w t v i t c f c o h r i t C w p p t p l h r a w t i c i t C t C t r a m h r a h r m i a d a c o a w t u a m t a a w a t f o c h a i o h r ( I i t c e j o s w a f c i t C w p p t p a r p c u w a s w]
+[DELETED:   2  J ( I c e u a g m i t o o t c r o t h a i o h r o i w e t o c ( I i t c e j o c g i t C p ( I c e f c g f o a p t a p l w p r o S ( T C w 1 2 c g i t C e o s l e c a p s o t C o K w s c d a p]
+[DELETED:   2  J b m i s a m e t p o C t b f i a a t e t b p r a g e a w i o t G A t t K H R a G C p ( ( T A o P A s p a a a o t c R ( T L r s b d J 1 2 T c s f a a r T 1 T 2 A ( T t R ( T b ( L ( P ( S ( F]
+[DELETED:   2  J ( C ( B ( R ( ( T c s e a m a g o f t t o ( T a ( A f ( E a o p t c s b r f t f ( D a i p d t e t s a w ( D p a p t w a f i o a r r o s m a m p a i ( R t ( D a i p t s t t b K h i a t s u w t g o s i t e i o t h i o K e i r f t p o t e ( D t ( D]
+[DELETED:   2  J a ( D e ( D b d t a t c i d p p o q a a p r t s g b e ( D p a p t w a f i o a r r t e t h i i c g ( D a ( E e ( ( T 1 C i p a o 2 P a r e i p p I t c e t p a r p i a w K C 4 t c m r]
+[DELETED:   2  J ( M r c f s g b t c T c p p o a r s b d t p f t p o e s a c i i ( I i b a n p t c m d i o b a p o m u t s o t F a A C o a c t T p o t c C ( C w ( A ( A o l t s ( T s o l ( M o t c t i b o d s b o t t p K 6 a o t m a t s c o]
+[DELETED:   2  J p o s i a d i s ( a ( ( T m b a b t G A o m a m b r f a s f e i p i w l o ( A 2 a a e ( O ( T K H R a G C s a a r ( T K H R C s b a a a e c ( A H R C t t K H R a G C ( O ( T G C s a a r o t D o C ( T]
+[DELETED:   2  J o a ( A p e a f s b t f t D C ( N a o l t t c n i t c s a ( R ( R ( E e S ( T p o t K H R a G C s e o w t c E o s h s d a l ( P ( L ( B ( S ( F ( L ( C ( E m ( E i]
+[DELETED:   2  J a a S T p p f ( T c i v w j a s o a l h r d g a a a p o a g a m e o e t r i s t t p p o a g m i t o r w p o ( T c i v w j o a p o e t o a u t c m i a l f n t e t t d ( a T c s b a r p i a w K C 1 e c a p f t l o a d a w p t i]
+[DELETED:   2  J ( A ( R 1 T 2 T ( T c i v w j o a t c t p A t c r o w a t c i l i t C o o f a l o l o o t C a t c m i a l f o a t c T c s b a r p i a w K C 1 e c a p f t l ( T c i v w j o a m w d o v o a e d m t s o m d w i p b o d t a l o o p p i K h r b m o t i m d ( T i ( T t o o a w t a A a s b r t r ( T f o]
+[DELETED:   2  J h t ( T c s h f a t p n a r a m s b c i t s a t f a r t m a m ( A f l s b m i t f a m a c i a r b t c t t p o a p ( T c s e b a r m f f j t ( T i p c o a l i a w r o a o p m o a c t w r t a l o o p s r o s o c d r o o t p c a ( T f t p o d r p b s d e w]
+[DELETED:   2  J o a a J 1 2 c g w t C T c o e ( T c s h a t c a r a l u s o ( T c s p a r e s s p ( ( T c s p a r e a s l f i w s a b p o c ( S i c b e r a s b f s a ( P t K 6 i c u t s s ( ( T c s p a r t e s f t c o s w i s f r o s s w a r d s r f p o a e g s f w p d]
+[DELETED:   2  J a f s w s a m s a o r ( T c s p a r r t a r s w a l r i t a ( ( O a a J 1 2 t c i v w j a s o a c g a s p a r t e s f t c o c g c w t g e i t c a K C 2 p p c n r o t h a i o c g o i w t o c o c g a a c c o ( T a r o t K H R C t a i e o J 1 2 s r i e a t i a r a ( T a r o t c u t c a o r t a]
+[DELETED:   2  J b S 1   K 2 ( J 1 2 i a t r a f A ( C a ( M l ( C ( T o a r t m s a t o b ( T ( m d o i a t t u o a ( A ( F p C r t t o f a v o a r a r ( R a m ( S u c o o k o t l p a g f c g]
+[DELETED:   2  J T ( T ( T w ( T c o c g b a c o l o p ( S ( T ( C ( T t o p u t l p o c o i ( K p t t o p b p u t l p o c o i s d i K C ( K ( F S ( A ( L d o o g p e t t p o t s s n a i t p i p i c g d l ( L o i a p p f t p o u a c ( L o r i o a a s c o u b o g n h a r o r i c o o]
+[DELETED:   2  J r b t a n h w p f a a t g ( L t c ( L S 1   K 5 ( J 1 2 i a t r a f T ( ( " g a m A p " g a p g ( " n 1 E o t p g c s d o a 2 A o m o p p e o a 3 S 4 A 5 A o ( A p w]
+[DELETED:   2  J t g s a i p t p p u o t ( " m a g a b u a b u t o o f c e f m o t p a a b ( " l ( ( " r t d o i p o c i b n l t d o w t o o d a t c m w ( A a d p v b t t e c o i t c b e v ( A c a m m e t p p t a n c r 1 T s r 2 R]
+[DELETED:   2  J h f n o s p n t a t r v 3 A s ( T 1 A 2 E 3 E f a c c e o s o v w ( ( " c m a l c c t o s 1 T a a 2 R 3 T n o p i f b t b o t c 4 A f c t p i t c s b c f 5 A r 6 T b ( E l ( ( "]
+[DELETED:   2  J a e o c i a w a a o u t s " i p o o f p a g c o c ( " 1 A c 2 C o 3 E 4 S 5 T s 6 F ( ( " 1 A w e a o 2 A e t r c p f i a o c t o a s]
+[DELETED:   2  J a a b t r o t a o a e o c r o w m 3 A o m o a m e o o d i d g a w w o m d a t r o t a o o w a p m b e t r a t r o t a o a e o c a m o p 4 A e c o m c t m a R t d o i p o c w m i a s n b l t t i o a c c w t o o o o t d t o p o a b O g t o o w a d b a e p o g c o v b t t o e c t b e f c o t r m o s o v w t p i m a]
+[DELETED:   2  J f ( T 1 D r 2 D r a l r r a l a b t K 3 E u a k t b p f a o A p m s c o a g T u a o a g d o i t a p f t a o a w s o c m a g i o t s d a n f c o n d a f g o b r t p m m a k w n m o s t p a r o f g s t m p o p o a k f s c w t p h a i a o o k o o 4 D]
+[DELETED:   2  J 5 C 6 D p 7 D 8 D t ( " ( A 1 T p p o a t p s o v f c r a d b n o b c o n d 2 T m 3 T a ( A l t ( " c p o t ( " m a p w e i a f o g s a a c t]
+[DELETED:   2  J a g ( p ( " f g a m A p " f g a a u i n C ( " p a o a e o c e d m o p o a e ( " p ( " m b ( ( " o m a m o a t o o a d i t o i e o a s e o a p ( " o v d n i t a o a f e o c a]
+[DELETED:   2  J S ( A p n h ( P S ( O l f l u K 6 6 a 6 b t f c c g o u l g m a t r e ( A ( " ( 1 " a O l o p b a a l b t K H R a G C u K 2 b T m t d o " u K 2 c W o C 2 " f o p u t j o t K H R a G S]
+[DELETED:   2  J ( O o ( A ( " ( 1 " a O l o p b a a l b t K H R a G C u K 2 b T m t d o " u K 2 c W o C 2 " f o p u t j o t K H R a G S ( O m ( A ( " ( 1 " a O l o p b a a l b t K H R a G C u K 2 b T m t d o " u K]
+[DELETED:   2  J 2 c W o C 2 " f o p u t j o t K H R a G S S A]

@@ -1,0 +1,1437 @@
+Title: 1 AN ACT relating to pretrial release.
+Official Title: 1 AN ACT relating to pretrial release.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 23 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS BR 927
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 431.066 is amended to read as follows:
+4 (1) For purposes of this section and Section 2 of this Act:[,]
+5 (a) "Enhanced scrutiny offense" means a violation of KRS 189A.010(5)(c) and
+6 (d), 209.990(2), (3), and (4), 218A.1432, 507A.040, 507A.050, 508.020,
+7 508.025, 508.030 excluding minor injury or no visible injury, 508.040(2)(a)
+8 and (b), 508.050, 508.060, 508.075, 508.078, 508.100, 508.110, 508.120,
+9 508.140, 508.150, 509.020, 509.040, 510.120, 510.130, 511.020, 513.030,
+10 513.040, 515.020, 515.030, 515.040, 518.090, 525.020, 527.205, 529.100, or
+11 529.110;
+12 (b) "Money bail" means any financial condition of release, including cash,
+13 property, a percentage of cash bail, secured, unsecured, or otherwise;
+14 (c) "Standard conditions" means:
+15 1. The defendant shall not commit a local, state, or federal offense;
+16 2. The defendant shall appear for all required court appearances; and
+17 3. The defendant shall avoid all contact with any alleged victim and any
+18 potential witness who may testify concerning the charge, unless or
+19 until the court removes this condition;
+20 (d) "Verified and eligible defendant" means a defendant who pretrial services is
+21 able to interview and assess, and whose identity pretrial services is able to
+22 confirm through investigation; and
+23 (e) "Violent or sexual offense" means an offense that would qualify a
+24 defendant if convicted as a violent offender under KRS 439.3401 or an
+25 offense under KRS Chapter 510, KRS 529.100 involving commercial sexual
+26 activity, or KRS 530.020, 530.064(1)(a), 531.310, or 531.320.
+27 (2) (a) A verified and eligible defendant shall not be detained on money bail, except
+Page 1 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 927
+1 as provided in paragraph (b) of this subsection.
+2 (b) A high-risk defendant who has not been charged with a violent or sexual
+3 offense, and who meets the money bail requirements of subsection (3) of
+4 Section 2 of this Act, may be detained on money bail.
+5 (3) (a) Pretrial services shall use a validated pretrial risk assessment tool to
+6 determine whether a verified and eligible defendant presents a low,
+7 moderate, or high risk of failing to appear for required court appearances
+8 or committing a criminal offense while on pretrial release pending
+9 adjudication.
+10 (b) The validated pretrial risk assessment tool shall weigh a defendant's risk of
+11 failing[When a court considers pretrial release and bail for an arrested
+12 defendant, the court shall consider whether the defendant constitutes a flight
+13 risk, is unlikely] to appear for required court appearances[trial], or being[or
+14 is likely to be] a danger to the public if released, by considering factors that
+15 may include but are not limited to prior failure to appear for scheduled
+16 court appearances, prior criminal history, types of offenses, and any other
+17 factors determined appropriate or necessary by pretrial services[. In making
+18 this determination, the court shall consider the pretrial risk assessment for a
+19 verified and eligible defendant along with the factors set forth in KRS
+20 431.525].
+21 (c) The validated pretrial risk assessment tool shall be regularly validated and
+22 adjusted to ensure that it is predictive of pretrial outcomes and accurately
+23 predicts risk across all racial groups, ethnic groups, and genders. The tool
+24 shall be adjusted to ensure accuracy and to minimize disparate results.
+25 (4)[(3)] (a) If a verified and eligible defendant:
+26 1. Poses a low or moderate risk as determined under subsection (3) of
+27 this section;
+Page 2 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 927
+1 2. Has been charged with a violation, misdemeanor, or Class D felony;
+2 3. Has not been charged with a violent or sexual offense;
+3 4. Has not been charged with an enhanced scrutiny offense; and
+4 5. Has not been charged with a violation of KRS 17.510, 17.545, 17.546,
+5 17.549, 119.255, 189A.010(5)(b) to (d), 209.990, 235.240 for a second
+6 or subsequent offense, 403.763, 456.120, 456.180, 507.050, 508.030
+7 with minor or no visible injury, 508.070, 508.080, 508.120, 508.155,
+8 509.030, 509.080, 511.085, 514.080, 520.090, 524.040, 525.120,
+9 525.125, 525.130, 525.135, 525.205, 527.020, 529.020, 529.040(2),
+10 529.070, 529.080, 529.090, 530.010, 530.060, 531.020, 531.030,
+11 531.040, 531.050, 531.060, 531.090, 531.100, 531.335, 531.340,
+12 531.350, 531.360, or 531.370;
+13 the defendant shall be released on his or her own recognizance by a pretrial
+14 officer, unless the defendant has been convicted of a violent or sexual
+15 offense within five (5) years prior to his or her current offense, in which
+16 case the pretrial officer, upon approval of his or her pretrial supervisor,
+17 may refer the defendant to the court.
+18 (b) If a pretrial officer refers a defendant to the court pursuant to paragraph
+19 (a) of this subsection, the court may order the defendant released on his or
+20 her own recognizance subject to standard conditions, may impose additional
+21 nonfinancial conditions as outlined in KRS 431.064 and 431.518 and
+22 Section 5 of this Act, or may, either on its own or by motion of the
+23 prosecutor, detain the defendant until a detention hearing is held pursuant
+24 to Section 2 of this Act.
+25 (5) (a) When the court is making a bail determination for[If] a verified and eligible
+26 defendant, if the defendant:
+27 1. Poses a low risk as determined under subsection (3) of this section;
+Page 3 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 927
+1 2. Has been charged with a Class A, B, or C felony; and
+2 3. Has not been charged with a violent or sexual offense or with an
+3 enhanced scrutiny offense;[of flight, is likely to appear for trial, and is
+4 not likely to be a danger to others,]
+5 the court shall order the defendant released on his or her[unsecured bond or
+6 on the defendant's] own recognizance subject to standard[such other]
+7 conditions[ as the court may order].
+8 (b) When the court is making a bail determination for a verified and eligible
+9 defendant, if the defendant:
+10 1. Poses a low risk as determined under subsection (3) of this section;
+11 2. Has been charged with a Class A, B, or C felony; and
+12 3. Has not been charged with a violent or sexual offense but has been
+13 charged with an enhanced scrutiny offense;
+14 the court shall order the defendant released on his or her own recognizance
+15 subject to standard conditions and may impose additional nonfinancial
+16 conditions as outlined in KRS 431.064 and 431.518 and Section 5 of this
+17 Act.
+18 (c) When the court is making a bail determination for a verified and eligible
+19 defendant, if the defendant:
+20 1. Poses a low risk as determined under subsection (3) of this section;
+21 and
+22 2. Has been charged with a violent or sexual offense;
+23 the court may order the defendant released on his or her own recognizance
+24 subject to standard conditions, may impose additional nonfinancial
+25 conditions as outlined in KRS 431.064 and 431.518 and Section 5 of this
+26 Act, or may, either on its own or by motion of the prosecutor, detain the
+27 defendant until a detention hearing is held pursuant to Section 2 of this Act.
+Page 4 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 927
+1 (6)[(4)] (a) When the court is making a bail determination for[If] a verified and
+2 eligible defendant, if the defendant:
+3 1. Poses a moderate risk as determined under subsection (3) of this
+4 section;
+5 2. Has been charged with a Class A, B, or C felony; and
+6 3. Has not been charged with a violent or sexual offense or with an
+7 enhanced scrutiny offense;[of flight, has a moderate risk of not
+8 appearing for trial, or poses a moderate risk of danger to others,]
+9 the court shall order[release] the defendant released on his or her own
+10 recognizance subject to standard[under the same] conditions[ as in
+11 subsection (3) of this section] and may impose additional nonfinancial
+12 conditions as outlined in KRS 431.064 and 431.518 and Section 5 of this Act
+13 [but shall consider ordering the defendant to participate in global positioning
+14 system monitoring, controlled substance testing, increased supervision, or
+15 such other conditions as the court may order].
+16 (b) When the court is making a bail determination for a verified and eligible
+17 defendant, if the defendant:
+18 1. Poses a moderate risk as determined under subsection (3) of this
+19 section;
+20 2. Has been charged with a Class A, B, or C felony; and
+21 3. Has not been charged with a violent or sexual offense but has been
+22 charged with an enhanced scrutiny offense;
+23 the court may order the defendant released on his or her own recognizance
+24 subject to standard conditions, may impose additional nonfinancial
+25 conditions as outlined in KRS 431.064 and 431.518 and Section 5 of this
+26 Act, or may, either on its own or by motion of the prosecutor, detain the
+27 defendant until a detention hearing is held pursuant to Section 2 of this Act.
+Page 5 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 927
+1 (c) When the court is making a bail determination for a verified and eligible
+2 defendant, if the defendant:
+3 1. Poses a moderate risk as determined under subsection (3) of this
+4 section; and
+5 2. Has been charged with a violent or sexual offense;
+6 the court shall detain the defendant until a detention hearing is held
+7 pursuant to Section 2 of this Act.
+8 (7)[(5)] (a) When the court is making a bail determination for a verified and
+9 eligible defendant, if the defendant:
+10 1. Poses a high risk as determined under subsection (3) of this section;
+11 2. Has been charged with a violation, misdemeanor, or Class D felony;
+12 and
+13 3. Has not been charged with a violent or sexual offense or with an
+14 enhanced scrutiny offense;
+15 the court shall order the defendant released on his or her own recognizance
+16 subject to standard conditions and may impose additional nonfinancial
+17 conditions as outlined in KRS 431.064 and 431.518 and Section 5 of this
+18 Act.
+19 (b) When the court is making a bail determination for a verified and eligible
+20 defendant, if the defendant:
+21 1. Poses a high risk as determined under subsection (3) of this section;
+22 2. Has been charged with a Class A, B, or C felony; and
+23 3. Has not been charged with a violent or sexual offense or with an
+24 enhanced scrutiny offense;
+25 the court may order the defendant released on his or her own recognizance
+26 subject to standard conditions, may impose additional nonfinancial
+27 conditions as outlined in KRS 431.064 and 431.518 and Section 5 of this
+Page 6 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 927
+1 Act, or may, either on its own or by motion of the prosecutor, detain the
+2 defendant until a detention hearing is held pursuant to Section 2 of this Act.
+3 (c) When the court is making a bail determination for a verified and eligible
+4 defendant, if the defendant:
+5 1. Poses a high risk as determined under subsection (3) of this section;
+6 and
+7 2. Has been charged with a violent or sexual offense or with an
+8 enhanced scrutiny offense;
+9 the court shall detain the defendant until a detention hearing is held
+10 pursuant to Section 2 of this Act.
+11 (8) If a verified and eligible defendant has been charged with a felony offense under
+12 KRS Chapter 218A:
+13 (a) In addition to any conditions outlined in paragraph (b) of this subsection,
+14 the defendant may be subject to any substance abuse screening or treatment
+15 recommended by pretrial services as ordered by the court;
+16 (b) Pretrial services shall perform substance abuse screenings and may refer
+17 the defendant for substance abuse treatment; and
+18 (c) A defendant's refusal to participate in the screening shall not disqualify the
+19 defendant from being granted pretrial release.
+20 (9) The Supreme Court may make any procedural rules necessary to implement this
+21 section[(a) Except as provided in paragraph (b) of this subsection, regardless of the
+22 amount of the bail set, the court shall permit the defendant a credit of one hundred
+23 dollars ($100) per day as a payment toward the amount of the bail set for each day
+24 or portion of a day that the defendant remains in jail prior to trial. Upon the service
+25 of sufficient days in jail to have sufficient credit to satisfy the bail, the defendant
+26 shall be released from jail on the conditions specified in this section or in this
+27 chapter.
+Page 7 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 927
+1 (b) The provisions of paragraph (a) of this subsection shall not apply to:
+2 1. Any person convicted of, pleading guilty to, or entering an Alford plea
+3 to a felony offense under KRS Chapter 510, KRS 529.100 involving
+4 commercial sexual activity, KRS 530.020, 530.064(1)(a), 531.310, or
+5 531.320, or who is a violent offender as defined in KRS 439.3401; or
+6 2. A defendant who is found by the court to present a flight risk or to be a
+7 danger to others.
+8 (c) For purposes of this subsection, "a day or portion of a day" means any time
+9 spent in a detention facility following booking.
+10 (d) A defendant shall not earn credit pursuant to paragraph (a) of this subsection
+11 while also earning credit pursuant to KRS 534.070.
+12 (6) If a court determines that a defendant shall not be released pursuant to subsection
+13 (5) of this section, the court shall document the reasons for denying the release in a
+14 written order.
+15 (7) The jailer shall be responsible for tracking the credit earned by a defendant pursuant
+16 to subsection (5) of this section].
+17 SECTION 2. A NEW SECTION OF KRS CHAPTER 431 IS CREATED TO
+18 READ AS FOLLOWS:
+19 (1) A detention hearing shall be held within five (5) days of a verified and eligible
+20 defendant being detained pursuant to Section 1 of this Act. The detention hearing
+21 may be held at arraignment.
+22 (2) (a) At the detention hearing, if the defendant poses:
+23 1. A low or moderate risk and was detained pursuant to Section 1 of this
+24 Act; or
+25 2. A high risk and was detained pursuant to Section 1 of this Act but is
+26 not eligible for money bail pursuant to subsection (3) of this section;
+27 the court shall determine whether any nonfinancial condition, or
+Page 8 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 927
+1 combination of conditions, outlined in KRS 431.064 and 431.518 and
+2 Section 5 of this Act shall reasonably ensure the appearance of the
+3 defendant for required court appearances and the safety of the public.
+4 (b) The court shall, in determining whether there are conditions of release that
+5 will reasonably ensure the appearance of the defendant for required court
+6 appearances and the safety of the public, consider the following:
+7 1. Whether the offense involves violence, obstruction of public
+8 administration under KRS Chapter 519, or interference with judicial
+9 administration under KRS Chapter 524; and
+10 2. The history and characteristics of the defendant, including:
+11 a. The defendant’s character, physical and mental condition,
+12 family ties, employment, financial resources, length of residence
+13 in the community, community ties, past conduct, history relating
+14 to drug or alcohol abuse, criminal history, and record
+15 concerning appearance at court proceedings;
+16 b. Whether, at the time of the current offense or arrest, the
+17 defendant was on probation, on parole, on supervised release, or
+18 on other release pending trial, sentencing, appeal, or completion
+19 of sentence for an offense under local, state, or federal law; and
+20 c. The nature and seriousness of the danger to any person or the
+21 community that would be posed by the defendant’s release.
+22 (c) There shall be a rebuttable presumption that no condition or combination of
+23 conditions of release will reasonably ensure the safety of the public if the
+24 court finds by probable cause that the defendant:
+25 1. Committed a violent or sexual offense while armed with a deadly
+26 weapon or dangerous instrument;
+27 2. Committed a violent or sexual offense and has previously been
+Page 9 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 927
+1 convicted of a violent or sexual offense which was committed while on
+2 release pending trial for a local, state, or federal offense;
+3 3. Committed a violent or sexual offense while on release pending trial
+4 for a local, state, or federal offense;
+5 4. Committed two (2) or more violent or sexual offenses in separate
+6 incidents that are joined in the case before the court; or
+7 5. Committed a violent or sexual offense in which the victim sustained a
+8 physical injury.
+9 (d) After considering the information outlined in paragraph (b) of this
+10 subsection and the existence, if any, of a rebuttable presumption under
+11 paragraph (c) of this subsection, if the court finds by clear and convincing
+12 evidence that no condition, or combination of conditions, outlined in KRS
+13 431.064 and 431.518 and Section 5 of this Act shall reasonably ensure the
+14 appearance of the defendant for required court appearances and the safety
+15 of the public, the court shall order the defendant detained before trial. If the
+16 court orders the defendant detained before trial, the court shall make
+17 written findings of fact and a written statement for the reasons for the
+18 detention.
+19 (3) (a) At the detention hearing, if the defendant:
+20 1. Poses a high risk and was detained pursuant to Section 1 of this Act;
+21 2. Poses a risk of failing to appear for required court appearances;
+22 3. Does not pose a danger to the public if released; and
+23 4. Has not been charged with a violent or sexual offense;
+24 the court may impose money bail in addition to any conditions outlined in
+25 KRS 431.064 and 431.518 and Section 5 of this Act for the sole purpose of
+26 reasonably ensuring the appearance of the defendant for required court
+27 appearances. The court shall not impose money bail to ensure the
+Page 10 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 927
+1 protection or the safety of the community, to ensure that the defendant will
+2 not obstruct or attempt to obstruct the criminal justice process, or for the
+3 purpose of preventing the release of the defendant. If imposed, the amount
+4 of money bail shall be set in accordance with Section 6 of this Act.
+5 (b) In considering whether to impose money bail under paragraph (a) of this
+6 subsection, the court may upon its own motion, or shall upon the motion of
+7 the Commonwealth, conduct an inquiry into the source of the property to be
+8 designated for potential forfeiture or offered as collateral to secure a bond,
+9 and shall decline to accept the designation or the use as collateral of
+10 property that, because of its source, will not reasonably ensure the
+11 appearance of the defendant at required court appearances.
+12 (4) At the detention hearing, the defendant shall:
+13 (a) Have the right to be represented by counsel and, if financially unable to
+14 obtain adequate representation, to have counsel appointed; and
+15 (b) Be afforded an opportunity to testify. However, the defendant's testimony
+16 shall not be admissible on the issue of guilt in any other judicial
+17 proceedings, except for those proceedings under KRS 520.070 and 520.080,
+18 in revocation hearings, in perjury proceedings, and for the purpose of
+19 impeachment in any subsequent proceedings.
+20 (5) After the court has determined pursuant to this section to either detain or release
+21 a verified and eligible defendant prior to trial, the determination may be reviewed
+22 at any time before trial by the court either upon its own motion or upon motion of
+23 either party if:
+24 (a) The court finds that information exists that was not known to the movant at
+25 the time of the determination and that has a material bearing on the issue of
+26 whether there are conditions of release that will reasonably ensure the
+27 appearance of the defendant for required court appearances or the safety of
+Page 11 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 927
+1 the public; or
+2 (b) Based on the Commonwealth's motion, the court finds probable cause that
+3 the defendant has failed to comply with the conditions of release. The court
+4 may either summon the defendant to appear at a hearing or issue a warrant
+5 for the defendant's arrest. If a defendant is arrested pursuant to this
+6 paragraph, a hearing shall be held within five (5) days of arrest.
+7 (6) Nothing in this section shall be construed as modifying or limiting the verified
+8 and eligible defendant's presumption of innocence.
+9 Section 3. KRS 27A.360 is amended to read as follows:
+10 The court disposition level of the system shall consist of at least the following
+11 information as relates to bond and pretrial release:
+12 (1) Whether or not the defendant was released on bail or pretrial release;
+13 (2) If the defendant is released on money bail under Section 2 of this Act:
+14 (a) The amount of the bail;
+15 (b) Whether the bail was cash, property, a percentage of cash bail, secured,
+16 unsecured, or otherwise;
+17 (c) Whether the conditions of bail were satisfied; and
+18 (d) Whether or not the bail was returned, forfeited, credited to the public advocate
+19 or otherwise; and
+20 (3) If released on any other form of pretrial release:
+21 (a) Whether or not released on own recognizance;
+22 (b) Whether release was upon conditions, if so what conditions; and
+23 (c) Whether the conditions of release were satisfied.
+24 Section 4. KRS 222.204 is amended to read as follows:
+25 (1) A person who has been arrested and placed in jail prior to trial for violation of KRS
+26 222.202 and has not had two (2) prior convictions in the previous twelve (12)
+27 months for violation of KRS 222.202 shall be released[ as set forth by the Supreme
+Page 12 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 927
+1 Court Rule of Criminal Procedure uniform schedule of bail]:
+2 (a) To an adult who is willing to accept responsibility for the defendant through a
+3 signature verification on a form determined by the Administrative Office of
+4 the Courts;
+5 (b) If eligible for money bail under Section 2 of this Act, upon payment of[he
+6 pays] the requisite amount of bail on a bail schedule issued by the court;
+7 (c) At such time as he or she is able to safely care for himself or herself but in no
+8 event shall he or she be detained for more than eight (8) hours following his
+9 or her arrest;
+10 (d) If he or she is ordered released by a court of competent jurisdiction; or
+11 (e) Unless such person's release is precluded by other provisions of law.
+12 (2) The jail or facility authorized by county or city ordinance agreeing to care for the
+13 person releasing the defendant shall be considered as acting in good faith and shall
+14 not be liable for subsequent acts of the defendant upon release.
+15 Section 5. KRS 431.520 is amended to read as follows:
+16 Except as provided in Sections 1 and 2 of this Act, any person charged with an offense
+17 shall be ordered released by a court of competent jurisdiction pending trial on his or her
+18 personal recognizance and [or upon the execution of an unsecured bail bond in an
+19 amount set by the court or as fixed by the Supreme Court as provided by KRS 431.540,
+20 unless the court determines in the exercise of its discretion that such a release will not
+21 reasonably assure the appearance of the person as required, or the court determines the
+22 person is a flight risk or a danger to others. When such a determination is made, ]the
+23 court may[shall, either in lieu of or in addition to the above methods of release,] impose
+24 any of the following conditions of release:
+25 (1) Place the person in the custody of a designated person or organization agreeing to
+26 supervise him or her;
+27 (2) Place restrictions on the travel, association, or place of abode of the person during
+Page 13 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 927
+1 the period of release;
+2 (3) For those eligible for money bail under Section 2 of this Act, require the execution
+3 of a bail bond:
+4 (a) With sufficient personal surety or sureties acceptable to the court; in
+5 determining the sufficiency of such surety or sureties, the court shall consider
+6 his or her character,[ his] place of residence,[ his] relationship with the
+7 defendant, and[ his] financial and employment circumstances;[ or]
+8 (b) With the ten percent (10%) deposit as provided in KRS 431.530; [provided
+9 that if the defendant is permitted to earn credit toward bail pursuant to KRS
+10 431.066, that credit shall be applied to the ten percent (10%) deposit; ]or
+11 (c) With the deposit of cash equal to the amount of the bond or in lieu thereof
+12 acceptable security as provided in KRS 431.535;
+13 (4) If the person's record indicates a history of controlled substance or alcohol abuse:
+14 (a) Order the person to submit to periodic testing for use of controlled substances
+15 or alcohol and pay a reasonable fee, not to exceed the actual cost of the test
+16 and analysis, as determined by the court with the fee to be collected by the
+17 circuit clerk, held in an agency account, and disbursed, on court order, solely
+18 to the agency or agencies responsible for testing and analysis as compensation
+19 for the cost of the testing and analysis performed under this subsection. If the
+20 person is declared indigent, the testing fee may be waived by the court. The
+21 Administrative Office of the Courts shall establish pilot projects to implement
+22 the provisions of this subsection; or
+23 (b) Order the person to use an alcohol monitoring device, as defined in KRS
+24 431.068. All costs associated with the device, including administrative and
+25 operating costs, shall be paid by the defendant. If the court determines that the
+26 defendant is indigent, and a person, county, or other organization has not
+27 agreed to pay the costs for the defendant in an attempt to reduce incarceration
+Page 14 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 927
+1 expenses and increase public safety, the court shall consider other conditions
+2 of release provided for in this section;
+3 (5) (a) During all or part of a person's period of release pursuant to this section, order
+4 the person to participate in a global positioning monitoring system program
+5 operated by a county pursuant to KRS 67.372 and 67.374 under the same
+6 terms and conditions provided under KRS 431.517.
+7 (b) If the person is charged with a sex crime as defined in KRS 17.500, consider
+8 requiring that he or she be monitored electronically, and shall consider
+9 requiring the person be subject to home incarceration;
+10 (6) Impose any nonfinancial conditions[other condition] deemed reasonably necessary
+11 to ensure[assure] appearance as required, including a condition requiring that the
+12 person return to custody after specified hours;
+13 (7) A court authorizing the release of a person pursuant to this section shall cause the
+14 issuance of an appropriate order containing a statement of the conditions imposed,
+15 if any, shall cause such person to be informed of the penalties applicable to
+16 violations of the conditions of his or her release, and shall cause him or her to be
+17 informed that a warrant for his or her arrest will be issued immediately upon any
+18 such violation;
+19 (8) A person for whom conditions of release are imposed and who after twenty-four
+20 (24) hours from the time of the imposition of said conditions continues to be
+21 detained as a result of his or her inability to meet the conditions of release shall,
+22 upon written application or upon the court's own motion, be entitled to have the
+23 conditions reviewed by the court which imposed them. A person who is ordered
+24 released on a condition which requires that he or she return to custody after
+25 specified hours shall, upon written application or upon the court's own motion, be
+26 entitled to a review by the court which imposed the condition; or
+27 (9) If at any time following release of a defendant and before he or she is required to
+Page 15 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 927
+1 appear for trial, the court is advised of a material change in the defendant's
+2 circumstances or that he or she has not complied with all conditions imposed upon
+3 his or her release, the court having jurisdiction may:
+4 (a) Order the arrest of the defendant;
+5 (b) Enter an order requiring the defendant, his or her surety or sureties to appear
+6 and show cause why the bail bond should not be forfeited or the conditions of
+7 his or her release be changed; or
+8 (c) Both.
+9 A copy of said order shall be served upon the defendant and[,] his or her surety or
+10 sureties. If the defendant fails to appear before the court as ordered or if, after
+11 hearing, the court finds the conditions of release have not been complied with, the
+12 court may change the conditions imposed or forfeit the bail bond or any portion
+13 thereof and enter a judgment for the Commonwealth against the defendant and his
+14 or her surety or sureties for the amount of the bail bond or any portion thereof and
+15 cost of the proceedings.
+16 Section 6. KRS 431.525 is amended to read as follows:
+17 (1) For those eligible for money bail under Section 2 of this Act, the amount of the
+18 bail shall be:
+19 (a) Sufficient to ensure[insure] compliance with the conditions of release set by
+20 the court;
+21 (b) Not oppressive;
+22 (c) Commensurate with the nature of the offense charged;
+23 (d) Considerate of the past criminal acts and the reasonably anticipated conduct
+24 of the defendant if released; and
+25 (e) Considerate of the financial ability of the defendant.
+26 (2) When a person is eligible for money bail under Section 2 of this Act and is
+27 charged with an offense punishable by fine only, the amount of the bail bond set
+Page 16 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 927
+1 shall not exceed the amount of the maximum penalty and costs.
+2 (3) When a person is eligible for money bail under Section 2 of this Act and has been
+3 convicted of an offense and only a fine has been imposed, the amount of the bail
+4 shall not exceed the amount of the fine.
+5 (4) When a person is eligible for money bail under Section 2 of this Act and has been
+6 charged with one (1) or more misdemeanors, the amount of the bail for all charges
+7 shall be encompassed by a single amount of bail that shall not exceed the amount of
+8 the fine and court costs for the one (1) highest misdemeanor charged. This
+9 subsection shall apply only to misdemeanor offenses not involving physical injury
+10 or sexual contact.
+11 (5) When a person is eligible for money bail under Section 2 of this Act and has been
+12 convicted of a misdemeanor offense and a sentence of jail, probation, conditional
+13 discharge, or sentence other than a fine only has been imposed, the amount of bail
+14 for release on appeal shall not exceed double the amount of the maximum fine that
+15 could have been imposed for the one (1) highest misdemeanor offense for which the
+16 person was convicted. This subsection shall apply only to misdemeanors not
+17 involving physical injury or sexual contact.
+18 (6) [The provisions of this section shall not apply to a defendant who is found by the
+19 court to present a flight risk or to be a danger to others.
+20 (7) If a court determines that a defendant shall not be released pursuant to subsection
+21 (6) of this section, the court shall document the reasons for denying the release in a
+22 written order.
+23 (8) ]The Administrative Office of the Courts shall establish pilot projects to implement
+24 controlled substance or alcohol abuse testing as specified under this subsection. If
+25 the person's record indicates a history of controlled substance or alcohol abuse, the
+26 court may order the person to submit to periodic testing for use of controlled
+27 substances or alcohol and to pay a reasonable fee, not to exceed the actual cost of
+Page 17 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 927
+1 the test and analysis, as determined by the court, with the fee to be collected by the
+2 circuit clerk, held in an agency account, and disbursed, on court order, solely to the
+3 agency or agencies responsible for testing and analysis as compensation for the cost
+4 of the testing and analysis performed under this subsection. If the person is declared
+5 indigent, the testing fee may be waived by the court. If the court finds the
+6 conditions of release have not been complied with, the court may change the
+7 conditions imposed or forfeit the bail bond or any portion thereof and enter a
+8 judgment for the Commonwealth against the person and his or her surety or
+9 sureties for the amount of the bail bond or any portion thereof and the cost of the
+10 proceedings.
+11 Section 7. KRS 431.530 is amended to read as follows:
+12 (1) Any person who has been permitted to execute a bail bond in accordance with KRS
+13 431.520(3)(b) shall deposit with the clerk of the court before which the action is
+14 pending a sum of money equal to ten percent (10%) of the bail, but in no event shall
+15 such deposit be less than ten dollars ($10)[ unless the defendant earned full credit
+16 toward the applicable amount of bail pursuant to KRS 431.066, in which case the
+17 defendant shall not be required to make a deposit with the clerk of the court].
+18 (2) Upon depositing said sum the defendant shall be released from custody subject to
+19 all conditions of release imposed by the court.
+20 (3) Except as provided in subsection (5) of this section, if the conditions of release have
+21 been performed and the defendant has been discharged from all obligations in the
+22 action the clerk of the court shall return to the defendant, unless the court orders
+23 otherwise, ninety percent (90%) of the sum deposited and shall retain as bail costs
+24 ten percent (10%) of the amount deposited; provided, however, in no event shall the
+25 amount retained by the clerk as bail costs be less than five dollars ($5). It is further
+26 provided that the court shall order the clerk of court to pay into the public advocate
+27 special account any amount of the sum deposited by the defendant, in excess of bail
+Page 18 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 927
+1 costs, which in its sound discretion represents a reasonable fee for any public
+2 advocate legal or investigative services provided for the defendant under KRS
+3 Chapter 31, but in no event shall the amount so paid to the public advocate special
+4 account as public advocate legal and investigative fees be less than five dollars ($5)
+5 per case. At the request of the defendant the court may order the amount repayable
+6 to defendant from such deposit to be paid to defendant's attorney of record.
+7 (4) Except as provided in subsection (5) of this section, if a final judgment for a fine
+8 and court costs or either is entered in the prosecution of an action in which a deposit
+9 has been made in accordance with subsection (1) of this section, the balance of such
+10 deposit, after deduction of bail costs and public advocate fees as provided for in
+11 subsection (3) of this section, shall be applied to the satisfaction of the judgment.
+12 (5) If the defendant has performed all conditions of release and if the defendant is
+13 found not guilty of the offense for which bail was posted, or if all charges against
+14 him or her relating to the offense for which bail was posted are dropped or
+15 dismissed, then all bail money deposited by the defendant or by another person on
+16 his or her behalf shall be returned to him or her with no deductions therefrom as
+17 provided in subsection (3) or (4) of this section.
+18 Section 8. KRS 431.540 is amended to read as follows:
+19 (1) The Supreme Court may by rule or order prescribe a uniform schedule of amounts
+20 of bail in designated nonviolent Class D felonies, misdemeanors, and violations for
+21 defendants eligible for money bail under Section 2 of this Act.[;]
+22 (2)[(1)] Except as provided in subsection (3)[(2)] of this section, when the amount of
+23 bail is fixed by such rule or order of the Supreme Court for a particular offense, the
+24 clerk of the court or other public officers so authorized by the court's order shall
+25 accept cash bail in the prescribed amount or the deposit authorized by KRS 431.530
+26 and release the defendant to appear in accordance with the conditions of the bail
+27 bond. A receipt shall be delivered to the defendant for the bail so taken and within a
+Page 19 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 927
+1 reasonable time such bail shall be deposited with the clerk of the court having
+2 jurisdiction of the offense.
+3 (3)[(2)] A court may, in the exercise of its reasonable discretion, refuse to set bail in
+4 the amount prescribed by such rule or order of the Supreme Court, but, in so doing,
+5 the court must set forth in writing its reasons for such refusal.
+6 Section 9. KRS 452.260 is amended to read as follows:
+7 If the defendant is in custody, the order for the change of venue shall be accompanied by
+8 an order for his or her removal by the sheriff or jailer of the county in which he or she is
+9 held, with such sufficient guard as the court directs, and for his or her delivery to the
+10 jailer of the county where the trial is to be held. If the defendant is under recognizance or
+11 bond for his or her appearance, he or she shall be ordered to appear before[, before the
+12 order is granted, give sufficient bail for his appearance at] the proper court[, or be
+13 surrendered into the custody of the proper officer].
+14 Section 10. KRS 431.510 is amended to read as follows:
+15 (1) As used in this section:
+16 (a) 1. "Bail bondsman" means any person, partnership, or corporation engaged
+17 for profit in the business of:
+18 a. Furnishing bail, making bonds, or entering into undertakings, as
+19 surety, for the appearance of persons charged with any criminal
+20 offense or violation of law or ordinance punishable by fine,
+21 imprisonment, or death, before any of the courts of this state; or
+22 b. Securing the payment of fines imposed and of costs assessed by
+23 those courts upon final disposition thereof.
+24 2. The business of a bail bondsman is limited to the acts, transactions, and
+25 undertakings described in this paragraph and to no other; and
+26 (b) "Charitable bail organization" means an organization, including but not
+27 limited to an organization exempt under Section 501(c)(3) of the Internal
+Page 20 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 927
+1 Revenue Code, that solicits or accepts donations from the public for the
+2 purpose of:
+3 1. Furnishing bail, making bonds, or entering into undertakings, as surety,
+4 whether through direct payment or by payment through a third party, for
+5 the appearance of persons charged with any criminal offense or violation
+6 of law or ordinance punishable by fine, imprisonment, or death before
+7 any of the courts of this state; or
+8 2. Securing the payment of fines imposed and of costs assessed by any of
+9 the courts of this state upon final disposition thereof.
+10 (2) It shall be unlawful for any person to engage in the business of bail bondsman or to
+11 otherwise for compensation or other consideration:
+12 (a) Furnish bail or funds or property to serve as bail; or
+13 (b) Make bonds or enter into undertakings as surety;
+14 for the appearance of persons charged with any criminal offense or violation of law
+15 or ordinance punishable by fine, imprisonment, or death, before any of the courts of
+16 this state, or to secure the payment of fines imposed and of costs assessed by such
+17 courts upon a final disposition.
+18 (3) It shall be unlawful for any charitable bail organization to:
+19 (a) Furnish bail or funds or property to serve as bail in an amount of five
+20 thousand dollars ($5,000) or more; or
+21 (b) Make bonds or enter into undertakings as surety in an amount of five
+22 thousand dollars ($5,000) or more;
+23 for the appearance of persons charged with any criminal offense or violation of law
+24 or ordinance punishable by fine or imprisonment before any of the courts of this
+25 state, or to secure the payment of fines imposed and of costs assessed by those
+26 courts upon a final disposition.
+27 (4) Notwithstanding subsection (3) of this section, it shall be unlawful for any
+Page 21 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 927
+1 charitable bail organization to furnish bail or funds or property to serve as bail, or to
+2 make bonds or enter into undertakings as surety, regardless of amount, for any
+3 person:
+4 (a) Alleged to have committed an offense:
+5 1. Of domestic violence and abuse as defined in KRS 403.720;
+6 2. Of dating violence and abuse as defined in KRS 456.010; or
+7 3. That would classify the person as a violent offender under KRS
+8 439.3401;
+9 (b) Held under a civil court order or warrant issued under KRS 222.430 to
+10 222.437; or
+11 (c) Who has previously received bail or funds or property to serve as bail from a
+12 charitable bail organization.
+13 (5) Any person who posts bail or bond on behalf of any organization under this section
+14 shall provide a photo identification.
+15 (6) A charitable bail organization shall maintain and annually report the following
+16 information to the Legislative Research Commission for referral to the Interim Joint
+17 Committee on Judiciary no later than October 31 of each year, and shall make
+18 publicly available on the organization's website, or by publishing in a newspaper of
+19 general circulation that complies with the requirements of KRS 424.120 if the
+20 organization does not maintain a website:
+21 (a) The expenditures of the organization, including a separate reporting of the
+22 amount furnished for bail, or funds or property to serve as bail; and
+23 (b) The number of individuals and classification of offenses for those individuals
+24 for which any bail, or funds or property to serve as bail, has been provided.
+25 (7) Any bond posted by a charitable organization under this section that is ordered
+26 forfeited as a result of the commission of a new criminal offense shall be distributed
+27 to the victim of the new criminal offense, if a victim is identified.
+Page 22 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 927
+1 (8) Nothing contained in this section shall serve to release any bail bondsman
+2 previously licensed by this state from the obligation of undischarged bail bond
+3 liability existing on June 19, 1976.
+4 (9) KRS 431.510 to 431.550 shall not be construed to[ limit or repeal KRS 431.021 or
+5 to] prevent licensed insurers providing security required by Subtitle 39 of KRS
+6 Chapter 304 and nonprofit associations from posting or causing to be posted by
+7 licensed insurers security or acting as surety for their insureds or members for an
+8 offense arising from the operation of a motor vehicle, provided that such posting of
+9 security or acting as surety is merely incidental to the terms and conditions of an
+10 insurance contract or a membership agreement and provided further that no separate
+11 premium or charge therefor is required from the insureds or members.
+12 Section 11. The following KRS section is repealed:
+13 431.021 Guaranteed arrest bond certificate of surety company to be accepted in lieu of
+14 cash bail in traffic cases.
+Page 23 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+[DELETED:   2  J A B S ( F ( " ( 2 ( a ( 2 5 5 5 5 a ( 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 ( " b m a f c o r i c p ( " 1 T 2 T 3 T p w w m t c t c u o u ( " a c ( " o s o m a o t w q a d i c a a v o u K 4 o a o a ( ( A]
+[DELETED:   2  J a ( A o S ( ( P s s u a v p r a t t d w a v a e d p a l m o c a c o w o p r p a ( T f a c c p r a b f a a d r i m i b a n l t p f t a f s c f t v a e d a w t f s f i K 4 ( T a p s ( ( I 1 P t]
+[DELETED:   2  J 2 H 3 H 4 H 5 H 1 o s o 4 4 4 5 5 w 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5  t o u t d h b c o a v o s o c t p o u a o h o h p s m ( I ( h n c a o i K 4 a 4 a S 5 o t A o m e o i o o b m o t p t ( ( W d 1 P]
+[DELETED:   2  J 2 H 3 H n b c w a v o s o o w a e n  t o t d o r s t s o c ( W d 1 P 2 H 3 H c  t s t s c a m i a n c A ( W d 1 P a 2 H  t s t s c m i a n c A d]
+[DELETED:   2  J ( ( W e 1 P a m r a d u s ( o t s 2 H 3 H n b c w a v o s o o w a e s o f h a m r o n a  t c s o t d r o h o h o r s t s t s c a i s ( o t s a m i a n c [ s m c s t i s o s ( W d 1 P a m r a d u s ( o t s 2 H 3 H c  t s t s c m i a n c A d]
+[DELETED:   2  J ( W d 1 P a m r a d u s ( o t s 2 H  t c s d t d u a d h i h p ( ( W t c i m a b d f a v a e 1 P 2 H a 3 H n b c w a v o s o o w a e  t s t s c a m i a n c A ( W d 1 P 2 H 3 H n b c w a v o s o o w a e  t s t s c m i a n c]
+[DELETED:   2  J A d ( W d 1 P a 2 H b c w a v o s o o w a e  t c s d t d u a d h i h p ( I K ( I t r ( P t ( A d ( T s a d o o s b r f j o t c s i t s o i t c]
+[DELETED:   2  J ( T 1 A t a f o u K C 5 K 5 i c s a K 5 5 5 o 5 2 A d ( F s ( A w ( I ( w ( T t S R ( A d m ( ( A 1 A A 2 A n  t c s d w a n c o]
+[DELETED:   2  J c o c o i K 4 a 4 a S 5 o t A s r e t a o t d ( T w a 1 W t o i v o o p a a 2 T a T d c p a m c f i t d o a a c h a r c b W a t t o t c o o a t d o o c T c ( T c c 1 C a v o s o w a w a d w 2 C a v o s o a h p b]
+[DELETED:   2  J c r 3 C f 4 C t ( o m v o s o i s i 5 C p ( A c t i o i p ( o t s a t e i a o a r p u p e 4 a o c o t d d b t t c s m w f o f a a w s f t r f t d ( ( A 1 P 2 P 3 D 4 H  t K r e t a o t d f r c a T c s n i m b t e t]
+[DELETED:   2  J p n p o ( I s t d a s d t a t d o t u a c o p t b o i s w n r e t a ( A ( H o ( B s n b a o t i o g i a o j p i r h i p p a f t p o i ( A a a e ( T t w t a c o r t w r e t a]
+[DELETED:   2  J t ( B t m f t d a I a d i a p t t p ( N a S T c d l o t s s c o a l t f i ( W ( I ( T ( W t b w c p a p o c b s u ( W ( W o ( I ( W ( W ( W S ( A 2 a h n h t ( p c i t p t ( m]
+[DELETED:   2  J C ( T s t ( I p ( A e o ( I ( U ( T p n S E s p r a [ u t e o a u b b i a a u r p c a ( P s ( P]
+[DELETED:   2  J t ( F o ( W s p s o s a t t c i d h o h c h p o r h r w t d ( W t 4 ( W a ( I ( O o a c t f p A t ( O t p t u a a m d a d i K 4 A c a w t d i a a o d i i a a p c o o o h n a]
+[DELETED:   2  J e o ( ( D t o b a c p t K 6 a 6 u t s t ( I r t h o s b m e a s c r ( I t p ( A i i a s c s p t b i o t p a t v i s ( A ( h f t t o t i o s c c t b d u c r o a c w r t h o s r t c a s e ( I]
+[DELETED:   2  J a f t t c i a o a m c i t d c h ( O ( E a h ( B  A s I t d f t a b t c a o o i a h c t o c S ( F b ( S t ( N ( C ( C o ( C ( W a p i e f m b u S 2 o t A a i c]
+[DELETED:   2  J s ( W c s ( W c s t f a c c f t o ( h m c T s o ( W c d f c p w c T s s a o t m n i ( [ c ( I ( w ( ] c t c m o t p t s t p t f u o c s]
+[DELETED:   2  J t c a o i t t f m b w b t c I t c f t c o r h n b c w t c m c t c i o f t b b o a p t a e a j f t C a t p a h o h s o s p S ( A 4 p s t d ( U a ( E b a o t a p s]
+[DELETED:   2  J c w i i s d r a r f f a p a l o i s p f t d u K C a p t ( E a h d s ( I t d h p a c o r a i t d i f h o h r t t o f w b w p a d o d h p S ( T o d ( E b c a a b]
+[DELETED:   2  J r t s b s b d w t c o t c h j ( A t t S I a h j b o i g g s b f h a a t p c o b s S ( A ( 1 " f a F s a w o o v o l o o p b f i b S t 2 T u ( " b o m a o i b n l t a o e u S 5 o t I]
+[DELETED:   2  J R C t s o a d f t p f t p 1 F w t o a 2 S t ( I o ( F ( M  f o t c ( I ( F b o f o p t s a b i a a o f t ( M b o e i u a s i a a o f t  f o s o s t p o i a o a b t c ( N s ( o t s i s b u f a]
+[DELETED:   2  J c m b o e i u a s r o a f a p ( A 1 O 2 O 3 T w c t p a a v o u K 4 ( H u a c c o o w i u K 2 t 2 ( W c ( A s ( A c b o s m a a r t f i C o J n l t O 3 o e y a s m p g c t c w t r o K 4 i t o ( T e o t o i a s r o t a ( T f ( A b p b a c o u t s t i o f t]
+[DELETED:   2  J ( N c i t s s s t r a b b p l b t s f t o o u b b l ( K t p l i p s r b S 3 o K C l o s i p S 4 c]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS BR 927
+1 AN ACT relating to pretrial release.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 431.066 is amended to read as follows:
+4 (1) For purposes of this section and Section 2 of this Act:[,]
+5 (a) "Enhanced scrutiny offense" means a violation of KRS 189A.010(5)(c) and
+6 (d), 209.990(2), (3), and (4), 218A.1432, 507A.040, 507A.050, 508.020,
+7 508.025, 508.030 excluding minor injury or no visible injury, 508.040(2)(a)
+8 and (b), 508.050, 508.060, 508.075, 508.078, 508.100, 508.110, 508.120,
+9 508.140, 508.150, 509.020, 509.040, 510.120, 510.130, 511.020, 513.030,
+10 513.040, 515.020, 515.030, 515.040, 518.090, 525.020, 527.205, 529.100, or
+11 529.110;
+12 (b) "Money bail" means any financial condition of release, including cash,
+13 property, a percentage of cash bail, secured, unsecured, or otherwise;
+14 (c) "Standard conditions" means:
+15 1. The defendant shall not commit a local, state, or federal offense;
+16 2. The defendant shall appear for all required court appearances; and
+17 3. The defendant shall avoid all contact with any alleged victim and any
+18 potential witness who may testify concerning the charge, unless or
+19 until the court removes this condition;
+20 (d) "Verified and eligible defendant" means a defendant who pretrial services is
+21 able to interview and assess, and whose identity pretrial services is able to
+22 confirm through investigation; and
+23 (e) "Violent or sexual offense" means an offense that would qualify a
+24 defendant if convicted as a violent offender under KRS 439.3401 or an
+25 offense under KRS Chapter 510, KRS 529.100 involving commercial sexual
+26 activity, or KRS 530.020, 530.064(1)(a), 531.310, or 531.320.
+27 (2) (a) A verified and eligible defendant shall not be detained on money bail, except
+Page 1 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 927
+1 as provided in paragraph (b) of this subsection.
+2 (b) A high-risk defendant who has not been charged with a violent or sexual
+3 offense, and who meets the money bail requirements of subsection (3) of
+4 Section 2 of this Act, may be detained on money bail.
+5 (3) (a) Pretrial services shall use a validated pretrial risk assessment tool to
+6 determine whether a verified and eligible defendant presents a low,
+7 moderate, or high risk of failing to appear for required court appearances
+8 or committing a criminal offense while on pretrial release pending
+9 adjudication.
+10 (b) The validated pretrial risk assessment tool shall weigh a defendant's risk of
+11 failing[When a court considers pretrial release and bail for an arrested
+12 defendant, the court shall consider whether the defendant constitutes a flight
+13 risk, is unlikely] to appear for required court appearances[trial], or being[or
+14 is likely to be] a danger to the public if released, by considering factors that
+15 may include but are not limited to prior failure to appear for scheduled
+16 court appearances, prior criminal history, types of offenses, and any other
+17 factors determined appropriate or necessary by pretrial services[. In making
+18 this determination, the court shall consider the pretrial risk assessment for a
+19 verified and eligible defendant along with the factors set forth in KRS
+20 431.525].
+21 (c) The validated pretrial risk assessment tool shall be regularly validated and
+22 adjusted to ensure that it is predictive of pretrial outcomes and accurately
+23 predicts risk across all racial groups, ethnic groups, and genders. The tool
+24 shall be adjusted to ensure accuracy and to minimize disparate results.
+25 (4)[(3)] (a) If a verified and eligible defendant:
+26 1. Poses a low or moderate risk as determined under subsection (3) of
+27 this section;
+Page 2 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 927
+1 2. Has been charged with a violation, misdemeanor, or Class D felony;
+2 3. Has not been charged with a violent or sexual offense;
+3 4. Has not been charged with an enhanced scrutiny offense; and
+4 5. Has not been charged with a violation of KRS 17.510, 17.545, 17.546,
+5 17.549, 119.255, 189A.010(5)(b) to (d), 209.990, 235.240 for a second
+6 or subsequent offense, 403.763, 456.120, 456.180, 507.050, 508.030
+7 with minor or no visible injury, 508.070, 508.080, 508.120, 508.155,
+8 509.030, 509.080, 511.085, 514.080, 520.090, 524.040, 525.120,
+9 525.125, 525.130, 525.135, 525.205, 527.020, 529.020, 529.040(2),
+10 529.070, 529.080, 529.090, 530.010, 530.060, 531.020, 531.030,
+11 531.040, 531.050, 531.060, 531.090, 531.100, 531.335, 531.340,
+12 531.350, 531.360, or 531.370;
+13 the defendant shall be released on his or her own recognizance by a pretrial
+14 officer, unless the defendant has been convicted of a violent or sexual
+15 offense within five (5) years prior to his or her current offense, in which
+16 case the pretrial officer, upon approval of his or her pretrial supervisor,
+17 may refer the defendant to the court.
+18 (b) If a pretrial officer refers a defendant to the court pursuant to paragraph
+19 (a) of this subsection, the court may order the defendant released on his or
+20 her own recognizance subject to standard conditions, may impose additional
+21 nonfinancial conditions as outlined in KRS 431.064 and 431.518 and
+22 Section 5 of this Act, or may, either on its own or by motion of the
+23 prosecutor, detain the defendant until a detention hearing is held pursuant
+24 to Section 2 of this Act.
+25 (5) (a) When the court is making a bail determination for[If] a verified and eligible
+26 defendant, if the defendant:
+27 1. Poses a low risk as determined under subsection (3) of this section;
+Page 3 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 927
+1 2. Has been charged with a Class A, B, or C felony; and
+2 3. Has not been charged with a violent or sexual offense or with an
+3 enhanced scrutiny offense;[of flight, is likely to appear for trial, and is
+4 not likely to be a danger to others,]
+5 the court shall order the defendant released on his or her[unsecured bond or
+6 on the defendant's] own recognizance subject to standard[such other]
+7 conditions[ as the court may order].
+8 (b) When the court is making a bail determination for a verified and eligible
+9 defendant, if the defendant:
+10 1. Poses a low risk as determined under subsection (3) of this section;
+11 2. Has been charged with a Class A, B, or C felony; and
+12 3. Has not been charged with a violent or sexual offense but has been
+13 charged with an enhanced scrutiny offense;
+14 the court shall order the defendant released on his or her own recognizance
+15 subject to standard conditions and may impose additional nonfinancial
+16 conditions as outlined in KRS 431.064 and 431.518 and Section 5 of this
+17 Act.
+18 (c) When the court is making a bail determination for a verified and eligible
+19 defendant, if the defendant:
+20 1. Poses a low risk as determined under subsection (3) of this section;
+21 and
+22 2. Has been charged with a violent or sexual offense;
+23 the court may order the defendant released on his or her own recognizance
+24 subject to standard conditions, may impose additional nonfinancial
+25 conditions as outlined in KRS 431.064 and 431.518 and Section 5 of this
+26 Act, or may, either on its own or by motion of the prosecutor, detain the
+27 defendant until a detention hearing is held pursuant to Section 2 of this Act.
+Page 4 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 927
+1 (6)[(4)] (a) When the court is making a bail determination for[If] a verified and
+2 eligible defendant, if the defendant:
+3 1. Poses a moderate risk as determined under subsection (3) of this
+4 section;
+5 2. Has been charged with a Class A, B, or C felony; and
+6 3. Has not been charged with a violent or sexual offense or with an
+7 enhanced scrutiny offense;[of flight, has a moderate risk of not
+8 appearing for trial, or poses a moderate risk of danger to others,]
+9 the court shall order[release] the defendant released on his or her own
+10 recognizance subject to standard[under the same] conditions[ as in
+11 subsection (3) of this section] and may impose additional nonfinancial
+12 conditions as outlined in KRS 431.064 and 431.518 and Section 5 of this Act
+13 [but shall consider ordering the defendant to participate in global positioning
+14 system monitoring, controlled substance testing, increased supervision, or
+15 such other conditions as the court may order].
+16 (b) When the court is making a bail determination for a verified and eligible
+17 defendant, if the defendant:
+18 1. Poses a moderate risk as determined under subsection (3) of this
+19 section;
+20 2. Has been charged with a Class A, B, or C felony; and
+21 3. Has not been charged with a violent or sexual offense but has been
+22 charged with an enhanced scrutiny offense;
+23 the court may order the defendant released on his or her own recognizance
+24 subject to standard conditions, may impose additional nonfinancial
+25 conditions as outlined in KRS 431.064 and 431.518 and Section 5 of this
+26 Act, or may, either on its own or by motion of the prosecutor, detain the
+27 defendant until a detention hearing is held pursuant to Section 2 of this Act.
+Page 5 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 927
+1 (c) When the court is making a bail determination for a verified and eligible
+2 defendant, if the defendant:
+3 1. Poses a moderate risk as determined under subsection (3) of this
+4 section; and
+5 2. Has been charged with a violent or sexual offense;
+6 the court shall detain the defendant until a detention hearing is held
+7 pursuant to Section 2 of this Act.
+8 (7)[(5)] (a) When the court is making a bail determination for a verified and
+9 eligible defendant, if the defendant:
+10 1. Poses a high risk as determined under subsection (3) of this section;
+11 2. Has been charged with a violation, misdemeanor, or Class D felony;
+12 and
+13 3. Has not been charged with a violent or sexual offense or with an
+14 enhanced scrutiny offense;
+15 the court shall order the defendant released on his or her own recognizance
+16 subject to standard conditions and may impose additional nonfinancial
+17 conditions as outlined in KRS 431.064 and 431.518 and Section 5 of this
+18 Act.
+19 (b) When the court is making a bail determination for a verified and eligible
+20 defendant, if the defendant:
+21 1. Poses a high risk as determined under subsection (3) of this section;
+22 2. Has been charged with a Class A, B, or C felony; and
+23 3. Has not been charged with a violent or sexual offense or with an
+24 enhanced scrutiny offense;
+25 the court may order the defendant released on his or her own recognizance
+26 subject to standard conditions, may impose additional nonfinancial
+27 conditions as outlined in KRS 431.064 and 431.518 and Section 5 of this
+Page 6 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 927
+1 Act, or may, either on its own or by motion of the prosecutor, detain the
+2 defendant until a detention hearing is held pursuant to Section 2 of this Act.
+3 (c) When the court is making a bail determination for a verified and eligible
+4 defendant, if the defendant:
+5 1. Poses a high risk as determined under subsection (3) of this section;
+6 and
+7 2. Has been charged with a violent or sexual offense or with an
+8 enhanced scrutiny offense;
+9 the court shall detain the defendant until a detention hearing is held
+10 pursuant to Section 2 of this Act.
+11 (8) If a verified and eligible defendant has been charged with a felony offense under
+12 KRS Chapter 218A:
+13 (a) In addition to any conditions outlined in paragraph (b) of this subsection,
+14 the defendant may be subject to any substance abuse screening or treatment
+15 recommended by pretrial services as ordered by the court;
+16 (b) Pretrial services shall perform substance abuse screenings and may refer
+17 the defendant for substance abuse treatment; and
+18 (c) A defendant's refusal to participate in the screening shall not disqualify the
+19 defendant from being granted pretrial release.
+20 (9) The Supreme Court may make any procedural rules necessary to implement this
+21 section[(a) Except as provided in paragraph (b) of this subsection, regardless of the
+22 amount of the bail set, the court shall permit the defendant a credit of one hundred
+23 dollars ($100) per day as a payment toward the amount of the bail set for each day
+24 or portion of a day that the defendant remains in jail prior to trial. Upon the service
+25 of sufficient days in jail to have sufficient credit to satisfy the bail, the defendant
+26 shall be released from jail on the conditions specified in this section or in this
+27 chapter.
+Page 7 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 927
+1 (b) The provisions of paragraph (a) of this subsection shall not apply to:
+2 1. Any person convicted of, pleading guilty to, or entering an Alford plea
+3 to a felony offense under KRS Chapter 510, KRS 529.100 involving
+4 commercial sexual activity, KRS 530.020, 530.064(1)(a), 531.310, or
+5 531.320, or who is a violent offender as defined in KRS 439.3401; or
+6 2. A defendant who is found by the court to present a flight risk or to be a
+7 danger to others.
+8 (c) For purposes of this subsection, "a day or portion of a day" means any time
+9 spent in a detention facility following booking.
+10 (d) A defendant shall not earn credit pursuant to paragraph (a) of this subsection
+11 while also earning credit pursuant to KRS 534.070.
+12 (6) If a court determines that a defendant shall not be released pursuant to subsection
+13 (5) of this section, the court shall document the reasons for denying the release in a
+14 written order.
+15 (7) The jailer shall be responsible for tracking the credit earned by a defendant pursuant
+16 to subsection (5) of this section].
+17 SECTION 2. A NEW SECTION OF KRS CHAPTER 431 IS CREATED TO
+18 READ AS FOLLOWS:
+19 (1) A detention hearing shall be held within five (5) days of a verified and eligible
+20 defendant being detained pursuant to Section 1 of this Act. The detention hearing
+21 may be held at arraignment.
+22 (2) (a) At the detention hearing, if the defendant poses:
+23 1. A low or moderate risk and was detained pursuant to Section 1 of this
+24 Act; or
+25 2. A high risk and was detained pursuant to Section 1 of this Act but is
+26 not eligible for money bail pursuant to subsection (3) of this section;
+27 the court shall determine whether any nonfinancial condition, or
+Page 8 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 927
+1 combination of conditions, outlined in KRS 431.064 and 431.518 and
+2 Section 5 of this Act shall reasonably ensure the appearance of the
+3 defendant for required court appearances and the safety of the public.
+4 (b) The court shall, in determining whether there are conditions of release that
+5 will reasonably ensure the appearance of the defendant for required court
+6 appearances and the safety of the public, consider the following:
+7 1. Whether the offense involves violence, obstruction of public
+8 administration under KRS Chapter 519, or interference with judicial
+9 administration under KRS Chapter 524; and
+10 2. The history and characteristics of the defendant, including:
+11 a. The defendant’s character, physical and mental condition,
+12 family ties, employment, financial resources, length of residence
+13 in the community, community ties, past conduct, history relating
+14 to drug or alcohol abuse, criminal history, and record
+15 concerning appearance at court proceedings;
+16 b. Whether, at the time of the current offense or arrest, the
+17 defendant was on probation, on parole, on supervised release, or
+18 on other release pending trial, sentencing, appeal, or completion
+19 of sentence for an offense under local, state, or federal law; and
+20 c. The nature and seriousness of the danger to any person or the
+21 community that would be posed by the defendant’s release.
+22 (c) There shall be a rebuttable presumption that no condition or combination of
+23 conditions of release will reasonably ensure the safety of the public if the
+24 court finds by probable cause that the defendant:
+25 1. Committed a violent or sexual offense while armed with a deadly
+26 weapon or dangerous instrument;
+27 2. Committed a violent or sexual offense and has previously been
+Page 9 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 927
+1 convicted of a violent or sexual offense which was committed while on
+2 release pending trial for a local, state, or federal offense;
+3 3. Committed a violent or sexual offense while on release pending trial
+4 for a local, state, or federal offense;
+5 4. Committed two (2) or more violent or sexual offenses in separate
+6 incidents that are joined in the case before the court; or
+7 5. Committed a violent or sexual offense in which the victim sustained a
+8 physical injury.
+9 (d) After considering the information outlined in paragraph (b) of this
+10 subsection and the existence, if any, of a rebuttable presumption under
+11 paragraph (c) of this subsection, if the court finds by clear and convincing
+12 evidence that no condition, or combination of conditions, outlined in KRS
+13 431.064 and 431.518 and Section 5 of this Act shall reasonably ensure the
+14 appearance of the defendant for required court appearances and the safety
+15 of the public, the court shall order the defendant detained before trial. If the
+16 court orders the defendant detained before trial, the court shall make
+17 written findings of fact and a written statement for the reasons for the
+18 detention.
+19 (3) (a) At the detention hearing, if the defendant:
+20 1. Poses a high risk and was detained pursuant to Section 1 of this Act;
+21 2. Poses a risk of failing to appear for required court appearances;
+22 3. Does not pose a danger to the public if released; and
+23 4. Has not been charged with a violent or sexual offense;
+24 the court may impose money bail in addition to any conditions outlined in
+25 KRS 431.064 and 431.518 and Section 5 of this Act for the sole purpose of
+26 reasonably ensuring the appearance of the defendant for required court
+27 appearances. The court shall not impose money bail to ensure the
+Page 10 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 927
+1 protection or the safety of the community, to ensure that the defendant will
+2 not obstruct or attempt to obstruct the criminal justice process, or for the
+3 purpose of preventing the release of the defendant. If imposed, the amount
+4 of money bail shall be set in accordance with Section 6 of this Act.
+5 (b) In considering whether to impose money bail under paragraph (a) of this
+6 subsection, the court may upon its own motion, or shall upon the motion of
+7 the Commonwealth, conduct an inquiry into the source of the property to be
+8 designated for potential forfeiture or offered as collateral to secure a bond,
+9 and shall decline to accept the designation or the use as collateral of
+10 property that, because of its source, will not reasonably ensure the
+11 appearance of the defendant at required court appearances.
+12 (4) At the detention hearing, the defendant shall:
+13 (a) Have the right to be represented by counsel and, if financially unable to
+14 obtain adequate representation, to have counsel appointed; and
+15 (b) Be afforded an opportunity to testify. However, the defendant's testimony
+16 shall not be admissible on the issue of guilt in any other judicial
+17 proceedings, except for those proceedings under KRS 520.070 and 520.080,
+18 in revocation hearings, in perjury proceedings, and for the purpose of
+19 impeachment in any subsequent proceedings.
+20 (5) After the court has determined pursuant to this section to either detain or release
+21 a verified and eligible defendant prior to trial, the determination may be reviewed
+22 at any time before trial by the court either upon its own motion or upon motion of
+23 either party if:
+24 (a) The court finds that information exists that was not known to the movant at
+25 the time of the determination and that has a material bearing on the issue of
+26 whether there are conditions of release that will reasonably ensure the
+27 appearance of the defendant for required court appearances or the safety of
+Page 11 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 927
+1 the public; or
+2 (b) Based on the Commonwealth's motion, the court finds probable cause that
+3 the defendant has failed to comply with the conditions of release. The court
+4 may either summon the defendant to appear at a hearing or issue a warrant
+5 for the defendant's arrest. If a defendant is arrested pursuant to this
+6 paragraph, a hearing shall be held within five (5) days of arrest.
+7 (6) Nothing in this section shall be construed as modifying or limiting the verified
+8 and eligible defendant's presumption of innocence.
+9 Section 3. KRS 27A.360 is amended to read as follows:
+10 The court disposition level of the system shall consist of at least the following
+11 information as relates to bond and pretrial release:
+12 (1) Whether or not the defendant was released on bail or pretrial release;
+13 (2) If the defendant is released on money bail under Section 2 of this Act:
+14 (a) The amount of the bail;
+15 (b) Whether the bail was cash, property, a percentage of cash bail, secured,
+16 unsecured, or otherwise;
+17 (c) Whether the conditions of bail were satisfied; and
+18 (d) Whether or not the bail was returned, forfeited, credited to the public advocate
+19 or otherwise; and
+20 (3) If released on any other form of pretrial release:
+21 (a) Whether or not released on own recognizance;
+22 (b) Whether release was upon conditions, if so what conditions; and
+23 (c) Whether the conditions of release were satisfied.
+24 Section 4. KRS 222.204 is amended to read as follows:
+25 (1) A person who has been arrested and placed in jail prior to trial for violation of KRS
+26 222.202 and has not had two (2) prior convictions in the previous twelve (12)
+27 months for violation of KRS 222.202 shall be released[ as set forth by the Supreme
+Page 12 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 927
+1 Court Rule of Criminal Procedure uniform schedule of bail]:
+2 (a) To an adult who is willing to accept responsibility for the defendant through a
+3 signature verification on a form determined by the Administrative Office of
+4 the Courts;
+5 (b) If eligible for money bail under Section 2 of this Act, upon payment of[he
+6 pays] the requisite amount of bail on a bail schedule issued by the court;
+7 (c) At such time as he or she is able to safely care for himself or herself but in no
+8 event shall he or she be detained for more than eight (8) hours following his
+9 or her arrest;
+10 (d) If he or she is ordered released by a court of competent jurisdiction; or
+11 (e) Unless such person's release is precluded by other provisions of law.
+12 (2) The jail or facility authorized by county or city ordinance agreeing to care for the
+13 person releasing the defendant shall be considered as acting in good faith and shall
+14 not be liable for subsequent acts of the defendant upon release.
+15 Section 5. KRS 431.520 is amended to read as follows:
+16 Except as provided in Sections 1 and 2 of this Act, any person charged with an offense
+17 shall be ordered released by a court of competent jurisdiction pending trial on his or her
+18 personal recognizance and [or upon the execution of an unsecured bail bond in an
+19 amount set by the court or as fixed by the Supreme Court as provided by KRS 431.540,
+20 unless the court determines in the exercise of its discretion that such a release will not
+21 reasonably assure the appearance of the person as required, or the court determines the
+22 person is a flight risk or a danger to others. When such a determination is made, ]the
+23 court may[shall, either in lieu of or in addition to the above methods of release,] impose
+24 any of the following conditions of release:
+25 (1) Place the person in the custody of a designated person or organization agreeing to
+26 supervise him or her;
+27 (2) Place restrictions on the travel, association, or place of abode of the person during
+Page 13 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 927
+1 the period of release;
+2 (3) For those eligible for money bail under Section 2 of this Act, require the execution
+3 of a bail bond:
+4 (a) With sufficient personal surety or sureties acceptable to the court; in
+5 determining the sufficiency of such surety or sureties, the court shall consider
+6 his or her character,[ his] place of residence,[ his] relationship with the
+7 defendant, and[ his] financial and employment circumstances;[ or]
+8 (b) With the ten percent (10%) deposit as provided in KRS 431.530; [provided
+9 that if the defendant is permitted to earn credit toward bail pursuant to KRS
+10 431.066, that credit shall be applied to the ten percent (10%) deposit; ]or
+11 (c) With the deposit of cash equal to the amount of the bond or in lieu thereof
+12 acceptable security as provided in KRS 431.535;
+13 (4) If the person's record indicates a history of controlled substance or alcohol abuse:
+14 (a) Order the person to submit to periodic testing for use of controlled substances
+15 or alcohol and pay a reasonable fee, not to exceed the actual cost of the test
+16 and analysis, as determined by the court with the fee to be collected by the
+17 circuit clerk, held in an agency account, and disbursed, on court order, solely
+18 to the agency or agencies responsible for testing and analysis as compensation
+19 for the cost of the testing and analysis performed under this subsection. If the
+20 person is declared indigent, the testing fee may be waived by the court. The
+21 Administrative Office of the Courts shall establish pilot projects to implement
+22 the provisions of this subsection; or
+23 (b) Order the person to use an alcohol monitoring device, as defined in KRS
+24 431.068. All costs associated with the device, including administrative and
+25 operating costs, shall be paid by the defendant. If the court determines that the
+26 defendant is indigent, and a person, county, or other organization has not
+27 agreed to pay the costs for the defendant in an attempt to reduce incarceration
+Page 14 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 927
+1 expenses and increase public safety, the court shall consider other conditions
+2 of release provided for in this section;
+3 (5) (a) During all or part of a person's period of release pursuant to this section, order
+4 the person to participate in a global positioning monitoring system program
+5 operated by a county pursuant to KRS 67.372 and 67.374 under the same
+6 terms and conditions provided under KRS 431.517.
+7 (b) If the person is charged with a sex crime as defined in KRS 17.500, consider
+8 requiring that he or she be monitored electronically, and shall consider
+9 requiring the person be subject to home incarceration;
+10 (6) Impose any nonfinancial conditions[other condition] deemed reasonably necessary
+11 to ensure[assure] appearance as required, including a condition requiring that the
+12 person return to custody after specified hours;
+13 (7) A court authorizing the release of a person pursuant to this section shall cause the
+14 issuance of an appropriate order containing a statement of the conditions imposed,
+15 if any, shall cause such person to be informed of the penalties applicable to
+16 violations of the conditions of his or her release, and shall cause him or her to be
+17 informed that a warrant for his or her arrest will be issued immediately upon any
+18 such violation;
+19 (8) A person for whom conditions of release are imposed and who after twenty-four
+20 (24) hours from the time of the imposition of said conditions continues to be
+21 detained as a result of his or her inability to meet the conditions of release shall,
+22 upon written application or upon the court's own motion, be entitled to have the
+23 conditions reviewed by the court which imposed them. A person who is ordered
+24 released on a condition which requires that he or she return to custody after
+25 specified hours shall, upon written application or upon the court's own motion, be
+26 entitled to a review by the court which imposed the condition; or
+27 (9) If at any time following release of a defendant and before he or she is required to
+Page 15 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 927
+1 appear for trial, the court is advised of a material change in the defendant's
+2 circumstances or that he or she has not complied with all conditions imposed upon
+3 his or her release, the court having jurisdiction may:
+4 (a) Order the arrest of the defendant;
+5 (b) Enter an order requiring the defendant, his or her surety or sureties to appear
+6 and show cause why the bail bond should not be forfeited or the conditions of
+7 his or her release be changed; or
+8 (c) Both.
+9 A copy of said order shall be served upon the defendant and[,] his or her surety or
+10 sureties. If the defendant fails to appear before the court as ordered or if, after
+11 hearing, the court finds the conditions of release have not been complied with, the
+12 court may change the conditions imposed or forfeit the bail bond or any portion
+13 thereof and enter a judgment for the Commonwealth against the defendant and his
+14 or her surety or sureties for the amount of the bail bond or any portion thereof and
+15 cost of the proceedings.
+16 Section 6. KRS 431.525 is amended to read as follows:
+17 (1) For those eligible for money bail under Section 2 of this Act, the amount of the
+18 bail shall be:
+19 (a) Sufficient to ensure[insure] compliance with the conditions of release set by
+20 the court;
+21 (b) Not oppressive;
+22 (c) Commensurate with the nature of the offense charged;
+23 (d) Considerate of the past criminal acts and the reasonably anticipated conduct
+24 of the defendant if released; and
+25 (e) Considerate of the financial ability of the defendant.
+26 (2) When a person is eligible for money bail under Section 2 of this Act and is
+27 charged with an offense punishable by fine only, the amount of the bail bond set
+Page 16 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 927
+1 shall not exceed the amount of the maximum penalty and costs.
+2 (3) When a person is eligible for money bail under Section 2 of this Act and has been
+3 convicted of an offense and only a fine has been imposed, the amount of the bail
+4 shall not exceed the amount of the fine.
+5 (4) When a person is eligible for money bail under Section 2 of this Act and has been
+6 charged with one (1) or more misdemeanors, the amount of the bail for all charges
+7 shall be encompassed by a single amount of bail that shall not exceed the amount of
+8 the fine and court costs for the one (1) highest misdemeanor charged. This
+9 subsection shall apply only to misdemeanor offenses not involving physical injury
+10 or sexual contact.
+11 (5) When a person is eligible for money bail under Section 2 of this Act and has been
+12 convicted of a misdemeanor offense and a sentence of jail, probation, conditional
+13 discharge, or sentence other than a fine only has been imposed, the amount of bail
+14 for release on appeal shall not exceed double the amount of the maximum fine that
+15 could have been imposed for the one (1) highest misdemeanor offense for which the
+16 person was convicted. This subsection shall apply only to misdemeanors not
+17 involving physical injury or sexual contact.
+18 (6) [The provisions of this section shall not apply to a defendant who is found by the
+19 court to present a flight risk or to be a danger to others.
+20 (7) If a court determines that a defendant shall not be released pursuant to subsection
+21 (6) of this section, the court shall document the reasons for denying the release in a
+22 written order.
+23 (8) ]The Administrative Office of the Courts shall establish pilot projects to implement
+24 controlled substance or alcohol abuse testing as specified under this subsection. If
+25 the person's record indicates a history of controlled substance or alcohol abuse, the
+26 court may order the person to submit to periodic testing for use of controlled
+27 substances or alcohol and to pay a reasonable fee, not to exceed the actual cost of
+Page 17 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 927
+1 the test and analysis, as determined by the court, with the fee to be collected by the
+2 circuit clerk, held in an agency account, and disbursed, on court order, solely to the
+3 agency or agencies responsible for testing and analysis as compensation for the cost
+4 of the testing and analysis performed under this subsection. If the person is declared
+5 indigent, the testing fee may be waived by the court. If the court finds the
+6 conditions of release have not been complied with, the court may change the
+7 conditions imposed or forfeit the bail bond or any portion thereof and enter a
+8 judgment for the Commonwealth against the person and his or her surety or
+9 sureties for the amount of the bail bond or any portion thereof and the cost of the
+10 proceedings.
+11 Section 7. KRS 431.530 is amended to read as follows:
+12 (1) Any person who has been permitted to execute a bail bond in accordance with KRS
+13 431.520(3)(b) shall deposit with the clerk of the court before which the action is
+14 pending a sum of money equal to ten percent (10%) of the bail, but in no event shall
+15 such deposit be less than ten dollars ($10)[ unless the defendant earned full credit
+16 toward the applicable amount of bail pursuant to KRS 431.066, in which case the
+17 defendant shall not be required to make a deposit with the clerk of the court].
+18 (2) Upon depositing said sum the defendant shall be released from custody subject to
+19 all conditions of release imposed by the court.
+20 (3) Except as provided in subsection (5) of this section, if the conditions of release have
+21 been performed and the defendant has been discharged from all obligations in the
+22 action the clerk of the court shall return to the defendant, unless the court orders
+23 otherwise, ninety percent (90%) of the sum deposited and shall retain as bail costs
+24 ten percent (10%) of the amount deposited; provided, however, in no event shall the
+25 amount retained by the clerk as bail costs be less than five dollars ($5). It is further
+26 provided that the court shall order the clerk of court to pay into the public advocate
+27 special account any amount of the sum deposited by the defendant, in excess of bail
+Page 18 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 927
+1 costs, which in its sound discretion represents a reasonable fee for any public
+2 advocate legal or investigative services provided for the defendant under KRS
+3 Chapter 31, but in no event shall the amount so paid to the public advocate special
+4 account as public advocate legal and investigative fees be less than five dollars ($5)
+5 per case. At the request of the defendant the court may order the amount repayable
+6 to defendant from such deposit to be paid to defendant's attorney of record.
+7 (4) Except as provided in subsection (5) of this section, if a final judgment for a fine
+8 and court costs or either is entered in the prosecution of an action in which a deposit
+9 has been made in accordance with subsection (1) of this section, the balance of such
+10 deposit, after deduction of bail costs and public advocate fees as provided for in
+11 subsection (3) of this section, shall be applied to the satisfaction of the judgment.
+12 (5) If the defendant has performed all conditions of release and if the defendant is
+13 found not guilty of the offense for which bail was posted, or if all charges against
+14 him or her relating to the offense for which bail was posted are dropped or
+15 dismissed, then all bail money deposited by the defendant or by another person on
+16 his or her behalf shall be returned to him or her with no deductions therefrom as
+17 provided in subsection (3) or (4) of this section.
+18 Section 8. KRS 431.540 is amended to read as follows:
+19 (1) The Supreme Court may by rule or order prescribe a uniform schedule of amounts
+20 of bail in designated nonviolent Class D felonies, misdemeanors, and violations for
+21 defendants eligible for money bail under Section 2 of this Act.[;]
+22 (2)[(1)] Except as provided in subsection (3)[(2)] of this section, when the amount of
+23 bail is fixed by such rule or order of the Supreme Court for a particular offense, the
+24 clerk of the court or other public officers so authorized by the court's order shall
+25 accept cash bail in the prescribed amount or the deposit authorized by KRS 431.530
+26 and release the defendant to appear in accordance with the conditions of the bail
+27 bond. A receipt shall be delivered to the defendant for the bail so taken and within a
+Page 19 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 927
+1 reasonable time such bail shall be deposited with the clerk of the court having
+2 jurisdiction of the offense.
+3 (3)[(2)] A court may, in the exercise of its reasonable discretion, refuse to set bail in
+4 the amount prescribed by such rule or order of the Supreme Court, but, in so doing,
+5 the court must set forth in writing its reasons for such refusal.
+6 Section 9. KRS 452.260 is amended to read as follows:
+7 If the defendant is in custody, the order for the change of venue shall be accompanied by
+8 an order for his or her removal by the sheriff or jailer of the county in which he or she is
+9 held, with such sufficient guard as the court directs, and for his or her delivery to the
+10 jailer of the county where the trial is to be held. If the defendant is under recognizance or
+11 bond for his or her appearance, he or she shall be ordered to appear before[, before the
+12 order is granted, give sufficient bail for his appearance at] the proper court[, or be
+13 surrendered into the custody of the proper officer].
+14 Section 10. KRS 431.510 is amended to read as follows:
+15 (1) As used in this section:
+16 (a) 1. "Bail bondsman" means any person, partnership, or corporation engaged
+17 for profit in the business of:
+18 a. Furnishing bail, making bonds, or entering into undertakings, as
+19 surety, for the appearance of persons charged with any criminal
+20 offense or violation of law or ordinance punishable by fine,
+21 imprisonment, or death, before any of the courts of this state; or
+22 b. Securing the payment of fines imposed and of costs assessed by
+23 those courts upon final disposition thereof.
+24 2. The business of a bail bondsman is limited to the acts, transactions, and
+25 undertakings described in this paragraph and to no other; and
+26 (b) "Charitable bail organization" means an organization, including but not
+27 limited to an organization exempt under Section 501(c)(3) of the Internal
+Page 20 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 927
+1 Revenue Code, that solicits or accepts donations from the public for the
+2 purpose of:
+3 1. Furnishing bail, making bonds, or entering into undertakings, as surety,
+4 whether through direct payment or by payment through a third party, for
+5 the appearance of persons charged with any criminal offense or violation
+6 of law or ordinance punishable by fine, imprisonment, or death before
+7 any of the courts of this state; or
+8 2. Securing the payment of fines imposed and of costs assessed by any of
+9 the courts of this state upon final disposition thereof.
+10 (2) It shall be unlawful for any person to engage in the business of bail bondsman or to
+11 otherwise for compensation or other consideration:
+12 (a) Furnish bail or funds or property to serve as bail; or
+13 (b) Make bonds or enter into undertakings as surety;
+14 for the appearance of persons charged with any criminal offense or violation of law
+15 or ordinance punishable by fine, imprisonment, or death, before any of the courts of
+16 this state, or to secure the payment of fines imposed and of costs assessed by such
+17 courts upon a final disposition.
+18 (3) It shall be unlawful for any charitable bail organization to:
+19 (a) Furnish bail or funds or property to serve as bail in an amount of five
+20 thousand dollars ($5,000) or more; or
+21 (b) Make bonds or enter into undertakings as surety in an amount of five
+22 thousand dollars ($5,000) or more;
+23 for the appearance of persons charged with any criminal offense or violation of law
+24 or ordinance punishable by fine or imprisonment before any of the courts of this
+25 state, or to secure the payment of fines imposed and of costs assessed by those
+26 courts upon a final disposition.
+27 (4) Notwithstanding subsection (3) of this section, it shall be unlawful for any
+Page 21 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 927
+1 charitable bail organization to furnish bail or funds or property to serve as bail, or to
+2 make bonds or enter into undertakings as surety, regardless of amount, for any
+3 person:
+4 (a) Alleged to have committed an offense:
+5 1. Of domestic violence and abuse as defined in KRS 403.720;
+6 2. Of dating violence and abuse as defined in KRS 456.010; or
+7 3. That would classify the person as a violent offender under KRS
+8 439.3401;
+9 (b) Held under a civil court order or warrant issued under KRS 222.430 to
+10 222.437; or
+11 (c) Who has previously received bail or funds or property to serve as bail from a
+12 charitable bail organization.
+13 (5) Any person who posts bail or bond on behalf of any organization under this section
+14 shall provide a photo identification.
+15 (6) A charitable bail organization shall maintain and annually report the following
+16 information to the Legislative Research Commission for referral to the Interim Joint
+17 Committee on Judiciary no later than October 31 of each year, and shall make
+18 publicly available on the organization's website, or by publishing in a newspaper of
+19 general circulation that complies with the requirements of KRS 424.120 if the
+20 organization does not maintain a website:
+21 (a) The expenditures of the organization, including a separate reporting of the
+22 amount furnished for bail, or funds or property to serve as bail; and
+23 (b) The number of individuals and classification of offenses for those individuals
+24 for which any bail, or funds or property to serve as bail, has been provided.
+25 (7) Any bond posted by a charitable organization under this section that is ordered
+26 forfeited as a result of the commission of a new criminal offense shall be distributed
+27 to the victim of the new criminal offense, if a victim is identified.
+Page 22 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 927
+1 (8) Nothing contained in this section shall serve to release any bail bondsman
+2 previously licensed by this state from the obligation of undischarged bail bond
+3 liability existing on June 19, 1976.
+4 (9) KRS 431.510 to 431.550 shall not be construed to[ limit or repeal KRS 431.021 or
+5 to] prevent licensed insurers providing security required by Subtitle 39 of KRS
+6 Chapter 304 and nonprofit associations from posting or causing to be posted by
+7 licensed insurers security or acting as surety for their insureds or members for an
+8 offense arising from the operation of a motor vehicle, provided that such posting of
+9 security or acting as surety is merely incidental to the terms and conditions of an
+10 insurance contract or a membership agreement and provided further that no separate
+11 premium or charge therefor is required from the insureds or members.
+12 Section 11. The following KRS section is repealed:
+13 431.021 Guaranteed arrest bond certificate of surety company to be accepted in lieu of
+14 cash bail in traffic cases.
+Page 23 of 23
+XXXX 12/23/2024 2:54 PM Jacketed
+
+[DELETED:   2  J A B S ( F ( " ( 2 ( a ( 2 5 5 5 5 a ( 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 ( " b m a f c o r i c p ( " 1 T 2 T 3 T p w w m t c t c u o u ( " a c ( " o s o m a o t w q a d i c a a v o u K 4 o a o a ( ( A]
+[DELETED:   2  J a ( A o S ( ( P s s u a v p r a t t d w a v a e d p a l m o c a c o w o p r p a ( T f a c c p r a b f a a d r i m i b a n l t p f t a f s c f t v a e d a w t f s f i K 4 ( T a p s ( ( I 1 P t]
+[DELETED:   2  J 2 H 3 H 4 H 5 H 1 o s o 4 4 4 5 5 w 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5  t o u t d h b c o a v o s o c t p o u a o h o h p s m ( I ( h n c a o i K 4 a 4 a S 5 o t A o m e o i o o b m o t p t ( ( W d 1 P]
+[DELETED:   2  J 2 H 3 H n b c w a v o s o o w a e n  t o t d o r s t s o c ( W d 1 P 2 H 3 H c  t s t s c a m i a n c A ( W d 1 P a 2 H  t s t s c m i a n c A d]
+[DELETED:   2  J ( ( W e 1 P a m r a d u s ( o t s 2 H 3 H n b c w a v o s o o w a e s o f h a m r o n a  t c s o t d r o h o h o r s t s t s c a i s ( o t s a m i a n c [ s m c s t i s o s ( W d 1 P a m r a d u s ( o t s 2 H 3 H c  t s t s c m i a n c A d]
+[DELETED:   2  J ( W d 1 P a m r a d u s ( o t s 2 H  t c s d t d u a d h i h p ( ( W t c i m a b d f a v a e 1 P 2 H a 3 H n b c w a v o s o o w a e  t s t s c a m i a n c A ( W d 1 P 2 H 3 H n b c w a v o s o o w a e  t s t s c m i a n c]
+[DELETED:   2  J A d ( W d 1 P a 2 H b c w a v o s o o w a e  t c s d t d u a d h i h p ( I K ( I t r ( P t ( A d ( T s a d o o s b r f j o t c s i t s o i t c]
+[DELETED:   2  J ( T 1 A t a f o u K C 5 K 5 i c s a K 5 5 5 o 5 2 A d ( F s ( A w ( I ( w ( T t S R ( A d m ( ( A 1 A A 2 A n  t c s d w a n c o]
+[DELETED:   2  J c o c o i K 4 a 4 a S 5 o t A s r e t a o t d ( T w a 1 W t o i v o o p a a 2 T a T d c p a m c f i t d o a a c h a r c b W a t t o t c o o a t d o o c T c ( T c c 1 C a v o s o w a w a d w 2 C a v o s o a h p b]
+[DELETED:   2  J c r 3 C f 4 C t ( o m v o s o i s i 5 C p ( A c t i o i p ( o t s a t e i a o a r p u p e 4 a o c o t d d b t t c s m w f o f a a w s f t r f t d ( ( A 1 P 2 P 3 D 4 H  t K r e t a o t d f r c a T c s n i m b t e t]
+[DELETED:   2  J p n p o ( I s t d a s d t a t d o t u a c o p t b o i s w n r e t a ( A ( H o ( B s n b a o t i o g i a o j p i r h i p p a f t p o i ( A a a e ( T t w t a c o r t w r e t a]
+[DELETED:   2  J t ( B t m f t d a I a d i a p t t p ( N a S T c d l o t s s c o a l t f i ( W ( I ( T ( W t b w c p a p o c b s u ( W ( W o ( I ( W ( W ( W S ( A 2 a h n h t ( p c i t p t ( m]
+[DELETED:   2  J C ( T s t ( I p ( A e o ( I ( U ( T p n S E s p r a [ u t e o a u b b i a a u r p c a ( P s ( P]
+[DELETED:   2  J t ( F o ( W s p s o s a t t c i d h o h c h p o r h r w t d ( W t 4 ( W a ( I ( O o a c t f p A t ( O t p t u a a m d a d i K 4 A c a w t d i a a o d i i a a p c o o o h n a]
+[DELETED:   2  J e o ( ( D t o b a c p t K 6 a 6 u t s t ( I r t h o s b m e a s c r ( I t p ( A i i a s c s p t b i o t p a t v i s ( A ( h f t t o t i o s c c t b d u c r o a c w r t h o s r t c a s e ( I]
+[DELETED:   2  J a f t t c i a o a m c i t d c h ( O ( E a h ( B  A s I t d f t a b t c a o o i a h c t o c S ( F b ( S t ( N ( C ( C o ( C ( W a p i e f m b u S 2 o t A a i c]
+[DELETED:   2  J s ( W c s ( W c s t f a c c f t o ( h m c T s o ( W c d f c p w c T s s a o t m n i ( [ c ( I ( w ( ] c t c m o t p t s t p t f u o c s]
+[DELETED:   2  J t c a o i t t f m b w b t c I t c f t c o r h n b c w t c m c t c i o f t b b o a p t a e a j f t C a t p a h o h s o s p S ( A 4 p s t d ( U a ( E b a o t a p s]
+[DELETED:   2  J c w i i s d r a r f f a p a l o i s p f t d u K C a p t ( E a h d s ( I t d h p a c o r a i t d i f h o h r t t o f w b w p a d o d h p S ( T o d ( E b c a a b]
+[DELETED:   2  J r t s b s b d w t c o t c h j ( A t t S I a h j b o i g g s b f h a a t p c o b s S ( A ( 1 " f a F s a w o o v o l o o p b f i b S t 2 T u ( " b o m a o i b n l t a o e u S 5 o t I]
+[DELETED:   2  J R C t s o a d f t p f t p 1 F w t o a 2 S t ( I o ( F ( M  f o t c ( I ( F b o f o p t s a b i a a o f t ( M b o e i u a s i a a o f t  f o s o s t p o i a o a b t c ( N s ( o t s i s b u f a]
+[DELETED:   2  J c m b o e i u a s r o a f a p ( A 1 O 2 O 3 T w c t p a a v o u K 4 ( H u a c c o o w i u K 2 t 2 ( W c ( A s ( A c b o s m a a r t f i C o J n l t O 3 o e y a s m p g c t c w t r o K 4 i t o ( T e o t o i a s r o t a ( T f ( A b p b a c o u t s t i o f t]
+[DELETED:   2  J ( N c i t s s s t r a b b p l b t s f t o o u b b l ( K t p l i p s r b S 3 o K C l o s i p S 4 c]

@@ -1,0 +1,679 @@
+Title: 1 AN ACT relating to government contracts and declaring an emergency.
+Official Title: 1 AN ACT relating to government contracts and declaring an emergency.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS BR 839
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 45A.030 is amended to read as follows:
+4 As used in this code, unless the context requires otherwise:
+5 (1) "Business" means any corporation, partnership, individual, sole proprietorship, joint
+6 stock company, joint venture, or any other legal entity through which business is
+7 conducted;
+8 (2) "Change order" means a written order signed by the purchasing officer, directing
+9 the contractor to make changes that the changes clause of the contract authorizes
+10 the purchasing officer to order without the consent of the contractor;
+11 (3) "Chief purchasing officer" means the secretary of the Finance and Administration
+12 Cabinet, who shall be responsible for all procurement of the Commonwealth except
+13 as provided by KRS Chapters 150, 175, 175B, 176, 177, and 180;
+14 (4) "Construction" means the process of building, altering, repairing, improving, or
+15 demolishing any public structures or buildings, or other public improvements of any
+16 kind to any public real property. It does not include the routine maintenance of
+17 existing structures, buildings, or real property;
+18 (5) "Construction manager-agency" means services to assist the purchasing agency
+19 manage construction that are procured through a contract that is qualifications-
+20 based;
+21 (6) "Construction management-at-risk" means a project delivery method in which the
+22 purchasing officer enters into a single contract with an offeror that assumes the risk
+23 for construction at a contracted guaranteed maximum price as a general contractor,
+24 and provides consultation and collaboration regarding the construction during and
+25 after design of a capital project. The contract shall be subject to the bonding
+26 requirements of KRS 45A.190;
+27 (7) "Construction manager-general contractor" means a project delivery method in
+Page 1 of 11
+BR083900.100 - 839 - XXXX 3/4/2025 3:53 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 839
+1 which the purchasing officer enters into a single contract with an offeror to provide
+2 preconstruction and construction services. During the preconstruction phase, the
+3 successful offeror provides design consulting services. During the construction
+4 phase, the successful offeror acts as general contractor by:
+5 (a) Contracting with subcontractors; and
+6 (b) Providing for management and construction at a fixed price with a completion
+7 deadline;
+8 (8) "Contract" means all types of state agreements, including memoranda of
+9 agreement, grants and orders, for the acquisition, purchase, or disposal of supplies,
+10 services, construction, or any other item. It includes: awards; contracts of a fixed-
+11 price, cost, cost-plus-a-fixed-fee, contingency fee, or incentive type; contracts
+12 providing for the issuance of job or task orders; leases; letter contracts; purchase
+13 orders; public-private partnership agreements; program administration contracts;
+14 personal service contracts; and insurance contracts except as provided in KRS
+15 45A.022. It includes supplemental agreements with respect to any of the foregoing;
+16 (9) "Contract modification" means any written alteration in the specifications, delivery
+17 point, rate of delivery, contract period, price, quantity, or other contract provisions
+18 of any existing contract, whether accomplished by unilateral action in accordance
+19 with a contract provision or by mutual action of the parties to the contract. It
+20 includes bilateral actions, such as supplemental agreements, and unilateral actions,
+21 such as change orders, administrative changes, notices of termination, and notices
+22 of the exercise of a contract option;
+23 (10) "Contractor" means any person having a contract with a governmental body;
+24 (11) "Data" means recorded information, regardless of form or characteristic;
+25 (12) "Design-bid-build" means a project delivery method in which the purchasing officer
+26 sequentially awards separate contracts, the first for architectural, engineering, or
+27 engineering-related services to design the project and the second for construction of
+Page 2 of 11
+BR083900.100 - 839 - XXXX 3/4/2025 3:53 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 839
+1 the capital project according to the design. The contract shall be subject to the
+2 bonding requirements of KRS 45A.185;
+3 (13) "Design-build" means a project delivery method in which the purchasing officer
+4 enters into a single contract for design and construction of a capital project. The
+5 contract shall be subject to the bonding requirements of KRS 45A.190;
+6 (14) "Designee" means a duly authorized representative of a person holding a superior
+7 position;
+8 (15) "Document" means any physical embodiment of information or ideas, regardless of
+9 form or characteristic, including electronic versions thereof;
+10 (16) "Employee" means an individual drawing a salary from a governmental body,
+11 whether elected or not, and any nonsalaried individual performing personal services
+12 for any governmental body;
+13 (17) "Governmental body" means any department, commission, council, board, bureau,
+14 committee, institution, legislative body, agency, government corporation, or other
+15 establishment of the executive or legislative branch of the state government;
+16 (18) "Meeting" means all gatherings of every kind, including video teleconferences;
+17 (19) "Negotiation" means contracting by either the method set forth in KRS 45A.085,
+18 45A.090, or 45A.095;
+19 (20) "Person" means any business, individual, organization, or group of individuals;
+20 (21) "Private partner" means any entity that is a partner in a public-private partnership
+21 other than:
+22 (a) The Commonwealth of Kentucky, or any agency or department thereof;
+23 (b) The federal government;
+24 (c) Any other state government; or
+25 (d) Any agency of a state, federal, or local government;
+26 (22) "Procurement" means the purchasing, buying, renting, leasing, or otherwise
+27 obtaining of any supplies, services, or construction. It includes all functions that
+Page 3 of 11
+BR083900.100 - 839 - XXXX 3/4/2025 3:53 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 839
+1 pertain to the procurement of any supply, service, or construction item, including
+2 description of requirements, selection and solicitation of sources, preparation and
+3 award of contract, and all phases of contract administration;
+4 (23) "Public-private partnership" means a project delivery method for construction or
+5 financing of capital projects, as defined in KRS 45.750, or procurement of services,
+6 pursuant to a written public-private partnership agreement entered into pursuant to
+7 KRS 45A.077 and administrative regulations promulgated thereunder, between:
+8 (a) At least one (1) private partner; and
+9 (b) The Commonwealth of Kentucky, or any agency or department thereof;
+10 (24) "Purchase request" or "purchase requisition" means that document whereby a using
+11 agency requests that a contract be obtained for a specified need, and may include,
+12 but is not limited to, the technical description of the requested item, delivery
+13 schedule, transportation, criteria for evaluation of solicitees, suggested sources of
+14 supply, and information supplied for the making of any written determination and
+15 finding required by KRS 45A.025;
+16 (25) "Purchasing agency" means any governmental body that is authorized by this code
+17 or its implementing administrative regulations or by way of delegation from the
+18 chief purchasing officer to contract on its own behalf rather than through the central
+19 contracting authority of the chief purchasing officer;
+20 (26) "Purchasing officer" means any person authorized by a governmental body in
+21 accordance with procedures prescribed by administrative regulations to enter into
+22 and administer contracts and make written determinations and findings with respect
+23 thereto. The term includes an authorized representative acting within the limits of
+24 authority;
+25 (27) "Services" means the rendering by a contractor of its time and effort rather than the
+26 furnishing of a specific end product, other than reports that are merely incidental to
+27 the required performance of services;
+Page 4 of 11
+BR083900.100 - 839 - XXXX 3/4/2025 3:53 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 839
+1 (28) "Supplemental agreement" means any contract modification that is accomplished
+2 by the mutual action of the parties;
+3 (29) "Supplies" means all property, including but not limited to leases of real property,
+4 printing, and insurance, except land or a permanent interest in land;
+5 (30) "Using agency" means any governmental body of the state that utilizes any
+6 supplies, services, or construction purchased under this code;
+7 (31) "Video teleconference" means one (1) meeting, occurring in two (2) or more
+8 locations, where individuals can see and hear each other by means of video and
+9 audio equipment; and
+10 (32) "Writing" or "written" means letters, words, or numbers, or their equivalent, set
+11 down by handwriting, typewriting, printing, photostating, photographing, magnetic
+12 impulse, mechanical or electronic recording, or other form of data compilation.
+13 Section 2. KRS 45A.035 is amended to read as follows:
+14 (1) The secretary of the Finance and Administration Cabinet shall have power and
+15 authority over, and may, except as otherwise expressly provided in this code, adopt
+16 regulations pursuant to KRS Chapter 13A and consistent with this code governing
+17 the purchasing, management, and control of any and all supplies, services, and
+18 construction, and other items required to be purchased by the Commonwealth. The
+19 secretary shall consider and decide matters of policy with regard to state
+20 procurement. The secretary shall have the power of review with respect to the
+21 implementation of administrative regulations and policy determinations.
+22 (2) Administrative regulations shall be promulgated[adopted] governing the following:
+23 (a) Conditions and procedures for delegations of purchasing authority;
+24 (b) Prequalification, suspension, debarment, and reinstatement of prospective
+25 bidders;
+26 (c) Small purchase procedures;
+27 (d) Conditions and procedures for the purchase of items for resale;
+Page 5 of 11
+BR083900.100 - 839 - XXXX 3/4/2025 3:53 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 839
+1 (e) Conditions and procedures for the purchase of agricultural products in
+2 accordance with KRS 45A.645;
+3 (f) Conditions and procedures for the use of source selection methods authorized
+4 by this code, including emergency purchases;
+5 (g) Opening and rejection of bids or offers, consideration of alternate bids, and
+6 waiver of informalities in offers;
+7 (h) Confidentiality of technical data and trade secrets information submitted by
+8 actual or prospective bidders or offerors;
+9 (i) Partial, progressive, and multiple awards;
+10 (j) Supervision of storerooms and inventories, including determination of
+11 appropriate stock levels and the management, transfer, sale, or other disposal
+12 of state-owned property;
+13 (k) Definitions and classes of contractual services and procedures for acquiring
+14 them;
+15 (l) An appeals process to resolve disputes arising from specifications requiring
+16 items deemed to be equivalent or a sole brand as specified in KRS 45A.170;
+17 [and]
+18 (m) Use of reverse auctions as defined in KRS 45A.070; and
+19 (n) Policies and procedures governing timely payments, reimbursement, and
+20 dispute resolution for contract payments in violation of KRS 45.453 and
+21 Section 3 of this Act.
+22 The secretary may promulgate[adopt such] other administrative regulations as
+23 deemed advisable to carry out the purposes of this code.
+24 SECTION 3. A NEW SECTION OF KRS CHAPTER 45A IS CREATED TO
+25 READ AS FOLLOWS:
+26 (1) For any contract awarded under this chapter, all payments shall be timely made
+27 pursuant to KRS 45.451 and 45.453, the terms of the contract, and as required in
+Page 6 of 11
+BR083900.100 - 839 - XXXX 3/4/2025 3:53 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 839
+1 this section.
+2 (2) All contracts shall include provisions for:
+3 (a) Negotiated terms for timely payments;
+4 (b) Penalties for payments not received:
+5 1. Within thirty (30) business days after the person or contractor has
+6 submitted a timely and properly completed request for payment; or
+7 2. In accordance with the payment terms of the contract;
+8 (c) A payment dispute and resolution process;
+9 (d) Partial payment terms shall be included to:
+10 1. Allow disbursement of partial payment with agreed-upon payment
+11 process for goods received or services performed that are not rejected
+12 or deficient; or
+13 2. Not allow disbursement of partial payment for goods received or
+14 services performed that are not rejected or deficient; and
+15 (e) When invoices are utilized for payment, terms for the invoice requirements,
+16 including form, format, delivery, necessary information, supporting
+17 documentation, and communication and notification procedures for
+18 complete invoices.
+19 (3) The contracting agency shall notify the vendor of any errors in an invoice or a
+20 requirement of any additional or missing information within ten (10) calendar
+21 days from receipt of goods, service, or invoice.
+22 (4) (a) If a person or contractor has:
+23 1. Properly delivered a good or service;
+24 2. Timely and properly completed request for payment pursuant to this
+25 section or in accordance with the payment terms of the contract; and
+26 3. Not received payment within twenty-five (25) business days, the person
+27 or contractor may notify the purchasing agency. The notice for
+Page 7 of 11
+BR083900.100 - 839 - XXXX 3/4/2025 3:53 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 839
+1 requirement of timely payment shall include the date on which interest
+2 is anticipated to begin accruing.
+3 (b) In accordance with KRS 45.454, and except as provided in KRS 371.405, if
+4 the contracting agency fails to remit payment to the person or contractor
+5 within thirty (30) business days, beginning on the thirty-first business day
+6 after receipt of the request for payment or failure of the contracting agency
+7 to remit payment in accordance with the terms of the contract, the
+8 contracting agency shall accrue a penalty of one percent (1%) per month or
+9 twelve percent (12%) per annum of the unpaid amount for each thirty (30)
+10 days or fraction thereof that the payment is outstanding payable to the
+11 person or contractor.
+12 (c) If a person or contractor has not received payment within thirty (30)
+13 business days for an approved invoice, and the person or contractor
+14 executed a loan, line of credit, revolving credit, or other financial
+15 instrument in order to fulfill the obligations and continue performance of
+16 the contract, they may seek to recover from the purchasing agency the
+17 interest and costs of credit borne until the date payment has been issued.
+18 (d) If the purchasing agency has transmitted a rejection notice to the person or
+19 contractor, there shall be a ten (10) calendar day correction period for the
+20 person or contractor to remedy any problems in the delivery of a good or
+21 service or submit a corrected invoice to fulfill the approval requirements.
+22 Utilization of the ten (10) calendar day correction period shall not create a
+23 new date of submission or receipt for all items included in the invoice or
+24 terms of the contract and shall not be considered a new invoice for
+25 calculation of the late payment fee pursuant to KRS 45.454.
+26 (e) In accordance with KRS 45.458, the interest penalty and reimbursement
+27 payments will be paid by the contracting agency and the amount of the
+Page 8 of 11
+BR083900.100 - 839 - XXXX 3/4/2025 3:53 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 839
+1 payments shall not be deducted from the contract budget, and modifications
+2 shall not made to the budget of the contract, the total award of the contract,
+3 funds encumbered or obligated for the contract, or total amount available to
+4 fulfill the contract agreement as awarded by the contracting agency.
+5 (4) The secretary shall promulgate administrative regulations in accordance with
+6 KRS Chapter 13A no later than December 31, 2025, to implement this section.
+7 (5) (a) Beginning on July 1, 2025, the Finance and Administration Cabinet shall
+8 submit a written report every six (6) months to the Legislative Research
+9 Commission for referral to:
+10 1. The Interim Joint Committee on Appropriations and Revenue, or
+11 House and Senate Standing Committees on Appropriations and
+12 Revenue, as appropriate; and
+13 2. The Interim Joint Committee on State Government, or Senate
+14 Standing Committee on State and Local Government and House
+15 Standing Committee on State Government, as appropriate;
+16 regarding any penalties and reimbursements paid by the Commonwealth of
+17 Kentucky due to payments that are not timely made subject to the terms of a
+18 contract in accordance with this section and Sections 1 and s of this Act or
+19 pursuant to KRS 45.454.
+20 (b) The report shall include the amount of penalties and amount of
+21 reimbursements paid, by category, including but not limited to:
+22 1. Cabinet;
+23 2. Agency;
+24 3. Procurement category or class;
+25 4. Contract procurement type;
+26 5. Contractor organization type and classification;
+27 6. Commodity class code and service code;
+Page 9 of 11
+BR083900.100 - 839 - XXXX 3/4/2025 3:53 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 839
+1 7. Fund source;
+2 8. Amount of penalty paid for interest under subsection (4)(b) of this
+3 section; and
+4 9. Amount paid in compliance with subsection (4)(c)of this section.
+5 (6) (a) Beginning on July 1, 2025, the Finance and Administration Cabinet shall
+6 submit a written report every six (6) months to the Legislative Research
+7 Commission for referral to:
+8 1. The Interim Joint Committee on Appropriations and Revenue, or
+9 House and Senate Standing Committees on Appropriations and
+10 Revenue, as appropriate; and
+11 2. The Interim Joint Committee on State Government, or Senate
+12 Standing Committee on State and Local Government and House
+13 Standing Committee on State Government, as appropriate;
+14 regarding any outstanding obligations of the Commonwealth of Kentucky
+15 due to payments that are not timely made subject to the negotiated terms of
+16 a contract in accordance with this section and Sections 1 and 2 of this Act
+17 or pursuant to KRS 45.454.
+18 (b) The report shall include the amount of the invoices that have been due and
+19 owing for more than thirty (30) business days, by category, including but
+20 not limited to:
+21 1. Cabinet;
+22 2. Department;
+23 3. Agency;
+24 4. Procurement category or class;
+25 5. Contract procurement type;
+26 6. Fund source;
+27 7. Contractor organization type and classification;
+Page 10 of 11
+BR083900.100 - 839 - XXXX 3/4/2025 3:53 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 839
+1 8. Commodity class code and service code; and
+2 9. Quantity of invoices and amount due and owing by thirty (30) day time
+3 intervals, including but not limited to amount due and obligated for
+4 more than:
+5 a. Thirty (30) business days;
+6 b. Sixty (60) business days;
+7 c. Ninety (90) business days; and
+8 d. One hundred twenty (120) business days.
+9 Section 4. Whereas the timely payment to organizations and businesses that are
+10 contracting with the Commonwealth to provide essential goods and services to its citizens
+11 is important for economic growth, an emergency is declared to exist, and this Act takes
+12 effect upon its passage and approval by the Governor or upon its otherwise becoming a
+13 law.
+Page 11 of 11
+BR083900.100 - 839 - XXXX 3/4/2025 3:53 PM Jacketed
+[DELETED:   2  J A B S A ( " s c ( " t t ( " C a ( " m t p o b a r i o d k t a p r p I d n i t r m o e ( " m m s t a t p a m c t a p t a c t i q b ( " p f a a d o a c p T c s b s t t b r ( " m c m a p d m i]
+[DELETED:   2  J w p a c s D t p p t s o p d c s D t c p ( C ( P d ( " m a t o s a i m o a s p c c c f o i t c p o p s c a i c e a p i K 4 ( " p o w a c p o b m a o t p t t c I i s o ( " ( " ( " s a s c t f f a e o e]
+[DELETED:   2  J t c p a t t d T c s b s t t b ( " e c ( " p ( " f ( " m a i d a s f a g b w f ( " c e ( " ( " 4 ( " ( " o ( T ( T ( A ( A ( " m t p b r l o o o]
+[DELETED:   2  J p d a ( " p m a p d f c o f p K ( A ( T ( " a b i n l t t t d o t r i d s s f ( " o o c c ( " o m a p a b a g b i a a t a ( " f t]
+[DELETED:   2  J ( " b ( " p ( " a m a g b o t s t u a s ( " t m o ( m o i t ( o m l a ( " o m l w o n o t e s d i S ( T s o t F a A C s h p a a r t p m a c o a a a s s a c s s c a d m o p w r t s p T s s h t p o r w r t t i ( A ( C ( P s d a r o p b ( S ( C]
+[DELETED:   2  J ( C a p f t p o a p i a ( C b ( O w ( C a ( P ( S o s a i i d o a o ( D t ( A i [ ( U ( P a p g t p r a d r f c p i v o K 4 a S  T s m p s o a r a d S R ( F p]
+[DELETED:   2  J t ( A ( N ( P 1 W t ( b d a t p o c h s 2 I ( A ( P 1 A d o p p w a p p o 2 N a d o p p f g r o s ( W i f f d n i s d a c a n p f c ( T r d ( ( I 1 P 2 T s 3 N o c m n t p a T n f]
+[DELETED:   2  J r i ( I t w a t r p i a w t t o t c t c t d o f t t t p i o p t t p ( I a p o c h n r p w t ( b d f a a i a t p o c e a l l o c r c o o f i t c t m s t r f t p a t i ( I c p s U n t o t c a s n b c a n i f c ( I a w K 4 t i p a r p w b p b t c a a t a o t]
+[DELETED:   2  J p s f f ( T s s p a r i a w K ( ( B s a w r e s ( m t t L R C 1 T I J C o A a R o H a S S C o A a R 2 T I J C o S G o S S C o S a L G a H S  r K c p ( T r s i t a o p a a o r 1 C 2 A 3 P 4 C 5 C 6 C]
+[DELETED:   2  J 7 F 8 A o p p f i u s ( o t s 9 A ( ( B s a w r e s ( m t t L R C 1 T I J C o A a R o H a S S C o A a R 2 T I J C o S G o S S C o S a L G a H S  r d a o ( T o n 1 C 2 D 3 A 4 P 5 C 6 F 7 C]
+[DELETED:   2  J 8 C 9 Q i m a T b S c N d O S c i e l]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS BR 839
+1 AN ACT relating to government contracts and declaring an emergency.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 45A.030 is amended to read as follows:
+4 As used in this code, unless the context requires otherwise:
+5 (1) "Business" means any corporation, partnership, individual, sole proprietorship, joint
+6 stock company, joint venture, or any other legal entity through which business is
+7 conducted;
+8 (2) "Change order" means a written order signed by the purchasing officer, directing
+9 the contractor to make changes that the changes clause of the contract authorizes
+10 the purchasing officer to order without the consent of the contractor;
+11 (3) "Chief purchasing officer" means the secretary of the Finance and Administration
+12 Cabinet, who shall be responsible for all procurement of the Commonwealth except
+13 as provided by KRS Chapters 150, 175, 175B, 176, 177, and 180;
+14 (4) "Construction" means the process of building, altering, repairing, improving, or
+15 demolishing any public structures or buildings, or other public improvements of any
+16 kind to any public real property. It does not include the routine maintenance of
+17 existing structures, buildings, or real property;
+18 (5) "Construction manager-agency" means services to assist the purchasing agency
+19 manage construction that are procured through a contract that is qualifications-
+20 based;
+21 (6) "Construction management-at-risk" means a project delivery method in which the
+22 purchasing officer enters into a single contract with an offeror that assumes the risk
+23 for construction at a contracted guaranteed maximum price as a general contractor,
+24 and provides consultation and collaboration regarding the construction during and
+25 after design of a capital project. The contract shall be subject to the bonding
+26 requirements of KRS 45A.190;
+27 (7) "Construction manager-general contractor" means a project delivery method in
+Page 1 of 11
+BR083900.100 - 839 - XXXX 3/4/2025 3:53 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 839
+1 which the purchasing officer enters into a single contract with an offeror to provide
+2 preconstruction and construction services. During the preconstruction phase, the
+3 successful offeror provides design consulting services. During the construction
+4 phase, the successful offeror acts as general contractor by:
+5 (a) Contracting with subcontractors; and
+6 (b) Providing for management and construction at a fixed price with a completion
+7 deadline;
+8 (8) "Contract" means all types of state agreements, including memoranda of
+9 agreement, grants and orders, for the acquisition, purchase, or disposal of supplies,
+10 services, construction, or any other item. It includes: awards; contracts of a fixed-
+11 price, cost, cost-plus-a-fixed-fee, contingency fee, or incentive type; contracts
+12 providing for the issuance of job or task orders; leases; letter contracts; purchase
+13 orders; public-private partnership agreements; program administration contracts;
+14 personal service contracts; and insurance contracts except as provided in KRS
+15 45A.022. It includes supplemental agreements with respect to any of the foregoing;
+16 (9) "Contract modification" means any written alteration in the specifications, delivery
+17 point, rate of delivery, contract period, price, quantity, or other contract provisions
+18 of any existing contract, whether accomplished by unilateral action in accordance
+19 with a contract provision or by mutual action of the parties to the contract. It
+20 includes bilateral actions, such as supplemental agreements, and unilateral actions,
+21 such as change orders, administrative changes, notices of termination, and notices
+22 of the exercise of a contract option;
+23 (10) "Contractor" means any person having a contract with a governmental body;
+24 (11) "Data" means recorded information, regardless of form or characteristic;
+25 (12) "Design-bid-build" means a project delivery method in which the purchasing officer
+26 sequentially awards separate contracts, the first for architectural, engineering, or
+27 engineering-related services to design the project and the second for construction of
+Page 2 of 11
+BR083900.100 - 839 - XXXX 3/4/2025 3:53 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 839
+1 the capital project according to the design. The contract shall be subject to the
+2 bonding requirements of KRS 45A.185;
+3 (13) "Design-build" means a project delivery method in which the purchasing officer
+4 enters into a single contract for design and construction of a capital project. The
+5 contract shall be subject to the bonding requirements of KRS 45A.190;
+6 (14) "Designee" means a duly authorized representative of a person holding a superior
+7 position;
+8 (15) "Document" means any physical embodiment of information or ideas, regardless of
+9 form or characteristic, including electronic versions thereof;
+10 (16) "Employee" means an individual drawing a salary from a governmental body,
+11 whether elected or not, and any nonsalaried individual performing personal services
+12 for any governmental body;
+13 (17) "Governmental body" means any department, commission, council, board, bureau,
+14 committee, institution, legislative body, agency, government corporation, or other
+15 establishment of the executive or legislative branch of the state government;
+16 (18) "Meeting" means all gatherings of every kind, including video teleconferences;
+17 (19) "Negotiation" means contracting by either the method set forth in KRS 45A.085,
+18 45A.090, or 45A.095;
+19 (20) "Person" means any business, individual, organization, or group of individuals;
+20 (21) "Private partner" means any entity that is a partner in a public-private partnership
+21 other than:
+22 (a) The Commonwealth of Kentucky, or any agency or department thereof;
+23 (b) The federal government;
+24 (c) Any other state government; or
+25 (d) Any agency of a state, federal, or local government;
+26 (22) "Procurement" means the purchasing, buying, renting, leasing, or otherwise
+27 obtaining of any supplies, services, or construction. It includes all functions that
+Page 3 of 11
+BR083900.100 - 839 - XXXX 3/4/2025 3:53 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 839
+1 pertain to the procurement of any supply, service, or construction item, including
+2 description of requirements, selection and solicitation of sources, preparation and
+3 award of contract, and all phases of contract administration;
+4 (23) "Public-private partnership" means a project delivery method for construction or
+5 financing of capital projects, as defined in KRS 45.750, or procurement of services,
+6 pursuant to a written public-private partnership agreement entered into pursuant to
+7 KRS 45A.077 and administrative regulations promulgated thereunder, between:
+8 (a) At least one (1) private partner; and
+9 (b) The Commonwealth of Kentucky, or any agency or department thereof;
+10 (24) "Purchase request" or "purchase requisition" means that document whereby a using
+11 agency requests that a contract be obtained for a specified need, and may include,
+12 but is not limited to, the technical description of the requested item, delivery
+13 schedule, transportation, criteria for evaluation of solicitees, suggested sources of
+14 supply, and information supplied for the making of any written determination and
+15 finding required by KRS 45A.025;
+16 (25) "Purchasing agency" means any governmental body that is authorized by this code
+17 or its implementing administrative regulations or by way of delegation from the
+18 chief purchasing officer to contract on its own behalf rather than through the central
+19 contracting authority of the chief purchasing officer;
+20 (26) "Purchasing officer" means any person authorized by a governmental body in
+21 accordance with procedures prescribed by administrative regulations to enter into
+22 and administer contracts and make written determinations and findings with respect
+23 thereto. The term includes an authorized representative acting within the limits of
+24 authority;
+25 (27) "Services" means the rendering by a contractor of its time and effort rather than the
+26 furnishing of a specific end product, other than reports that are merely incidental to
+27 the required performance of services;
+Page 4 of 11
+BR083900.100 - 839 - XXXX 3/4/2025 3:53 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 839
+1 (28) "Supplemental agreement" means any contract modification that is accomplished
+2 by the mutual action of the parties;
+3 (29) "Supplies" means all property, including but not limited to leases of real property,
+4 printing, and insurance, except land or a permanent interest in land;
+5 (30) "Using agency" means any governmental body of the state that utilizes any
+6 supplies, services, or construction purchased under this code;
+7 (31) "Video teleconference" means one (1) meeting, occurring in two (2) or more
+8 locations, where individuals can see and hear each other by means of video and
+9 audio equipment; and
+10 (32) "Writing" or "written" means letters, words, or numbers, or their equivalent, set
+11 down by handwriting, typewriting, printing, photostating, photographing, magnetic
+12 impulse, mechanical or electronic recording, or other form of data compilation.
+13 Section 2. KRS 45A.035 is amended to read as follows:
+14 (1) The secretary of the Finance and Administration Cabinet shall have power and
+15 authority over, and may, except as otherwise expressly provided in this code, adopt
+16 regulations pursuant to KRS Chapter 13A and consistent with this code governing
+17 the purchasing, management, and control of any and all supplies, services, and
+18 construction, and other items required to be purchased by the Commonwealth. The
+19 secretary shall consider and decide matters of policy with regard to state
+20 procurement. The secretary shall have the power of review with respect to the
+21 implementation of administrative regulations and policy determinations.
+22 (2) Administrative regulations shall be promulgated[adopted] governing the following:
+23 (a) Conditions and procedures for delegations of purchasing authority;
+24 (b) Prequalification, suspension, debarment, and reinstatement of prospective
+25 bidders;
+26 (c) Small purchase procedures;
+27 (d) Conditions and procedures for the purchase of items for resale;
+Page 5 of 11
+BR083900.100 - 839 - XXXX 3/4/2025 3:53 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 839
+1 (e) Conditions and procedures for the purchase of agricultural products in
+2 accordance with KRS 45A.645;
+3 (f) Conditions and procedures for the use of source selection methods authorized
+4 by this code, including emergency purchases;
+5 (g) Opening and rejection of bids or offers, consideration of alternate bids, and
+6 waiver of informalities in offers;
+7 (h) Confidentiality of technical data and trade secrets information submitted by
+8 actual or prospective bidders or offerors;
+9 (i) Partial, progressive, and multiple awards;
+10 (j) Supervision of storerooms and inventories, including determination of
+11 appropriate stock levels and the management, transfer, sale, or other disposal
+12 of state-owned property;
+13 (k) Definitions and classes of contractual services and procedures for acquiring
+14 them;
+15 (l) An appeals process to resolve disputes arising from specifications requiring
+16 items deemed to be equivalent or a sole brand as specified in KRS 45A.170;
+17 [and]
+18 (m) Use of reverse auctions as defined in KRS 45A.070; and
+19 (n) Policies and procedures governing timely payments, reimbursement, and
+20 dispute resolution for contract payments in violation of KRS 45.453 and
+21 Section 3 of this Act.
+22 The secretary may promulgate[adopt such] other administrative regulations as
+23 deemed advisable to carry out the purposes of this code.
+24 SECTION 3. A NEW SECTION OF KRS CHAPTER 45A IS CREATED TO
+25 READ AS FOLLOWS:
+26 (1) For any contract awarded under this chapter, all payments shall be timely made
+27 pursuant to KRS 45.451 and 45.453, the terms of the contract, and as required in
+Page 6 of 11
+BR083900.100 - 839 - XXXX 3/4/2025 3:53 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 839
+1 this section.
+2 (2) All contracts shall include provisions for:
+3 (a) Negotiated terms for timely payments;
+4 (b) Penalties for payments not received:
+5 1. Within thirty (30) business days after the person or contractor has
+6 submitted a timely and properly completed request for payment; or
+7 2. In accordance with the payment terms of the contract;
+8 (c) A payment dispute and resolution process;
+9 (d) Partial payment terms shall be included to:
+10 1. Allow disbursement of partial payment with agreed-upon payment
+11 process for goods received or services performed that are not rejected
+12 or deficient; or
+13 2. Not allow disbursement of partial payment for goods received or
+14 services performed that are not rejected or deficient; and
+15 (e) When invoices are utilized for payment, terms for the invoice requirements,
+16 including form, format, delivery, necessary information, supporting
+17 documentation, and communication and notification procedures for
+18 complete invoices.
+19 (3) The contracting agency shall notify the vendor of any errors in an invoice or a
+20 requirement of any additional or missing information within ten (10) calendar
+21 days from receipt of goods, service, or invoice.
+22 (4) (a) If a person or contractor has:
+23 1. Properly delivered a good or service;
+24 2. Timely and properly completed request for payment pursuant to this
+25 section or in accordance with the payment terms of the contract; and
+26 3. Not received payment within twenty-five (25) business days, the person
+27 or contractor may notify the purchasing agency. The notice for
+Page 7 of 11
+BR083900.100 - 839 - XXXX 3/4/2025 3:53 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 839
+1 requirement of timely payment shall include the date on which interest
+2 is anticipated to begin accruing.
+3 (b) In accordance with KRS 45.454, and except as provided in KRS 371.405, if
+4 the contracting agency fails to remit payment to the person or contractor
+5 within thirty (30) business days, beginning on the thirty-first business day
+6 after receipt of the request for payment or failure of the contracting agency
+7 to remit payment in accordance with the terms of the contract, the
+8 contracting agency shall accrue a penalty of one percent (1%) per month or
+9 twelve percent (12%) per annum of the unpaid amount for each thirty (30)
+10 days or fraction thereof that the payment is outstanding payable to the
+11 person or contractor.
+12 (c) If a person or contractor has not received payment within thirty (30)
+13 business days for an approved invoice, and the person or contractor
+14 executed a loan, line of credit, revolving credit, or other financial
+15 instrument in order to fulfill the obligations and continue performance of
+16 the contract, they may seek to recover from the purchasing agency the
+17 interest and costs of credit borne until the date payment has been issued.
+18 (d) If the purchasing agency has transmitted a rejection notice to the person or
+19 contractor, there shall be a ten (10) calendar day correction period for the
+20 person or contractor to remedy any problems in the delivery of a good or
+21 service or submit a corrected invoice to fulfill the approval requirements.
+22 Utilization of the ten (10) calendar day correction period shall not create a
+23 new date of submission or receipt for all items included in the invoice or
+24 terms of the contract and shall not be considered a new invoice for
+25 calculation of the late payment fee pursuant to KRS 45.454.
+26 (e) In accordance with KRS 45.458, the interest penalty and reimbursement
+27 payments will be paid by the contracting agency and the amount of the
+Page 8 of 11
+BR083900.100 - 839 - XXXX 3/4/2025 3:53 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 839
+1 payments shall not be deducted from the contract budget, and modifications
+2 shall not made to the budget of the contract, the total award of the contract,
+3 funds encumbered or obligated for the contract, or total amount available to
+4 fulfill the contract agreement as awarded by the contracting agency.
+5 (4) The secretary shall promulgate administrative regulations in accordance with
+6 KRS Chapter 13A no later than December 31, 2025, to implement this section.
+7 (5) (a) Beginning on July 1, 2025, the Finance and Administration Cabinet shall
+8 submit a written report every six (6) months to the Legislative Research
+9 Commission for referral to:
+10 1. The Interim Joint Committee on Appropriations and Revenue, or
+11 House and Senate Standing Committees on Appropriations and
+12 Revenue, as appropriate; and
+13 2. The Interim Joint Committee on State Government, or Senate
+14 Standing Committee on State and Local Government and House
+15 Standing Committee on State Government, as appropriate;
+16 regarding any penalties and reimbursements paid by the Commonwealth of
+17 Kentucky due to payments that are not timely made subject to the terms of a
+18 contract in accordance with this section and Sections 1 and s of this Act or
+19 pursuant to KRS 45.454.
+20 (b) The report shall include the amount of penalties and amount of
+21 reimbursements paid, by category, including but not limited to:
+22 1. Cabinet;
+23 2. Agency;
+24 3. Procurement category or class;
+25 4. Contract procurement type;
+26 5. Contractor organization type and classification;
+27 6. Commodity class code and service code;
+Page 9 of 11
+BR083900.100 - 839 - XXXX 3/4/2025 3:53 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 839
+1 7. Fund source;
+2 8. Amount of penalty paid for interest under subsection (4)(b) of this
+3 section; and
+4 9. Amount paid in compliance with subsection (4)(c)of this section.
+5 (6) (a) Beginning on July 1, 2025, the Finance and Administration Cabinet shall
+6 submit a written report every six (6) months to the Legislative Research
+7 Commission for referral to:
+8 1. The Interim Joint Committee on Appropriations and Revenue, or
+9 House and Senate Standing Committees on Appropriations and
+10 Revenue, as appropriate; and
+11 2. The Interim Joint Committee on State Government, or Senate
+12 Standing Committee on State and Local Government and House
+13 Standing Committee on State Government, as appropriate;
+14 regarding any outstanding obligations of the Commonwealth of Kentucky
+15 due to payments that are not timely made subject to the negotiated terms of
+16 a contract in accordance with this section and Sections 1 and 2 of this Act
+17 or pursuant to KRS 45.454.
+18 (b) The report shall include the amount of the invoices that have been due and
+19 owing for more than thirty (30) business days, by category, including but
+20 not limited to:
+21 1. Cabinet;
+22 2. Department;
+23 3. Agency;
+24 4. Procurement category or class;
+25 5. Contract procurement type;
+26 6. Fund source;
+27 7. Contractor organization type and classification;
+Page 10 of 11
+BR083900.100 - 839 - XXXX 3/4/2025 3:53 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 839
+1 8. Commodity class code and service code; and
+2 9. Quantity of invoices and amount due and owing by thirty (30) day time
+3 intervals, including but not limited to amount due and obligated for
+4 more than:
+5 a. Thirty (30) business days;
+6 b. Sixty (60) business days;
+7 c. Ninety (90) business days; and
+8 d. One hundred twenty (120) business days.
+9 Section 4. Whereas the timely payment to organizations and businesses that are
+10 contracting with the Commonwealth to provide essential goods and services to its citizens
+11 is important for economic growth, an emergency is declared to exist, and this Act takes
+12 effect upon its passage and approval by the Governor or upon its otherwise becoming a
+13 law.
+Page 11 of 11
+BR083900.100 - 839 - XXXX 3/4/2025 3:53 PM Jacketed
+
+[DELETED:   2  J A B S A ( " s c ( " t t ( " C a ( " m t p o b a r i o d k t a p r p I d n i t r m o e ( " m m s t a t p a m c t a p t a c t i q b ( " p f a a d o a c p T c s b s t t b r ( " m c m a p d m i]
+[DELETED:   2  J w p a c s D t p p t s o p d c s D t c p ( C ( P d ( " m a t o s a i m o a s p c c c f o i t c p o p s c a i c e a p i K 4 ( " p o w a c p o b m a o t p t t c I i s o ( " ( " ( " s a s c t f f a e o e]
+[DELETED:   2  J t c p a t t d T c s b s t t b ( " e c ( " p ( " f ( " m a i d a s f a g b w f ( " c e ( " ( " 4 ( " ( " o ( T ( T ( A ( A ( " m t p b r l o o o]
+[DELETED:   2  J p d a ( " p m a p d f c o f p K ( A ( T ( " a b i n l t t t d o t r i d s s f ( " o o c c ( " o m a p a b a g b i a a t a ( " f t]
+[DELETED:   2  J ( " b ( " p ( " a m a g b o t s t u a s ( " t m o ( m o i t ( o m l a ( " o m l w o n o t e s d i S ( T s o t F a A C s h p a a r t p m a c o a a a s s a c s s c a d m o p w r t s p T s s h t p o r w r t t i ( A ( C ( P s d a r o p b ( S ( C]
+[DELETED:   2  J ( C a p f t p o a p i a ( C b ( O w ( C a ( P ( S o s a i i d o a o ( D t ( A i [ ( U ( P a p g t p r a d r f c p i v o K 4 a S  T s m p s o a r a d S R ( F p]
+[DELETED:   2  J t ( A ( N ( P 1 W t ( b d a t p o c h s 2 I ( A ( P 1 A d o p p w a p p o 2 N a d o p p f g r o s ( W i f f d n i s d a c a n p f c ( T r d ( ( I 1 P 2 T s 3 N o c m n t p a T n f]
+[DELETED:   2  J r i ( I t w a t r p i a w t t o t c t c t d o f t t t p i o p t t p ( I a p o c h n r p w t ( b d f a a i a t p o c e a l l o c r c o o f i t c t m s t r f t p a t i ( I c p s U n t o t c a s n b c a n i f c ( I a w K 4 t i p a r p w b p b t c a a t a o t]
+[DELETED:   2  J p s f f ( T s s p a r i a w K ( ( B s a w r e s ( m t t L R C 1 T I J C o A a R o H a S S C o A a R 2 T I J C o S G o S S C o S a L G a H S  r K c p ( T r s i t a o p a a o r 1 C 2 A 3 P 4 C 5 C 6 C]
+[DELETED:   2  J 7 F 8 A o p p f i u s ( o t s 9 A ( ( B s a w r e s ( m t t L R C 1 T I J C o A a R o H a S S C o A a R 2 T I J C o S G o S S C o S a L G a H S  r d a o ( T o n 1 C 2 D 3 A 4 P 5 C 6 F 7 C]
+[DELETED:   2  J 8 C 9 Q i m a T b S c N d O S c i e l]

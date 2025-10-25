@@ -1,0 +1,1398 @@
+Title: 1 AN ACT relating to the abolition of the death penalty.
+Official Title: 1 AN ACT relating to the abolition of the death penalty.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 22 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS BR 22
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF KRS CHAPTER 532 IS CREATED TO
+4 READ AS FOLLOWS:
+5 (1) Notwithstanding any provision of law to the contrary, capital punishment by
+6 means of the death penalty is abolished as of the effective date of this Act.
+7 (2) The court having jurisdiction over a person sentenced to death before the
+8 effective date of this Act and for whom the death sentence has not been executed
+9 shall sentence that person to imprisonment for life without benefit of probation or
+10 parole.
+11 Section 2. KRS 422.285 is amended to read as follows:
+12 (1) (a) Except as provided in paragraph (b) of this subsection, a person who was
+13 convicted of a capital offense, a Class A felony, a Class B felony, or any
+14 offense designated a violent offense under KRS 439.3401 and who meets the
+15 requirements of this section may at any time request the forensic
+16 deoxyribonucleic acid (DNA) testing and analysis of any evidence that is in
+17 the possession or control of the court or Commonwealth, that is related to the
+18 investigation or prosecution that resulted in the judgment of conviction and
+19 that may contain biological evidence.
+20 (b) This subsection shall not apply to offenses under KRS Chapter 218A, unless
+21 the offense was accompanied by another offense outside of that chapter for
+22 which testing is authorized by paragraph (a) of this subsection.
+23 (2) Upon receipt of a request under this section accompanied by a supporting affidavit
+24 containing sufficient factual averments to support the request from a person who
+25 meets the requirements of subsection (5)(f) of this section at the time the request is
+26 made for an offense to which the DNA relates, the court shall:
+27 (a) If the petitioner is not represented by counsel, appoint the Department of
+Page 1 of 22
+XXXX 1/8/2025 5:19 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 22
+1 Public Advocacy to represent the petitioner for purposes of the request,
+2 pursuant to KRS 31.110(2)(c); or
+3 (b) If the petitioner is represented by counsel or waives appointment of counsel in
+4 writing or if the Department of Public Advocacy has previously withdrawn
+5 from representation of the petitioner for purposes of the request, require the
+6 petitioner to deposit an amount certain with the court sufficient to cover the
+7 reasonable costs of the testing being requested.
+8 (3) Counsel representing the petitioner shall be provided a reasonable opportunity to
+9 investigate the petitioner's request and shall be permitted to supplement the request.
+10 Pursuant to KRS 31.110(2)(c), the petitioner shall have no further right to counsel
+11 provided by the Department of Public Advocacy on the matter if counsel
+12 determines that it is not a proceeding that a reasonable person with adequate means
+13 would be willing to bring at his or her own expense. If the Department of Public
+14 Advocacy moves to withdraw as counsel for petitioner and the court grants the
+15 motion, the court shall proceed as directed under subsection (2)(b) of this section.
+16 (4) Upon receipt of the deposit required under subsection (2)(b) of this section or a
+17 motion from counsel provided by the Department of Public Advocacy to proceed,
+18 the court shall provide notice to the prosecutor and an opportunity to respond to the
+19 petitioner's request.
+20 (5) After due consideration of the request and any supplements and responses thereto,
+21 the court shall order DNA testing and analysis if the court finds that all of the
+22 following apply:
+23 (a) A reasonable probability exists that the petitioner would not have been
+24 prosecuted or convicted if exculpatory results had been obtained through
+25 DNA testing and analysis;
+26 (b) The evidence is still in existence and is in a condition that allows DNA testing
+27 and analysis to be conducted;
+Page 2 of 22
+XXXX 1/8/2025 5:19 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 22
+1 (c) The evidence was not previously subjected to DNA testing and analysis or
+2 was not subjected to the testing and analysis that is now requested and may
+3 resolve an issue not previously resolved by the previous testing and analysis;
+4 (d) Except for a petitioner sentenced to death prior to the effective date of this
+5 Act, the petitioner was convicted of the offense after a trial or after entering an
+6 Alford plea;
+7 (e) Except for a petitioner sentenced to death prior to the effective date of this
+8 Act, the testing is not sought for touch DNA, meaning casual or limited
+9 contact DNA; and
+10 (f) The petitioner is still incarcerated or on probation, parole, or other form of
+11 correctional supervision, monitoring, or registration for the offense to which
+12 the DNA relates.
+13 (6) After due consideration of the request and any supplements and responses thereto,
+14 the court may order DNA testing and analysis if the court finds that all of the
+15 following apply:
+16 (a) A reasonable probability exists that either:
+17 1. The petitioner's verdict or sentence would have been more favorable if
+18 the results of DNA testing and analysis had been available at the trial
+19 leading to the judgment of conviction; or
+20 2. DNA testing and analysis will produce exculpatory evidence;
+21 (b) The evidence is still in existence and is in a condition that allows DNA testing
+22 and analysis to be conducted;
+23 (c) The evidence was not previously subject to DNA testing and analysis or was
+24 not subjected to the testing and analysis that is now requested and that may
+25 resolve an issue not previously resolved by the previous testing and analysis;
+26 (d) Except for a petitioner sentenced to death prior to the effective date of this
+27 Act, the petitioner was convicted of the offense after a trial or after entering an
+Page 3 of 22
+XXXX 1/8/2025 5:19 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 22
+1 Alford plea;
+2 (e) Except for a petitioner sentenced to death prior to the effective date of this
+3 Act, the testing is not sought for touch DNA, meaning casual or limited
+4 contact DNA; and
+5 (f) The petitioner is still incarcerated or on probation, parole, or other form of
+6 correctional supervision, monitoring, or registration for the offense to which
+7 the DNA relates.
+8 (7) The provisions of KRS 17.176 to the contrary notwithstanding, the petitioner shall
+9 pay the costs of all testing and analysis ordered under this section. If the court
+10 determines that the petitioner is a needy person using the standards set out in KRS
+11 31.120 and the Department of Public Advocacy so moves, the court shall treat the
+12 costs of testing and analysis as a direct expense of the defense for the purposes of
+13 authorizing payment under KRS 31.185.
+14 (8) If the prosecutor or defense counsel has previously subjected evidence to DNA
+15 testing and analysis, the court shall order the prosecutor or defense counsel to
+16 provide all the parties and the court with access to the laboratory reports that were
+17 prepared in connection with the testing and analysis, including underlying data and
+18 laboratory notes. If the court orders DNA testing and analysis pursuant to this
+19 section, the court shall order the production of any laboratory reports that are
+20 prepared in connection with the testing and analysis and may order the production
+21 of any underlying data and laboratory notes.
+22 (9) If a petition is filed pursuant to this section, the court shall order the state to
+23 preserve during the pendency of the proceeding all evidence in the state's
+24 possession or control that could be subjected to DNA testing and analysis. The state
+25 shall prepare an inventory of the evidence and shall submit a copy of the inventory
+26 to the defense and the court. If the evidence is intentionally destroyed after the court
+27 orders its preservation, the court may impose appropriate sanctions, including
+Page 4 of 22
+XXXX 1/8/2025 5:19 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 22
+1 criminal contempt.
+2 (10) The court may make any other orders that the court deems appropriate, including
+3 designating any of the following:
+4 (a) The preservation of some of the sample for replicating the testing and
+5 analysis; and
+6 (b) Elimination samples from third parties.
+7 (11) If the results of the DNA testing and analysis are not favorable to the petitioner, the
+8 court shall dismiss the petition. The court may make further orders as it deems
+9 appropriate, including any of the following:
+10 (a) Notifying the Department of Corrections and the Parole Board;
+11 (b) Requesting that the petitioner's sample be added to the Department of
+12 Kentucky State Police database; and
+13 (c) Providing notification to the victim or family of the victim.
+14 (12) Notwithstanding any other provision of law that would bar a hearing as untimely, if
+15 the results of the DNA testing and analysis are favorable to the petitioner, the court
+16 shall order a hearing and make any further orders that are required pursuant to this
+17 section or the Kentucky Rules of Criminal Procedure.
+18 Section 3. KRS 532.030 is amended to read as follows:
+19 (1) When a person is convicted of a capital offense, he or she shall have his or her
+20 punishment fixed [at death, or ]at a term of imprisonment for life without benefit of
+21 probation or parole, or at a term of imprisonment for life without benefit of
+22 probation or parole until he or she has served a minimum of twenty-five (25) years
+23 of his or her sentence, or to a sentence of life, or to a term of not less than twenty
+24 (20) years nor more than fifty (50) years.
+25 (2) When a person is convicted of a Class A felony, he or she shall have his or her
+26 punishment fixed at imprisonment in accordance with KRS 532.060.
+27 (3) When a person is convicted of an offense other than a capital offense or Class A
+Page 5 of 22
+XXXX 1/8/2025 5:19 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 22
+1 felony, he or she shall have his or her punishment fixed at:
+2 (a) A term of imprisonment authorized by this chapter; or
+3 (b) A fine authorized by KRS Chapter 534; or
+4 (c) Both imprisonment and a fine unless precluded by the provisions of KRS
+5 Chapter 534.
+6 [(4) In all cases in which the death penalty may be authorized the judge shall instruct the
+7 jury in accordance with subsection (1) of this section. The instructions shall state,
+8 subject to the aggravating and mitigating limitations and requirements of KRS
+9 532.025, that the jury may recommend upon a conviction for a capital offense a
+10 sentence of death, or at a term of imprisonment for life without benefit of probation
+11 or parole, or a term of imprisonment for life without benefit of probation or parole
+12 until the defendant has served a minimum of twenty-five (25) years of his sentence,
+13 or a sentence of life, or to a term of not less than twenty (20) years nor more than
+14 fifty (50) years.]
+15 Section 4. KRS 532.050 is amended to read as follows:
+16 (1) No court shall impose sentence for conviction of a felony[, other than a capital
+17 offense,] without first ordering a presentence investigation after conviction and
+18 giving due consideration to a written report of the investigation. The presentence
+19 investigation report shall not be waived; however, the completion of the
+20 presentence investigation report may be delayed until after sentencing upon the
+21 written request of the defendant if the defendant is in custody.
+22 (2) The report shall be prepared and presented by a probation officer and shall include:
+23 (a) The results of the defendant's risk and needs assessment;
+24 (b) An analysis of the defendant's history of delinquency or criminality, physical
+25 and mental condition, family situation and background, economic status,
+26 education, occupation, and personal habits;
+27 (c) A preliminary calculation of the credit allowed the defendant for time spent in
+Page 6 of 22
+XXXX 1/8/2025 5:19 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 22
+1 custody prior to the commencement of a sentence under KRS 532.120; and
+2 (d) Any other matters that the court directs to be included.
+3 (3) Before imposing sentence for a felony conviction, the court may order the
+4 defendant to submit to psychiatric observation and examination for a period not
+5 exceeding sixty (60) days. The defendant may be remanded for this purpose to any
+6 available clinic or mental hospital or the court may appoint a qualified psychiatrist
+7 to make the examination.
+8 (4) If the defendant has been convicted of a sex crime, as defined in KRS 17.500, prior
+9 to determining the sentence or prior to final sentencing for youthful offenders, the
+10 court shall order a comprehensive sex offender presentence evaluation of the
+11 defendant to be conducted by an approved provider, as defined in KRS 17.500, the
+12 Department of Corrections, or the Department of Juvenile Justice if the defendant is
+13 a youthful offender. The comprehensive sex offender presentence evaluation shall
+14 provide to the court a recommendation related to the risk of a repeat offense by the
+15 defendant and the defendant's amenability to treatment and shall be considered by
+16 the court in determining the appropriate sentence. A copy of the comprehensive sex
+17 offender presentence evaluation shall be furnished to the court, the
+18 Commonwealth's attorney, and to counsel for the defendant. If the defendant is
+19 eligible and the court suspends the sentence and places the defendant on probation
+20 or conditional discharge, the provisions of KRS 532.045(3) to (8) shall apply. All
+21 communications relative to the comprehensive sex offender presentence evaluation
+22 and treatment of the sex offender shall fall under the provisions of KRS 197.440
+23 and shall not be made a part of the court record subject to review in appellate
+24 proceedings. The defendant shall pay for any comprehensive sex offender
+25 presentence evaluation or treatment required pursuant to this section up to the
+26 defendant's ability to pay but no more than the actual cost of the comprehensive sex
+27 offender presentence evaluation or treatment.
+Page 7 of 22
+XXXX 1/8/2025 5:19 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 22
+1 (5) The presentence investigation report shall identify the counseling treatment,
+2 educational, and rehabilitation needs of the defendant and identify community-
+3 based,[ and] correctional-based, and institutional-based programs and resources
+4 available to meet those needs or shall identify the lack of programs and resources to
+5 meet those needs.
+6 (6) Before imposing sentence, the court shall advise the defendant or his or her counsel
+7 of the factual contents and conclusions of any presentence investigation or
+8 psychiatric examinations and afford a fair opportunity and a reasonable period of
+9 time, if the defendant so requests, to controvert them. The court shall provide the
+10 defendant's counsel a copy of the presentence investigation report. It shall not be
+11 necessary to disclose the sources of confidential information.
+12 Section 5. KRS 532.100 is amended to read as follows:
+13 (1) As used in this section, "jail" means a "jail" or "regional jail" as defined in KRS
+14 441.005.
+15 (2) When an indeterminate term of imprisonment is imposed, the court shall commit
+16 the defendant to the custody of the Department of Corrections for the term of his or
+17 her sentence and until released in accordance with the law.
+18 (3) When a definite term of imprisonment is imposed, the court shall commit the
+19 defendant to a jail for the term of his or her sentence and until released in
+20 accordance with the law.
+21 (4) [When a sentence of death is imposed, the court shall commit the defendant to the
+22 custody of the Department of Corrections with directions that the sentence be
+23 carried out according to law.
+24 (5) ](a) The provisions of KRS 500.080(5) notwithstanding, if a Class D felon is
+25 sentenced to an indeterminate term of imprisonment of five (5) years or less,
+26 he or she shall serve that term in a jail in a county in which the fiscal court has
+27 agreed to house state prisoners; except that, when an indeterminate sentence
+Page 8 of 22
+XXXX 1/8/2025 5:19 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 22
+1 of two (2) years or more is imposed on a Class D felon convicted of a sexual
+2 offense enumerated in KRS 197.410(1), or a crime under KRS 17.510(12) or
+3 (13), the sentence shall be served in a state institution. Counties choosing not
+4 to comply with the provisions of this paragraph shall be granted a waiver by
+5 the commissioner of the Department of Corrections.
+6 (b) The provisions of KRS 500.080(5) notwithstanding, a Class D felon who
+7 received a sentence of more than five (5) years for nonviolent, nonsexual
+8 offenses, but who currently has less than five (5) years remaining to be
+9 served, may serve the remainder of his or her term in a jail in a county in
+10 which the fiscal court has agreed to house state prisoners.
+11 (c) 1. The provisions of KRS 500.080(5) notwithstanding, and except as
+12 provided in subparagraph 2. of this paragraph, a Class C or D felon with
+13 a sentence of more than five (5) years who is classified by the
+14 Department of Corrections as community custody shall serve that term
+15 in a jail in a county in which the fiscal court has agreed to house state
+16 prisoners if:
+17 a. Beds are available in the jail;
+18 b. State facilities are at capacity; and
+19 c. Halfway house beds are being utilized at the contract level as of
+20 July 15, 2000.
+21 2. When an indeterminate sentence of two (2) years or more is imposed on
+22 a felon convicted of a sex crime, as defined in KRS 17.500, or any
+23 similar offense in another jurisdiction, the sentence shall be served in a
+24 state institution.
+25 3. Counties choosing not to comply with the provisions of this paragraph
+26 shall be granted a waiver by the commissioner of the Department of
+27 Corrections.
+Page 9 of 22
+XXXX 1/8/2025 5:19 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 22
+1 (d) Any jail that houses state inmates under this subsection shall offer programs
+2 as recommended by the Jail Standards Commission. The Department of
+3 Corrections shall adopt the recommendations of the Jail Standards
+4 Commission and promulgate administrative regulations establishing required
+5 programs for a jail that houses state inmates under this subsection. The
+6 Department of Corrections shall approve programming offered by jails to state
+7 inmates for sentencing credits in accordance with KRS 197.045.
+8 (e) Before housing any female state inmate, a jail shall be certified pursuant to
+9 KRS 197.020.
+10 (f) 1. a. If a jail is at or over one hundred fifty percent (150%) capacity, the
+11 Department of Corrections may direct the jail to transfer a
+12 specified number of state prisoners to vacant beds at other
+13 designated jails or state institutions. As used in this paragraph,
+14 "capacity" means the capacity listed on the certificate of
+15 occupancy issued each year to the jail by the Department of
+16 Corrections.
+17 b. The Department of Corrections shall choose which state prisoners
+18 are eligible for transfer based on the security level of the vacant
+19 bed at the receiving jail or state institution.
+20 c. State prisoners who are approved for transfer to a Department of
+21 Corrections facility for necessary medical treatment and care
+22 pursuant to KRS 441.560 shall not be transferred to another jail.
+23 d. State prisoners enrolled in a Department of Corrections approved
+24 program pursuant to KRS 197.045 shall not be transferred.
+25 e. State prisoners awaiting trial in the county they are being housed
+26 shall not be transferred.
+27 f. Jails that receive state prisoners pursuant to this subparagraph shall
+Page 10 of 22
+XXXX 1/8/2025 5:19 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 22
+1 be responsible for the transportation of those prisoners to the jail.
+2 2. If the Department of Corrections directs the transfer of a state prisoner
+3 pursuant to subparagraph 1. of this paragraph, the jailer has fourteen
+4 (14) days to transfer the state prisoner. If the jailer refuses to release
+5 custody of the state prisoner to the receiving jail within fourteen (14)
+6 days, the department shall reduce the per diem for the jail for an amount
+7 equal to the per diem of that prisoner for each day the jailer refuses to
+8 comply with the direction.
+9 3. If the Department of Corrections directs the transfer of a state prisoner
+10 pursuant to subparagraph 1. of this paragraph, the jailer of the receiving
+11 jail shall accept the transfer and transport the state prisoner in
+12 accordance with subparagraph 1.f. of this paragraph. If, after receiving a
+13 copy of the direction, the jailer refuses to accept and transport the state
+14 prisoner, the Department of Corrections shall reduce the per diem for the
+15 receiving jail for an amount equal to the per diem of that prisoner for
+16 each day the jailer refuses to comply with the direction.
+17 4. If a jail has a vacant bed and has a Class C or Class D felon who, based
+18 on the Department of Corrections classification system, is eligible to be
+19 housed in that vacant bed, the department may direct the jail to transfer
+20 the state prisoner to that bed. If the jailer refuses to transfer the state
+21 prisoner to the vacant bed, the Department of Corrections shall reduce
+22 the per diem for the jail for an amount equal to the per diem of that
+23 prisoner for each day the jailer refuses to comply with the direction.
+24 5. The per diem reduced pursuant to subparagraph 2., 3., or 4. of this
+25 paragraph shall be enforced by withholding the amount from the per
+26 diem paid to the jail pursuant to KRS 431.215(2).
+27 6. If a jail that is at or over one hundred fifty percent (150%) capacity
+Page 11 of 22
+XXXX 1/8/2025 5:19 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 22
+1 requests the transfer of a specified number of state prisoners, the
+2 Department of Corrections may, if vacant beds are available at other
+3 jails, direct the transfer in accordance with subparagraph 1. of this
+4 paragraph.
+5 (g) If a jail has vacant beds in an area of the jail usually reserved for state
+6 prisoners, the jail may house county prisoners in that area.
+7 (5)[(6)] The jailer of a county in which a Class D felon or a Class C felon is
+8 incarcerated may request the commissioner of the Department of Corrections to
+9 incarcerate the felon in a state corrections institution if the jailer has reasons to
+10 believe that the felon is an escape risk, a danger to himself or herself or other
+11 inmates, an extreme security risk, or needs protective custody beyond that which
+12 can be provided in a jail. The commissioner of the Department of Corrections shall
+13 evaluate the request and transfer the inmate if he or she deems it necessary. If the
+14 commissioner refuses to accept the felon inmate, and the Circuit Judge of the
+15 county that has jurisdiction of the offense charged is of the opinion that the felon
+16 cannot be safely kept in a jail, the Circuit Judge, with the consent of the Governor,
+17 may order the felon transferred to the custody of the Department of Corrections.
+18 (6)[(7)] (a) Class D felons and Class C felons serving their time in a jail shall be
+19 considered state prisoners, and, except as provided in subsection (4)[(5)](f) of
+20 this section, the Department of Corrections shall pay the jail in which the
+21 prisoner is incarcerated a per diem amount determined according to KRS
+22 431.215(2). For other state prisoners and parole violator prisoners, the per
+23 diem payments shall also begin on the date prescribed in KRS 431.215(2),
+24 except as provided in subsection (4)[(5)](f) of this section.
+25 (b) 1. The per diem amount paid to the jail shall be increased by two dollars
+26 ($2) per day of program attendance for those inmates enrolled in and
+27 attending evidence-based programs approved by the department and that
+Page 12 of 22
+XXXX 1/8/2025 5:19 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 22
+1 do not require instructors to have completed any postsecondary
+2 education.
+3 2. The per diem amount paid to the jail shall be increased by ten dollars
+4 ($10) per day of program attendance for those inmates enrolled in and
+5 attending evidence-based programs approved by the department and that
+6 require instructors to have completed particular postsecondary courses.
+7 (c) Any amount beyond the base per diem paid under paragraph (a) of this
+8 subsection that is paid under a contract to the jail for an inmate's attendance at
+9 an evidence-based program shall be credited toward the ten dollars ($10)
+10 increase in per diem required under paragraph (b) of this subsection.
+11 (7)[(8)] State prisoners, excluding the Class D felons and Class C felons qualifying to
+12 serve time in jails, shall be transferred to the state institution within forty-five (45)
+13 days of final sentencing.
+14 (8)[(9)] (a) Class D felons eligible for placement in a jail may be permitted by the
+15 warden or jailer to participate in any approved community work program or
+16 other form of work release with the approval of the commissioner of the
+17 Department of Corrections.
+18 (b) The authority to release an inmate to work under this subsection may be
+19 exercised at any time during the inmate's sentence, including the period when
+20 the court has concurrent authority to permit work release pursuant to KRS
+21 439.265.
+22 (c) The warden or jailer may require an inmate participating in the program to
+23 pay a fee to reimburse the warden or jailer for the cost of operating the
+24 community work program or any other work release program. The fee shall
+25 not exceed the lesser of fifty-five dollars ($55) per week or twenty percent
+26 (20%) of the prisoner's weekly net pay earned from the community work
+27 program or work release participation. In addition, the inmate may be required
+Page 13 of 22
+XXXX 1/8/2025 5:19 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 22
+1 to pay for any drug testing performed on the inmate as a requirement of the
+2 community work program or work release participation.
+3 (d) This subsection shall not apply to an inmate who:
+4 1. Is not eligible for work release pursuant to KRS 197.140;
+5 2. Has a maximum or close security classification as defined by
+6 administrative regulations promulgated by the Department of
+7 Corrections;
+8 3. Is subject to the provisions of KRS 532.043; or
+9 4. Is in a reentry center as defined in KRS 441.005.
+10 Section 6. KRS 533.010 is amended to read as follows:
+11 (1) Any person who has been convicted of a crime and who has not been sentenced to
+12 imprisonment for life without parole or life without parole for twenty-five (25)
+13 years[death] may be sentenced to probation, probation with an alternative
+14 sentencing plan, or conditional discharge as provided in this chapter.
+15 (2) Before imposition of a sentence of imprisonment, the court shall consider
+16 probation, probation with an alternative sentencing plan, or conditional discharge.
+17 Unless the defendant is a violent offender[felon] as defined in KRS 439.3401 or a
+18 statute prohibits probation, shock probation, or conditional discharge, after due
+19 consideration of the defendant's risk and needs assessment, nature and
+20 circumstances of the crime, and the history, character, and condition of the
+21 defendant, probation or conditional discharge shall be granted, unless the court is of
+22 the opinion that imprisonment is necessary for protection of the public because:
+23 (a) There is substantial risk that during a period of probation or conditional
+24 discharge the defendant will commit another crime;
+25 (b) The defendant is in need of correctional treatment that can be provided most
+26 effectively by his or her commitment to a correctional institution; or
+27 (c) A disposition under this chapter will unduly depreciate the seriousness of the
+Page 14 of 22
+XXXX 1/8/2025 5:19 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 22
+1 defendant's crime.
+2 (3) In the event the court determines that probation is not appropriate after due
+3 consideration of the defendant's risk and needs assessment, nature and
+4 circumstances of the crime, and the history, character, and condition of the
+5 defendant, probation with an alternative sentencing plan shall be granted unless the
+6 court is of the opinion that imprisonment is necessary for the protection of the
+7 public because:
+8 (a) There is a likelihood that during a period of probation with an alternative
+9 sentencing plan or conditional discharge the defendant will commit a Class D
+10 or Class C felony or a substantial risk that the defendant will commit a Class
+11 B or Class A felony;
+12 (b) The defendant is in need of correctional treatment that can be provided most
+13 effectively by commitment to a correctional institution; or
+14 (c) A disposition under this chapter will unduly depreciate the seriousness of the
+15 defendant's crime.
+16 (4) The court shall not determine that there is a likelihood that the defendant will
+17 commit a Class C or Class D felony based upon the defendant's risk and needs
+18 assessment and the fact that:
+19 (a) The defendant has never been convicted of, pled guilty to, or entered an
+20 Alford plea to a felony offense;
+21 (b) If convicted of, having pled guilty to, or entered an Alford plea to a felony
+22 offense, the defendant successfully completed probation more than ten (10)
+23 years immediately prior to the date of the commission of the felony for which
+24 the defendant is now being sentenced and has had no intervening convictions,
+25 pleas of guilty, or Alford pleas to any criminal offense during that period; or
+26 (c) The defendant has been released from incarceration for the commission of a
+27 felony offense more than ten (10) years immediately prior to the date of the
+Page 15 of 22
+XXXX 1/8/2025 5:19 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 22
+1 commission of the felony for which the defendant is now being sentenced and
+2 has had no intervening convictions, pleas of guilty, or Alford pleas to any
+3 criminal offense during that period.
+4 (5) In making a determination under subsection (4) of this section, the court may
+5 determine that the greater weight of the evidence indicates that there is a likelihood
+6 that the defendant will commit a Class C or Class D felony.
+7 (6) Upon initial sentencing of a defendant or upon modification or revocation of
+8 probation, when the court deems it in the best interest of the public and the
+9 defendant, the court may order probation with the defendant to serve one (1) of the
+10 following alternative sentences:
+11 (a) To a halfway house for no more than twelve (12) months;
+12 (b) To home incarceration with or without work release for no more than twelve
+13 (12) months;
+14 (c) To jail for a period not to exceed twelve (12) months with or without work
+15 release, community service and other programs as required by the court;
+16 (d) To a residential treatment program for the abuse of alcohol or controlled
+17 substances;
+18 (e) To a reentry center for no more than twelve (12) months; or
+19 (f) To any other specified counseling program, rehabilitation or treatment
+20 program, or facility.
+21 (7) If during the term of the alternative sentence the defendant fails to adhere to and
+22 complete the conditions of the alternative sentence, the court may modify the terms
+23 of the alternative sentence or may modify or revoke probation and alternative
+24 sentence and commit the defendant to an institution.
+25 (8) In addition to those conditions that the court may impose, the conditions of
+26 alternative sentence shall include the following and, if the court determines that the
+27 defendant cannot comply with them, then they shall not be made available:
+Page 16 of 22
+XXXX 1/8/2025 5:19 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 22
+1 (a) A defendant sentenced to a halfway house shall:
+2 1. Be working or pursuing his or her education or be enrolled in a full-time
+3 treatment program;
+4 2. Pay restitution during the term of probation; and
+5 3. Have no contact with the victim of the defendant's crime;
+6 (b) A defendant sentenced to home incarceration shall:
+7 1. Be employed by another person or self-employed at the time of
+8 sentencing to home incarceration and continue the employment
+9 throughout the period of home incarceration, unless the court determines
+10 that there is a compelling reason to allow home incarceration while the
+11 defendant is unemployed;
+12 2. Pay restitution during the term of home incarceration;
+13 3. Enter a treatment program, if appropriate;
+14 4. Pay all or some portion of the cost of home incarceration as determined
+15 by the court;
+16 5. Comply with other conditions as specified; and
+17 6. Have no contact with the victim of the defendant's crime;
+18 (c) A defendant sentenced to jail with community service shall:
+19 1. Pay restitution during all or some part of the defendant's term of
+20 probation; and
+21 2. Have no contact with the victim of the defendant's crime;
+22 (d) A defendant sentenced to a residential treatment program for drug and alcohol
+23 abuse shall:
+24 1. Undergo mandatory drug screening during term of probation;
+25 2. Be subject to active, supervised probation for a term of five (5) years;
+26 3. Undergo aftercare as required by the treatment program;
+27 4. Pay restitution during the term of probation; and
+Page 17 of 22
+XXXX 1/8/2025 5:19 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 22
+1 5. Have no contact with the victim of the defendant's crime; or
+2 (e) A defendant sentenced to a reentry center shall:
+3 1. Be employed in the community or working in a vocational program at
+4 the reentry center;
+5 2. Be enrolled in a treatment program;
+6 3. Pay restitution, fees, and fines during the term of probation; and
+7 4. Comply with other conditions as specified.
+8 (9) When the court deems it in the best interest of the defendant and the public, the
+9 court may order the person to work at community service related projects under the
+10 terms and conditions specified in KRS 533.070. Work at community service related
+11 projects shall be considered as a form of conditional discharge.
+12 (10) Probation with alternative sentence shall not be available as set out in KRS 532.045
+13 and 533.060, except as provided in KRS 533.030(6).
+14 (11) The court may utilize a community corrections program authorized or funded under
+15 KRS Chapter 196 to provide services to any person released under this section.
+16 (12) When the court deems it in the best interest of the defendant and the public, the
+17 court may order the defendant to placement for probation monitoring by a private
+18 agency. The private agency shall report to the court on the defendant's compliance
+19 with his or her terms of probation or conditional discharge. The defendant shall be
+20 responsible for any reasonable charges which the private agency charges.
+21 (13) The jailer in each county incarcerating Class C or D felons may deny work release
+22 privileges to any defendant for violating standards of discipline or other jail
+23 regulations. The jailer shall report the action taken and the details of the violation
+24 on which the action was based to the court of jurisdiction within five (5) days of the
+25 violation.
+26 (14) The Department of Corrections shall, by administrative regulation, develop written
+27 criteria for work release privileges granted under this section.
+Page 18 of 22
+XXXX 1/8/2025 5:19 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 22
+1 (15) Reimbursement of incarceration costs shall be paid directly to the jailer in the
+2 amount specified by written order of the court. Incarceration costs owed to the
+3 Department of Corrections shall be paid through the circuit clerk.
+4 (16) The court shall enter into the record written findings of fact and conclusions of law
+5 when considering implementation of any sentence under this section.
+6 Section 7. KRS 640.010 is amended to read as follows:
+7 (1) For children who are alleged to be youthful offenders by falling in the purview of
+8 KRS 635.020(2) to (8), the court shall at arraignment ensure that the child's rights
+9 as specified in KRS 610.060 have been explained and followed.
+10 (2) (a) In the case of a child alleged to be a youthful offender by falling within the
+11 purview of KRS 635.020(2) to (8), the District Court shall, upon motion by
+12 the county attorney to proceed under this chapter, and after the county
+13 attorney has consulted with the Commonwealth's attorney, conduct a
+14 preliminary hearing to determine if the child should be transferred to Circuit
+15 Court as a youthful offender. The preliminary hearing shall be conducted in
+16 accordance with the Rules of Criminal Procedure.
+17 (b) At the preliminary hearing, the court shall determine if there is probable cause
+18 to believe that an offense was committed, that the child committed the
+19 offense, and that the child is of sufficient age and has the requisite number of
+20 prior adjudications, if any, necessary to fall within the purview of KRS
+21 635.020.
+22 (c) If the District Court determines probable cause exists, the court shall consider
+23 the following factors before determining whether the child's case shall be
+24 transferred to the Circuit Court:
+25 1. The seriousness of the alleged offense;
+26 2. Whether the offense was against persons or property, with greater
+27 weight being given to offenses against persons;
+Page 19 of 22
+XXXX 1/8/2025 5:19 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 22
+1 3. The maturity of the child as determined by his or her environment;
+2 4. The child's prior record;
+3 5. The best interest of the child and community;
+4 6. The prospects of adequate protection of the public;
+5 7. The likelihood of reasonable rehabilitation of the child by the use of
+6 procedures, services, and facilities currently available to the juvenile
+7 justice system;
+8 8. Evidence of a child's participation in a gang;
+9 9. Whether the child is a defendant with a serious intellectual disability as
+10 defined in subsection (4) of this section[in accordance with KRS
+11 532.130]; and
+12 10. Whether the child used a firearm in the commission of the offense.
+13 (d) If, following the completion of the preliminary hearing, the District Court
+14 finds, after considering the factors enumerated in paragraph (c) of this
+15 subsection, that two (2) or more of the factors specified in paragraph (c) of
+16 this subsection are determined to favor transfer, the child may be transferred
+17 to Circuit Court, and if the child is transferred the District Court shall issue an
+18 order transferring the child as a youthful offender and shall state on the record
+19 the reasons for the transfer. The child shall then be proceeded against in the
+20 Circuit Court as an adult, except as otherwise provided in this chapter.
+21 (e) If, following completion of the preliminary hearing, the District Court is of
+22 the opinion, after considering the factors enumerated in paragraph (c) of this
+23 subsection, that the child shall not be transferred to the Circuit Court, the case
+24 shall be dealt with as provided in KRS Chapter 635.
+25 (3) If the child is transferred to Circuit Court under this section and the grand jury does
+26 not find that there is probable cause to indict the child as a youthful offender, as
+27 defined in KRS 635.020(2) to (8), but does find that there is probable cause to
+Page 20 of 22
+XXXX 1/8/2025 5:19 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 22
+1 indict the child for another criminal offense, the child shall not be tried as a
+2 youthful offender in Circuit Court but shall be returned to District Court to be dealt
+3 with as provided in KRS Chapter 635.
+4 (4) As used in this section:
+5 (a) "Serious intellectual disability" means significantly subaverage general
+6 intellectual functioning existing concurrently with substantial deficits in
+7 adaptive behavior and manifested during the developmental period; and
+8 (b) "Significantly subaverage general intellectual functioning" means an
+9 intelligence quotient or I.Q. of seventy (70) or below.
+10 Section 8. KRS 640.040 is amended to read as follows:
+11 (1) No youthful offender who has been convicted of a capital offense [who was under
+12 the age of sixteen (16) years at the time of the commission of the offense shall be
+13 sentenced to capital punishment. A youthful offender may be sentenced to capital
+14 punishment if he was sixteen (16) years of age or older at the time of the
+15 commission of the offense. A youthful offender convicted of a capital offense
+16 regardless of age may be sentenced to a term of imprisonment appropriate for one
+17 who has committed a Class A felony and ]may be sentenced to life imprisonment
+18 without benefit of parole[ for twenty-five (25) years].
+19 (2) No youthful offender shall be subject to persistent felony offender sentencing under
+20 the provisions of KRS 532.080 for offenses committed before the age of eighteen
+21 (18) years.
+22 (3) No youthful offender shall be subject to limitations on probation, parole or
+23 conditional discharge as provided for in KRS 533.060.
+24 (4) Any youthful offender convicted of a misdemeanor or any felony offense which
+25 would exempt him or her from KRS 635.020(2) to[, (3), (4), (5), (6), (7), or] (8)
+26 shall be disposed of by the Circuit Court in accordance with the provisions of KRS
+27 635.060.
+Page 21 of 22
+XXXX 1/8/2025 5:19 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 22
+1 Section 9. The following KRS sections are repealed:
+2 431.213 Definitions for KRS 431.213, 431.2135, and 431.240.
+3 431.2135 Procedure for challenging condemned person's sanity.
+4 431.218 Date of execution of condemned -- Copy of mandate to proper officer.
+5 431.220 Execution of death sentence.
+6 431.223 Method of execution in event of unconstitutionality of KRS 431.220.
+7 431.224 Retroactive applicability.
+8 431.240 Time of execution -- Governor to fix time in case of insanity, pregnancy, or
+9 escape -- Administrative hearings -- Transfer to forensic psychiatric facility in case
+10 of insanity.
+11 431.250 Persons who may attend executions.
+12 431.260 Warden's return on judgment.
+13 431.270 Delivery or burial of body.
+14 507A.060 Death sentence prohibited.
+15 532.025 Presentence hearings -- Use of juvenile court records -- Aggravating or
+16 mitigating circumstances -- Instructions to jury.
+17 532.075 Review of death sentence by Supreme Court.
+18 532.130 Definitions for KRS 532.135 and 532.140.
+19 532.135 Determination by court that defendant has a serious intellectual disability or
+20 serious mental illness.
+21 532.140 Defendant with a serious intellectual disability or serious mental illness not
+22 subject to execution -- Authorized sentences.
+23 532.300 Prohibition against death sentence being sought or given on the basis of race --
+24 Procedures for dealing with claims.
+25 532.305 Application of KRS 532.300.
+26 532.309 Short title for KRS 532.300 to 532.309.
+Page 22 of 22
+XXXX 1/8/2025 5:19 PM Jacketed
+[DELETED:   2  J A B S R ( N a p o l t t c c p b m ( T c h j o a p s t d b t e s p S ( ( E a p i p ( o t s a p w w c o a c o a C A f a C B f o a o r o t s m a a t r t f d t i t ( T t w ( U c m m ( I t p i n r b c a t D o]
+[DELETED:   2  J P A t r t p f p o t r p ( I w f p r ( C i P p b t D o P A o t m i c d w A m t w a c f p a t c g t m ( U m t p ( A t c s o D t a a i t c f t a o t f ( A r p e t t p w n h b p o c i e r h b o t D ( T a]
+[DELETED:   2  J ( T w r ( E A A ( E A t t i n s f t D m c o l c ( T c t ( A t c m o D t a a i t c f t a o t f ( A 1 T t l 2 D ( T a ( T n r ( E A]
+[DELETED:   2  J A ( E A t t i n s f t D m c o l c ( T c t ( T p t c o a t a a o u t s I t c d 3 c a ( I t p o d c h p s e t D t a a t c s o t p o d c t p p l n I t c o D t a a p t t s t c s o t p o a l r t a p o ( I a p i f p t t s t c s o t s t p d t p o t p a e i t s p s t o i p t c m i a s i]
+[DELETED:   2  J c ( T d ( T p o s o t s f r t t a a ( E ( I c s d t p T c m m f o a i d a ( N ( R t t p s b a t t D o K ( P ( N t s s S ( W p p o p o a a t o i f l w b o p o ( ( W p ( W]
+[DELETED:   2  J f ( A ( A ( B i a a f u p b t p o K C [ I j s t t a a m l a r o K 5 s o u o f S ( N c s i s f c o a f o t a c o w f o a p i a c a g i r s n b w h t c o t p i r m b d u a s u t w ( T ( T ( A a m c f s a b e s e ( A]
+[DELETED:   2  J c ( A ( B i s f a f c t c m o t d t s t p o a e f a p n e a t ( I t c s o a c s o p e o t d D a p d t o p e s b f t t c t C a a t c f t d I t d i e o c a a s n b m a p o t c r s t r i a p T d s p f a c s o p e o t r p t t s u t t d o]
+[DELETED:   2  J ( T p i r s i t c t e a r n o t d a i c b a c a i p a r a m ( B o t f c a c o a p i o p t d n S ( A 4 ( W t h ( W a d t o i i i t c s c t d t a j f t t o h o h s a u r i a ( [ c o t D o C w d t t s b c ( ] T p o K 5 n i a C D f i s h a]
+[DELETED:   2  J o o ( t t ( T p o K 5 n a C D f w r a s o m t f ( y f n n o b w c h l t f ( y r t b s w ( 1 T p o K 5 n a e a p a s o m t f ( y w i c b t D i p a B b S c H J 2 W a f c o a s c a d i K 1 o a s s 3 C s b g a w b t c o t D o C]
+[DELETED:   2  J ( A a r b t J S C T D o C s a t r o t J S C p f a j t h s i u t s T D i ( B K ( 1 a I D o C m d t j t t a s n o s p t v b a o d j o s i A u i t p " m t c l o t c o o i e y t t j b t D o C b T a b c S C f f n m t a c p d S p e S s f J]
+[DELETED:   2  J b 2 I p t s 1 o t p t j h f ( c d e c 3 I p j s a t t a t t s p i a c p r e 4 I o h t s p t p 5 T p d r p t s 2 3 o 4 o t p s b e b w t a f t p d 6 I a j t i a o o o h f p ( c]
+[DELETED:   2  J r t t o a s n o s p t D o C m i v b a a a o j d t t i a w s 1 o t p ( I a j h v b i a a o t j u r f s p ( T j o a c i w a C D f o a C C f i i m r t c o t D o C t i t f i a s c i i t j h r t b t t f i a e r a d t h o h o o i c e c r t a t f i a t C J o t c c m ( ( C c t s t D o C s p t j i w t p i i a p d a d a t K 4 F o s p a p v p t p d e ( 1 T ( a]
+[DELETED:   2  J d n r i t h c a p e 2 T ( a r ( A a b t b p d p u p ( o t s a e p s b c t t t d ( i ( S s d ( ( C w o f o w r w t a o t c o t D ( T a t r a i t w u t s m b e t c 4 ( T p a f t r t w o j f t c o o t c n ( o t p w n p e f t c w p]
+[DELETED:   2  J t c ( T 1 I 2 H a m o c s c a d b a r p b t D o C 3 I 4 I S ( A i y m b s t p p w a a s ( B i o a s o i t c s c p U s p p s p o c d a d c o t d r a n a n a c o t c a t h c a c o t d t ( T i s r t d a p o p o c d ( T e ( A]
+[DELETED:   2  J d ( I t e t c d t p i n a a d c o t d r a n a n a c o t c a t h c a c o t d c i o t o t i i n f t p o t p ( T i a l t d a p o p w a a s o B ( T e ( A d ( T c s n d t t i a l t t d w c a C C o D f b u t d r a n a ( T d h n b c o p g t o e a A ( I o y t p ( T f]
+[DELETED:   2  J c h h n i c p o o p t c ( I m a d u s ( o t s t c m d t ( U i s o a d o u m o r o p w t c d i i t b i o t p a t d f ( T ( T ( ( T r ( T a r t p f t a o a o c s ( T ( T a o s c p r o t p ( I c o t a s o m m o r p a a s ( I a t t c t t c m i t c o a d]
+[DELETED:   2  J ( A 1 B t 2 P 3 H ( A 1 B e b a p o s a t t o s t h i a c t e t t d 2 P 3 E 4 P b 5 C 6 H ( A 1 P r d a o s p o t d t o p 2 H ( A a 1 U 2 B 3 U 4 P]
+[DELETED:   2  J 5 H ( A 1 B t 2 B 3 P 4 C ( W c t p ( P a ( T K ( W c a w r ( T p t a d f v s o d o o j r o v ( T c]
+[DELETED:   2  J ( R o i c s b p d t t j i t a s b w o o t c I c o t t D ( T w S ( F K a ( ( I p t c a t p u t c a a t c a h c w t C a c a p C a ( A t b t a o w c t t c c t o p a i a n t f w t p o K 6 ( I t f f b d w t c c s b t 1 T 2 W t o w a p o p w g w]
+[DELETED:   2  J 3 T 4 T 5 T 6 T 7 T l o r r o c b t u o p s a f c a t t j j 8 E 9 W d i s ( o t s a w K 5  1 W ( I f t c o t p h t D C f a c t f e i p ( o t s t t o t C ( I t s s ( I n d i K 6 t ( b d f t t i p c t]
+[DELETED:   2  J i t c f a c o t c s n b t a a y w ( A ( " i d m s s g i f e c w s d i a ( " s g i f m a i S ( N t s p i h w s ( y o a o o a t t o t c o t o A y o c o a c o r w w ( N t ( ( N y o s b s t l o p p o c ( A w s 6]
+[DELETED:   2  J S 4 4 4 4 4 4 4 e o 4 4 4 5 5 h - U o j c r - A o m 5 5 5 b h s 5 w a s i d o s m i n s 5 P 5 5]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS BR 22
+1 AN ACT relating to the abolition of the death penalty.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF KRS CHAPTER 532 IS CREATED TO
+4 READ AS FOLLOWS:
+5 (1) Notwithstanding any provision of law to the contrary, capital punishment by
+6 means of the death penalty is abolished as of the effective date of this Act.
+7 (2) The court having jurisdiction over a person sentenced to death before the
+8 effective date of this Act and for whom the death sentence has not been executed
+9 shall sentence that person to imprisonment for life without benefit of probation or
+10 parole.
+11 Section 2. KRS 422.285 is amended to read as follows:
+12 (1) (a) Except as provided in paragraph (b) of this subsection, a person who was
+13 convicted of a capital offense, a Class A felony, a Class B felony, or any
+14 offense designated a violent offense under KRS 439.3401 and who meets the
+15 requirements of this section may at any time request the forensic
+16 deoxyribonucleic acid (DNA) testing and analysis of any evidence that is in
+17 the possession or control of the court or Commonwealth, that is related to the
+18 investigation or prosecution that resulted in the judgment of conviction and
+19 that may contain biological evidence.
+20 (b) This subsection shall not apply to offenses under KRS Chapter 218A, unless
+21 the offense was accompanied by another offense outside of that chapter for
+22 which testing is authorized by paragraph (a) of this subsection.
+23 (2) Upon receipt of a request under this section accompanied by a supporting affidavit
+24 containing sufficient factual averments to support the request from a person who
+25 meets the requirements of subsection (5)(f) of this section at the time the request is
+26 made for an offense to which the DNA relates, the court shall:
+27 (a) If the petitioner is not represented by counsel, appoint the Department of
+Page 1 of 22
+XXXX 1/8/2025 5:19 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 22
+1 Public Advocacy to represent the petitioner for purposes of the request,
+2 pursuant to KRS 31.110(2)(c); or
+3 (b) If the petitioner is represented by counsel or waives appointment of counsel in
+4 writing or if the Department of Public Advocacy has previously withdrawn
+5 from representation of the petitioner for purposes of the request, require the
+6 petitioner to deposit an amount certain with the court sufficient to cover the
+7 reasonable costs of the testing being requested.
+8 (3) Counsel representing the petitioner shall be provided a reasonable opportunity to
+9 investigate the petitioner's request and shall be permitted to supplement the request.
+10 Pursuant to KRS 31.110(2)(c), the petitioner shall have no further right to counsel
+11 provided by the Department of Public Advocacy on the matter if counsel
+12 determines that it is not a proceeding that a reasonable person with adequate means
+13 would be willing to bring at his or her own expense. If the Department of Public
+14 Advocacy moves to withdraw as counsel for petitioner and the court grants the
+15 motion, the court shall proceed as directed under subsection (2)(b) of this section.
+16 (4) Upon receipt of the deposit required under subsection (2)(b) of this section or a
+17 motion from counsel provided by the Department of Public Advocacy to proceed,
+18 the court shall provide notice to the prosecutor and an opportunity to respond to the
+19 petitioner's request.
+20 (5) After due consideration of the request and any supplements and responses thereto,
+21 the court shall order DNA testing and analysis if the court finds that all of the
+22 following apply:
+23 (a) A reasonable probability exists that the petitioner would not have been
+24 prosecuted or convicted if exculpatory results had been obtained through
+25 DNA testing and analysis;
+26 (b) The evidence is still in existence and is in a condition that allows DNA testing
+27 and analysis to be conducted;
+Page 2 of 22
+XXXX 1/8/2025 5:19 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 22
+1 (c) The evidence was not previously subjected to DNA testing and analysis or
+2 was not subjected to the testing and analysis that is now requested and may
+3 resolve an issue not previously resolved by the previous testing and analysis;
+4 (d) Except for a petitioner sentenced to death prior to the effective date of this
+5 Act, the petitioner was convicted of the offense after a trial or after entering an
+6 Alford plea;
+7 (e) Except for a petitioner sentenced to death prior to the effective date of this
+8 Act, the testing is not sought for touch DNA, meaning casual or limited
+9 contact DNA; and
+10 (f) The petitioner is still incarcerated or on probation, parole, or other form of
+11 correctional supervision, monitoring, or registration for the offense to which
+12 the DNA relates.
+13 (6) After due consideration of the request and any supplements and responses thereto,
+14 the court may order DNA testing and analysis if the court finds that all of the
+15 following apply:
+16 (a) A reasonable probability exists that either:
+17 1. The petitioner's verdict or sentence would have been more favorable if
+18 the results of DNA testing and analysis had been available at the trial
+19 leading to the judgment of conviction; or
+20 2. DNA testing and analysis will produce exculpatory evidence;
+21 (b) The evidence is still in existence and is in a condition that allows DNA testing
+22 and analysis to be conducted;
+23 (c) The evidence was not previously subject to DNA testing and analysis or was
+24 not subjected to the testing and analysis that is now requested and that may
+25 resolve an issue not previously resolved by the previous testing and analysis;
+26 (d) Except for a petitioner sentenced to death prior to the effective date of this
+27 Act, the petitioner was convicted of the offense after a trial or after entering an
+Page 3 of 22
+XXXX 1/8/2025 5:19 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 22
+1 Alford plea;
+2 (e) Except for a petitioner sentenced to death prior to the effective date of this
+3 Act, the testing is not sought for touch DNA, meaning casual or limited
+4 contact DNA; and
+5 (f) The petitioner is still incarcerated or on probation, parole, or other form of
+6 correctional supervision, monitoring, or registration for the offense to which
+7 the DNA relates.
+8 (7) The provisions of KRS 17.176 to the contrary notwithstanding, the petitioner shall
+9 pay the costs of all testing and analysis ordered under this section. If the court
+10 determines that the petitioner is a needy person using the standards set out in KRS
+11 31.120 and the Department of Public Advocacy so moves, the court shall treat the
+12 costs of testing and analysis as a direct expense of the defense for the purposes of
+13 authorizing payment under KRS 31.185.
+14 (8) If the prosecutor or defense counsel has previously subjected evidence to DNA
+15 testing and analysis, the court shall order the prosecutor or defense counsel to
+16 provide all the parties and the court with access to the laboratory reports that were
+17 prepared in connection with the testing and analysis, including underlying data and
+18 laboratory notes. If the court orders DNA testing and analysis pursuant to this
+19 section, the court shall order the production of any laboratory reports that are
+20 prepared in connection with the testing and analysis and may order the production
+21 of any underlying data and laboratory notes.
+22 (9) If a petition is filed pursuant to this section, the court shall order the state to
+23 preserve during the pendency of the proceeding all evidence in the state's
+24 possession or control that could be subjected to DNA testing and analysis. The state
+25 shall prepare an inventory of the evidence and shall submit a copy of the inventory
+26 to the defense and the court. If the evidence is intentionally destroyed after the court
+27 orders its preservation, the court may impose appropriate sanctions, including
+Page 4 of 22
+XXXX 1/8/2025 5:19 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 22
+1 criminal contempt.
+2 (10) The court may make any other orders that the court deems appropriate, including
+3 designating any of the following:
+4 (a) The preservation of some of the sample for replicating the testing and
+5 analysis; and
+6 (b) Elimination samples from third parties.
+7 (11) If the results of the DNA testing and analysis are not favorable to the petitioner, the
+8 court shall dismiss the petition. The court may make further orders as it deems
+9 appropriate, including any of the following:
+10 (a) Notifying the Department of Corrections and the Parole Board;
+11 (b) Requesting that the petitioner's sample be added to the Department of
+12 Kentucky State Police database; and
+13 (c) Providing notification to the victim or family of the victim.
+14 (12) Notwithstanding any other provision of law that would bar a hearing as untimely, if
+15 the results of the DNA testing and analysis are favorable to the petitioner, the court
+16 shall order a hearing and make any further orders that are required pursuant to this
+17 section or the Kentucky Rules of Criminal Procedure.
+18 Section 3. KRS 532.030 is amended to read as follows:
+19 (1) When a person is convicted of a capital offense, he or she shall have his or her
+20 punishment fixed [at death, or ]at a term of imprisonment for life without benefit of
+21 probation or parole, or at a term of imprisonment for life without benefit of
+22 probation or parole until he or she has served a minimum of twenty-five (25) years
+23 of his or her sentence, or to a sentence of life, or to a term of not less than twenty
+24 (20) years nor more than fifty (50) years.
+25 (2) When a person is convicted of a Class A felony, he or she shall have his or her
+26 punishment fixed at imprisonment in accordance with KRS 532.060.
+27 (3) When a person is convicted of an offense other than a capital offense or Class A
+Page 5 of 22
+XXXX 1/8/2025 5:19 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 22
+1 felony, he or she shall have his or her punishment fixed at:
+2 (a) A term of imprisonment authorized by this chapter; or
+3 (b) A fine authorized by KRS Chapter 534; or
+4 (c) Both imprisonment and a fine unless precluded by the provisions of KRS
+5 Chapter 534.
+6 [(4) In all cases in which the death penalty may be authorized the judge shall instruct the
+7 jury in accordance with subsection (1) of this section. The instructions shall state,
+8 subject to the aggravating and mitigating limitations and requirements of KRS
+9 532.025, that the jury may recommend upon a conviction for a capital offense a
+10 sentence of death, or at a term of imprisonment for life without benefit of probation
+11 or parole, or a term of imprisonment for life without benefit of probation or parole
+12 until the defendant has served a minimum of twenty-five (25) years of his sentence,
+13 or a sentence of life, or to a term of not less than twenty (20) years nor more than
+14 fifty (50) years.]
+15 Section 4. KRS 532.050 is amended to read as follows:
+16 (1) No court shall impose sentence for conviction of a felony[, other than a capital
+17 offense,] without first ordering a presentence investigation after conviction and
+18 giving due consideration to a written report of the investigation. The presentence
+19 investigation report shall not be waived; however, the completion of the
+20 presentence investigation report may be delayed until after sentencing upon the
+21 written request of the defendant if the defendant is in custody.
+22 (2) The report shall be prepared and presented by a probation officer and shall include:
+23 (a) The results of the defendant's risk and needs assessment;
+24 (b) An analysis of the defendant's history of delinquency or criminality, physical
+25 and mental condition, family situation and background, economic status,
+26 education, occupation, and personal habits;
+27 (c) A preliminary calculation of the credit allowed the defendant for time spent in
+Page 6 of 22
+XXXX 1/8/2025 5:19 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 22
+1 custody prior to the commencement of a sentence under KRS 532.120; and
+2 (d) Any other matters that the court directs to be included.
+3 (3) Before imposing sentence for a felony conviction, the court may order the
+4 defendant to submit to psychiatric observation and examination for a period not
+5 exceeding sixty (60) days. The defendant may be remanded for this purpose to any
+6 available clinic or mental hospital or the court may appoint a qualified psychiatrist
+7 to make the examination.
+8 (4) If the defendant has been convicted of a sex crime, as defined in KRS 17.500, prior
+9 to determining the sentence or prior to final sentencing for youthful offenders, the
+10 court shall order a comprehensive sex offender presentence evaluation of the
+11 defendant to be conducted by an approved provider, as defined in KRS 17.500, the
+12 Department of Corrections, or the Department of Juvenile Justice if the defendant is
+13 a youthful offender. The comprehensive sex offender presentence evaluation shall
+14 provide to the court a recommendation related to the risk of a repeat offense by the
+15 defendant and the defendant's amenability to treatment and shall be considered by
+16 the court in determining the appropriate sentence. A copy of the comprehensive sex
+17 offender presentence evaluation shall be furnished to the court, the
+18 Commonwealth's attorney, and to counsel for the defendant. If the defendant is
+19 eligible and the court suspends the sentence and places the defendant on probation
+20 or conditional discharge, the provisions of KRS 532.045(3) to (8) shall apply. All
+21 communications relative to the comprehensive sex offender presentence evaluation
+22 and treatment of the sex offender shall fall under the provisions of KRS 197.440
+23 and shall not be made a part of the court record subject to review in appellate
+24 proceedings. The defendant shall pay for any comprehensive sex offender
+25 presentence evaluation or treatment required pursuant to this section up to the
+26 defendant's ability to pay but no more than the actual cost of the comprehensive sex
+27 offender presentence evaluation or treatment.
+Page 7 of 22
+XXXX 1/8/2025 5:19 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 22
+1 (5) The presentence investigation report shall identify the counseling treatment,
+2 educational, and rehabilitation needs of the defendant and identify community-
+3 based,[ and] correctional-based, and institutional-based programs and resources
+4 available to meet those needs or shall identify the lack of programs and resources to
+5 meet those needs.
+6 (6) Before imposing sentence, the court shall advise the defendant or his or her counsel
+7 of the factual contents and conclusions of any presentence investigation or
+8 psychiatric examinations and afford a fair opportunity and a reasonable period of
+9 time, if the defendant so requests, to controvert them. The court shall provide the
+10 defendant's counsel a copy of the presentence investigation report. It shall not be
+11 necessary to disclose the sources of confidential information.
+12 Section 5. KRS 532.100 is amended to read as follows:
+13 (1) As used in this section, "jail" means a "jail" or "regional jail" as defined in KRS
+14 441.005.
+15 (2) When an indeterminate term of imprisonment is imposed, the court shall commit
+16 the defendant to the custody of the Department of Corrections for the term of his or
+17 her sentence and until released in accordance with the law.
+18 (3) When a definite term of imprisonment is imposed, the court shall commit the
+19 defendant to a jail for the term of his or her sentence and until released in
+20 accordance with the law.
+21 (4) [When a sentence of death is imposed, the court shall commit the defendant to the
+22 custody of the Department of Corrections with directions that the sentence be
+23 carried out according to law.
+24 (5) ](a) The provisions of KRS 500.080(5) notwithstanding, if a Class D felon is
+25 sentenced to an indeterminate term of imprisonment of five (5) years or less,
+26 he or she shall serve that term in a jail in a county in which the fiscal court has
+27 agreed to house state prisoners; except that, when an indeterminate sentence
+Page 8 of 22
+XXXX 1/8/2025 5:19 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 22
+1 of two (2) years or more is imposed on a Class D felon convicted of a sexual
+2 offense enumerated in KRS 197.410(1), or a crime under KRS 17.510(12) or
+3 (13), the sentence shall be served in a state institution. Counties choosing not
+4 to comply with the provisions of this paragraph shall be granted a waiver by
+5 the commissioner of the Department of Corrections.
+6 (b) The provisions of KRS 500.080(5) notwithstanding, a Class D felon who
+7 received a sentence of more than five (5) years for nonviolent, nonsexual
+8 offenses, but who currently has less than five (5) years remaining to be
+9 served, may serve the remainder of his or her term in a jail in a county in
+10 which the fiscal court has agreed to house state prisoners.
+11 (c) 1. The provisions of KRS 500.080(5) notwithstanding, and except as
+12 provided in subparagraph 2. of this paragraph, a Class C or D felon with
+13 a sentence of more than five (5) years who is classified by the
+14 Department of Corrections as community custody shall serve that term
+15 in a jail in a county in which the fiscal court has agreed to house state
+16 prisoners if:
+17 a. Beds are available in the jail;
+18 b. State facilities are at capacity; and
+19 c. Halfway house beds are being utilized at the contract level as of
+20 July 15, 2000.
+21 2. When an indeterminate sentence of two (2) years or more is imposed on
+22 a felon convicted of a sex crime, as defined in KRS 17.500, or any
+23 similar offense in another jurisdiction, the sentence shall be served in a
+24 state institution.
+25 3. Counties choosing not to comply with the provisions of this paragraph
+26 shall be granted a waiver by the commissioner of the Department of
+27 Corrections.
+Page 9 of 22
+XXXX 1/8/2025 5:19 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 22
+1 (d) Any jail that houses state inmates under this subsection shall offer programs
+2 as recommended by the Jail Standards Commission. The Department of
+3 Corrections shall adopt the recommendations of the Jail Standards
+4 Commission and promulgate administrative regulations establishing required
+5 programs for a jail that houses state inmates under this subsection. The
+6 Department of Corrections shall approve programming offered by jails to state
+7 inmates for sentencing credits in accordance with KRS 197.045.
+8 (e) Before housing any female state inmate, a jail shall be certified pursuant to
+9 KRS 197.020.
+10 (f) 1. a. If a jail is at or over one hundred fifty percent (150%) capacity, the
+11 Department of Corrections may direct the jail to transfer a
+12 specified number of state prisoners to vacant beds at other
+13 designated jails or state institutions. As used in this paragraph,
+14 "capacity" means the capacity listed on the certificate of
+15 occupancy issued each year to the jail by the Department of
+16 Corrections.
+17 b. The Department of Corrections shall choose which state prisoners
+18 are eligible for transfer based on the security level of the vacant
+19 bed at the receiving jail or state institution.
+20 c. State prisoners who are approved for transfer to a Department of
+21 Corrections facility for necessary medical treatment and care
+22 pursuant to KRS 441.560 shall not be transferred to another jail.
+23 d. State prisoners enrolled in a Department of Corrections approved
+24 program pursuant to KRS 197.045 shall not be transferred.
+25 e. State prisoners awaiting trial in the county they are being housed
+26 shall not be transferred.
+27 f. Jails that receive state prisoners pursuant to this subparagraph shall
+Page 10 of 22
+XXXX 1/8/2025 5:19 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 22
+1 be responsible for the transportation of those prisoners to the jail.
+2 2. If the Department of Corrections directs the transfer of a state prisoner
+3 pursuant to subparagraph 1. of this paragraph, the jailer has fourteen
+4 (14) days to transfer the state prisoner. If the jailer refuses to release
+5 custody of the state prisoner to the receiving jail within fourteen (14)
+6 days, the department shall reduce the per diem for the jail for an amount
+7 equal to the per diem of that prisoner for each day the jailer refuses to
+8 comply with the direction.
+9 3. If the Department of Corrections directs the transfer of a state prisoner
+10 pursuant to subparagraph 1. of this paragraph, the jailer of the receiving
+11 jail shall accept the transfer and transport the state prisoner in
+12 accordance with subparagraph 1.f. of this paragraph. If, after receiving a
+13 copy of the direction, the jailer refuses to accept and transport the state
+14 prisoner, the Department of Corrections shall reduce the per diem for the
+15 receiving jail for an amount equal to the per diem of that prisoner for
+16 each day the jailer refuses to comply with the direction.
+17 4. If a jail has a vacant bed and has a Class C or Class D felon who, based
+18 on the Department of Corrections classification system, is eligible to be
+19 housed in that vacant bed, the department may direct the jail to transfer
+20 the state prisoner to that bed. If the jailer refuses to transfer the state
+21 prisoner to the vacant bed, the Department of Corrections shall reduce
+22 the per diem for the jail for an amount equal to the per diem of that
+23 prisoner for each day the jailer refuses to comply with the direction.
+24 5. The per diem reduced pursuant to subparagraph 2., 3., or 4. of this
+25 paragraph shall be enforced by withholding the amount from the per
+26 diem paid to the jail pursuant to KRS 431.215(2).
+27 6. If a jail that is at or over one hundred fifty percent (150%) capacity
+Page 11 of 22
+XXXX 1/8/2025 5:19 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 22
+1 requests the transfer of a specified number of state prisoners, the
+2 Department of Corrections may, if vacant beds are available at other
+3 jails, direct the transfer in accordance with subparagraph 1. of this
+4 paragraph.
+5 (g) If a jail has vacant beds in an area of the jail usually reserved for state
+6 prisoners, the jail may house county prisoners in that area.
+7 (5)[(6)] The jailer of a county in which a Class D felon or a Class C felon is
+8 incarcerated may request the commissioner of the Department of Corrections to
+9 incarcerate the felon in a state corrections institution if the jailer has reasons to
+10 believe that the felon is an escape risk, a danger to himself or herself or other
+11 inmates, an extreme security risk, or needs protective custody beyond that which
+12 can be provided in a jail. The commissioner of the Department of Corrections shall
+13 evaluate the request and transfer the inmate if he or she deems it necessary. If the
+14 commissioner refuses to accept the felon inmate, and the Circuit Judge of the
+15 county that has jurisdiction of the offense charged is of the opinion that the felon
+16 cannot be safely kept in a jail, the Circuit Judge, with the consent of the Governor,
+17 may order the felon transferred to the custody of the Department of Corrections.
+18 (6)[(7)] (a) Class D felons and Class C felons serving their time in a jail shall be
+19 considered state prisoners, and, except as provided in subsection (4)[(5)](f) of
+20 this section, the Department of Corrections shall pay the jail in which the
+21 prisoner is incarcerated a per diem amount determined according to KRS
+22 431.215(2). For other state prisoners and parole violator prisoners, the per
+23 diem payments shall also begin on the date prescribed in KRS 431.215(2),
+24 except as provided in subsection (4)[(5)](f) of this section.
+25 (b) 1. The per diem amount paid to the jail shall be increased by two dollars
+26 ($2) per day of program attendance for those inmates enrolled in and
+27 attending evidence-based programs approved by the department and that
+Page 12 of 22
+XXXX 1/8/2025 5:19 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 22
+1 do not require instructors to have completed any postsecondary
+2 education.
+3 2. The per diem amount paid to the jail shall be increased by ten dollars
+4 ($10) per day of program attendance for those inmates enrolled in and
+5 attending evidence-based programs approved by the department and that
+6 require instructors to have completed particular postsecondary courses.
+7 (c) Any amount beyond the base per diem paid under paragraph (a) of this
+8 subsection that is paid under a contract to the jail for an inmate's attendance at
+9 an evidence-based program shall be credited toward the ten dollars ($10)
+10 increase in per diem required under paragraph (b) of this subsection.
+11 (7)[(8)] State prisoners, excluding the Class D felons and Class C felons qualifying to
+12 serve time in jails, shall be transferred to the state institution within forty-five (45)
+13 days of final sentencing.
+14 (8)[(9)] (a) Class D felons eligible for placement in a jail may be permitted by the
+15 warden or jailer to participate in any approved community work program or
+16 other form of work release with the approval of the commissioner of the
+17 Department of Corrections.
+18 (b) The authority to release an inmate to work under this subsection may be
+19 exercised at any time during the inmate's sentence, including the period when
+20 the court has concurrent authority to permit work release pursuant to KRS
+21 439.265.
+22 (c) The warden or jailer may require an inmate participating in the program to
+23 pay a fee to reimburse the warden or jailer for the cost of operating the
+24 community work program or any other work release program. The fee shall
+25 not exceed the lesser of fifty-five dollars ($55) per week or twenty percent
+26 (20%) of the prisoner's weekly net pay earned from the community work
+27 program or work release participation. In addition, the inmate may be required
+Page 13 of 22
+XXXX 1/8/2025 5:19 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 22
+1 to pay for any drug testing performed on the inmate as a requirement of the
+2 community work program or work release participation.
+3 (d) This subsection shall not apply to an inmate who:
+4 1. Is not eligible for work release pursuant to KRS 197.140;
+5 2. Has a maximum or close security classification as defined by
+6 administrative regulations promulgated by the Department of
+7 Corrections;
+8 3. Is subject to the provisions of KRS 532.043; or
+9 4. Is in a reentry center as defined in KRS 441.005.
+10 Section 6. KRS 533.010 is amended to read as follows:
+11 (1) Any person who has been convicted of a crime and who has not been sentenced to
+12 imprisonment for life without parole or life without parole for twenty-five (25)
+13 years[death] may be sentenced to probation, probation with an alternative
+14 sentencing plan, or conditional discharge as provided in this chapter.
+15 (2) Before imposition of a sentence of imprisonment, the court shall consider
+16 probation, probation with an alternative sentencing plan, or conditional discharge.
+17 Unless the defendant is a violent offender[felon] as defined in KRS 439.3401 or a
+18 statute prohibits probation, shock probation, or conditional discharge, after due
+19 consideration of the defendant's risk and needs assessment, nature and
+20 circumstances of the crime, and the history, character, and condition of the
+21 defendant, probation or conditional discharge shall be granted, unless the court is of
+22 the opinion that imprisonment is necessary for protection of the public because:
+23 (a) There is substantial risk that during a period of probation or conditional
+24 discharge the defendant will commit another crime;
+25 (b) The defendant is in need of correctional treatment that can be provided most
+26 effectively by his or her commitment to a correctional institution; or
+27 (c) A disposition under this chapter will unduly depreciate the seriousness of the
+Page 14 of 22
+XXXX 1/8/2025 5:19 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 22
+1 defendant's crime.
+2 (3) In the event the court determines that probation is not appropriate after due
+3 consideration of the defendant's risk and needs assessment, nature and
+4 circumstances of the crime, and the history, character, and condition of the
+5 defendant, probation with an alternative sentencing plan shall be granted unless the
+6 court is of the opinion that imprisonment is necessary for the protection of the
+7 public because:
+8 (a) There is a likelihood that during a period of probation with an alternative
+9 sentencing plan or conditional discharge the defendant will commit a Class D
+10 or Class C felony or a substantial risk that the defendant will commit a Class
+11 B or Class A felony;
+12 (b) The defendant is in need of correctional treatment that can be provided most
+13 effectively by commitment to a correctional institution; or
+14 (c) A disposition under this chapter will unduly depreciate the seriousness of the
+15 defendant's crime.
+16 (4) The court shall not determine that there is a likelihood that the defendant will
+17 commit a Class C or Class D felony based upon the defendant's risk and needs
+18 assessment and the fact that:
+19 (a) The defendant has never been convicted of, pled guilty to, or entered an
+20 Alford plea to a felony offense;
+21 (b) If convicted of, having pled guilty to, or entered an Alford plea to a felony
+22 offense, the defendant successfully completed probation more than ten (10)
+23 years immediately prior to the date of the commission of the felony for which
+24 the defendant is now being sentenced and has had no intervening convictions,
+25 pleas of guilty, or Alford pleas to any criminal offense during that period; or
+26 (c) The defendant has been released from incarceration for the commission of a
+27 felony offense more than ten (10) years immediately prior to the date of the
+Page 15 of 22
+XXXX 1/8/2025 5:19 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 22
+1 commission of the felony for which the defendant is now being sentenced and
+2 has had no intervening convictions, pleas of guilty, or Alford pleas to any
+3 criminal offense during that period.
+4 (5) In making a determination under subsection (4) of this section, the court may
+5 determine that the greater weight of the evidence indicates that there is a likelihood
+6 that the defendant will commit a Class C or Class D felony.
+7 (6) Upon initial sentencing of a defendant or upon modification or revocation of
+8 probation, when the court deems it in the best interest of the public and the
+9 defendant, the court may order probation with the defendant to serve one (1) of the
+10 following alternative sentences:
+11 (a) To a halfway house for no more than twelve (12) months;
+12 (b) To home incarceration with or without work release for no more than twelve
+13 (12) months;
+14 (c) To jail for a period not to exceed twelve (12) months with or without work
+15 release, community service and other programs as required by the court;
+16 (d) To a residential treatment program for the abuse of alcohol or controlled
+17 substances;
+18 (e) To a reentry center for no more than twelve (12) months; or
+19 (f) To any other specified counseling program, rehabilitation or treatment
+20 program, or facility.
+21 (7) If during the term of the alternative sentence the defendant fails to adhere to and
+22 complete the conditions of the alternative sentence, the court may modify the terms
+23 of the alternative sentence or may modify or revoke probation and alternative
+24 sentence and commit the defendant to an institution.
+25 (8) In addition to those conditions that the court may impose, the conditions of
+26 alternative sentence shall include the following and, if the court determines that the
+27 defendant cannot comply with them, then they shall not be made available:
+Page 16 of 22
+XXXX 1/8/2025 5:19 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 22
+1 (a) A defendant sentenced to a halfway house shall:
+2 1. Be working or pursuing his or her education or be enrolled in a full-time
+3 treatment program;
+4 2. Pay restitution during the term of probation; and
+5 3. Have no contact with the victim of the defendant's crime;
+6 (b) A defendant sentenced to home incarceration shall:
+7 1. Be employed by another person or self-employed at the time of
+8 sentencing to home incarceration and continue the employment
+9 throughout the period of home incarceration, unless the court determines
+10 that there is a compelling reason to allow home incarceration while the
+11 defendant is unemployed;
+12 2. Pay restitution during the term of home incarceration;
+13 3. Enter a treatment program, if appropriate;
+14 4. Pay all or some portion of the cost of home incarceration as determined
+15 by the court;
+16 5. Comply with other conditions as specified; and
+17 6. Have no contact with the victim of the defendant's crime;
+18 (c) A defendant sentenced to jail with community service shall:
+19 1. Pay restitution during all or some part of the defendant's term of
+20 probation; and
+21 2. Have no contact with the victim of the defendant's crime;
+22 (d) A defendant sentenced to a residential treatment program for drug and alcohol
+23 abuse shall:
+24 1. Undergo mandatory drug screening during term of probation;
+25 2. Be subject to active, supervised probation for a term of five (5) years;
+26 3. Undergo aftercare as required by the treatment program;
+27 4. Pay restitution during the term of probation; and
+Page 17 of 22
+XXXX 1/8/2025 5:19 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 22
+1 5. Have no contact with the victim of the defendant's crime; or
+2 (e) A defendant sentenced to a reentry center shall:
+3 1. Be employed in the community or working in a vocational program at
+4 the reentry center;
+5 2. Be enrolled in a treatment program;
+6 3. Pay restitution, fees, and fines during the term of probation; and
+7 4. Comply with other conditions as specified.
+8 (9) When the court deems it in the best interest of the defendant and the public, the
+9 court may order the person to work at community service related projects under the
+10 terms and conditions specified in KRS 533.070. Work at community service related
+11 projects shall be considered as a form of conditional discharge.
+12 (10) Probation with alternative sentence shall not be available as set out in KRS 532.045
+13 and 533.060, except as provided in KRS 533.030(6).
+14 (11) The court may utilize a community corrections program authorized or funded under
+15 KRS Chapter 196 to provide services to any person released under this section.
+16 (12) When the court deems it in the best interest of the defendant and the public, the
+17 court may order the defendant to placement for probation monitoring by a private
+18 agency. The private agency shall report to the court on the defendant's compliance
+19 with his or her terms of probation or conditional discharge. The defendant shall be
+20 responsible for any reasonable charges which the private agency charges.
+21 (13) The jailer in each county incarcerating Class C or D felons may deny work release
+22 privileges to any defendant for violating standards of discipline or other jail
+23 regulations. The jailer shall report the action taken and the details of the violation
+24 on which the action was based to the court of jurisdiction within five (5) days of the
+25 violation.
+26 (14) The Department of Corrections shall, by administrative regulation, develop written
+27 criteria for work release privileges granted under this section.
+Page 18 of 22
+XXXX 1/8/2025 5:19 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 22
+1 (15) Reimbursement of incarceration costs shall be paid directly to the jailer in the
+2 amount specified by written order of the court. Incarceration costs owed to the
+3 Department of Corrections shall be paid through the circuit clerk.
+4 (16) The court shall enter into the record written findings of fact and conclusions of law
+5 when considering implementation of any sentence under this section.
+6 Section 7. KRS 640.010 is amended to read as follows:
+7 (1) For children who are alleged to be youthful offenders by falling in the purview of
+8 KRS 635.020(2) to (8), the court shall at arraignment ensure that the child's rights
+9 as specified in KRS 610.060 have been explained and followed.
+10 (2) (a) In the case of a child alleged to be a youthful offender by falling within the
+11 purview of KRS 635.020(2) to (8), the District Court shall, upon motion by
+12 the county attorney to proceed under this chapter, and after the county
+13 attorney has consulted with the Commonwealth's attorney, conduct a
+14 preliminary hearing to determine if the child should be transferred to Circuit
+15 Court as a youthful offender. The preliminary hearing shall be conducted in
+16 accordance with the Rules of Criminal Procedure.
+17 (b) At the preliminary hearing, the court shall determine if there is probable cause
+18 to believe that an offense was committed, that the child committed the
+19 offense, and that the child is of sufficient age and has the requisite number of
+20 prior adjudications, if any, necessary to fall within the purview of KRS
+21 635.020.
+22 (c) If the District Court determines probable cause exists, the court shall consider
+23 the following factors before determining whether the child's case shall be
+24 transferred to the Circuit Court:
+25 1. The seriousness of the alleged offense;
+26 2. Whether the offense was against persons or property, with greater
+27 weight being given to offenses against persons;
+Page 19 of 22
+XXXX 1/8/2025 5:19 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 22
+1 3. The maturity of the child as determined by his or her environment;
+2 4. The child's prior record;
+3 5. The best interest of the child and community;
+4 6. The prospects of adequate protection of the public;
+5 7. The likelihood of reasonable rehabilitation of the child by the use of
+6 procedures, services, and facilities currently available to the juvenile
+7 justice system;
+8 8. Evidence of a child's participation in a gang;
+9 9. Whether the child is a defendant with a serious intellectual disability as
+10 defined in subsection (4) of this section[in accordance with KRS
+11 532.130]; and
+12 10. Whether the child used a firearm in the commission of the offense.
+13 (d) If, following the completion of the preliminary hearing, the District Court
+14 finds, after considering the factors enumerated in paragraph (c) of this
+15 subsection, that two (2) or more of the factors specified in paragraph (c) of
+16 this subsection are determined to favor transfer, the child may be transferred
+17 to Circuit Court, and if the child is transferred the District Court shall issue an
+18 order transferring the child as a youthful offender and shall state on the record
+19 the reasons for the transfer. The child shall then be proceeded against in the
+20 Circuit Court as an adult, except as otherwise provided in this chapter.
+21 (e) If, following completion of the preliminary hearing, the District Court is of
+22 the opinion, after considering the factors enumerated in paragraph (c) of this
+23 subsection, that the child shall not be transferred to the Circuit Court, the case
+24 shall be dealt with as provided in KRS Chapter 635.
+25 (3) If the child is transferred to Circuit Court under this section and the grand jury does
+26 not find that there is probable cause to indict the child as a youthful offender, as
+27 defined in KRS 635.020(2) to (8), but does find that there is probable cause to
+Page 20 of 22
+XXXX 1/8/2025 5:19 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 22
+1 indict the child for another criminal offense, the child shall not be tried as a
+2 youthful offender in Circuit Court but shall be returned to District Court to be dealt
+3 with as provided in KRS Chapter 635.
+4 (4) As used in this section:
+5 (a) "Serious intellectual disability" means significantly subaverage general
+6 intellectual functioning existing concurrently with substantial deficits in
+7 adaptive behavior and manifested during the developmental period; and
+8 (b) "Significantly subaverage general intellectual functioning" means an
+9 intelligence quotient or I.Q. of seventy (70) or below.
+10 Section 8. KRS 640.040 is amended to read as follows:
+11 (1) No youthful offender who has been convicted of a capital offense [who was under
+12 the age of sixteen (16) years at the time of the commission of the offense shall be
+13 sentenced to capital punishment. A youthful offender may be sentenced to capital
+14 punishment if he was sixteen (16) years of age or older at the time of the
+15 commission of the offense. A youthful offender convicted of a capital offense
+16 regardless of age may be sentenced to a term of imprisonment appropriate for one
+17 who has committed a Class A felony and ]may be sentenced to life imprisonment
+18 without benefit of parole[ for twenty-five (25) years].
+19 (2) No youthful offender shall be subject to persistent felony offender sentencing under
+20 the provisions of KRS 532.080 for offenses committed before the age of eighteen
+21 (18) years.
+22 (3) No youthful offender shall be subject to limitations on probation, parole or
+23 conditional discharge as provided for in KRS 533.060.
+24 (4) Any youthful offender convicted of a misdemeanor or any felony offense which
+25 would exempt him or her from KRS 635.020(2) to[, (3), (4), (5), (6), (7), or] (8)
+26 shall be disposed of by the Circuit Court in accordance with the provisions of KRS
+27 635.060.
+Page 21 of 22
+XXXX 1/8/2025 5:19 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 22
+1 Section 9. The following KRS sections are repealed:
+2 431.213 Definitions for KRS 431.213, 431.2135, and 431.240.
+3 431.2135 Procedure for challenging condemned person's sanity.
+4 431.218 Date of execution of condemned -- Copy of mandate to proper officer.
+5 431.220 Execution of death sentence.
+6 431.223 Method of execution in event of unconstitutionality of KRS 431.220.
+7 431.224 Retroactive applicability.
+8 431.240 Time of execution -- Governor to fix time in case of insanity, pregnancy, or
+9 escape -- Administrative hearings -- Transfer to forensic psychiatric facility in case
+10 of insanity.
+11 431.250 Persons who may attend executions.
+12 431.260 Warden's return on judgment.
+13 431.270 Delivery or burial of body.
+14 507A.060 Death sentence prohibited.
+15 532.025 Presentence hearings -- Use of juvenile court records -- Aggravating or
+16 mitigating circumstances -- Instructions to jury.
+17 532.075 Review of death sentence by Supreme Court.
+18 532.130 Definitions for KRS 532.135 and 532.140.
+19 532.135 Determination by court that defendant has a serious intellectual disability or
+20 serious mental illness.
+21 532.140 Defendant with a serious intellectual disability or serious mental illness not
+22 subject to execution -- Authorized sentences.
+23 532.300 Prohibition against death sentence being sought or given on the basis of race --
+24 Procedures for dealing with claims.
+25 532.305 Application of KRS 532.300.
+26 532.309 Short title for KRS 532.300 to 532.309.
+Page 22 of 22
+XXXX 1/8/2025 5:19 PM Jacketed
+
+[DELETED:   2  J A B S R ( N a p o l t t c c p b m ( T c h j o a p s t d b t e s p S ( ( E a p i p ( o t s a p w w c o a c o a C A f a C B f o a o r o t s m a a t r t f d t i t ( T t w ( U c m m ( I t p i n r b c a t D o]
+[DELETED:   2  J P A t r t p f p o t r p ( I w f p r ( C i P p b t D o P A o t m i c d w A m t w a c f p a t c g t m ( U m t p ( A t c s o D t a a i t c f t a o t f ( A r p e t t p w n h b p o c i e r h b o t D ( T a]
+[DELETED:   2  J ( T w r ( E A A ( E A t t i n s f t D m c o l c ( T c t ( A t c m o D t a a i t c f t a o t f ( A 1 T t l 2 D ( T a ( T n r ( E A]
+[DELETED:   2  J A ( E A t t i n s f t D m c o l c ( T c t ( T p t c o a t a a o u t s I t c d 3 c a ( I t p o d c h p s e t D t a a t c s o t p o d c t p p l n I t c o D t a a p t t s t c s o t p o a l r t a p o ( I a p i f p t t s t c s o t s t p d t p o t p a e i t s p s t o i p t c m i a s i]
+[DELETED:   2  J c ( T d ( T p o s o t s f r t t a a ( E ( I c s d t p T c m m f o a i d a ( N ( R t t p s b a t t D o K ( P ( N t s s S ( W p p o p o a a t o i f l w b o p o ( ( W p ( W]
+[DELETED:   2  J f ( A ( A ( B i a a f u p b t p o K C [ I j s t t a a m l a r o K 5 s o u o f S ( N c s i s f c o a f o t a c o w f o a p i a c a g i r s n b w h t c o t p i r m b d u a s u t w ( T ( T ( A a m c f s a b e s e ( A]
+[DELETED:   2  J c ( A ( B i s f a f c t c m o t d t s t p o a e f a p n e a t ( I t c s o a c s o p e o t d D a p d t o p e s b f t t c t C a a t c f t d I t d i e o c a a s n b m a p o t c r s t r i a p T d s p f a c s o p e o t r p t t s u t t d o]
+[DELETED:   2  J ( T p i r s i t c t e a r n o t d a i c b a c a i p a r a m ( B o t f c a c o a p i o p t d n S ( A 4 ( W t h ( W a d t o i i i t c s c t d t a j f t t o h o h s a u r i a ( [ c o t D o C w d t t s b c ( ] T p o K 5 n i a C D f i s h a]
+[DELETED:   2  J o o ( t t ( T p o K 5 n a C D f w r a s o m t f ( y f n n o b w c h l t f ( y r t b s w ( 1 T p o K 5 n a e a p a s o m t f ( y w i c b t D i p a B b S c H J 2 W a f c o a s c a d i K 1 o a s s 3 C s b g a w b t c o t D o C]
+[DELETED:   2  J ( A a r b t J S C T D o C s a t r o t J S C p f a j t h s i u t s T D i ( B K ( 1 a I D o C m d t j t t a s n o s p t v b a o d j o s i A u i t p " m t c l o t c o o i e y t t j b t D o C b T a b c S C f f n m t a c p d S p e S s f J]
+[DELETED:   2  J b 2 I p t s 1 o t p t j h f ( c d e c 3 I p j s a t t a t t s p i a c p r e 4 I o h t s p t p 5 T p d r p t s 2 3 o 4 o t p s b e b w t a f t p d 6 I a j t i a o o o h f p ( c]
+[DELETED:   2  J r t t o a s n o s p t D o C m i v b a a a o j d t t i a w s 1 o t p ( I a j h v b i a a o t j u r f s p ( T j o a c i w a C D f o a C C f i i m r t c o t D o C t i t f i a s c i i t j h r t b t t f i a e r a d t h o h o o i c e c r t a t f i a t C J o t c c m ( ( C c t s t D o C s p t j i w t p i i a p d a d a t K 4 F o s p a p v p t p d e ( 1 T ( a]
+[DELETED:   2  J d n r i t h c a p e 2 T ( a r ( A a b t b p d p u p ( o t s a e p s b c t t t d ( i ( S s d ( ( C w o f o w r w t a o t c o t D ( T a t r a i t w u t s m b e t c 4 ( T p a f t r t w o j f t c o o t c n ( o t p w n p e f t c w p]
+[DELETED:   2  J t c ( T 1 I 2 H a m o c s c a d b a r p b t D o C 3 I 4 I S ( A i y m b s t p p w a a s ( B i o a s o i t c s c p U s p p s p o c d a d c o t d r a n a n a c o t c a t h c a c o t d t ( T i s r t d a p o p o c d ( T e ( A]
+[DELETED:   2  J d ( I t e t c d t p i n a a d c o t d r a n a n a c o t c a t h c a c o t d c i o t o t i i n f t p o t p ( T i a l t d a p o p w a a s o B ( T e ( A d ( T c s n d t t i a l t t d w c a C C o D f b u t d r a n a ( T d h n b c o p g t o e a A ( I o y t p ( T f]
+[DELETED:   2  J c h h n i c p o o p t c ( I m a d u s ( o t s t c m d t ( U i s o a d o u m o r o p w t c d i i t b i o t p a t d f ( T ( T ( ( T r ( T a r t p f t a o a o c s ( T ( T a o s c p r o t p ( I c o t a s o m m o r p a a s ( I a t t c t t c m i t c o a d]
+[DELETED:   2  J ( A 1 B t 2 P 3 H ( A 1 B e b a p o s a t t o s t h i a c t e t t d 2 P 3 E 4 P b 5 C 6 H ( A 1 P r d a o s p o t d t o p 2 H ( A a 1 U 2 B 3 U 4 P]
+[DELETED:   2  J 5 H ( A 1 B t 2 B 3 P 4 C ( W c t p ( P a ( T K ( W c a w r ( T p t a d f v s o d o o j r o v ( T c]
+[DELETED:   2  J ( R o i c s b p d t t j i t a s b w o o t c I c o t t D ( T w S ( F K a ( ( I p t c a t p u t c a a t c a h c w t C a c a p C a ( A t b t a o w c t t c c t o p a i a n t f w t p o K 6 ( I t f f b d w t c c s b t 1 T 2 W t o w a p o p w g w]
+[DELETED:   2  J 3 T 4 T 5 T 6 T 7 T l o r r o c b t u o p s a f c a t t j j 8 E 9 W d i s ( o t s a w K 5  1 W ( I f t c o t p h t D C f a c t f e i p ( o t s t t o t C ( I t s s ( I n d i K 6 t ( b d f t t i p c t]
+[DELETED:   2  J i t c f a c o t c s n b t a a y w ( A ( " i d m s s g i f e c w s d i a ( " s g i f m a i S ( N t s p i h w s ( y o a o o a t t o t c o t o A y o c o a c o r w w ( N t ( ( N y o s b s t l o p p o c ( A w s 6]
+[DELETED:   2  J S 4 4 4 4 4 4 4 e o 4 4 4 5 5 h - U o j c r - A o m 5 5 5 b h s 5 w a s i d o s m i n s 5 P 5 5]

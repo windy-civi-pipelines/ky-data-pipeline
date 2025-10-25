@@ -1,0 +1,1248 @@
+Title: 1 AN ACT relating to Teachers' Retirement System benefit funding.
+Official Title: 1 AN ACT relating to Teachers' Retirement System benefit funding.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 20 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS BR 77
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF KRS 161.220 TO 161.716 IS CREATED
+4 TO READ AS FOLLOWS:
+5 (1) As used in this section:
+6 (a) "Funding level" means the actuarial value of assets divided by the
+7 actuarially accrued liability expressed as a percentage that is determined
+8 and reported by the retirement system's actuary in the retirement system's
+9 annual actuarial valuation for the medical insurance fund;
+10 (b) "Medical insurance fund" means all contributions and amounts included
+11 in the funds established in subsection (5) of Section 2 of this Act and KRS
+12 161.677; and
+13 (c) "State accumulation fund" means the fund established in subsection (3) of
+14 Section 2 of this Act.
+15 (2) Except as provided in subsection (3) of this section, when the medical insurance
+16 fund has reached an actuarial funding level of at least one hundred percent
+17 (100%) as determined by the annual actuarial valuation, the employer
+18 contributions for retiree health benefits as provided in subsections (1)(a)2., (b)2.,
+19 (c)2., (d)3., and (e)3. and (3) of Section 4 of this Act shall be deposited into the
+20 state accumulation fund to help pay down the unfunded liabilities of pension
+21 annuities instead of being deposited into the medical insurance fund. Deposits to
+22 the state accumulation fund shall occur on and after the beginning of the fiscal
+23 year following the annual actuarial valuation in which the criteria of this
+24 subsection are first met.
+25 (3) After reaching an actuarial funding level of at least one hundred percent (100%),
+26 if the actuarial funding level of the medical insurance fund falls below ninety-
+27 five percent (95%) as determined by the annual actuarial valuation, the employer
+Page 1 of 20
+BR007700.100 - 77 - XXXX 2/26/2025 3:44 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 77
+1 contributions for retiree health benefits as provided in subsections (1)(a)2., (b)2.,
+2 (c)2., (d)3., and (e)3. and (3) of Section 4 of this Act shall be deposited into the
+3 medical insurance fund instead of the state accumulation fund. Deposits to the
+4 medical insurance fund shall occur on and after the beginning of the fiscal year
+5 following the annual actuarial valuation in which the criteria of this subsection
+6 are met and shall continue until the actuarial funding level of the medical
+7 insurance fund is at least one hundred percent (100%). When the medical
+8 insurance fund regains an actuarial funding level of at least one hundred percent
+9 (100%), the provisions of subsection (2) of this section shall apply.
+10 Section 2. KRS 161.420 is amended to read as follows:
+11 All of the assets of the retirement system are for the exclusive purpose of providing
+12 benefits to members and annuitants and defraying reasonable expenses of administering
+13 the system. The board of trustees shall be the trustee of all funds of the system and shall
+14 have full power and responsibility for administering the funds. All the assets of the
+15 retirement system shall be credited according to the purpose for which they are held to
+16 one (1) of the following funds:
+17 (1) The expense fund shall consist of the funds set aside from year to year by the board
+18 of trustees to defray the expenses of the administration of the retirement system.
+19 Each fiscal year an amount not greater than four percent (4%) of the dividends and
+20 interest income earned from investments during the immediate past fiscal year shall
+21 be set aside into the expense fund or expended for the administration of the
+22 retirement system;
+23 (2) (a) The teachers' savings fund shall consist of:
+24 1. The contributions paid by members of the retirement system into this
+25 fund and regular interest assigned by the board of trustees from the
+26 guarantee fund; and
+27 2. For individuals who become members of the Teachers' Retirement
+Page 2 of 20
+BR007700.100 - 77 - XXXX 2/26/2025 3:44 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 77
+1 System on or after January 1, 2022, who are participating in the
+2 supplemental benefit component, the employer contributions paid into
+3 the supplemental benefit component and regular interest on those
+4 contributions as provided by KRS 161.635 and 161.636 that is assigned
+5 by the board of trustees from the guarantee fund.
+6 For individuals who become members on or after January 1, 2022, the system
+7 shall account for funds in the teachers' savings fund attributable to the
+8 nonuniversity members foundational benefit component, nonuniversity
+9 members supplemental benefit component, university members foundational
+10 benefit component, and university members supplemental benefit component.
+11 (b) A member may not borrow any amount of his or her accumulated account
+12 balance in the teachers' savings fund, or any regular interest earned thereon.
+13 (c) The accumulated contributions or accumulated account balance of a member
+14 which are returned to him or her upon his or her withdrawal or paid to his or
+15 her estate or designated beneficiary in the event of his or her death shall be
+16 paid from the teachers' savings fund.
+17 (d) Any accumulated account balance in the teachers' savings fund forfeited by a
+18 failure of a teacher or his or her estate to claim these contributions shall be
+19 transferred from this fund to the guarantee fund.
+20 (e) Except as provided by paragraph (f) of this subsection, the accumulated
+21 account balance of a member in the teachers' savings fund shall be transferred
+22 from this fund to the allowance reserve fund in the event of retirement by
+23 reason of service or disability.
+24 (f) For an individual who becomes a member of the Teachers' Retirement System
+25 on or after January 1, 2022, who is participating in the supplemental benefit
+26 component who elects to annuitize his or her accumulated account balance in
+27 the supplemental benefit component as prescribed by KRS 161.635(5)(a) or
+Page 3 of 20
+BR007700.100 - 77 - XXXX 2/26/2025 3:44 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 77
+1 (b) or 161.636(5)(a) or (b), the member's accumulated account balance in the
+2 supplemental benefit component shall be transferred from this fund to the
+3 allowance reserve fund;
+4 (3) The state accumulation fund shall consist of funds paid by employers and
+5 appropriated by the state for the purpose of providing pension annuities and
+6 survivor benefits, including any sums appropriated for meeting unfunded liabilities
+7 of pension annuities and any sums that are directed to pay down the unfunded
+8 liabilities of pension annuities as provided in Section 1 of this Act, together with
+9 regular interest assigned by the board of trustees from the guarantee fund. At the
+10 time of retirement or death of a member there shall be transferred from the state
+11 accumulation fund to the allowance reserve fund an amount which together with the
+12 sum transferred from the teachers' savings fund will be sufficient to provide the
+13 member a retirement allowance and provide for benefits under KRS 161.520 and
+14 161.525. There shall also be transferred from the state accumulation fund to the
+15 teachers' savings fund, the amount needed to fund the mandatory employer
+16 contributions required by KRS 161.635 and 161.636;
+17 (4) The allowance reserve fund shall be the fund from which shall be paid all
+18 retirement allowances and benefits provided under KRS 161.520 and 161.525. In
+19 addition, whenever a change in the status of a member results in an obligation on
+20 this fund, there shall be transferred to this fund from the teachers' savings fund and
+21 the state accumulation fund, the amounts as may be held in those funds for the
+22 account or benefit of the member;
+23 (5) (a) The medical insurance fund, which is an account established according to 26
+24 U.S.C. sec. 401(h), shall consist of amounts accumulated for the purpose of
+25 providing benefits as provided in KRS 161.675, including:
+26 1. The member contributions required by KRS 161.540(1)(a)2., (b)2.,
+27 (c)3., and (d)3.;
+Page 4 of 20
+BR007700.100 - 77 - XXXX 2/26/2025 3:44 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 77
+1 2. The employer contribution required by KRS 161.550(1)(a)2., (b)2.,
+2 (c)2., (d)3., and (e)3. and (3), except as provided in Section 1 of this
+3 Act;
+4 3. State appropriations as set forth in KRS 161.550(2), unless the
+5 contributions are made to a trust fund under 26 U.S.C. sec. 115
+6 established by the board for this purpose; and
+7 4. Interest income from the investments of the fund from contributions
+8 received by the fund under subparagraphs 1. to 3. of this paragraph, and
+9 from income earned on those investments.
+10 (b) All claims for benefits under KRS 161.675 shall be paid from this fund or
+11 from any trust fund under 26 U.S.C. sec. 115 as established by the board for
+12 this purpose. Any amounts deposited to the fund that are not required to meet
+13 current costs shall be maintained as a reserve in the fund for these benefits.
+14 The board shall take the necessary and appropriate steps, including
+15 promulgating administrative regulations and procedures to maintain the status
+16 of the medical insurance fund as an account subject to 26 U.S.C. sec. 401(h);
+17 (6) The guarantee fund shall be maintained to facilitate the crediting of uniform interest
+18 on the amounts of the other funds, except the expense fund, to finance operating
+19 expenses directly related to investment management services, and to provide a
+20 contingent fund out of which special requirements of any of the other funds may be
+21 covered. All income, interest, and dividends derived from the authorized deposits
+22 and investments shall be paid into the guarantee fund. Any funds received from
+23 gifts and bequests, which the board is hereby authorized to accept and expend
+24 without limitation in a manner either expressed by the donor or deemed to be in the
+25 best interest of the membership, shall be credited to the guarantee fund. Any funds
+26 transferred from the teachers' savings fund by reason of lack of claimant or because
+27 of a surplus in any fund and any other moneys whose disposition is not otherwise
+Page 5 of 20
+BR007700.100 - 77 - XXXX 2/26/2025 3:44 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 77
+1 provided for, shall also be credited to the guarantee fund. The interest allowed by
+2 the board of trustees to each of the other funds shall be paid to these funds from the
+3 guarantee fund. Any deficit occurring in any fund that would not be automatically
+4 covered shall be met by the payments from the guarantee fund to that fund;
+5 (7) The school employee annuity fund shall consist of those funds voluntarily
+6 contributed under the provisions of Section 403(b) of the Internal Revenue Code by
+7 a member of the Teachers' Retirement System with accounts that existed on or after
+8 July 1, 1996. The contributions shall not be picked up as provided in KRS
+9 161.540(2). Separate member accounts shall be maintained for each member. The
+10 board of trustees may promulgate administrative regulations in accordance
+11 with[pursuant to] KRS Chapter 13A to manage this program;
+12 (8) The supplemental retirement benefit fund shall consist of those funds contributed
+13 by the employer for the purpose of constituting a qualified government excess
+14 benefit plan as described in Section 415 of the Internal Revenue Code for accounts
+15 that existed on or after July 1, 1996. The board of trustees shall promulgate
+16 administrative regulations in accordance with[pursuant to] KRS Chapter 13A to
+17 administer this program;
+18 (9) The life insurance benefit fund shall consist of amounts accumulated for the
+19 purpose of providing benefits provided under KRS 161.655. The board of trustees
+20 may allocate to this fund a percentage of the employer and state contributions as
+21 provided under KRS 161.550. The allocation to this fund will be in an amount that
+22 the actuary determines necessary to fund the obligation of providing the benefits
+23 provided under KRS 161.655; and
+24 (10) The stabilization reserve account shall consist of amounts in two (2) separate
+25 accounts:
+26 (a) One (1) that includes employer contributions as provided by KRS
+27 161.550(1)(d)1. and 2. that exceeds the combined actuarially required
+Page 6 of 20
+BR007700.100 - 77 - XXXX 2/26/2025 3:44 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 77
+1 employer contribution for the foundational benefit component and the
+2 mandatory employer contribution to the supplemental benefit component as
+3 provided by KRS 161.633 and 161.635 for those individuals who become
+4 nonuniversity members on or after January 1, 2022; and
+5 (b) One (1) that includes employer contributions as provided by KRS
+6 161.550(1)(e)1. and 2. that exceeds the combined actuarially required
+7 employer contribution for the foundational benefit component and the
+8 mandatory employer contribution to the supplemental benefit component as
+9 provided by KRS 161.634 and 161.636 for those individuals who become
+10 university members on or after January 1, 2022.
+11 Notwithstanding any other statute to the contrary, funds in these accounts shall only
+12 be used to pay off the unfunded liability of the pension and life insurance funds.
+13 Section 3. KRS 161.540 is amended to read as follows:
+14 (1) (a) Each individual who becomes a contributing nonuniversity member prior to
+15 January 1, 2022, shall contribute to the retirement system twelve and eight
+16 hundred fifty-five thousandths percent (12.855%) of annual compensation, of
+17 which:
+18 1. Nine and one hundred five thousandths percent (9.105%) of annual
+19 compensation shall be used to fund pension benefits; and
+20 2. Three and three-quarters percent (3.75%) of annual compensation shall
+21 be used to fund retiree health benefits.
+22 (b) Each individual who becomes a contributing university member prior to
+23 January 1, 2022, shall contribute to the retirement system ten and four-tenths
+24 percent (10.4%) of annual compensation, of which:
+25 1. Seven and six hundred twenty-five thousandths percent (7.625%) of
+26 annual compensation shall be used to fund pension benefits; and
+27 2. Two and seven hundred seventy-five thousandths percent (2.775%) of
+Page 7 of 20
+BR007700.100 - 77 - XXXX 2/26/2025 3:44 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 77
+1 annual compensation shall be used to fund retiree health benefits.
+2 (c) Each individual who becomes a contributing nonuniversity member on or
+3 after January 1, 2022, shall contribute to the retirement system fourteen and
+4 three-quarters percent (14.75%) of annual compensation, of which:
+5 1. Nine percent (9%) of annual compensation shall be used to fund pension
+6 benefits in the foundational benefit component as described by KRS
+7 161.633. The contribution provided by this subparagraph shall not be
+8 used to fund the supplemental benefit account as provided by KRS
+9 161.635;
+10 2. Two percent (2%) of annual compensation shall fund the required
+11 employee contribution in the supplemental benefit component in KRS
+12 161.635, except that the board may direct these contributions on a
+13 prospective basis into the pension and life insurance funds to contain
+14 costs of the foundational benefit component within the provisions of
+15 KRS 161.633; and
+16 3. Three and three-quarters percent (3.75%) of annual compensation shall
+17 be used to fund retiree health benefits.
+18 (d) Each individual who becomes a contributing university member on or after
+19 January 1, 2022, shall contribute to the retirement system nine and seven
+20 hundred seventy-five thousandths percent (9.775%) of annual compensation,
+21 of which:
+22 1. Five percent (5%) of annual compensation shall be used to fund pension
+23 benefits in the foundational benefit component as described by KRS
+24 161.634. The contribution provided by this subparagraph shall not be
+25 used to fund the supplemental benefit account as provided by KRS
+26 161.636;
+27 2. Two percent (2%) of annual compensation shall fund the required
+Page 8 of 20
+BR007700.100 - 77 - XXXX 2/26/2025 3:44 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 77
+1 employee contribution in the supplemental benefit component in KRS
+2 161.636, except that the board may direct these contributions on a
+3 prospective basis into the pension and life insurance funds to contain
+4 costs of the foundational benefit component within the provisions of
+5 KRS 161.634; and
+6 3. Two and seven hundred and seventy-five thousandths percent (2.775%)
+7 of annual compensation shall be used to fund retiree health benefits.
+8 (e) When the funds established to actuarially fund pension annuities and the
+9 medical insurance fund established under KRS 161.420[(5)] each achieve an
+10 actuarial funding level of at least one hundred percent (100%)[achieves a
+11 sufficient prefunded status] as determined by the annual actuarial
+12 valuation[Retirement System's actuary], the board of trustees shall
+13 recommend to the General Assembly that the contributions required under
+14 paragraph (a)2., (b)2., (c)3., or (d)3. of this subsection shall, in an actuarially
+15 accountable manner, be either decreased, suspended, or eliminated.
+16 (f) Payments authorized by statute that are made to retiring members, who
+17 became members of the system before July 1, 2008, for not more than sixty
+18 (60) days of unused accrued annual leave shall, subject to KRS 161.220(10),
+19 be considered as part of the member's annual compensation, and shall be used
+20 only for the member's final year of active service. Notwithstanding the
+21 provisions of this subsection or any other statute to the contrary, for
+22 retirement calculation purposes, members may only be credited for payment
+23 of annual leave under the following conditions:
+24 1. Payment by an employer for annual leave shall be equally available to
+25 all members serving under contracts requiring the same number of
+26 worked days and greater; and
+27 2. At least two (2) members of the employer shall receive payment for
+Page 9 of 20
+BR007700.100 - 77 - XXXX 2/26/2025 3:44 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 77
+1 annual leave.
+2 (g) The contribution of members shall not exceed the applicable percentages on
+3 annual compensation as set forth in this section or as where otherwise limited
+4 by statute. When a member retires, if it is determined that he or she has made
+5 contributions on a salary in excess of the amount to be included for the
+6 purpose of calculating his or her final average salary, any excess contribution
+7 shall be refunded in a lump sum to the member's employer for distribution to
+8 the member.
+9 (2) Each public board, institution, or agency listed in KRS 161.220(4) shall, solely for
+10 the purpose of compliance with Section 414(h) of the United States Internal
+11 Revenue Code, pick up the member contributions required by this section for all
+12 compensation earned after August 1, 1982, and the contributions so picked up shall
+13 be treated as employer contributions in determining tax treatment under the United
+14 States Internal Revenue Code and KRS 141.010. The picked-up member
+15 contribution shall satisfy all obligations to the retirement system satisfied prior to
+16 August 1, 1982, by the member contribution, and the picked-up member
+17 contribution shall be in lieu of a member contribution. Each employer shall pay
+18 these picked-up member contributions from the same source of funds which is used
+19 to pay earnings to the member. The member shall have no option to receive the
+20 contributed amounts directly instead of having them paid by the employer to the
+21 system. Member contributions picked-up after August 1, 1982, shall be treated for
+22 all purposes of KRS 161.220 to 161.714 in the same manner and to the same extent
+23 as member contributions made prior to August 1, 1982.
+24 Section 4. KRS 161.550 is amended to read as follows:
+25 (1) Each employer, except as provided in[under] KRS 161.555 and Section 1 of this
+26 Act, shall contribute annually to the Teachers' Retirement System a permanent
+27 employer contribution rate on behalf of each employee it employs equal to:
+Page 10 of 20
+BR007700.100 - 77 - XXXX 2/26/2025 3:44 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 77
+1 (a) Thirteen and one hundred five thousandths percent (13.105%) of the total
+2 annual compensation of nonuniversity members who become members prior
+3 to July 1, 2008. Of this permanent employer contribution rate:
+4 1. Twelve and three hundred fifty-five thousandths percent (12.355%) of
+5 the total annual compensation shall be used to fund pension and life
+6 insurance benefits; and
+7 2. Except as provided in Section 1 of this Act, three-quarters of a percent
+8 (0.75%) of annual compensation shall be used to provide funding to the
+9 medical insurance fund as provided under KRS 161.420(5). If the board
+10 of trustees establishes a trust fund under 26 U.S.C. sec. 115, the board
+11 may deposit the employer contribution provided in this subparagraph in
+12 that trust fund except as provided in Section 1 of this Act;
+13 (b) Fourteen and one hundred five thousandths percent (14.105%) of the total
+14 annual compensation of nonuniversity members who become members on or
+15 after July 1, 2008, but prior to January 1, 2022. Of this permanent employer
+16 contribution rate:
+17 1. Thirteen and three hundred fifty-five thousandths percent (13.355%) of
+18 the total annual compensation shall be used to fund pension and life
+19 insurance benefits; and
+20 2. Except as provided in Section 1 of this Act, three-quarters of a percent
+21 (0.75%) of annual compensation shall be used to provide funding to the
+22 medical insurance fund as provided under KRS 161.420(5). If the board
+23 of trustees establishes a trust fund under 26 U.S.C. sec. 115, the board
+24 may deposit the employer contribution provided in this subparagraph in
+25 that trust fund except as provided in Section 1 of this Act;
+26 (c) Thirteen and sixty-five hundredths percent (13.65%) of the total annual
+27 compensation of university members who become members prior to January
+Page 11 of 20
+BR007700.100 - 77 - XXXX 2/26/2025 3:44 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 77
+1 1, 2022. Of this permanent employer contribution rate:
+2 1. Ten and eight hundred seventy-five thousandths percent (10.875%) of
+3 the total annual compensation shall be used to fund pension and life
+4 insurance benefits; and
+5 2. Except as provided in Section 1 of this Act, two and seven hundred
+6 seventy-five thousandths percent (2.775%) of annual compensation shall
+7 be used to provide funding to the medical insurance fund as provided
+8 under KRS 161.420(5). If the board of trustees establishes a trust fund
+9 under 26 U.S.C. sec. 115, the board may deposit the employer
+10 contribution provided in this subparagraph in that trust fund except as
+11 provided in Section 1 of this Act;
+12 (d) Ten and three-quarters percent (10.75%) of the total annual compensation of
+13 nonuniversity members who become members on or after January 1, 2022. Of
+14 this permanent employer contribution rate:
+15 1. Eight percent (8%) of the total annual compensation shall be used to
+16 fund pension and life insurance benefits. The contribution provided by
+17 this subparagraph shall not be used to fund the supplemental benefit
+18 account as provided by KRS 161.635;
+19 2. Two percent (2%) of the total annual compensation shall be used to fund
+20 the mandatory employer contribution of the supplemental benefit
+21 component, except that the board may direct these contributions on a
+22 prospective basis into the pension and life insurance funds to contain
+23 costs within the provisions of KRS 161.633; and
+24 3. Except as provided in Section 1 of this Act, three-quarters of one
+25 percent (0.75%) of annual compensation shall be used to provide
+26 funding to the medical insurance fund as provided under KRS
+27 161.420(5). If the board of trustees establishes a trust fund under 26
+Page 12 of 20
+BR007700.100 - 77 - XXXX 2/26/2025 3:44 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 77
+1 U.S.C. sec. 115, the board may deposit the employer contribution
+2 provided in this subdivision in that trust fund except as provided in
+3 Section 1 of this Act; and
+4 (e) Nine and seven hundred seventy-five thousandths percent (9.775%) of total
+5 annual compensation of university members who become members on or after
+6 January 1, 2022. Of this permanent employer contribution rate:
+7 1. Five and seven hundred seventy-five thousandths percent (5.775%) of
+8 the total annual compensation shall be used to fund pension and life
+9 insurance benefits. The contribution provided by this subparagraph shall
+10 not be used to fund the supplemental benefit account as provided by
+11 KRS 161.636;
+12 2. Two percent (2%) of the total annual compensation shall be used to fund
+13 the mandatory employer contribution of the supplemental benefit
+14 component, except that the board may direct these contributions on a
+15 prospective basis into the pension and life insurance funds to contain
+16 costs within the provisions of KRS 161.634; and
+17 3. Except as provided in Section 1 of this Act, two percent (2%) of annual
+18 compensation shall be used to provide funding to the medical insurance
+19 fund as provided under KRS 161.420(5). If the board of trustees
+20 establishes a trust fund under 26 U.S.C. sec. 115, the board may deposit
+21 the employer contribution provided in this subparagraph in that trust
+22 fund except as provided in Section 1 of this Act.
+23 (2) In addition to the required contributions in subsection (1) of this section, the state
+24 shall contribute annually to the Teachers' Retirement System a percentage of the
+25 total salaries of the state-funded and federally funded members it employs to pay
+26 the cost of health insurance coverage for retirees who are not eligible for Medicare
+27 and who retire on or after July 1, 2010, less the amounts that are otherwise required
+Page 13 of 20
+BR007700.100 - 77 - XXXX 2/26/2025 3:44 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 77
+1 to be paid by the retirees under KRS 161.675. The board shall deposit funds in the
+2 medical insurance fund unless the board of trustees has established a trust fund
+3 under 26 U.S.C. sec. 115 for this purpose. In this case, the board may deposit the
+4 employer contribution in that trust fund. This contribution shall be known as the
+5 state medical insurance fund stabilization contribution. The percentage to be
+6 contributed by the state under this subsection:
+7 (a) Shall be determined by the retirement system's actuary for each biennial
+8 budget period;
+9 (b) May be suspended or adjusted by the General Assembly if in its judgment the
+10 welfare of the Commonwealth so demands; and
+11 (c) Shall not exceed the lesser of the actual benefit cost for retirees not eligible
+12 for Medicare who retire on or after July 1, 2010, or the amount contributed by
+13 employers under subsection (3) of this section.
+14 (3) All employers who employ nonuniversity members shall make a contribution for
+15 each payroll on behalf of their active employees who participate in the Teachers'
+16 Retirement System in an amount equal to three percent (3%) of payroll of those
+17 active employees. Except as provided in Section 1 of this Act, the contribution
+18 specified by this subsection shall be used to fund retiree health benefits.
+19 (4) When the funds established to actuarially fund pension annuities and the medical
+20 insurance fund established under KRS 161.420[(5)] each achieve an actuarial
+21 funding level of at least one hundred percent (100%)[achieves a sufficient
+22 prefunded status] as determined by the annual actuarial valuation[Teachers'
+23 Retirement System's actuary], the board of trustees shall recommend to the General
+24 Assembly that the contributions required under subsections (1)(c)2. and (e)3. and
+25 (3) of this section shall, in an actuarially accountable manner, be either decreased,
+26 suspended, or eliminated. The decrease, suspension, or elimination in contributions
+27 required under subsection (1)(c)2. of this section shall not exceed two and twenty-
+Page 14 of 20
+BR007700.100 - 77 - XXXX 2/26/2025 3:44 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 77
+1 five thousandths percent (2.025%) of annual compensation. The decrease,
+2 suspension, or elimination in contributions required under subsection (1)(e)3. of this
+3 section shall not exceed one and twenty-five hundredths percent (1.25%) of annual
+4 compensation.
+5 (5) Each employer shall remit the required employer contributions to the retirement
+6 system under the terms and conditions specified for member contributions under
+7 KRS 161.560. The state shall provide annual appropriations based upon estimated
+8 funds needed to meet the requirements of KRS 161.155, 161.168, 161.507(4),
+9 161.515, 161.545, 161.553, 161.605, 161.612, and 161.620(1), (3), (5), (6), and (7).
+10 In the event an annual appropriation is less than the amount of these requirements,
+11 the state shall make up the deficit in the next biennium budget appropriation to the
+12 retirement system. Employer contributions to the retirement system are for the
+13 exclusive purpose of providing benefits to members and annuitants and these
+14 contributions shall be considered deferred compensation to the members. This
+15 subsection shall not apply to costs applicable to individuals who become members
+16 on or after January 1, 2022.
+17 Section 5. KRS 161.675 is amended to read as follows:
+18 (1) The board of trustees shall arrange by appropriate contract or on a self-insured basis
+19 to provide a broad program of group hospital and medical insurance for present and
+20 future eligible recipients of a retirement allowance from the Teachers' Retirement
+21 System. The board of trustees may also arrange to provide health insurance
+22 coverage through an insurer licensed pursuant to Subtitle 38 of KRS Chapter 304
+23 and offering a managed care plan as defined in KRS 304.17A-500 as an alternative
+24 to group hospital and medical insurance for persons eligible for hospital and
+25 medical benefits under this section. The board of trustees may authorize eligible
+26 recipients of a retirement allowance from the Teachers' Retirement System who are
+27 less than age sixty-five (65) to be included in the state-sponsored health insurance
+Page 15 of 20
+BR007700.100 - 77 - XXXX 2/26/2025 3:44 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 77
+1 that is provided to active teachers and state employees under KRS 18A.225.
+2 Members who are sixty-five (65) or older and retired for service shall not be
+3 eligible to participate in the state employee health insurance program as described
+4 in KRS 18A.225.
+5 (2) (a) The coverage provided shall be as set forth in the contracts and the
+6 administrative regulations of the board of trustees. The board of trustees may
+7 change the levels of coverage and eligibility conditions to meet the changing
+8 needs of the annuitants and, when necessary, to contain the expenses of the
+9 insurance program within the funds available to finance the insurance
+10 program, except as provided by paragraph (b) of this subsection. The
+11 contracts and administrative regulations shall provide for but not be limited to
+12 hospital room and board, surgical procedures, doctors' care in the hospital,
+13 and miscellaneous hospital costs. An annuitant whose effective date of
+14 retirement is July 1, 1974, and thereafter, must have a minimum of five (5)
+15 years' creditable Kentucky service in the Teachers' Retirement System or five
+16 (5) years of combined creditable service in the state-administered retirement
+17 systems if the member is retiring under the reciprocity provisions of KRS
+18 61.680, 61.702, and 78.5536. An annuitant shall not elect coverage through
+19 more than one (1) of the state-administered retirement systems. The board of
+20 trustees shall offer coverage to the disabled child of an annuitant regardless of
+21 the disabled child's age if the annuitant pays the entire premium for the
+22 disabled child's coverage. A child shall be considered disabled if he or she has
+23 been determined to be eligible for federal Social Security disability benefits.
+24 (b) Individuals who become members of the Kentucky Teachers' Retirement
+25 System on or after July 1, 2008, shall not be eligible for benefits under this
+26 section unless the member has at least fifteen (15) or more years of service
+27 credited under KRS 161.500 or another state-administered retirement system.
+Page 16 of 20
+BR007700.100 - 77 - XXXX 2/26/2025 3:44 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 77
+1 (3) All expenses for benefits under this section shall be paid from the funding
+2 provisions contained in KRS 161.420(5), from a trust fund established by the board
+3 under 26 U.S.C. sec. 115, premium charges received from the annuitants and the
+4 spouses, and from funds that may be appropriated or allocated by statute.
+5 (4) (a) The board of trustees shall determine the amount of health insurance
+6 supplement payments that the Teachers' Retirement System will provide to
+7 assist eligible annuitants in paying the cost of their health insurance, based on
+8 the funds available in the medical insurance fund and any trust fund
+9 established by the board for this purpose under 26 U.S.C. sec. 115. The board
+10 of trustees shall establish the maximum monthly amounts of health insurance
+11 supplement payments that will be made by the Kentucky Teachers'
+12 Retirement System for eligible annuitants. The board of trustees shall
+13 annually establish the percentage of the maximum monthly health insurance
+14 supplement payment that will be made, based on age and years of service
+15 credit of eligible recipients of a retirement allowance. Monthly health
+16 insurance supplement payments made by the retirement system may not
+17 exceed the amount of the single coverage insurance premium chosen by the
+18 eligible annuitants. In order to qualify for health insurance supplements, the
+19 annuitant must agree to pay the difference between the insurance premium
+20 and the applicable supplement payment, by payroll deduction from his or her
+21 retirement allowance, or by a payment method approved by the retirement
+22 system.
+23 (b) 1. The board shall, effective July 1, 2010, have the authority to charge
+24 retired members who are not paying the Standard Medicare Part B
+25 premium an amount equal to the Standard Medicare Part B premium in
+26 addition to any other payments determined by the board to be necessary
+27 to contain costs within the available funding. If the board determines
+Page 17 of 20
+BR007700.100 - 77 - XXXX 2/26/2025 3:44 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 77
+1 that retired members who are not paying the Standard Medicare Part B
+2 premium should pay the equivalent of the Standard Medicare Part B
+3 premium, the board shall phase in the premium according to the
+4 following schedule:
+5 July 1, 2010............. ....................................... Thirty-three percent (33%)
+6 July 1, 2011........ ............................................. Sixty-seven percent (67%)
+7 July 1, 2012, and thereafter ......................... One hundred percent (100%)
+8 2. If the board requires retired members to pay the charges specified in
+9 subparagraph 1. of this paragraph, the amount payable shall not be
+10 reduced by the board until the funds established to actuarially fund
+11 pension annuities and the medical insurance fund established under
+12 Section 2 of this Act each achieve an actuarial funding level of at least
+13 one hundred percent (100%).
+14 3. Nothing in this paragraph shall limit the board's authority to change the
+15 levels of coverage, eligibility conditions, or levels of health insurance
+16 supplement for retirees in order to contain costs within available
+17 funding.
+18 (c) The board of trustees may offer, on a full-cost basis, health care insurance
+19 coverage provided by the retirement system to spouses and dependents of
+20 eligible annuitants not otherwise eligible for regular coverage. Recipients of a
+21 retirement allowance from the retirement system must agree to pay the cost of
+22 this coverage by payroll deduction from their retirement allowance or by a
+23 payment method approved by the retirement system.
+24 (d) The board of trustees shall offer, on a full-cost basis, health insurance
+25 coverage provided by the retirement system to the disabled child of an
+26 annuitant, regardless of the age of the disabled child. A child shall be
+27 considered disabled for purposes of this section if the child has been
+Page 18 of 20
+BR007700.100 - 77 - XXXX 2/26/2025 3:44 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 77
+1 determined to be eligible for federal Social Security disability benefits.
+2 (5) The board of trustees is empowered to require the annuitant and the annuitant's
+3 spouse to pay a premium charge to assist in the financing of the hospital and
+4 medical insurance program. The board of trustees is empowered to pay the
+5 expenses for insurance coverage from the medical insurance fund, from any trust
+6 fund established by the board for this purpose under 26 U.S.C. sec. 115, from the
+7 premium charges received from the annuitants and the spouses, and from funds that
+8 may be appropriated or allocated by statute. The board may provide insurance
+9 coverage by making payment to insurance carriers including health insurance plans
+10 that are available to active and retired state employees and active teachers,
+11 institutions, and individuals for services performed, or the board of trustees may
+12 elect to provide insurance on a "self-insurance" basis or a combination of these
+13 provisions.
+14 (6) The board of trustees may approve health insurance supplement payments to
+15 eligible annuitants who are less than sixty-five (65) years of age, as reimbursement
+16 for hospital and medical insurance premiums made by annuitants for their
+17 individual coverage. Eligible annuitants or recipients are those annuitants who are
+18 not eligible for Medicare and who do not reside in Kentucky or in an area outside of
+19 Kentucky where comparable coverage is available. The reimbursement payments
+20 shall not exceed the minimum supplement payment that would have been made had
+21 the annuitant lived in Kentucky. Eligible annuitants or recipients shall submit proof
+22 of payment to the retirement system for hospital and medical insurance that they
+23 have obtained. Reimbursement payments shall be made on a quarterly basis.
+24 (7) Contracts negotiated may include the provision that a stated amount of hospital cost
+25 or period of hospitalization shall incur no obligation on the part of the insurance
+26 carrier or the retirement system or any trust fund established for this purpose by the
+27 board.
+Page 19 of 20
+BR007700.100 - 77 - XXXX 2/26/2025 3:44 PM Jacketed
+UNOFFICIAL COPY 25 RS BR 77
+1 (8) The board of trustees is empowered to promulgate administrative regulations to
+2 assure efficient operation of the hospital and medical insurance program.
+3 (9) Premiums paid for hospital and medical insurance coverage procured under
+4 authority of this section shall be exempt from any premium tax which might
+5 otherwise be required under KRS Chapter 136. The payment of premiums by the
+6 medical insurance fund or another trust fund established by the board for this
+7 purpose shall not constitute taxable income to an insured recipient.
+8 (10) In the event that a member is providing services on less than a full-time basis under
+9 KRS 161.605, the retirement system may pay the full cost of the member's health
+10 insurance coverage for the full fiscal year that the member is providing those
+11 services, at the conclusion of which, the retirement system may then bill the active
+12 employer and the active employer shall reimburse the retirement system for the cost
+13 of the health insurance coverage incurred by the retirement system on a pro rata
+14 basis for the time that the member was employed by the active employer.
+Page 20 of 20
+BR007700.100 - 77 - XXXX 2/26/2025 3:44 PM Jacketed
+[DELETED:   2  J A B S T ( A ( " l m t a v o a d b t a a l e a a p t i d a a ( " i 1 ( " S ( E f h r a a f l o a l o h p ( a d b t a a v t e c ( s a f t h p d t u l o p a t y f t a a v i w t c o t s ( A i f]
+[DELETED:   2  J c ( m m f a m a s c u t a f l o t m i f i a l o h p ( W t m i ( S A o t a o t r s a f t e p o p b t h f p a r f a t f A t a o t r o ( T o E i b s a i t e f o e f t a o t r ( ( T 1 T f a r i a b t b o t f t g 2 F i w b m o t T R]
+[DELETED:   2  J S o o a J 1 2 w a p i t s t s b c a r i o t c b  F s a f f i t t s f a t t n m f b c n m b ( A b ( T w h p ( A f t ( E a p b p ( o t s t a a f r r ( F o c t]
+[DELETED:   2  J ( s b c s b t f t f t t a ( T s a f s c o f p b e a a b t s f t p o p p a a s o l r t a s m 1 t s f t a n t f t m e c ( T a r f s b t f f w s b p a r a t t s a f t a a m b h i t f f t a ( ( T U p 1 T m c r b K 1 ( (]
+[DELETED:   2  J 2 T e c r b K 1 ( ( A 3 S a a s f i K 1 u t c a m t a t f u 2 U s 1 e 4 I i f t i o t f f c r f ( A f t c T b s t t n a a s i p o ( T o e d r t i m s a t p a c c a r g a b w t b i h a t a a e w b t o]
+[DELETED:   2  J p t g c ( T s e a f s c o t f v c a J 1 1 T c s n b p u a p i K 1 b o t m p a r i a w ( T b t e f t p o c a q g e b t e o o a J 1 1 T b o t s p a i K a ( T l i b f s c o a a f t p m p t p ( T s r a s c o a i t ( s a ( O ( t i e c a p b K 1 a 2 t e t c a r]
+[DELETED:   2  J e c f t f b c a t m p b K 1 a 1 f t i w b n ( O ( t i e c a p b K 1 a 2 t e t c a r e c f t f b c a t m p b K 1 a 1 f t i w b u  N b S ( ( E J h w 1 N a o h f t p ( o a c 2 T b ( E i w b a c u m p t J p 1 S a s h t t p ( o a 2 T]
+[DELETED:   2  J a ( E i w b a c n m o o a t 1 N b i t f b c a d b K 1 c u t f t s b a a p b K 1 2 T p ( o a c s f t r e 1 e t t b m d t c o a p f c o t f b c w t p o K 3 T b ( E J 1 2 s c t t r s n a s h o 1 F b i t f b c a d b K 1 c u t f t s b a a p b K 1 2 T p ( o a c s f t r]
+[DELETED:   2  J e 1 e t t b m d t c o a p f c o t f b c w t p o K 3 T o ( W m a s p s a d b t a a v S a t b o t s r t t G A t t c r u p a ( P a b s t a m t r m w b ( b o f t m f y o a s N t p o t s o a o s t t c f r o 1 P a m s u c r t s n o w 2 A l t ( m o t e s r p f]
+[DELETED:   2  J a ( T a b c o a s i e o t a t b i f t p s t ( E t p o c w S 4 o t U S I R c b S I R C a K 1 T p m c A 1 1 b t m c a t p m c t t c s a a S ( E A s c a t t T R S a p e]
+[DELETED:   2  J ( T a o h f t p ( o t t a t 1 T t t a c s b u t f p a l i 2 E ( m o m t ( F a o h f t p ( o t t a a c 1 T t t a c s b u t f p a l i 2 E ( m o m t ( T a s h p ( o t t a c]
+[DELETED:   2  J 1 1 T t t a c s b u t f p a l i 2 E a p i S 1 o t a s h s b u u 2 U s 1 t b m d t e c p ( T n t 1 E f t s s n b u t f t s b a 2 T t m e c o t s b c t p f c 3 E a p i S 1 o t A t o o p ( o a c s b u t p f t t m i f a p u K 1 I t b o t e a t f u 2]
+[DELETED:   2  J U s 1 t b m d t e c p i t s i t t f e a p i S ( N a J 1 F t t a c s b u t f p a l i n b u t f t s b a a p b K 2 T t m e c o t s b c t p f c 3 E c f a p u K 1 I t b o t e t e c p i t s i t t f ( I s t t a]
+[DELETED:   2  J t m i f u t b o t h e a t f u e s m i f s c T p t b c ( S b d b t r s a f e b b ( M w ( S f e ( A e R a e E a p i S 1 o A t c s ( W i f e u K 1 e a a a f l o a l o h p ( a s p s a d b t a a v R A ( s r]
+[DELETED:   2  J f t p ( o a c T d s s c ( E e r t r e t t r s K f n t m t r o K 1 1 1 1 I t r s E c t t r s a f t e p o p b t m a a a t c s b c d c t t m T s o S ( T t f S T b o t m a a t p h i c a t g h a m i f p e f h a m r l]
+[DELETED:   2  J t i p t a t a s e u K 1 M w a s ( o o a r f s s n b e i ( ( T c p s b a s f i t c a t a c n i p w t f a t f t i p e a p b p ( o t s T c h r a b p d c i t h a m h c A a w e d o r y ( s i t m i r u t r p o K 6 m t t d c a i t a p t e p f t d b ( I w b m o t K T R S s c]
+[DELETED:   2  J ( A e f b u t s s b p f t f p u s ( ( T b o t s d t a o h i s a t f a i t m i f a a t f e o s p t w b m b t K T R S f e a T b o t s a s p t w b m b o a a y o s c o e r o a r a M h i s p m b t r s m n e e a a r a o b a p m a b t r s ( 1 T b s e J 1 2 h t a t c r m w a n p t S M P B p a t w I]
+[DELETED:   2  J t p s p t e o t S M P B p t b s p i t p a t t f J J J 2 I s r p S o 3 N l s f r i o t c c w a f ( T c p b t r s t s a d o e r t p ( T b o t s o o a f b h i c p b t r s t t d c o a a r o t a o t d c A c s b c d f p o t s i t c h b]
+[DELETED:   2  J d ( T b o t i e t r t a a t a s t p a p c t a i t f o t h a m i p T b o t i e t p t e f p m b a o a b s T b m p i c t a a t a a r s e a a t i e t p i o a " b o a c o t p ( T b o t m a h i s p t e f h a m i p m b a f t i n K s t o h ( C o c b]
+[DELETED:   2  J ( T b o t i e t p a r t a ( P p f h a m i c p u a o t s s b e f a p t w m o m i f o a t f e b t b f t p ( I K i c f t f f y t t m i p t s e o b]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS BR 77
+1 AN ACT relating to Teachers' Retirement System benefit funding.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF KRS 161.220 TO 161.716 IS CREATED
+4 TO READ AS FOLLOWS:
+5 (1) As used in this section:
+6 (a) "Funding level" means the actuarial value of assets divided by the
+7 actuarially accrued liability expressed as a percentage that is determined
+8 and reported by the retirement system's actuary in the retirement system's
+9 annual actuarial valuation for the medical insurance fund;
+10 (b) "Medical insurance fund" means all contributions and amounts included
+11 in the funds established in subsection (5) of Section 2 of this Act and KRS
+12 161.677; and
+13 (c) "State accumulation fund" means the fund established in subsection (3) of
+14 Section 2 of this Act.
+15 (2) Except as provided in subsection (3) of this section, when the medical insurance
+16 fund has reached an actuarial funding level of at least one hundred percent
+17 (100%) as determined by the annual actuarial valuation, the employer
+18 contributions for retiree health benefits as provided in subsections (1)(a)2., (b)2.,
+19 (c)2., (d)3., and (e)3. and (3) of Section 4 of this Act shall be deposited into the
+20 state accumulation fund to help pay down the unfunded liabilities of pension
+21 annuities instead of being deposited into the medical insurance fund. Deposits to
+22 the state accumulation fund shall occur on and after the beginning of the fiscal
+23 year following the annual actuarial valuation in which the criteria of this
+24 subsection are first met.
+25 (3) After reaching an actuarial funding level of at least one hundred percent (100%),
+26 if the actuarial funding level of the medical insurance fund falls below ninety-
+27 five percent (95%) as determined by the annual actuarial valuation, the employer
+Page 1 of 20
+BR007700.100 - 77 - XXXX 2/26/2025 3:44 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 77
+1 contributions for retiree health benefits as provided in subsections (1)(a)2., (b)2.,
+2 (c)2., (d)3., and (e)3. and (3) of Section 4 of this Act shall be deposited into the
+3 medical insurance fund instead of the state accumulation fund. Deposits to the
+4 medical insurance fund shall occur on and after the beginning of the fiscal year
+5 following the annual actuarial valuation in which the criteria of this subsection
+6 are met and shall continue until the actuarial funding level of the medical
+7 insurance fund is at least one hundred percent (100%). When the medical
+8 insurance fund regains an actuarial funding level of at least one hundred percent
+9 (100%), the provisions of subsection (2) of this section shall apply.
+10 Section 2. KRS 161.420 is amended to read as follows:
+11 All of the assets of the retirement system are for the exclusive purpose of providing
+12 benefits to members and annuitants and defraying reasonable expenses of administering
+13 the system. The board of trustees shall be the trustee of all funds of the system and shall
+14 have full power and responsibility for administering the funds. All the assets of the
+15 retirement system shall be credited according to the purpose for which they are held to
+16 one (1) of the following funds:
+17 (1) The expense fund shall consist of the funds set aside from year to year by the board
+18 of trustees to defray the expenses of the administration of the retirement system.
+19 Each fiscal year an amount not greater than four percent (4%) of the dividends and
+20 interest income earned from investments during the immediate past fiscal year shall
+21 be set aside into the expense fund or expended for the administration of the
+22 retirement system;
+23 (2) (a) The teachers' savings fund shall consist of:
+24 1. The contributions paid by members of the retirement system into this
+25 fund and regular interest assigned by the board of trustees from the
+26 guarantee fund; and
+27 2. For individuals who become members of the Teachers' Retirement
+Page 2 of 20
+BR007700.100 - 77 - XXXX 2/26/2025 3:44 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 77
+1 System on or after January 1, 2022, who are participating in the
+2 supplemental benefit component, the employer contributions paid into
+3 the supplemental benefit component and regular interest on those
+4 contributions as provided by KRS 161.635 and 161.636 that is assigned
+5 by the board of trustees from the guarantee fund.
+6 For individuals who become members on or after January 1, 2022, the system
+7 shall account for funds in the teachers' savings fund attributable to the
+8 nonuniversity members foundational benefit component, nonuniversity
+9 members supplemental benefit component, university members foundational
+10 benefit component, and university members supplemental benefit component.
+11 (b) A member may not borrow any amount of his or her accumulated account
+12 balance in the teachers' savings fund, or any regular interest earned thereon.
+13 (c) The accumulated contributions or accumulated account balance of a member
+14 which are returned to him or her upon his or her withdrawal or paid to his or
+15 her estate or designated beneficiary in the event of his or her death shall be
+16 paid from the teachers' savings fund.
+17 (d) Any accumulated account balance in the teachers' savings fund forfeited by a
+18 failure of a teacher or his or her estate to claim these contributions shall be
+19 transferred from this fund to the guarantee fund.
+20 (e) Except as provided by paragraph (f) of this subsection, the accumulated
+21 account balance of a member in the teachers' savings fund shall be transferred
+22 from this fund to the allowance reserve fund in the event of retirement by
+23 reason of service or disability.
+24 (f) For an individual who becomes a member of the Teachers' Retirement System
+25 on or after January 1, 2022, who is participating in the supplemental benefit
+26 component who elects to annuitize his or her accumulated account balance in
+27 the supplemental benefit component as prescribed by KRS 161.635(5)(a) or
+Page 3 of 20
+BR007700.100 - 77 - XXXX 2/26/2025 3:44 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 77
+1 (b) or 161.636(5)(a) or (b), the member's accumulated account balance in the
+2 supplemental benefit component shall be transferred from this fund to the
+3 allowance reserve fund;
+4 (3) The state accumulation fund shall consist of funds paid by employers and
+5 appropriated by the state for the purpose of providing pension annuities and
+6 survivor benefits, including any sums appropriated for meeting unfunded liabilities
+7 of pension annuities and any sums that are directed to pay down the unfunded
+8 liabilities of pension annuities as provided in Section 1 of this Act, together with
+9 regular interest assigned by the board of trustees from the guarantee fund. At the
+10 time of retirement or death of a member there shall be transferred from the state
+11 accumulation fund to the allowance reserve fund an amount which together with the
+12 sum transferred from the teachers' savings fund will be sufficient to provide the
+13 member a retirement allowance and provide for benefits under KRS 161.520 and
+14 161.525. There shall also be transferred from the state accumulation fund to the
+15 teachers' savings fund, the amount needed to fund the mandatory employer
+16 contributions required by KRS 161.635 and 161.636;
+17 (4) The allowance reserve fund shall be the fund from which shall be paid all
+18 retirement allowances and benefits provided under KRS 161.520 and 161.525. In
+19 addition, whenever a change in the status of a member results in an obligation on
+20 this fund, there shall be transferred to this fund from the teachers' savings fund and
+21 the state accumulation fund, the amounts as may be held in those funds for the
+22 account or benefit of the member;
+23 (5) (a) The medical insurance fund, which is an account established according to 26
+24 U.S.C. sec. 401(h), shall consist of amounts accumulated for the purpose of
+25 providing benefits as provided in KRS 161.675, including:
+26 1. The member contributions required by KRS 161.540(1)(a)2., (b)2.,
+27 (c)3., and (d)3.;
+Page 4 of 20
+BR007700.100 - 77 - XXXX 2/26/2025 3:44 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 77
+1 2. The employer contribution required by KRS 161.550(1)(a)2., (b)2.,
+2 (c)2., (d)3., and (e)3. and (3), except as provided in Section 1 of this
+3 Act;
+4 3. State appropriations as set forth in KRS 161.550(2), unless the
+5 contributions are made to a trust fund under 26 U.S.C. sec. 115
+6 established by the board for this purpose; and
+7 4. Interest income from the investments of the fund from contributions
+8 received by the fund under subparagraphs 1. to 3. of this paragraph, and
+9 from income earned on those investments.
+10 (b) All claims for benefits under KRS 161.675 shall be paid from this fund or
+11 from any trust fund under 26 U.S.C. sec. 115 as established by the board for
+12 this purpose. Any amounts deposited to the fund that are not required to meet
+13 current costs shall be maintained as a reserve in the fund for these benefits.
+14 The board shall take the necessary and appropriate steps, including
+15 promulgating administrative regulations and procedures to maintain the status
+16 of the medical insurance fund as an account subject to 26 U.S.C. sec. 401(h);
+17 (6) The guarantee fund shall be maintained to facilitate the crediting of uniform interest
+18 on the amounts of the other funds, except the expense fund, to finance operating
+19 expenses directly related to investment management services, and to provide a
+20 contingent fund out of which special requirements of any of the other funds may be
+21 covered. All income, interest, and dividends derived from the authorized deposits
+22 and investments shall be paid into the guarantee fund. Any funds received from
+23 gifts and bequests, which the board is hereby authorized to accept and expend
+24 without limitation in a manner either expressed by the donor or deemed to be in the
+25 best interest of the membership, shall be credited to the guarantee fund. Any funds
+26 transferred from the teachers' savings fund by reason of lack of claimant or because
+27 of a surplus in any fund and any other moneys whose disposition is not otherwise
+Page 5 of 20
+BR007700.100 - 77 - XXXX 2/26/2025 3:44 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 77
+1 provided for, shall also be credited to the guarantee fund. The interest allowed by
+2 the board of trustees to each of the other funds shall be paid to these funds from the
+3 guarantee fund. Any deficit occurring in any fund that would not be automatically
+4 covered shall be met by the payments from the guarantee fund to that fund;
+5 (7) The school employee annuity fund shall consist of those funds voluntarily
+6 contributed under the provisions of Section 403(b) of the Internal Revenue Code by
+7 a member of the Teachers' Retirement System with accounts that existed on or after
+8 July 1, 1996. The contributions shall not be picked up as provided in KRS
+9 161.540(2). Separate member accounts shall be maintained for each member. The
+10 board of trustees may promulgate administrative regulations in accordance
+11 with[pursuant to] KRS Chapter 13A to manage this program;
+12 (8) The supplemental retirement benefit fund shall consist of those funds contributed
+13 by the employer for the purpose of constituting a qualified government excess
+14 benefit plan as described in Section 415 of the Internal Revenue Code for accounts
+15 that existed on or after July 1, 1996. The board of trustees shall promulgate
+16 administrative regulations in accordance with[pursuant to] KRS Chapter 13A to
+17 administer this program;
+18 (9) The life insurance benefit fund shall consist of amounts accumulated for the
+19 purpose of providing benefits provided under KRS 161.655. The board of trustees
+20 may allocate to this fund a percentage of the employer and state contributions as
+21 provided under KRS 161.550. The allocation to this fund will be in an amount that
+22 the actuary determines necessary to fund the obligation of providing the benefits
+23 provided under KRS 161.655; and
+24 (10) The stabilization reserve account shall consist of amounts in two (2) separate
+25 accounts:
+26 (a) One (1) that includes employer contributions as provided by KRS
+27 161.550(1)(d)1. and 2. that exceeds the combined actuarially required
+Page 6 of 20
+BR007700.100 - 77 - XXXX 2/26/2025 3:44 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 77
+1 employer contribution for the foundational benefit component and the
+2 mandatory employer contribution to the supplemental benefit component as
+3 provided by KRS 161.633 and 161.635 for those individuals who become
+4 nonuniversity members on or after January 1, 2022; and
+5 (b) One (1) that includes employer contributions as provided by KRS
+6 161.550(1)(e)1. and 2. that exceeds the combined actuarially required
+7 employer contribution for the foundational benefit component and the
+8 mandatory employer contribution to the supplemental benefit component as
+9 provided by KRS 161.634 and 161.636 for those individuals who become
+10 university members on or after January 1, 2022.
+11 Notwithstanding any other statute to the contrary, funds in these accounts shall only
+12 be used to pay off the unfunded liability of the pension and life insurance funds.
+13 Section 3. KRS 161.540 is amended to read as follows:
+14 (1) (a) Each individual who becomes a contributing nonuniversity member prior to
+15 January 1, 2022, shall contribute to the retirement system twelve and eight
+16 hundred fifty-five thousandths percent (12.855%) of annual compensation, of
+17 which:
+18 1. Nine and one hundred five thousandths percent (9.105%) of annual
+19 compensation shall be used to fund pension benefits; and
+20 2. Three and three-quarters percent (3.75%) of annual compensation shall
+21 be used to fund retiree health benefits.
+22 (b) Each individual who becomes a contributing university member prior to
+23 January 1, 2022, shall contribute to the retirement system ten and four-tenths
+24 percent (10.4%) of annual compensation, of which:
+25 1. Seven and six hundred twenty-five thousandths percent (7.625%) of
+26 annual compensation shall be used to fund pension benefits; and
+27 2. Two and seven hundred seventy-five thousandths percent (2.775%) of
+Page 7 of 20
+BR007700.100 - 77 - XXXX 2/26/2025 3:44 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 77
+1 annual compensation shall be used to fund retiree health benefits.
+2 (c) Each individual who becomes a contributing nonuniversity member on or
+3 after January 1, 2022, shall contribute to the retirement system fourteen and
+4 three-quarters percent (14.75%) of annual compensation, of which:
+5 1. Nine percent (9%) of annual compensation shall be used to fund pension
+6 benefits in the foundational benefit component as described by KRS
+7 161.633. The contribution provided by this subparagraph shall not be
+8 used to fund the supplemental benefit account as provided by KRS
+9 161.635;
+10 2. Two percent (2%) of annual compensation shall fund the required
+11 employee contribution in the supplemental benefit component in KRS
+12 161.635, except that the board may direct these contributions on a
+13 prospective basis into the pension and life insurance funds to contain
+14 costs of the foundational benefit component within the provisions of
+15 KRS 161.633; and
+16 3. Three and three-quarters percent (3.75%) of annual compensation shall
+17 be used to fund retiree health benefits.
+18 (d) Each individual who becomes a contributing university member on or after
+19 January 1, 2022, shall contribute to the retirement system nine and seven
+20 hundred seventy-five thousandths percent (9.775%) of annual compensation,
+21 of which:
+22 1. Five percent (5%) of annual compensation shall be used to fund pension
+23 benefits in the foundational benefit component as described by KRS
+24 161.634. The contribution provided by this subparagraph shall not be
+25 used to fund the supplemental benefit account as provided by KRS
+26 161.636;
+27 2. Two percent (2%) of annual compensation shall fund the required
+Page 8 of 20
+BR007700.100 - 77 - XXXX 2/26/2025 3:44 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 77
+1 employee contribution in the supplemental benefit component in KRS
+2 161.636, except that the board may direct these contributions on a
+3 prospective basis into the pension and life insurance funds to contain
+4 costs of the foundational benefit component within the provisions of
+5 KRS 161.634; and
+6 3. Two and seven hundred and seventy-five thousandths percent (2.775%)
+7 of annual compensation shall be used to fund retiree health benefits.
+8 (e) When the funds established to actuarially fund pension annuities and the
+9 medical insurance fund established under KRS 161.420[(5)] each achieve an
+10 actuarial funding level of at least one hundred percent (100%)[achieves a
+11 sufficient prefunded status] as determined by the annual actuarial
+12 valuation[Retirement System's actuary], the board of trustees shall
+13 recommend to the General Assembly that the contributions required under
+14 paragraph (a)2., (b)2., (c)3., or (d)3. of this subsection shall, in an actuarially
+15 accountable manner, be either decreased, suspended, or eliminated.
+16 (f) Payments authorized by statute that are made to retiring members, who
+17 became members of the system before July 1, 2008, for not more than sixty
+18 (60) days of unused accrued annual leave shall, subject to KRS 161.220(10),
+19 be considered as part of the member's annual compensation, and shall be used
+20 only for the member's final year of active service. Notwithstanding the
+21 provisions of this subsection or any other statute to the contrary, for
+22 retirement calculation purposes, members may only be credited for payment
+23 of annual leave under the following conditions:
+24 1. Payment by an employer for annual leave shall be equally available to
+25 all members serving under contracts requiring the same number of
+26 worked days and greater; and
+27 2. At least two (2) members of the employer shall receive payment for
+Page 9 of 20
+BR007700.100 - 77 - XXXX 2/26/2025 3:44 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 77
+1 annual leave.
+2 (g) The contribution of members shall not exceed the applicable percentages on
+3 annual compensation as set forth in this section or as where otherwise limited
+4 by statute. When a member retires, if it is determined that he or she has made
+5 contributions on a salary in excess of the amount to be included for the
+6 purpose of calculating his or her final average salary, any excess contribution
+7 shall be refunded in a lump sum to the member's employer for distribution to
+8 the member.
+9 (2) Each public board, institution, or agency listed in KRS 161.220(4) shall, solely for
+10 the purpose of compliance with Section 414(h) of the United States Internal
+11 Revenue Code, pick up the member contributions required by this section for all
+12 compensation earned after August 1, 1982, and the contributions so picked up shall
+13 be treated as employer contributions in determining tax treatment under the United
+14 States Internal Revenue Code and KRS 141.010. The picked-up member
+15 contribution shall satisfy all obligations to the retirement system satisfied prior to
+16 August 1, 1982, by the member contribution, and the picked-up member
+17 contribution shall be in lieu of a member contribution. Each employer shall pay
+18 these picked-up member contributions from the same source of funds which is used
+19 to pay earnings to the member. The member shall have no option to receive the
+20 contributed amounts directly instead of having them paid by the employer to the
+21 system. Member contributions picked-up after August 1, 1982, shall be treated for
+22 all purposes of KRS 161.220 to 161.714 in the same manner and to the same extent
+23 as member contributions made prior to August 1, 1982.
+24 Section 4. KRS 161.550 is amended to read as follows:
+25 (1) Each employer, except as provided in[under] KRS 161.555 and Section 1 of this
+26 Act, shall contribute annually to the Teachers' Retirement System a permanent
+27 employer contribution rate on behalf of each employee it employs equal to:
+Page 10 of 20
+BR007700.100 - 77 - XXXX 2/26/2025 3:44 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 77
+1 (a) Thirteen and one hundred five thousandths percent (13.105%) of the total
+2 annual compensation of nonuniversity members who become members prior
+3 to July 1, 2008. Of this permanent employer contribution rate:
+4 1. Twelve and three hundred fifty-five thousandths percent (12.355%) of
+5 the total annual compensation shall be used to fund pension and life
+6 insurance benefits; and
+7 2. Except as provided in Section 1 of this Act, three-quarters of a percent
+8 (0.75%) of annual compensation shall be used to provide funding to the
+9 medical insurance fund as provided under KRS 161.420(5). If the board
+10 of trustees establishes a trust fund under 26 U.S.C. sec. 115, the board
+11 may deposit the employer contribution provided in this subparagraph in
+12 that trust fund except as provided in Section 1 of this Act;
+13 (b) Fourteen and one hundred five thousandths percent (14.105%) of the total
+14 annual compensation of nonuniversity members who become members on or
+15 after July 1, 2008, but prior to January 1, 2022. Of this permanent employer
+16 contribution rate:
+17 1. Thirteen and three hundred fifty-five thousandths percent (13.355%) of
+18 the total annual compensation shall be used to fund pension and life
+19 insurance benefits; and
+20 2. Except as provided in Section 1 of this Act, three-quarters of a percent
+21 (0.75%) of annual compensation shall be used to provide funding to the
+22 medical insurance fund as provided under KRS 161.420(5). If the board
+23 of trustees establishes a trust fund under 26 U.S.C. sec. 115, the board
+24 may deposit the employer contribution provided in this subparagraph in
+25 that trust fund except as provided in Section 1 of this Act;
+26 (c) Thirteen and sixty-five hundredths percent (13.65%) of the total annual
+27 compensation of university members who become members prior to January
+Page 11 of 20
+BR007700.100 - 77 - XXXX 2/26/2025 3:44 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 77
+1 1, 2022. Of this permanent employer contribution rate:
+2 1. Ten and eight hundred seventy-five thousandths percent (10.875%) of
+3 the total annual compensation shall be used to fund pension and life
+4 insurance benefits; and
+5 2. Except as provided in Section 1 of this Act, two and seven hundred
+6 seventy-five thousandths percent (2.775%) of annual compensation shall
+7 be used to provide funding to the medical insurance fund as provided
+8 under KRS 161.420(5). If the board of trustees establishes a trust fund
+9 under 26 U.S.C. sec. 115, the board may deposit the employer
+10 contribution provided in this subparagraph in that trust fund except as
+11 provided in Section 1 of this Act;
+12 (d) Ten and three-quarters percent (10.75%) of the total annual compensation of
+13 nonuniversity members who become members on or after January 1, 2022. Of
+14 this permanent employer contribution rate:
+15 1. Eight percent (8%) of the total annual compensation shall be used to
+16 fund pension and life insurance benefits. The contribution provided by
+17 this subparagraph shall not be used to fund the supplemental benefit
+18 account as provided by KRS 161.635;
+19 2. Two percent (2%) of the total annual compensation shall be used to fund
+20 the mandatory employer contribution of the supplemental benefit
+21 component, except that the board may direct these contributions on a
+22 prospective basis into the pension and life insurance funds to contain
+23 costs within the provisions of KRS 161.633; and
+24 3. Except as provided in Section 1 of this Act, three-quarters of one
+25 percent (0.75%) of annual compensation shall be used to provide
+26 funding to the medical insurance fund as provided under KRS
+27 161.420(5). If the board of trustees establishes a trust fund under 26
+Page 12 of 20
+BR007700.100 - 77 - XXXX 2/26/2025 3:44 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 77
+1 U.S.C. sec. 115, the board may deposit the employer contribution
+2 provided in this subdivision in that trust fund except as provided in
+3 Section 1 of this Act; and
+4 (e) Nine and seven hundred seventy-five thousandths percent (9.775%) of total
+5 annual compensation of university members who become members on or after
+6 January 1, 2022. Of this permanent employer contribution rate:
+7 1. Five and seven hundred seventy-five thousandths percent (5.775%) of
+8 the total annual compensation shall be used to fund pension and life
+9 insurance benefits. The contribution provided by this subparagraph shall
+10 not be used to fund the supplemental benefit account as provided by
+11 KRS 161.636;
+12 2. Two percent (2%) of the total annual compensation shall be used to fund
+13 the mandatory employer contribution of the supplemental benefit
+14 component, except that the board may direct these contributions on a
+15 prospective basis into the pension and life insurance funds to contain
+16 costs within the provisions of KRS 161.634; and
+17 3. Except as provided in Section 1 of this Act, two percent (2%) of annual
+18 compensation shall be used to provide funding to the medical insurance
+19 fund as provided under KRS 161.420(5). If the board of trustees
+20 establishes a trust fund under 26 U.S.C. sec. 115, the board may deposit
+21 the employer contribution provided in this subparagraph in that trust
+22 fund except as provided in Section 1 of this Act.
+23 (2) In addition to the required contributions in subsection (1) of this section, the state
+24 shall contribute annually to the Teachers' Retirement System a percentage of the
+25 total salaries of the state-funded and federally funded members it employs to pay
+26 the cost of health insurance coverage for retirees who are not eligible for Medicare
+27 and who retire on or after July 1, 2010, less the amounts that are otherwise required
+Page 13 of 20
+BR007700.100 - 77 - XXXX 2/26/2025 3:44 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 77
+1 to be paid by the retirees under KRS 161.675. The board shall deposit funds in the
+2 medical insurance fund unless the board of trustees has established a trust fund
+3 under 26 U.S.C. sec. 115 for this purpose. In this case, the board may deposit the
+4 employer contribution in that trust fund. This contribution shall be known as the
+5 state medical insurance fund stabilization contribution. The percentage to be
+6 contributed by the state under this subsection:
+7 (a) Shall be determined by the retirement system's actuary for each biennial
+8 budget period;
+9 (b) May be suspended or adjusted by the General Assembly if in its judgment the
+10 welfare of the Commonwealth so demands; and
+11 (c) Shall not exceed the lesser of the actual benefit cost for retirees not eligible
+12 for Medicare who retire on or after July 1, 2010, or the amount contributed by
+13 employers under subsection (3) of this section.
+14 (3) All employers who employ nonuniversity members shall make a contribution for
+15 each payroll on behalf of their active employees who participate in the Teachers'
+16 Retirement System in an amount equal to three percent (3%) of payroll of those
+17 active employees. Except as provided in Section 1 of this Act, the contribution
+18 specified by this subsection shall be used to fund retiree health benefits.
+19 (4) When the funds established to actuarially fund pension annuities and the medical
+20 insurance fund established under KRS 161.420[(5)] each achieve an actuarial
+21 funding level of at least one hundred percent (100%)[achieves a sufficient
+22 prefunded status] as determined by the annual actuarial valuation[Teachers'
+23 Retirement System's actuary], the board of trustees shall recommend to the General
+24 Assembly that the contributions required under subsections (1)(c)2. and (e)3. and
+25 (3) of this section shall, in an actuarially accountable manner, be either decreased,
+26 suspended, or eliminated. The decrease, suspension, or elimination in contributions
+27 required under subsection (1)(c)2. of this section shall not exceed two and twenty-
+Page 14 of 20
+BR007700.100 - 77 - XXXX 2/26/2025 3:44 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 77
+1 five thousandths percent (2.025%) of annual compensation. The decrease,
+2 suspension, or elimination in contributions required under subsection (1)(e)3. of this
+3 section shall not exceed one and twenty-five hundredths percent (1.25%) of annual
+4 compensation.
+5 (5) Each employer shall remit the required employer contributions to the retirement
+6 system under the terms and conditions specified for member contributions under
+7 KRS 161.560. The state shall provide annual appropriations based upon estimated
+8 funds needed to meet the requirements of KRS 161.155, 161.168, 161.507(4),
+9 161.515, 161.545, 161.553, 161.605, 161.612, and 161.620(1), (3), (5), (6), and (7).
+10 In the event an annual appropriation is less than the amount of these requirements,
+11 the state shall make up the deficit in the next biennium budget appropriation to the
+12 retirement system. Employer contributions to the retirement system are for the
+13 exclusive purpose of providing benefits to members and annuitants and these
+14 contributions shall be considered deferred compensation to the members. This
+15 subsection shall not apply to costs applicable to individuals who become members
+16 on or after January 1, 2022.
+17 Section 5. KRS 161.675 is amended to read as follows:
+18 (1) The board of trustees shall arrange by appropriate contract or on a self-insured basis
+19 to provide a broad program of group hospital and medical insurance for present and
+20 future eligible recipients of a retirement allowance from the Teachers' Retirement
+21 System. The board of trustees may also arrange to provide health insurance
+22 coverage through an insurer licensed pursuant to Subtitle 38 of KRS Chapter 304
+23 and offering a managed care plan as defined in KRS 304.17A-500 as an alternative
+24 to group hospital and medical insurance for persons eligible for hospital and
+25 medical benefits under this section. The board of trustees may authorize eligible
+26 recipients of a retirement allowance from the Teachers' Retirement System who are
+27 less than age sixty-five (65) to be included in the state-sponsored health insurance
+Page 15 of 20
+BR007700.100 - 77 - XXXX 2/26/2025 3:44 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 77
+1 that is provided to active teachers and state employees under KRS 18A.225.
+2 Members who are sixty-five (65) or older and retired for service shall not be
+3 eligible to participate in the state employee health insurance program as described
+4 in KRS 18A.225.
+5 (2) (a) The coverage provided shall be as set forth in the contracts and the
+6 administrative regulations of the board of trustees. The board of trustees may
+7 change the levels of coverage and eligibility conditions to meet the changing
+8 needs of the annuitants and, when necessary, to contain the expenses of the
+9 insurance program within the funds available to finance the insurance
+10 program, except as provided by paragraph (b) of this subsection. The
+11 contracts and administrative regulations shall provide for but not be limited to
+12 hospital room and board, surgical procedures, doctors' care in the hospital,
+13 and miscellaneous hospital costs. An annuitant whose effective date of
+14 retirement is July 1, 1974, and thereafter, must have a minimum of five (5)
+15 years' creditable Kentucky service in the Teachers' Retirement System or five
+16 (5) years of combined creditable service in the state-administered retirement
+17 systems if the member is retiring under the reciprocity provisions of KRS
+18 61.680, 61.702, and 78.5536. An annuitant shall not elect coverage through
+19 more than one (1) of the state-administered retirement systems. The board of
+20 trustees shall offer coverage to the disabled child of an annuitant regardless of
+21 the disabled child's age if the annuitant pays the entire premium for the
+22 disabled child's coverage. A child shall be considered disabled if he or she has
+23 been determined to be eligible for federal Social Security disability benefits.
+24 (b) Individuals who become members of the Kentucky Teachers' Retirement
+25 System on or after July 1, 2008, shall not be eligible for benefits under this
+26 section unless the member has at least fifteen (15) or more years of service
+27 credited under KRS 161.500 or another state-administered retirement system.
+Page 16 of 20
+BR007700.100 - 77 - XXXX 2/26/2025 3:44 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 77
+1 (3) All expenses for benefits under this section shall be paid from the funding
+2 provisions contained in KRS 161.420(5), from a trust fund established by the board
+3 under 26 U.S.C. sec. 115, premium charges received from the annuitants and the
+4 spouses, and from funds that may be appropriated or allocated by statute.
+5 (4) (a) The board of trustees shall determine the amount of health insurance
+6 supplement payments that the Teachers' Retirement System will provide to
+7 assist eligible annuitants in paying the cost of their health insurance, based on
+8 the funds available in the medical insurance fund and any trust fund
+9 established by the board for this purpose under 26 U.S.C. sec. 115. The board
+10 of trustees shall establish the maximum monthly amounts of health insurance
+11 supplement payments that will be made by the Kentucky Teachers'
+12 Retirement System for eligible annuitants. The board of trustees shall
+13 annually establish the percentage of the maximum monthly health insurance
+14 supplement payment that will be made, based on age and years of service
+15 credit of eligible recipients of a retirement allowance. Monthly health
+16 insurance supplement payments made by the retirement system may not
+17 exceed the amount of the single coverage insurance premium chosen by the
+18 eligible annuitants. In order to qualify for health insurance supplements, the
+19 annuitant must agree to pay the difference between the insurance premium
+20 and the applicable supplement payment, by payroll deduction from his or her
+21 retirement allowance, or by a payment method approved by the retirement
+22 system.
+23 (b) 1. The board shall, effective July 1, 2010, have the authority to charge
+24 retired members who are not paying the Standard Medicare Part B
+25 premium an amount equal to the Standard Medicare Part B premium in
+26 addition to any other payments determined by the board to be necessary
+27 to contain costs within the available funding. If the board determines
+Page 17 of 20
+BR007700.100 - 77 - XXXX 2/26/2025 3:44 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 77
+1 that retired members who are not paying the Standard Medicare Part B
+2 premium should pay the equivalent of the Standard Medicare Part B
+3 premium, the board shall phase in the premium according to the
+4 following schedule:
+5 July 1, 2010............. ....................................... Thirty-three percent (33%)
+6 July 1, 2011........ ............................................. Sixty-seven percent (67%)
+7 July 1, 2012, and thereafter ......................... One hundred percent (100%)
+8 2. If the board requires retired members to pay the charges specified in
+9 subparagraph 1. of this paragraph, the amount payable shall not be
+10 reduced by the board until the funds established to actuarially fund
+11 pension annuities and the medical insurance fund established under
+12 Section 2 of this Act each achieve an actuarial funding level of at least
+13 one hundred percent (100%).
+14 3. Nothing in this paragraph shall limit the board's authority to change the
+15 levels of coverage, eligibility conditions, or levels of health insurance
+16 supplement for retirees in order to contain costs within available
+17 funding.
+18 (c) The board of trustees may offer, on a full-cost basis, health care insurance
+19 coverage provided by the retirement system to spouses and dependents of
+20 eligible annuitants not otherwise eligible for regular coverage. Recipients of a
+21 retirement allowance from the retirement system must agree to pay the cost of
+22 this coverage by payroll deduction from their retirement allowance or by a
+23 payment method approved by the retirement system.
+24 (d) The board of trustees shall offer, on a full-cost basis, health insurance
+25 coverage provided by the retirement system to the disabled child of an
+26 annuitant, regardless of the age of the disabled child. A child shall be
+27 considered disabled for purposes of this section if the child has been
+Page 18 of 20
+BR007700.100 - 77 - XXXX 2/26/2025 3:44 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 77
+1 determined to be eligible for federal Social Security disability benefits.
+2 (5) The board of trustees is empowered to require the annuitant and the annuitant's
+3 spouse to pay a premium charge to assist in the financing of the hospital and
+4 medical insurance program. The board of trustees is empowered to pay the
+5 expenses for insurance coverage from the medical insurance fund, from any trust
+6 fund established by the board for this purpose under 26 U.S.C. sec. 115, from the
+7 premium charges received from the annuitants and the spouses, and from funds that
+8 may be appropriated or allocated by statute. The board may provide insurance
+9 coverage by making payment to insurance carriers including health insurance plans
+10 that are available to active and retired state employees and active teachers,
+11 institutions, and individuals for services performed, or the board of trustees may
+12 elect to provide insurance on a "self-insurance" basis or a combination of these
+13 provisions.
+14 (6) The board of trustees may approve health insurance supplement payments to
+15 eligible annuitants who are less than sixty-five (65) years of age, as reimbursement
+16 for hospital and medical insurance premiums made by annuitants for their
+17 individual coverage. Eligible annuitants or recipients are those annuitants who are
+18 not eligible for Medicare and who do not reside in Kentucky or in an area outside of
+19 Kentucky where comparable coverage is available. The reimbursement payments
+20 shall not exceed the minimum supplement payment that would have been made had
+21 the annuitant lived in Kentucky. Eligible annuitants or recipients shall submit proof
+22 of payment to the retirement system for hospital and medical insurance that they
+23 have obtained. Reimbursement payments shall be made on a quarterly basis.
+24 (7) Contracts negotiated may include the provision that a stated amount of hospital cost
+25 or period of hospitalization shall incur no obligation on the part of the insurance
+26 carrier or the retirement system or any trust fund established for this purpose by the
+27 board.
+Page 19 of 20
+BR007700.100 - 77 - XXXX 2/26/2025 3:44 PM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 77
+1 (8) The board of trustees is empowered to promulgate administrative regulations to
+2 assure efficient operation of the hospital and medical insurance program.
+3 (9) Premiums paid for hospital and medical insurance coverage procured under
+4 authority of this section shall be exempt from any premium tax which might
+5 otherwise be required under KRS Chapter 136. The payment of premiums by the
+6 medical insurance fund or another trust fund established by the board for this
+7 purpose shall not constitute taxable income to an insured recipient.
+8 (10) In the event that a member is providing services on less than a full-time basis under
+9 KRS 161.605, the retirement system may pay the full cost of the member's health
+10 insurance coverage for the full fiscal year that the member is providing those
+11 services, at the conclusion of which, the retirement system may then bill the active
+12 employer and the active employer shall reimburse the retirement system for the cost
+13 of the health insurance coverage incurred by the retirement system on a pro rata
+14 basis for the time that the member was employed by the active employer.
+Page 20 of 20
+BR007700.100 - 77 - XXXX 2/26/2025 3:44 PM Jacketed
+
+[DELETED:   2  J A B S T ( A ( " l m t a v o a d b t a a l e a a p t i d a a ( " i 1 ( " S ( E f h r a a f l o a l o h p ( a d b t a a v t e c ( s a f t h p d t u l o p a t y f t a a v i w t c o t s ( A i f]
+[DELETED:   2  J c ( m m f a m a s c u t a f l o t m i f i a l o h p ( W t m i ( S A o t a o t r s a f t e p o p b t h f p a r f a t f A t a o t r o ( T o E i b s a i t e f o e f t a o t r ( ( T 1 T f a r i a b t b o t f t g 2 F i w b m o t T R]
+[DELETED:   2  J S o o a J 1 2 w a p i t s t s b c a r i o t c b  F s a f f i t t s f a t t n m f b c n m b ( A b ( T w h p ( A f t ( E a p b p ( o t s t a a f r r ( F o c t]
+[DELETED:   2  J ( s b c s b t f t f t t a ( T s a f s c o f p b e a a b t s f t p o p p a a s o l r t a s m 1 t s f t a n t f t m e c ( T a r f s b t f f w s b p a r a t t s a f t a a m b h i t f f t a ( ( T U p 1 T m c r b K 1 ( (]
+[DELETED:   2  J 2 T e c r b K 1 ( ( A 3 S a a s f i K 1 u t c a m t a t f u 2 U s 1 e 4 I i f t i o t f f c r f ( A f t c T b s t t n a a s i p o ( T o e d r t i m s a t p a c c a r g a b w t b i h a t a a e w b t o]
+[DELETED:   2  J p t g c ( T s e a f s c o t f v c a J 1 1 T c s n b p u a p i K 1 b o t m p a r i a w ( T b t e f t p o c a q g e b t e o o a J 1 1 T b o t s p a i K a ( T l i b f s c o a a f t p m p t p ( T s r a s c o a i t ( s a ( O ( t i e c a p b K 1 a 2 t e t c a r]
+[DELETED:   2  J e c f t f b c a t m p b K 1 a 1 f t i w b n ( O ( t i e c a p b K 1 a 2 t e t c a r e c f t f b c a t m p b K 1 a 1 f t i w b u  N b S ( ( E J h w 1 N a o h f t p ( o a c 2 T b ( E i w b a c u m p t J p 1 S a s h t t p ( o a 2 T]
+[DELETED:   2  J a ( E i w b a c n m o o a t 1 N b i t f b c a d b K 1 c u t f t s b a a p b K 1 2 T p ( o a c s f t r e 1 e t t b m d t c o a p f c o t f b c w t p o K 3 T b ( E J 1 2 s c t t r s n a s h o 1 F b i t f b c a d b K 1 c u t f t s b a a p b K 1 2 T p ( o a c s f t r]
+[DELETED:   2  J e 1 e t t b m d t c o a p f c o t f b c w t p o K 3 T o ( W m a s p s a d b t a a v S a t b o t s r t t G A t t c r u p a ( P a b s t a m t r m w b ( b o f t m f y o a s N t p o t s o a o s t t c f r o 1 P a m s u c r t s n o w 2 A l t ( m o t e s r p f]
+[DELETED:   2  J a ( T a b c o a s i e o t a t b i f t p s t ( E t p o c w S 4 o t U S I R c b S I R C a K 1 T p m c A 1 1 b t m c a t p m c t t c s a a S ( E A s c a t t T R S a p e]
+[DELETED:   2  J ( T a o h f t p ( o t t a t 1 T t t a c s b u t f p a l i 2 E ( m o m t ( F a o h f t p ( o t t a a c 1 T t t a c s b u t f p a l i 2 E ( m o m t ( T a s h p ( o t t a c]
+[DELETED:   2  J 1 1 T t t a c s b u t f p a l i 2 E a p i S 1 o t a s h s b u u 2 U s 1 t b m d t e c p ( T n t 1 E f t s s n b u t f t s b a 2 T t m e c o t s b c t p f c 3 E a p i S 1 o t A t o o p ( o a c s b u t p f t t m i f a p u K 1 I t b o t e a t f u 2]
+[DELETED:   2  J U s 1 t b m d t e c p i t s i t t f e a p i S ( N a J 1 F t t a c s b u t f p a l i n b u t f t s b a a p b K 2 T t m e c o t s b c t p f c 3 E c f a p u K 1 I t b o t e t e c p i t s i t t f ( I s t t a]
+[DELETED:   2  J t m i f u t b o t h e a t f u e s m i f s c T p t b c ( S b d b t r s a f e b b ( M w ( S f e ( A e R a e E a p i S 1 o A t c s ( W i f e u K 1 e a a a f l o a l o h p ( a s p s a d b t a a v R A ( s r]
+[DELETED:   2  J f t p ( o a c T d s s c ( E e r t r e t t r s K f n t m t r o K 1 1 1 1 I t r s E c t t r s a f t e p o p b t m a a a t c s b c d c t t m T s o S ( T t f S T b o t m a a t p h i c a t g h a m i f p e f h a m r l]
+[DELETED:   2  J t i p t a t a s e u K 1 M w a s ( o o a r f s s n b e i ( ( T c p s b a s f i t c a t a c n i p w t f a t f t i p e a p b p ( o t s T c h r a b p d c i t h a m h c A a w e d o r y ( s i t m i r u t r p o K 6 m t t d c a i t a p t e p f t d b ( I w b m o t K T R S s c]
+[DELETED:   2  J ( A e f b u t s s b p f t f p u s ( ( T b o t s d t a o h i s a t f a i t m i f a a t f e o s p t w b m b t K T R S f e a T b o t s a s p t w b m b o a a y o s c o e r o a r a M h i s p m b t r s m n e e a a r a o b a p m a b t r s ( 1 T b s e J 1 2 h t a t c r m w a n p t S M P B p a t w I]
+[DELETED:   2  J t p s p t e o t S M P B p t b s p i t p a t t f J J J 2 I s r p S o 3 N l s f r i o t c c w a f ( T c p b t r s t s a d o e r t p ( T b o t s o o a f b h i c p b t r s t t d c o a a r o t a o t d c A c s b c d f p o t s i t c h b]
+[DELETED:   2  J d ( T b o t i e t r t a a t a s t p a p c t a i t f o t h a m i p T b o t i e t p t e f p m b a o a b s T b m p i c t a a t a a r s e a a t i e t p i o a " b o a c o t p ( T b o t m a h i s p t e f h a m i p m b a f t i n K s t o h ( C o c b]
+[DELETED:   2  J ( T b o t i e t p a r t a ( P p f h a m i c p u a o t s s b e f a p t w m o m i f o a t f e b t b f t p ( I K i c f t f f y t t m i p t s e o b]

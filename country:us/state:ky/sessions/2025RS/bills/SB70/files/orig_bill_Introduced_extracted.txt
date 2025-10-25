@@ -1,0 +1,1561 @@
+Title: 1 AN ACT relating to heirs property.
+Official Title: 1 AN ACT relating to heirs property.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 25 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS BR 39
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF KRS CHAPTER 381 IS CREATED TO
+4 READ AS FOLLOWS:
+5 Sections 1 to 13 of this Act may be cited as the Uniform Partition of Heirs Property Act.
+6 SECTION 2. A NEW SECTION OF KRS CHAPTER 381 IS CREATED TO
+7 READ AS FOLLOWS:
+8 As used in Sections 1 to 13 of this Act:
+9 (1) "Ascendant" means an individual who precedes another individual in lineage, in
+10 the direct line of ascent from the other individual;
+11 (2) "Collateral" means an individual who is related to another individual under the
+12 law of intestate succession of this Commonwealth but who is not the other
+13 individual's ascendant or descendant;
+14 (3) "Descendant" means an individual who follows another individual in lineage, in
+15 the direct line of descent from the other individual;
+16 (4) "Determination of value" means a court order determining the fair market value
+17 of heirs property under Section 6 or 10 of this Act or adopting the valuation of
+18 the property agreed to by all cotenants;
+19 (5) "Heirs property" means real property held in tenancy in common which satisfies
+20 all the following requirements of the filing of a partition action:
+21 (a) There is no agreement in a record binding all the cotenants which governs
+22 the partition of the property;
+23 (b) One (1) or more of the cotenants acquired title from a relative, whether
+24 living or deceased; and
+25 (c) Any of the following applies:
+26 1. Twenty percent (20%) or more of the interests are held by cotenants
+27 who are relatives;
+Page 1 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 39
+1 2. Twenty percent (20%) or more of the interests are held by an
+2 individual who acquired title from a relative, whether living or
+3 deceased; or
+4 3. Twenty percent (20%) or more of the cotenants are relatives;
+5 (6) "Partition by sale" means a court-ordered sale of the entire heirs property,
+6 whether by auction, sealed bids, or open-market sale conducted under Section 10
+7 of this Act;
+8 (7) "Partition in kind" means the division of heirs property into physically distinct
+9 and separately titled parcels;
+10 (8) "Record" means information that is inscribed on a tangible medium or that is
+11 stored in an electronic or other medium and is retrievable in perceivable form;
+12 and
+13 (9) "Relative" means ascendant, descendant, or collateral, or an individual
+14 otherwise related to another individual by blood, marriage, adoption, or law of
+15 this Commonwealth other than Sections 1 to 13 of this Act.
+16 SECTION 3. A NEW SECTION OF KRS CHAPTER 381 IS CREATED TO
+17 READ AS FOLLOWS:
+18 (1) Sections 1 to 13 of this Act apply to partition actions filed on or after the effective
+19 date of this Act.
+20 (2) In an action to partition real property under this chapter, the court shall
+21 determine whether the property is heirs property. If the court determines that the
+22 property is heirs property, the property shall be partitioned under Sections 1 to 13
+23 of this Act unless all of the cotenants otherwise agree in a record.
+24 (3) Sections 1 to 13 of this Act supplement other provisions of this chapter and, if an
+25 action is governed by Sections 1 to 13 of this Act, shall replace provisions that are
+26 inconsistent with Sections 1 to 13 of this Act.
+27 SECTION 4. A NEW SECTION OF KRS CHAPTER 381 IS CREATED TO
+Page 2 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 39
+1 READ AS FOLLOWS:
+2 (1) Sections 1 to 13 of this Act do not limit or affect the method by which service of a
+3 complaint in a partition action may be made.
+4 (2) If the plaintiff in a partition action seeks an order of notice by publication and
+5 the court determines that the property may be heirs property, the plaintiff, not
+6 later than ten (10) days after the court's determination, shall post and maintain
+7 while the action is pending a conspicuous sign on the property that is the subject
+8 of the action. The sign shall state that the action has commenced and identify the
+9 name and address of the court and the common designation by which the
+10 property is known. The court may require the plaintiff to publish on the sign the
+11 name of the plaintiff and the known defendants.
+12 SECTION 5. A NEW SECTION OF KRS CHAPTER 381 IS CREATED TO
+13 READ AS FOLLOWS:
+14 If the court appoints commissioners under Section 17 of this Act, each commissioner,
+15 in addition to the requirements and disqualifications applicable to commissioners
+16 under this chapter, shall be disinterested and impartial and not a party to or a
+17 participant in the action.
+18 SECTION 6. A NEW SECTION OF KRS CHAPTER 381 IS CREATED TO
+19 READ AS FOLLOWS:
+20 (1) Except as otherwise provided in subsections (2) and (3) of this section, if the court
+21 determines that the property that is the subject of a partition action is heirs
+22 property, the court shall determine the fair market value of the property by
+23 ordering an appraisal pursuant to subsection (4) of this section.
+24 (2) If all cotenants have agreed to the value of the property or to another method of
+25 valuation, the court shall adopt that value or the value produced by the agreed
+26 method of valuation.
+27 (3) If the court determines that the evidentiary value of an appraisal is outweighed by
+Page 3 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 39
+1 the cost of the appraisal, the court, after an evidentiary hearing, shall determine
+2 the fair market value of the property and send notice to the parties of the value.
+3 (4) If the court orders an appraisal, the court shall appoint a disinterested real estate
+4 appraiser licensed in this Commonwealth to determine the fair market value of
+5 the property assuming sole ownership of the fee simple estate. On completion of
+6 the appraisal, the appraiser shall file a sworn or verified appraisal with the court.
+7 (5) If an appraisal is conducted pursuant to subsection (4) of this section, not later
+8 than ten (10) days after the appraisal is filed, the court shall send notice to each
+9 party with a known address, stating:
+10 (a) The appraised fair market value of the property;
+11 (b) That the appraisal is available at the county property valuation
+12 administrator's office; and
+13 (c) That a party may file with the court an objection to the appraisal not later
+14 than thirty (30) days after the notice is sent, stating the grounds for the
+15 objection.
+16 (6) If an appraisal is filed with the court pursuant to subsection (4) of this section,
+17 the court shall conduct a hearing to determine the fair market value of the
+18 property not sooner than thirty (30) days after a copy of the notice of the
+19 appraisal is sent to each party under subsection (5) of this section, whether or not
+20 an objection to the appraisal is filed under subsection (5)(c) of this section. In
+21 addition to the court-ordered appraisal, the court may consider any other
+22 evidence of value offered by a party.
+23 (7) After a hearing under subsection (6) of this section, but before considering the
+24 merits of the partition action, the court shall determine the fair market value of
+25 the property and send notice to the parties of the value.
+26 SECTION 7. A NEW SECTION OF KRS CHAPTER 381 IS CREATED TO
+27 READ AS FOLLOWS:
+Page 4 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 39
+1 (1) If any cotenant requests partition by sale, after the determination of value under
+2 Section 6 of this Act, the court shall send notice to the parties that any cotenant
+3 except a cotenant that requested partition by sale may buy all the interests of the
+4 cotenants that requested partition by sale.
+5 (2) Not later than forty-five (45) days after the notice is sent under subsection (1) of
+6 this section, any cotenant except a cotenant that requested partition by sale may
+7 give notice to the court that it elects to buy all the interests of the cotenants that
+8 requested partition by sale.
+9 (3) The purchase price for each of the interests of a cotenant that requested partition
+10 by sale is the value of the entire parcel determined under Section 6 of this Act
+11 multiplied by the cotenant's fractional ownership of the entire parcel.
+12 (4) After expiration of the period in subsection (2) of this section, the following rules
+13 apply:
+14 (a) If only one (1) cotenant elects to buy all the interests of the cotenants that
+15 requested partition by sale, the court shall notify all the parties of that fact;
+16 (b) If more than one (1) cotenant elects to buy all the interests of the cotenants
+17 that requested partition by sale, the court shall allocate the right to buy
+18 those interests among the electing cotenants based on each electing
+19 cotenant's existing fractional ownership of the entire parcel divided by the
+20 total existing fractional ownership of all cotenants electing to buy and send
+21 notice to all the parties of that fact and of the price to be paid by each
+22 electing cotenant; and
+23 (c) If no cotenant elects to buy all the interests of the cotenants that requested
+24 partition by sale, the court shall send notice to all the parties of that fact and
+25 resolve the partition action under subsections (1) and (2) of Section 8 of this
+26 Act.
+27 (5) If the court sends notice to the parties under subsection (4)(a) or (b) of this
+Page 5 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 39
+1 section, the court shall set a date, not sooner than sixty (60) days after the date
+2 the notice was sent, by which electing cotenants shall pay their apportioned price
+3 into court. After this date, the following rules apply:
+4 (a) If all electing cotenants timely pay their apportioned price into court, the
+5 court shall issue an order reallocating all the interests of the cotenants and
+6 disburse the amounts held by the court to the persons entitled to them;
+7 (b) If no electing cotenant timely pays its apportioned price, the court shall
+8 resolve the partition action under subsections (1) and (2) of Section 8 of this
+9 Act as if the interests of the cotenants that requested partition by sale were
+10 not purchased; and
+11 (c) If one (1) or more but not all of the electing cotenants fail to pay their
+12 apportioned price on time, the court, on motion, shall give notice to the
+13 electing cotenants that paid their apportioned price of the interest
+14 remaining and the price for all that interest.
+15 (6) Not later than twenty (20) days after the court gives notice pursuant to subsection
+16 (5)(c) of this section, any cotenant that paid may elect to purchase all of the
+17 remaining interest by paying the entire price into court. After the twenty (20) day
+18 period, the following rules apply:
+19 (a) If only one (1) cotenant pays the entire price for the remaining interest, the
+20 court shall issue an order reallocating the remaining interest to that
+21 cotenant. The court shall issue promptly an order reallocating the interests
+22 of all of the cotenants and disburse the amounts held by it to the persons
+23 entitled to them;
+24 (b) If no cotenant pays the entire price for the remaining interest, the court
+25 shall resolve the partition action under subsections (1) and (2) of Section 8
+26 of this Act as if the interests of the cotenants that requested partition by sale
+27 were not purchased; and
+Page 6 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 39
+1 (c) If more than one (1) cotenant pays the entire price for the remaining
+2 interest, the court shall reapportion the remaining interest among those
+3 paying cotenants, based on each paying cotenant's original fractional
+4 ownership of the entire parcel divided by the total original fractional
+5 ownership of all cotenants that paid the entire price for the remaining
+6 interest. The court shall issue promptly an order reallocating all of the
+7 cotenants' interests, disburse the amounts held by it to the persons entitled
+8 to them, and promptly refund any excess payment held by the court.
+9 (7) Not later than forty-five (45) days after the court sends notice to the parties
+10 pursuant to subsection (1) of this section, any cotenant entitled to buy an interest
+11 under this section may request the court to authorize the sale as part of the
+12 pending action of the interests of the cotenants named as defendants and served
+13 with the complaint but that did not appear in the action.
+14 (8) If the court receives a timely request under subsection (7) of this section, the
+15 court, after hearing, may deny the request or authorize the requested additional
+16 sale on such terms as the court determines are fair and reasonable, subject to the
+17 following limitations:
+18 (a) A sale authorized under this subsection may occur only after the purchase
+19 prices for all interests subject to sale under subsections (1) to (6) of this
+20 section have been paid into court and those interests have been reallocated
+21 among the cotenants as provided in those subsections; and
+22 (b) The purchase price for the interest of a nonappearing cotenant is based on
+23 the court's determination of value under Section 6 of this Act.
+24 SECTION 8. A NEW SECTION OF KRS CHAPTER 381 IS CREATED TO
+25 READ AS FOLLOWS:
+26 (1) If all the interests of all cotenants that requested partition by sale are not
+27 purchased by other cotenants pursuant to Section 7 of this Act, or if at the
+Page 7 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 39
+1 conclusion of the buyout under Section 7 of this Act a cotenant remains that has
+2 requested partition in kind, the court shall order partition in kind unless the
+3 court, after consideration of the factors listed in Section 9 of this Act, finds that
+4 partition in kind will result in manifest prejudice to the cotenants as a group. In
+5 considering whether to order partition in kind, the court shall approve a request
+6 by two (2) or more parties to have their individual interests aggregated.
+7 (2) If the court does not partition in kind under subsection (1) of this section, the
+8 court shall order partition by sale pursuant to Section 10 of this Act or, if no
+9 cotenant requested partition by sale, the court shall dismiss the action.
+10 (3) If the court orders partition in kind pursuant to subsection (1) of this section, the
+11 court may require that one (1) or more cotenants pay one (1) or more other
+12 cotenant amounts so that the payments, taken together with the value of the in-
+13 kind distributions to the cotenants, will make the partition in kind just and
+14 proportionate in value to the fractional interests held.
+15 (4) If the court orders partition in kind, the court shall allocate to the cotenants that
+16 are unknown, unable to be located, or the subject of a default judgment, if their
+17 interests were not bought out pursuant to Section 7 of this Act, a part of the
+18 property representing the combined interests of these cotenants as determined by
+19 the court, and this part of the property shall remain undivided.
+20 SECTION 9. A NEW SECTION OF KRS CHAPTER 381 IS CREATED TO
+21 READ AS FOLLOWS:
+22 (1) In determining under subsection (1) of Section 8 of this Act whether the partition
+23 in kind would result in manifest prejudice to the cotenants as a group, the court
+24 shall consider the following:
+25 (a) Whether the heirs property practicably can be divided among the cotenants;
+26 (b) Whether partition in kind would apportion the property in such a way that
+27 the aggregate fair market value of the parcels resulting from the division
+Page 8 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 39
+1 would be materially less than the value of the property if it were sold as a
+2 whole, taking into account the condition under which a court-ordered sale
+3 likely would occur;
+4 (c) Evidence of the collective duration of ownership or possession of the
+5 property by a cotenant and one (1) or more predecessors in title or
+6 predecessors in possession to the cotenant who are or were relatives of the
+7 cotenant or each other;
+8 (d) A cotenant's sentimental attachment to the property, including any
+9 attachment arising because the property has ancestral or other unique or
+10 special value to the cotenant;
+11 (e) The lawful use being made of the property by a cotenant and the degree to
+12 which the cotenant would be harmed if the cotenant could not continue the
+13 same use of the property;
+14 (f) The degree to which the cotenants have contributed their pro rata share of
+15 the property taxes, insurance, and other expenses associated with
+16 maintaining ownership of the property or have contributed to the physical
+17 improvement, maintenance, or upkeep of the property; and
+18 (g) Any other relevant factor.
+19 (2) The court may not consider any one (1) factor in subsection (1) of this section to
+20 be dispositive without weighing the totality of all relevant factors and
+21 circumstances.
+22 SECTION 10. A NEW SECTION OF KRS CHAPTER 381 IS CREATED TO
+23 READ AS FOLLOWS:
+24 (1) If the court orders a sale of heirs property, the sale shall be an open-market sale
+25 unless the court finds that a sale by sealed bids or an auction would be more
+26 economically advantageous and in the best interest of the cotenants as a group.
+27 (2) If the court orders an open-market sale and the parties, not later than ten (10)
+Page 9 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 39
+1 days after the entry of the order, agree on a real estate broker licensed in this
+2 Commonwealth to offer the property for sale, the court shall appoint the broker
+3 and establish a reasonable commission. If the parties do not agree on a broker,
+4 the court shall appoint a disinterested real estate broker licensed in this
+5 Commonwealth to offer the property for sale and shall establish a reasonable
+6 commission. The broker shall offer the property for sale in a commercially
+7 reasonable manner at a price no lower than the determination of value and on
+8 the terms and conditions established by the court.
+9 (3) If the broker appointed under subsection (2) of this section obtains within a
+10 reasonable time an offer to purchase the property for at least the determination of
+11 value:
+12 (a) The broker shall comply with the reporting requirements in Section 11 of
+13 this Act; and
+14 (b) The sale may be completed in accordance with the laws of this
+15 Commonwealth that are not in conflict with Sections 1 to 13 of this Act.
+16 (4) If the broker appointed under subsection (2) of this section does not obtain within
+17 a reasonable time an offer to purchase the property for at least the determination
+18 of value, the court, after hearing, may:
+19 (a) Approve the highest outstanding offer, if any;
+20 (b) Redetermine the value of the property and order that the property continue
+21 to be offered for an additional time; or
+22 (c) Order that the property be sold by sealed bids or at an auction.
+23 (5) If the court orders a sale by sealed bids or an auction, the court shall set terms
+24 and conditions of the sale. If the court orders an auction, the auction shall be
+25 conducted under Section 18 of this Act.
+26 (6) If a purchaser is entitled to a share of the proceeds of the sale, the purchaser
+27 shall be entitled to a credit against the price in an amount equal to the
+Page 10 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 39
+1 purchaser's share of the proceeds.
+2 SECTION 11. A NEW SECTION OF KRS CHAPTER 381 IS CREATED TO
+3 READ AS FOLLOWS:
+4 (1) Unless required to do so within a shorter time by this chapter, a broker appointed
+5 under subsection (2) of Section 10 of this Act to offer heirs property for open-
+6 market sale shall file a report with the court not later than seven (7) days after
+7 receiving an offer to purchase the property for at least the value determined
+8 under Section 6 or 10 of this Act.
+9 (2) The report required by subsection (1) of this section shall contain the following
+10 information:
+11 (a) A description of the property to be sold to each buyer;
+12 (b) The name of each buyer;
+13 (c) The proposed purchase price;
+14 (d) The terms and conditions of the proposed sale, including the terms of any
+15 owner financing;
+16 (e) The amounts to be paid to lienholders;
+17 (f) A statement of contractual or other arrangements or conditions of the
+18 broker's commission; and
+19 (g) Other material facts relevant to the sale.
+20 SECTION 12. A NEW SECTION OF KRS CHAPTER 381 IS CREATED TO
+21 READ AS FOLLOWS:
+22 In applying and construing the Uniform Partition of Heirs Property Act, Sections 1 to
+23 13 of this Act, consideration shall be given to the need to promote uniformity of the law
+24 with respect to its subject matter among states that enact it.
+25 SECTION 13. A NEW SECTION OF KRS CHAPTER 381 IS CREATED TO
+26 READ AS FOLLOWS:
+27 The Uniform Partition of Heirs Property Act, Sections 1 to 13 of this Act, modifies,
+Page 11 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 39
+1 limits, and supersedes the Electronic Signatures in Global and National Commerce
+2 Act, 15 U.S.C. sec. 7001 et seq., but does not modify, limit, or supersede Section 101(c)
+3 of that act, 15 U.S.C. sec. 7001(c), or authorize electronic delivery of any of the notices
+4 described in Section 103(b) of that act, 15 U.S.C. sec. 7003(b).
+5 SECTION 14. A NEW SECTION OF KRS CHAPTER 381 IS CREATED TO
+6 READ AS FOLLOWS:
+7 (1) The heirs property research fund is created in the State Treasury as a restricted
+8 fund. The restricted fund shall consist of moneys deposited pursuant to Section
+9 15 of this Act. The Kentucky Real Estate Authority created by Section 16 of this
+10 Act shall administer the fund.
+11 (2) Notwithstanding KRS 45.229, any moneys remaining in the fund at the close of
+12 the fiscal year shall not lapse but shall be carried forward into the succeeding
+13 fiscal year to be used for the purposes set forth in subsection (3) of this section.
+14 (3) The funds deposited into the heirs property research fund shall be made available
+15 to residents of Kentucky, upon application, in the form of a one-time grant of up
+16 to two thousand dollars ($2,000). Grant funds shall be used to assist applicants in
+17 conducting research into their family history, specifically relating to
+18 identification, evaluation, preservation, partition, or sale of heirs property. Grant
+19 funds shall only be used to:
+20 (a) Conduct genealogical research;
+21 (b) Conduct a property title search;
+22 (c) Order a property appraisal;
+23 (d) Order a property survey;
+24 (e) Consult a real estate attorney; or
+25 (f) Engage any other professional service or resource reasonably related to
+26 identifying, evaluating, preserving, partitioning, or selling heirs property.
+27 (4) The Kentucky Real Estate Authority shall prescribe, through administrative
+Page 12 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 39
+1 regulations promulgated in accordance with KRS Chapter 13A, and make
+2 available on its website, an application process and eligibility criteria for grants.
+3 Applications for grants shall be approved based on a showing of financial need.
+4 Section 15. KRS 64.012 is amended to read as follows:
+5 (1) The county clerk shall receive for the following services the following fees:
+6 (a) 1. Recording and indexing of a:
+7 a. Deed of trust or assignment for the benefit of creditors;
+8 b. Deed;
+9 c. Deed of assignment;
+10 d. File-stamped copy of documents set forth in KRS 14A.2-040(1) or
+11 (2) that have been filed first with the Secretary of State;
+12 e. Real estate option;
+13 f. Power of attorney;
+14 g. Revocation of power of attorney;
+15 h. Lease which is recordable by law;
+16 i. Deed of release of a mortgage or lien under KRS 382.360;
+17 j. United States lien;
+18 k. Release of a United States lien;
+19 l. Release of any recorded encumbrance other than state liens;
+20 m. Lis pendens notice concerning proceedings in bankruptcy;
+21 n. Lis pendens notice;
+22 o. Mechanic's and artisan's lien under KRS Chapter 376;
+23 p. Assumed name;
+24 q. Notice of lien issued by the Internal Revenue Service;
+25 r. Notice of lien discharge issued by the Internal Revenue Service;
+26 s. Original, assignment, amendment, or continuation financing
+27 statement;
+Page 13 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 39
+1 t. Making a record for the establishment of a city, recording the plan
+2 or plat thereof, and all other service incident;
+3 u. Survey of a city, or any part thereof, or any addition to or
+4 extensions of the boundary of a city;
+5 v. Recording with statutory authority for which no specific fee is set,
+6 except a military discharge;
+7 w. Will or other probate document pursuant to KRS Chapter 392 or
+8 394;
+9 x. Court ordered name change pursuant to KRS Chapter 401;
+10 y. Land use restriction according to KRS 100.3681; and
+11 z. Filing with statutory authority for which no specific fee is set.
+12 For all items in this subsection if the entire thereof does not exceed
+13 five (5) pages ........................................................... $34.00[$33.00]
+14 And, for all items in this subsection exceeding five (5) pages,
+15 for each additional page ..........................................................$3.00
+16 And, for all items in this subsection for each additional reference
+17 relating to same instrument .....................................................$4.00
+18 2. The thirty-four[thirty-three] dollar ($34)[($33)] fee imposed by this
+19 subsection shall be divided as follows:
+20 a. Twenty-seven dollars ($27) shall be retained by the county clerk;
+21 [and]
+22 b. Six dollars ($6) shall be paid to the affordable housing trust fund
+23 established in KRS 198A.710 and shall be remitted by the county
+24 clerk within ten (10) days following the end of the quarter in
+25 which the fee was received. Each remittance to the affordable
+26 housing trust fund shall be accompanied by a summary report on a
+27 form prescribed by the Kentucky Housing Corporation; and
+Page 14 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 39
+1 c. One dollar ($1) shall be paid to the heirs property research fund
+2 established in Section 14 of this Act and shall be remitted by the
+3 county clerk within ten (10) days following the end of the quarter
+4 in which the fee was received. Each remittance to the heirs
+5 property research fund shall be accompanied by a summary
+6 report on a form prescribed by the Kentucky Real Estate
+7 Authority.
+8 (b) For noting a security interest on a certificate of title pursuant to
+9 KRS Chapter 186A ..................................................................................$12.00
+10 (c) For filing the release of collateral under a financing statement
+11 and noting same upon the face of the title pursuant to KRS Chapter
+12 186 or 186A ...............................................................................................$5.00
+13 (d) Filing or recording state tax or other state liens ........................................$5.00
+14 (e) Filing release of a state tax or other state lien ...........................................$5.00
+15 (f) Acknowledging or notarizing any deed, mortgage, power of attorney,
+16 or other written instrument required by law for recording and certifying
+17 same ..................................... ......................................................................$5.00
+18 (g) Recording plats, maps, and surveys, not exceeding 24 inches by
+19 36 inches, per page ..................................................................................$40.00
+20 (h) Recording a bond, for each bond .............................................................$10.00
+21 (i) Each bond required to be taken or prepared by the clerk ..........................$4.00
+22 (j) Copy of any bond when ordered ................................................................$3.00
+23 (k) Administering an oath and certificate thereof ...........................................$5.00
+24 (l) Issuing a license for which no other fee is fixed by law ............................$8.00
+25 (m) Issuing a solicitor's license ......................................................................$15.00
+26 (n) Marriage license, indexing, recording, and issuing certificate thereof ....$26.50
+27 (o) Every order concerning the establishment, changing, closing, or
+Page 15 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 39
+1 discontinuing of roads, to be paid out of the county levy when
+2 the road is established, changed, closed, or discontinued, and by
+3 the applicant when it is not ...............................................................$3.00
+4 (p) Registration of licenses for professional persons required to register
+5 with the county clerk ......................................................................$10.00
+6 (q) Certified copy of any record ......................................................................$5.00
+7 Plus fifty cents ($.50) per page after three (3) pages
+8 (r) Filing certification required by KRS 65.070(2)(a) ....................................$5.00
+9 (s) Filing notification and declaration and petition of candidates
+10 for Commonwealth's attorney ........................................................$200.00
+11 (t) Filing notification and declaration and petition of candidates for county
+12 and independent boards of education .............................................$20.00
+13 (u) Filing notification and declaration and petition of candidates for
+14 boards of soil and water conservation districts ...............................$20.00
+15 (v) Filing notification and declaration and petition of candidates for
+16 other office ......................................................................................$50.00
+17 (w) Filing declaration of intent to be a write-in candidate for office ..............$50.00
+18 (x) Filing petitions for elections, other than nominating petitions ................$50.00
+19 (y) Notarizing any signature, per signature .....................................................$2.00
+20 (z) Filing bond for receiving bodies under KRS 311.310 .............................$10.00
+21 (aa) Noting the assignment of a certificate of delinquency and recording
+22 and indexing the encumbrance under KRS 134.126 or 134.127 .............$27.00
+23 (ab) Filing a going-out-of-business permit under KRS 365.445 .....................$50.00
+24 (ac) Filing a renewal of a going-out-of-business permit under KRS 365.445 $50.00
+25 (ad) Filing and processing a transient merchant permit under KRS 365.680 .$25.00
+26 (ae) Recording and indexing a real estate mortgage:
+27 1. For a mortgage that does not exceed thirty (30) pages ....................$63.00
+Page 16 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 39
+1 2. And, for a mortgage that exceeds thirty (30) pages, for each additional
+2 page .........................................................................................$3.00
+3 (af) Filing or recording a lien or release of lien by a consolidated local
+4 government, urban-county government, unified local government, or city of
+5 any class ................................................................................................$20.00
+6 (2) The sixty-three dollar ($63) fee imposed by subsection (1)(ae) of this section shall
+7 be divided as follows:
+8 (a) Fifty-seven dollars ($57) shall be retained by the county clerk; and
+9 (b) Six dollars ($6) shall be paid to the affordable housing trust fund established
+10 in KRS 198A.710 and shall be remitted by the county clerk within ten (10)
+11 days following the end of the quarter in which the fee was received. Each
+12 remittance to the affordable housing trust fund shall be accompanied by a
+13 summary report on a form prescribed by the Kentucky Housing Corporation.
+14 (3) (a) For services related to the permanent storage of records listed in paragraphs
+15 (a), (g), (n), and (ae) of subsection (1) of this section, the clerk shall be
+16 entitled to receive a reimbursement of ten dollars ($10).
+17 (b) In counties or a county containing an urban-county government, charter
+18 county government, or unified local government:
+19 1. This fee shall:
+20 a. Not be paid annually to the fiscal court under KRS 64.152;
+21 b. Not be paid to the Finance and Administration Cabinet under KRS
+22 64.345;
+23 c. Be accumulated and transferred to the fiscal court or the legislative
+24 body of an urban-county government on a monthly basis within
+25 ten (10) days following the end of the month;
+26 d. Be maintained by the fiscal court or the legislative body of an
+27 urban-county government in a separate bank account and
+Page 17 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 39
+1 accounted for in a separate fund; and
+2 e. Not lapse to the general fund of the county or urban-county
+3 government.
+4 2. The moneys accumulated from this fee shall be held in perpetuity by the
+5 fiscal court or the legislative body of an urban-county government for
+6 the county clerk's exclusive use for:
+7 a. Equipment related to the permanent storage of and access to
+8 records, including deed books, binders, shelves, microfilm
+9 equipment, and fireproof equipment;
+10 b. Hardware for the permanent storage of and access to records,
+11 including computers, servers, and scanners;
+12 c. Software for the permanent storage of and access to records,
+13 including vendor services and consumer subscription fees;
+14 d. Personnel costs for the permanent storage of and access to records,
+15 including overtime costs for personnel involved in the digitization
+16 of records; and
+17 e. Cloud storage and cybersecurity services for the permanent storage
+18 of and access to records.
+19 3. Notwithstanding KRS 68.275, claims by a county clerk that are for the
+20 approved expenditures in subparagraph 2. of this paragraph shall be paid
+21 by the county judge/executive or the chief executive officer of an urban-
+22 county government by a warrant drawn on the fund and co-signed by the
+23 treasurer of the county or urban-county government.
+24 4. No later than July 1 of each year, each county fiscal court or legislative
+25 body of an urban-county government shall submit a report to the
+26 Legislative Research Commission detailing the receipts, expenditures,
+27 and any amounts remaining in the fund.
+Page 18 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 39
+1 (c) In a county containing a consolidated local government:
+2 1. The fee shall not:
+3 a. Be paid to the Finance and Administration Cabinet under KRS
+4 64.345; or
+5 b. Lapse to the general fund of the consolidated local government.
+6 2. The moneys accumulated from this fee shall be held in perpetuity by the
+7 county clerk in a separate fund to be used exclusively for:
+8 a. Equipment related to the permanent storage of and access to
+9 records, including deed books, binders, shelves, microfilm
+10 equipment, and fireproof equipment;
+11 b. Hardware for the permanent storage of and access to records,
+12 including computers, servers, and scanners;
+13 c. Software for the permanent storage of and access to records,
+14 including vendor services and consumer subscription fees;
+15 d. Personnel costs for the permanent storage of and access to records,
+16 including overtime costs for personnel involved in the digitization
+17 of records; and
+18 e. Cloud storage and cybersecurity services for the permanent storage
+19 of and access to records.
+20 3. No later than July 1 of each year, the county clerk shall submit a report
+21 to the consolidated local government and the Legislative Research
+22 Commission detailing the receipts, expenditures, and any amounts
+23 remaining in the fund.
+24 Section 16. KRS 324B.050 is amended to read as follows:
+25 (1) The Kentucky Real Estate Authority is hereby created within the Department of
+26 Professional Licensing.
+27 (2) The authority shall be managed by an executive director, who shall be appointed by
+Page 19 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 39
+1 the secretary of the Public Protection Cabinet with prior written approval from the
+2 Governor. The executive director shall be exempted from the classified service.
+3 (3) The authority shall have the power and authority to:
+4 (a) Provide appropriate attorneys, personnel staffing, and administrative support
+5 to the Kentucky Real Estate Commission;
+6 (b) Establish and maintain an office, meeting space, office supplies, furniture,
+7 storage space, and any other supplies that are necessary to carry out the duties
+8 of the authority and the Kentucky Real Estate Commission;
+9 (c) Make available for public inspection all decisions, opinions, and
+10 interpretations formulated or used by the authority and the Kentucky Real
+11 Estate Commission in discharging its functions;
+12 (d) Publicize the functions and purposes of the authority and the Kentucky Real
+13 Estate Commission;
+14 (e) Employ an administrative coordinator who shall carry out the administrative
+15 functions and day-to-day operations of the Kentucky Real Estate Commission.
+16 The administrative coordinator shall be exempted from the classified service[;
+17 and]
+18 (f) Enter into agreements with any state agency, political subdivision of the state,
+19 postsecondary education institution, or other person or entity to assist with
+20 implementation of the duties and responsibilities of the authority or, upon
+21 request, the Kentucky Real Estate Commission; and
+22 (g) Promulgate administrative regulations to:
+23 1. Prescribe forms for the submission of each remittance by a county
+24 clerk to the heirs property research fund; and
+25 2. Create and administer an application process for grants from the heirs
+26 property research fund and issue grants from the fund;
+27 as required under Section 14 of this Act.
+Page 20 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 39
+1 Section 17. KRS 381.135 is amended to read as follows:
+2 (1) (a) As used in this subsection:
+3 1. "Ownership interest in a closely held farm corporation or partnership"
+4 means any interest in a farm with one (1) or more of the shareholders or
+5 partners owning twenty percent (20%) or more of the corporation or
+6 partnership.
+7 2. "Farm" means a tract of at least five (5) contiguous acres used for the
+8 production of agricultural or horticultural crops including, but not
+9 limited to, livestock, livestock products, poultry, poultry products, grain,
+10 hay, pastures, soybeans, tobacco, timber, orchard fruits, vegetables,
+11 flowers, or ornamental plants, including provision for dwellings for
+12 persons and their families who are engaged in the above agricultural use
+13 on the tract, but not including residential building development for sale
+14 or lease to the public.
+15 (b) A person desiring a division of land held jointly with others, a person desiring
+16 an allotment of dower or curtesy, or a person with an ownership interest of
+17 twenty percent (20%) or more in a closely held farm corporation or
+18 partnership may file in the Circuit Court of the county in which the land or the
+19 greater part thereof lies a petition containing a description of the land, a
+20 statement of the names of those having an interest in it, and the amount of
+21 such interest, with a prayer for the division or allotment; and, thereupon, all
+22 persons interested in the property who have not united in the petition shall be
+23 summoned to answer not more than twenty (20) days after service of the
+24 summons. The written evidences of the title to the land, or copies thereof, if
+25 there be any, must be filed with the petition.
+26 (2) The statutory guardian of an infant or guardian or conservator of a person adjudged
+27 mentally disabled may file or unite in the petition, in the names of, and in
+Page 21 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 39
+1 conjunction with such infant or mentally disabled person; and, if the petition be
+2 against an infant or mentally disabled person the guardian or conservator may
+3 appear and defend for them; if they fail to do so, the court shall appoint a discreet
+4 person for that purpose.
+5 (3) Upon such a petition by all interested in the property, or upon the expiration of
+6 twenty (20) days after the service of a summons on all who have an interest in the
+7 property and have not united in the petition, the court may order the division, or
+8 allotment of dower or curtesy, according to the rights of the parties, except that if
+9 the court determines that the property is heirs property under the Uniform
+10 Partition of Heirs Property Act, then the partition or sale shall comply with
+11 Sections 1 to 13 of this Act.
+12 (4) The court shall appoint three (3) competent persons as commissioners to determine
+13 the division or allotment of land, having a due regard for the rights of all parties
+14 interested. Before proceeding to act, the commissioners shall take an oath to
+15 discharge their duty impartially.
+16 (5) The order of appointment shall fix a time and place for the meeting of the
+17 commissioners who shall meet accordingly; but, if prevented from meeting at the
+18 time and place so fixed, they may meet as soon thereafter as convenient, and may
+19 adjourn to such other time and place as they may agree upon, until their duty shall
+20 be performed.
+21 (6) The commissioners shall equitably determine the allotment to the parties of their
+22 respective interests in the land. A registered land surveyor shall perform the actual
+23 survey of the land in accordance with the determination made by the
+24 commissioners, and prepare the descriptions of the land, including all related maps,
+25 plats, and documents, and he or she shall affix thereto his or her personal seal and
+26 signature, unless such actual survey and the resultant description, maps, plats, and
+27 documents pertaining to this land are already in existence. The commissioners shall
+Page 22 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 39
+1 make report thereof to the court, which may either confirm, set aside, or remand the
+2 report to the commissioners for correction.
+3 (7) If the report be confirmed, a commissioner to be appointed for the purpose shall, by
+4 deed, convey to each party the land allotted to him.
+5 (8) If the report be confirmed by the Circuit Court, it, together with said surveyor's
+6 descriptions, survey and all related documents, and the applicable deeds shall be
+7 certified by the clerk of that court to the county clerk, for record.
+8 (9) Two (2) of the commissioners may act, if one (1) refuses or fails to do so.
+9 (10) A party summoned may, by answer, controvert the allegations of the petition or
+10 contest the rights claimed therein; and, thereupon, the case shall be tried and
+11 decided as an ordinary action, but without the intervention of a jury.
+12 (11) The costs of the action shall be apportioned among the parties in the ratio of their
+13 interests, except that the costs arising from a contest of fact or law shall be adjudged
+14 against the unsuccessful party.
+15 (12) No verification of the pleadings shall be required.
+16 (13) The commissioners and the land surveyor shall be paid a reasonable compensation,
+17 to be taxed as costs.
+18 (14) This section shall not affect the jurisdiction of courts of equity to make partition or
+19 allot dower or curtesy.
+20 Section 18. KRS 389A.030 is amended to read as follows:
+21 (1) (a) When two (2) or more persons other than tenants by the entirety in residential
+22 property actually occupied by them as a principal residence share title to real
+23 estate in such manner that a conveyance by them jointly would pass a fee
+24 simple title, any one (1) or more of them may bring an action for the sale or
+25 division thereof in the Circuit Court of the county in which the land, or the
+26 greater part thereof, lies, making parties defendant those owners who have not
+27 joined as plaintiffs. A fiduciary possessing a power of sale may institute such
+Page 23 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 39
+1 an action against owners of interests not represented by him. Defendant
+2 owners shall be brought before the court in the manner provided by the civil
+3 rules whether or not a fiduciary possesses a power of sale of the defendant's
+4 interest, but any fiduciary possessing such a power shall also be made a
+5 defendant. The case shall be tried without a jury.
+6 (b) This subsection shall not apply to property that the court determines is heirs
+7 property under the Uniform Partition of Heirs Property Act. If the property
+8 is heirs property, then the partition or sale shall comply with Sections 1 to
+9 13 of this Act.
+10 (2) A defendant who is under disability and for whom no fiduciary is acting shall be
+11 represented in the action by a guardian ad litem, but in the event of sale of such
+12 defendant's interest the court shall retain control of the proceeds of such interest
+13 until a duly appointed and adequately bonded fiduciary or custodian pursuant to a
+14 court order makes claim to the funds.
+15 (3) In all such actions indivisibility of the real estate shall be presumed unless an issue
+16 in respect thereto is raised by the pleading of any party, and if the court is satisfied
+17 from the evidence that the property is divisible, without materially impairing the
+18 value of any interest therein, division thereof pursuant to KRS 381.135 shall be
+19 ordered.
+20 (4) If a sale of all or any part of the real estate shall be ordered, the court shall refer the
+21 matter to the master commissioner or appoint a commissioner to conduct a public
+22 sale and convey the property upon terms of sale and disposition of the net proceeds
+23 as may have been determined by the court.
+24 (5) The death of any party pending the action and prior to distribution of the proceeds
+25 of sale or setting apart a divisible share shall not affect the action but the court may
+26 direct distribution or apportionment to the successors in interest of the decedent
+27 upon application therefor.
+Page 24 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 39
+1 (6) If the interest of any party be one for life, or other term, in any portion of the real
+2 estate, the court shall determine the value of such interest and direct that such party
+3 receive a portion of the net sale proceeds or portion of the property if divisible, in
+4 fee in satisfaction of such interest, but if any party to the action objects to such
+5 procedure, and if the court finds that such procedure would defeat the objects and
+6 purpose of a person not a party to the action, such as a testator, grantor or settlor,
+7 but that sale or division is nevertheless desirable, the court shall order that the
+8 interest of the life or term tenant shall continue as to his or her portion of the real
+9 estate or the net proceeds of the sale thereof, in the latter case by directing that the
+10 funds derived from the sale of that portion of the real estate in which the life or term
+11 interest existed be paid to a trustee, appointed by and accountable to the District
+12 Court, for reinvestment and distribution of income and principal in a manner
+13 consistent with the instrument under which the life or term estate was created.
+Page 25 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+[DELETED:   2  J A B S R S S R A ( " t ( " l o i s o t C b w i n t o i ( " t ( " o t ( " a ( T t ( O ( o m o t c a t f a r w l ( A 1 T w]
+[DELETED:   2  J 2 T p ( o m o t i a h b a i w a t f a r w l o d 3 T ( " b s m a c s o t e h p w o ( " a ( " s a ( " m a d o c o a i o t S R ( S d ( I a a t p r p u t c t c s d p o ( S a i S]
+[DELETED:   2  J R ( S c ( I t l w o n a a o t c a t c d b w t p n S R I i a t t r a d a t c u t c s b d a i a n a p t o a p S R ( E d t t p t i t s o a p a i h p t c s d t f m v o t p b o ( I v m ( I]
+[DELETED:   2  J t t ( I a t t ( I t p ( T ( T t a i a a t c p v a ( T t t ( d a t n i s s t g f t o ( I t c s c a h t d t f m v o t p n s t t ( d a a c o t n o t a a a t t c a t c m c a o e ( A m t S R]
+[DELETED:   2  J ( I S e c ( N t g r ( T b m ( A a ( I r ( I t r p b s t c s a t r t b t i a t e c b o e e c t n t a t p o t f a o t p t b p b e e ( I p r A ( I t c s n t t p u s ( o ( o t]
+[DELETED:   2  J s t i ( I c d ( I n e c t p i a p t c s r A n ( I o ( o m b n a o t e c f t p t a p o t t c o m s g n t t e c t p t a p o t i r ( N ( o t s a c t p m e t p a o t r p ( I c s i a o r t r i t t c o e ( I n c p t e p f t r i t c s o w]
+[DELETED:   2  J ( I m t o ( c p t e p f t r i t c s r t r i a t p c b o e p c o f o o t e p d b t t o f o o a c t p t e p f t r i T c s i p a o r a o t c t ( N l t f ( d a t c s n t t p p u t s m r t c t a t s a p o t p w ( I t c r a t r u s ( o t s t c s f ( A p s a ( T t S R ( I a t i o a c t r p b s a n p b o c p t S 7 o t A o i a t]
+[DELETED:   2  J c r p i k t c s o p i k u t c p c b ( I c c ( I c m r t o ( o m c p o ( o m o c k d t t c w m t p i k j a p ( I a i w n b o p t S 7 o t A a p o t p t S R ( I i s ( W ( W t]
+[DELETED:   2  J w w l ( E o t c d o o o p o t p b a c a o ( o m p i t o p c ( A c s a t t p i a a s ( T w s ( T t p t i a o e a w m i ( A ( T b d w w t t o a r f a c S R ( I u e ( I]
+[DELETED:   2  J d C a t c s a a d r e b l i t C t o t p f s a s e a r c T b s o t p f s i a c r t ( I t b a u s ( o t s o w a r v ( T t ( T s m b c i a w t l o t C ( I a o ( A ( R t ( O ( I a c ( I s b e t a c a t p i a a e t t]
+[DELETED:   2  J p S R ( U u m r a o t p t p f a l t v d u ( T i ( A ( T ( T ( T o ( T ( A s o c o o a o c o t b ( O S R I 1 w S R T]
+[DELETED:   2  J l a s t E S i G a N C A o d S R ( T f 1 A ( N t f ( T t t c r i t f h s r t i f ( C ( C ( O ( O ( C ( E a o p s o r r r t i ( T K R E A s p t a]
+[DELETED:   2  J r p i a w K C 1 a m a A S ( T ( 1 R a D b D c D d F ( e R f P g R h L i D j U k R l R m L n L o M p A q N r N s O a a o c f s]
+[DELETED:   2  J t M o u S o a c o a p t o a a t o e v R e w W 3 x C y L z F  F  f  A  f  A  r 2 T t d ( f i b t s a T [ b S e c w t ( d f t e o t q i w t f w r E r t t a h f]
+[DELETED:   2  J c O e c i w t f w r E r t t h p r f s b a b a s r o a f p b t K R E A ( F  K ( F  a  1 ( F ( F ( A  o  s ( R  3 ( R ( E ( C ( A ( I ( I ( M ( E]
+[DELETED:   2  J   d   t   t ( R   w ( C   P ( F ( F   f ( F   a ( F   b ( F   o ( F ( F ( N ( F ( N  a ( F ( F ( F ( R 1 F]
+[DELETED:   2  J 2 A p   ( F o r a l o r o l b a c l g a . ( T b ( F ( S i d t r t t a h t f s b a b a s ( ( F ( ( ( a ( o s ( o t s t c s b e ( I c o a c c a u g c c 1 T a N b N 6 c B b t d B m b t f c o t l b o a u g i a s b a a]
+[DELETED:   2  J a e N l t t g f o t c o u g 2 T f t a E r t t p s o a a t r i d b b s m e b H f t p s o a a t r i c S f t p s o a a t r i d P i o e C o 3 N a b c t 4 N b o a u g s s a r t t L R C d t r e a]
+[DELETED:   2  J ( I 1 T a B p t t F a A C u K 6 b L 2 T c a E r t t p s o a a t r i d b b s m e b H f t p s o a a t r i c S f t p s o a a t r i d P i o e C o 3 N t t c l g a t L R C d t r e a a a r S ( T P ( T]
+[DELETED:   2  J t G ( T ( P t ( E a m a o m s o s f s o ( M a f p i a d o a i f o u b t a a t K R E ( P E ( E f T a ( E p a w i o t d a r o t a o u r ( P 1 P f f t s o e r b a c c 2 C p a]
+[DELETED:   2  J S ( ( A 1 " m p o t p ( o m o t c o p 2 " p o a o h c i b n l h p s t t o f v f o o p i p f d f p o o ( A a t p ( o m i a c h f c o p g p t l a p c a d o t l a s s p s t a n m t t ( d a s o t s t ( T m d m f o u i t p i t n o a i]
+[DELETED:   2  J c a a i o m d p t g o c m a p ( U t p a t c d t t p i h p u t U P o H P A t t p o s s c w S ( T t i B p t a t c s t a o t d ( T o o a s f a t a p f t m o t c t a b ( T r s o t l i a w t d m b t c p s d]
+[DELETED:   2  J m r ( I d ( I d c ( T ( A c t r c t a t t c s b t a d ( T i a ( N ( T t ( T a S ( ( W p e i s m a c b t j w p a f s d g j]
+[DELETED:   2  J a a a o o i n r b h D o r i b a f p s a p s a b m a d ( T p i 1 ( A r d u c ( I i f v o i t d t t K 3 s b o ( I m s a ( T o d d o t t s i i o d u]
+[DELETED:   2  J ( I e r f p p b t s o d i n d t c s o t t i e f i C f r a d o i a p i a m c]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS BR 39
+1 AN ACT relating to heirs property.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 SECTION 1. A NEW SECTION OF KRS CHAPTER 381 IS CREATED TO
+4 READ AS FOLLOWS:
+5 Sections 1 to 13 of this Act may be cited as the Uniform Partition of Heirs Property Act.
+6 SECTION 2. A NEW SECTION OF KRS CHAPTER 381 IS CREATED TO
+7 READ AS FOLLOWS:
+8 As used in Sections 1 to 13 of this Act:
+9 (1) "Ascendant" means an individual who precedes another individual in lineage, in
+10 the direct line of ascent from the other individual;
+11 (2) "Collateral" means an individual who is related to another individual under the
+12 law of intestate succession of this Commonwealth but who is not the other
+13 individual's ascendant or descendant;
+14 (3) "Descendant" means an individual who follows another individual in lineage, in
+15 the direct line of descent from the other individual;
+16 (4) "Determination of value" means a court order determining the fair market value
+17 of heirs property under Section 6 or 10 of this Act or adopting the valuation of
+18 the property agreed to by all cotenants;
+19 (5) "Heirs property" means real property held in tenancy in common which satisfies
+20 all the following requirements of the filing of a partition action:
+21 (a) There is no agreement in a record binding all the cotenants which governs
+22 the partition of the property;
+23 (b) One (1) or more of the cotenants acquired title from a relative, whether
+24 living or deceased; and
+25 (c) Any of the following applies:
+26 1. Twenty percent (20%) or more of the interests are held by cotenants
+27 who are relatives;
+Page 1 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 39
+1 2. Twenty percent (20%) or more of the interests are held by an
+2 individual who acquired title from a relative, whether living or
+3 deceased; or
+4 3. Twenty percent (20%) or more of the cotenants are relatives;
+5 (6) "Partition by sale" means a court-ordered sale of the entire heirs property,
+6 whether by auction, sealed bids, or open-market sale conducted under Section 10
+7 of this Act;
+8 (7) "Partition in kind" means the division of heirs property into physically distinct
+9 and separately titled parcels;
+10 (8) "Record" means information that is inscribed on a tangible medium or that is
+11 stored in an electronic or other medium and is retrievable in perceivable form;
+12 and
+13 (9) "Relative" means ascendant, descendant, or collateral, or an individual
+14 otherwise related to another individual by blood, marriage, adoption, or law of
+15 this Commonwealth other than Sections 1 to 13 of this Act.
+16 SECTION 3. A NEW SECTION OF KRS CHAPTER 381 IS CREATED TO
+17 READ AS FOLLOWS:
+18 (1) Sections 1 to 13 of this Act apply to partition actions filed on or after the effective
+19 date of this Act.
+20 (2) In an action to partition real property under this chapter, the court shall
+21 determine whether the property is heirs property. If the court determines that the
+22 property is heirs property, the property shall be partitioned under Sections 1 to 13
+23 of this Act unless all of the cotenants otherwise agree in a record.
+24 (3) Sections 1 to 13 of this Act supplement other provisions of this chapter and, if an
+25 action is governed by Sections 1 to 13 of this Act, shall replace provisions that are
+26 inconsistent with Sections 1 to 13 of this Act.
+27 SECTION 4. A NEW SECTION OF KRS CHAPTER 381 IS CREATED TO
+Page 2 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 39
+1 READ AS FOLLOWS:
+2 (1) Sections 1 to 13 of this Act do not limit or affect the method by which service of a
+3 complaint in a partition action may be made.
+4 (2) If the plaintiff in a partition action seeks an order of notice by publication and
+5 the court determines that the property may be heirs property, the plaintiff, not
+6 later than ten (10) days after the court's determination, shall post and maintain
+7 while the action is pending a conspicuous sign on the property that is the subject
+8 of the action. The sign shall state that the action has commenced and identify the
+9 name and address of the court and the common designation by which the
+10 property is known. The court may require the plaintiff to publish on the sign the
+11 name of the plaintiff and the known defendants.
+12 SECTION 5. A NEW SECTION OF KRS CHAPTER 381 IS CREATED TO
+13 READ AS FOLLOWS:
+14 If the court appoints commissioners under Section 17 of this Act, each commissioner,
+15 in addition to the requirements and disqualifications applicable to commissioners
+16 under this chapter, shall be disinterested and impartial and not a party to or a
+17 participant in the action.
+18 SECTION 6. A NEW SECTION OF KRS CHAPTER 381 IS CREATED TO
+19 READ AS FOLLOWS:
+20 (1) Except as otherwise provided in subsections (2) and (3) of this section, if the court
+21 determines that the property that is the subject of a partition action is heirs
+22 property, the court shall determine the fair market value of the property by
+23 ordering an appraisal pursuant to subsection (4) of this section.
+24 (2) If all cotenants have agreed to the value of the property or to another method of
+25 valuation, the court shall adopt that value or the value produced by the agreed
+26 method of valuation.
+27 (3) If the court determines that the evidentiary value of an appraisal is outweighed by
+Page 3 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 39
+1 the cost of the appraisal, the court, after an evidentiary hearing, shall determine
+2 the fair market value of the property and send notice to the parties of the value.
+3 (4) If the court orders an appraisal, the court shall appoint a disinterested real estate
+4 appraiser licensed in this Commonwealth to determine the fair market value of
+5 the property assuming sole ownership of the fee simple estate. On completion of
+6 the appraisal, the appraiser shall file a sworn or verified appraisal with the court.
+7 (5) If an appraisal is conducted pursuant to subsection (4) of this section, not later
+8 than ten (10) days after the appraisal is filed, the court shall send notice to each
+9 party with a known address, stating:
+10 (a) The appraised fair market value of the property;
+11 (b) That the appraisal is available at the county property valuation
+12 administrator's office; and
+13 (c) That a party may file with the court an objection to the appraisal not later
+14 than thirty (30) days after the notice is sent, stating the grounds for the
+15 objection.
+16 (6) If an appraisal is filed with the court pursuant to subsection (4) of this section,
+17 the court shall conduct a hearing to determine the fair market value of the
+18 property not sooner than thirty (30) days after a copy of the notice of the
+19 appraisal is sent to each party under subsection (5) of this section, whether or not
+20 an objection to the appraisal is filed under subsection (5)(c) of this section. In
+21 addition to the court-ordered appraisal, the court may consider any other
+22 evidence of value offered by a party.
+23 (7) After a hearing under subsection (6) of this section, but before considering the
+24 merits of the partition action, the court shall determine the fair market value of
+25 the property and send notice to the parties of the value.
+26 SECTION 7. A NEW SECTION OF KRS CHAPTER 381 IS CREATED TO
+27 READ AS FOLLOWS:
+Page 4 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 39
+1 (1) If any cotenant requests partition by sale, after the determination of value under
+2 Section 6 of this Act, the court shall send notice to the parties that any cotenant
+3 except a cotenant that requested partition by sale may buy all the interests of the
+4 cotenants that requested partition by sale.
+5 (2) Not later than forty-five (45) days after the notice is sent under subsection (1) of
+6 this section, any cotenant except a cotenant that requested partition by sale may
+7 give notice to the court that it elects to buy all the interests of the cotenants that
+8 requested partition by sale.
+9 (3) The purchase price for each of the interests of a cotenant that requested partition
+10 by sale is the value of the entire parcel determined under Section 6 of this Act
+11 multiplied by the cotenant's fractional ownership of the entire parcel.
+12 (4) After expiration of the period in subsection (2) of this section, the following rules
+13 apply:
+14 (a) If only one (1) cotenant elects to buy all the interests of the cotenants that
+15 requested partition by sale, the court shall notify all the parties of that fact;
+16 (b) If more than one (1) cotenant elects to buy all the interests of the cotenants
+17 that requested partition by sale, the court shall allocate the right to buy
+18 those interests among the electing cotenants based on each electing
+19 cotenant's existing fractional ownership of the entire parcel divided by the
+20 total existing fractional ownership of all cotenants electing to buy and send
+21 notice to all the parties of that fact and of the price to be paid by each
+22 electing cotenant; and
+23 (c) If no cotenant elects to buy all the interests of the cotenants that requested
+24 partition by sale, the court shall send notice to all the parties of that fact and
+25 resolve the partition action under subsections (1) and (2) of Section 8 of this
+26 Act.
+27 (5) If the court sends notice to the parties under subsection (4)(a) or (b) of this
+Page 5 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 39
+1 section, the court shall set a date, not sooner than sixty (60) days after the date
+2 the notice was sent, by which electing cotenants shall pay their apportioned price
+3 into court. After this date, the following rules apply:
+4 (a) If all electing cotenants timely pay their apportioned price into court, the
+5 court shall issue an order reallocating all the interests of the cotenants and
+6 disburse the amounts held by the court to the persons entitled to them;
+7 (b) If no electing cotenant timely pays its apportioned price, the court shall
+8 resolve the partition action under subsections (1) and (2) of Section 8 of this
+9 Act as if the interests of the cotenants that requested partition by sale were
+10 not purchased; and
+11 (c) If one (1) or more but not all of the electing cotenants fail to pay their
+12 apportioned price on time, the court, on motion, shall give notice to the
+13 electing cotenants that paid their apportioned price of the interest
+14 remaining and the price for all that interest.
+15 (6) Not later than twenty (20) days after the court gives notice pursuant to subsection
+16 (5)(c) of this section, any cotenant that paid may elect to purchase all of the
+17 remaining interest by paying the entire price into court. After the twenty (20) day
+18 period, the following rules apply:
+19 (a) If only one (1) cotenant pays the entire price for the remaining interest, the
+20 court shall issue an order reallocating the remaining interest to that
+21 cotenant. The court shall issue promptly an order reallocating the interests
+22 of all of the cotenants and disburse the amounts held by it to the persons
+23 entitled to them;
+24 (b) If no cotenant pays the entire price for the remaining interest, the court
+25 shall resolve the partition action under subsections (1) and (2) of Section 8
+26 of this Act as if the interests of the cotenants that requested partition by sale
+27 were not purchased; and
+Page 6 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 39
+1 (c) If more than one (1) cotenant pays the entire price for the remaining
+2 interest, the court shall reapportion the remaining interest among those
+3 paying cotenants, based on each paying cotenant's original fractional
+4 ownership of the entire parcel divided by the total original fractional
+5 ownership of all cotenants that paid the entire price for the remaining
+6 interest. The court shall issue promptly an order reallocating all of the
+7 cotenants' interests, disburse the amounts held by it to the persons entitled
+8 to them, and promptly refund any excess payment held by the court.
+9 (7) Not later than forty-five (45) days after the court sends notice to the parties
+10 pursuant to subsection (1) of this section, any cotenant entitled to buy an interest
+11 under this section may request the court to authorize the sale as part of the
+12 pending action of the interests of the cotenants named as defendants and served
+13 with the complaint but that did not appear in the action.
+14 (8) If the court receives a timely request under subsection (7) of this section, the
+15 court, after hearing, may deny the request or authorize the requested additional
+16 sale on such terms as the court determines are fair and reasonable, subject to the
+17 following limitations:
+18 (a) A sale authorized under this subsection may occur only after the purchase
+19 prices for all interests subject to sale under subsections (1) to (6) of this
+20 section have been paid into court and those interests have been reallocated
+21 among the cotenants as provided in those subsections; and
+22 (b) The purchase price for the interest of a nonappearing cotenant is based on
+23 the court's determination of value under Section 6 of this Act.
+24 SECTION 8. A NEW SECTION OF KRS CHAPTER 381 IS CREATED TO
+25 READ AS FOLLOWS:
+26 (1) If all the interests of all cotenants that requested partition by sale are not
+27 purchased by other cotenants pursuant to Section 7 of this Act, or if at the
+Page 7 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 39
+1 conclusion of the buyout under Section 7 of this Act a cotenant remains that has
+2 requested partition in kind, the court shall order partition in kind unless the
+3 court, after consideration of the factors listed in Section 9 of this Act, finds that
+4 partition in kind will result in manifest prejudice to the cotenants as a group. In
+5 considering whether to order partition in kind, the court shall approve a request
+6 by two (2) or more parties to have their individual interests aggregated.
+7 (2) If the court does not partition in kind under subsection (1) of this section, the
+8 court shall order partition by sale pursuant to Section 10 of this Act or, if no
+9 cotenant requested partition by sale, the court shall dismiss the action.
+10 (3) If the court orders partition in kind pursuant to subsection (1) of this section, the
+11 court may require that one (1) or more cotenants pay one (1) or more other
+12 cotenant amounts so that the payments, taken together with the value of the in-
+13 kind distributions to the cotenants, will make the partition in kind just and
+14 proportionate in value to the fractional interests held.
+15 (4) If the court orders partition in kind, the court shall allocate to the cotenants that
+16 are unknown, unable to be located, or the subject of a default judgment, if their
+17 interests were not bought out pursuant to Section 7 of this Act, a part of the
+18 property representing the combined interests of these cotenants as determined by
+19 the court, and this part of the property shall remain undivided.
+20 SECTION 9. A NEW SECTION OF KRS CHAPTER 381 IS CREATED TO
+21 READ AS FOLLOWS:
+22 (1) In determining under subsection (1) of Section 8 of this Act whether the partition
+23 in kind would result in manifest prejudice to the cotenants as a group, the court
+24 shall consider the following:
+25 (a) Whether the heirs property practicably can be divided among the cotenants;
+26 (b) Whether partition in kind would apportion the property in such a way that
+27 the aggregate fair market value of the parcels resulting from the division
+Page 8 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 39
+1 would be materially less than the value of the property if it were sold as a
+2 whole, taking into account the condition under which a court-ordered sale
+3 likely would occur;
+4 (c) Evidence of the collective duration of ownership or possession of the
+5 property by a cotenant and one (1) or more predecessors in title or
+6 predecessors in possession to the cotenant who are or were relatives of the
+7 cotenant or each other;
+8 (d) A cotenant's sentimental attachment to the property, including any
+9 attachment arising because the property has ancestral or other unique or
+10 special value to the cotenant;
+11 (e) The lawful use being made of the property by a cotenant and the degree to
+12 which the cotenant would be harmed if the cotenant could not continue the
+13 same use of the property;
+14 (f) The degree to which the cotenants have contributed their pro rata share of
+15 the property taxes, insurance, and other expenses associated with
+16 maintaining ownership of the property or have contributed to the physical
+17 improvement, maintenance, or upkeep of the property; and
+18 (g) Any other relevant factor.
+19 (2) The court may not consider any one (1) factor in subsection (1) of this section to
+20 be dispositive without weighing the totality of all relevant factors and
+21 circumstances.
+22 SECTION 10. A NEW SECTION OF KRS CHAPTER 381 IS CREATED TO
+23 READ AS FOLLOWS:
+24 (1) If the court orders a sale of heirs property, the sale shall be an open-market sale
+25 unless the court finds that a sale by sealed bids or an auction would be more
+26 economically advantageous and in the best interest of the cotenants as a group.
+27 (2) If the court orders an open-market sale and the parties, not later than ten (10)
+Page 9 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 39
+1 days after the entry of the order, agree on a real estate broker licensed in this
+2 Commonwealth to offer the property for sale, the court shall appoint the broker
+3 and establish a reasonable commission. If the parties do not agree on a broker,
+4 the court shall appoint a disinterested real estate broker licensed in this
+5 Commonwealth to offer the property for sale and shall establish a reasonable
+6 commission. The broker shall offer the property for sale in a commercially
+7 reasonable manner at a price no lower than the determination of value and on
+8 the terms and conditions established by the court.
+9 (3) If the broker appointed under subsection (2) of this section obtains within a
+10 reasonable time an offer to purchase the property for at least the determination of
+11 value:
+12 (a) The broker shall comply with the reporting requirements in Section 11 of
+13 this Act; and
+14 (b) The sale may be completed in accordance with the laws of this
+15 Commonwealth that are not in conflict with Sections 1 to 13 of this Act.
+16 (4) If the broker appointed under subsection (2) of this section does not obtain within
+17 a reasonable time an offer to purchase the property for at least the determination
+18 of value, the court, after hearing, may:
+19 (a) Approve the highest outstanding offer, if any;
+20 (b) Redetermine the value of the property and order that the property continue
+21 to be offered for an additional time; or
+22 (c) Order that the property be sold by sealed bids or at an auction.
+23 (5) If the court orders a sale by sealed bids or an auction, the court shall set terms
+24 and conditions of the sale. If the court orders an auction, the auction shall be
+25 conducted under Section 18 of this Act.
+26 (6) If a purchaser is entitled to a share of the proceeds of the sale, the purchaser
+27 shall be entitled to a credit against the price in an amount equal to the
+Page 10 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 39
+1 purchaser's share of the proceeds.
+2 SECTION 11. A NEW SECTION OF KRS CHAPTER 381 IS CREATED TO
+3 READ AS FOLLOWS:
+4 (1) Unless required to do so within a shorter time by this chapter, a broker appointed
+5 under subsection (2) of Section 10 of this Act to offer heirs property for open-
+6 market sale shall file a report with the court not later than seven (7) days after
+7 receiving an offer to purchase the property for at least the value determined
+8 under Section 6 or 10 of this Act.
+9 (2) The report required by subsection (1) of this section shall contain the following
+10 information:
+11 (a) A description of the property to be sold to each buyer;
+12 (b) The name of each buyer;
+13 (c) The proposed purchase price;
+14 (d) The terms and conditions of the proposed sale, including the terms of any
+15 owner financing;
+16 (e) The amounts to be paid to lienholders;
+17 (f) A statement of contractual or other arrangements or conditions of the
+18 broker's commission; and
+19 (g) Other material facts relevant to the sale.
+20 SECTION 12. A NEW SECTION OF KRS CHAPTER 381 IS CREATED TO
+21 READ AS FOLLOWS:
+22 In applying and construing the Uniform Partition of Heirs Property Act, Sections 1 to
+23 13 of this Act, consideration shall be given to the need to promote uniformity of the law
+24 with respect to its subject matter among states that enact it.
+25 SECTION 13. A NEW SECTION OF KRS CHAPTER 381 IS CREATED TO
+26 READ AS FOLLOWS:
+27 The Uniform Partition of Heirs Property Act, Sections 1 to 13 of this Act, modifies,
+Page 11 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 39
+1 limits, and supersedes the Electronic Signatures in Global and National Commerce
+2 Act, 15 U.S.C. sec. 7001 et seq., but does not modify, limit, or supersede Section 101(c)
+3 of that act, 15 U.S.C. sec. 7001(c), or authorize electronic delivery of any of the notices
+4 described in Section 103(b) of that act, 15 U.S.C. sec. 7003(b).
+5 SECTION 14. A NEW SECTION OF KRS CHAPTER 381 IS CREATED TO
+6 READ AS FOLLOWS:
+7 (1) The heirs property research fund is created in the State Treasury as a restricted
+8 fund. The restricted fund shall consist of moneys deposited pursuant to Section
+9 15 of this Act. The Kentucky Real Estate Authority created by Section 16 of this
+10 Act shall administer the fund.
+11 (2) Notwithstanding KRS 45.229, any moneys remaining in the fund at the close of
+12 the fiscal year shall not lapse but shall be carried forward into the succeeding
+13 fiscal year to be used for the purposes set forth in subsection (3) of this section.
+14 (3) The funds deposited into the heirs property research fund shall be made available
+15 to residents of Kentucky, upon application, in the form of a one-time grant of up
+16 to two thousand dollars ($2,000). Grant funds shall be used to assist applicants in
+17 conducting research into their family history, specifically relating to
+18 identification, evaluation, preservation, partition, or sale of heirs property. Grant
+19 funds shall only be used to:
+20 (a) Conduct genealogical research;
+21 (b) Conduct a property title search;
+22 (c) Order a property appraisal;
+23 (d) Order a property survey;
+24 (e) Consult a real estate attorney; or
+25 (f) Engage any other professional service or resource reasonably related to
+26 identifying, evaluating, preserving, partitioning, or selling heirs property.
+27 (4) The Kentucky Real Estate Authority shall prescribe, through administrative
+Page 12 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 39
+1 regulations promulgated in accordance with KRS Chapter 13A, and make
+2 available on its website, an application process and eligibility criteria for grants.
+3 Applications for grants shall be approved based on a showing of financial need.
+4 Section 15. KRS 64.012 is amended to read as follows:
+5 (1) The county clerk shall receive for the following services the following fees:
+6 (a) 1. Recording and indexing of a:
+7 a. Deed of trust or assignment for the benefit of creditors;
+8 b. Deed;
+9 c. Deed of assignment;
+10 d. File-stamped copy of documents set forth in KRS 14A.2-040(1) or
+11 (2) that have been filed first with the Secretary of State;
+12 e. Real estate option;
+13 f. Power of attorney;
+14 g. Revocation of power of attorney;
+15 h. Lease which is recordable by law;
+16 i. Deed of release of a mortgage or lien under KRS 382.360;
+17 j. United States lien;
+18 k. Release of a United States lien;
+19 l. Release of any recorded encumbrance other than state liens;
+20 m. Lis pendens notice concerning proceedings in bankruptcy;
+21 n. Lis pendens notice;
+22 o. Mechanic's and artisan's lien under KRS Chapter 376;
+23 p. Assumed name;
+24 q. Notice of lien issued by the Internal Revenue Service;
+25 r. Notice of lien discharge issued by the Internal Revenue Service;
+26 s. Original, assignment, amendment, or continuation financing
+27 statement;
+Page 13 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 39
+1 t. Making a record for the establishment of a city, recording the plan
+2 or plat thereof, and all other service incident;
+3 u. Survey of a city, or any part thereof, or any addition to or
+4 extensions of the boundary of a city;
+5 v. Recording with statutory authority for which no specific fee is set,
+6 except a military discharge;
+7 w. Will or other probate document pursuant to KRS Chapter 392 or
+8 394;
+9 x. Court ordered name change pursuant to KRS Chapter 401;
+10 y. Land use restriction according to KRS 100.3681; and
+11 z. Filing with statutory authority for which no specific fee is set.
+12 For all items in this subsection if the entire thereof does not exceed
+13 five (5) pages ........................................................... $34.00[$33.00]
+14 And, for all items in this subsection exceeding five (5) pages,
+15 for each additional page ..........................................................$3.00
+16 And, for all items in this subsection for each additional reference
+17 relating to same instrument .....................................................$4.00
+18 2. The thirty-four[thirty-three] dollar ($34)[($33)] fee imposed by this
+19 subsection shall be divided as follows:
+20 a. Twenty-seven dollars ($27) shall be retained by the county clerk;
+21 [and]
+22 b. Six dollars ($6) shall be paid to the affordable housing trust fund
+23 established in KRS 198A.710 and shall be remitted by the county
+24 clerk within ten (10) days following the end of the quarter in
+25 which the fee was received. Each remittance to the affordable
+26 housing trust fund shall be accompanied by a summary report on a
+27 form prescribed by the Kentucky Housing Corporation; and
+Page 14 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 39
+1 c. One dollar ($1) shall be paid to the heirs property research fund
+2 established in Section 14 of this Act and shall be remitted by the
+3 county clerk within ten (10) days following the end of the quarter
+4 in which the fee was received. Each remittance to the heirs
+5 property research fund shall be accompanied by a summary
+6 report on a form prescribed by the Kentucky Real Estate
+7 Authority.
+8 (b) For noting a security interest on a certificate of title pursuant to
+9 KRS Chapter 186A ..................................................................................$12.00
+10 (c) For filing the release of collateral under a financing statement
+11 and noting same upon the face of the title pursuant to KRS Chapter
+12 186 or 186A ...............................................................................................$5.00
+13 (d) Filing or recording state tax or other state liens ........................................$5.00
+14 (e) Filing release of a state tax or other state lien ...........................................$5.00
+15 (f) Acknowledging or notarizing any deed, mortgage, power of attorney,
+16 or other written instrument required by law for recording and certifying
+17 same ..................................... ......................................................................$5.00
+18 (g) Recording plats, maps, and surveys, not exceeding 24 inches by
+19 36 inches, per page ..................................................................................$40.00
+20 (h) Recording a bond, for each bond .............................................................$10.00
+21 (i) Each bond required to be taken or prepared by the clerk ..........................$4.00
+22 (j) Copy of any bond when ordered ................................................................$3.00
+23 (k) Administering an oath and certificate thereof ...........................................$5.00
+24 (l) Issuing a license for which no other fee is fixed by law ............................$8.00
+25 (m) Issuing a solicitor's license ......................................................................$15.00
+26 (n) Marriage license, indexing, recording, and issuing certificate thereof ....$26.50
+27 (o) Every order concerning the establishment, changing, closing, or
+Page 15 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 39
+1 discontinuing of roads, to be paid out of the county levy when
+2 the road is established, changed, closed, or discontinued, and by
+3 the applicant when it is not ...............................................................$3.00
+4 (p) Registration of licenses for professional persons required to register
+5 with the county clerk ......................................................................$10.00
+6 (q) Certified copy of any record ......................................................................$5.00
+7 Plus fifty cents ($.50) per page after three (3) pages
+8 (r) Filing certification required by KRS 65.070(2)(a) ....................................$5.00
+9 (s) Filing notification and declaration and petition of candidates
+10 for Commonwealth's attorney ........................................................$200.00
+11 (t) Filing notification and declaration and petition of candidates for county
+12 and independent boards of education .............................................$20.00
+13 (u) Filing notification and declaration and petition of candidates for
+14 boards of soil and water conservation districts ...............................$20.00
+15 (v) Filing notification and declaration and petition of candidates for
+16 other office ......................................................................................$50.00
+17 (w) Filing declaration of intent to be a write-in candidate for office ..............$50.00
+18 (x) Filing petitions for elections, other than nominating petitions ................$50.00
+19 (y) Notarizing any signature, per signature .....................................................$2.00
+20 (z) Filing bond for receiving bodies under KRS 311.310 .............................$10.00
+21 (aa) Noting the assignment of a certificate of delinquency and recording
+22 and indexing the encumbrance under KRS 134.126 or 134.127 .............$27.00
+23 (ab) Filing a going-out-of-business permit under KRS 365.445 .....................$50.00
+24 (ac) Filing a renewal of a going-out-of-business permit under KRS 365.445 $50.00
+25 (ad) Filing and processing a transient merchant permit under KRS 365.680 .$25.00
+26 (ae) Recording and indexing a real estate mortgage:
+27 1. For a mortgage that does not exceed thirty (30) pages ....................$63.00
+Page 16 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 39
+1 2. And, for a mortgage that exceeds thirty (30) pages, for each additional
+2 page .........................................................................................$3.00
+3 (af) Filing or recording a lien or release of lien by a consolidated local
+4 government, urban-county government, unified local government, or city of
+5 any class ................................................................................................$20.00
+6 (2) The sixty-three dollar ($63) fee imposed by subsection (1)(ae) of this section shall
+7 be divided as follows:
+8 (a) Fifty-seven dollars ($57) shall be retained by the county clerk; and
+9 (b) Six dollars ($6) shall be paid to the affordable housing trust fund established
+10 in KRS 198A.710 and shall be remitted by the county clerk within ten (10)
+11 days following the end of the quarter in which the fee was received. Each
+12 remittance to the affordable housing trust fund shall be accompanied by a
+13 summary report on a form prescribed by the Kentucky Housing Corporation.
+14 (3) (a) For services related to the permanent storage of records listed in paragraphs
+15 (a), (g), (n), and (ae) of subsection (1) of this section, the clerk shall be
+16 entitled to receive a reimbursement of ten dollars ($10).
+17 (b) In counties or a county containing an urban-county government, charter
+18 county government, or unified local government:
+19 1. This fee shall:
+20 a. Not be paid annually to the fiscal court under KRS 64.152;
+21 b. Not be paid to the Finance and Administration Cabinet under KRS
+22 64.345;
+23 c. Be accumulated and transferred to the fiscal court or the legislative
+24 body of an urban-county government on a monthly basis within
+25 ten (10) days following the end of the month;
+26 d. Be maintained by the fiscal court or the legislative body of an
+27 urban-county government in a separate bank account and
+Page 17 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 39
+1 accounted for in a separate fund; and
+2 e. Not lapse to the general fund of the county or urban-county
+3 government.
+4 2. The moneys accumulated from this fee shall be held in perpetuity by the
+5 fiscal court or the legislative body of an urban-county government for
+6 the county clerk's exclusive use for:
+7 a. Equipment related to the permanent storage of and access to
+8 records, including deed books, binders, shelves, microfilm
+9 equipment, and fireproof equipment;
+10 b. Hardware for the permanent storage of and access to records,
+11 including computers, servers, and scanners;
+12 c. Software for the permanent storage of and access to records,
+13 including vendor services and consumer subscription fees;
+14 d. Personnel costs for the permanent storage of and access to records,
+15 including overtime costs for personnel involved in the digitization
+16 of records; and
+17 e. Cloud storage and cybersecurity services for the permanent storage
+18 of and access to records.
+19 3. Notwithstanding KRS 68.275, claims by a county clerk that are for the
+20 approved expenditures in subparagraph 2. of this paragraph shall be paid
+21 by the county judge/executive or the chief executive officer of an urban-
+22 county government by a warrant drawn on the fund and co-signed by the
+23 treasurer of the county or urban-county government.
+24 4. No later than July 1 of each year, each county fiscal court or legislative
+25 body of an urban-county government shall submit a report to the
+26 Legislative Research Commission detailing the receipts, expenditures,
+27 and any amounts remaining in the fund.
+Page 18 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 39
+1 (c) In a county containing a consolidated local government:
+2 1. The fee shall not:
+3 a. Be paid to the Finance and Administration Cabinet under KRS
+4 64.345; or
+5 b. Lapse to the general fund of the consolidated local government.
+6 2. The moneys accumulated from this fee shall be held in perpetuity by the
+7 county clerk in a separate fund to be used exclusively for:
+8 a. Equipment related to the permanent storage of and access to
+9 records, including deed books, binders, shelves, microfilm
+10 equipment, and fireproof equipment;
+11 b. Hardware for the permanent storage of and access to records,
+12 including computers, servers, and scanners;
+13 c. Software for the permanent storage of and access to records,
+14 including vendor services and consumer subscription fees;
+15 d. Personnel costs for the permanent storage of and access to records,
+16 including overtime costs for personnel involved in the digitization
+17 of records; and
+18 e. Cloud storage and cybersecurity services for the permanent storage
+19 of and access to records.
+20 3. No later than July 1 of each year, the county clerk shall submit a report
+21 to the consolidated local government and the Legislative Research
+22 Commission detailing the receipts, expenditures, and any amounts
+23 remaining in the fund.
+24 Section 16. KRS 324B.050 is amended to read as follows:
+25 (1) The Kentucky Real Estate Authority is hereby created within the Department of
+26 Professional Licensing.
+27 (2) The authority shall be managed by an executive director, who shall be appointed by
+Page 19 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 39
+1 the secretary of the Public Protection Cabinet with prior written approval from the
+2 Governor. The executive director shall be exempted from the classified service.
+3 (3) The authority shall have the power and authority to:
+4 (a) Provide appropriate attorneys, personnel staffing, and administrative support
+5 to the Kentucky Real Estate Commission;
+6 (b) Establish and maintain an office, meeting space, office supplies, furniture,
+7 storage space, and any other supplies that are necessary to carry out the duties
+8 of the authority and the Kentucky Real Estate Commission;
+9 (c) Make available for public inspection all decisions, opinions, and
+10 interpretations formulated or used by the authority and the Kentucky Real
+11 Estate Commission in discharging its functions;
+12 (d) Publicize the functions and purposes of the authority and the Kentucky Real
+13 Estate Commission;
+14 (e) Employ an administrative coordinator who shall carry out the administrative
+15 functions and day-to-day operations of the Kentucky Real Estate Commission.
+16 The administrative coordinator shall be exempted from the classified service[;
+17 and]
+18 (f) Enter into agreements with any state agency, political subdivision of the state,
+19 postsecondary education institution, or other person or entity to assist with
+20 implementation of the duties and responsibilities of the authority or, upon
+21 request, the Kentucky Real Estate Commission; and
+22 (g) Promulgate administrative regulations to:
+23 1. Prescribe forms for the submission of each remittance by a county
+24 clerk to the heirs property research fund; and
+25 2. Create and administer an application process for grants from the heirs
+26 property research fund and issue grants from the fund;
+27 as required under Section 14 of this Act.
+Page 20 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 39
+1 Section 17. KRS 381.135 is amended to read as follows:
+2 (1) (a) As used in this subsection:
+3 1. "Ownership interest in a closely held farm corporation or partnership"
+4 means any interest in a farm with one (1) or more of the shareholders or
+5 partners owning twenty percent (20%) or more of the corporation or
+6 partnership.
+7 2. "Farm" means a tract of at least five (5) contiguous acres used for the
+8 production of agricultural or horticultural crops including, but not
+9 limited to, livestock, livestock products, poultry, poultry products, grain,
+10 hay, pastures, soybeans, tobacco, timber, orchard fruits, vegetables,
+11 flowers, or ornamental plants, including provision for dwellings for
+12 persons and their families who are engaged in the above agricultural use
+13 on the tract, but not including residential building development for sale
+14 or lease to the public.
+15 (b) A person desiring a division of land held jointly with others, a person desiring
+16 an allotment of dower or curtesy, or a person with an ownership interest of
+17 twenty percent (20%) or more in a closely held farm corporation or
+18 partnership may file in the Circuit Court of the county in which the land or the
+19 greater part thereof lies a petition containing a description of the land, a
+20 statement of the names of those having an interest in it, and the amount of
+21 such interest, with a prayer for the division or allotment; and, thereupon, all
+22 persons interested in the property who have not united in the petition shall be
+23 summoned to answer not more than twenty (20) days after service of the
+24 summons. The written evidences of the title to the land, or copies thereof, if
+25 there be any, must be filed with the petition.
+26 (2) The statutory guardian of an infant or guardian or conservator of a person adjudged
+27 mentally disabled may file or unite in the petition, in the names of, and in
+Page 21 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 39
+1 conjunction with such infant or mentally disabled person; and, if the petition be
+2 against an infant or mentally disabled person the guardian or conservator may
+3 appear and defend for them; if they fail to do so, the court shall appoint a discreet
+4 person for that purpose.
+5 (3) Upon such a petition by all interested in the property, or upon the expiration of
+6 twenty (20) days after the service of a summons on all who have an interest in the
+7 property and have not united in the petition, the court may order the division, or
+8 allotment of dower or curtesy, according to the rights of the parties, except that if
+9 the court determines that the property is heirs property under the Uniform
+10 Partition of Heirs Property Act, then the partition or sale shall comply with
+11 Sections 1 to 13 of this Act.
+12 (4) The court shall appoint three (3) competent persons as commissioners to determine
+13 the division or allotment of land, having a due regard for the rights of all parties
+14 interested. Before proceeding to act, the commissioners shall take an oath to
+15 discharge their duty impartially.
+16 (5) The order of appointment shall fix a time and place for the meeting of the
+17 commissioners who shall meet accordingly; but, if prevented from meeting at the
+18 time and place so fixed, they may meet as soon thereafter as convenient, and may
+19 adjourn to such other time and place as they may agree upon, until their duty shall
+20 be performed.
+21 (6) The commissioners shall equitably determine the allotment to the parties of their
+22 respective interests in the land. A registered land surveyor shall perform the actual
+23 survey of the land in accordance with the determination made by the
+24 commissioners, and prepare the descriptions of the land, including all related maps,
+25 plats, and documents, and he or she shall affix thereto his or her personal seal and
+26 signature, unless such actual survey and the resultant description, maps, plats, and
+27 documents pertaining to this land are already in existence. The commissioners shall
+Page 22 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 39
+1 make report thereof to the court, which may either confirm, set aside, or remand the
+2 report to the commissioners for correction.
+3 (7) If the report be confirmed, a commissioner to be appointed for the purpose shall, by
+4 deed, convey to each party the land allotted to him.
+5 (8) If the report be confirmed by the Circuit Court, it, together with said surveyor's
+6 descriptions, survey and all related documents, and the applicable deeds shall be
+7 certified by the clerk of that court to the county clerk, for record.
+8 (9) Two (2) of the commissioners may act, if one (1) refuses or fails to do so.
+9 (10) A party summoned may, by answer, controvert the allegations of the petition or
+10 contest the rights claimed therein; and, thereupon, the case shall be tried and
+11 decided as an ordinary action, but without the intervention of a jury.
+12 (11) The costs of the action shall be apportioned among the parties in the ratio of their
+13 interests, except that the costs arising from a contest of fact or law shall be adjudged
+14 against the unsuccessful party.
+15 (12) No verification of the pleadings shall be required.
+16 (13) The commissioners and the land surveyor shall be paid a reasonable compensation,
+17 to be taxed as costs.
+18 (14) This section shall not affect the jurisdiction of courts of equity to make partition or
+19 allot dower or curtesy.
+20 Section 18. KRS 389A.030 is amended to read as follows:
+21 (1) (a) When two (2) or more persons other than tenants by the entirety in residential
+22 property actually occupied by them as a principal residence share title to real
+23 estate in such manner that a conveyance by them jointly would pass a fee
+24 simple title, any one (1) or more of them may bring an action for the sale or
+25 division thereof in the Circuit Court of the county in which the land, or the
+26 greater part thereof, lies, making parties defendant those owners who have not
+27 joined as plaintiffs. A fiduciary possessing a power of sale may institute such
+Page 23 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 39
+1 an action against owners of interests not represented by him. Defendant
+2 owners shall be brought before the court in the manner provided by the civil
+3 rules whether or not a fiduciary possesses a power of sale of the defendant's
+4 interest, but any fiduciary possessing such a power shall also be made a
+5 defendant. The case shall be tried without a jury.
+6 (b) This subsection shall not apply to property that the court determines is heirs
+7 property under the Uniform Partition of Heirs Property Act. If the property
+8 is heirs property, then the partition or sale shall comply with Sections 1 to
+9 13 of this Act.
+10 (2) A defendant who is under disability and for whom no fiduciary is acting shall be
+11 represented in the action by a guardian ad litem, but in the event of sale of such
+12 defendant's interest the court shall retain control of the proceeds of such interest
+13 until a duly appointed and adequately bonded fiduciary or custodian pursuant to a
+14 court order makes claim to the funds.
+15 (3) In all such actions indivisibility of the real estate shall be presumed unless an issue
+16 in respect thereto is raised by the pleading of any party, and if the court is satisfied
+17 from the evidence that the property is divisible, without materially impairing the
+18 value of any interest therein, division thereof pursuant to KRS 381.135 shall be
+19 ordered.
+20 (4) If a sale of all or any part of the real estate shall be ordered, the court shall refer the
+21 matter to the master commissioner or appoint a commissioner to conduct a public
+22 sale and convey the property upon terms of sale and disposition of the net proceeds
+23 as may have been determined by the court.
+24 (5) The death of any party pending the action and prior to distribution of the proceeds
+25 of sale or setting apart a divisible share shall not affect the action but the court may
+26 direct distribution or apportionment to the successors in interest of the decedent
+27 upon application therefor.
+Page 24 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 39
+1 (6) If the interest of any party be one for life, or other term, in any portion of the real
+2 estate, the court shall determine the value of such interest and direct that such party
+3 receive a portion of the net sale proceeds or portion of the property if divisible, in
+4 fee in satisfaction of such interest, but if any party to the action objects to such
+5 procedure, and if the court finds that such procedure would defeat the objects and
+6 purpose of a person not a party to the action, such as a testator, grantor or settlor,
+7 but that sale or division is nevertheless desirable, the court shall order that the
+8 interest of the life or term tenant shall continue as to his or her portion of the real
+9 estate or the net proceeds of the sale thereof, in the latter case by directing that the
+10 funds derived from the sale of that portion of the real estate in which the life or term
+11 interest existed be paid to a trustee, appointed by and accountable to the District
+12 Court, for reinvestment and distribution of income and principal in a manner
+13 consistent with the instrument under which the life or term estate was created.
+Page 25 of 25
+XXXX 1/2/2025 9:57 AM Jacketed
+
+[DELETED:   2  J A B S R S S R A ( " t ( " l o i s o t C b w i n t o i ( " t ( " o t ( " a ( T t ( O ( o m o t c a t f a r w l ( A 1 T w]
+[DELETED:   2  J 2 T p ( o m o t i a h b a i w a t f a r w l o d 3 T ( " b s m a c s o t e h p w o ( " a ( " s a ( " m a d o c o a i o t S R ( S d ( I a a t p r p u t c t c s d p o ( S a i S]
+[DELETED:   2  J R ( S c ( I t l w o n a a o t c a t c d b w t p n S R I i a t t r a d a t c u t c s b d a i a n a p t o a p S R ( E d t t p t i t s o a p a i h p t c s d t f m v o t p b o ( I v m ( I]
+[DELETED:   2  J t t ( I a t t ( I t p ( T ( T t a i a a t c p v a ( T t t ( d a t n i s s t g f t o ( I t c s c a h t d t f m v o t p n s t t ( d a a c o t n o t a a a t t c a t c m c a o e ( A m t S R]
+[DELETED:   2  J ( I S e c ( N t g r ( T b m ( A a ( I r ( I t r p b s t c s a t r t b t i a t e c b o e e c t n t a t p o t f a o t p t b p b e e ( I p r A ( I t c s n t t p u s ( o ( o t]
+[DELETED:   2  J s t i ( I c d ( I n e c t p i a p t c s r A n ( I o ( o m b n a o t e c f t p t a p o t t c o m s g n t t e c t p t a p o t i r ( N ( o t s a c t p m e t p a o t r p ( I c s i a o r t r i t t c o e ( I n c p t e p f t r i t c s o w]
+[DELETED:   2  J ( I m t o ( c p t e p f t r i t c s r t r i a t p c b o e p c o f o o t e p d b t t o f o o a c t p t e p f t r i T c s i p a o r a o t c t ( N l t f ( d a t c s n t t p p u t s m r t c t a t s a p o t p w ( I t c r a t r u s ( o t s t c s f ( A p s a ( T t S R ( I a t i o a c t r p b s a n p b o c p t S 7 o t A o i a t]
+[DELETED:   2  J c r p i k t c s o p i k u t c p c b ( I c c ( I c m r t o ( o m c p o ( o m o c k d t t c w m t p i k j a p ( I a i w n b o p t S 7 o t A a p o t p t S R ( I i s ( W ( W t]
+[DELETED:   2  J w w l ( E o t c d o o o p o t p b a c a o ( o m p i t o p c ( A c s a t t p i a a s ( T w s ( T t p t i a o e a w m i ( A ( T b d w w t t o a r f a c S R ( I u e ( I]
+[DELETED:   2  J d C a t c s a a d r e b l i t C t o t p f s a s e a r c T b s o t p f s i a c r t ( I t b a u s ( o t s o w a r v ( T t ( T s m b c i a w t l o t C ( I a o ( A ( R t ( O ( I a c ( I s b e t a c a t p i a a e t t]
+[DELETED:   2  J p S R ( U u m r a o t p t p f a l t v d u ( T i ( A ( T ( T ( T o ( T ( A s o c o o a o c o t b ( O S R I 1 w S R T]
+[DELETED:   2  J l a s t E S i G a N C A o d S R ( T f 1 A ( N t f ( T t t c r i t f h s r t i f ( C ( C ( O ( O ( C ( E a o p s o r r r t i ( T K R E A s p t a]
+[DELETED:   2  J r p i a w K C 1 a m a A S ( T ( 1 R a D b D c D d F ( e R f P g R h L i D j U k R l R m L n L o M p A q N r N s O a a o c f s]
+[DELETED:   2  J t M o u S o a c o a p t o a a t o e v R e w W 3 x C y L z F  F  f  A  f  A  r 2 T t d ( f i b t s a T [ b S e c w t ( d f t e o t q i w t f w r E r t t a h f]
+[DELETED:   2  J c O e c i w t f w r E r t t h p r f s b a b a s r o a f p b t K R E A ( F  K ( F  a  1 ( F ( F ( A  o  s ( R  3 ( R ( E ( C ( A ( I ( I ( M ( E]
+[DELETED:   2  J   d   t   t ( R   w ( C   P ( F ( F   f ( F   a ( F   b ( F   o ( F ( F ( N ( F ( N  a ( F ( F ( F ( R 1 F]
+[DELETED:   2  J 2 A p   ( F o r a l o r o l b a c l g a . ( T b ( F ( S i d t r t t a h t f s b a b a s ( ( F ( ( ( a ( o s ( o t s t c s b e ( I c o a c c a u g c c 1 T a N b N 6 c B b t d B m b t f c o t l b o a u g i a s b a a]
+[DELETED:   2  J a e N l t t g f o t c o u g 2 T f t a E r t t p s o a a t r i d b b s m e b H f t p s o a a t r i c S f t p s o a a t r i d P i o e C o 3 N a b c t 4 N b o a u g s s a r t t L R C d t r e a]
+[DELETED:   2  J ( I 1 T a B p t t F a A C u K 6 b L 2 T c a E r t t p s o a a t r i d b b s m e b H f t p s o a a t r i c S f t p s o a a t r i d P i o e C o 3 N t t c l g a t L R C d t r e a a a r S ( T P ( T]
+[DELETED:   2  J t G ( T ( P t ( E a m a o m s o s f s o ( M a f p i a d o a i f o u b t a a t K R E ( P E ( E f T a ( E p a w i o t d a r o t a o u r ( P 1 P f f t s o e r b a c c 2 C p a]
+[DELETED:   2  J S ( ( A 1 " m p o t p ( o m o t c o p 2 " p o a o h c i b n l h p s t t o f v f o o p i p f d f p o o ( A a t p ( o m i a c h f c o p g p t l a p c a d o t l a s s p s t a n m t t ( d a s o t s t ( T m d m f o u i t p i t n o a i]
+[DELETED:   2  J c a a i o m d p t g o c m a p ( U t p a t c d t t p i h p u t U P o H P A t t p o s s c w S ( T t i B p t a t c s t a o t d ( T o o a s f a t a p f t m o t c t a b ( T r s o t l i a w t d m b t c p s d]
+[DELETED:   2  J m r ( I d ( I d c ( T ( A c t r c t a t t c s b t a d ( T i a ( N ( T t ( T a S ( ( W p e i s m a c b t j w p a f s d g j]
+[DELETED:   2  J a a a o o i n r b h D o r i b a f p s a p s a b m a d ( T p i 1 ( A r d u c ( I i f v o i t d t t K 3 s b o ( I m s a ( T o d d o t t s i i o d u]
+[DELETED:   2  J ( I e r f p p b t s o d i n d t c s o t t i e f i C f r a d o i a p i a m c]
