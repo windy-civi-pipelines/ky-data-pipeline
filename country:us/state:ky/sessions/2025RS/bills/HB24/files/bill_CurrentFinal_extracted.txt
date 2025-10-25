@@ -1,0 +1,728 @@
+Title: 1 AN ACT relating to conservation.
+Official Title: 1 AN ACT relating to conservation.
+Number of Sections: 1
+Source: versions - Current/Final
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS HB 24/EN
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 65A.010 is amended to read as follows:
+4 As used in this chapter:
+5 (1) "County" means any county, consolidated local government, urban-county
+6 government, unified local government, or charter county;
+7 (2) "DLG" means the Department for Local Government established by KRS
+8 147A.002;
+9 (3) "Establishing entity" means the city or county, or any combination of cities and
+10 counties, that established a special purpose governmental entity and that has not
+11 subsequently withdrawn its affiliation with the special purpose governmental entity
+12 by ordinance or other official action;
+13 (4) "Federally regulated municipal utility" means a municipal utility governed by the
+14 provisions of KRS 96.550 to 96.901, that maintains a wholesale power contract
+15 with a federal agency that also serves as its regulatory authority;
+16 (5) (a) "Fee" means any user charge, levy, assessment, fee, schedule of rates, or tax,
+17 other than an ad valorem tax, imposed by a special purpose governmental
+18 entity.
+19 (b) "Fee" shall not include the following charges imposed by special purpose
+20 governmental entities that provide utility services:
+21 1. Any fuel cost adjustment that is:
+22 a. Made pursuant to an agreement with a power supplier;
+23 b. Amended by the power supplier based on the variable cost of fuel;
+24 and
+25 c. Passed through to the consumer by the utility pursuant to the
+26 agreement between the utility and the power supplier;
+27 2. Any power or energy cost adjustment implemented pursuant to a duly
+Page 1 of 12
+HB002420.100 - 820 - XXXX 3/28/2025 2:35 PM Engrossed
+UNOFFICIAL COPY 25 RS HB 24/EN
+1 adopted base rate that provides for the periodic adjustment of a
+2 component of the rate, including any fuel costs or transmission costs, in
+3 accordance with the formula or conditions set forth in the base rate; or
+4 3. Any environmental control cost adjustments or surcharges implemented
+5 pursuant to a duly adopted base rate that provides for the periodic
+6 adjustment of a component of the rate in accordance with a formula or
+7 conditions set forth in the base rate;
+8 (6) (a) "Private entity" means any entity whose sole source of public funds is from
+9 payments pursuant to a contract with a city, county, or special purpose
+10 governmental entity, including funds received as a grant or as a result of a
+11 competitively bid procurement process.
+12 (b) "Private entity" does not include any entity:
+13 1. Created, wholly or in part, by a city, county, or combination of cities
+14 and counties to perform one (1) or more of the types of public services
+15 listed in subsection (9)(c) of this section; or
+16 2. Governed by a board, council, commission, committee, authority, or
+17 corporation with any member or members who are appointed by the
+18 chief executive or governing body of a city, county, or combination of
+19 cities and counties, or whose voting membership includes governmental
+20 officials who serve in an ex officio capacity;
+21 (7) "Public funds" means any funds derived from the levy of a tax, fee, assessment, or
+22 charge, or the issuance of bonds by the state or a city, county, or special purpose
+23 governmental entity;
+24 (8) "Registry" means the online central registry and reporting portal established
+25 pursuant to KRS 65A.020; and
+26 (9) (a) "Special purpose governmental entity" or "entity" means any agency,
+27 authority, or entity created or authorized by statute which:
+Page 2 of 12
+HB002420.100 - 820 - XXXX 3/28/2025 2:35 PM Engrossed
+UNOFFICIAL COPY 25 RS HB 24/EN
+1 1. Exercises less than statewide jurisdiction;
+2 2. Exists for the purpose of providing one (1) or a limited number of
+3 services or functions;
+4 3. Is governed by a board, council, commission, committee, authority, or
+5 corporation with policy-making authority that is separate from the state
+6 and the governing body of the city, county, or cities and counties in
+7 which it operates; and
+8 4. a. Has the independent authority to generate public funds; or
+9 b. May receive and expend public funds, grants, awards, or
+10 appropriations from the state, from any agency, or authority of the
+11 state, from a city or county, or from any other special purpose
+12 governmental entity.
+13 (b) "Special purpose governmental entity" shall include entities meeting the
+14 requirements established by paragraph (a) of this subsection, whether the
+15 entity is formed as a nonprofit corporation under KRS Chapter 273, pursuant
+16 to an interlocal cooperation agreement under KRS 65.210 to 65.300, or
+17 pursuant to any other provision of the Kentucky Revised Statutes.
+18 (c) Examples of the types of public services that may be provided by special
+19 purpose governmental entities include but are not limited to the following:
+20 1. Ambulance, emergency, and fire protection services;
+21 2. Flood control, drainage, levee, water, and water conservation services,
+22 and services provided by watershed conservancy districts[,] and soil
+23 and water conservation districts[services];
+24 3. Area planning, management, community improvement, and community
+25 development services;
+26 4. Library services;
+27 5. Public health, public mental health, and public hospital services;
+Page 3 of 12
+HB002420.100 - 820 - XXXX 3/28/2025 2:35 PM Engrossed
+UNOFFICIAL COPY 25 RS HB 24/EN
+1 6. Riverport and airport services;
+2 7. Sanitation, sewer, waste management, and solid waste services;
+3 8. Industrial and economic development;
+4 9. Parks and recreation services;
+5 10. Construction, maintenance, or operation of roads and bridges;
+6 11. Mass transit services;
+7 12. Pollution control;
+8 13. Construction or provision of public housing, except as set out in
+9 paragraph (d)8. of this subsection;
+10 14. Tourism and convention services; and
+11 15. Agricultural extension services.
+12 (d) "Special purpose governmental entity" shall not include:
+13 1. Cities;
+14 2. Counties;
+15 3. School districts;
+16 4. Private entities;
+17 5. Chambers of commerce;
+18 6. Any incorporated entity that:
+19 a. Provides utility services;
+20 b. Is member-owned; and
+21 c. Has a governing body whose voting members are all elected by the
+22 membership of the entity;
+23 7. Any entity whose budget, finances, and financial information are fully
+24 integrated with and included as a part of the budget, finances, and
+25 financial reporting of the city, county, or cities and counties in which it
+26 operates;
+27 8. Federally regulated public housing authorities established pursuant to
+Page 4 of 12
+HB002420.100 - 820 - XXXX 3/28/2025 2:35 PM Engrossed
+UNOFFICIAL COPY 25 RS HB 24/EN
+1 KRS Chapter 80 that receive no more than twenty percent (20%) of their
+2 total funding for any fiscal year from nonfederal fees, not including
+3 rental income; or
+4 9. a. Any fire protection district or volunteer fire department district
+5 operating under KRS Chapter 75 with the higher of annual receipts
+6 from all sources or annual expenditures of less than one hundred
+7 thousand dollars ($100,000); or
+8 b. Any fire department incorporated under KRS Chapter 273.
+9 Section 2. KRS 262.097 is amended to read as follows:
+10 (1) The supervisors of the respective soil and water conservation districts shall submit
+11 to the commission such statements, estimates, budgets, and other information at
+12 such time and in such manner as the commission requires.
+13 (2) The supervisors of the soil and water conservation districts shall comply with the
+14 provisions of KRS 65A.010 to 65A.090, except that KRS 65A.030 shall not apply
+15 to soil and water conservation districts.
+16 Section 3. KRS 262.280 is amended to read as follows:
+17 (1) The board shall provide for the keeping of a full and accurate record of all its
+18 proceedings and of all resolutions, regulations, and orders issued or adopted by it.
+19 (2) Notwithstanding KRS 65A.030[For fiscal periods ending prior to July 1, 2014], an
+20 audit of the accounts of each soil and water conservation district shall take place
+21 once every four (4) years unless the soil and water conservation district receives or
+22 expends one million dollars ($1,000,000)[seven hundred fifty thousand dollars
+23 ($750,000)] or more in any year, in which case the soil and water conservation
+24 district shall provide for the performance of an annual audit. The audit shall be
+25 conducted in accordance with audit standards and requirements stipulated in KRS
+26 65.065(5).[ For fiscal periods beginning on and after July 1, 2014, the provisions of
+27 KRS 65A.030 shall apply to audits of the accounts of each district.]
+Page 5 of 12
+HB002420.100 - 820 - XXXX 3/28/2025 2:35 PM Engrossed
+UNOFFICIAL COPY 25 RS HB 24/EN
+1 (3) Upon request of the commission, the board shall furnish the commission with
+2 copies of ordinances, regulations, orders, contracts, forms, and other documents
+3 adopted or employed by the board and any other information requested by the
+4 commission concerning the board's activities.
+5 Section 4. KRS 262.763 is amended to read as follows:
+6 (1) [(a) ]Notwithstanding KRS 65A.030[For fiscal periods ending prior to July 1,
+7 2014], an audit of the accounts of each watershed conservancy district shall take
+8 place once every four (4) years unless the watershed conservancy district receives
+9 or expends one million dollars ($1,000,000)[seven hundred fifty thousand dollars
+10 ($750,000)] or more in any year, in which case the watershed conservancy district
+11 shall provide for the performance of an annual audit. The audit shall be conducted
+12 in accordance with audit standards and requirements stipulated in KRS 65.065(5).
+13 The board of directors of each watershed conservancy district shall select to make
+14 the audit certified public accountants who have no personal interest in the financial
+15 affairs of the board of directors or in any of its officers or employees.[
+16 (b) For fiscal periods beginning on and after July 1, 2015, the provisions of KRS
+17 65A.030 shall apply to the audit of accounts of each watershed conservancy
+18 district.]
+19 (2) Immediately upon completion of each audit, the accountant shall prepare a report of
+20 his or her findings and recommendations. This report shall be to the board of
+21 directors and in such number of copies as specified by the board of directors. The
+22 actual expense of any audit authorized under this section shall be borne by the
+23 watershed conservancy district.
+24 (3) The board of directors shall comply with the provisions of KRS 65A.010 to
+25 65A.090, except that KRS 65A.030 shall not apply to watershed conservancy
+26 districts.
+27 Section 5. KRS 262.910 is amended to read as follows:
+Page 6 of 12
+HB002420.100 - 820 - XXXX 3/28/2025 2:35 PM Engrossed
+UNOFFICIAL COPY 25 RS HB 24/EN
+1 (1) During the term of an easement, the restricted land shall be used solely for the
+2 production of crops, livestock and livestock products, and nursery and greenhouse
+3 products including the processing or retail marketing of these crops, livestock and
+4 livestock products, and nursery and greenhouse products if more than fifty percent
+5 (50%) of the processed or merchandised products are produced on the subject land,
+6 and for the raising and stabling of horses for commercial purposes. For the purposes
+7 of this section and administrative regulations promulgated under its provisions,
+8 "crops, livestock and livestock products, and nursery and greenhouse products"
+9 include, but are not limited to:
+10 (a) Tobacco;
+11 (b) Wheat, soybeans, corn, and all commercially-produced fruits and vegetables;
+12 (c) Horticultural specialties, including nursery stock ornamental shrubs,
+13 ornamental trees, and flowers;
+14 (d) Livestock and livestock products, including cattle; sheep; swine; goats;
+15 horses; alpacas; llamas; buffaloes; any other animals of the bovine, ovine,
+16 porcine, caprine, equine, or camelid species; poultry; milk; and eggs; and
+17 (e) Aquatic plants and animals and their by-products.
+18 (2) (a) During the term of an easement the landowner and the landowner's assigns,
+19 agents, or leasees shall not perform, nor knowingly allow others to perform,
+20 any act on or affecting the restricted land that is inconsistent with the
+21 provisions of this section. The landowner shall be deemed to have authorized
+22 the PACE board to enforce these provisions.
+23 (b) Unless otherwise specified, the landowner shall not be required to take any
+24 action to restore the condition of the restricted land after any act of God or
+25 other event over which the landowner had no control.
+26 (c) Nothing in the PACE Program shall relieve the landowner of any obligation
+27 or restriction on the use of the property imposed by law.
+Page 7 of 12
+HB002420.100 - 820 - XXXX 3/28/2025 2:35 PM Engrossed
+UNOFFICIAL COPY 25 RS HB 24/EN
+1 (d) The Commonwealth shall not locate landfills, sewage treatment plants, or
+2 other public service facilities that are not compatible with or complimentary
+3 to agricultural production on restricted lands.
+4 (3) (a) To retain the agricultural viability of the restricted land, the PACE board shall
+5 require, and the owner of the restricted land shall implement, a conservation
+6 plan approved by the soil and water conservation district. This plan shall be
+7 updated every ten (10) years and any time the basic farming operation
+8 conducted on restricted lands is changed. All farming operations shall be
+9 conducted substantially in accordance with the plan.
+10 (b) In addition to the requirements established by the soil and water conservation
+11 district, the conservation plan shall require that:
+12 1. The use of the land for growing sod, nursery stock, and ornamental trees
+13 and shrubs does not remove excessive soil from the restricted land;
+14 2. The excavation of soil, sand, gravel, stone, or other materials for use in
+15 agricultural production on the restricted land is consistent with
+16 subsection (4)(h) of this section and is conducted in a location and
+17 manner that retains the viability of the restricted land for agricultural
+18 production; and
+19 3. The mining of minerals is consistent with subsection (4)(h) of this
+20 section and is conducted only through the use of methods which will not
+21 interfere with the viability of the restricted land for agricultural
+22 production.
+23 (4) The construction or reconstruction of any building or other structure, except those
+24 existing on the date of the easement or previously approved by the PACE board, is
+25 prohibited except in accordance with this subsection.
+26 (a) Existing fences may be repaired and replaced, and new fences may be built
+27 anywhere on the restricted land for purposes of reasonable and customary
+Page 8 of 12
+HB002420.100 - 820 - XXXX 3/28/2025 2:35 PM Engrossed
+UNOFFICIAL COPY 25 RS HB 24/EN
+1 management of livestock and wildlife, without approval of the PACE board.
+2 (b) New buildings and other structures and improvements to be used solely for
+3 agricultural purposes including the processing or sale of farm products
+4 predominantly grown or raised on the restricted land, but not including any
+5 dwelling or farm labor housing, may not be built on the restricted land without
+6 the advance approval of the PACE board. The PACE board shall give
+7 approval within a reasonable time, unless it determines that the proposed
+8 building, structure, or improvement would not be properly located or would
+9 significantly diminish the agricultural production capacity of the restricted
+10 land.
+11 (c) All existing single-family residential dwellings may be repaired, reasonably
+12 enlarged, and replaced at their current locations without further permission of
+13 the PACE board. No new single-family residential dwellings may be built on
+14 the restricted land without the advance approval of the PACE board. The
+15 PACE board shall give approval within a reasonable time, unless it determines
+16 that a proposed dwelling would not be properly located or would significantly
+17 diminish the agricultural production capacity of the restricted land.
+18 (d) The subdivision of the restricted land, whether by physical or legal process, is
+19 prohibited without the advance written approval of the PACE board. The
+20 PACE board shall give approval within a reasonable time, unless it determines
+21 that the proposed subdivision will diminish or impair the agricultural
+22 productivity of the restricted land.
+23 (e) The granting of rights-of-way through restricted land for the installation of,
+24 transportation of, or use of, lines for water, sewage, electric, telephone, gas,
+25 oil or oil products is permitted. The term "granting of rights-of-way" includes
+26 the right to construct or install the lines. The construction or installation of
+27 utility lines other than the types stated in this paragraph is prohibited on the
+Page 9 of 12
+HB002420.100 - 820 - XXXX 3/28/2025 2:35 PM Engrossed
+UNOFFICIAL COPY 25 RS HB 24/EN
+1 restricted land.
+2 (f) No portion of the restricted land shall be paved or otherwise be covered with
+3 concrete, asphalt, gravel, or any other paving material, nor shall any road for
+4 access or other purposes be constructed, without the advance written approval
+5 of the PACE board. The PACE board shall give approval within a reasonable
+6 time, unless it determines that the proposed paving or covering of the soil, or
+7 the location of any road, will substantially diminish or impair the agricultural
+8 productivity of the restricted land.
+9 (g) Trees may be cut to control insects and disease, to prevent personal injury and
+10 property damage, and for firewood and other domestic uses, including
+11 construction of permitted buildings and fences on the restricted land. Trees
+12 may also be cut to clear land for cultivation or use of livestock, but only if
+13 done in accordance with the conservation plan required by subsection (3) of
+14 this section. Any commercial timber harvesting on the restricted land shall be
+15 conducted on a sustainable yield basis and in substantial accordance with a
+16 forest management plan prepared by a competent professional forester.
+17 (h) The mining or extraction of soil, sand, gravel, rock, oil, natural gas, fuel or
+18 any other mineral substance, using any method that disturbs the surface of the
+19 land, is prohibited without the advance written approval of the PACE board.
+20 The PACE board shall give approval within a reasonable time, unless it
+21 determines that the proposed mining or extraction will substantially diminish
+22 or impair the agricultural productivity of the restricted land.
+23 (i) The dumping or accumulation of any kind of trash or refuse on the restricted
+24 land is prohibited. However, this shall not prevent the storage of agricultural
+25 products and by-products on the restricted land, so long as it is done in
+26 accordance with all applicable laws, administrative regulations, and
+27 ordinances.
+Page 10 of 12
+HB002420.100 - 820 - XXXX 3/28/2025 2:35 PM Engrossed
+UNOFFICIAL COPY 25 RS HB 24/EN
+1 (j) Golf courses are prohibited on the restricted land. Buildings and facilities for
+2 any other public or private recreational use may not be built on the restricted
+3 land without the advance written approval of the PACE board. The PACE
+4 board shall not give approval unless it determines that the proposed use or
+5 facilities will not substantially diminish or impair the agricultural productivity
+6 of the restricted land.
+7 (k) Notwithstanding any other provision of this section to the contrary, upon a
+8 proper application, which shall include supporting documentation from the
+9 appropriate federal agency, the PACE board may give its written approval
+10 of a proposal to erect structures, roads, and pathways on the surface of the
+11 restricted land as long as:
+12 1. An underground training facility for federal agency personnel exists
+13 below the restricted land surface;
+14 2. Any such structures, roads, or pathways constructed will be used for
+15 the purpose of training federal agency personnel; and
+16 3. The applicant:
+17 a. Signs an agreement with the PACE board requiring the
+18 applicant to:
+19 i. Remove such structures, roads, or pathways; and
+20 ii. Restore the land to its previous condition and to the
+21 satisfaction of the PACE board on or before a date that is
+22 specified in the agreement;
+23 b. Provides documentation of the county fiscal court's consent to
+24 the construction of the proposed structures, roads, or pathways;
+25 and
+26 c. Agrees in writing to all of the requirements for the exemption as
+27 established by the PACE board.
+Page 11 of 12
+HB002420.100 - 820 - XXXX 3/28/2025 2:35 PM Engrossed
+UNOFFICIAL COPY 25 RS HB 24/EN
+1 (5) Landowners shall retain the right to perform any act not specifically prohibited or
+2 limited by this section and administrative regulations promulgated under its
+3 provisions. These ownership rights include, but are not limited to, the right to
+4 exclude any member of the public from trespassing on the restricted land and the
+5 right to sell or otherwise transfer the restricted land to anyone of the landowner's
+6 choice.
+Page 12 of 12
+HB002420.100 - 820 - XXXX 3/28/2025 2:35 PM Engrossed
+[DELETED:   2  E A B S A ( " m a c c l g u g ( " m t D f L G e b K 1 ( " o c s b ( " p o K 9 t 9 t m a w p c w ( ( " o t a a v t i b a s p g e ( " s n i t f c i b s p g 1 A a M b A a c P t t t c b t u p t t a 2 A]
+[DELETED:   2  E a b r t p f t p a o a c a 3 A p t a d a b r t p f t p a c ( ( " p p t a c w a c c o s p g c ( " 1 C a l 2 G b a b c c c a o c w a m o m w a a b t c c o ( " c g ( " m t o c r a r p e p ( ( " p g e o " m a a a]
+[DELETED:   2  E 1 E 2 E f t p o p o ( o a l n o s 3 I c a t g b o t c c o c a c i w 4 a H b M r a e p f g a o a s f a c o c o f a o s p g ( " p g e s i e m t r e b p ( o t s w t e t a i c a u K 6 t 6 o p ( E o t t o p s t m b p b s p 1 A 2 F a s p b w c d a s a 3 A d 4 L 5 P]
+[DELETED:   2  E 6 R 7 S 8 I 9 P 1 C 1 M 1 P 1 C o p o p h e a s o i p 1 T 1 A ( " 1 C 2 C 3 S 4 P 5 C 6 A a P b I c H m 7 A i w a i a a p o t b f a f o 8 F r p h a e p t]
+[DELETED:   2  E K t f f a f y f n f n i r 9 a A f p d o v f d d o f t b A S ( T t t c s s e b a o i a s ( T p t S ( T b s p f t k o a f a a r o a i p ( N a o e o m d ( h f t d ( d s p f t p o a a a T a s b c 6 K]
+[DELETED:   2  E ( U r o t c t b s f t c w c o o r o c f a o d a o e b t b a a o i r b t c S ( [ ] K 6 f p e p t J 1 2 p o ( s i T t a ( F f p b o a a J 1 2 t p o K 6 s a t t a o a o e w c d ( I h o h f a r T r s b t t b o d a e o a a a u t s s b b b t w ( T b o d s c w t p o K 6 t 6 e t K 6 s n a t w c d S]
+[DELETED:   2  E ( D t t o a e t r l s b u s f t p p l ( a o t s a a r p u i p " l a l p a n a g p i ( T ( W ( H s i n s o s o ( L a l p i c s s g h a l b a o a o t b o p ( A ( ( D a a a o o a t r l t i i w t p t ( U a o ( N o]
+[DELETED:   2  E ( T C s n l l s t p o o t ( ( T r p u e t ( y a a t t b f o c o r l i c A f o s b c ( I d 1 T a 2 T a p o t r l i c w s ( o t s a i c i a l a m r t v o r l f a p 3 T m o m i c w s ( o t s i w t v o t r l f a p ( T e p ( E a o t r l f p o r a c]
+[DELETED:   2  E m ( N a p i t p o s o f p p d t a a o t P b T P b s g a w a r t u i d t t p b s d t a p c o t r l ( A e t t r l w t a a o t P b T P t d ( T p w t a w a o t P b T P t t p s w d o i t a p ( T t o t u]
+[DELETED:   2  E r ( N c a o t t p ( T p d a f f a o d u i c m d t c f ( T a l T P b s g a w a r t u i d o ( T l p a b o t r l s l a i i d i a w a a l a r a o]
+[DELETED:   2  E ( G a l w t a w a o P b P b f o ( N p a o r 1 A b 2 A t 3 T a S a a w t P b r t a i R i R t l t i p c a t t s s b P t a c A e]
+[DELETED:   2  E ( L l b t s a a r p u i p T o r i b a n l t t r t e r c]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS HB 24/EN
+1 AN ACT relating to conservation.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 65A.010 is amended to read as follows:
+4 As used in this chapter:
+5 (1) "County" means any county, consolidated local government, urban-county
+6 government, unified local government, or charter county;
+7 (2) "DLG" means the Department for Local Government established by KRS
+8 147A.002;
+9 (3) "Establishing entity" means the city or county, or any combination of cities and
+10 counties, that established a special purpose governmental entity and that has not
+11 subsequently withdrawn its affiliation with the special purpose governmental entity
+12 by ordinance or other official action;
+13 (4) "Federally regulated municipal utility" means a municipal utility governed by the
+14 provisions of KRS 96.550 to 96.901, that maintains a wholesale power contract
+15 with a federal agency that also serves as its regulatory authority;
+16 (5) (a) "Fee" means any user charge, levy, assessment, fee, schedule of rates, or tax,
+17 other than an ad valorem tax, imposed by a special purpose governmental
+18 entity.
+19 (b) "Fee" shall not include the following charges imposed by special purpose
+20 governmental entities that provide utility services:
+21 1. Any fuel cost adjustment that is:
+22 a. Made pursuant to an agreement with a power supplier;
+23 b. Amended by the power supplier based on the variable cost of fuel;
+24 and
+25 c. Passed through to the consumer by the utility pursuant to the
+26 agreement between the utility and the power supplier;
+27 2. Any power or energy cost adjustment implemented pursuant to a duly
+Page 1 of 12
+HB002420.100 - 820 - XXXX 3/28/2025 2:35 PM Engrossed
+
+UNOFFICIAL COPY 25 RS HB 24/EN
+1 adopted base rate that provides for the periodic adjustment of a
+2 component of the rate, including any fuel costs or transmission costs, in
+3 accordance with the formula or conditions set forth in the base rate; or
+4 3. Any environmental control cost adjustments or surcharges implemented
+5 pursuant to a duly adopted base rate that provides for the periodic
+6 adjustment of a component of the rate in accordance with a formula or
+7 conditions set forth in the base rate;
+8 (6) (a) "Private entity" means any entity whose sole source of public funds is from
+9 payments pursuant to a contract with a city, county, or special purpose
+10 governmental entity, including funds received as a grant or as a result of a
+11 competitively bid procurement process.
+12 (b) "Private entity" does not include any entity:
+13 1. Created, wholly or in part, by a city, county, or combination of cities
+14 and counties to perform one (1) or more of the types of public services
+15 listed in subsection (9)(c) of this section; or
+16 2. Governed by a board, council, commission, committee, authority, or
+17 corporation with any member or members who are appointed by the
+18 chief executive or governing body of a city, county, or combination of
+19 cities and counties, or whose voting membership includes governmental
+20 officials who serve in an ex officio capacity;
+21 (7) "Public funds" means any funds derived from the levy of a tax, fee, assessment, or
+22 charge, or the issuance of bonds by the state or a city, county, or special purpose
+23 governmental entity;
+24 (8) "Registry" means the online central registry and reporting portal established
+25 pursuant to KRS 65A.020; and
+26 (9) (a) "Special purpose governmental entity" or "entity" means any agency,
+27 authority, or entity created or authorized by statute which:
+Page 2 of 12
+HB002420.100 - 820 - XXXX 3/28/2025 2:35 PM Engrossed
+
+UNOFFICIAL COPY 25 RS HB 24/EN
+1 1. Exercises less than statewide jurisdiction;
+2 2. Exists for the purpose of providing one (1) or a limited number of
+3 services or functions;
+4 3. Is governed by a board, council, commission, committee, authority, or
+5 corporation with policy-making authority that is separate from the state
+6 and the governing body of the city, county, or cities and counties in
+7 which it operates; and
+8 4. a. Has the independent authority to generate public funds; or
+9 b. May receive and expend public funds, grants, awards, or
+10 appropriations from the state, from any agency, or authority of the
+11 state, from a city or county, or from any other special purpose
+12 governmental entity.
+13 (b) "Special purpose governmental entity" shall include entities meeting the
+14 requirements established by paragraph (a) of this subsection, whether the
+15 entity is formed as a nonprofit corporation under KRS Chapter 273, pursuant
+16 to an interlocal cooperation agreement under KRS 65.210 to 65.300, or
+17 pursuant to any other provision of the Kentucky Revised Statutes.
+18 (c) Examples of the types of public services that may be provided by special
+19 purpose governmental entities include but are not limited to the following:
+20 1. Ambulance, emergency, and fire protection services;
+21 2. Flood control, drainage, levee, water, and water conservation services,
+22 and services provided by watershed conservancy districts[,] and soil
+23 and water conservation districts[services];
+24 3. Area planning, management, community improvement, and community
+25 development services;
+26 4. Library services;
+27 5. Public health, public mental health, and public hospital services;
+Page 3 of 12
+HB002420.100 - 820 - XXXX 3/28/2025 2:35 PM Engrossed
+
+UNOFFICIAL COPY 25 RS HB 24/EN
+1 6. Riverport and airport services;
+2 7. Sanitation, sewer, waste management, and solid waste services;
+3 8. Industrial and economic development;
+4 9. Parks and recreation services;
+5 10. Construction, maintenance, or operation of roads and bridges;
+6 11. Mass transit services;
+7 12. Pollution control;
+8 13. Construction or provision of public housing, except as set out in
+9 paragraph (d)8. of this subsection;
+10 14. Tourism and convention services; and
+11 15. Agricultural extension services.
+12 (d) "Special purpose governmental entity" shall not include:
+13 1. Cities;
+14 2. Counties;
+15 3. School districts;
+16 4. Private entities;
+17 5. Chambers of commerce;
+18 6. Any incorporated entity that:
+19 a. Provides utility services;
+20 b. Is member-owned; and
+21 c. Has a governing body whose voting members are all elected by the
+22 membership of the entity;
+23 7. Any entity whose budget, finances, and financial information are fully
+24 integrated with and included as a part of the budget, finances, and
+25 financial reporting of the city, county, or cities and counties in which it
+26 operates;
+27 8. Federally regulated public housing authorities established pursuant to
+Page 4 of 12
+HB002420.100 - 820 - XXXX 3/28/2025 2:35 PM Engrossed
+
+UNOFFICIAL COPY 25 RS HB 24/EN
+1 KRS Chapter 80 that receive no more than twenty percent (20%) of their
+2 total funding for any fiscal year from nonfederal fees, not including
+3 rental income; or
+4 9. a. Any fire protection district or volunteer fire department district
+5 operating under KRS Chapter 75 with the higher of annual receipts
+6 from all sources or annual expenditures of less than one hundred
+7 thousand dollars ($100,000); or
+8 b. Any fire department incorporated under KRS Chapter 273.
+9 Section 2. KRS 262.097 is amended to read as follows:
+10 (1) The supervisors of the respective soil and water conservation districts shall submit
+11 to the commission such statements, estimates, budgets, and other information at
+12 such time and in such manner as the commission requires.
+13 (2) The supervisors of the soil and water conservation districts shall comply with the
+14 provisions of KRS 65A.010 to 65A.090, except that KRS 65A.030 shall not apply
+15 to soil and water conservation districts.
+16 Section 3. KRS 262.280 is amended to read as follows:
+17 (1) The board shall provide for the keeping of a full and accurate record of all its
+18 proceedings and of all resolutions, regulations, and orders issued or adopted by it.
+19 (2) Notwithstanding KRS 65A.030[For fiscal periods ending prior to July 1, 2014], an
+20 audit of the accounts of each soil and water conservation district shall take place
+21 once every four (4) years unless the soil and water conservation district receives or
+22 expends one million dollars ($1,000,000)[seven hundred fifty thousand dollars
+23 ($750,000)] or more in any year, in which case the soil and water conservation
+24 district shall provide for the performance of an annual audit. The audit shall be
+25 conducted in accordance with audit standards and requirements stipulated in KRS
+26 65.065(5).[ For fiscal periods beginning on and after July 1, 2014, the provisions of
+27 KRS 65A.030 shall apply to audits of the accounts of each district.]
+Page 5 of 12
+HB002420.100 - 820 - XXXX 3/28/2025 2:35 PM Engrossed
+
+UNOFFICIAL COPY 25 RS HB 24/EN
+1 (3) Upon request of the commission, the board shall furnish the commission with
+2 copies of ordinances, regulations, orders, contracts, forms, and other documents
+3 adopted or employed by the board and any other information requested by the
+4 commission concerning the board's activities.
+5 Section 4. KRS 262.763 is amended to read as follows:
+6 (1) [(a) ]Notwithstanding KRS 65A.030[For fiscal periods ending prior to July 1,
+7 2014], an audit of the accounts of each watershed conservancy district shall take
+8 place once every four (4) years unless the watershed conservancy district receives
+9 or expends one million dollars ($1,000,000)[seven hundred fifty thousand dollars
+10 ($750,000)] or more in any year, in which case the watershed conservancy district
+11 shall provide for the performance of an annual audit. The audit shall be conducted
+12 in accordance with audit standards and requirements stipulated in KRS 65.065(5).
+13 The board of directors of each watershed conservancy district shall select to make
+14 the audit certified public accountants who have no personal interest in the financial
+15 affairs of the board of directors or in any of its officers or employees.[
+16 (b) For fiscal periods beginning on and after July 1, 2015, the provisions of KRS
+17 65A.030 shall apply to the audit of accounts of each watershed conservancy
+18 district.]
+19 (2) Immediately upon completion of each audit, the accountant shall prepare a report of
+20 his or her findings and recommendations. This report shall be to the board of
+21 directors and in such number of copies as specified by the board of directors. The
+22 actual expense of any audit authorized under this section shall be borne by the
+23 watershed conservancy district.
+24 (3) The board of directors shall comply with the provisions of KRS 65A.010 to
+25 65A.090, except that KRS 65A.030 shall not apply to watershed conservancy
+26 districts.
+27 Section 5. KRS 262.910 is amended to read as follows:
+Page 6 of 12
+HB002420.100 - 820 - XXXX 3/28/2025 2:35 PM Engrossed
+
+UNOFFICIAL COPY 25 RS HB 24/EN
+1 (1) During the term of an easement, the restricted land shall be used solely for the
+2 production of crops, livestock and livestock products, and nursery and greenhouse
+3 products including the processing or retail marketing of these crops, livestock and
+4 livestock products, and nursery and greenhouse products if more than fifty percent
+5 (50%) of the processed or merchandised products are produced on the subject land,
+6 and for the raising and stabling of horses for commercial purposes. For the purposes
+7 of this section and administrative regulations promulgated under its provisions,
+8 "crops, livestock and livestock products, and nursery and greenhouse products"
+9 include, but are not limited to:
+10 (a) Tobacco;
+11 (b) Wheat, soybeans, corn, and all commercially-produced fruits and vegetables;
+12 (c) Horticultural specialties, including nursery stock ornamental shrubs,
+13 ornamental trees, and flowers;
+14 (d) Livestock and livestock products, including cattle; sheep; swine; goats;
+15 horses; alpacas; llamas; buffaloes; any other animals of the bovine, ovine,
+16 porcine, caprine, equine, or camelid species; poultry; milk; and eggs; and
+17 (e) Aquatic plants and animals and their by-products.
+18 (2) (a) During the term of an easement the landowner and the landowner's assigns,
+19 agents, or leasees shall not perform, nor knowingly allow others to perform,
+20 any act on or affecting the restricted land that is inconsistent with the
+21 provisions of this section. The landowner shall be deemed to have authorized
+22 the PACE board to enforce these provisions.
+23 (b) Unless otherwise specified, the landowner shall not be required to take any
+24 action to restore the condition of the restricted land after any act of God or
+25 other event over which the landowner had no control.
+26 (c) Nothing in the PACE Program shall relieve the landowner of any obligation
+27 or restriction on the use of the property imposed by law.
+Page 7 of 12
+HB002420.100 - 820 - XXXX 3/28/2025 2:35 PM Engrossed
+
+UNOFFICIAL COPY 25 RS HB 24/EN
+1 (d) The Commonwealth shall not locate landfills, sewage treatment plants, or
+2 other public service facilities that are not compatible with or complimentary
+3 to agricultural production on restricted lands.
+4 (3) (a) To retain the agricultural viability of the restricted land, the PACE board shall
+5 require, and the owner of the restricted land shall implement, a conservation
+6 plan approved by the soil and water conservation district. This plan shall be
+7 updated every ten (10) years and any time the basic farming operation
+8 conducted on restricted lands is changed. All farming operations shall be
+9 conducted substantially in accordance with the plan.
+10 (b) In addition to the requirements established by the soil and water conservation
+11 district, the conservation plan shall require that:
+12 1. The use of the land for growing sod, nursery stock, and ornamental trees
+13 and shrubs does not remove excessive soil from the restricted land;
+14 2. The excavation of soil, sand, gravel, stone, or other materials for use in
+15 agricultural production on the restricted land is consistent with
+16 subsection (4)(h) of this section and is conducted in a location and
+17 manner that retains the viability of the restricted land for agricultural
+18 production; and
+19 3. The mining of minerals is consistent with subsection (4)(h) of this
+20 section and is conducted only through the use of methods which will not
+21 interfere with the viability of the restricted land for agricultural
+22 production.
+23 (4) The construction or reconstruction of any building or other structure, except those
+24 existing on the date of the easement or previously approved by the PACE board, is
+25 prohibited except in accordance with this subsection.
+26 (a) Existing fences may be repaired and replaced, and new fences may be built
+27 anywhere on the restricted land for purposes of reasonable and customary
+Page 8 of 12
+HB002420.100 - 820 - XXXX 3/28/2025 2:35 PM Engrossed
+
+UNOFFICIAL COPY 25 RS HB 24/EN
+1 management of livestock and wildlife, without approval of the PACE board.
+2 (b) New buildings and other structures and improvements to be used solely for
+3 agricultural purposes including the processing or sale of farm products
+4 predominantly grown or raised on the restricted land, but not including any
+5 dwelling or farm labor housing, may not be built on the restricted land without
+6 the advance approval of the PACE board. The PACE board shall give
+7 approval within a reasonable time, unless it determines that the proposed
+8 building, structure, or improvement would not be properly located or would
+9 significantly diminish the agricultural production capacity of the restricted
+10 land.
+11 (c) All existing single-family residential dwellings may be repaired, reasonably
+12 enlarged, and replaced at their current locations without further permission of
+13 the PACE board. No new single-family residential dwellings may be built on
+14 the restricted land without the advance approval of the PACE board. The
+15 PACE board shall give approval within a reasonable time, unless it determines
+16 that a proposed dwelling would not be properly located or would significantly
+17 diminish the agricultural production capacity of the restricted land.
+18 (d) The subdivision of the restricted land, whether by physical or legal process, is
+19 prohibited without the advance written approval of the PACE board. The
+20 PACE board shall give approval within a reasonable time, unless it determines
+21 that the proposed subdivision will diminish or impair the agricultural
+22 productivity of the restricted land.
+23 (e) The granting of rights-of-way through restricted land for the installation of,
+24 transportation of, or use of, lines for water, sewage, electric, telephone, gas,
+25 oil or oil products is permitted. The term "granting of rights-of-way" includes
+26 the right to construct or install the lines. The construction or installation of
+27 utility lines other than the types stated in this paragraph is prohibited on the
+Page 9 of 12
+HB002420.100 - 820 - XXXX 3/28/2025 2:35 PM Engrossed
+
+UNOFFICIAL COPY 25 RS HB 24/EN
+1 restricted land.
+2 (f) No portion of the restricted land shall be paved or otherwise be covered with
+3 concrete, asphalt, gravel, or any other paving material, nor shall any road for
+4 access or other purposes be constructed, without the advance written approval
+5 of the PACE board. The PACE board shall give approval within a reasonable
+6 time, unless it determines that the proposed paving or covering of the soil, or
+7 the location of any road, will substantially diminish or impair the agricultural
+8 productivity of the restricted land.
+9 (g) Trees may be cut to control insects and disease, to prevent personal injury and
+10 property damage, and for firewood and other domestic uses, including
+11 construction of permitted buildings and fences on the restricted land. Trees
+12 may also be cut to clear land for cultivation or use of livestock, but only if
+13 done in accordance with the conservation plan required by subsection (3) of
+14 this section. Any commercial timber harvesting on the restricted land shall be
+15 conducted on a sustainable yield basis and in substantial accordance with a
+16 forest management plan prepared by a competent professional forester.
+17 (h) The mining or extraction of soil, sand, gravel, rock, oil, natural gas, fuel or
+18 any other mineral substance, using any method that disturbs the surface of the
+19 land, is prohibited without the advance written approval of the PACE board.
+20 The PACE board shall give approval within a reasonable time, unless it
+21 determines that the proposed mining or extraction will substantially diminish
+22 or impair the agricultural productivity of the restricted land.
+23 (i) The dumping or accumulation of any kind of trash or refuse on the restricted
+24 land is prohibited. However, this shall not prevent the storage of agricultural
+25 products and by-products on the restricted land, so long as it is done in
+26 accordance with all applicable laws, administrative regulations, and
+27 ordinances.
+Page 10 of 12
+HB002420.100 - 820 - XXXX 3/28/2025 2:35 PM Engrossed
+
+UNOFFICIAL COPY 25 RS HB 24/EN
+1 (j) Golf courses are prohibited on the restricted land. Buildings and facilities for
+2 any other public or private recreational use may not be built on the restricted
+3 land without the advance written approval of the PACE board. The PACE
+4 board shall not give approval unless it determines that the proposed use or
+5 facilities will not substantially diminish or impair the agricultural productivity
+6 of the restricted land.
+7 (k) Notwithstanding any other provision of this section to the contrary, upon a
+8 proper application, which shall include supporting documentation from the
+9 appropriate federal agency, the PACE board may give its written approval
+10 of a proposal to erect structures, roads, and pathways on the surface of the
+11 restricted land as long as:
+12 1. An underground training facility for federal agency personnel exists
+13 below the restricted land surface;
+14 2. Any such structures, roads, or pathways constructed will be used for
+15 the purpose of training federal agency personnel; and
+16 3. The applicant:
+17 a. Signs an agreement with the PACE board requiring the
+18 applicant to:
+19 i. Remove such structures, roads, or pathways; and
+20 ii. Restore the land to its previous condition and to the
+21 satisfaction of the PACE board on or before a date that is
+22 specified in the agreement;
+23 b. Provides documentation of the county fiscal court's consent to
+24 the construction of the proposed structures, roads, or pathways;
+25 and
+26 c. Agrees in writing to all of the requirements for the exemption as
+27 established by the PACE board.
+Page 11 of 12
+HB002420.100 - 820 - XXXX 3/28/2025 2:35 PM Engrossed
+
+UNOFFICIAL COPY 25 RS HB 24/EN
+1 (5) Landowners shall retain the right to perform any act not specifically prohibited or
+2 limited by this section and administrative regulations promulgated under its
+3 provisions. These ownership rights include, but are not limited to, the right to
+4 exclude any member of the public from trespassing on the restricted land and the
+5 right to sell or otherwise transfer the restricted land to anyone of the landowner's
+6 choice.
+Page 12 of 12
+HB002420.100 - 820 - XXXX 3/28/2025 2:35 PM Engrossed
+
+[DELETED:   2  E A B S A ( " m a c c l g u g ( " m t D f L G e b K 1 ( " o c s b ( " p o K 9 t 9 t m a w p c w ( ( " o t a a v t i b a s p g e ( " s n i t f c i b s p g 1 A a M b A a c P t t t c b t u p t t a 2 A]
+[DELETED:   2  E a b r t p f t p a o a c a 3 A p t a d a b r t p f t p a c ( ( " p p t a c w a c c o s p g c ( " 1 C a l 2 G b a b c c c a o c w a m o m w a a b t c c o ( " c g ( " m t o c r a r p e p ( ( " p g e o " m a a a]
+[DELETED:   2  E 1 E 2 E f t p o p o ( o a l n o s 3 I c a t g b o t c c o c a c i w 4 a H b M r a e p f g a o a s f a c o c o f a o s p g ( " p g e s i e m t r e b p ( o t s w t e t a i c a u K 6 t 6 o p ( E o t t o p s t m b p b s p 1 A 2 F a s p b w c d a s a 3 A d 4 L 5 P]
+[DELETED:   2  E 6 R 7 S 8 I 9 P 1 C 1 M 1 P 1 C o p o p h e a s o i p 1 T 1 A ( " 1 C 2 C 3 S 4 P 5 C 6 A a P b I c H m 7 A i w a i a a p o t b f a f o 8 F r p h a e p t]
+[DELETED:   2  E K t f f a f y f n f n i r 9 a A f p d o v f d d o f t b A S ( T t t c s s e b a o i a s ( T p t S ( T b s p f t k o a f a a r o a i p ( N a o e o m d ( h f t d ( d s p f t p o a a a T a s b c 6 K]
+[DELETED:   2  E ( U r o t c t b s f t c w c o o r o c f a o d a o e b t b a a o i r b t c S ( [ ] K 6 f p e p t J 1 2 p o ( s i T t a ( F f p b o a a J 1 2 t p o K 6 s a t t a o a o e w c d ( I h o h f a r T r s b t t b o d a e o a a a u t s s b b b t w ( T b o d s c w t p o K 6 t 6 e t K 6 s n a t w c d S]
+[DELETED:   2  E ( D t t o a e t r l s b u s f t p p l ( a o t s a a r p u i p " l a l p a n a g p i ( T ( W ( H s i n s o s o ( L a l p i c s s g h a l b a o a o t b o p ( A ( ( D a a a o o a t r l t i i w t p t ( U a o ( N o]
+[DELETED:   2  E ( T C s n l l s t p o o t ( ( T r p u e t ( y a a t t b f o c o r l i c A f o s b c ( I d 1 T a 2 T a p o t r l i c w s ( o t s a i c i a l a m r t v o r l f a p 3 T m o m i c w s ( o t s i w t v o t r l f a p ( T e p ( E a o t r l f p o r a c]
+[DELETED:   2  E m ( N a p i t p o s o f p p d t a a o t P b T P b s g a w a r t u i d t t p b s d t a p c o t r l ( A e t t r l w t a a o t P b T P t d ( T p w t a w a o t P b T P t t p s w d o i t a p ( T t o t u]
+[DELETED:   2  E r ( N c a o t t p ( T p d a f f a o d u i c m d t c f ( T a l T P b s g a w a r t u i d o ( T l p a b o t r l s l a i i d i a w a a l a r a o]
+[DELETED:   2  E ( G a l w t a w a o P b P b f o ( N p a o r 1 A b 2 A t 3 T a S a a w t P b r t a i R i R t l t i p c a t t s s b P t a c A e]
+[DELETED:   2  E ( L l b t s a a r p u i p T o r i b a n l t t r t e r c]

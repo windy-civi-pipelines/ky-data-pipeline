@@ -1,0 +1,705 @@
+Title: 1 AN ACT relating to real property.
+Official Title: 1 AN ACT relating to real property.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS BR 1771
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 132.010 is amended to read as follows:
+4 As used in this chapter, unless the context otherwise requires:
+5 (1) "Department" means the Department of Revenue;
+6 (2) "Taxpayer" means any person made liable by law to file a return or pay a tax;
+7 (3) "Real property":
+8 (a) Means all lands within this state and improvements thereon; and
+9 (b) [For property assessed on January 1, 2024, and on January 1, 2025, ]Includes
+10 but is not limited to mains, pipes, pipelines, and conduits that are:
+11 1. Authorized to be installed in, upon, or under any public or private street
+12 or place; and
+13 2. Used or to be used for or in connection with the collection, transmission,
+14 distribution, conducting, sale, or furnishing of heat, steam, water,
+15 sewage, natural or manufactured gas, or electricity to or for the public;
+16 (4) "Personal property" means every species and character of property, tangible and
+17 intangible, other than real property;
+18 (5) "Resident" means any person who has taken up a place of abode within this state
+19 with the intention of continuing to abide in this state; any person who has had his or
+20 her actual or habitual place of abode in this state for the larger portion of the twelve
+21 (12) months next preceding the date as of which an assessment is due to be made
+22 shall be deemed to have intended to become a resident of this state;
+23 (6) "Compensating tax rate" means that rate which, rounded to the next higher one-
+24 tenth of one cent ($0.001) per one hundred dollars ($100) of assessed value and
+25 applied to the current year's assessment of the property subject to taxation by a
+26 taxing district, excluding new property and personal property, produces an amount
+27 of revenue approximately equal to that produced in the preceding year from real
+Page 1 of 11
+XXXX 2/17/2025 9:30 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1771
+1 property. However, in no event shall the compensating tax rate be a rate which,
+2 when applied to the total current year assessment of all classes of taxable property,
+3 produces an amount of revenue less than was produced in the preceding year from
+4 all classes of taxable property. For purposes of this subsection, "property subject to
+5 taxation" means the total fair cash value of all property subject to full local rates,
+6 less the total valuation exempted from taxation by the homestead exemption
+7 provision of the Constitution and the difference between the fair cash value and
+8 agricultural or horticultural value of agricultural or horticultural land;
+9 (7) "Net assessment growth" means the difference between:
+10 (a) The total valuation of property subject to taxation by the county, city, school
+11 district, or special district in the preceding year, less the total valuation
+12 exempted from taxation by the homestead exemption provision of the
+13 Constitution in the current year over that exempted in the preceding year; and
+14 (b) The total valuation of property subject to taxation by the county, city, school
+15 district, or special district for the current year;
+16 (8) "New property" means the net difference in taxable value between real property
+17 additions and deletions to the property tax roll for the current year. "Real property
+18 additions" shall mean:
+19 (a) Property annexed or incorporated by a municipal corporation, or any other
+20 taxing jurisdiction; however, this definition shall not apply to property
+21 acquired through the merger or consolidation of school districts, or the
+22 transfer of property from one (1) school district to another;
+23 (b) Property, the ownership of which has been transferred from a tax-exempt
+24 entity to a nontax-exempt entity;
+25 (c) The value of improvements to existing nonresidential property;
+26 (d) The value of new residential improvements to property;
+27 (e) The value of improvements to existing residential property when the
+Page 2 of 11
+XXXX 2/17/2025 9:30 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1771
+1 improvement increases the assessed value of the property by fifty percent
+2 (50%) or more;
+3 (f) Property created by the subdivision of unimproved property, provided, that
+4 when the property is reclassified from farm to subdivision by the property
+5 valuation administrator, the value of the property as a farm shall be a deletion
+6 from that category;
+7 (g) Property exempt from taxation, as an inducement for industrial or business
+8 use, at the expiration of its tax exempt status;
+9 (h) Property, the tax rate of which will change, according to the provisions of
+10 KRS 82.085, to reflect additional urban services to be provided by the taxing
+11 jurisdiction, provided, however, that the property shall be considered "real
+12 property additions" only in proportion to the additional urban services to be
+13 provided to the property over the urban services previously provided; and
+14 (i) The value of improvements to real property previously under assessment
+15 moratorium.
+16 "Real property deletions" shall be limited to the value of real property removed
+17 from, or reduced over the preceding year on, the property tax roll for the current
+18 year;
+19 (9) "Agricultural land" means:
+20 (a) Any tract of land, including all income-producing improvements, of at least
+21 ten (10) contiguous acres in area used for the production of livestock,
+22 livestock products, poultry, poultry products and/or the growing of tobacco
+23 and/or other crops including timber;
+24 (b) Any tract of land, including all income-producing improvements, of at least
+25 five (5) contiguous acres in area commercially used for aquaculture; or
+26 (c) Any tract of land devoted to and meeting the requirements and qualifications
+27 for payments pursuant to agriculture programs under an agreement with the
+Page 3 of 11
+XXXX 2/17/2025 9:30 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1771
+1 state or federal government;
+2 (10) "Horticultural land" means any tract of land, including all income-producing
+3 improvements, of at least five (5) contiguous acres in area commercially used for
+4 the cultivation of a garden, orchard, or the raising of fruits or nuts, vegetables,
+5 flowers, or ornamental plants;
+6 (11) "Agricultural or horticultural value" means the use value of "agricultural or
+7 horticultural land" based upon income-producing capability and comparable sales
+8 of farmland purchased for farm purposes where the price is indicative of farm use
+9 value, excluding sales representing purchases for farm expansion, better
+10 accessibility, and other factors which inflate the purchase price beyond farm use
+11 value, if any, considering the following factors as they affect a taxable unit:
+12 (a) Relative percentages of tillable land, pasture land, and woodland;
+13 (b) Degree of productivity of the soil;
+14 (c) Risk of flooding;
+15 (d) Improvements to and on the land that relate to the production of income;
+16 (e) Row crop capability including allotted crops other than tobacco;
+17 (f) Accessibility to all-weather roads and markets; and
+18 (g) Factors which affect the general agricultural or horticultural economy, such
+19 as: interest, price of farm products, cost of farm materials and supplies, labor,
+20 or any economic factor which would affect net farm income;
+21 (12) "Deferred tax" means the difference in the tax based on agricultural or horticultural
+22 value and the tax based on fair cash value;
+23 (13) "Homestead" means real property maintained as the permanent residence of the
+24 owner with all land and improvements adjoining and contiguous thereto including
+25 but not limited to lawns, drives, flower or vegetable gardens, outbuildings, and all
+26 other land connected thereto;
+27 (14) "Residential unit" means all or that part of real property occupied as the permanent
+Page 4 of 11
+XXXX 2/17/2025 9:30 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1771
+1 residence of the owner;
+2 (15) "Special benefits" are those which are provided by public works not financed
+3 through the general tax levy but through special assessments against the benefited
+4 property;
+5 (16) "Manufactured home" means a structure manufactured after June 15, 1976, in
+6 accordance with the National Manufactured Housing Construction and Safety
+7 Standards Act, transportable in one (1) or more sections, which when erected on
+8 site measures eight (8) body feet or more in width and thirty-two (32) body feet or
+9 more in length, and which is built on a permanent chassis and designed to be used
+10 as a dwelling, with or without a permanent foundation, when connected to the
+11 required utilities, and includes the plumbing, heating, air-conditioning, and
+12 electrical systems contained therein. It may be used as a place of residence,
+13 business, profession, or trade by the owner, lessee, or their assignees and may
+14 consist of one (1) or more units that can be attached or joined together to comprise
+15 an integral unit or condominium structure;
+16 (17) "Mobile home" means a structure manufactured on or before June 15, 1976, that
+17 was not required to be constructed in accordance with the National Manufactured
+18 Housing Construction and Safety Standards Act, transportable in one (1) or more
+19 sections, which when erected on site measures eight (8) body feet or more in width
+20 and thirty-two (32) body feet or more in length, and which is built on a permanent
+21 chassis and designed to be used as a dwelling, with or without a permanent
+22 foundation, when connected to the required utilities, and includes the plumbing,
+23 heating, air-conditioning, and electrical systems contained therein. It may be used
+24 as a place of residence, business, profession, or trade by the owner, lessee, or their
+25 assigns and may consist of one (1) or more units that can be attached or joined
+26 together to comprise an integral unit or condominium structure;
+27 (18) "Modular home" means a structure which is certified by its manufacturer as being
+Page 5 of 11
+XXXX 2/17/2025 9:30 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1771
+1 constructed in accordance with all applicable provisions of the Kentucky Building
+2 Code and standards adopted by the local authority which has jurisdiction,
+3 transportable in one (1) or more sections, and designed to be used as a dwelling on
+4 a permanent foundation when connected to the required utilities, and includes the
+5 plumbing, heating, air-conditioning, and electrical systems contained therein;
+6 (19) "Prefabricated home" means a manufactured home, a mobile home, or a modular
+7 home;
+8 (20) "Recreational vehicle" means a vehicular type unit primarily designed as temporary
+9 living quarters for recreational, camping, or travel use, which either has its own
+10 motive power or is mounted on or drawn by another vehicle. The basic entities are:
+11 travel trailer, camping trailer, truck camper, and motor home. As used in this
+12 subsection:
+13 (a) "Travel trailer" means a vehicular unit, mounted on wheels, designed to
+14 provide temporary living quarters for recreational, camping, or travel use, and
+15 of a size or weight that does not require special highway movement permits
+16 when drawn by a motorized vehicle, and with a living area of less than two
+17 hundred twenty (220) square feet, excluding built-in equipment (such as
+18 wardrobes, closets, cabinets, kitchen units or fixtures) and bath and toilet
+19 rooms;
+20 (b) "Camping trailer" means a vehicular portable unit mounted on wheels and
+21 constructed with collapsible partial side walls which fold for towing by
+22 another vehicle and unfold at the camp site to provide temporary living
+23 quarters for recreational, camping, or travel use;
+24 (c) "Truck camper" means a portable unit constructed to provide temporary living
+25 quarters for recreational, travel, or camping use, consisting of a roof, floor,
+26 and sides, designed to be loaded onto and unloaded from the bed of a pick-up
+27 truck; and
+Page 6 of 11
+XXXX 2/17/2025 9:30 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1771
+1 (d) "Motor home" means a vehicular unit designed to provide temporary living
+2 quarters for recreational, camping, or travel use built on or permanently
+3 attached to a self-propelled motor vehicle chassis or on a chassis cab or van
+4 which is an integral part of the completed vehicle;
+5 (21) "Hazardous substances" shall have the meaning provided in KRS 224.1-400;
+6 (22) "Pollutant or contaminant" shall have the meaning provided in KRS 224.1-400;
+7 (23) "Release" shall have the meaning as provided in either or both KRS 224.1-400 and
+8 KRS 224.60-115;
+9 (24) "Qualifying voluntary environmental remediation property" means real property
+10 subject to the provisions of KRS 224.1-400 and 224.1-405, or 224.60-135 where the
+11 Energy and Environment Cabinet has made a determination that:
+12 (a) All releases of hazardous substances, pollutants, contaminants, petroleum, or
+13 petroleum products at the property occurred prior to the property owner's
+14 acquisition of the property;
+15 (b) The property owner has made all appropriate inquiry into previous ownership
+16 and uses of the property in accordance with generally accepted practices prior
+17 to the acquisition of the property;
+18 (c) The property owner or a responsible party has provided all legally required
+19 notices with respect to hazardous substances, pollutants, contaminants,
+20 petroleum, or petroleum products found at the property;
+21 (d) The property owner is in compliance with all land use restrictions and does
+22 not impede the effectiveness or integrity of any institutional control;
+23 (e) The property owner complied with any information request or administrative
+24 subpoena under KRS Chapter 224; and
+25 (f) The property owner is not affiliated with any person who is potentially liable
+26 for the release of hazardous substances, pollutants, contaminants, petroleum,
+27 or petroleum products on the property pursuant to KRS 224.1-400, 224.1-405,
+Page 7 of 11
+XXXX 2/17/2025 9:30 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1771
+1 or 224.60-135, through:
+2 1. Direct or indirect familial relationship;
+3 2. Any contractual, corporate, or financial relationship, excluding
+4 relationships created by instruments conveying or financing title or by
+5 contracts for sale of goods or services; or
+6 3. Reorganization of a business entity that was potentially liable;
+7 (25) "Intangible personal property" means stocks, mutual funds, money market funds,
+8 bonds, loans, notes, mortgages, accounts receivable, land contracts, cash, credits,
+9 patents, trademarks, copyrights, tobacco base, allotments, annuities, deferred
+10 compensation, retirement plans, and any other type of personal property that is not
+11 tangible personal property;
+12 (26) (a) "County" means any county, consolidated local government, urban-county
+13 government, unified local government, or charter county government;
+14 (b) "Fiscal court" means the legislative body of any county, consolidated local
+15 government, urban-county government, unified local government, or charter
+16 county government; and
+17 (c) "County judge/executive" means the chief executive officer of any county,
+18 consolidated local government, urban-county government, unified local
+19 government, or charter county government;
+20 (27) "Taxing district" means any entity with the authority to levy a local ad valorem tax,
+21 including special purpose governmental entities;
+22 (28) "Special purpose governmental entity" shall have the same meaning as in KRS
+23 65A.010, and as used in this chapter shall include only those special purpose
+24 governmental entities with the authority to levy ad valorem taxes, and that are not
+25 specifically exempt from the provisions of this chapter by another provision of the
+26 Kentucky Revised Statutes;
+27 (29) (a) "Broadcast" means the transmission of audio, video, or other signals, through
+Page 8 of 11
+XXXX 2/17/2025 9:30 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1771
+1 any electronic, radio, light, or similar medium or method now in existence or
+2 later devised over the airwaves to the public in general.
+3 (b) "Broadcast" shall not apply to operations performed by multichannel video
+4 programming service providers as defined in KRS 136.602 or any other
+5 operations that transmit audio, video, or other signals, exclusively to persons
+6 for a fee;
+7 (30) "Livestock" means cattle, sheep, swine, goats, horses, alpacas, llamas, buffaloes,
+8 and any other animals of the bovine, ovine, porcine, caprine, equine, or camelid
+9 species;
+10 (31) "Heavy equipment rental agreement" means the short-term rental contract under
+11 which qualified heavy equipment is rented without an operator for a period:
+12 (a) Not to exceed three hundred sixty-five (365) days; or
+13 (b) That is open-ended under the terms of the contract with no specified end date;
+14 (32) "Heavy equipment rental company" means an entity that is primarily engaged in a
+15 line of business described in Code 532412 or 532310 of the North American
+16 Industry Classification System Manual in effect on January 1, 2019;
+17 (33) "Qualified heavy equipment" means machinery and equipment, including ancillary
+18 equipment and any attachments used in conjunction with the machinery and
+19 equipment, that is:
+20 (a) Primarily used and designed for construction, mining, forestry, or industrial
+21 purposes, including but not limited to cranes, earthmoving equipment, well-
+22 drilling machinery and equipment, lifts, material handling equipment, pumps,
+23 generators, and pollution-reducing equipment; and
+24 (b) Held in a heavy equipment rental company's inventory for:
+25 1. Rental under a heavy equipment rental agreement; or
+26 2. Sale in the regular course of business;
+27 (34) "Veteran service organization" means an organization wholly dedicated to
+Page 9 of 11
+XXXX 2/17/2025 9:30 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1771
+1 advocating on behalf of military veterans and providing charitable programs in
+2 honor and on behalf of military veterans;
+3 (35) "Government restriction on use" means a limitation on the use of at least fifty
+4 percent (50%) of the individual dwelling units of a multi-unit rental housing in
+5 order to receive a federal or state government incentive based on low-income renter
+6 restrictions, including the following government incentives:
+7 (a) A tax credit under Section 42 of the Internal Revenue Code;
+8 (b) Financing derived from exempt facility bonds for qualified residential rental
+9 projects under Section 142 of the Internal Revenue Code;
+10 (c) A low-interest loan under Section 235 or 236 of the National Housing Act or
+11 Section 515 of the Housing Act of 1949;
+12 (d) A rent subsidy;
+13 (e) A guaranteed loan;
+14 (f) A grant; or
+15 (g) A guarantee;
+16 (36) "Low income" means earning at or below eighty percent (80%) of the area median
+17 income as defined by the United States Department of Housing and Urban
+18 Development for the location of the multi-unit rental housing; and
+19 (37) "Multi-unit rental housing" means residential property or project consisting of four
+20 (4) or more individual dwelling units and does not include:
+21 (a) Assisted living facilities; or
+22 (b) Duplexes or single-family units unless they are included as part of a larger
+23 property that is subject to government restriction on use.
+24 Section 2. KRS 136.010 is amended to read as follows:
+25 As used in this chapter, except for KRS 136.500 to 136.575, unless the context requires
+26 otherwise:
+27 (1) "Out-of-state business property" means all real and personal property having a
+Page 10 of 11
+XXXX 2/17/2025 9:30 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1771
+1 taxable situs outside this state owned by a corporation for use in the active conduct
+2 of a trade or business;
+3 (2) "Personal property" means every species and character of property, tangible and
+4 intangible, other than real property;
+5 (3) "Real property":
+6 (a) Means all lands within this state and improvements thereon; and
+7 (b) [For property assessed on January 1, 2024, and on January 1, 2025, ]Includes
+8 but is not limited to mains, pipes, pipelines, and conduits that are:
+9 1. Authorized to be installed in, upon, or under any public or private street
+10 or place; and
+11 2. Used or to be used for or in connection with the collection, transmission,
+12 distribution, conducting, sale, or furnishing of heat, steam, water,
+13 sewage, natural or manufactured gas, or electricity to or for the public;
+14 and
+15 (4) "Tax exempt United States obligations" means all obligations of the United States
+16 exempt from taxation under 31 U.S.C. sec. 3124(a) or exempt under the United
+17 States Constitution or any federal statute including the obligations of any
+18 instrumentality or agency of the United States which are exempt from state or local
+19 taxation under the United States Constitution or any statute of the United States.
+20 Section 3. No claim for refund or credit of a tax overpayment for any taxable
+21 period, made by an amended return, tax refund application, or any other method on or
+22 after the effective date of this Act, and based on the amendments to subsection (3) of
+23 Section 1 of this Act or subsection (3) of Section 2 of this Act, shall be recognized for
+24 any purpose.
+25 Section 4. This Act shall apply retroactively to property assessed on or after
+26 December 31, 2022.
+Page 11 of 11
+XXXX 2/17/2025 9:30 AM Jacketed
+[DELETED:   2  J A B S A ( " ( " ( " ( M ( [ b 1 A o 2 U d c s o f o h s w s ( " p m e a c t a i ( " w h ( s ( " t a t t c y a o t p s t t b a t o]
+[DELETED:   2  J p w p a t l t t v e f t b t h e p v a ( " ( T d o s d i t p y l t t v e f t b t h e p o t C ( T d ( " a a ( P a t j h t d s n a t p a t t m o c o s d o t t ( P t o o w h b t f a t e ( T ( T ( T v o i t e r p w t]
+[DELETED:   2  J i i t a v o t p b f p ( ( P w t p i r f f t s b t p v f ( P b u ( P a K j p h t t p s b c " p p ( T v o i t r p p u a m  " p d s b l t v o p r f y ( " ( A t ( c a i a u f t p o l l a ( A f ( A f]
+[DELETED:   2  J s ( " l m a t o l i a i i t c o a g o o t r o f o n v f ( " o h v m t u v o " o h o v e s r p f f e b a v ( R ( D ( R ( I ( R ( A ( F a o ( " v ( " m r p m a t p r o t o b o ( "]
+[DELETED:   2  J r ( " b a t w a p b p w n f t p ( " h m a s m a J 1 1 i a w t N M H C a S S s m a a d w o w a p f w c t t r u a i t p h a a e s c t I m b u a a p o r b p o t b t o l o t a a m c a ( " w H s a c a d t b u a a d w o w a p f w c t t r u a i t p h a a o t ( "]
+[DELETED:   2  J c C a s a b t l a w h j t a p ( " h ( " l r m t t c t t c a m h A u i t s ( " t m a v u m o w d t p o w h t ( s f e b e ( a w c c k u o f a b a t r ( " t m a v p u m o w a c w c p s w w f f t b a v a u a t c s t p t l q ( " q a t]
+[DELETED:   2  J ( " q f r c o t u b o o p a w ( " ( " ( " K ( " v e r p m r p s E ( A p p a t p o p t t p o a ( T a t ( T n w r t h s p c p ( T n ( T s ( T f o]
+[DELETED:   2  J o 1 D 2 A c c o f r e r c 3 R ( " b p t c t b a a d c t ( ( " m a c c l g u g ( " g c ( " j m t c e o o a c c l g u g u l g ( " i ( " p g e s h t s m a i K 6 a a u i t c s i o t s p g s K ( ( "]
+[DELETED:   2  J a l ( " p s p a d i K 1 o a o o f ( " h b a s ( " e r a m t s r c u w ( N ( T ( " l o b d i C 5 o 5 o t N A I ( " e a a a u i c w t m a e ( P p d g ( H 1 R 2 S ( " s o m a o w d t]
+[DELETED:   2  J a o b o m v a p c p i h ( " r o u m a l o t u o a l f p ( o t i d u o a m r h i o r ( A ( F p ( A S ( A ( A ( A ( A ( " i a d b t U S D o H a U D ( " ( ( A ( D p S A o ( " b p m a r a p p h a]
+[DELETED:   2  J t o ( " p m e a c t a i ( " ( M ( [ b 1 A o 2 U d c s o f o h s w s a ( " e f t u U s 3 u U S C o a f s i t o o a i t S p a S a S D]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS BR 1771
+1 AN ACT relating to real property.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 132.010 is amended to read as follows:
+4 As used in this chapter, unless the context otherwise requires:
+5 (1) "Department" means the Department of Revenue;
+6 (2) "Taxpayer" means any person made liable by law to file a return or pay a tax;
+7 (3) "Real property":
+8 (a) Means all lands within this state and improvements thereon; and
+9 (b) [For property assessed on January 1, 2024, and on January 1, 2025, ]Includes
+10 but is not limited to mains, pipes, pipelines, and conduits that are:
+11 1. Authorized to be installed in, upon, or under any public or private street
+12 or place; and
+13 2. Used or to be used for or in connection with the collection, transmission,
+14 distribution, conducting, sale, or furnishing of heat, steam, water,
+15 sewage, natural or manufactured gas, or electricity to or for the public;
+16 (4) "Personal property" means every species and character of property, tangible and
+17 intangible, other than real property;
+18 (5) "Resident" means any person who has taken up a place of abode within this state
+19 with the intention of continuing to abide in this state; any person who has had his or
+20 her actual or habitual place of abode in this state for the larger portion of the twelve
+21 (12) months next preceding the date as of which an assessment is due to be made
+22 shall be deemed to have intended to become a resident of this state;
+23 (6) "Compensating tax rate" means that rate which, rounded to the next higher one-
+24 tenth of one cent ($0.001) per one hundred dollars ($100) of assessed value and
+25 applied to the current year's assessment of the property subject to taxation by a
+26 taxing district, excluding new property and personal property, produces an amount
+27 of revenue approximately equal to that produced in the preceding year from real
+Page 1 of 11
+XXXX 2/17/2025 9:30 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1771
+1 property. However, in no event shall the compensating tax rate be a rate which,
+2 when applied to the total current year assessment of all classes of taxable property,
+3 produces an amount of revenue less than was produced in the preceding year from
+4 all classes of taxable property. For purposes of this subsection, "property subject to
+5 taxation" means the total fair cash value of all property subject to full local rates,
+6 less the total valuation exempted from taxation by the homestead exemption
+7 provision of the Constitution and the difference between the fair cash value and
+8 agricultural or horticultural value of agricultural or horticultural land;
+9 (7) "Net assessment growth" means the difference between:
+10 (a) The total valuation of property subject to taxation by the county, city, school
+11 district, or special district in the preceding year, less the total valuation
+12 exempted from taxation by the homestead exemption provision of the
+13 Constitution in the current year over that exempted in the preceding year; and
+14 (b) The total valuation of property subject to taxation by the county, city, school
+15 district, or special district for the current year;
+16 (8) "New property" means the net difference in taxable value between real property
+17 additions and deletions to the property tax roll for the current year. "Real property
+18 additions" shall mean:
+19 (a) Property annexed or incorporated by a municipal corporation, or any other
+20 taxing jurisdiction; however, this definition shall not apply to property
+21 acquired through the merger or consolidation of school districts, or the
+22 transfer of property from one (1) school district to another;
+23 (b) Property, the ownership of which has been transferred from a tax-exempt
+24 entity to a nontax-exempt entity;
+25 (c) The value of improvements to existing nonresidential property;
+26 (d) The value of new residential improvements to property;
+27 (e) The value of improvements to existing residential property when the
+Page 2 of 11
+XXXX 2/17/2025 9:30 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1771
+1 improvement increases the assessed value of the property by fifty percent
+2 (50%) or more;
+3 (f) Property created by the subdivision of unimproved property, provided, that
+4 when the property is reclassified from farm to subdivision by the property
+5 valuation administrator, the value of the property as a farm shall be a deletion
+6 from that category;
+7 (g) Property exempt from taxation, as an inducement for industrial or business
+8 use, at the expiration of its tax exempt status;
+9 (h) Property, the tax rate of which will change, according to the provisions of
+10 KRS 82.085, to reflect additional urban services to be provided by the taxing
+11 jurisdiction, provided, however, that the property shall be considered "real
+12 property additions" only in proportion to the additional urban services to be
+13 provided to the property over the urban services previously provided; and
+14 (i) The value of improvements to real property previously under assessment
+15 moratorium.
+16 "Real property deletions" shall be limited to the value of real property removed
+17 from, or reduced over the preceding year on, the property tax roll for the current
+18 year;
+19 (9) "Agricultural land" means:
+20 (a) Any tract of land, including all income-producing improvements, of at least
+21 ten (10) contiguous acres in area used for the production of livestock,
+22 livestock products, poultry, poultry products and/or the growing of tobacco
+23 and/or other crops including timber;
+24 (b) Any tract of land, including all income-producing improvements, of at least
+25 five (5) contiguous acres in area commercially used for aquaculture; or
+26 (c) Any tract of land devoted to and meeting the requirements and qualifications
+27 for payments pursuant to agriculture programs under an agreement with the
+Page 3 of 11
+XXXX 2/17/2025 9:30 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1771
+1 state or federal government;
+2 (10) "Horticultural land" means any tract of land, including all income-producing
+3 improvements, of at least five (5) contiguous acres in area commercially used for
+4 the cultivation of a garden, orchard, or the raising of fruits or nuts, vegetables,
+5 flowers, or ornamental plants;
+6 (11) "Agricultural or horticultural value" means the use value of "agricultural or
+7 horticultural land" based upon income-producing capability and comparable sales
+8 of farmland purchased for farm purposes where the price is indicative of farm use
+9 value, excluding sales representing purchases for farm expansion, better
+10 accessibility, and other factors which inflate the purchase price beyond farm use
+11 value, if any, considering the following factors as they affect a taxable unit:
+12 (a) Relative percentages of tillable land, pasture land, and woodland;
+13 (b) Degree of productivity of the soil;
+14 (c) Risk of flooding;
+15 (d) Improvements to and on the land that relate to the production of income;
+16 (e) Row crop capability including allotted crops other than tobacco;
+17 (f) Accessibility to all-weather roads and markets; and
+18 (g) Factors which affect the general agricultural or horticultural economy, such
+19 as: interest, price of farm products, cost of farm materials and supplies, labor,
+20 or any economic factor which would affect net farm income;
+21 (12) "Deferred tax" means the difference in the tax based on agricultural or horticultural
+22 value and the tax based on fair cash value;
+23 (13) "Homestead" means real property maintained as the permanent residence of the
+24 owner with all land and improvements adjoining and contiguous thereto including
+25 but not limited to lawns, drives, flower or vegetable gardens, outbuildings, and all
+26 other land connected thereto;
+27 (14) "Residential unit" means all or that part of real property occupied as the permanent
+Page 4 of 11
+XXXX 2/17/2025 9:30 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1771
+1 residence of the owner;
+2 (15) "Special benefits" are those which are provided by public works not financed
+3 through the general tax levy but through special assessments against the benefited
+4 property;
+5 (16) "Manufactured home" means a structure manufactured after June 15, 1976, in
+6 accordance with the National Manufactured Housing Construction and Safety
+7 Standards Act, transportable in one (1) or more sections, which when erected on
+8 site measures eight (8) body feet or more in width and thirty-two (32) body feet or
+9 more in length, and which is built on a permanent chassis and designed to be used
+10 as a dwelling, with or without a permanent foundation, when connected to the
+11 required utilities, and includes the plumbing, heating, air-conditioning, and
+12 electrical systems contained therein. It may be used as a place of residence,
+13 business, profession, or trade by the owner, lessee, or their assignees and may
+14 consist of one (1) or more units that can be attached or joined together to comprise
+15 an integral unit or condominium structure;
+16 (17) "Mobile home" means a structure manufactured on or before June 15, 1976, that
+17 was not required to be constructed in accordance with the National Manufactured
+18 Housing Construction and Safety Standards Act, transportable in one (1) or more
+19 sections, which when erected on site measures eight (8) body feet or more in width
+20 and thirty-two (32) body feet or more in length, and which is built on a permanent
+21 chassis and designed to be used as a dwelling, with or without a permanent
+22 foundation, when connected to the required utilities, and includes the plumbing,
+23 heating, air-conditioning, and electrical systems contained therein. It may be used
+24 as a place of residence, business, profession, or trade by the owner, lessee, or their
+25 assigns and may consist of one (1) or more units that can be attached or joined
+26 together to comprise an integral unit or condominium structure;
+27 (18) "Modular home" means a structure which is certified by its manufacturer as being
+Page 5 of 11
+XXXX 2/17/2025 9:30 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1771
+1 constructed in accordance with all applicable provisions of the Kentucky Building
+2 Code and standards adopted by the local authority which has jurisdiction,
+3 transportable in one (1) or more sections, and designed to be used as a dwelling on
+4 a permanent foundation when connected to the required utilities, and includes the
+5 plumbing, heating, air-conditioning, and electrical systems contained therein;
+6 (19) "Prefabricated home" means a manufactured home, a mobile home, or a modular
+7 home;
+8 (20) "Recreational vehicle" means a vehicular type unit primarily designed as temporary
+9 living quarters for recreational, camping, or travel use, which either has its own
+10 motive power or is mounted on or drawn by another vehicle. The basic entities are:
+11 travel trailer, camping trailer, truck camper, and motor home. As used in this
+12 subsection:
+13 (a) "Travel trailer" means a vehicular unit, mounted on wheels, designed to
+14 provide temporary living quarters for recreational, camping, or travel use, and
+15 of a size or weight that does not require special highway movement permits
+16 when drawn by a motorized vehicle, and with a living area of less than two
+17 hundred twenty (220) square feet, excluding built-in equipment (such as
+18 wardrobes, closets, cabinets, kitchen units or fixtures) and bath and toilet
+19 rooms;
+20 (b) "Camping trailer" means a vehicular portable unit mounted on wheels and
+21 constructed with collapsible partial side walls which fold for towing by
+22 another vehicle and unfold at the camp site to provide temporary living
+23 quarters for recreational, camping, or travel use;
+24 (c) "Truck camper" means a portable unit constructed to provide temporary living
+25 quarters for recreational, travel, or camping use, consisting of a roof, floor,
+26 and sides, designed to be loaded onto and unloaded from the bed of a pick-up
+27 truck; and
+Page 6 of 11
+XXXX 2/17/2025 9:30 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1771
+1 (d) "Motor home" means a vehicular unit designed to provide temporary living
+2 quarters for recreational, camping, or travel use built on or permanently
+3 attached to a self-propelled motor vehicle chassis or on a chassis cab or van
+4 which is an integral part of the completed vehicle;
+5 (21) "Hazardous substances" shall have the meaning provided in KRS 224.1-400;
+6 (22) "Pollutant or contaminant" shall have the meaning provided in KRS 224.1-400;
+7 (23) "Release" shall have the meaning as provided in either or both KRS 224.1-400 and
+8 KRS 224.60-115;
+9 (24) "Qualifying voluntary environmental remediation property" means real property
+10 subject to the provisions of KRS 224.1-400 and 224.1-405, or 224.60-135 where the
+11 Energy and Environment Cabinet has made a determination that:
+12 (a) All releases of hazardous substances, pollutants, contaminants, petroleum, or
+13 petroleum products at the property occurred prior to the property owner's
+14 acquisition of the property;
+15 (b) The property owner has made all appropriate inquiry into previous ownership
+16 and uses of the property in accordance with generally accepted practices prior
+17 to the acquisition of the property;
+18 (c) The property owner or a responsible party has provided all legally required
+19 notices with respect to hazardous substances, pollutants, contaminants,
+20 petroleum, or petroleum products found at the property;
+21 (d) The property owner is in compliance with all land use restrictions and does
+22 not impede the effectiveness or integrity of any institutional control;
+23 (e) The property owner complied with any information request or administrative
+24 subpoena under KRS Chapter 224; and
+25 (f) The property owner is not affiliated with any person who is potentially liable
+26 for the release of hazardous substances, pollutants, contaminants, petroleum,
+27 or petroleum products on the property pursuant to KRS 224.1-400, 224.1-405,
+Page 7 of 11
+XXXX 2/17/2025 9:30 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1771
+1 or 224.60-135, through:
+2 1. Direct or indirect familial relationship;
+3 2. Any contractual, corporate, or financial relationship, excluding
+4 relationships created by instruments conveying or financing title or by
+5 contracts for sale of goods or services; or
+6 3. Reorganization of a business entity that was potentially liable;
+7 (25) "Intangible personal property" means stocks, mutual funds, money market funds,
+8 bonds, loans, notes, mortgages, accounts receivable, land contracts, cash, credits,
+9 patents, trademarks, copyrights, tobacco base, allotments, annuities, deferred
+10 compensation, retirement plans, and any other type of personal property that is not
+11 tangible personal property;
+12 (26) (a) "County" means any county, consolidated local government, urban-county
+13 government, unified local government, or charter county government;
+14 (b) "Fiscal court" means the legislative body of any county, consolidated local
+15 government, urban-county government, unified local government, or charter
+16 county government; and
+17 (c) "County judge/executive" means the chief executive officer of any county,
+18 consolidated local government, urban-county government, unified local
+19 government, or charter county government;
+20 (27) "Taxing district" means any entity with the authority to levy a local ad valorem tax,
+21 including special purpose governmental entities;
+22 (28) "Special purpose governmental entity" shall have the same meaning as in KRS
+23 65A.010, and as used in this chapter shall include only those special purpose
+24 governmental entities with the authority to levy ad valorem taxes, and that are not
+25 specifically exempt from the provisions of this chapter by another provision of the
+26 Kentucky Revised Statutes;
+27 (29) (a) "Broadcast" means the transmission of audio, video, or other signals, through
+Page 8 of 11
+XXXX 2/17/2025 9:30 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1771
+1 any electronic, radio, light, or similar medium or method now in existence or
+2 later devised over the airwaves to the public in general.
+3 (b) "Broadcast" shall not apply to operations performed by multichannel video
+4 programming service providers as defined in KRS 136.602 or any other
+5 operations that transmit audio, video, or other signals, exclusively to persons
+6 for a fee;
+7 (30) "Livestock" means cattle, sheep, swine, goats, horses, alpacas, llamas, buffaloes,
+8 and any other animals of the bovine, ovine, porcine, caprine, equine, or camelid
+9 species;
+10 (31) "Heavy equipment rental agreement" means the short-term rental contract under
+11 which qualified heavy equipment is rented without an operator for a period:
+12 (a) Not to exceed three hundred sixty-five (365) days; or
+13 (b) That is open-ended under the terms of the contract with no specified end date;
+14 (32) "Heavy equipment rental company" means an entity that is primarily engaged in a
+15 line of business described in Code 532412 or 532310 of the North American
+16 Industry Classification System Manual in effect on January 1, 2019;
+17 (33) "Qualified heavy equipment" means machinery and equipment, including ancillary
+18 equipment and any attachments used in conjunction with the machinery and
+19 equipment, that is:
+20 (a) Primarily used and designed for construction, mining, forestry, or industrial
+21 purposes, including but not limited to cranes, earthmoving equipment, well-
+22 drilling machinery and equipment, lifts, material handling equipment, pumps,
+23 generators, and pollution-reducing equipment; and
+24 (b) Held in a heavy equipment rental company's inventory for:
+25 1. Rental under a heavy equipment rental agreement; or
+26 2. Sale in the regular course of business;
+27 (34) "Veteran service organization" means an organization wholly dedicated to
+Page 9 of 11
+XXXX 2/17/2025 9:30 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1771
+1 advocating on behalf of military veterans and providing charitable programs in
+2 honor and on behalf of military veterans;
+3 (35) "Government restriction on use" means a limitation on the use of at least fifty
+4 percent (50%) of the individual dwelling units of a multi-unit rental housing in
+5 order to receive a federal or state government incentive based on low-income renter
+6 restrictions, including the following government incentives:
+7 (a) A tax credit under Section 42 of the Internal Revenue Code;
+8 (b) Financing derived from exempt facility bonds for qualified residential rental
+9 projects under Section 142 of the Internal Revenue Code;
+10 (c) A low-interest loan under Section 235 or 236 of the National Housing Act or
+11 Section 515 of the Housing Act of 1949;
+12 (d) A rent subsidy;
+13 (e) A guaranteed loan;
+14 (f) A grant; or
+15 (g) A guarantee;
+16 (36) "Low income" means earning at or below eighty percent (80%) of the area median
+17 income as defined by the United States Department of Housing and Urban
+18 Development for the location of the multi-unit rental housing; and
+19 (37) "Multi-unit rental housing" means residential property or project consisting of four
+20 (4) or more individual dwelling units and does not include:
+21 (a) Assisted living facilities; or
+22 (b) Duplexes or single-family units unless they are included as part of a larger
+23 property that is subject to government restriction on use.
+24 Section 2. KRS 136.010 is amended to read as follows:
+25 As used in this chapter, except for KRS 136.500 to 136.575, unless the context requires
+26 otherwise:
+27 (1) "Out-of-state business property" means all real and personal property having a
+Page 10 of 11
+XXXX 2/17/2025 9:30 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1771
+1 taxable situs outside this state owned by a corporation for use in the active conduct
+2 of a trade or business;
+3 (2) "Personal property" means every species and character of property, tangible and
+4 intangible, other than real property;
+5 (3) "Real property":
+6 (a) Means all lands within this state and improvements thereon; and
+7 (b) [For property assessed on January 1, 2024, and on January 1, 2025, ]Includes
+8 but is not limited to mains, pipes, pipelines, and conduits that are:
+9 1. Authorized to be installed in, upon, or under any public or private street
+10 or place; and
+11 2. Used or to be used for or in connection with the collection, transmission,
+12 distribution, conducting, sale, or furnishing of heat, steam, water,
+13 sewage, natural or manufactured gas, or electricity to or for the public;
+14 and
+15 (4) "Tax exempt United States obligations" means all obligations of the United States
+16 exempt from taxation under 31 U.S.C. sec. 3124(a) or exempt under the United
+17 States Constitution or any federal statute including the obligations of any
+18 instrumentality or agency of the United States which are exempt from state or local
+19 taxation under the United States Constitution or any statute of the United States.
+20 Section 3. No claim for refund or credit of a tax overpayment for any taxable
+21 period, made by an amended return, tax refund application, or any other method on or
+22 after the effective date of this Act, and based on the amendments to subsection (3) of
+23 Section 1 of this Act or subsection (3) of Section 2 of this Act, shall be recognized for
+24 any purpose.
+25 Section 4. This Act shall apply retroactively to property assessed on or after
+26 December 31, 2022.
+Page 11 of 11
+XXXX 2/17/2025 9:30 AM Jacketed
+
+[DELETED:   2  J A B S A ( " ( " ( " ( M ( [ b 1 A o 2 U d c s o f o h s w s ( " p m e a c t a i ( " w h ( s ( " t a t t c y a o t p s t t b a t o]
+[DELETED:   2  J p w p a t l t t v e f t b t h e p v a ( " ( T d o s d i t p y l t t v e f t b t h e p o t C ( T d ( " a a ( P a t j h t d s n a t p a t t m o c o s d o t t ( P t o o w h b t f a t e ( T ( T ( T v o i t e r p w t]
+[DELETED:   2  J i i t a v o t p b f p ( ( P w t p i r f f t s b t p v f ( P b u ( P a K j p h t t p s b c " p p ( T v o i t r p p u a m  " p d s b l t v o p r f y ( " ( A t ( c a i a u f t p o l l a ( A f ( A f]
+[DELETED:   2  J s ( " l m a t o l i a i i t c o a g o o t r o f o n v f ( " o h v m t u v o " o h o v e s r p f f e b a v ( R ( D ( R ( I ( R ( A ( F a o ( " v ( " m r p m a t p r o t o b o ( "]
+[DELETED:   2  J r ( " b a t w a p b p w n f t p ( " h m a s m a J 1 1 i a w t N M H C a S S s m a a d w o w a p f w c t t r u a i t p h a a e s c t I m b u a a p o r b p o t b t o l o t a a m c a ( " w H s a c a d t b u a a d w o w a p f w c t t r u a i t p h a a o t ( "]
+[DELETED:   2  J c C a s a b t l a w h j t a p ( " h ( " l r m t t c t t c a m h A u i t s ( " t m a v u m o w d t p o w h t ( s f e b e ( a w c c k u o f a b a t r ( " t m a v p u m o w a c w c p s w w f f t b a v a u a t c s t p t l q ( " q a t]
+[DELETED:   2  J ( " q f r c o t u b o o p a w ( " ( " ( " K ( " v e r p m r p s E ( A p p a t p o p t t p o a ( T a t ( T n w r t h s p c p ( T n ( T s ( T f o]
+[DELETED:   2  J o 1 D 2 A c c o f r e r c 3 R ( " b p t c t b a a d c t ( ( " m a c c l g u g ( " g c ( " j m t c e o o a c c l g u g u l g ( " i ( " p g e s h t s m a i K 6 a a u i t c s i o t s p g s K ( ( "]
+[DELETED:   2  J a l ( " p s p a d i K 1 o a o o f ( " h b a s ( " e r a m t s r c u w ( N ( T ( " l o b d i C 5 o 5 o t N A I ( " e a a a u i c w t m a e ( P p d g ( H 1 R 2 S ( " s o m a o w d t]
+[DELETED:   2  J a o b o m v a p c p i h ( " r o u m a l o t u o a l f p ( o t i d u o a m r h i o r ( A ( F p ( A S ( A ( A ( A ( A ( " i a d b t U S D o H a U D ( " ( ( A ( D p S A o ( " b p m a r a p p h a]
+[DELETED:   2  J t o ( " p m e a c t a i ( " ( M ( [ b 1 A o 2 U d c s o f o h s w s a ( " e f t u U s 3 u U S C o a f s i t o o a i t S p a S a S D]

@@ -1,0 +1,329 @@
+Title: 1 AN ACT relating to group health insurance.
+Official Title: 1 AN ACT relating to group health insurance.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS BR 1416
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 91A.080 is amended to read as follows:
+4 (1) The legislative body of each local government which elects to impose and collect
+5 license fees or taxes upon insurance companies for the privilege of engaging in the
+6 business of insurance may, except as provided in subsection (10) of this section,
+7 enact or change its license fee or rate of tax to be effective July 1 of each year on a
+8 prospective basis only and shall file with the commissioner of insurance at least one
+9 hundred (100) days prior to the effective date, a copy of all ordinances and
+10 amendments which impose a license fee or tax. No less than eighty-five (85) days
+11 prior to the effective date, the commissioner of insurance shall promptly notify each
+12 insurance company engaged in the business of insurance in the Commonwealth of
+13 those local governments which have elected to impose the license fees or taxes and
+14 the current amount of the license fee or rate of tax.
+15 (2) Any license fee or tax imposed by a local government upon an insurance company
+16 with respect to life insurance policies may be based upon the first year's premiums,
+17 and, if so based, shall be applied to the amount of the premiums actually collected
+18 within each calendar quarter upon the lives of persons residing within the corporate
+19 limits of the local government.
+20 (3) Any license fee or tax imposed by a local government upon any insurance company
+21 with respect to any policy which is not a life insurance policy shall be based upon
+22 the premiums actually collected by the insurance company within each calendar
+23 quarter on risks located within the corporate limits of the local government on those
+24 classes of business which the insurance company is authorized to transact, less all
+25 premiums returned to policyholders. In determining the amount of license fee or tax
+26 to be collected and to be paid to the local government, the insurance company shall
+27 use the tax rate effective on the first day of the policy term. When an insurance
+Page 1 of 5
+XXXX 2/17/2025 10:09 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1416
+1 company collects a premium as a result of a change in the policy during the policy
+2 term, the tax rate used shall be the rate in effect on the effective date of the policy
+3 change. With respect to premiums returned to policyholders, the license fee or tax
+4 shall be returned by the insurance company to the policyholder pro rata on the
+5 unexpired amount of the premium at the same rate at which it was collected and
+6 shall be taken as a credit by the insurance company on its next quarterly report to
+7 the local government.
+8 (4) The Department of Insurance shall, by administrative regulation, provide for a
+9 reasonable collection fee to be retained by the insurance company or its agent as
+10 compensation for collecting the tax, except that the collection fee shall not be more
+11 than fifteen percent (15%) of the fee or tax collected and remitted to the local
+12 government or two percent (2%) of the premiums subject to the tax, whichever is
+13 less. To facilitate computation, collection, and remittance of the fee or tax and
+14 collection fee provided in this section, the fees or taxes set out in subsection (1), (2),
+15 or (3) of this section, together with the collection fee in this section, may be
+16 rounded off to the nearest dollar amount.
+17 (5) Pursuant to KRS 304.3-270, if any other state retaliates against any Kentucky
+18 domiciliary insurer because of the requirements of this section, the commissioner of
+19 insurance shall impose an equal tax upon the premiums written in this state by
+20 insurers domiciled in the other state.
+21 (6) Accounting and reporting procedures for collection and reporting of the fees or
+22 taxes and the collection fee herein provided shall be determined by administrative
+23 regulations promulgated by the Department of Insurance.
+24 (7) (a) Upon written request of the legislative body of any local government, at the
+25 expense of the requesting local government, which shall be paid in advance
+26 by the local government to the Department of Insurance, the Department of
+27 Insurance shall audit, or cause to be audited by contract with qualified
+Page 2 of 5
+XXXX 2/17/2025 10:09 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1416
+1 auditors, the books or records of the insurance companies or agents subject to
+2 the fee or tax to determine whether the fee or tax is being properly collected
+3 and remitted, and the findings of the audit shall be reported to the local
+4 government and the insurance company subject to the audit. An insurance
+5 company may appeal the findings of the audit conducted under this subsection
+6 and any assessment issued pursuant to the audit findings in accordance with
+7 the provisions of KRS 91A.0804(5).
+8 (b) Willful failure to properly collect and remit the fee or tax imposed by a local
+9 government pursuant to the authority granted by this section shall constitute
+10 grounds for the revocation of the license issued to an insurance company or
+11 agent under the provisions of KRS Chapter 304.
+12 (c) If the Department of Insurance finds that an insurance company has willfully
+13 engaged in a pattern of business conduct that fails to properly collect and
+14 remit the fee or tax imposed by a local government pursuant to the authority
+15 granted by this section, the Department of Insurance may assess the
+16 responsible insurance company an appropriate penalty fee no greater than ten
+17 percent (10%) of the additional license fees or taxes determined to be owed to
+18 the local government. The penalty fee shall be paid to the local government
+19 owed the license fee or tax less any administrative costs of the Department of
+20 Insurance in enforcing this section. Any insurance company or agent held
+21 responsible for a penalty fee may request a hearing with the Department of
+22 Insurance to be conducted pursuant to KRS 304.2-310 to 304.2-370 regarding
+23 the finding of a willful violation and the subsequent penalty fee.
+24 (8) The license fees or taxes provided for by subsections (2) and (3) of this section shall
+25 be due thirty (30) days after the end of each calendar quarter. Annually, by March
+26 31, each insurance company shall furnish each local government to which the tax or
+27 fee is remitted with a breakdown of all collections in the preceding calendar year
+Page 3 of 5
+XXXX 2/17/2025 10:09 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1416
+1 for the following categories of insurance:
+2 (a) Casualty;
+3 (b) Automobile;
+4 (c) Inland marine;
+5 (d) Fire and allied perils;[
+6 (e) Health;] and
+7 (e)[(f)] Life.
+8 (9) Any license fee or tax not paid on or before the due date shall bear interest at the tax
+9 interest rate as defined in KRS 131.010(6) from the date due until paid. Such
+10 interest payable to the local government is separate of penalties provided for in
+11 subsection (7) of this section. In addition, the local government may assess a ten
+12 percent (10%) penalty for a tax or fee not paid within thirty (30) days after the due
+13 date.
+14 (10) No license fee or tax imposed under this section shall apply to premiums:
+15 (a) [Received on policies of group health insurance provided for state employees
+16 under KRS 18A.225;
+17 (b) ]Received on policies insuring employers against liability for personal injuries
+18 to their employees or the death of their employees caused thereby, under the
+19 provisions of KRS Chapter 342;
+20 (b)[(c)] Received on health insurance policies[ issued to individuals;
+21 (d) Received on policies issued through Kentucky Access created in Subtitle 17B
+22 of KRS Chapter 304;
+23 (e) Received on policies for high deductible health plans as defined in 26 U.S.C.
+24 sec. 223(c)(2)];
+25 (c)[(f)] Received on multistate surplus lines, defined as non-admitted insurance
+26 as provided in Title V, Subtitle B, the Non-Admitted and Reinsurance Reform
+27 Act of 2010, of the Dodd-Frank Wall Street Reform and Consumer Protection
+Page 4 of 5
+XXXX 2/17/2025 10:09 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1416
+1 Act, Pub. L. No. 111-203;
+2 (d)[(g)] Paid to insurance companies or surplus lines brokers by nonprofit self-
+3 insurance groups or self-insurance entities whose membership consists of
+4 school districts; or
+5 (e)[(h)] Paid to insurance companies or surplus lines brokers by nonprofit self-
+6 insurance groups or self-insurance entities whose membership consists of
+7 cities, counties, charter county governments, urban-county governments,
+8 consolidated local governments, unified local governments, school districts,
+9 or any other political subdivisions of the Commonwealth.
+10 (11) No county may impose the tax authorized by this section upon the premiums
+11 received on policies issued to public service companies which pay ad valorem
+12 taxes.
+13 (12) Insurance companies which pay license fees or taxes pursuant to this section shall
+14 credit city license fees or taxes against the same license fees or taxes levied by the
+15 county, when the license fees or taxes are levied by the county on or after July 13,
+16 1990. For purposes of this subsection, a consolidated local government, urban-
+17 county government, charter county government, or unified local government shall
+18 be considered a county.
+19 (13) No license fee or tax imposed under this section shall apply to premiums paid to
+20 insurers of municipal bonds, leases, or other debt instruments issued by or on behalf
+21 of a city, county, charter county government, urban-county government,
+22 consolidated local government, special district, nonprofit corporation, or other
+23 political subdivision of the Commonwealth. However, this exemption shall not
+24 apply if the bonds, leases, or other debt instruments are issued for profit or on
+25 behalf of for-profit or private organizations.
+26 (14) A county may impose a license fee or tax covering the entire county or may limit
+27 the application of the fee or tax to the unincorporated portions of the county.
+Page 5 of 5
+XXXX 2/17/2025 10:09 AM Jacketed
+[DELETED:   2  J A B S ( T l b e p h ( d p t t e d a c o a o a a p i t t ( A w a w l ( A w t p a c b t i c w e c q c p t u]
+[DELETED:   2  J c t c s b r b t i c t t p p r o t u s t ( T D o I s b a r p f a r c t f p ( o t f o t c a r t t l g l T f c c a r o t f o t a c o ( o t s t w t c f i t s m b r ( P t K 3 i a o s r a a K d i s i a e t u t p w i t s b i ( A a r p f c a r o t f o t r ( ( U e b I s a o c t b a b c w q]
+[DELETED:   2  J a t a r a t f o t a s b r t t l g a t i c s t t a A i c a t ( W g g a ( I e i a p o b c t f t p c a r g b t s t D o I m a t r p t o I i e t s A i c o a h r I t ( T b 3 f]
+[DELETED:   2  J f ( C ( A ( I ( F ( H ( L ( A i r a d i K 1 f t d d u p S i p t t l g i s o p p f i s p d ( N ( [ u ( ] t p ( R ( R o ( R s ( R a A]
+[DELETED:   2  J A ( P i g o s e w m c o s ( P i g o s e w m c o c c c c g u g c o ( N c m i t t a b t s u t p r o p i t p s c w p a v t ( I c c 1 F p o t s a c l g u c b ( N i o a c c c c g u g c l g s d n c o o p s o t C H t e s n a i t b l o o d i a i f p o o b ( A t]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS BR 1416
+1 AN ACT relating to group health insurance.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 91A.080 is amended to read as follows:
+4 (1) The legislative body of each local government which elects to impose and collect
+5 license fees or taxes upon insurance companies for the privilege of engaging in the
+6 business of insurance may, except as provided in subsection (10) of this section,
+7 enact or change its license fee or rate of tax to be effective July 1 of each year on a
+8 prospective basis only and shall file with the commissioner of insurance at least one
+9 hundred (100) days prior to the effective date, a copy of all ordinances and
+10 amendments which impose a license fee or tax. No less than eighty-five (85) days
+11 prior to the effective date, the commissioner of insurance shall promptly notify each
+12 insurance company engaged in the business of insurance in the Commonwealth of
+13 those local governments which have elected to impose the license fees or taxes and
+14 the current amount of the license fee or rate of tax.
+15 (2) Any license fee or tax imposed by a local government upon an insurance company
+16 with respect to life insurance policies may be based upon the first year's premiums,
+17 and, if so based, shall be applied to the amount of the premiums actually collected
+18 within each calendar quarter upon the lives of persons residing within the corporate
+19 limits of the local government.
+20 (3) Any license fee or tax imposed by a local government upon any insurance company
+21 with respect to any policy which is not a life insurance policy shall be based upon
+22 the premiums actually collected by the insurance company within each calendar
+23 quarter on risks located within the corporate limits of the local government on those
+24 classes of business which the insurance company is authorized to transact, less all
+25 premiums returned to policyholders. In determining the amount of license fee or tax
+26 to be collected and to be paid to the local government, the insurance company shall
+27 use the tax rate effective on the first day of the policy term. When an insurance
+Page 1 of 5
+XXXX 2/17/2025 10:09 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1416
+1 company collects a premium as a result of a change in the policy during the policy
+2 term, the tax rate used shall be the rate in effect on the effective date of the policy
+3 change. With respect to premiums returned to policyholders, the license fee or tax
+4 shall be returned by the insurance company to the policyholder pro rata on the
+5 unexpired amount of the premium at the same rate at which it was collected and
+6 shall be taken as a credit by the insurance company on its next quarterly report to
+7 the local government.
+8 (4) The Department of Insurance shall, by administrative regulation, provide for a
+9 reasonable collection fee to be retained by the insurance company or its agent as
+10 compensation for collecting the tax, except that the collection fee shall not be more
+11 than fifteen percent (15%) of the fee or tax collected and remitted to the local
+12 government or two percent (2%) of the premiums subject to the tax, whichever is
+13 less. To facilitate computation, collection, and remittance of the fee or tax and
+14 collection fee provided in this section, the fees or taxes set out in subsection (1), (2),
+15 or (3) of this section, together with the collection fee in this section, may be
+16 rounded off to the nearest dollar amount.
+17 (5) Pursuant to KRS 304.3-270, if any other state retaliates against any Kentucky
+18 domiciliary insurer because of the requirements of this section, the commissioner of
+19 insurance shall impose an equal tax upon the premiums written in this state by
+20 insurers domiciled in the other state.
+21 (6) Accounting and reporting procedures for collection and reporting of the fees or
+22 taxes and the collection fee herein provided shall be determined by administrative
+23 regulations promulgated by the Department of Insurance.
+24 (7) (a) Upon written request of the legislative body of any local government, at the
+25 expense of the requesting local government, which shall be paid in advance
+26 by the local government to the Department of Insurance, the Department of
+27 Insurance shall audit, or cause to be audited by contract with qualified
+Page 2 of 5
+XXXX 2/17/2025 10:09 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1416
+1 auditors, the books or records of the insurance companies or agents subject to
+2 the fee or tax to determine whether the fee or tax is being properly collected
+3 and remitted, and the findings of the audit shall be reported to the local
+4 government and the insurance company subject to the audit. An insurance
+5 company may appeal the findings of the audit conducted under this subsection
+6 and any assessment issued pursuant to the audit findings in accordance with
+7 the provisions of KRS 91A.0804(5).
+8 (b) Willful failure to properly collect and remit the fee or tax imposed by a local
+9 government pursuant to the authority granted by this section shall constitute
+10 grounds for the revocation of the license issued to an insurance company or
+11 agent under the provisions of KRS Chapter 304.
+12 (c) If the Department of Insurance finds that an insurance company has willfully
+13 engaged in a pattern of business conduct that fails to properly collect and
+14 remit the fee or tax imposed by a local government pursuant to the authority
+15 granted by this section, the Department of Insurance may assess the
+16 responsible insurance company an appropriate penalty fee no greater than ten
+17 percent (10%) of the additional license fees or taxes determined to be owed to
+18 the local government. The penalty fee shall be paid to the local government
+19 owed the license fee or tax less any administrative costs of the Department of
+20 Insurance in enforcing this section. Any insurance company or agent held
+21 responsible for a penalty fee may request a hearing with the Department of
+22 Insurance to be conducted pursuant to KRS 304.2-310 to 304.2-370 regarding
+23 the finding of a willful violation and the subsequent penalty fee.
+24 (8) The license fees or taxes provided for by subsections (2) and (3) of this section shall
+25 be due thirty (30) days after the end of each calendar quarter. Annually, by March
+26 31, each insurance company shall furnish each local government to which the tax or
+27 fee is remitted with a breakdown of all collections in the preceding calendar year
+Page 3 of 5
+XXXX 2/17/2025 10:09 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1416
+1 for the following categories of insurance:
+2 (a) Casualty;
+3 (b) Automobile;
+4 (c) Inland marine;
+5 (d) Fire and allied perils;[
+6 (e) Health;] and
+7 (e)[(f)] Life.
+8 (9) Any license fee or tax not paid on or before the due date shall bear interest at the tax
+9 interest rate as defined in KRS 131.010(6) from the date due until paid. Such
+10 interest payable to the local government is separate of penalties provided for in
+11 subsection (7) of this section. In addition, the local government may assess a ten
+12 percent (10%) penalty for a tax or fee not paid within thirty (30) days after the due
+13 date.
+14 (10) No license fee or tax imposed under this section shall apply to premiums:
+15 (a) [Received on policies of group health insurance provided for state employees
+16 under KRS 18A.225;
+17 (b) ]Received on policies insuring employers against liability for personal injuries
+18 to their employees or the death of their employees caused thereby, under the
+19 provisions of KRS Chapter 342;
+20 (b)[(c)] Received on health insurance policies[ issued to individuals;
+21 (d) Received on policies issued through Kentucky Access created in Subtitle 17B
+22 of KRS Chapter 304;
+23 (e) Received on policies for high deductible health plans as defined in 26 U.S.C.
+24 sec. 223(c)(2)];
+25 (c)[(f)] Received on multistate surplus lines, defined as non-admitted insurance
+26 as provided in Title V, Subtitle B, the Non-Admitted and Reinsurance Reform
+27 Act of 2010, of the Dodd-Frank Wall Street Reform and Consumer Protection
+Page 4 of 5
+XXXX 2/17/2025 10:09 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1416
+1 Act, Pub. L. No. 111-203;
+2 (d)[(g)] Paid to insurance companies or surplus lines brokers by nonprofit self-
+3 insurance groups or self-insurance entities whose membership consists of
+4 school districts; or
+5 (e)[(h)] Paid to insurance companies or surplus lines brokers by nonprofit self-
+6 insurance groups or self-insurance entities whose membership consists of
+7 cities, counties, charter county governments, urban-county governments,
+8 consolidated local governments, unified local governments, school districts,
+9 or any other political subdivisions of the Commonwealth.
+10 (11) No county may impose the tax authorized by this section upon the premiums
+11 received on policies issued to public service companies which pay ad valorem
+12 taxes.
+13 (12) Insurance companies which pay license fees or taxes pursuant to this section shall
+14 credit city license fees or taxes against the same license fees or taxes levied by the
+15 county, when the license fees or taxes are levied by the county on or after July 13,
+16 1990. For purposes of this subsection, a consolidated local government, urban-
+17 county government, charter county government, or unified local government shall
+18 be considered a county.
+19 (13) No license fee or tax imposed under this section shall apply to premiums paid to
+20 insurers of municipal bonds, leases, or other debt instruments issued by or on behalf
+21 of a city, county, charter county government, urban-county government,
+22 consolidated local government, special district, nonprofit corporation, or other
+23 political subdivision of the Commonwealth. However, this exemption shall not
+24 apply if the bonds, leases, or other debt instruments are issued for profit or on
+25 behalf of for-profit or private organizations.
+26 (14) A county may impose a license fee or tax covering the entire county or may limit
+27 the application of the fee or tax to the unincorporated portions of the county.
+Page 5 of 5
+XXXX 2/17/2025 10:09 AM Jacketed
+
+[DELETED:   2  J A B S ( T l b e p h ( d p t t e d a c o a o a a p i t t ( A w a w l ( A w t p a c b t i c w e c q c p t u]
+[DELETED:   2  J c t c s b r b t i c t t p p r o t u s t ( T D o I s b a r p f a r c t f p ( o t f o t c a r t t l g l T f c c a r o t f o t a c o ( o t s t w t c f i t s m b r ( P t K 3 i a o s r a a K d i s i a e t u t p w i t s b i ( A a r p f c a r o t f o t r ( ( U e b I s a o c t b a b c w q]
+[DELETED:   2  J a t a r a t f o t a s b r t t l g a t i c s t t a A i c a t ( W g g a ( I e i a p o b c t f t p c a r g b t s t D o I m a t r p t o I i e t s A i c o a h r I t ( T b 3 f]
+[DELETED:   2  J f ( C ( A ( I ( F ( H ( L ( A i r a d i K 1 f t d d u p S i p t t l g i s o p p f i s p d ( N ( [ u ( ] t p ( R ( R o ( R s ( R a A]
+[DELETED:   2  J A ( P i g o s e w m c o s ( P i g o s e w m c o c c c c g u g c o ( N c m i t t a b t s u t p r o p i t p s c w p a v t ( I c c 1 F p o t s a c l g u c b ( N i o a c c c c g u g c l g s d n c o o p s o t C H t e s n a i t b l o o d i a i f p o o b ( A t]

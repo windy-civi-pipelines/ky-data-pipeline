@@ -1,0 +1,630 @@
+Title: 1 AN ACT relating to Medicaid managed care organizations.
+Official Title: 1 AN ACT relating to Medicaid managed care organizations.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+UNOFFICIAL COPY 25 RS BR 1947
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 205.533 is amended to read as follows:
+4 (1) [By January 1, 2019, ]A managed care organization shall establish an interactive
+5 website[Web site], operated by the managed care organization, that allows
+6 providers to file grievances, appeals, and supporting documentation electronically
+7 in an encrypted format that complies with federal law and that allows a provider to
+8 review the current status of a matter relating to an appeal or a grievance filed
+9 concerning a submitted claim.
+10 (2) Each managed care organization's website, established in accordance with
+11 subsection (1) of this section shall include, in a highly visible and easily
+12 accessible manner, the following:
+13 (a) The names of the managed care organization's:
+14 1. Provider relations representatives for behavioral health;
+15 2. Provider relations representatives for physical health; and
+16 3. Provider contract representatives for provider contract changes;
+17 (b) The email address and telephone number for each individual described in
+18 paragraph (a) of this subsection; and
+19 (c) A detailed explanation, written in plain and simple to understand language,
+20 of the managed care organization's process for:
+21 1. Internal appeals; and
+22 2. Providers to request an external, independent third-party review.
+23 (3) Information required to be accessible on a managed care organization's website
+24 pursuant to subsection (2) of this section shall be kept current and updated within
+25 thirty (30) days of any change to the information.
+26 Section 2. KRS 205.534 is amended to read as follows:
+27 (1) A Medicaid managed care organization with whom the Department for Medicaid
+Page 1 of 10
+XXXX 2/19/2025 11:49 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1947
+1 Services contracts for the delivery of Medicaid services shall:
+2 (a) Provide:
+3 1. A toll-free telephone line for providers to contact the insurer for claims
+4 resolution for forty (40) hours a week during normal business hours in
+5 this state;
+6 2. A toll-free telephone line for providers to submit requests for
+7 authorizations of covered services during normal business hours and
+8 extended hours in this state on Monday and Friday through 6 p.m.,
+9 including federal holidays;
+10 3. With regard to any adverse payment or coverage determination, copies
+11 of all documents, records, and other information relevant to a
+12 determination, including medical necessity criteria and any processes,
+13 strategies, or evidentiary standards relied upon, if requested by the
+14 provider. Documents, records, and other information required to be
+15 provided under this paragraph shall be provided at no cost to the
+16 provider; and
+17 4. For any adverse payment or coverage determination, a written reply in
+18 sufficient detail to inform the provider of all reasons for the
+19 determination. The written reply shall include information about the
+20 provider's right to request and receive at no cost to the provider
+21 documents, records, and other information under subparagraph 3. of this
+22 paragraph;
+23 (b) Afford each participating provider the opportunity for an in-person meeting
+24 with a representative of the managed care organization on:
+25 1. Any clean claim that remains unpaid in violation of KRS 304.17A-700
+26 to 304.17A-730; and
+27 2. Any claim that remains unpaid for forty-five (45) days or more after the
+Page 2 of 10
+XXXX 2/19/2025 11:49 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1947
+1 date the claim is received by the managed care organization and that
+2 individually or in the aggregate exceeds two thousand five hundred
+3 dollars ($2,500);
+4 (c) Reprocess claims that are incorrectly paid or denied in error, in compliance
+5 with KRS 304.17A-708. The reprocessing shall not require a provider to rebill
+6 or resubmit claims to obtain correct payment. No claim shall be denied for
+7 timely filing if the initial claim was timely submitted;[ and]
+8 (d) Establish processes for internal appeals, including provisions for:
+9 1. Allowing a provider to file any grievance or appeal related to the
+10 reduction or denial of the claim within one hundred twenty (120)[sixty
+11 (60)] days of receipt of a notification from the managed care
+12 organization that payment for a submitted claim has been reduced or
+13 denied;[ and]
+14 2. a. Ensuring the timely consideration and disposition of any grievance
+15 or any appeal within thirty (30) days from the date the grievance or
+16 appeal is filed with the managed care organization by a provider
+17 under this paragraph.
+18 b. Failure of the managed care organization to comply with
+19 subdivision a. of this subparagraph shall result in:
+20 i. A fine or penalty as provided for in subsection (6) of this
+21 section; or
+22 ii. If related to an unresolved appeal, granting the provider's
+23 appeal to reimburse and reversal of the managed care
+24 organization's reduction or denial of the claim;
+25 3. Ensuring that, following the resolution of an appeal that results in a
+26 determination that a monetary amount is owed to a provider, payment
+27 is made in full to the provider within thirty (30) days from the date on
+Page 3 of 10
+XXXX 2/19/2025 11:49 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1947
+1 which the appeal was resolved. Payments required under this
+2 subparagraph shall include:
+3 a. The monetary amount determined to be owed to the provider plus
+4 twelve percent (12%) interest; and
+5 b. If applicable, reasonable attorney's fees incurred by the provider
+6 to appeal the managed care organization's denial; and
+7 (e) With regard to provider audits:
+8 1. a. Ensure, except as provided in subdivision b. of this
+9 subparagraph, that audit requests are reasonable in regard to the
+10 number of providers being audited, the number of records being
+11 audited, and the timeframe audit records cover by utilizing a
+12 valid sampling methodology to determine which providers may
+13 be audited, the number of records that may be audited, and the
+14 timeframe covered by records that may be audited.
+15 b. The requirement that audit decisions be based on a valid
+16 sampling methodology shall not apply to cases in which an
+17 allegation of fraud, willful misrepresentation, or abuse is made
+18 by the managed care organization.
+19 c. A managed care organization shall notify the Department for
+20 Medicaid Services of any allegations of fraud, willful
+21 misrepresentation, or abuse prior to initiating a provider audit;
+22 2. Provide written notification to a provider that he or she is being
+23 audited. The written notification shall include:
+24 a. The date the written notification was sent to the provider;
+25 b. An explanation of the purpose of the audit;
+26 c. The number of records being audited;
+27 d. The timeframe covered by the records being audited;
+Page 4 of 10
+XXXX 2/19/2025 11:49 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1947
+1 e. The number of calendar days the provider shall be allowed, in
+2 accordance with subparagraph 3. of this paragraph, to provide
+3 or grant access to the requested records;
+4 f. The managed care organization's or, if the managed care
+5 organization has contracted with a third-party to conduct the
+6 audit, the third-party entity's point of contact for the audit,
+7 including the individual's name, telephone number, mailing
+8 address, email address, and fax number; and
+9 g. Complete written instructions for filing an appeal including the
+10 appeal shall be submitted by the provider to the managed care
+11 organization or, if the managed care organization has contracted
+12 with a third-party to conduct the audit, the third-party entity;
+13 3. Allow at least thirty (30) calendar days for a provider to provide or
+14 grant access to the requested records, except that a provider shall be
+15 allowed:
+16 a. A minimum of sixty (60) calendar days if more than thirty (30)
+17 records are being requested or if the timeframe the records cover
+18 is more one (1) year; and
+19 b. Additional time beyond the minimally required thirty (30) or
+20 sixty (60) calendar days if the provider provides justification for
+21 the need for additional time;
+22 4. Limit the timeframe of records requested as part of an audit to not
+23 more than two (2) years from the date on which a claim was submitted
+24 for payment, except that a longer timeframe shall be permitted if
+25 allowed under federal law or if there is evidence of fraud. If evidence
+26 of fraud exists, the managed care organization shall notify the
+27 Department for Medicaid Services of the evidence of fraud prior to
+Page 5 of 10
+XXXX 2/19/2025 11:49 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1947
+1 initiating a provider audit;
+2 5. Complete an audit within one hundred twenty (120) calendar days
+3 from the date on which the written audit notification required under
+4 subparagraph 2. of this paragraph was sent to the provider;
+5 6. Provide written findings of a completed audit to the provider within
+6 thirty (30) calendar days of date on which the audit was completed.
+7 Written audit findings shall:
+8 a. Include the name, phone number, mailing address, email
+9 address, and fax number of the manage care organization's or, if
+10 the managed care organization has contracted with a third-party
+11 to conduct the audit, the third-party entity's point of contact
+12 responsible for the audit findings;
+13 b. Provide claims-level detail of the amounts and reasons for each
+14 claim recovery found to be due; and
+15 c. Clearly state if no amounts have been found to be due;
+16 7. a. Exempt, as provided in subparagraph 8. of this paragraph, a
+17 provider from recoupment of funds if an audit results in the
+18 identification of any clerical or recordkeeping errors, including
+19 typographical errors, scrivener's errors, omissions, or computer
+20 errors, unless the auditing entity provides proof of intent to
+21 commit fraud or the error results in an actual overpayment to the
+22 provider.
+23 b. If an auditing entity discovers or is otherwise in possession of
+24 proof of intent to commit fraud, the auditing entity shall
+25 immediately notify the Department for Medicaid Services;
+26 8. Allow the provider to submit amended claims within thirty (30)
+27 calendar days of the discovery of a clerical or recordkeeping error in
+Page 6 of 10
+XXXX 2/19/2025 11:49 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1947
+1 lieu of recoupment if the services were otherwise provided in
+2 accordance with state and federal law;
+3 9. Not receive payment based on the amount recovered in the audit;
+4 10. Only recoup funds from a provider upon the final disposition of the
+5 audit including the appeals process as established in KRS 205.646;
+6 and
+7 11. Base recoupment of claims on the actual overpayment or
+8 underpayment of claims unless the provider agrees to a settlement to
+9 the contrary.
+10 (2) (a) For the purposes of this subsection:
+11 1. "Timely" means that an authorization or preauthorization request shall
+12 be approved:
+13 a. For an expedited authorization request, within seventy-two (72)
+14 hours after receipt of the request. The timeframe for an expedited
+15 authorization request may be extended by up to fourteen (14) days
+16 if:
+17 i. The enrollee requests an extension; or
+18 ii. The Medicaid managed care organization justifies to the
+19 department a need for additional information and how the
+20 extension is in the enrollee's interest; and
+21 b. For a standard authorization request, within two (2) business days.
+22 The timeframe for a standard authorization request may be
+23 extended by up to fourteen (14) additional days if:
+24 i. The provider or enrollee requests an extension; or
+25 ii. The Medicaid managed care organization justifies to the
+26 department a need for additional information and how the
+27 extension is in the enrollee's interest; and
+Page 7 of 10
+XXXX 2/19/2025 11:49 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1947
+1 2. a. "Expedited authorization request" means a request for
+2 authorization or preauthorization where the provider determines
+3 that following the standard a timeframe could seriously jeopardize
+4 an enrollee's life or health, or ability to attain, maintain, or regain
+5 maximum function; and
+6 b. A request for authorization or preauthorization for treatment of an
+7 enrollee with a diagnosis of substance use disorder shall be
+8 considered an expedited authorization request by the provider and
+9 the managed care organization.
+10 (b) A decision by a managed care organization on an authorization or
+11 preauthorization request for physical, behavioral, or other medically necessary
+12 services shall be made in a timely and consistent manner so that Medicaid
+13 members with comparable medical needs receive a comparable, consistent
+14 level, amount, and duration of services as supported by the member's medical
+15 condition, records, and previous affirmative coverage decisions.
+16 (3) (a) Each managed care organization shall report on a monthly basis to the
+17 department:
+18 1. The number and dollar value of claims received that were denied,
+19 suspended, or approved for payment;
+20 2. The number of requests for authorization of services and the number of
+21 such requests that were approved and denied;
+22 3. The number of internal appeals and grievances filed by members and by
+23 providers and the type of service related to the grievance or appeal, the
+24 total dollar amount of all denials being appealed, the time of
+25 resolution, the number of internal appeals and grievances where the
+26 initial denial was overturned and the type of service and dollar amount
+27 associated with the overturned denials;[ and]
+Page 8 of 10
+XXXX 2/19/2025 11:49 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1947
+1 4. For each internal appeal or grievance not resolved within sixty (60)
+2 calendar days, the name of the provider who filed the unresolved
+3 internal appeal or grievance, the dollar amount of the claim that was
+4 denied if a denial is being appealed, the reason for the delay in
+5 resolving the internal appeal or grievance, the current status of the
+6 internal appeal or grievance, and the outcome determination if
+7 rendered prior to the filing of the report; and
+8 5. Any other information required by the department.
+9 (b) The data required in paragraph (a) of this subsection shall be separately
+10 reported by provider category, as prescribed by the department, and shall at a
+11 minimum include inpatient acute care hospital services, inpatient psychiatric
+12 hospital services, outpatient hospital services, residential behavioral health
+13 services, and outpatient behavioral health services.
+14 (4) On a monthly basis, the department shall transmit to the Department of Insurance a
+15 report of each corrective action plan, fine, or sanction assessed against a Medicaid
+16 managed care organization for violation of a Medicaid managed care organization's
+17 contract relating to prompt payment of claims. The Department of Insurance shall
+18 then make a determination of whether the contract violation was also a violation of
+19 KRS 304.17A-700 to 304.17A-730.
+20 (5) By December 15 of each year beginning in 2025, the Department for Medicaid
+21 Services shall submit to the Legislative Research Commission for referral to the
+22 Interim Joint Committee on Health Services and the Legislative Oversight and
+23 Investigations Committee a report containing the following information reported
+24 separately for each managed care organization with whom the department has
+25 contracted for the delivery of Medicaid services:
+26 (a) The number and dollar value of all claims that were received by the
+27 managed care organization and the number of dollar value of those claims
+Page 9 of 10
+XXXX 2/19/2025 11:49 AM Jacketed
+UNOFFICIAL COPY 25 RS BR 1947
+1 that were approved for payment, denied, or suspended;
+2 (b) The number of requests for authorization of services received and the
+3 number of those requests that were approved or denied;
+4 (c) The number of internal appeals and grievances filed by Medicaid members
+5 and by providers, the types of services to which the internal appeals and
+6 grievances relate, the total dollar amount of denials that were appealed, the
+7 average length of time to resolution, the number of internal appeals and
+8 grievances where the initial denial was overturned, and the types of services
+9 and dollar amount of overturned denials; and
+10 (d) The number of internal appeals and grievances not resolved within sixty
+11 (60) calendar days, the ten (10) most common reasons given for delays, the
+12 total dollar amount when a denial is being appealed, and the number of
+13 final determinations made in favor of a provider.
+14 (6) Any Medicaid managed care organization that fails to comply with subsection
+15 (1)(d)2. of this section, KRS 205.522, 205.532 to 205.536, and 304.17A-515 may
+16 be subject to fines, penalties, and sanctions, up to and including termination, as
+17 established under its Medicaid managed care contract with the department.
+18 (7) The Department for Medicaid Services may promulgate administrative
+19 regulations in accordance with KRS Chapter 13A to implement and enforce this
+20 section.
+Page 10 of 10
+XXXX 2/19/2025 11:49 AM Jacketed
+[DELETED:  C  2  J A B S ( [ J 1 2 ] m c o w s o b t m c o t a p t f g i r t c s o a m r t a a o a g f c ( E m c o w e i a w s ( o t s s i i a h v a e a ( T 1 P 2 P 3 P f ( T e a a p ( A o 1 I 2 P ( I r p t S ( A]
+[DELETED:  C  2  J S ( P 1 A r t 2 A t t l f p t s r f a o c s d n b h a e h i t s o M a F t 6 p i 3 W o a d r a o i r t a d i m n c a a p s o e s r u i r b t p D r a o i r t b p u t p s b p a n c t t p 4 F s d t i t p o a r f t d T w r s i i a t p r t r a r a n c t t p d p ( A e w 1 A t 2 A]
+[DELETED:  C  2  J d t c i r b t m i o i t a e t t f h d ( R c t a i p w o r c t o c p t ( E 1 A a p t f a g o a r t t r ( d o r o a n f t m c o t p f a s c h b d 2 a E o a u b F o t m c o t c w s i A f o p a p f i s i I r t a u a t r a r o t m c o 3 E t f t d i]
+[DELETED:  C  2  J w t a w r P r u t s a T t b I t d ( W 1 a E e a p i s b o t s n a a t t a r c b u a v s m t d w p m b t b T r t a d b b o a v s m s n a t c i w a a o f w m o a b c A m c o s n t D f M S o a a o f w m a 2 P w n t a p t h o s i b a a T w b A c T d T]
+[DELETED:  C  2  J e T n o c d t p a w s 3 o t p o f T m c o o i t m c o h c w a t t c t a t t e p o c f t a i t i n t n m a g C w i f f a s b s b t p t t o w t 3 A a l t ( c d f a p t p o g a t t r r a a A m r i b A t b t m r t ( o s ( c d t 4 L t t o r r a p o a a t n m f p e t a l t s b p i a o f e t m c o s n t D f M S o t e o f p t]
+[DELETED:  C  2  J i a 5 C a a w o h t ( c d f t d o w t s 6 P w f o a c a t t p w t ( c d o d o w t a w W a I t n p n m a e a t t c t a t t e p o c r b P c c C 7 a E a p i s 8 o t p a p f r o f i a a r i t i o a c o r e i t e s e o o c e u t a e p p o i t c p b I a a e d o i o i p o p o i t c f t a e s i 8 A t p t s a c w t ( c d]
+[DELETED:  C  2  J l o r i t s w o p i a 9 N 1 O r f f a p u t a i t a p a e i K 2 a 1 B r o c o t a o o u o c u t ( ( F 1 " m t a a o p r b a F a e a r w s ( h a i i T i T M m c o j t t d a n f a e b F T t f a s a r m b e i T i T M m c o j t t d a n f a e]
+[DELETED:  C  2  J 2 a " a r m a r f a o p w t p d t a m b A e w a d o s u d s b c t ( A d b a m c o o a a o p s s b m i a t a c m w c m n r a c c l c ( ( E m c o s r o a m b t t d 1 T n a d v o c r t w d s 2 T s 3 T p t d a o a d b a t t o r t n o i a a g w t i a]
+[DELETED:  C  2  J 4 F e i a o g n r w s ( c d t n o t p w f t u i d i a d i b a t r f t d i r t i a o g t c s o t i a o g a t o d i r 5 A ( T d r i p ( o t s s b s r m i i a h s o h s r b h s ( O r m c t K ( B D 1 o S s s I J C o H S a t L O a I C s f e m c o w w t c ( T n a d v o a c t w r b t m]
+[DELETED:  C  2  J t ( T n o r f a o s r a t n ( T a b p t t o s t w t i a a g a l o t t r t n o i a a g a ( T n o i a a g n r w s ( t d a w a d i b a a t n o f ( A M m c o t f t c w s ( b s t f p a s u t a i e ( T D f M S m p a r s]
+
+
+================================================================================
+
+Raw Text:
+UNOFFICIAL COPY 25 RS BR 1947
+1 AN ACT relating to Medicaid managed care organizations.
+2 Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+3 Section 1. KRS 205.533 is amended to read as follows:
+4 (1) [By January 1, 2019, ]A managed care organization shall establish an interactive
+5 website[Web site], operated by the managed care organization, that allows
+6 providers to file grievances, appeals, and supporting documentation electronically
+7 in an encrypted format that complies with federal law and that allows a provider to
+8 review the current status of a matter relating to an appeal or a grievance filed
+9 concerning a submitted claim.
+10 (2) Each managed care organization's website, established in accordance with
+11 subsection (1) of this section shall include, in a highly visible and easily
+12 accessible manner, the following:
+13 (a) The names of the managed care organization's:
+14 1. Provider relations representatives for behavioral health;
+15 2. Provider relations representatives for physical health; and
+16 3. Provider contract representatives for provider contract changes;
+17 (b) The email address and telephone number for each individual described in
+18 paragraph (a) of this subsection; and
+19 (c) A detailed explanation, written in plain and simple to understand language,
+20 of the managed care organization's process for:
+21 1. Internal appeals; and
+22 2. Providers to request an external, independent third-party review.
+23 (3) Information required to be accessible on a managed care organization's website
+24 pursuant to subsection (2) of this section shall be kept current and updated within
+25 thirty (30) days of any change to the information.
+26 Section 2. KRS 205.534 is amended to read as follows:
+27 (1) A Medicaid managed care organization with whom the Department for Medicaid
+Page 1 of 10
+XXXX 2/19/2025 11:49 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1947
+1 Services contracts for the delivery of Medicaid services shall:
+2 (a) Provide:
+3 1. A toll-free telephone line for providers to contact the insurer for claims
+4 resolution for forty (40) hours a week during normal business hours in
+5 this state;
+6 2. A toll-free telephone line for providers to submit requests for
+7 authorizations of covered services during normal business hours and
+8 extended hours in this state on Monday and Friday through 6 p.m.,
+9 including federal holidays;
+10 3. With regard to any adverse payment or coverage determination, copies
+11 of all documents, records, and other information relevant to a
+12 determination, including medical necessity criteria and any processes,
+13 strategies, or evidentiary standards relied upon, if requested by the
+14 provider. Documents, records, and other information required to be
+15 provided under this paragraph shall be provided at no cost to the
+16 provider; and
+17 4. For any adverse payment or coverage determination, a written reply in
+18 sufficient detail to inform the provider of all reasons for the
+19 determination. The written reply shall include information about the
+20 provider's right to request and receive at no cost to the provider
+21 documents, records, and other information under subparagraph 3. of this
+22 paragraph;
+23 (b) Afford each participating provider the opportunity for an in-person meeting
+24 with a representative of the managed care organization on:
+25 1. Any clean claim that remains unpaid in violation of KRS 304.17A-700
+26 to 304.17A-730; and
+27 2. Any claim that remains unpaid for forty-five (45) days or more after the
+Page 2 of 10
+XXXX 2/19/2025 11:49 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1947
+1 date the claim is received by the managed care organization and that
+2 individually or in the aggregate exceeds two thousand five hundred
+3 dollars ($2,500);
+4 (c) Reprocess claims that are incorrectly paid or denied in error, in compliance
+5 with KRS 304.17A-708. The reprocessing shall not require a provider to rebill
+6 or resubmit claims to obtain correct payment. No claim shall be denied for
+7 timely filing if the initial claim was timely submitted;[ and]
+8 (d) Establish processes for internal appeals, including provisions for:
+9 1. Allowing a provider to file any grievance or appeal related to the
+10 reduction or denial of the claim within one hundred twenty (120)[sixty
+11 (60)] days of receipt of a notification from the managed care
+12 organization that payment for a submitted claim has been reduced or
+13 denied;[ and]
+14 2. a. Ensuring the timely consideration and disposition of any grievance
+15 or any appeal within thirty (30) days from the date the grievance or
+16 appeal is filed with the managed care organization by a provider
+17 under this paragraph.
+18 b. Failure of the managed care organization to comply with
+19 subdivision a. of this subparagraph shall result in:
+20 i. A fine or penalty as provided for in subsection (6) of this
+21 section; or
+22 ii. If related to an unresolved appeal, granting the provider's
+23 appeal to reimburse and reversal of the managed care
+24 organization's reduction or denial of the claim;
+25 3. Ensuring that, following the resolution of an appeal that results in a
+26 determination that a monetary amount is owed to a provider, payment
+27 is made in full to the provider within thirty (30) days from the date on
+Page 3 of 10
+XXXX 2/19/2025 11:49 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1947
+1 which the appeal was resolved. Payments required under this
+2 subparagraph shall include:
+3 a. The monetary amount determined to be owed to the provider plus
+4 twelve percent (12%) interest; and
+5 b. If applicable, reasonable attorney's fees incurred by the provider
+6 to appeal the managed care organization's denial; and
+7 (e) With regard to provider audits:
+8 1. a. Ensure, except as provided in subdivision b. of this
+9 subparagraph, that audit requests are reasonable in regard to the
+10 number of providers being audited, the number of records being
+11 audited, and the timeframe audit records cover by utilizing a
+12 valid sampling methodology to determine which providers may
+13 be audited, the number of records that may be audited, and the
+14 timeframe covered by records that may be audited.
+15 b. The requirement that audit decisions be based on a valid
+16 sampling methodology shall not apply to cases in which an
+17 allegation of fraud, willful misrepresentation, or abuse is made
+18 by the managed care organization.
+19 c. A managed care organization shall notify the Department for
+20 Medicaid Services of any allegations of fraud, willful
+21 misrepresentation, or abuse prior to initiating a provider audit;
+22 2. Provide written notification to a provider that he or she is being
+23 audited. The written notification shall include:
+24 a. The date the written notification was sent to the provider;
+25 b. An explanation of the purpose of the audit;
+26 c. The number of records being audited;
+27 d. The timeframe covered by the records being audited;
+Page 4 of 10
+XXXX 2/19/2025 11:49 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1947
+1 e. The number of calendar days the provider shall be allowed, in
+2 accordance with subparagraph 3. of this paragraph, to provide
+3 or grant access to the requested records;
+4 f. The managed care organization's or, if the managed care
+5 organization has contracted with a third-party to conduct the
+6 audit, the third-party entity's point of contact for the audit,
+7 including the individual's name, telephone number, mailing
+8 address, email address, and fax number; and
+9 g. Complete written instructions for filing an appeal including the
+10 appeal shall be submitted by the provider to the managed care
+11 organization or, if the managed care organization has contracted
+12 with a third-party to conduct the audit, the third-party entity;
+13 3. Allow at least thirty (30) calendar days for a provider to provide or
+14 grant access to the requested records, except that a provider shall be
+15 allowed:
+16 a. A minimum of sixty (60) calendar days if more than thirty (30)
+17 records are being requested or if the timeframe the records cover
+18 is more one (1) year; and
+19 b. Additional time beyond the minimally required thirty (30) or
+20 sixty (60) calendar days if the provider provides justification for
+21 the need for additional time;
+22 4. Limit the timeframe of records requested as part of an audit to not
+23 more than two (2) years from the date on which a claim was submitted
+24 for payment, except that a longer timeframe shall be permitted if
+25 allowed under federal law or if there is evidence of fraud. If evidence
+26 of fraud exists, the managed care organization shall notify the
+27 Department for Medicaid Services of the evidence of fraud prior to
+Page 5 of 10
+XXXX 2/19/2025 11:49 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1947
+1 initiating a provider audit;
+2 5. Complete an audit within one hundred twenty (120) calendar days
+3 from the date on which the written audit notification required under
+4 subparagraph 2. of this paragraph was sent to the provider;
+5 6. Provide written findings of a completed audit to the provider within
+6 thirty (30) calendar days of date on which the audit was completed.
+7 Written audit findings shall:
+8 a. Include the name, phone number, mailing address, email
+9 address, and fax number of the manage care organization's or, if
+10 the managed care organization has contracted with a third-party
+11 to conduct the audit, the third-party entity's point of contact
+12 responsible for the audit findings;
+13 b. Provide claims-level detail of the amounts and reasons for each
+14 claim recovery found to be due; and
+15 c. Clearly state if no amounts have been found to be due;
+16 7. a. Exempt, as provided in subparagraph 8. of this paragraph, a
+17 provider from recoupment of funds if an audit results in the
+18 identification of any clerical or recordkeeping errors, including
+19 typographical errors, scrivener's errors, omissions, or computer
+20 errors, unless the auditing entity provides proof of intent to
+21 commit fraud or the error results in an actual overpayment to the
+22 provider.
+23 b. If an auditing entity discovers or is otherwise in possession of
+24 proof of intent to commit fraud, the auditing entity shall
+25 immediately notify the Department for Medicaid Services;
+26 8. Allow the provider to submit amended claims within thirty (30)
+27 calendar days of the discovery of a clerical or recordkeeping error in
+Page 6 of 10
+XXXX 2/19/2025 11:49 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1947
+1 lieu of recoupment if the services were otherwise provided in
+2 accordance with state and federal law;
+3 9. Not receive payment based on the amount recovered in the audit;
+4 10. Only recoup funds from a provider upon the final disposition of the
+5 audit including the appeals process as established in KRS 205.646;
+6 and
+7 11. Base recoupment of claims on the actual overpayment or
+8 underpayment of claims unless the provider agrees to a settlement to
+9 the contrary.
+10 (2) (a) For the purposes of this subsection:
+11 1. "Timely" means that an authorization or preauthorization request shall
+12 be approved:
+13 a. For an expedited authorization request, within seventy-two (72)
+14 hours after receipt of the request. The timeframe for an expedited
+15 authorization request may be extended by up to fourteen (14) days
+16 if:
+17 i. The enrollee requests an extension; or
+18 ii. The Medicaid managed care organization justifies to the
+19 department a need for additional information and how the
+20 extension is in the enrollee's interest; and
+21 b. For a standard authorization request, within two (2) business days.
+22 The timeframe for a standard authorization request may be
+23 extended by up to fourteen (14) additional days if:
+24 i. The provider or enrollee requests an extension; or
+25 ii. The Medicaid managed care organization justifies to the
+26 department a need for additional information and how the
+27 extension is in the enrollee's interest; and
+Page 7 of 10
+XXXX 2/19/2025 11:49 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1947
+1 2. a. "Expedited authorization request" means a request for
+2 authorization or preauthorization where the provider determines
+3 that following the standard a timeframe could seriously jeopardize
+4 an enrollee's life or health, or ability to attain, maintain, or regain
+5 maximum function; and
+6 b. A request for authorization or preauthorization for treatment of an
+7 enrollee with a diagnosis of substance use disorder shall be
+8 considered an expedited authorization request by the provider and
+9 the managed care organization.
+10 (b) A decision by a managed care organization on an authorization or
+11 preauthorization request for physical, behavioral, or other medically necessary
+12 services shall be made in a timely and consistent manner so that Medicaid
+13 members with comparable medical needs receive a comparable, consistent
+14 level, amount, and duration of services as supported by the member's medical
+15 condition, records, and previous affirmative coverage decisions.
+16 (3) (a) Each managed care organization shall report on a monthly basis to the
+17 department:
+18 1. The number and dollar value of claims received that were denied,
+19 suspended, or approved for payment;
+20 2. The number of requests for authorization of services and the number of
+21 such requests that were approved and denied;
+22 3. The number of internal appeals and grievances filed by members and by
+23 providers and the type of service related to the grievance or appeal, the
+24 total dollar amount of all denials being appealed, the time of
+25 resolution, the number of internal appeals and grievances where the
+26 initial denial was overturned and the type of service and dollar amount
+27 associated with the overturned denials;[ and]
+Page 8 of 10
+XXXX 2/19/2025 11:49 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1947
+1 4. For each internal appeal or grievance not resolved within sixty (60)
+2 calendar days, the name of the provider who filed the unresolved
+3 internal appeal or grievance, the dollar amount of the claim that was
+4 denied if a denial is being appealed, the reason for the delay in
+5 resolving the internal appeal or grievance, the current status of the
+6 internal appeal or grievance, and the outcome determination if
+7 rendered prior to the filing of the report; and
+8 5. Any other information required by the department.
+9 (b) The data required in paragraph (a) of this subsection shall be separately
+10 reported by provider category, as prescribed by the department, and shall at a
+11 minimum include inpatient acute care hospital services, inpatient psychiatric
+12 hospital services, outpatient hospital services, residential behavioral health
+13 services, and outpatient behavioral health services.
+14 (4) On a monthly basis, the department shall transmit to the Department of Insurance a
+15 report of each corrective action plan, fine, or sanction assessed against a Medicaid
+16 managed care organization for violation of a Medicaid managed care organization's
+17 contract relating to prompt payment of claims. The Department of Insurance shall
+18 then make a determination of whether the contract violation was also a violation of
+19 KRS 304.17A-700 to 304.17A-730.
+20 (5) By December 15 of each year beginning in 2025, the Department for Medicaid
+21 Services shall submit to the Legislative Research Commission for referral to the
+22 Interim Joint Committee on Health Services and the Legislative Oversight and
+23 Investigations Committee a report containing the following information reported
+24 separately for each managed care organization with whom the department has
+25 contracted for the delivery of Medicaid services:
+26 (a) The number and dollar value of all claims that were received by the
+27 managed care organization and the number of dollar value of those claims
+Page 9 of 10
+XXXX 2/19/2025 11:49 AM Jacketed
+
+UNOFFICIAL COPY 25 RS BR 1947
+1 that were approved for payment, denied, or suspended;
+2 (b) The number of requests for authorization of services received and the
+3 number of those requests that were approved or denied;
+4 (c) The number of internal appeals and grievances filed by Medicaid members
+5 and by providers, the types of services to which the internal appeals and
+6 grievances relate, the total dollar amount of denials that were appealed, the
+7 average length of time to resolution, the number of internal appeals and
+8 grievances where the initial denial was overturned, and the types of services
+9 and dollar amount of overturned denials; and
+10 (d) The number of internal appeals and grievances not resolved within sixty
+11 (60) calendar days, the ten (10) most common reasons given for delays, the
+12 total dollar amount when a denial is being appealed, and the number of
+13 final determinations made in favor of a provider.
+14 (6) Any Medicaid managed care organization that fails to comply with subsection
+15 (1)(d)2. of this section, KRS 205.522, 205.532 to 205.536, and 304.17A-515 may
+16 be subject to fines, penalties, and sanctions, up to and including termination, as
+17 established under its Medicaid managed care contract with the department.
+18 (7) The Department for Medicaid Services may promulgate administrative
+19 regulations in accordance with KRS Chapter 13A to implement and enforce this
+20 section.
+Page 10 of 10
+XXXX 2/19/2025 11:49 AM Jacketed
+
+[DELETED:  C  2  J A B S ( [ J 1 2 ] m c o w s o b t m c o t a p t f g i r t c s o a m r t a a o a g f c ( E m c o w e i a w s ( o t s s i i a h v a e a ( T 1 P 2 P 3 P f ( T e a a p ( A o 1 I 2 P ( I r p t S ( A]
+[DELETED:  C  2  J S ( P 1 A r t 2 A t t l f p t s r f a o c s d n b h a e h i t s o M a F t 6 p i 3 W o a d r a o i r t a d i m n c a a p s o e s r u i r b t p D r a o i r t b p u t p s b p a n c t t p 4 F s d t i t p o a r f t d T w r s i i a t p r t r a r a n c t t p d p ( A e w 1 A t 2 A]
+[DELETED:  C  2  J d t c i r b t m i o i t a e t t f h d ( R c t a i p w o r c t o c p t ( E 1 A a p t f a g o a r t t r ( d o r o a n f t m c o t p f a s c h b d 2 a E o a u b F o t m c o t c w s i A f o p a p f i s i I r t a u a t r a r o t m c o 3 E t f t d i]
+[DELETED:  C  2  J w t a w r P r u t s a T t b I t d ( W 1 a E e a p i s b o t s n a a t t a r c b u a v s m t d w p m b t b T r t a d b b o a v s m s n a t c i w a a o f w m o a b c A m c o s n t D f M S o a a o f w m a 2 P w n t a p t h o s i b a a T w b A c T d T]
+[DELETED:  C  2  J e T n o c d t p a w s 3 o t p o f T m c o o i t m c o h c w a t t c t a t t e p o c f t a i t i n t n m a g C w i f f a s b s b t p t t o w t 3 A a l t ( c d f a p t p o g a t t r r a a A m r i b A t b t m r t ( o s ( c d t 4 L t t o r r a p o a a t n m f p e t a l t s b p i a o f e t m c o s n t D f M S o t e o f p t]
+[DELETED:  C  2  J i a 5 C a a w o h t ( c d f t d o w t s 6 P w f o a c a t t p w t ( c d o d o w t a w W a I t n p n m a e a t t c t a t t e p o c r b P c c C 7 a E a p i s 8 o t p a p f r o f i a a r i t i o a c o r e i t e s e o o c e u t a e p p o i t c p b I a a e d o i o i p o p o i t c f t a e s i 8 A t p t s a c w t ( c d]
+[DELETED:  C  2  J l o r i t s w o p i a 9 N 1 O r f f a p u t a i t a p a e i K 2 a 1 B r o c o t a o o u o c u t ( ( F 1 " m t a a o p r b a F a e a r w s ( h a i i T i T M m c o j t t d a n f a e b F T t f a s a r m b e i T i T M m c o j t t d a n f a e]
+[DELETED:  C  2  J 2 a " a r m a r f a o p w t p d t a m b A e w a d o s u d s b c t ( A d b a m c o o a a o p s s b m i a t a c m w c m n r a c c l c ( ( E m c o s r o a m b t t d 1 T n a d v o c r t w d s 2 T s 3 T p t d a o a d b a t t o r t n o i a a g w t i a]
+[DELETED:  C  2  J 4 F e i a o g n r w s ( c d t n o t p w f t u i d i a d i b a t r f t d i r t i a o g t c s o t i a o g a t o d i r 5 A ( T d r i p ( o t s s b s r m i i a h s o h s r b h s ( O r m c t K ( B D 1 o S s s I J C o H S a t L O a I C s f e m c o w w t c ( T n a d v o a c t w r b t m]
+[DELETED:  C  2  J t ( T n o r f a o s r a t n ( T a b p t t o s t w t i a a g a l o t t r t n o i a a g a ( T n o i a a g n r w s ( t d a w a d i b a a t n o f ( A M m c o t f t c w s ( b s t f p a s u t a i e ( T D f M S m p a r s]
